@@ -52,7 +52,6 @@ By dosing to blood levels tachyphylaxis should no longer exist, but even before 
 
 > The incidence of tachyphylaxis was 1.7% (2 patients).
 
-
 # Does Tachyphylaxis even exist?
 
 There don't appear to be many studies on the subject, but the more I read on this subject the less confident I am that tachyphylaxis exists, or if it does the rate at which it occurs.
