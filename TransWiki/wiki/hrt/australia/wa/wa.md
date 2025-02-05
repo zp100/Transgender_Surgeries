@@ -1,25 +1,25 @@
 **HRT in Western Australia (WA)**
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
 HRT in other states of Australia
 
-* [ACT](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/act)
-* [NSW](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/nsw)
-* [QLD](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/qld)
-* [SA](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/sa)
-* [TAS](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/tas)
-* [VIC](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/vic)
+* [ACT](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/act/act.md)
+* [NSW](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nsw/nsw.md)
+* [QLD](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/qld/qld.md)
+* [SA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/sa/sa.md)
+* [TAS](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/tas/tas.md)
+* [VIC](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/vic/vic.md)
 * WA
-* [NT](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/nt)
+* [NT](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nt/nt.md)
 
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia
-* [Telehealth](https://www.reddit.com/r/TransWiki/wiki/hrt/australia#wiki_telehealth) - Doctors who work on line prescribing across Australia
-* Wiki entry for [Australian Psychiatrists & Therapists](https://www.reddit.com/r/TransSurgeriesWiki/wiki/psychs/australia)
+* [Telehealth](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#wiki_telehealth) - Doctors who work on line prescribing across Australia
+* Wiki entry for [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
 * /r/transgenderau [wiki for Western Australia](https://www.reddit.com/r/transgenderau/wiki/resources-wa)
 * Trans Health Australia [Medical Practitioners in Western Australia](http://www.transhealthaustralia.org/index.php/western-australia/6-medical-practitioners-wa)
 * TransFolk of Western Australia - https://www.transfolkofwa.org
@@ -477,4 +477,4 @@ reddit
 
 ---
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

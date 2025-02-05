@@ -1,6 +1,6 @@
 **HRT in New Zealand**
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
@@ -18,7 +18,7 @@ reddit
 
 **Pellets/Implants**
 
-* https://www.reddit.com/r/TransWiki/wiki/hrt/implants#wiki_new_zealand
+* https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md#wiki_new_zealand
 
 **Visiting New Zealand from Overseas**
 
@@ -127,4 +127,4 @@ Facebook
 
 ---
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

@@ -1,25 +1,25 @@
 **HRT in South Australia (SA)**
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
 HRT in other states of Australia
 
-* [ACT](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/act)
-* [NSW](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/nsw)
-* [QLD](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/qld)
+* [ACT](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/act/act.md)
+* [NSW](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nsw/nsw.md)
+* [QLD](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/qld/qld.md)
 * SA
-* [TAS](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/tas)
-* [VIC](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/vic)
-* [WA](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/wa)
-* [NT](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/nt)
+* [TAS](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/tas/tas.md)
+* [VIC](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/vic/vic.md)
+* [WA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/wa/wa.md)
+* [NT](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nt/nt.md)
 
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia, 
-* [Telehealth](https://www.reddit.com/r/TransWiki/wiki/hrt/australia#wiki_telehealth) - Doctors who work on line prescribing across Australia
-* Wiki entry [Australian Psychiatrists & Therapists](https://www.reddit.com/r/TransSurgeriesWiki/wiki/psychs/australia)
+* [Telehealth](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#wiki_telehealth) - Doctors who work on line prescribing across Australia
+* Wiki entry [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
 * [Trans Health SA](http://www.transhealthsa.com/) and [SA PRACTITIONERS’ LIST](http://www.transhealthsa.com/sa-practitioners-list-3/)
 *  *PDF warning* [SA Practitioners List. A Community Directory for Sex and Gender Diverse Persons in South Australia](http://www.transhealthsa.com/wp-content/uploads/2019/05/SA-Practitioners-List-27.05.2019.pdf) - this is quite extensive
 * /r/transgenderau [wiki for South Australia](https://www.reddit.com/r/transgenderau/wiki/resources-sa)
@@ -45,7 +45,7 @@ South Australia is quite bad for gatekeeping and lack of resources so this could
 
 ## The Telehealth Gender Clinic (TTGC)
 
-See the [Bel Gardon](https://www.reddit.com/r/TransWiki/wiki/hrt/australia#wiki_telehealth) on the main Australian wiki page.
+See the [Bel Gardon](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#wiki_telehealth) on the main Australian wiki page.
 
 * https://www.ttgc.com.au
 
@@ -127,7 +127,7 @@ Key details
 
 * Endocrinologist
 * http://www.endocrineconsultantssa.com.au/dr-anthony-tony-roberts/
-* Among other things he prescribes Ethinyl Estradiol (Microgynon 50 ED), which is [not safe](https://www.reddit.com/r/TransWiki/wiki/hrt#wiki_ethinyl_estradiol).
+* Among other things he prescribes Ethinyl Estradiol (Microgynon 50 ED), which is [not safe](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md#wiki_ethinyl_estradiol).
 
 reddit
 
@@ -632,4 +632,4 @@ Key details
 
 ---
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

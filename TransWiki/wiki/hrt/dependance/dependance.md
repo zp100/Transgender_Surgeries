@@ -1,15 +1,15 @@
 **Dependance**
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
 Related wiki pages
 
-* [Implants](https://www.reddit.com/r/TransWiki/wiki/hrt/implants)
-* [Tachyphylaxis](https://www.reddit.com/r/TransWiki/wiki/hrt/tachyphylaxis)
-* [Psychological Effects](https://www.reddit.com/r/TransWiki/wiki/hrt/psychological-effects)
-* [Implant Technology](https://www.reddit.com/r/TransWiki/wiki/hrt/implant-technology)
+* [Implants](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md)
+* [Tachyphylaxis](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/tachyphylaxis/tachyphylaxis.md)
+* [Psychological Effects](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/psychological/psychological.md-effects)
+* [Implant Technology](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implant/implant.md-technology)
 
 # Dependance
 
@@ -65,4 +65,4 @@ Possibly worse, she was given *[conjugated estrogen tablets](https://en.wikipedi
 
 ---
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

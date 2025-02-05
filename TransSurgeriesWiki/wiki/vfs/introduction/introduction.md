@@ -1,15 +1,15 @@
 **VFS Introduction**
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
 # Surgeons by country
 
-* [Australia](https://www.reddit.com/r/TransSurgeriesWiki/wiki/vfs/australia)
-* [Korea](https://www.reddit.com/r/TransSurgeriesWiki/wiki/vfs/korea)
-* [USA](https://www.reddit.com/r/TransSurgeriesWiki/wiki/vfs/usa)
-* [Other](https://www.reddit.com/r/TransSurgeriesWiki/wiki/vfs/other)
+* [Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/australia/australia.md)
+* [Korea](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/korea/korea.md)
+* [USA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/usa/usa.md)
+* [Other](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/other/other.md)
 
 ---
 
@@ -73,4 +73,4 @@ J-Mi on YouTube
 
 ---
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

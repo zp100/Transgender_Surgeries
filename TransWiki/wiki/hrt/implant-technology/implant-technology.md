@@ -1,15 +1,15 @@
 **Hormone Implants Technology**
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
 Related wiki pages
 
-* [Implants](https://www.reddit.com/r/TransWiki/wiki/hrt/implants)
-* [Tachyphylaxis](https://www.reddit.com/r/TransWiki/wiki/hrt/tachyphylaxis)
-* [Dependance](https://www.reddit.com/r/TransWiki/wiki/hrt/dependance)
-* [Psychological Effects](https://www.reddit.com/r/TransWiki/wiki/hrt/psychological-effects)
+* [Implants](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md)
+* [Tachyphylaxis](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/tachyphylaxis/tachyphylaxis.md)
+* [Dependance](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/dependance/dependance.md)
+* [Psychological Effects](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/psychological/psychological.md-effects)
 
 ---
 
@@ -644,4 +644,4 @@ It's not clear how relevant these are, but there's some interesting discussions 
 
 ---
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

@@ -1,6 +1,6 @@
 **Introduction**
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/wiki_index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/wiki_index/wiki_index.md)**
 
 ---
 
@@ -48,13 +48,13 @@ I'm not and never have been in any medical field. My work is far removed from th
 
 # Male to Female (MTF) Surgery
 
-* [Sex Reassignment Surgery \(SRS\)](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/introduction)
-* [Facial Feminization Surgeons \(FFS\)](https://www.reddit.com/r/TransSurgeriesWiki/wiki/ffs/introduction)
-* [Voice Feminization Surgery \(VFS\)](https://www.reddit.com/r/TransSurgeriesWiki/wiki/vfs/introduction)
-* [Breasts](https://www.reddit.com/r/TransSurgeriesWiki/wiki/breasts/introduction)
-* [Hips & Butt](https://www.reddit.com/r/TransSurgeriesWiki/wiki/hips-butt/introduction)
-* [Hair transplant](https://www.reddit.com/r/TransSurgeriesWiki/wiki/hair-transplant/introduction)
-* [Other Surgeries](https://www.reddit.com/r/TransSurgeriesWiki/wiki/other)
+* [Sex Reassignment Surgery \(SRS\)](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md)
+* [Facial Feminization Surgeons \(FFS\)](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/introduction/introduction.md)
+* [Voice Feminization Surgery \(VFS\)](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/introduction/introduction.md)
+* [Breasts](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/breasts/introduction/introduction.md)
+* [Hips & Butt](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hips-butt/introduction/introduction.md)
+* [Hair transplant](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hair-transplant/introduction/introduction.md)
+* [Other Surgeries](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/other/other.md)
 
 <br />
 
@@ -263,7 +263,7 @@ YouTube
 
 ## Facebook
 
-See [r/TransWiki/wiki/facebook](https://www.reddit.com/r/TransWiki/wiki/facebook)
+See [r/TransWiki/wiki/facebook](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/facebook/facebook.md)
 
 <br />
 
@@ -495,7 +495,7 @@ Other
 
 # Piercings
 
-See also the [Piercings](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/introduction#wiki_piercings) section on the SRS page in the wiki.
+See also the [Piercings](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#wiki_piercings) section on the SRS page in the wiki.
 
 reddit
 
@@ -527,7 +527,7 @@ Papers
 
 This discussion ignores money/insurance requirements.
 
-Most surgeons follow the [WPATH Standards of Care](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_wpath_standards_of_care) and it is very difficult to get genital surgery without being on HRT and socially transitioned for at least 12 months (some of this has changed with the new [SOC 8](https://www.reddit.com/r/Transgender_Surgeries/comments/xfanwx/wpath_standards_of_care_version_8_published/)). Two psychiatrist letters are also required by WPATH rules. It is possible to get SRS without social transition, but probably not worth the effort if you intend to transition anytime soon. Getting SRS without HRT is more difficult, but can be done in some circumstances (and its in the [WPATH 8 Standards of Care](https://www.wpath.org/soc8)) - if you do that you will need to go on either estrogen or testosterone afterwards to prevent serious medical problems occurring.
+Most surgeons follow the [WPATH Standards of Care](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index#wiki_wpath_standards_of_care) and it is very difficult to get genital surgery without being on HRT and socially transitioned for at least 12 months (some of this has changed with the new [SOC 8](https://www.reddit.com/r/Transgender_Surgeries/comments/xfanwx/wpath_standards_of_care_version_8_published/)). Two psychiatrist letters are also required by WPATH rules. It is possible to get SRS without social transition, but probably not worth the effort if you intend to transition anytime soon. Getting SRS without HRT is more difficult, but can be done in some circumstances (and its in the [WPATH 8 Standards of Care](https://www.wpath.org/soc8/soc8.md)) - if you do that you will need to go on either estrogen or testosterone afterwards to prevent serious medical problems occurring.
 
 After SRS you have to dilate regularly, so it may be best to leave a (long) gap before other surgeries that could interfere with that schedule. Genital hair removal for SRS should be started at least a year prior to surgery, and probably more. It needs to remain clear for the entire hair growth cycle to be sure its all gone. Any remaining hair may be impossible to remove post-op. There's little research on this, but I would think electrolsys is safer option than laser for genital hair - for face it doesn't matter much of some grows back. Surgeons should be able to provide you with a drawing of the area that needs hair removal. If you remove all the hair then you won't be able to hide surgical scars post-op, should you have them. If the the surgeon says you don't need hair removal for penile inversion becaue they do it during surgery, its not true - it's not guarenteed and you are at risk if internal hair.  Its more correct to say that they don't need it, but you do (ie its your problem not theirs).
 
@@ -561,7 +561,7 @@ reddit
 * [For those who have had both FFS and SRS, which one meant the most to you, would you recommend doing first?](https://www.reddit.com/r/Transgender_Surgeries/comments/ekdkd5/for_those_who_have_had_both_ffs_and_srs_which_one/) by Carah-Maisie in 2020
 * reply to [I want to do all my surgeries in 1 year. What order should I choose?](https://www.reddit.com/r/Transgender_Surgeries/comments/9y3web/i_want_to_do_all_my_surgeries_in_1_year_what/e9y09c4/) in 2018 - *"I had FFS and BA after VFS and it took my voice back to a pre-VFS state. I’m getting it redone in three months. Huge waste of money because I didn’t save it for last."*
 
-BA and [BBL](https://www.reddit.com/r/TransSurgeriesWiki/wiki/hips-butt/introduction#wiki_brazilian_butt_lift) should not be done at the same time as during recovery you're supposed to lie on your back/front respectivly.
+BA and [BBL](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hips-butt/introduction#wiki_brazilian_butt_lift) should not be done at the same time as during recovery you're supposed to lie on your back/front/front.md respectivly.
 
 A women died having multiple surgeries
 
@@ -841,7 +841,7 @@ Papers
 
 # Pre-existing Conditions
 
-See the same entry on the [SRS Introduction](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/introduction) page as some of it is relevant to other types of surgery and I don't have the time to reorganize it.
+See the same entry on the [SRS Introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md) page as some of it is relevant to other types of surgery and I don't have the time to reorganize it.
 
 ---
 
@@ -1054,7 +1054,7 @@ Livestrong
 
 If you have a complaint about your surgeon or want to take legal action.
 
-See also the section in this wiki on [Malpractice insurance in the USA](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_malpractice_insurance_in_the_usa).
+See also the section in this wiki on [Malpractice insurance in the USA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wiki_malpractice_insurance_in_the_usa).
 
 reddit
 
@@ -1443,4 +1443,4 @@ Papers
 
 ---
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

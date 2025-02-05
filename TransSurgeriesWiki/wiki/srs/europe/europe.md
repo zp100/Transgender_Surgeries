@@ -1,19 +1,19 @@
 **SRS in Europe**
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
 SRS in other regions
 
-* [Australia](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/australia)
-* [Canada](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/canada)
-* [Europe](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/europe)
-    * [UK](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/uk)
-* [South America](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/south-america)
-* [Thailand](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/thailand)
-* [USA](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/usa)
-* [Other](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/other)
+* [Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/australia/australia.md)
+* [Canada](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/canada/canada.md)
+* [Europe](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/europe/europe.md)
+    * [UK](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/uk/uk.md)
+* [South America](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/south/south.md-america)
+* [Thailand](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
+* [USA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md)
+* [Other](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/other/other.md)
 
 ---
 
@@ -847,7 +847,7 @@ reddit
 
 Resources
 
-* https://github.com/johanna4711/Trans-in-3-Schritten - a page with lots of links to trans resources
+* https://github.com/johanna4711/Trans/Trans.md-in-3-Schritten - a page with lots of links to trans resources
 
 Forums
 
@@ -3751,4 +3751,4 @@ Lena (of DIY injectable estorgen fame among other things)
 
 ---
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

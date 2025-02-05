@@ -1,6 +1,6 @@
 **FFS in USA**
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 reddit
 
@@ -1626,7 +1626,7 @@ ctpost
 
 # Florida
 
-Many doctors in Florida do not carry malpractice insurance. See the [wiki introduction](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/introduction#wiki_florida) for what this means.
+Many doctors in Florida do not carry malpractice insurance. See the [wiki introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#wiki_florida) for what this means.
 
 <br />
 
@@ -1643,7 +1643,7 @@ Surgeons site
 * [YouTube Channel](https://www.youtube.com/channel/UCi4zOMDm0SnEHR_ENUrkT6w)
 * https://www.instagram.com/mardirossianfacialaesthetics/
 
-Florida Health (Government site), Practitioner Profile says he doesn't carry malpractice insurance. See the wiki [introduction](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_malpractice_insurance_in_the_usa) for the implications of this.
+Florida Health (Government site), Practitioner Profile says he doesn't carry malpractice insurance. See the wiki [introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wiki_malpractice_insurance_in_the_usa) for the implications of this.
 
 * https://appsmqa.doh.state.fl.us/MQASearchServices/HealthcareProviders/Details?LicInd=114782&ProCde=1501 - states *"* ***I have elected not to carry medical malpractice insurance*** *however, I agree to satisfy any adverse judgments up to the minimum amounts pursuant to s. 458.320(5) (g)1, F. S. I understand that I must either post notice in a sign prominently displayed in my reception area or provide a written statement to any person to whom medical services are being provided that I have decided not to carry medical malpractice insurance. I understand that such a sign or notice must contain the wording specified in s. 458.320(5) (g), F.S."*
 
@@ -4481,4 +4481,4 @@ NPI 1417282443
 
 ---
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

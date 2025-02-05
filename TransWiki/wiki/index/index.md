@@ -4,51 +4,51 @@ This is an index to the transgender wiki. So far it contains information mainly 
 
 # HRT
 
-[HRT Introduction](https://www.reddit.com/r/TransWiki/wiki/hrt)
+[HRT Introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md)
 
-## [Implants/Pellets](https://www.reddit.com/r/TransWiki/wiki/hrt/implants)
+## [Implants/Pellets](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md)
 
-* [Tachyphylaxis](https://www.reddit.com/r/TransWiki/wiki/hrt/tachyphylaxis)
-* [Dependance](https://www.reddit.com/r/TransWiki/wiki/hrt/dependance)
-* [Psychological Effects of High Estrogen Levels](https://www.reddit.com/r/TransWiki/wiki/hrt/psychological-effects)
-* [Technology](https://www.reddit.com/r/TransWiki/wiki/hrt/implant-technology)
+* [Tachyphylaxis](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/tachyphylaxis/tachyphylaxis.md)
+* [Dependance](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/dependance/dependance.md)
+* [Psychological Effects of High Estrogen Levels](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/psychological/psychological.md-effects)
+* [Technology](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implant/implant.md-technology)
 
-## [Injections](https://www.reddit.com/r/TransWiki/wiki/hrt/injections)
+## [Injections](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/injections/injections.md)
 
-## [HRT in Australia](https://www.reddit.com/r/TransWiki/wiki/hrt/australia)
+## [HRT in Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md)
 
 * Australian Doctors by State
- * [ACT](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/act)
- * [New South Wales](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/nsw)
- * [Queensland](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/qld)
- * [South Australia](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/sa)
- * [Tasmania](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/tas)
- * [Victoria](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/vic)
- * [Western Australia](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/wa)
- * [Northern Territory](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/nt)
-* [Compounding Pharmacies](https://www.reddit.com/r/TransWiki/wiki/compounding-pharmacies/australia)
-* Endocrinologist [Dr Jonathan Hayes](https://www.reddit.com/r/TransWiki/wiki/hrt/jon-hayes)
+ * [ACT](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/act/act.md)
+ * [New South Wales](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nsw/nsw.md)
+ * [Queensland](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/qld/qld.md)
+ * [South Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/sa/sa.md)
+ * [Tasmania](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/tas/tas.md)
+ * [Victoria](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/vic/vic.md)
+ * [Western Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/wa/wa.md)
+ * [Northern Territory](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nt/nt.md)
+* [Compounding Pharmacies](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/compounding-pharmacies/australia/australia.md)
+* Endocrinologist [Dr Jonathan Hayes](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon/jon.md-hayes)
 
-## [HRT in New Zealand](https://www.reddit.com/r/TransWiki/wiki/hrt/new-zealand)
+## [HRT in New Zealand](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/new/new.md-zealand)
 
 ---
 
 # Psychs & Therapists
 
-*  [Australia](https://www.reddit.com/r/TransSurgeriesWiki/wiki/psychs/australia)
+*  [Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
 
 ---
 
 # Resources by Country
 
-* [Australia](https://www.reddit.com/r/TransWiki/wiki/country/australia)
-* [Canada](https://www.reddit.com/r/TransWiki/wiki/country/canada)
+* [Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/country/australia/australia.md)
+* [Canada](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/country/canada/canada.md)
 
 ---
 
 # Other Resources
 
-* [Facebook](https://www.reddit.com/r/TransWiki/wiki/facebook)
+* [Facebook](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/facebook/facebook.md)
 
 ---
 
@@ -56,45 +56,45 @@ This is an index to the transgender wiki. So far it contains information mainly 
 
 Surgery is associated with r/Transgender_Surgeries
 
-* [Sticky Posts](https://www.reddit.com/r/TransSurgeriesWiki/wiki/sticky-posts) on r/Transgender_Surgeries 
+* [Sticky Posts](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/sticky-posts) on r/Transgender_Surgeries/Transgender_Surgeries.md 
 
-## [Surgery Introduction](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index)
+## [Surgery Introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md)
 
-## [SRS Introduction](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/introduction)
+## [SRS Introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md)
 
-* [Australia](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/australia)
-* [Canada](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/canada)
-* [Europe](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/europe)
-* [South America](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/south-america)
-* [Thailand](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/thailand)
-* [USA](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/usa)
-* [Other](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/other)
+* [Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/australia/australia.md)
+* [Canada](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/canada/canada.md)
+* [Europe](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/europe/europe.md)
+* [South America](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/south/south.md-america)
+* [Thailand](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
+* [USA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md)
+* [Other](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/other/other.md)
 
-## [FFS Introduction](https://www.reddit.com/r/TransSurgeriesWiki/wiki/ffs/introduction)
+## [FFS Introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/introduction/introduction.md)
 
-* [Australia](https://www.reddit.com/r/TransSurgeriesWiki/wiki/ffs/australia)
-* [Europe](https://www.reddit.com/r/TransSurgeriesWiki/wiki/ffs/europe)
-* [Thailand](https://www.reddit.com/r/TransSurgeriesWiki/wiki/ffs/thailand)
-* [USA](https://www.reddit.com/r/TransSurgeriesWiki/wiki/ffs/usa)
-* [Other](https://www.reddit.com/r/TransSurgeriesWiki/wiki/ffs/other)
+* [Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/australia/australia.md)
+* [Europe](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/europe/europe.md)
+* [Thailand](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/thailand/thailand.md)
+* [USA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/usa/usa.md)
+* [Other](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/other/other.md)
 
-## [VFS Introduction](https://www.reddit.com/r/TransSurgeriesWiki/wiki/vfs/introduction)
+## [VFS Introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/introduction/introduction.md)
 
-* [Australia](https://www.reddit.com/r/TransSurgeriesWiki/wiki/vfs/australia)
-* [Korea](https://www.reddit.com/r/TransSurgeriesWiki/wiki/vfs/korea)
-* [USA](https://www.reddit.com/r/TransSurgeriesWiki/wiki/vfs/usa)
-* [Other](https://www.reddit.com/r/TransSurgeriesWiki/wiki/vfs/other)
+* [Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/australia/australia.md)
+* [Korea](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/korea/korea.md)
+* [USA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/usa/usa.md)
+* [Other](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/other/other.md)
 
-## [Breasts](https://www.reddit.com/r/TransSurgeriesWiki/wiki/breasts/introduction)
+## [Breasts](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/breasts/introduction/introduction.md)
 
-## [Hips & Butt](https://www.reddit.com/r/TransSurgeriesWiki/wiki/hips-butt/introduction)
+## [Hips & Butt](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hips-butt/introduction/introduction.md)
 
-## [Hair Removal](https://www.reddit.com/r/TransWiki/wiki/hair-removal)
+## [Hair Removal](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hair/hair.md-removal)
 
-## [Hair Restoration](https://www.reddit.com/r/TransSurgeriesWiki/wiki/hair-transplant/introduction)
+## [Hair Restoration](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hair-transplant/introduction/introduction.md)
 
-## [Local Anesthetics](https://www.reddit.com/r/TransWiki/wiki/hrt/implants)
+## [Local Anesthetics](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md)
 
-## [Weight Loss](https://www.reddit.com/r/TransWiki/wiki/weight-loss)
+## [Weight Loss](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/weight/weight.md-loss)
 
-## [Other Surgeries](https://www.reddit.com/r/TransSurgeriesWiki/wiki/other)
+## [Other Surgeries](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/other/other.md)

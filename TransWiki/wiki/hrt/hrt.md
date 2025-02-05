@@ -1,6 +1,6 @@
 **HRT Introduction**
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
@@ -195,7 +195,7 @@ Other
 * https://crimethinc.com/2022/12/15/producing-transdermal-estrogen-a-do-it-yourself-guide
 * https://noirelabs.net/diy-estradiol-guide
 * https://www.media.mit.edu/publications/open-source-estrogen - Thesis, Open Source Estrogen, by Mary Tsang, "*Submitted to the Program In Media Arts and Sciences, School of Architecture and Planning in partial fulfillment of the  requirements for the degree of Master of Science in Media Arts and Sciences at the Massachusetts Institute of Technology.*", see also Vice article [This Biohacker Is Trying to Help People Make Their Own Estrogen](https://www.vice.com/en/article/xw7z4j/hacking-diy-estrogen-hormones-trans-people) by Mark Hay in 2018
-* https://github.com/lydlid/estrogel-diy-guide-zh_CN - compounding estrogel in Chinese
+* https://github.com/lydlid/estrogel/estrogel.md-diy-guide-zh_CN - compounding estrogel in Chinese
 * https://www.tiktok.com/@jessjessicamusic/video/7241739847780666666
 * https://www.transurself.com
 
@@ -556,7 +556,7 @@ Papers
 
 # Australia
 
-In this Wiki [HRT in Australia](https://www.reddit.com/r/TransWiki/wiki/hrt/australia).
+In this Wiki [HRT in Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md).
 
 The Australian transgender sub /r/transgenderau contains information on HRT in Australia
 
@@ -587,4 +587,4 @@ reddit
 
 ---
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

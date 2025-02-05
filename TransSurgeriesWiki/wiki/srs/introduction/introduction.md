@@ -1,6 +1,6 @@
 **SRS Introduction**
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
@@ -8,14 +8,14 @@
 
 Surgeons by country, including photos.
 
-* [Australia](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/australia)
-* [Canada](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/canada)
-* [Europe](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/europe)
-    * [UK](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/uk)
-* [South America](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/south-america)
-* [Thailand](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/thailand)
-* [USA](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/usa)
-* [Other](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/other)
+* [Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/australia/australia.md)
+* [Canada](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/canada/canada.md)
+* [Europe](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/europe/europe.md)
+    * [UK](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/uk/uk.md)
+* [South America](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/south/south.md-america)
+* [Thailand](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
+* [USA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md)
+* [Other](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/other/other.md)
 
 <br />
 
@@ -562,7 +562,7 @@ reddit
 
 ## Non-binary Surgery
 
-This refers to the surgery itself, rather than a person who's non-binary having a traditional surgery. For that, look under [Real Life Experience](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/introduction#wiki_real_life_experience_.28rle.29).
+This refers to the surgery itself, rather than a person who's non-binary having a traditional surgery. For that, look under [Real Life Experience](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#wiki_real_life_experience_.28rle.29).
 
 While this section is for AMAB, it's also possible for AFAB to have simular results. See reddit users [nonbinaryphallo](https://www.reddit.com/user/nonbinaryphallo/submitted/) and [bonusdickboi](https://www.reddit.com/user/bonusdickboi/submitted/).
 
@@ -903,7 +903,7 @@ Papers
 
 ### Tilapia Skin
 
-See Dr. Alvaro Rodriguez on the Wiki page for [SRS in South America](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/south-america)
+See Dr. Alvaro Rodriguez on the Wiki page for [SRS in South America](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/south/south.md-america)
 
 reddit
 
@@ -1325,7 +1325,7 @@ Stephanie Lynnette in 2021
 
 ## Choosing a surgeon
 
-Moved to the [Surgery Introduction page](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index).
+Moved to the [Surgery Introduction page](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md).
 
 <br />
 
@@ -1539,7 +1539,7 @@ YouTube
 
 ## Real Life Experience (RLE)
 
-The [WPATH Standards of Care](https://www.wpath.org/publications/soc) version 7 require (page 106) one year of living in your preferred gender (and HRT) before genital surgery. The one year is known as [RLE](https://en.wikipedia.org/wiki/Real-life_experience_\(transgender\)), or sometimes RLT (Real Life Test) as in you don't get your SRS without passing it. Note that the WPATH SOC is not a legal requirement, surgeons are not required to follow it, and it is open to some interpretation. See the wiki introduction page on [Medical Guidelines](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_medical_guidelines) for more. Note also that version 8 of the WPATH SOC has some updates in related to this.
+The [WPATH Standards of Care](https://www.wpath.org/publications/soc) version 7 require (page 106) one year of living in your preferred gender (and HRT) before genital surgery. The one year is known as [RLE](https://en.wikipedia.org/wiki/Real-life_experience_\(transgender\)), or sometimes RLT (Real Life Test) as in you don't get your SRS without passing it. Note that the WPATH SOC is not a legal requirement, surgeons are not required to follow it, and it is open to some interpretation. See the wiki introduction page on [Medical Guidelines](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wiki_medical_guidelines) for more. Note also that version 8 of the WPATH SOC has some updates in related to this.
 
 Its possible, though rare, to get SRS without even presenting/identifying female or having any intention of socially transitioning. Lots of trans people don't believe this is possible (and some believe it shouldn't be allowed). You must take estrogen or testosterone afer removing the testicles otherwise you'll be at risk of [osteoporosis](https://en.wikipedia.org/wiki/Osteoporosis) (this is very bad) and other problems. As evidence its possible, and with reputable surgeons:
 
@@ -1683,7 +1683,7 @@ Other
 
 ## Genital Hair Removal
 
-See https://www.reddit.com/r/TransWiki/wiki/hair-removal
+See https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hair/hair.md-removal
 
 <br />
 
@@ -1701,7 +1701,7 @@ reddit
 
 ## Piercings
 
-See also the [Piercings](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_piercings) section in the introduction page of this wiki.
+See also the [Piercings](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wiki_piercings) section in the introduction page of this wiki.
 
 reddit
 
@@ -1792,7 +1792,7 @@ reddit
 
 Move to a separate page
 
-https://www.reddit.com/r/TransWiki/wiki/weight-loss
+https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/weight/weight.md-loss
 
 <br />
 
@@ -2351,7 +2351,7 @@ YouTube
 
 According to wikipedia a vagina ranges from [4.3" to 4.7"](https://en.wikipedia.org/wiki/Human_vaginal_size) during sexual arousal, and the [avergage errect penis length  is 5.17"](https://en.wikipedia.org/wiki/Human_penis_size). However the post-operative trans women's vagina does not stretch.
 
-For complications in depth post-op see wiki entry [Dilation and Depth](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/introduction#wiki_dilation_and_depth)
+For complications in depth post-op see wiki entry [Dilation and Depth](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#wiki_dilation_and_depth)
 
 reddit
 
@@ -3152,7 +3152,7 @@ reddit
 
 ### Death
 
-See [Death](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_death) on the main surgery wiki page.
+See [Death](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wiki_death) on the main surgery wiki page.
 
 <br />
 
@@ -4007,4 +4007,4 @@ Post-op porn, generally its difficult or impossible to find out who the surgeons
 
 ---
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

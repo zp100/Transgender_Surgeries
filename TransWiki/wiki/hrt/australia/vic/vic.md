@@ -1,26 +1,26 @@
 **HRT in Victoria (VIC)**
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
 HRT in other states of Australia
 
-* [ACT](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/act)
-* [NSW](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/nsw)
-* [QLD](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/qld)
-* [SA](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/sa)
-* [TAS](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/tas)
+* [ACT](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/act/act.md)
+* [NSW](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nsw/nsw.md)
+* [QLD](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/qld/qld.md)
+* [SA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/sa/sa.md)
+* [TAS](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/tas/tas.md)
 * VIC
-* [WA](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/wa)
-* [NT](https://www.reddit.com/r/TransWiki/wiki/hrt/australia/nt)
+* [WA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/wa/wa.md)
+* [NT](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nt/nt.md)
 
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia, 
 reddit post [here](https://www.reddit.com/r/transgenderau/comments/he6m2o/ive_started_creating_a_map_of_every_hrt/) by amy-simmons in 2020
-* [Telehealth](https://www.reddit.com/r/TransWiki/wiki/hrt/australia#wiki_telehealth) - Doctors who work on line prescribing across Australia
-* Wiki entry for [Australian Psychiatrists & Therapists](https://www.reddit.com/r/TransSurgeriesWiki/wiki/psychs/australia)
+* [Telehealth](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#wiki_telehealth) - Doctors who work on line prescribing across Australia
+* Wiki entry for [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
 * Trans Health Australia [Medical Practitioners in Victoria & Tasmania](http://www.transhealthaustralia.org/index.php/vic-tas/4-medical-practitioners-vic-tas)
 * /r/transgenderau [wiki for Victoria](https://www.reddit.com/r/transgenderau/wiki/resources-vic)
 * reddit [Mini 'guide' for getting on HRT in Melbs, quick and cheap](https://www.reddit.com/r/transgenderau/comments/f3oo1h/mini_guide_for_getting_on_hrt_in_melbs_quick_and/) by Strange_Bean in 2020
@@ -110,7 +110,7 @@ Doctors doing HRT
 * Michelle Dutton
 * Probably more, but I don't know who
 
-Monash prescribe Ethinyl Estradiol (that's bad, see the [HRT page](https://www.reddit.com/r/TransWiki/wiki/hrt))
+Monash prescribe Ethinyl Estradiol (that's bad, see the [HRT page](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md))
 
 * [MTF HRT Microgynon 50 ED](https://www.reddit.com/r/asktransgender/comments/3y5qh7/mtf_hrt_microgynon_50_ed/) in 2016 - *"I'm 18, mtf and very confused about the medication that I've been prescribed."*
 * reply to [How long will it take to get HRT in Australia?](https://www.reddit.com/r/asktransgender/comments/5795mb/how_long_will_it_take_to_get_hrt_in_australia/d8q2nfx/) by Serenation in 2016 - *"birth control pills were the main hrt prescribed for mtf in Australia because that's what Monash did and they were the biggest gender clinic in Australia, they use microgynon 50 to be exact."*
@@ -186,7 +186,7 @@ Key details
 * https://equinox.org.au/
 * 175 Rose Street, Fitzroy, VIC.
 
-Prescribe Microgynon 30/50, containing [Ethinyl Estradiol](https://www.reddit.com/r/TransWiki/wiki/hrt#wiki_ethinyl_estradiol) (bad) and Premarin (also bad).
+Prescribe Microgynon 30/50, containing [Ethinyl Estradiol](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md#wiki_ethinyl_estradiol) (bad) and Premarin (also bad).
 
 * https://equinox.org.au/resources/
 * June 2019 [Equinox Prescribing Guide for GPs](https://thorneharbour.org/documents/356/hrt-prescribing-guide-for-gps-june-2019-1.pdf) pdf
@@ -1516,4 +1516,4 @@ Other
 
 ---
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

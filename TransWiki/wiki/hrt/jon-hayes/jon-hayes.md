@@ -1,6 +1,6 @@
 **Dr Jonathan Hayes**
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/wiki_index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/wiki_index/wiki_index.md)**
 
 ---
 
@@ -60,4 +60,4 @@ Please note that you won't hear anything until at least the week starting Monday
 
 ---
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/wiki_index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/wiki_index/wiki_index.md)**

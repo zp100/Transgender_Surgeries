@@ -1,22 +1,22 @@
 **Hormone Implants**
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 This page is mostly focused on MTF estrogen implants, but there is also some information about other uses and types of implants (sometimes called pellets).
 
 Related wiki pages
 
-* [Tachyphylaxis](https://www.reddit.com/r/TransWiki/wiki/hrt/tachyphylaxis)
-* [Dependance](https://www.reddit.com/r/TransWiki/wiki/hrt/dependance)
-* [Psychological Effects](https://www.reddit.com/r/TransWiki/wiki/hrt/psychological-effects)
-* [Implant Technology](https://www.reddit.com/r/TransWiki/wiki/hrt/implant-technology)
+* [Tachyphylaxis](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/tachyphylaxis/tachyphylaxis.md)
+* [Dependance](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/dependance/dependance.md)
+* [Psychological Effects](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/psychological/psychological.md-effects)
+* [Implant Technology](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implant/implant.md-technology)
 
 Resources on implants
 
 * Facebook group [HRT Implants/Pellets Info & Support](https://www.facebook.com/groups/2462247927386054/)
 * Many important papers on implants are by [Professor John Studd](https://www.studd.co.uk/)
-* This wiki page on [Implant Technology](https://www.reddit.com/r/TransWiki/wiki/hrt/implant-technology)
+* This wiki page on [Implant Technology](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implant/implant.md-technology)
 
 reddit
 
@@ -192,7 +192,7 @@ Before inserting the implant a local anesthetic of lidocaine is injected, otherw
 
 See the wiki entry on lidocaine inejections
 
-* https://www.reddit.com/r/TransWiki/wiki/local_anesthetic#wiki_lidocaine_injections
+* https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/local_anesthetic/local_anesthetic.md#wiki_lidocaine_injections
 
 <br />
 
@@ -200,13 +200,13 @@ See the wiki entry on lidocaine inejections
 
 # Tachyphylaxis
 
-Doctors may warn you about tachyphylaxis when using implants. Its essentially a tolerance to estrogen, where you experience symptoms of low estrogen levels while actually having very high levels. Its easily avoided with the correct protocol and occurs if you get new implants based on symptoms (ie when you feel bad) rather than when your levels are actually low (using blood tests). [Read more...](https://www.reddit.com/r/TransWiki/wiki/hrt/tachyphylaxis)
+Doctors may warn you about tachyphylaxis when using implants. Its essentially a tolerance to estrogen, where you experience symptoms of low estrogen levels while actually having very high levels. Its easily avoided with the correct protocol and occurs if you get new implants based on symptoms (ie when you feel bad) rather than when your levels are actually low (using blood tests). [Read more...](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/tachyphylaxis/tachyphylaxis.md)
 
 ---
 
 # Dependance
 
-An occasional argument by doctors against implants and higher levels of estrogen is that its addictive. [Read more...](https://www.reddit.com/r/TransWiki/wiki/hrt/dependance)
+An occasional argument by doctors against implants and higher levels of estrogen is that its addictive. [Read more...](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/dependance/dependance.md)
 
 ---
 
@@ -229,9 +229,9 @@ I find high estrogen levels of interest from a psychological point of view
 * Depression is very common in the trans community and anything that helps safely alleviate that is valuable.
 * There's people working on high level estrogen for the physical benefits, but I'm not aware of anyone looking into the psychological side.
 * On of the benefits of implants is that its very easy to achieve high and stable estrogen blood levels.
-* When the Sydney endocrinologist [Dr Jon Hayes](https://www.reddit.com/r/TransWiki/wiki/hrt/jon-hayes) retired there were a small but significant number of trans women who were in serious psychological distress caused by the reduction in blood levels that then followed. These numbers and symptoms seem somewhat similar cis-women suffering PMDD.
+* When the Sydney endocrinologist [Dr Jon Hayes](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon/jon.md-hayes) retired there were a small but significant number of trans women who were in serious psychological distress caused by the reduction in blood levels that then followed. These numbers and symptoms seem somewhat similar cis-women suffering PMDD.
 
-[Read more...](https://www.reddit.com/r/TransWiki/wiki/hrt/psychological-effects)
+[Read more...](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/psychological/psychological.md-effects)
 
 ---
 
@@ -248,7 +248,7 @@ reddit
 
 # Testosterone Implants
 
-Australian endocrinologist [Dr Jonathan Hayes](https://www.reddit.com/r/TransWiki/wiki/hrt/jon-hayes) has prescribed post-op women with low testosterone 50mg testosterone implants (the amount used in men is far higher). These implants are placed on top of the estrogen implants as they are more likely to extrude and you don't want them pushing the estrogen implants out.
+Australian endocrinologist [Dr Jonathan Hayes](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon/jon.md-hayes) has prescribed post-op women with low testosterone 50mg testosterone implants (the amount used in men is far higher). These implants are placed on top of the estrogen implants as they are more likely to extrude and you don't want them pushing the estrogen implants out.
 
 Note that testosterone implants don't last as long as estrogen, so there's likely to be a shortfall in levels before the estrogen implant needs renewing.
 
@@ -276,7 +276,7 @@ Very bad experience using testopel - https://k-con.today/post/172598026877/whats
 
 # Progesterone Implants
 
-Australian endocrinologist [Dr Jonathan Hayes](https://www.reddit.com/r/TransWiki/wiki/hrt/jon-hayes) has prescribed progesterone implants, but they are prone to extrusion (about 10% at one point).
+Australian endocrinologist [Dr Jonathan Hayes](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon/jon.md-hayes) has prescribed progesterone implants, but they are prone to extrusion (about 10% at one point).
 
 reddit
 
@@ -357,7 +357,7 @@ Some doctors can be found by looking on the manufacturer's websites.
 
 ## Australia
 
-This is [here](https://www.reddit.com/r/TransWiki/wiki/hrt/australia).
+This is [here](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md).
 
 ---
 
@@ -798,12 +798,12 @@ reddit
 
 ## Australia
 
-There are two main manufacturers of estrogen implants in Australia, Complementary Compounding Services (CCS) in Ballina and Stenlake in Sydney, plus a couple of others. CCS do make both 3mm and 4.5mm implants, and while Stenlake are known of the 4.5mm implants I believe they can also make the 3mm implants. The reason for either size are discussed above in [Implant Technology](https://www.reddit.com/r/TransWiki/wiki/hrt/implants#wiki_implant_technology).
+There are two main manufacturers of estrogen implants in Australia, Complementary Compounding Services (CCS) in Ballina and Stenlake in Sydney, plus a couple of others. CCS do make both 3mm and 4.5mm implants, and while Stenlake are known of the 4.5mm implants I believe they can also make the 3mm implants. The reason for either size are discussed above in [Implant Technology](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md#wiki_implant_technology).
 
 * https://custommedicine.com.au/
 * https://www.stenlake.com.au/
 
-See [Compounding Pharmacies in Australia](https://www.reddit.com/r/TransWiki/wiki/compounding-pharmacies/australia) for more.
+See [Compounding Pharmacies in Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/compounding-pharmacies/australia/australia.md) for more.
 
 The 4.5mm implant size is a legacy of the international pharmaceutical company manufacturer (Organon Laboratories Limited) that stopped production in 2011. Stenlake produced compatible implants and the endo Dr Jonathan Hayes made a special smaller size for unknown reasons.
 
@@ -1212,4 +1212,4 @@ YouTube
 
 ---
 
-**[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
