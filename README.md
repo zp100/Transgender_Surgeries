@@ -1,6 +1,6 @@
 # Transgender_Surgeries
 
-Backup for the [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries) wiki, created by [u/HiddenStill](https://www.reddit.com/user/HiddenStill). This backup was created by [u/ZachAttack6089](https://www.reddit.com/user/ZachAttack6089/) (message me on Reddit for any inquiries about this repository).
+Backup for the [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries) wiki, created by [u/HiddenStill](https://www.reddit.com/user/HiddenStill). This backup was created by [u/ZachAttack6089](https://www.reddit.com/user/ZachAttack6089/) (message me on Reddit for any inquiries about this repository). I kept the main content intact as much as possible (besides the link marks explained below), but some links were broken (likely due to pages in the wiki being moved), so I changed those to point to the correct pages.
 
 ## Useful Links
 
