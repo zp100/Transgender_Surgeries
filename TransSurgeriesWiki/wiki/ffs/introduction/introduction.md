@@ -128,7 +128,7 @@ Dr. Gary Motykie in 2022
 
 This is non-surgical and not what we normally refer to as FFS, unless its fat transfer.
 
-The reddit sub r/Botchedsurgeries contains a large number of bad filler results.
+The reddit sub [r/Botchedsurgeries](https://www.reddit.com/r/Botchedsurgeries) contains a large number of bad filler results.
 
 reddit
 
@@ -174,7 +174,7 @@ Seems to refer to fillers and botox.
 
 reddit
 
-* r/Botchedsurgeries - lots of photos of people going to far with fillers
+* [r/Botchedsurgeries](https://www.reddit.com/r/Botchedsurgeries) - lots of photos of people going to far with fillers
 
 YouTube
 
@@ -370,7 +370,7 @@ reddit
 
 ### Hair Loss
 
-See https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wiki_hair_loss
+See [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_hair_loss](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#hair-loss)
 
 reddit
 

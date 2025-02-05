@@ -1626,7 +1626,7 @@ ctpost
 
 # Florida
 
-Many doctors in Florida do not carry malpractice insurance. See the [wiki introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#wiki_florida) for what this means.
+Many doctors in Florida do not carry malpractice insurance. See the [wiki introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#florida) for what this means.
 
 <br />
 
@@ -1643,7 +1643,7 @@ Surgeons site
 * [YouTube Channel](https://www.youtube.com/channel/UCi4zOMDm0SnEHR_ENUrkT6w)
 * https://www.instagram.com/mardirossianfacialaesthetics/
 
-Florida Health (Government site), Practitioner Profile says he doesn't carry malpractice insurance. See the wiki [introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wiki_malpractice_insurance_in_the_usa) for the implications of this.
+Florida Health (Government site), Practitioner Profile says he doesn't carry malpractice insurance. See the wiki [introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#malpractice-insurance-in-the-usa) for the implications of this.
 
 * https://appsmqa.doh.state.fl.us/MQASearchServices/HealthcareProviders/Details?LicInd=114782&ProCde=1501 - states *"* ***I have elected not to carry medical malpractice insurance*** *however, I agree to satisfy any adverse judgments up to the minimum amounts pursuant to s. 458.320(5) (g)1, F. S. I understand that I must either post notice in a sign prominently displayed in my reception area or provide a written statement to any person to whom medical services are being provided that I have decided not to carry medical malpractice insurance. I understand that such a sign or notice must contain the wording specified in s. 458.320(5) (g), F.S."*
 
@@ -4213,7 +4213,7 @@ Legal
 
 * [AG Ferguson: Plastic surgeon must pay $5 million for illegally manipulating consumer ratings](https://www.atg.wa.gov/news/news-releases/ag-ferguson-plastic-surgeon-must-pay-5-million-illegally-manipulating-consumer) by Washington State Office of the Attorney General in 2024
 * [AG Ferguson files lawsuit against Seattle-based plastic surgery clinic for bribing, threatening patients to falsely inflate its online ratings](https://www.atg.wa.gov/news/news-releases/ag-ferguson-files-lawsuit-against-seattle-based-plastic-surgery-clinic-bribing) by Washington State Office of the Attorney General on 29 DEcember 2022 - *"Attorney General Bob Ferguson today filed a federal lawsuit against Allure Esthetic, a major plastic surgery provider in Seattle, and its owner, Dr. Javad Sajan, for falsely and illegally inflating its ratings on online rating platforms such as Yelp and Google. The company intimidated patients into removing negative reviews, and ordered its employees to post fake positive reviews."*
-    * [Discussion](https://www.reddit.com/r/medicine/comments/zygdt7/washington_state_ag_files_lawsuit_against/) on r/medicine
+    * [Discussion](https://www.reddit.com/r/medicine/comments/zygdt7/washington_state_ag_files_lawsuit_against/) on [r/medicine](https://www.reddit.com/r/medicine)
 
 <br />
 

@@ -2558,7 +2558,7 @@ realself
 
 ## Juta Jansi
 
-There have been a number of attempts to make fake reviews and posts about Dr Juta on the r/Transgender_Surgeries over time.
+There have been a number of attempts to make fake reviews and posts about Dr Juta on the [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries) over time.
 
 Location
 
@@ -2573,7 +2573,7 @@ Surgeons sites
 
 **Photo links**
 
-Sales representative on reddit is u/louisdpc999, banned from r/Transgender_Surgeries for repeated [rule 6](https://www.reddit.com/r/Transgender_Surgeries/comments/exrxnh/rule_6_posts_from_those_with_a_commercial/) violations.
+Sales representative on reddit is u/louisdpc999, banned from [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries) for repeated [rule 6](https://www.reddit.com/r/Transgender_Surgeries/comments/exrxnh/rule_6_posts_from_those_with_a_commercial/) violations.
 
 reddit
 

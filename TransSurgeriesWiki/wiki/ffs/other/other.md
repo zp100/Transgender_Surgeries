@@ -564,7 +564,7 @@ YouTube
 
 See the SRS page for more info on some of these surgeons and others in India.
 
-* r/TransSurgeriesWiki/wiki/srs/other#wiki_india
+* [r/TransSurgeriesWiki/wiki/srs/other#wiki_india](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/other/other.md#india)
 
 Transgender India
 

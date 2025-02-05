@@ -10,15 +10,15 @@ There's a lot of discussion/argument about the proper HRT protocol, to the point
 
 ## reddit
 
-* r/AskMtFHRT - normal discussion of HRT
-* ~~r/MtFHRT - very advanced information on HRT~~ 
-* r/TransfemScience
-* r/DrWillPowers
-* r/TransDIY - HRT without a doctor, this sub has a good [wiki](https://www.reddit.com/r/TransDIY/wiki/index)
-* r/estrogel - DIY compounding of topical HRT
-* r/TransDIY_Nonbinary
-* r/MTFHRT_MonoTherapy
-* r/HRT - looks dead
+* [r/AskMtFHRT](https://www.reddit.com/r/AskMtFHRT) - normal discussion of HRT
+* ~~[r/MtFHRT](https://www.reddit.com/r/MtFHRT) - very advanced information on HRT~~ 
+* [r/TransfemScience](https://www.reddit.com/r/TransfemScience)
+* [r/DrWillPowers](https://www.reddit.com/r/DrWillPowers)
+* [r/TransDIY](https://www.reddit.com/r/TransDIY) - HRT without a doctor, this sub has a good [wiki](https://www.reddit.com/r/TransDIY/wiki/index)
+* [r/estrogel](https://www.reddit.com/r/estrogel) - DIY compounding of topical HRT
+* [r/TransDIY_Nonbinary](https://www.reddit.com/r/TransDIY_Nonbinary)
+* [r/MTFHRT_MonoTherapy](https://www.reddit.com/r/MTFHRT_MonoTherapy)
+* [r/HRT](https://www.reddit.com/r/HRT) - looks dead
 
 ## Facebook
 
@@ -26,7 +26,7 @@ Facebook groups
 
 * [NovaTrue](https://www.facebook.com/groups/NovaTrue/permalink/2130966700533462/) is very active on HRT in Sydney.
 * [HRT Implants/Pellets Info & Support](https://www.facebook.com/groups/2462247927386054/)
-* [MTF Trans HRT Hormone Forum](https://www.facebook.com/groups/TransHRT/) has 11k+ members. One of the admins is Beverly Cosgrove (r/BeverlyCosgrove) who has the website https://moderntranshormones.com, and there is a critique of this group on reddit [here](https://www.reddit.com/r/MtFHRT/comments/c4v744/induced_lactation_why_a_woman_doesnt_need_to_bear/es9oy6e/).
+* [MTF Trans HRT Hormone Forum](https://www.facebook.com/groups/TransHRT/) has 11k+ members. One of the admins is Beverly Cosgrove ([r/BeverlyCosgrove](https://www.reddit.com/r/BeverlyCosgrove)) who has the website https://moderntranshormones.com, and there is a critique of this group on reddit [here](https://www.reddit.com/r/MtFHRT/comments/c4v744/induced_lactation_why_a_woman_doesnt_need_to_bear/es9oy6e/).
 
 ## Dr Will Powers
 
@@ -72,7 +72,7 @@ These are all the same thing. E1, E3, and E4 are different.
 
 Look here
 
-* r/TransWiki/wiki/hrt/injections
+* [r/TransWiki/wiki/hrt/injections](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/injections/injections.md)
 
 <br />
 
@@ -156,10 +156,10 @@ Depending on country, injectable estrogen may be available from a pharmaceutical
 
 Subs with information on compounding
 
-* r/estrogel
-* r/TransDIY
-* r/steroids - bodybuilding, but often discusses making injectable medicines
-* r/SteroidsHomebrewing - bodybuilding, the wiki contains lots of interesting information
+* [r/estrogel](https://www.reddit.com/r/estrogel)
+* [r/TransDIY](https://www.reddit.com/r/TransDIY)
+* [r/steroids](https://www.reddit.com/r/steroids) - bodybuilding, but often discusses making injectable medicines
+* [r/SteroidsHomebrewing](https://www.reddit.com/r/SteroidsHomebrewing) - bodybuilding, the wiki contains lots of interesting information
 * The [wiki for r/steroids](https://www.reddit.com/r/steroids/wiki/homebrew/list) provides quite a lot of information on the (home) manufacture of body building steroids, and as far as I understand injectable estrogen uses quite similar processes. One important thing to note is that the various oils used to carry the estrogen have very different properties, and can cause negative reactions in some people - if you have a bad reaction to an injection it may simply to due to the carrier oil rather than the estrogen itself.
 
 reddit
@@ -270,9 +270,9 @@ A few people buy their HRT online without using a doctor. Even fewer compound th
 
 reddit
 
-* r/TransDIY - HRT without a doctor, this sub has a good [wiki](https://www.reddit.com/r/TransDIY/wiki/index)
-* r/DIYHRT
-* r/estrogel - compounding of topical HRT
+* [r/TransDIY](https://www.reddit.com/r/TransDIY) - HRT without a doctor, this sub has a good [wiki](https://www.reddit.com/r/TransDIY/wiki/index)
+* [r/DIYHRT](https://www.reddit.com/r/DIYHRT)
+* [r/estrogel](https://www.reddit.com/r/estrogel) - compounding of topical HRT
 * r diyftm - for trans men, banned for discussing sourcing of testosterone
 * r ftmdiy - for trans men, banned for discussing sourcing of testosterone - see [here](https://www.reddit.com/r/ftm/comments/jl37r4/hey_so_rftmdiy_was_banned_recently/)
 
@@ -454,7 +454,7 @@ Dr Will Powers says [I would gouge out my eyes with a rusty spoon before I use e
 
 reddit subs
 
-* r/FinasterideSyndrome - *"A community dedicated to people suffering effects of 5ar inhibitors, or people who wish to know more about this real constellation of symptoms."*
+* [r/FinasterideSyndrome](https://www.reddit.com/r/FinasterideSyndrome) - *"A community dedicated to people suffering effects of 5ar inhibitors, or people who wish to know more about this real constellation of symptoms."*
 
 reddit
 

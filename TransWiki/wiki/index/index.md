@@ -54,9 +54,9 @@ This is an index to the transgender wiki. So far it contains information mainly 
 
 # Surgery
 
-Surgery is associated with r/Transgender_Surgeries
+Surgery is associated with [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries)
 
-* [Sticky Posts](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/sticky-posts) on r/Transgender_Surgeries/Transgender_Surgeries.md 
+* [Sticky Posts](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/sticky-posts) on [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries)
 
 ## [Surgery Introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md)
 

@@ -44,13 +44,13 @@ Other
 
 Weight loss on reddit
 
-* r/loseit
-* r/FiveTwo
-* r/keto
-* r/loseit
-* r/intermittentfasting
-* r/fasting
-* r/Water_Fasting
+* [r/loseit](https://www.reddit.com/r/loseit)
+* [r/FiveTwo](https://www.reddit.com/r/FiveTwo)
+* [r/keto](https://www.reddit.com/r/keto)
+* [r/loseit](https://www.reddit.com/r/loseit)
+* [r/intermittentfasting](https://www.reddit.com/r/intermittentfasting)
+* [r/fasting](https://www.reddit.com/r/fasting)
+* [r/Water_Fasting](https://www.reddit.com/r/Water_Fasting)
 
 For very large amount of weight loss excess skin may need surgical removal. The reddit fasting sub says that fasting can eliminate this skin through a process called autophagy. I've no idea if that's true.
 
@@ -78,18 +78,18 @@ Tolerance builds over time, so it seems like it would be a good idea to achieve 
 
 I've seen reccomended (from non-medical sources) to start with low dose of semaglutide and increase it as slowly as possible to reduce side effects and keep it effective as long as possible, then change over to tirzepatide when it stops working and do the same. You may need to be on it for life to stop the weight comming back. Tirzepatide is significantly more expensive that semagludtide.
 
-* r/Ozempic - brand name for Semaglutide
-* r/Mounjaro - brand name for Tirzepatide
-* r/Tirzepatide (brand Mounjaro)
-* r/Retatrutide - *"Follow the development of GIP/GLP-1/ glucagon agonist"*
-* r/tirzepatidecompound
-* r/WomensTirzepatide
-* r/TirzepatideRX
-* r/Tirzeglutide - *"A place to offer support and discuss experiences with GLP-1 peptides."*
-* r/Semaglutide - weekly injection (brand Ozempic) or daily oral (brand Rybelsus)
-* r/Peptidesource - Semaglutide and Tirzepatide are peptides
-* r/SemaglutideFreeSpeech - *"Chat open and freely about Semaglutide and similar compounds."*
-* r/SourcingSemaglutide - *"Semaglutide is in short supply at the moment. This community was created to share sources for those with a prescription looking to source Semaglutide."*
+* [r/Ozempic](https://www.reddit.com/r/Ozempic) - brand name for Semaglutide
+* [r/Mounjaro](https://www.reddit.com/r/Mounjaro) - brand name for Tirzepatide
+* [r/Tirzepatide](https://www.reddit.com/r/Tirzepatide) (brand Mounjaro)
+* [r/Retatrutide](https://www.reddit.com/r/Retatrutide) - *"Follow the development of GIP/GLP-1/ glucagon agonist"*
+* [r/tirzepatidecompound](https://www.reddit.com/r/tirzepatidecompound)
+* [r/WomensTirzepatide](https://www.reddit.com/r/WomensTirzepatide)
+* [r/TirzepatideRX](https://www.reddit.com/r/TirzepatideRX)
+* [r/Tirzeglutide](https://www.reddit.com/r/Tirzeglutide) - *"A place to offer support and discuss experiences with GLP-1 peptides."*
+* [r/Semaglutide](https://www.reddit.com/r/Semaglutide) - weekly injection (brand Ozempic) or daily oral (brand Rybelsus)
+* [r/Peptidesource](https://www.reddit.com/r/Peptidesource) - Semaglutide and Tirzepatide are peptides
+* [r/SemaglutideFreeSpeech](https://www.reddit.com/r/SemaglutideFreeSpeech) - *"Chat open and freely about Semaglutide and similar compounds."*
+* [r/SourcingSemaglutide](https://www.reddit.com/r/SourcingSemaglutide) - *"Semaglutide is in short supply at the moment. This community was created to share sources for those with a prescription looking to source Semaglutide."*
 * https://en.wikipedia.org/wiki/Semaglutide
 * https://en.wikipedia.org/wiki/Tirzepatide
 * https://en.wikipedia.org/wiki/Retatrutide - *"Retatrutide (LY-3437943) is an experimental drug for obesity developed by American pharmaceutical company Eli Lilly and Company. It is a triple glucagon hormone receptor agonist (GLP-1, GIP, and GCGR receptors)."*

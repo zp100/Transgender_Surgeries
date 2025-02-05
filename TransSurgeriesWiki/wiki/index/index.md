@@ -68,32 +68,32 @@ If anyone wants to create and maintain some FTM wiki pages, or creates a similar
 
 reddit
 
-* r/phallo - *"A discussion-based subreddit for those curious about, interested in, pursuing, or who have gone through phalloplasty and anyone else who wants to discuss it in a supportive and respectful atmosphere. This sub is not exclusive to trans people, but you are expected to respect all gender identities if you wish to participate here."* - also see their [wiki](https://www.reddit.com/r/phallo/wiki/index)
-* r/EverythingPhallo
-* ~~r/Metoidioplasty~~ - *"A community for anyone who wants to learn more about or share their experience with metoidioplasty. Metoidioplasty is a type of lower surgery for transmasculine individuals and non-binary people."*
-* r/metoidio - *"A discussion-based subreddit for those curious about, interested in, pursuing, or who have gone through metoidioplasty and anyone else who wants to discuss it in a supportive and respectful atmosphere."*
-* r/TopSurgery
-* r/Top_Surgery_Peri
-* r/FTMSurgeryTalk
-* ~~r/ftmbottomsurgery~~ *"This subreddit was banned due to being unmoderated."*
-* r/ftmsurgeryexperience - *"A space for trans men and transmasculine people to share their experience with surgeries or procedures related to transition. Ideally, this sub will function as a resource for those searching for surgeons."*
-* r/ftmperi - *"For trans guys who want/have had periareolar or keyhole top surgery to share and connect with each other."*
-* r/FreedTheNips - *"A supportive, body positive community for nippleless trans and/or non-binary individuals."*
-* r/gynecomastia - *"A place where you can feel free to share your experiences with Gynecomastia. Use this subreddit to learn about, post questions, and discuss any topics relating to gynecomastia. Also, share your success stories of gynecomastia treatments."*
-* r/salmacian - *"A subreddit for people who desire a mixed genital set (for example, a penis and a vagina)."*
-* r/FTMHysto
+* [r/phallo](https://www.reddit.com/r/phallo) - *"A discussion-based subreddit for those curious about, interested in, pursuing, or who have gone through phalloplasty and anyone else who wants to discuss it in a supportive and respectful atmosphere. This sub is not exclusive to trans people, but you are expected to respect all gender identities if you wish to participate here."* - also see their [wiki](https://www.reddit.com/r/phallo/wiki/index)
+* [r/EverythingPhallo](https://www.reddit.com/r/EverythingPhallo)
+* ~~[r/Metoidioplasty](https://www.reddit.com/r/Metoidioplasty)~~ - *"A community for anyone who wants to learn more about or share their experience with metoidioplasty. Metoidioplasty is a type of lower surgery for transmasculine individuals and non-binary people."*
+* [r/metoidio](https://www.reddit.com/r/metoidio) - *"A discussion-based subreddit for those curious about, interested in, pursuing, or who have gone through metoidioplasty and anyone else who wants to discuss it in a supportive and respectful atmosphere."*
+* [r/TopSurgery](https://www.reddit.com/r/TopSurgery)
+* [r/Top_Surgery_Peri](https://www.reddit.com/r/Top_Surgery_Peri)
+* [r/FTMSurgeryTalk](https://www.reddit.com/r/FTMSurgeryTalk)
+* ~~[r/ftmbottomsurgery](https://www.reddit.com/r/ftmbottomsurgery)~~ *"This subreddit was banned due to being unmoderated."*
+* [r/ftmsurgeryexperience](https://www.reddit.com/r/ftmsurgeryexperience) - *"A space for trans men and transmasculine people to share their experience with surgeries or procedures related to transition. Ideally, this sub will function as a resource for those searching for surgeons."*
+* [r/ftmperi](https://www.reddit.com/r/ftmperi) - *"For trans guys who want/have had periareolar or keyhole top surgery to share and connect with each other."*
+* [r/FreedTheNips](https://www.reddit.com/r/FreedTheNips) - *"A supportive, body positive community for nippleless trans and/or non-binary individuals."*
+* [r/gynecomastia](https://www.reddit.com/r/gynecomastia) - *"A place where you can feel free to share your experiences with Gynecomastia. Use this subreddit to learn about, post questions, and discuss any topics relating to gynecomastia. Also, share your success stories of gynecomastia treatments."*
+* [r/salmacian](https://www.reddit.com/r/salmacian) - *"A subreddit for people who desire a mixed genital set (for example, a penis and a vagina)."*
+* [r/FTMHysto](https://www.reddit.com/r/FTMHysto)
 
 Other somewhat related subs
 
-* r/ftm and [wiki](https://www.reddit.com/r/ftm/wiki/index)
-* r/GrowYourTDick - *"The equivalent of r/GrowYourClit, but for FTMs and NBs. For sharing strategies in maximizing bottom growth, DHT creams, and pumping. Ideally for people who don’t mind full body testosterone changes, but we’ll try and help NBs if TERFs ban you from other growth subs. Lurkers and positive comments welcome! Please check out other subreddits for NSFW FTM content."*
-* r/GrowYourClit - *"This subreddit was created to help women learn about the simple, safe, easy and highly beneficial process of growing a larger clit."*
-* r/Minoxbeards
-* ~~r/FtMResourceCenter/comments/cj4xyg/list_of_ftm_specific_subreddits - large list of FTM subs~~
-* r/Seahorse_Dads - *"A safe space for trans men with biological children, whether you're trying, expecting, had an accidental pregnancy, or have already had your children."*
-* r/FtMPorn - *"Gay, straight, solo, group, any kind of porn as long as it is FtM involved!"*
-* r/FTMMenPorn - *"Share masculine porn featuring masculine trans men in masculine roles."*
-* r/Transmascdicks - *"Please only post prosthetic penises! This will be a helpful resource when someone wants to buy a prosthetic but also a fun community to share dick pics... This should be more of an informational page of dick pics rather than a porn/sexual page."*
+* [r/ftm](https://www.reddit.com/r/ftm) and [wiki](https://www.reddit.com/r/ftm/wiki/index)
+* [r/GrowYourTDick](https://www.reddit.com/r/GrowYourTDick) - *"The equivalent of [r/GrowYourClit](https://www.reddit.com/r/GrowYourClit), but for FTMs and NBs. For sharing strategies in maximizing bottom growth, DHT creams, and pumping. Ideally for people who don’t mind full body testosterone changes, but we’ll try and help NBs if TERFs ban you from other growth subs. Lurkers and positive comments welcome! Please check out other subreddits for NSFW FTM content."*
+* [r/GrowYourClit](https://www.reddit.com/r/GrowYourClit) - *"This subreddit was created to help women learn about the simple, safe, easy and highly beneficial process of growing a larger clit."*
+* [r/Minoxbeards](https://www.reddit.com/r/Minoxbeards)
+* ~~[r/FtMResourceCenter/comments/cj4xyg/list_of_ftm_specific_subreddits](https://www.reddit.com/r/FtMResourceCenter/comments/cj4xyg/list_of_ftm_specific_subreddits) - large list of FTM subs~~
+* [r/Seahorse_Dads](https://www.reddit.com/r/Seahorse_Dads) - *"A safe space for trans men with biological children, whether you're trying, expecting, had an accidental pregnancy, or have already had your children."*
+* [r/FtMPorn](https://www.reddit.com/r/FtMPorn) - *"Gay, straight, solo, group, any kind of porn as long as it is FtM involved!"*
+* [r/FTMMenPorn](https://www.reddit.com/r/FTMMenPorn) - *"Share masculine porn featuring masculine trans men in masculine roles."*
+* [r/Transmascdicks](https://www.reddit.com/r/Transmascdicks) - *"Please only post prosthetic penises! This will be a helpful resource when someone wants to buy a prosthetic but also a fun community to share dick pics... This should be more of an informational page of dick pics rather than a porn/sexual page."*
 
 There's some non-binary and FTM groups in Facebook wiki page.
 
@@ -253,7 +253,7 @@ If you search for the surgeons name together with the keywords malpractice, laws
 ## Allure Aesthetics 2022 in USA
 
 [AG Ferguson files lawsuit against Seattle-based plastic surgery clinic for bribing, threatening patients to falsely inflate its online ratings](https://www.atg.wa.gov/news/news-releases/ag-ferguson-files-lawsuit-against-seattle-based-plastic-surgery-clinic-bribing) by Washington State Office of the Attorney General on 29 DEcember 2022 - *"Attorney General Bob Ferguson today filed a federal lawsuit against Allure Esthetic, a major plastic surgery provider in Seattle, and its owner, Dr. Javad Sajan, for* ***falsely and illegally inflating its ratings on online rating platforms such as Yelp and Google. The company intimidated patients into removing negative reviews, and ordered its employees to post fake positive reviews.*** *"*
-    * reddit [Discussion](https://www.reddit.com/r/medicine/comments/zygdt7/washington_state_ag_files_lawsuit_against/) on r/medicine
+    * reddit [Discussion](https://www.reddit.com/r/medicine/comments/zygdt7/washington_state_ag_files_lawsuit_against/) on [r/medicine](https://www.reddit.com/r/medicine)
 
 YouTube
 
@@ -425,7 +425,7 @@ Applies to all plastic surgeries.
 
 reddit
 
-* r/opiates
+* [r/opiates](https://www.reddit.com/r/opiates)
 * [Being on Suboxone While going through SRS surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/1725677/being_on_suboxone_while_going_through_srs_surgery/) by SalStyles in 2023
 * [Cannabis for dilation related pain](https://www.reddit.com/r/Transgender_Surgeries/comments/vkzjz8/cannabis_for_dilation_related_pain/) by princessxha in 2022 - *"... but I really was not fine in weeks 2-4. Dilation was uncharacteristically painful. More painful than most people report. Severe, sharp, burning pain on the inside... I found small quantities (0.2g combusted) of it before each dilation session (3x day) to be a godsend. Smoked pure, no tobacco of course. I would compare the type of pain relief to opiates. You still have the pain but you don’t feel it properly because you’re too fuzzy. It was as ‘mind-numbing’ as strong opiates but without the addiction/danger, constipation and extreme sedation."*
 * reply to [becoming addicted to weed](https://old.reddit.com/r/transgenderUK/comments/lme1ks/becoming_addicted_to_weed/gnxatjo/) by NatsWallis in 2021
@@ -433,7 +433,7 @@ reddit
 * [WARNING FOR RECOVERING OPIATE ADDICTS INTERESTED IN SURGERY](https://www.reddit.com/r/PlasticSurgery/comments/i4913z/warning_for_recovering_opiate_addicts_interested/) by ald47 in 2020
 * [Marijuana and Surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/doe13d/marijuana_and_surgery/) by MeZooey in 2019
 * [Marijuana Extract Post-Op](https://www.reddit.com/r/Transgender_Surgeries/comments/dbku7e/marijuana_extract_postop/) by SinAthena in 2019
-* [What do you do if a person is in need of real pain relief but has a history of painkiller abuse?](https://www.reddit.com/r/medicine/comments/932fr3/what_do_you_do_if_a_person_is_in_need_of_real/) in r/medicine by LegalizeChemistry around 2019
+* [What do you do if a person is in need of real pain relief but has a history of painkiller abuse?](https://www.reddit.com/r/medicine/comments/932fr3/what_do_you_do_if_a_person_is_in_need_of_real/) in [r/medicine](https://www.reddit.com/r/medicine) by LegalizeChemistry around 2019
 * [Smoking four days before breast augmentation](https://www.reddit.com/r/anesthesiology/comments/a0g2uo/smoking_four_days_before_breast_augmentation/) in /r/anesthesiology in 2018
 * [Did you \*really\* quit smoking before your BA?](https://www.reddit.com/r/PlasticSurgery/comments/a0dmrr/did_you_really_quit_smoking_before_your_ba/) in 2018
 * [Anybody here knowledgeable about this?](https://www.reddit.com/r/anesthesiology/comments/93b1bi/anybody_here_knowledgeable_about_this/) in /r/anesthesiology in 2018 - cross post of *Is there any danger in smoking weed the night before getting your wisdom teeth out, along with being a regular smoker?*
@@ -495,17 +495,17 @@ Other
 
 # Piercings
 
-See also the [Piercings](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#wiki_piercings) section on the SRS page in the wiki.
+See also the [Piercings](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#piercings) section on the SRS page in the wiki.
 
 reddit
 
-* r/transbodymods
+* [r/transbodymods](https://www.reddit.com/r/transbodymods)
 * [New bling for post vaginoplasty VCH](https://www.reddit.com/r/transbodymods/comments/1cghxj5/new_bling_for_post_vaginoplasty_vch/) by overundermoon in 2024
 * [SRS/piercing question](https://www.reddit.com/r/asktransgender/comments/9r7m2q/srspiercing_question/) by 2liitle2late
 in 2019
 * [Piercing removal before Vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/dujijy/piercing_removal_before_vaginoplasty/) by  thegoddessunicorn in 2019
 
-There's a sub for piercing, r/piercing, and you can search it for surgery [with this](https://www.reddit.com/r/piercing/search?q=Surgery&restrict_sr=on&include_over_18=on)
+There's a sub for piercing, [r/piercing](https://www.reddit.com/r/piercing), and you can search it for surgery [with this](https://www.reddit.com/r/piercing/search?q=Surgery&restrict_sr=on&include_over_18=on)
 
 Anesthesia Patient Safety Foundation
 
@@ -688,7 +688,7 @@ reddit
 
 * [British gay man ‘tortured’ in Qatar is almost out of HIV medicine, family says.](https://www.reddit.com/r/gaybros/comments/1c1z0tq/british_gay_man_tortured_in_qatar_is_almost_out/) by 0WishToBeFree0 in 2024 - links to Advocate article [](https://www.advocate.com/news/qatar-gay-airline-torture-hiv) in 2024 - *"Forty-four-year-old Manuel Guerrero, who also holds Mexican citizenship, moved to Qatar, where homosexuality is illegal, seven years ago for his work. He was detained on February 4 after being entrapped by law enforcement through a fake Grindr profile, and was held in jail for nearly two months. During that time, Qatari authorities subjected Guerrero to secret nighttime interrogations where they forced him to name other LGBTQ+ people he had relations with, according to his family. After learning of his HIV status, they locked him in solitary confinement and refused to administer his medication... Younes added that "security officers also inflict verbal abuse, extract forced confessions, and deny detainees access to legal counsel, family, and medical care... "They tortured Manuel in the face of the U.K. embassy, and I believe the U.K. government needs to escalate the situation because it's critical and it's not fair," he said. "They must send a clear message to the state of Qatar that they can't do that to a British citizen. They can't torture a British citizen."*
 * [A catch-all answer to "should I go to (insert Middle East country here)?": No you fucking shouldn't.](https://www.reddit.com/r/asktransgender/comments/14p93kl/a_catchall_answer_to_should_i_go_to_insert_middle/) by JesiDoodli in 2023 - *"It is unsafe. It doesn't matter how well you pass, it's unsafe. Even if you've had bottom surgery, are on HRT, it's unsafe. It doesn't matter how deep into the closet you are, if the only people who know you're queer are online. It's unsafe. You could easily be outed, doesn't matter how well you pass, or if you're closeted. This opens the floodgates to harassment, assault, arrest, torture, abuse, even murder. Here, rainbow toys are banned because it's "spreading homosexuality to kids". Now imagine the reception you'll get as an actual queer person."*
-* [On today’s episode of reasons people want us to be bombed and killed.](https://www.reddit.com/r/qatar/comments/yc3nic/on_todays_episode_of_reasons_people_want_us_to_be/) in 24 October 2022 - post in r/qatar about the forced vaginal examination of a australian women transititing thought Qatar, lots of defending what happened
+* [On today’s episode of reasons people want us to be bombed and killed.](https://www.reddit.com/r/qatar/comments/yc3nic/on_todays_episode_of_reasons_people_want_us_to_be/) in 24 October 2022 - post in [r/qatar](https://www.reddit.com/r/qatar) about the forced vaginal examination of a australian women transititing thought Qatar, lots of defending what happened
 * [Australian women sue over Qatar airport strip-searches](https://www.bbc.com/news/world-australia-59288177), BBC News in 2021 - *"The women said they did not consent to the examinations and were not given explanations for what was happening to them. One of the women, who did not want to be named, told the BBC she was "subjected to the most horrifically invasive physical exam". "I was certain that I was either going to be killed by one of the many men that had a gun, or that my husband on the plane was going to be killed," she said in a statement from her lawyer."* 
 * [Australian women invasively examined on Qatar flight set to sue after ‘being ignored’](https://www.smh.com.au/national/australian-women-invasively-examined-on-qatar-flight-are-suing-after-being-ignored-20211114-p598qe.html) in 2021 - *"Seven of the 13 Australian women hauled off a Qatar Airways flight last year and forced to undergo invasive examinations at Doha airport are threatening legal action after more that a year of being ignored by the wealthy gulf state."*
 * ['Some were upset, angry, one was crying': significant concerns over invasive Doha searches](https://www.smh.com.au/politics/federal/some-were-upset-angry-one-was-crying-significant-concerns-over-invasive-doha-searches-20201026-p568lk.html) in 2020
@@ -890,13 +890,13 @@ Papers
 
 reddit
 
-* r/TelogenEffluvium
+* [r/TelogenEffluvium](https://www.reddit.com/r/TelogenEffluvium)
 * [\[Update\] My experience with FFS post surgical recovery and hair loss (so far)](https://www.reddit.com/r/Transgender_Surgeries/comments/10rw3g4/update_my_experience_with_ffs_post_surgical/) by flurbdurbburb in 2023
     * [\[Long Read\] My experience with FFS post surgical recovery and hair loss (so far)](https://www.reddit.com/r/Transgender_Surgeries/comments/y2db43/long_read_my_experience_with_ffs_post_surgical/) by flurbdurbburb in 2022
     * [Total hair loss after FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/xqj7dn/total_hair_loss_after_ffs/) by flurbdurbburb in 2022
 * [Post Op Hairloss](https://www.reddit.com/r/Transgender_Surgeries/comments/g3ufhp/post_op_hairloss/) by hrt_breaker in 2020
-* in r/MtF - [Has anyone experienced a period of significant (head) hair shedding after orchiectomy/srs? Is this normal or is it just me?](https://www.reddit.com/r/MtF/comments/bm3j6t/has_anyone_experienced_a_period_of_significant/) in 2019
-* in r/asktransgender - [Has anyone else experienced a period of significant (head) hair shedding after their orchiectomy/Srs? Is it normal or is it just me?](https://www.reddit.com/r/asktransgender/comments/bm3ije/has_anyone_else_experienced_a_period_of/) in 2019
+* in [r/MtF](https://www.reddit.com/r/MtF) - [Has anyone experienced a period of significant (head) hair shedding after orchiectomy/srs? Is this normal or is it just me?](https://www.reddit.com/r/MtF/comments/bm3j6t/has_anyone_experienced_a_period_of_significant/) in 2019
+* in [r/asktransgender](https://www.reddit.com/r/asktransgender) - [Has anyone else experienced a period of significant (head) hair shedding after their orchiectomy/Srs? Is it normal or is it just me?](https://www.reddit.com/r/asktransgender/comments/bm3ije/has_anyone_else_experienced_a_period_of/) in 2019
 * [Does anyone here have experience with telogen effluvium?](https://www.reddit.com/r/MtF/comments/9y2tti/does_anyone_here_have_experience_with_telogen/) by serindipitous275 in 2019
 * [Surgery and hair loss](https://www.reddit.com/r/curlyhair/comments/7adjwv/surgery_and_hair_loss/) by MuppetManiac in 2018
 * [FFS scar hairloss?](https://www.reddit.com/r/asktransgender/comments/49sk4p/ffs_scar_hairloss/) by throwmeaway4782 in 2016
@@ -913,7 +913,7 @@ https://www.medicalnewstoday.com/articles/321590 - *"* ***Telogen effluvium*** *
 
 reddit
 
-* [Obsessed with opiates after surgery](https://www.reddit.com/r/opiates/comments/obyev0/obsessed_with_opiates_after_surgery/) in 2021 - this is on r/opiates and not trans related
+* [Obsessed with opiates after surgery](https://www.reddit.com/r/opiates/comments/obyev0/obsessed_with_opiates_after_surgery/) in 2021 - this is on [r/opiates](https://www.reddit.com/r/opiates) and not trans related
 * [What opioid withdrawal was like for me](https://www.reddit.com/r/Transgender_Surgeries/comments/img0rg/what_opioid_withdrawal_was_like_for_me/) by notyourdonut in 2020
 
 <br />
@@ -1054,7 +1054,7 @@ Livestrong
 
 If you have a complaint about your surgeon or want to take legal action.
 
-See also the section in this wiki on [Malpractice insurance in the USA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wiki_malpractice_insurance_in_the_usa).
+See also the section in this wiki on [Malpractice insurance in the USA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#malpractice-insurance-in-the-usa).
 
 reddit
 
@@ -1113,7 +1113,7 @@ If you wish to make negative reviews about surgeons read this page that discusse
 ## Allure Aesthetics 2022 in USA
 
 [AG Ferguson files lawsuit against Seattle-based plastic surgery clinic for bribing, threatening patients to falsely inflate its online ratings](https://www.atg.wa.gov/news/news-releases/ag-ferguson-files-lawsuit-against-seattle-based-plastic-surgery-clinic-bribing) by Washington State Office of the Attorney General on 29 DEcember 2022 - *"Attorney General Bob Ferguson today filed a federal lawsuit against Allure Esthetic, a major plastic surgery provider in Seattle, and its owner, Dr. Javad Sajan, for* ***falsely and illegally inflating its ratings on online rating platforms such as Yelp and Google. The company intimidated patients into removing negative reviews, and ordered its employees to post fake positive reviews.*** *"*
-    * reddit [Discussion](https://www.reddit.com/r/medicine/comments/zygdt7/washington_state_ag_files_lawsuit_against/) on r/medicine
+    * reddit [Discussion](https://www.reddit.com/r/medicine/comments/zygdt7/washington_state_ag_files_lawsuit_against/) on [r/medicine](https://www.reddit.com/r/medicine)
 
 YouTube
 

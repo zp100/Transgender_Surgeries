@@ -10,11 +10,11 @@ There's far more in the wiki than the pages listed here, but its a start.
 
 General reddit resources
 
-* r/transgenderau is the Australian trans sub, and look at their [wiki](https://www.reddit.com/r/transgenderau/wiki/index)
-* r/asktransgender is a very large trans sub
-* r/ftm
-* r/mtf
-* r/TransLater for the older trans people
+* [r/transgenderau](https://www.reddit.com/r/transgenderau) is the Australian trans sub, and look at their [wiki](https://www.reddit.com/r/transgenderau/wiki/index)
+* [r/asktransgender](https://www.reddit.com/r/asktransgender) is a very large trans sub
+* [r/ftm](https://www.reddit.com/r/ftm)
+* [r/mtf](https://www.reddit.com/r/mtf)
+* [r/TransLater](https://www.reddit.com/r/TransLater) for the older trans people
 
 Other
 
@@ -61,8 +61,8 @@ Wiki pages
 Other popular destinations for surgery
 
 * [Thailand for genital surgery](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
-* [Facial Team](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/europe/europe.md#wiki_facial_team) in Spain for FFS
-* [Yeson in Korea](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/korea/korea.md#wiki_hyung-tae_kim_.28yeson.29) for Voice Feminization surgery
+* [Facial Team](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/europe/europe.md#facial_team) in Spain for FFS
+* [Yeson in Korea](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/korea/korea.md#hyung-tae_kim_.28yeson.29) for Voice Feminization surgery
 
 <br />
 
@@ -214,7 +214,7 @@ Australian Facebook groups
 
 Other Facebook groups
 
-* r/TransWiki/wiki/facebook
+* [r/TransWiki/wiki/facebook](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/facebook/facebook.md)
 
 <br />
 

@@ -6,7 +6,7 @@
 
 reddit
 
-* r/TransgenderNZ
+* [r/TransgenderNZ](https://www.reddit.com/r/TransgenderNZ)
 * [Starting T in Christchurch](https://www.reddit.com/r/TransgenderNZ/comments/ptlhud/starting_t_in_christchurch/) by qquig in 2021
 * [Disheartened by Wellington Endocrinology department (rant, and in need of advice)](https://www.reddit.com/r/TransgenderNZ/comments/pcilg1/disheartened_by_wellington_endocrinology/) by noot_noot_s in 2021
 * [Not a question, this is a write-up for any trans girls living in Auckland, New Zealand since when I was looking online last year I couldn't find any info](https://www.reddit.com/r/AskMtFHRT/comments/f3mqh2/not_a_question_this_is_a_writeup_for_any_trans/) by slogancontagion in 2020
@@ -18,7 +18,7 @@ reddit
 
 **Pellets/Implants**
 
-* https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md#wiki_new_zealand
+* [https://www.reddit.com/r/TransWiki/wiki/hrt/implants#wiki_new_zealand](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md#new-zealand)
 
 **Visiting New Zealand from Overseas**
 

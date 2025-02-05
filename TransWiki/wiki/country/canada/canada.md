@@ -9,8 +9,8 @@ This page is to collect Canadian trans resources.
 Canadian reddit wiki surgery resources
 
 * [SRS/GCS](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/canada/canada.md)
-* [Facial Feminisation Surgery](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/other/other.md#wiki_canada)
-* [Voice Feminisation Surgery](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/other/other.md#wiki_canada)
+* [Facial Feminisation Surgery](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/other/other.md#canada)
+* [Voice Feminisation Surgery](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/other/other.md#canada)
 
 # National
 
@@ -31,7 +31,7 @@ Canadian reddit wiki surgery resources
 
 reddit
 
-* r/transvancouver/
+* [r/transvancouver/](https://www.reddit.com/r/transvancouver/)
 
 Other
 
@@ -67,7 +67,7 @@ Other
 
 reddit
 
-* r/transontario
+* [r/transontario](https://www.reddit.com/r/transontario)
 
 Other
 

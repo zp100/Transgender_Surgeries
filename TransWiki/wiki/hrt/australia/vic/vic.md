@@ -19,7 +19,7 @@ See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia, 
 reddit post [here](https://www.reddit.com/r/transgenderau/comments/he6m2o/ive_started_creating_a_map_of_every_hrt/) by amy-simmons in 2020
-* [Telehealth](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#wiki_telehealth) - Doctors who work on line prescribing across Australia
+* [Telehealth](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#telehealth) - Doctors who work on line prescribing across Australia
 * Wiki entry for [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
 * Trans Health Australia [Medical Practitioners in Victoria & Tasmania](http://www.transhealthaustralia.org/index.php/vic-tas/4-medical-practitioners-vic-tas)
 * /r/transgenderau [wiki for Victoria](https://www.reddit.com/r/transgenderau/wiki/resources-vic)
@@ -186,7 +186,7 @@ Key details
 * https://equinox.org.au/
 * 175 Rose Street, Fitzroy, VIC.
 
-Prescribe Microgynon 30/50, containing [Ethinyl Estradiol](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md#wiki_ethinyl_estradiol) (bad) and Premarin (also bad).
+Prescribe Microgynon 30/50, containing [Ethinyl Estradiol](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md#ethinyl_estradiol) (bad) and Premarin (also bad).
 
 * https://equinox.org.au/resources/
 * June 2019 [Equinox Prescribing Guide for GPs](https://thorneharbour.org/documents/356/hrt-prescribing-guide-for-gps-june-2019-1.pdf) pdf

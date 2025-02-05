@@ -1417,7 +1417,7 @@ realself
 
 ## Christopher Inglefield
 
-See the [SRS page](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/europe/europe.md#wiki_christopher_inglefield) for more details.
+See the [SRS page](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/europe/europe.md#christopher-inglefield) for more details.
 
 Surgeons sites
 

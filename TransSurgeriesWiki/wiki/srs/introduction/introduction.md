@@ -367,16 +367,16 @@ See the SRS wiki pages for surgeons.
 
 Related reddit subs
 
-* r/M2E - *"If you are considering transitioning from male to eunuch, this forum is here to support you from A to Z."*
-* r/castration - *"Some of the entires are lightly fictionalized, and this sub is inclusive of kink, fetish, fantasy AND fact."*
-* r/Castrations - *"A place to talk about the fantasy or seek advice"*
-* r/CastratedShemales - porn sub
-* r/eunuchs
-* r/neutered - *"This subreddit is a safe space for trans people, and anyone else who may seek to be, or find interest in, being neutered."*
-* r/emptysacks - *"A place for eunuchs, trans people, and the like who have been castrated."*
-* r/emptysackshemales
-* r/orchiectomy - *"Support for those who have had, or wish to have an orchiectomy (medically necessarily or electively). Otherwise known as removal of one (or both) testicles. Removal of both testicles is also called castration. People of all gender walks are welcome here."*
-* r/stirringcastration - seems to be diy castration
+* [r/M2E](https://www.reddit.com/r/M2E) - *"If you are considering transitioning from male to eunuch, this forum is here to support you from A to Z."*
+* [r/castration](https://www.reddit.com/r/castration) - *"Some of the entires are lightly fictionalized, and this sub is inclusive of kink, fetish, fantasy AND fact."*
+* [r/Castrations](https://www.reddit.com/r/Castrations) - *"A place to talk about the fantasy or seek advice"*
+* [r/CastratedShemales](https://www.reddit.com/r/CastratedShemales) - porn sub
+* [r/eunuchs](https://www.reddit.com/r/eunuchs)
+* [r/neutered](https://www.reddit.com/r/neutered) - *"This subreddit is a safe space for trans people, and anyone else who may seek to be, or find interest in, being neutered."*
+* [r/emptysacks](https://www.reddit.com/r/emptysacks) - *"A place for eunuchs, trans people, and the like who have been castrated."*
+* [r/emptysackshemales](https://www.reddit.com/r/emptysackshemales)
+* [r/orchiectomy](https://www.reddit.com/r/orchiectomy) - *"Support for those who have had, or wish to have an orchiectomy (medically necessarily or electively). Otherwise known as removal of one (or both) testicles. Removal of both testicles is also called castration. People of all gender walks are welcome here."*
+* [r/stirringcastration](https://www.reddit.com/r/stirringcastration) - seems to be diy castration
 
 reddit
 
@@ -562,16 +562,16 @@ reddit
 
 ## Non-binary Surgery
 
-This refers to the surgery itself, rather than a person who's non-binary having a traditional surgery. For that, look under [Real Life Experience](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#wiki_real_life_experience_.28rle.29).
+This refers to the surgery itself, rather than a person who's non-binary having a traditional surgery. For that, look under [Real Life Experience](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#real_life_experience_.28rle.29).
 
 While this section is for AMAB, it's also possible for AFAB to have simular results. See reddit users [nonbinaryphallo](https://www.reddit.com/user/nonbinaryphallo/submitted/) and [bonusdickboi](https://www.reddit.com/user/bonusdickboi/submitted/).
 
 Related reddit subs
 
-* r/NonBinary - *"This is a subreddit for people of every stripe who feel that they don't fit into our culture's gender-binary."*
-* r/salmacian - *"A subreddit for people who desire a mixed genital set (for example, a penis and a vagina)."*
-* r/salmacianporn
-* r/AMABwGD - *"This is a support group for all those AMAB folks out there who suffer from bottom dysphoria, but who also don't want to seek a binary gender transition."*
+* [r/NonBinary](https://www.reddit.com/r/NonBinary) - *"This is a subreddit for people of every stripe who feel that they don't fit into our culture's gender-binary."*
+* [r/salmacian](https://www.reddit.com/r/salmacian) - *"A subreddit for people who desire a mixed genital set (for example, a penis and a vagina)."*
+* [r/salmacianporn](https://www.reddit.com/r/salmacianporn)
+* [r/AMABwGD](https://www.reddit.com/r/AMABwGD) - *"This is a support group for all those AMAB folks out there who suffer from bottom dysphoria, but who also don't want to seek a binary gender transition."*
 
 Non-binary wiki
 
@@ -721,8 +721,8 @@ Surgeons who (probably) do this procedure include
 
 reddit
 
-* r/nullo - *"A place to talk about and share images of nullos and nullification, whether fantasy or in practice."*
-* r/anatomicalpenectomy - *"A de-fetishized, anatomical look at severed male genitals."*
+* [r/nullo](https://www.reddit.com/r/nullo) - *"A place to talk about and share images of nullos and nullification, whether fantasy or in practice."*
+* [r/anatomicalpenectomy](https://www.reddit.com/r/anatomicalpenectomy) - *"A de-fetishized, anatomical look at severed male genitals."*
 
 * [Nullification pictures from my surgery](https://www.reddit.com/r/eunuchs/comments/1cu5kld/nullification_pictures_from_my_surgery/) by bethkamolski in 2024
     * [A few extra pics of my penectomy](https://www.reddit.com/r/eunuchs/comments/1cu5yv5/a_few_extra_pics_of_my_penectomy/) by bethkamolski in 2024
@@ -958,7 +958,7 @@ Papers
 
 reddit
 
-* r/urethral_reroute
+* [r/urethral_reroute](https://www.reddit.com/r/urethral_reroute)
 * [Failure](https://www.reddit.com/r/urethral_reroute/comments/1epljcq/failure/) in 2024 - this is with a device that you can find by google searching for "深pa"
 * reply to [pee after surgery. what is it like peeing for the first time after surgery? do you have to learn that? how does it feel compared to before? how long does it take to get used to it? Do you still often reach down and only then realize you don't have to hold anything anymore?](https://www.reddit.com/r/Transgender_Surgeries/comments/xpk10h/pee_after_surgery_what_is_it_like_peeing_for_the/iq5oq6m/) by BettyBob420 in 2022 - *" I had a perineal urethrostomy for several years before bottom surgery that was pretty much identical to post vaginoplasty functional sensation. I had to have the urethrostomy reversed at the beginning of last year in anticipation of vaginoplasty this year..."*
 * [as a update to the urethrostomy done by Dr Jonathan witten, this is the 3 month update for those who were curious.](https://www.reddit.com/r/Transgender_Surgeries/comments/wnmshk/as_a_update_to_the_urethrostomy_done_by_dr/) by  by oogittyboogitty in 2022
@@ -1088,7 +1088,7 @@ It should go without saying, but this is exceptionally dangerous.
 
 reddit
 
-* r/stirringcastration - seems to be a diy castration sub
+* [r/stirringcastration](https://www.reddit.com/r/stirringcastration) - seems to be a diy castration sub
 * reply to [People asking about vial coring so I wrote an article](https://old.reddit.com/r/TransDIY/comments/18380bh/people_asking_about_vial_coring_so_i_wrote_an/kap3qds/), see the articles [Orchiectomy](https://mesityl.substack.com/p/orchiectomy) and [Orchiectomy part 2](https://mesityl.substack.com/p/orchiectomy-part-2)
 * [A warning tale](https://www.reddit.com/r/orchiectomy/comments/182afvw/a_warning_tale/) by IndividualExciting99 in 2023 - *"I have tried several methods of self castration only one had any success??. about 18 weeks ago I injected both testicles with 3mm of hypretonic (30%) saline this was not painful at all and both testicles became swollen. this was about 3 inches in diamiter... All was well after a couple of days both testicles went down. Both were soft with no hard lumps or aparent internal structures. I was smiling inside finally I had done it, what a relief.. a couple of days later my left ball started to swell and was painful. fuck was it painful. codene and ibroprofen together failed to touch the pain. I walked into the local hospital and spoke to triage. at this point my testicle was about 7 inches long 2,5 inches diameter and so tender. triage called the uroligy consultant who felt prodded and poked then he said "this has to come off NOW" so i was admited and a emergengy op scheduled. when I came round it was not nice i reacted badly to the shit they gave to knock me out.. any way this left me wit no left testicle and a right testicle aboy the size of a single peanut... To anyone trying to kill their balls by injection all i can say is DONT"*
 * [Jeez, trans woman prisoner who did her own orchiectomy is now denied estrogen, they'll only give her testosterone](https://www.reddit.com/r/transgenderUK/comments/17scxk9/jeez_trans_woman_prisoner_who_did_her_own/) by  \_shagger\_ in 2023
@@ -1096,10 +1096,10 @@ reddit
 * reply to [Knowing if you're ready..](https://www.reddit.com/r/Transgender_Surgeries/comments/t87wpg/knowing_if_youre_ready/hznx0u5/) by ashleyjm in 2022
 * reply to [Knowing if you're ready..](https://www.reddit.com/r/Transgender_Surgeries/comments/t87wpg/knowing_if_youre_ready/hznx0u5/) by ashleyjm in 2022 - alcohol injections followed by surgeons orchi
 * [Absorption of EstroGel after home orchiectomy](https://www.reddit.com/r/TransDIY/comments/iqpuc1/absorption_of_estrogel_after_home_orchiectomy/) by AshlyBotex in 2020
-* [April 28 on the left, yesterday on the right, after eight stir sessions. Something looks a little different...can’t quite put my finger on it](https://www.reddit.com/r/castration/comments/hlxqir/april_28_on_the_left_yesterday_on_the_right_after/) by stirrednuts in 2020 - there's plenty more in their post history, also look on r/M2E
+* [April 28 on the left, yesterday on the right, after eight stir sessions. Something looks a little different...can’t quite put my finger on it](https://www.reddit.com/r/castration/comments/hlxqir/april_28_on_the_left_yesterday_on_the_right_after/) by stirrednuts in 2020 - there's plenty more in their post history, also look on [r/M2E](https://www.reddit.com/r/M2E)
 * [April 10th. Status on my journey to become an Eunuch.](https://www.reddit.com/r/M2E/comments/fydjux/april_10th_status_on_my_journey_to_become_an/) by Meetoo73 in 2020
-* [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)](https://www.reddit.com/r/transmaxxing/comments/fkuoyl/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020 - in r/transmaxxing 
-* [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)](https://www.reddit.com/r/Boymode/comments/fkuhns/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020 - in r/Boymode 
+* [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)](https://www.reddit.com/r/transmaxxing/comments/fkuoyl/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020 - in [r/transmaxxing](https://www.reddit.com/r/transmaxxing) 
+* [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)](https://www.reddit.com/r/Boymode/comments/fkuhns/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020 - in [r/Boymode](https://www.reddit.com/r/Boymode) 
 * [This is what it looks like with legs closed. On the previous picture my legs were spread. The random scar is from my self surgery and not the doctors fault. I talked to someone in the healthcare system, and they can remove the hair inside the vagina. So I feel a little better now.](https://www.reddit.com/r/Transgender_Surgeries/comments/fn8j7z/this_is_what_it_looks_like_with_legs_closed_on/) by stupidstories in 2020
     * reply to [I had bottom surgery yesterday. Everything went great and now I'm finally done with the whole transitioning phase of being trans. Even bought myself a support shark to help me recover.](https://old.reddit.com/r/lgbt/comments/d8k0qu/i_had_bottom_surgery_yesterday_everything_went/f5pq62g/) by stupidstories in 2019
 * [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)](https://www.reddit.com/r/Boymode/comments/fkuhns/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020
@@ -1224,7 +1224,7 @@ Research
 
 Some cis-women have labiaplasty to alter their labia minora.
 
-* r/LabiaplastySurgery
+* [r/LabiaplastySurgery](https://www.reddit.com/r/LabiaplastySurgery)
 * https://en.wikipedia.org/wiki/Labiaplasty
 * https://en.wikipedia.org/wiki/Clitoral_hood_reduction
 * YouTube - [I Got Surgery To Have A Designer Vagina | Refinery29](https://www.youtube.com/watch?v=jkn6FakBAmA) by Refinery29 in 2021
@@ -1264,9 +1264,9 @@ I'll collect a few results here to illustrate various points of post-op results.
 
 In porn its quite common to obscure the view with hands or toys, and presumably its intentionally as sometimes you'll never find a photo without that.
 
-* r/postoppussy
-* r/postoppussies
-* r/PostOpTransgirls
+* [r/postoppussy](https://www.reddit.com/r/postoppussy)
+* [r/postoppussies](https://www.reddit.com/r/postoppussies)
+* [r/PostOpTransgirls](https://www.reddit.com/r/PostOpTransgirls)
 * https://imgur.com/a/gcOxGQs - porn/unknown surgeon
 * https://imgur.com/gallery/B6Rsi39 - Melissa Hilton/unknown surgeon
 * https://imgur.com/gallery/KG8qLyN - Carmen Casper/unknown surgeon
@@ -1513,7 +1513,7 @@ reddit
 
 YouTube
 
-* [My experience of having SRS while awake - Video](https://www.reddit.com/r/Transgender_Surgeries/comments/g3mn20/my_experience_of_having_srs_while_awake_video/) by  Hazel's Transgender in 2020 - this is reddit's r/hazelrichardson52
+* [My experience of having SRS while awake - Video](https://www.reddit.com/r/Transgender_Surgeries/comments/g3mn20/my_experience_of_having_srs_while_awake_video/) by  Hazel's Transgender in 2020 - this is reddit's [r/hazelrichardson52](https://www.reddit.com/r/hazelrichardson52)
 
 <br />
 
@@ -1539,13 +1539,13 @@ YouTube
 
 ## Real Life Experience (RLE)
 
-The [WPATH Standards of Care](https://www.wpath.org/publications/soc) version 7 require (page 106) one year of living in your preferred gender (and HRT) before genital surgery. The one year is known as [RLE](https://en.wikipedia.org/wiki/Real-life_experience_\(transgender\)), or sometimes RLT (Real Life Test) as in you don't get your SRS without passing it. Note that the WPATH SOC is not a legal requirement, surgeons are not required to follow it, and it is open to some interpretation. See the wiki introduction page on [Medical Guidelines](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wiki_medical_guidelines) for more. Note also that version 8 of the WPATH SOC has some updates in related to this.
+The [WPATH Standards of Care](https://www.wpath.org/publications/soc) version 7 require (page 106) one year of living in your preferred gender (and HRT) before genital surgery. The one year is known as [RLE](https://en.wikipedia.org/wiki/Real-life_experience_\(transgender\)), or sometimes RLT (Real Life Test) as in you don't get your SRS without passing it. Note that the WPATH SOC is not a legal requirement, surgeons are not required to follow it, and it is open to some interpretation. See the wiki introduction page on [Medical Guidelines](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#medical_guidelines) for more. Note also that version 8 of the WPATH SOC has some updates in related to this.
 
 Its possible, though rare, to get SRS without even presenting/identifying female or having any intention of socially transitioning. Lots of trans people don't believe this is possible (and some believe it shouldn't be allowed). You must take estrogen or testosterone afer removing the testicles otherwise you'll be at risk of [osteoporosis](https://en.wikipedia.org/wiki/Osteoporosis) (this is very bad) and other problems. As evidence its possible, and with reputable surgeons:
 
 reddit subs
 
-* r/AMABwGD - *"This is a support group for all those AMAB folks out there who suffer from bottom dysphoria, but who also don't want to seek a binary gender transition."*
+* [r/AMABwGD](https://www.reddit.com/r/AMABwGD) - *"This is a support group for all those AMAB folks out there who suffer from bottom dysphoria, but who also don't want to seek a binary gender transition."*
 
 reddit
 
@@ -1554,7 +1554,7 @@ reddit
 * [I am a Masc NB and had Vaginoplasty with Dr. Meltzer AMA!](https://www.reddit.com/r/AMABwGD/comments/10bx5hk/i_am_a_masc_nb_and_had_vaginoplasty_with_dr/) by segremores in 2023
 * [Penile Inversion surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/mjfg25/penile_inversion_surgery/) by sugarbaby_K in 2021
 * [Is it possible to live as a man but with a man made pussy?](https://www.reddit.com/r/manmadepussy/comments/jtb8qp/is_it_possible_to_live_as_a_man_but_with_a_man/) by cumiko in 2020
-* [Subreddit for people seeking surgery](https://www.reddit.com/r/tucking/comments/khppov/subreddit_for_people_seeking_surgery/) by  AceDragonDaddy in 2020 - annoucning a new (private) sub r/AMABwGD *"This is a support group for all those AMAB folks out there who suffer from bottom dysphoria, without necessarily wanting to go through a binary transition."*
+* [Subreddit for people seeking surgery](https://www.reddit.com/r/tucking/comments/khppov/subreddit_for_people_seeking_surgery/) by  AceDragonDaddy in 2020 - annoucning a new (private) sub [r/AMABwGD](https://www.reddit.com/r/AMABwGD) *"This is a support group for all those AMAB folks out there who suffer from bottom dysphoria, without necessarily wanting to go through a binary transition."*
 * reply to [How much does surgeon choice matter? (Mtf vaginoplasty)](https://www.reddit.com/r/Transgender_Surgeries/comments/ixbr9n/how_much_does_surgeon_choice_matter_mtf/g66pll7/) by TronzAnon in 2020
 * [I am a male from birth with penis. But I wanna be male with vagina! What I have to do? Is it normal?](https://www.reddit.com/r/Transgender_Surgeries/comments/gm8c94/i_am_a_male_from_birth_with_penis_but_i_wanna_be/) by MaleWithPussy in 2020
 * [Anyone had GRS but remained androgynous?](https://www.reddit.com/r/asktransgender/comments/f1qs8z/anyone_had_grs_but_remained_androgynous/) by galjer10n in 2020, and
@@ -1683,7 +1683,7 @@ Other
 
 ## Genital Hair Removal
 
-See https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hair/hair.md-removal
+See [https://www.reddit.com/r/TransWiki/wiki/hair-removal](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hair-removal/hair-removal.md)
 
 <br />
 
@@ -1701,11 +1701,11 @@ reddit
 
 ## Piercings
 
-See also the [Piercings](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wiki_piercings) section in the introduction page of this wiki.
+See also the [Piercings](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#piercings) section in the introduction page of this wiki.
 
 reddit
 
-* r/transbodymods
+* [r/transbodymods](https://www.reddit.com/r/transbodymods)
 * reply to [Would a Prince Albert impact Vaginoplasty?](https://www.reddit.com/r/transbodymods/comments/17mpk3x/would_a_prince_albert_impact_vaginoplasty/k7xbzly/) by FrecklesMcPaws in 2023 - *"I’ve spoken with my partner’s GRS surgeon who’s also one of the most well-known in the US and she assured me for PIV that a PA won’t affect the surgery at all."*
 * [VCH + Fourchette piercings done today - feeling very happy (the GCS was done in 03/2020 by Dr Schaff)](https://www.reddit.com/r/Transgender_Surgeries/comments/rb8h88/vch_fourchette_piercings_done_today_feeling_very/) by sonia_sadhbh in 2021
 * [Will a punctured urethra affect my SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/f4pbpj/will_a_punctured_urethra_affect_my_srs/) by hrt_breaker in 2020 - *"I had a Prince Albert piercing down there and they said it was no big deal and was able just to cut and suture it closed."*
@@ -1739,7 +1739,7 @@ reddit
 
 reddit subs
 
-* r/BallStretching
+* [r/BallStretching](https://www.reddit.com/r/BallStretching)
 
 Jarod Johansen's Ball Stretching Guide
 
@@ -1792,7 +1792,7 @@ reddit
 
 Move to a separate page
 
-https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/weight/weight.md-loss
+[https://www.reddit.com/r/TransWiki/wiki/weight-loss](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/weigh-loss/weight-loss.md)
 
 <br />
 
@@ -1823,7 +1823,7 @@ reddit
 * [(mtf srs) I made a mistake, could have had 6" depth, asked for 5"](https://www.reddit.com/r/Transgender_Surgeries/comments/ixnlv9/mtf_srs_i_made_a_mistake_could_have_had_6_depth/) by tharjaa in 2020
     * [Had srs with Suporn. A lot of issues and concerns, revisions needed?](https://www.reddit.com/r/Transgender_Surgeries/comments/figkje/had_srs_with_suporn_a_lot_of_issues_and_concerns/) by tharjaa in 2020
 
-r/CrohnsDisease
+[r/CrohnsDisease](https://www.reddit.com/r/CrohnsDisease)
 
 <br />
 
@@ -1847,8 +1847,8 @@ Also known as EDS.
 
 Resources
 
-* r/ehlersdanlos - and search the sub for [surgery](https://www.reddit.com/r/ehlersdanlos/search?q=surgery&restrict_sr=on&include_over_18=on&sort=relevance&t=all)
-* r/Trans_Zebras - *"A subreddit dedicated to Transgender "Zebras" For those, not in the know, Zebra is a term used to label people with the chronic condition Ehlers Danlos Syndrome."*
+* [r/ehlersdanlos](https://www.reddit.com/r/ehlersdanlos) - and search the sub for [surgery](https://www.reddit.com/r/ehlersdanlos/search?q=surgery&restrict_sr=on&include_over_18=on&sort=relevance&t=all)
+* [r/Trans_Zebras](https://www.reddit.com/r/Trans_Zebras) - *"A subreddit dedicated to Transgender "Zebras" For those, not in the know, Zebra is a term used to label people with the chronic condition Ehlers Danlos Syndrome."*
 * https://en.wikipedia.org/wiki/Ehlers%E2%80%93Danlos_syndromes - Symptoms may include loose joints, joint pain, stretchy skin, and abnormal scar formation.
 * https://www.ehlers-danlos.com
 
@@ -1955,9 +1955,9 @@ reddit
 
 reddit subs
 
-* r/foreskin_restoration and its wiki r/foreskin_restoration/wiki/index
-* r/Foregen
-* r/restoringdick - *"Photos of dicks throughout the process of foreskin restoration. The NSFW off-shoot of /r/Foreskin_Restoration"*
+* [r/foreskin_restoration](https://www.reddit.com/r/foreskin_restoration) and its wiki [r/foreskin_restoration/wiki/index](https://www.reddit.com/r/foreskin_restoration/wiki/index)
+* [r/Foregen](https://www.reddit.com/r/Foregen)
+* [r/restoringdick](https://www.reddit.com/r/restoringdick) - *"Photos of dicks throughout the process of foreskin restoration. The NSFW off-shoot of /r/Foreskin_Restoration"*
 
 Other
 
@@ -2119,7 +2119,7 @@ Papers
 
 Reddit subs
 
-* r/Healthyhooha - not trans related, but *"This is a sub for safe, open discussion about the maintenance, habits, questions, and tips related to vaginal and vulvular health."*
+* [r/Healthyhooha](https://www.reddit.com/r/Healthyhooha) - not trans related, but *"This is a sub for safe, open discussion about the maintenance, habits, questions, and tips related to vaginal and vulvular health."*
 
 reddit
 
@@ -2332,12 +2332,12 @@ General anesthesia can cause post-op depression.
 reddit
 
 * [3.5 years ago I had grs & 4 months later I tried to commit suic*de. This is what saved me](https://www.reddit.com/r/Transgender_Surgeries/comments/18j5ap8/35_years_ago_i_had_grs_4_months_later_i_tried_to/) by mililanigirl in 2023
-* [I had a 12 hour-long brain surgery a couple of months ago and was in the hospital for 5 days. During that time, I was given oxy, fentanyl, dilauded, and a bunch of other meds. They sent me home with oxy, but I felt sicker than a dog after getting home. Was this due to opiate withdrawal?](https://www.reddit.com/r/opiates/comments/p4xxgo/i_had_a_12_hourlong_brain_surgery_a_couple_of/) in 2021 - this is in r/opiates which contains some interesting discussion on the effects of these drugs
+* [I had a 12 hour-long brain surgery a couple of months ago and was in the hospital for 5 days. During that time, I was given oxy, fentanyl, dilauded, and a bunch of other meds. They sent me home with oxy, but I felt sicker than a dog after getting home. Was this due to opiate withdrawal?](https://www.reddit.com/r/opiates/comments/p4xxgo/i_had_a_12_hourlong_brain_surgery_a_couple_of/) in 2021 - this is in [r/opiates](https://www.reddit.com/r/opiates) which contains some interesting discussion on the effects of these drugs
 * [What opioid withdrawal was like for me](https://www.reddit.com/r/Transgender_Surgeries/comments/img0rg/what_opioid_withdrawal_was_like_for_me/) by notyourdonut in 2020
 * [MtF surgery: what they don't tell you](https://www.reddit.com/r/asktransgender/comments/bnqfnq/mtf_surgery_what_they_dont_tell_you/en8jnsm/) by femme_inside in 2019
 * [Help with partners post Srs depression](https://www.reddit.com/r/mypartneristrans/comments/ba9bj5/help_with_partners_post_srs_depression/) by Mrreaper3695 in 2019
 
- r/opiates has some interesting discussion on post op
+ [r/opiates](https://www.reddit.com/r/opiates) has some interesting discussion on post op
 
 YouTube
 
@@ -2351,7 +2351,7 @@ YouTube
 
 According to wikipedia a vagina ranges from [4.3" to 4.7"](https://en.wikipedia.org/wiki/Human_vaginal_size) during sexual arousal, and the [avergage errect penis length  is 5.17"](https://en.wikipedia.org/wiki/Human_penis_size). However the post-operative trans women's vagina does not stretch.
 
-For complications in depth post-op see wiki entry [Dilation and Depth](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#wiki_dilation_and_depth)
+For complications in depth post-op see wiki entry [Dilation and Depth](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#dilation_and_depth)
 
 reddit
 
@@ -2655,7 +2655,7 @@ reddit
 * reply to [Dilators](https://www.reddit.com/r/Transgender_Surgeries/comments/in7qqw/dilators/g46alyp/) by illyriarose in 2020
 * [Expanding dilator - Made dilation faster and less painful](https://www.reddit.com/r/MtF/comments/hlk4w1/expanding_dilator_made_dilation_faster_and_less/) in 2020
 
-reddit - in r/vaginismus
+reddit - in [r/vaginismus](https://www.reddit.com/r/vaginismus)
 
 * [Milli Malfunction?](https://www.reddit.com/r/vaginismus/comments/njckxr/milli_malfunction/) in 2021
 * [Milli Expandable Dilator](https://www.reddit.com/r/vaginismus/comments/j4fw8m/milli_expandable_dilator/) in 2020
@@ -2690,7 +2690,7 @@ reddit
 * [Neovagina canal rescue utilizing inflatable dilators.](https://www.reddit.com/r/DrWillPowers/comments/si15t2/neovagina_canal_rescue_utilizing_inflatable/) by Drwillpowers in 2022
 * [Did anyone have suggestions for inflatable dilators? Dr. P had suggested this as a good alternative for the candlestick dilators usually given to post-op folks.](https://www.reddit.com/r/DrWillPowers/comments/qv0ift/did_anyone_have_suggestions_for_inflatable/) by  SarcasticNut in 2021
 
-reddit - in r/vaginismus
+reddit - in [r/vaginismus](https://www.reddit.com/r/vaginismus)
 
 * [Mixed Emotions (Cured self and gave self new small problem)](https://www.reddit.com/r/vaginismus/comments/mcekdm/mixed_emotions_cured_self_and_gave_self_new_small/) in 2021 - *"A long time ago, I bought an inflatable plug with the intention of inflating it and birthing it. ... Over time, I was able to get it in uninflated, but with no hope of getting it out equally uninflated. A few weeks ago, I decided to try again. I got it to a size that was probably as thick as a wrist, more or less, and pushed it out. I was very turned on and excited by being able to do this. It burnt just a tiny bit, but it was absolutely nothing in comparison to vaginismus at it's worst. The toy was a pain level I could enjoy as a sadomasochist, which was absoloutely never something I could say about vaginismus. But afterwards, I was touching myself, and I was just... in awe of how "loose" it was. I almost fisted myself, but not quite. I figured this was just in the moment and would snap back to the regular tightness, like how it does/did after dilating or sex, but... it didn't entirely. In the weeks following, I found myself putting a finger in with ease and being totally amazed. It was always difficult to get a finger in before, always, and now I could just do it anytime. I would do it just to prove to myself that it still worked. Whether I was masturbating or just sitting around by myself, I'd do it just to feel how easy it was. I wondered if this meant I was cured, if this is what a normal vagina feels like. ... So, the day before yesterday, I attempted sex without dilating first, and IT WORKED! It went in easily and naturally, with no preparation, like never before, and it felt GOOD! And at first, this is wonderful."*
 * [Biggest dilator goes only halfway](https://www.reddit.com/r/vaginismus/comments/3nul6r/biggest_dilator_goes_only_halfway/) around 2015 - *"I also got myself a small inflatable dildo (it’s the 6 inches inflatable dildo from Lovehoney, if anyone is interested). It’s a great tool, because it’s not as rigid as a plastic dilator, and you can gradually make it bigger when it is already inside of you. With the help of the dildo, I’m now at the point where I can insert the biggest dilator of my set (I have the Velvi kit)."*
@@ -3128,7 +3128,7 @@ reddit subs
 
 See also
 
-*  r/Healthyhooha - *"This is a sub for safe, open discussion about the maintenance, habits, questions, and tips related to vaginal and vulvular health."*
+*  [r/Healthyhooha](https://www.reddit.com/r/Healthyhooha) - *"This is a sub for safe, open discussion about the maintenance, habits, questions, and tips related to vaginal and vulvular health."*
 
 Not necessarily a complication of surgery.
 
@@ -3152,7 +3152,7 @@ reddit
 
 ### Death
 
-See [Death](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wiki_death) on the main surgery wiki page.
+See [Death](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#death) on the main surgery wiki page.
 
 <br />
 
@@ -3379,7 +3379,7 @@ reddit
 
 ### Hair Loss
 
-See [Hair Loss](r/TransSurgeriesWiki/wiki/index#wiki_hair_loss) on main surgery wiki page.
+See [Hair Loss](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#hair-loss) on main surgery wiki page.
 
 <br />
 
@@ -3617,7 +3617,7 @@ Other
 
 reddit subs
 
-* r/Healthyhooha - *"This is a sub for safe, open discussion about the maintenance, habits, questions, and tips related to vaginal and vulvular health."*
+* [r/Healthyhooha](https://www.reddit.com/r/Healthyhooha) - *"This is a sub for safe, open discussion about the maintenance, habits, questions, and tips related to vaginal and vulvular health."*
 
 reddit
 
@@ -3998,9 +3998,9 @@ A collection including Brassard, Chettawut, Bowers, McGinn, and Suporn.
 
 Post-op porn, generally its difficult or impossible to find out who the surgeons were
 
-* r/PostOpTransgirls
-* ~~r/manmadepussy~~
-* r/PostOpTrans
+* [r/PostOpTransgirls](https://www.reddit.com/r/PostOpTransgirls)
+* ~~[r/manmadepussy](https://www.reddit.com/r/manmadepussy)~~
+* [r/PostOpTrans](https://www.reddit.com/r/PostOpTrans)
 * https://www.ashemaletube.com/search/post_op/?sort=re
 
 <br />

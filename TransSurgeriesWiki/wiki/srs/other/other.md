@@ -693,7 +693,7 @@ An image of a LGBTQ Hospital brochure, 2023, in [English](https://imgur.com/a/ZR
 
 reddit
 
-* r/TransgenderMX
+* [r/TransgenderMX](https://www.reddit.com/r/TransgenderMX)
 
 YouTube
 
@@ -883,7 +883,7 @@ reddit
 
 # New Zealand
 
-* r/TransgenderNZ
+* [r/TransgenderNZ](https://www.reddit.com/r/TransgenderNZ)
 * https://www.transnz.net
 * https://www.facebook.com/TransNetworkNZ
 

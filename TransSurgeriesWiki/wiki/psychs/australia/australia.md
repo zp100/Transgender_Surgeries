@@ -7,9 +7,9 @@
 If you're new to this I recommend reading though the links in this section.
 
 * [DSM5](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria)  - Gender Dysphoria (Transgender) Diagnostic Criteria
-    * https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wiki_dsm5
+    * [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_dsm5](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#dsm5)
 * The [WPATH Standards of Care](https://www.wpath.org/publications/soc) are guidelines used my most medical providers for trans people
-    * https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wiki_wpath_standards_of_care
+    * [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_wpath_standards_of_care](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wpath-standards-of-care)
 * PDF [Australian Informed Consent for Gender Affirming Hormone Therapy](https://auspath.org.au/wp-content/uploads/2022/03/AusPATH_Informed-Consent-SoC_A4_2022_FINAL.pdf) by AusPATH in 2022
 
 Gatekeeping (bad)
@@ -58,7 +58,7 @@ Who are the people behind the anti-trans movement in Australia and New Zealand? 
 
 * Roberto D'Angelo, Sydney psychiatrist is a Fellow of the RANZCP and also very active with anti-trans groups both in Australia and abroard.
     * https://transsafety.network/posts/segm-uncovered
-    * wiki entry [below](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md#wiki_roberto_d.27angelo)
+    * wiki entry [below](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md#roberto_d.27angelo)
 * reddit [National Association of Practicing Psychiatrists' (NAPP) webinar with Dr. Hillary Cass](https://www.reddit.com/r/transgenderau/comments/1d6d7pz/national_association_of_practicing_psychiatrists/) in 2024
 * Dr Patrick Clarke
     * https://www.ranzcp.org/college-committees/offices-and-branches/south-australia/contacts - Branch Chair, Dr Patrick Clarke, RANZCP South Australia Branch, PO Box 103, Fullarton SA 5063, Australia. Note this is the [Royal Australian and New Zealand College of Psychiatrists](https://en.wikipedia.org/wiki/Royal_Australian_and_New_Zealand_College_of_Psychiatrists) which is *"the principal organisation representing the medical specialty of psychiatry in Australia and New Zealand and has responsibility for training, examining and awarding the qualification of Fellowship of the College (FRANZCP) to medical practitioners."*
@@ -382,9 +382,9 @@ Google search results for Anne Lawrence, in order in which they appear
 AGP
 
 * https://en.wikipedia.org/wiki/Blanchard%27s_transsexualism_typology
-* r/askAGP - *"A support group for people dealing with autogynephilia."*
-* [search results](https://www.reddit.com/r/asktransgender/search?q=agp&restrict_sr=on&include_over_18=on&sort=relevance&t=all) for AGP on r/asktransgender, which is probably the largest trans sub on reddit
-* [search resutls](https://www.reddit.com/r/asktransgender/search?q=anne+Lawrence&restrict_sr=on&include_over_18=on&sort=relevance&t=all) for Anne Lawrence on r/asktransgender
+* [r/askAGP](https://www.reddit.com/r/askAGP) - *"A support group for people dealing with autogynephilia."*
+* [search results](https://www.reddit.com/r/asktransgender/search?q=agp&restrict_sr=on&include_over_18=on&sort=relevance&t=all) for AGP on [r/asktransgender](https://www.reddit.com/r/asktransgender), which is probably the largest trans sub on reddit
+* [search resutls](https://www.reddit.com/r/asktransgender/search?q=anne+Lawrence&restrict_sr=on&include_over_18=on&sort=relevance&t=all) for Anne Lawrence on [r/asktransgender](https://www.reddit.com/r/asktransgender)
 * [If anyone TG is still clinging bitterly to AGP as any sort of relevant theory, let go of your inherent self hate.](https://www.reddit.com/r/honesttransgender/comments/16lwo8r/if_anyone_tg_is_still_clinging_bitterly_to_agp_as) around 2023 - this is a long discussion on the topic, and Morandi is mentioned [here](https://www.reddit.com/r/honesttransgender/comments/16lwo8r/if_anyone_tg_is_still_clinging_bitterly_to_agp_as/k14y18r/)
 
 Reddit posts related to the video's
@@ -406,7 +406,7 @@ Reddit posts related to the video's
 * Dr James Morandi is a speaker at the [ACPA National Conference](https://mers.cventevents.com/event/e28cd0d9-2e92-4eb9-8949-9a7d27005e07/websitePage:4a9f1ae7-fd5e-40ea-a47b-8748de11f650) in 2024 (this is the Australian Clinical Psychology Conference)
 * The AGE Newspaper - [Easy as visiting the GP: Doctors push for accessible hormone treatment as children’s waitlist swells](https://www.theage.com.au/national/victoria/as-easy-as-going-to-the-gp-doctors-push-for-accessible-hormone-treatment-as-children-s-waitlist-swells-20231219-p5esis.html)  by Michael Bachelard in 2023
 * Brisbane Times - [Easy as visiting the GP: Doctors push for accessible hormone treatment as children’s waitlist swells](https://www.brisbanetimes.com.au/national/victoria/as-easy-as-going-to-the-gp-doctors-push-for-accessible-hormone-treatment-as-children-s-waitlist-swells-20231219-p5esis.html) by Michael Bachelard in 2023
-    * [Transgender healthcare: Doctors push for more accessible gender-affirming hormone treatment](https://www.reddit.com/r/AustralianPolitics/comments/18u91na/transgender_healthcare_doctors_push_for_more/) in 2023 - reddit post on r/AustralianPolitics about the above article
+    * [Transgender healthcare: Doctors push for more accessible gender-affirming hormone treatment](https://www.reddit.com/r/AustralianPolitics/comments/18u91na/transgender_healthcare_doctors_push_for_more/) in 2023 - reddit post on [r/AustralianPolitics](https://www.reddit.com/r/AustralianPolitics) about the above article
 * https://www.transgendermap.com/issues/psychology/james-morandini - this site ranks highly on google, see complaints about the site below
     * https://the-orbit.net/zinniajones/2014/04/open-letter-100-trans-women-stand-against-calpernia-addams-and-andrea-james - the transgender map above is by Andrea James
     * https://jokestress.com/2018/09/26/269

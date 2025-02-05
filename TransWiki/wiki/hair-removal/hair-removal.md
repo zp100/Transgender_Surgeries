@@ -94,7 +94,7 @@ TBA. What laser cannot do.
 
 reddit
 
-* r/LaserDamageSupport
+* [r/LaserDamageSupport](https://www.reddit.com/r/LaserDamageSupport)
 * [Is this normal after lazer؟](https://www.reddit.com/r/Transgender_Surgeries/comments/109x0p5/is_this_normal_after_lazer/) by Honest-Possession195 in 2023
 * [Laser hair removal results after 12 sessions. Each photo represents about 3-4 days regrowth.](https://www.reddit.com/r/Transgender_Surgeries/comments/xvqxnn/laser_hair_removal_results_after_12_sessions_each/) by MarlaRei_Durden48 in 2022
 * [How to avoid scars and burns with laser beard removal?](https://www.reddit.com/r/Transgender_Surgeries/comments/jbnycr/how_to_avoid_scars_and_burns_with_laser_beard/) by stnkl94 in 2020
@@ -500,7 +500,7 @@ Susans
 
 Includes topical (creams) and injections
 
-* https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/local_anesthetic/local_anesthetic.md
+* [https://www.reddit.com/r/TransWiki/wiki/local_anesthetic](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/local_anesthetic/local_anesthetic.md)
 
 <br />
 
@@ -814,7 +814,7 @@ In her video Gallagher quotes a 2006 survey of 232 post-op women, [Patient-repor
 
 Personally I think that paper is a warning to do electrolysis properly rather than taking shortcuts (as some do), and that no surgeon informs patient of the risks associated with their choices. The hair growth cycle for genital hair is 10 months (vs 14 for chin) according to the [Richards-Merhag table](https://hairfreelife.com/life-hair-anagen-categen-telogen-phases/). You'd need at least one cycle to completely remove all hair (possibly multiples of that if you missed any). There's another potential issue that increases in hormone levels can simulate previously dormant folicles causing new hair growth.
 
-Futher information on Dr Sidhbh Gallagher can be found in this wiki [here](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md#wiki_sidhbh_gallagher).
+Futher information on Dr Sidhbh Gallagher can be found in this wiki [here](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md#sidhbh_gallagher).
 
 As an aside, Anne Lawrence is [notorious in the trans community](http://www.tsroadmap.com/info/anne-lawrence.html).
 
@@ -826,7 +826,7 @@ However in the lawsuit [THOMPSON v. RUMER](https://www.courtlistener.com/docket/
 
 > Defendants Kathy L. Rumer D.O., F.A.C.O.S. and Delaware Valley Aesthetics, PLLC d/b/a Rumer Cosmetic Surgery will prove that they complied with the standard of care in performing Roxanne Thompson's gender reassignment surgery on September 13, 2016. *Hair regrowth is a recognized complication of vaginoplasty. Complete hair removal, whether it is done pre-operatively or post-operatively is never guaranteed.* There are differing schools of thought on the subject of hair removal when performing gender reassignment surgery."
 
-Futher information on Dr Kather Rumer can be found in this wiki [here](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md#wiki_kathy_lynn_rumer).
+Futher information on Dr Kather Rumer can be found in this wiki [here](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md#kathy_lynn_rumer).
 
 YouTube
 

@@ -18,7 +18,7 @@ HRT in other states of Australia
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia, 
-* [Telehealth](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#wiki_telehealth) - Doctors who work on line prescribing across Australia
+* [Telehealth](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#telehealth) - Doctors who work on line prescribing across Australia
 * [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
 * Trans Health Australia [Medical Practitioners in Victoria & Tasmania](http://www.transhealthaustralia.org/index.php/vic-tas/4-medical-practitioners-vic-tas)
 * /r/transgenderau [wiki for Tasmania](https://www.reddit.com/r/transgenderau/wiki/resources-tas)

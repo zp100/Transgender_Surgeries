@@ -8,8 +8,8 @@ There's not a lot of trans specific info on BA, so there's a fair amount of cis-
 
 reddit subs
 
-* r/PlasticSurgery
-* https://www.reddit.com/r/TransBreastTimelines - *"A public subreddit for timelines of breast development and changes with hormone therapy in transgender people. If you would prefer to post privately, we suggest r/TransTitsTimelines instead (requires moderator approval)."*
+* [r/PlasticSurgery](https://www.reddit.com/r/PlasticSurgery)
+* https://www.reddit.com/r/TransBreastTimelines - *"A public subreddit for timelines of breast development and changes with hormone therapy in transgender people. If you would prefer to post privately, we suggest [r/TransTitsTimelines](https://www.reddit.com/r/TransTitsTimelines) instead (requires moderator approval)."*
 * https://www.reddit.com/r/TransTitsTimelines - Invite only sub
 
 https://en.wikipedia.org/wiki/Breast_augmentation
@@ -77,8 +77,8 @@ On the site justbreastimplants.com
 
 reddit subs
 
-* r/menWBA
-* r/MooBs_and_FakeBoobs
+* [r/menWBA](https://www.reddit.com/r/menWBA)
+* [r/MooBs_and_FakeBoobs](https://www.reddit.com/r/MooBs_and_FakeBoobs)
 
 reddit
 
@@ -483,7 +483,7 @@ Papers
 
 ## Pectus Excavatum
 
-r/PectusExcavatum
+[r/PectusExcavatum](https://www.reddit.com/r/PectusExcavatum)
 
 https://en.wikipedia.org/wiki/Pectus_excavatum
 
@@ -616,10 +616,10 @@ reddit
 
 reddit subs
 
-* r/trans_lactation - *"A space for trans women and other gender non-conforming folks to share experiences and tips which help to induce lactation."*
-* r/AdultBreastfeeding - *"This is a subreddit devoted to hosting information, discussions, and support about Adult Nursing Relationships (ANR) and Induced Lactation..."*
-* r/malelactationfetish - *"This is a subreddit devoted to hosting information, discussions, and support about Male Lactation"*
-* r/ForbiddenLactation - *"A place for trans and cis males to discuss the forbidden journey into seeking lactation."*
+* [r/trans_lactation](https://www.reddit.com/r/trans_lactation) - *"A space for trans women and other gender non-conforming folks to share experiences and tips which help to induce lactation."*
+* [r/AdultBreastfeeding](https://www.reddit.com/r/AdultBreastfeeding) - *"This is a subreddit devoted to hosting information, discussions, and support about Adult Nursing Relationships (ANR) and Induced Lactation..."*
+* [r/malelactationfetish](https://www.reddit.com/r/malelactationfetish) - *"This is a subreddit devoted to hosting information, discussions, and support about Male Lactation"*
+* [r/ForbiddenLactation](https://www.reddit.com/r/ForbiddenLactation) - *"A place for trans and cis males to discuss the forbidden journey into seeking lactation."*
 
 Induction of Lactation
 
@@ -2269,7 +2269,7 @@ Papers
 
 ### Florida
 
-Note that many doctors in Florida do not carry malpractice insurance. See the [wiki introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#wiki_florida) to see what this means.
+Note that many doctors in Florida do not carry malpractice insurance. See the [wiki introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#florida) to see what this means.
 
 <br />
 
@@ -3464,8 +3464,8 @@ YouTube
 * [Washington attorney general announces plastic surgery lawsuit](https://www.youtube.com/watch?v=heJ8LaNPCkc) by KING 5 in 2022
 * [Transgender Breast Augmentation 600cc Silicone Implants](https://www.youtube.com/watch?v=G_Rqu4R56bM) by realdrseattle in 2019
 * [AG Ferguson files lawsuit against Seattle-based plastic surgery clinic for bribing, threatening patients to falsely inflate its online ratings](https://www.atg.wa.gov/news/news-releases/ag-ferguson-files-lawsuit-against-seattle-based-plastic-surgery-clinic-bribing) by Washington State Office of the Attorney General on 29 December 2022 - *"Attorney General Bob Ferguson today filed a federal lawsuit against Allure Esthetic, a major plastic surgery provider in Seattle, and its owner, Dr. Javad Sajan, for falsely and illegally inflating its ratings on online rating platforms such as Yelp and Google. The company intimidated patients into removing negative reviews, and ordered its employees to post fake positive reviews."*
-    * [Discussion](https://www.reddit.com/r/medicine/comments/zygdt7/washington_state_ag_files_lawsuit_against/) on r/medicine
-    * Another post about this on r/TopSurgery [here](https://www.reddit.com/r/TopSurgery/comments/zypisf/attorney_general_files_lawsuit_against_javad/)
+    * [Discussion](https://www.reddit.com/r/medicine/comments/zygdt7/washington_state_ag_files_lawsuit_against/) on [r/medicine](https://www.reddit.com/r/medicine)
+    * Another post about this on [r/TopSurgery](https://www.reddit.com/r/TopSurgery) [here](https://www.reddit.com/r/TopSurgery/comments/zypisf/attorney_general_files_lawsuit_against_javad/)
 
 Review sites
 

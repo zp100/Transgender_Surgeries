@@ -471,7 +471,7 @@ Video [Mirakler på Riget - Fra mand til kvinde (1:4)](https://www.dr.dk/tv/se/m
 
 Trans Scandinavia - Denmark, Norway, Sweden
 
-* r/transnord
+* [r/transnord](https://www.reddit.com/r/transnord)
 * reddit [Discord server for scandinavian trans*-people](https://www.reddit.com/r/transnord/comments/a59now/discord_server_for_scandinavian_transpeople/)
 * Facebook group [Trans Scandinavia](https://www.facebook.com/groups/2365439467058430/)
 * Discord [Trans Scandinavia](https://discord.com/invite/u7FCHWS)
@@ -515,7 +515,7 @@ Sites
 
 reddit
 
-* r/transnord
+* [r/transnord](https://www.reddit.com/r/transnord)
 * [Concerned that doctors did zero depth without informing me](https://www.reddit.com/r/Transgender_Surgeries/comments/1gu88h6/concerned_that_doctors_did_zero_depth_without/) by  Precious_Cassandra in 2024 - *"I had told the doctor that I didn't care about external aesthetics, but wanted as much depth as possible.  They examined me prior to surgery and said they'd have no problem... There's just no depth.  No matter how I angle the dilator 4-5 cm is all there is.  I can feel hard wall behind that point.  (It isn't a wound or stitches or an obstruction... It's just hard wall in every direction at 4-5 cm."*
 * [SRS in Finland?](https://www.reddit.com/r/transnord/comments/koyo65/srs_in_finland/) by PhilosopherRat in 2020
 * [How do I cope with genital dysphoria and deal with the panic about surgery?](https://www.reddit.com/r/asktransgender/comments/f7pu8o/how_do_i_cope_with_genital_dysphoria_and_deal/) by RecycledTransAccount in 2020
@@ -569,8 +569,8 @@ reddit
 
 reddit
 
-* r/transgenre
-* r/transgenre/wiki
+* [r/transgenre](https://www.reddit.com/r/transgenre)
+* [r/transgenre/wiki](https://www.reddit.com/r/transgenre/wiki)
 * [FRANCE 🇫🇷 : Given how difficult it is to find feedbacks from France, we created a Discord server for trans surgeries specifically for France ! You can submit photos or search for information totally anonymously.](https://www.reddit.com/r/Transgender_Surgeries/comments/kzs32n/france_given_how_difficult_it_is_to_find/) by  prrrmoterw in 2021
 
 YouTube
@@ -847,7 +847,7 @@ reddit
 
 Resources
 
-* https://github.com/johanna4711/Trans/Trans.md-in-3-Schritten - a page with lots of links to trans resources
+* [https://github.com/johanna4711/Trans-in-3-Schritten](https://github.com/johanna4711/Trans/Trans.md-in-3-Schritten) - a page with lots of links to trans resources
 
 Forums
 
@@ -1352,8 +1352,8 @@ reddit
     * [week 2 follow up revision of GRS (surgeon Dr. Merz team Markovsky, Munich Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/un6cvb/week_2_follow_up_revision_of_grs_surgeon_dr_merz/) by RainbowDashieeee in 2022
     * [week 1 follow up revision of GRS (surgeon Dr. Merz team Markovsky, Munich Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/uhmz4p/week_1_follow_up_revision_of_grs_surgeon_dr_merz/) by RainbowDashieeee in 2022
     * [GRS 6 Month follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/t505xy/grs_6_month_follow_up_surgeon_dr_klemenz_team/) by RainbowDashieeee in 2022
-    * [GRS 3 Month follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/r5iuqh/grs_3_month_follow_up_surgeon_dr_klemenz_team/) by RainbowDashieeee in 2021 in r/Transgender_Surgeries
-    * [3 Month Post GRS Munich, Germany AMA](https://www.reddit.com/r/MtF/comments/r5j03k/3_month_post_grs_munich_germany_ama/) by RainbowDashieeee in 2021 in r/MtF
+    * [GRS 3 Month follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/r5iuqh/grs_3_month_follow_up_surgeon_dr_klemenz_team/) by RainbowDashieeee in 2021 in [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries)
+    * [3 Month Post GRS Munich, Germany AMA](https://www.reddit.com/r/MtF/comments/r5j03k/3_month_post_grs_munich_germany_ama/) by RainbowDashieeee in 2021 in [r/MtF](https://www.reddit.com/r/MtF)
     * [GRS 4. Week follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/px2d8n/grs_4_week_follow_up_surgeon_dr_klemenz_team/) by RainbowDashieeee in 2021
     * [GRS 3. Week follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/ps2urh/grs_3_week_follow_up_surgeon_dr_klemenz_team/) by RainbowDashieeee in 2021
     * [GRS 2. Week follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/pnjhqg/grs_2_week_follow_up_surgeon_dr_klemenz_team/) by RainbowDashieeee in 2021
@@ -2020,7 +2020,7 @@ Surgeons sites
 
 reddit
 
-* r/transnord
+* [r/transnord](https://www.reddit.com/r/transnord)
 * [MtF bottom surgery 26 months post op. Iceland](https://www.reddit.com/r/Transgender_Surgeries/comments/kgnujp/mtf_bottom_surgery_26_months_post_op_iceland/) by Monazu in 2020
 * [4 Months post op vag. By Dr. Hannes Sigurjónsson in Iceland](https://www.reddit.com/r/transnord/comments/egtuc6/4_months_post_op_vag_by_dr_hannes_sigurj%C3%B3nsson_in/) by Monazu in 2019
 
@@ -2038,7 +2038,7 @@ YouTube
 
 reddit
 
-* r/TransIreland
+* [r/TransIreland](https://www.reddit.com/r/TransIreland)
 
 <br />
 
@@ -2476,7 +2476,7 @@ reddit
 
 reddit
 
-* r/transnord
+* [r/transnord](https://www.reddit.com/r/transnord)
 * reply to [Surgery MTF](https://www.reddit.com/r/transnord/comments/153z2yu/surgery_mtf/jsmc72q/) by NiveaSkinCream in 2023 - *"Norways SRS surgeon is a god awful person and the rights golden child. He's been going to the media for years, spreading lies about us to make trans people look bad, and trying his best to remove our healthcare, he constantly misgenders us and treats us like shit. He's also the one in charge of all that awful unethical research where he ranked patients attractiveness and passability behind their back to prove gay people are fake trans. He might genuinely be the single worst person at that entire clinic."*
 * [Is zero depth vaginoplasty possible in Norway?](https://www.reddit.com/r/transnord/comments/qvb0o2/is_zero_depth_vaginoplasty_possible_in_norway/) by LoztGirlfromNorway in 2022 - *"Officially they only offer 1, which they describe as "aiming for 10cm depth" and 80% success rate. And especially with the surgeon being a terf id assume they dont offer anything else."*, referring to the article [Vi har fått en eksplosiv økning i antall tenåringsjenter som ønsker å skifte kjønn. Tar du ansvaret, Bent Høie? | Anne Wæhre og Kim Alexander Tønseth](https://www.aftenposten.no/meninger/kronikk/i/BJvg49/vi-har-faatt-en-eksplosiv-oekning-i-antall-tenaaringsjenter-som-oensker-aa) in 2018
 * [Has anyone had SRS in Norway? Recently?](https://www.reddit.com/r/transnord/comments/empsjf/has_anyone_had_srs_in_norway_recently/) by amyfrostxoxo in 2020
@@ -3410,7 +3410,7 @@ General Sites
 
 Trans Scandinavia - Denmark, Norway, Sweden
 
-* r/transnord
+* [r/transnord](https://www.reddit.com/r/transnord)
 * reddit [Discord server for scandinavian trans*-people](https://www.reddit.com/r/transnord/comments/a59now/discord_server_for_scandinavian_transpeople/)
 * Facebook group [Trans Scandinavia](https://www.facebook.com/groups/2365439467058430/)
 * Discord [Trans Scandinavia](https://discord.com/invite/u7FCHWS)
@@ -3445,7 +3445,7 @@ reddit
 
 reddit
 
-* r/transnord
+* [r/transnord](https://www.reddit.com/r/transnord)
 * [What is the best surgeon for SRS in sweden?](https://www.reddit.com/r/Transgender_Surgeries/comments/rq161n/what_is_the_best_surgeon_for_srs_in_sweden/) by  Popular_Tradition443 in 2022
 * [So i felt a little on my inside. And as soon as I get like maybe 3? Cm in. The inside is literally just covered in hair.](https://www.reddit.com/r/Transgender_Surgeries/comments/fjort1/so_i_felt_a_little_on_my_inside_and_as_soon_as_i/) by stupidstories in 2020
 * [Vaginoplasty technique in LinköpingSweden / Sverige](https://www.reddit.com/r/transnord/comments/dfexf3/vaginoplasty_technique_in_link%C3%B6ping/) by Promethea- in 2019

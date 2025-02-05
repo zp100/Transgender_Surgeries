@@ -52,7 +52,7 @@ Lawsuits
 
 Other
 
-* [Transgender Women Feminize Their Feet Through Surgery](https://www.edgemedianetwork.com/story.php?178410) by Dr. Suzanne Levine in 2015 - *"Dr. Suzanne Levine is a Board-Certified Podiatric Surgeon who has been named one of "America's Top Podiatrists" by the Consumers' Research Council of America and is among the most acclaimed podiatrists internationally."* - see wiki entry for [Consumers Research Council of America](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wiki_consumers_research_council_of_america)
+* [Transgender Women Feminize Their Feet Through Surgery](https://www.edgemedianetwork.com/story.php?178410) by Dr. Suzanne Levine in 2015 - *"Dr. Suzanne Levine is a Board-Certified Podiatric Surgeon who has been named one of "America's Top Podiatrists" by the Consumers' Research Council of America and is among the most acclaimed podiatrists internationally."* - see wiki entry for [Consumers Research Council of America](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#consumers-research-council-of-america)
 * [Time for Toetox? Park Avenue Podiatrist Tends to Tortured Soles](https://observer.com/2009/04/time-for-toetox-park-avenue-podiatrist-tends-to-tortured-soles/) by Irina Aleksander in 2009 - *"Dr. Levine said her male clients are usually either in the entertainment industry, transgender males trying to fit into women’s shoes or ..."*
 
 ## Gabriel Rodriguez
@@ -379,7 +379,7 @@ Review sites
 
 reddit subs
 
-* r/cosmeticclaviclefix - *"Interested in getting clavicle surgery for cosmetic reasons? We're getting in contact with orthopedic surgeons to bring the price down, and also to get a safer treatment than with a cosmetic surgeon. For privacy reasons, as we may all end up going to the same surgeon, this is a private sub. If you are interested in clavicle surgery and can take the time to contact orthopedic surgeons in your country, please contact any one of us by PM to ask to join."*
+* [r/cosmeticclaviclefix](https://www.reddit.com/r/cosmeticclaviclefix) - *"Interested in getting clavicle surgery for cosmetic reasons? We're getting in contact with orthopedic surgeons to bring the price down, and also to get a safer treatment than with a cosmetic surgeon. For privacy reasons, as we may all end up going to the same surgeon, this is a private sub. If you are interested in clavicle surgery and can take the time to contact orthopedic surgeons in your country, please contact any one of us by PM to ask to join."*
 
 reddit
 
@@ -635,7 +635,7 @@ Surgeons sites
 reddit
 
 * [German model got a surgery to boost her height from 163cm to 180cm.](https://www.reddit.com/r/WTF/comments/13iqbng/german_model_got_a_surgery_to_boost_her_height/) in 2023 - not trans related, see also [Theresia Fischer: The Model Who Spent Rs 1 Crore To Increase The Length Of Her Legs](https://www.indiatimes.com/amp/trending/human-interest/the-model-who-spent-rs-1-crore-to-increase-the-length-of-her-legs-601696.html)
-* [Thoughts on the ethics of performing 'purely cosmetic' limb lengthening for patients without functional deficit?](https://np.reddit.com/r/medicine/comments/12j9byo/thoughts_on_the_ethics_of_performing_purely/) in 2023 - this is in r/medicine, which is for medical professionals. Be careful about commenting there.
+* [Thoughts on the ethics of performing 'purely cosmetic' limb lengthening for patients without functional deficit?](https://np.reddit.com/r/medicine/comments/12j9byo/thoughts_on_the_ethics_of_performing_purely/) in 2023 - this is in [r/medicine](https://www.reddit.com/r/medicine), which is for medical professionals. Be careful about commenting there.
 
 Papers
 

@@ -19,7 +19,7 @@ See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia, 
 * transhub [Gender Affirming Doctor List](https://www.transhub.org.au/doctors) - the best list of HRT prescribing doctors in NSW and there's a map showing where they all are
-* [Telehealth](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#wiki_telehealth) - Doctors who work on line prescribing across Australia
+* [Telehealth](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#telehealth) - Doctors who work on line prescribing across Australia
 * Wiki page [HRT Introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md)
 * Wiki page [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
 * Trans Health Australia [Medical Practitioners in NSW / ACT](http://www.transhealthaustralia.org/index.php/nsw-act/3-medical-practitioners-nsw-act)
@@ -141,7 +141,7 @@ Key details
 * Does Telehealth, but as a specialist (not GP) its not covered by medicare so around $130 for standard cases (2022)
 * North Shore Medical Centre, Suite 10-11 Level 5, 66 Pacific Highway, ***St Leonards***, NSW 2065, Tel: 04567 62 984
 * ~~Suite 3, 20 Bungan Road, Mona Vale, NSW 2103~~
-* r/TransWiki/wiki/hrt/jon-hayes
+* [r/TransWiki/wiki/hrt/jon-hayes](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md)
 
 Retired in 2019 and back in April 2021. Same email and phone number. As he's a specialist you need a referral from a GP (you can go without a referral, but it will be expensive), and if you had an [indefintite referral](https://www.servicesaustralia.gov.au/referring-and-requesting-medicare-services) from before he retired you'll need to get a new referral - you can't continue to use the old one.
 
