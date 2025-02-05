@@ -1,5 +1,7 @@
 **[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/wiki_index)**
-*****
+
+---
+
 
 # Introduction
 
@@ -44,7 +46,9 @@ I'm not and never have been in any medical field. My work is far removed from th
 
 
 <br />
-*****
+
+---
+
 # Male to Female (MTF) Surgery
 
 * [Sex Reassignment Surgery \(SRS\)](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/introduction)
@@ -58,7 +62,9 @@ I'm not and never have been in any medical field. My work is far removed from th
 
 
 <br />
-*****
+
+---
+
 # Female to Male (FTM) Surgery
 
 I don't know much about this, but there's a lot of photo's on [transbucket](http://www.transbucket.com) and [/r/ftm](https://www.reddit.com/r/ftm/) on reddit.
@@ -124,7 +130,9 @@ Papers
 
 
 <br />
-*****
+
+---
+
 # Intersex
 
 
@@ -135,7 +143,9 @@ reddit
 
 
 <br />
-*****
+
+---
+
 # Choosing a surgeon
 
 Women have many varied reasons for choosing their surgeon andprioritise different things. These include
@@ -228,7 +238,9 @@ Papers
 
 
 <br />
-*****
+
+---
+
 # Becoming a Surgeon
 
 YouTube
@@ -242,7 +254,9 @@ YouTube
 
 
 <br />
-*****
+
+---
+
 # Researching on Internet
 
 I'll add some information here about how to search for surgery information. TBA.
@@ -368,7 +382,9 @@ I'd also be cautious where surgeons feature in articles in lots of magazines, ne
 
 
 <br />
-*****
+
+---
+
 # Affording Surgery
 
 reddit
@@ -382,7 +398,9 @@ reddit
 
 
 <br />
-*****
+
+---
+
 # Malpractice Insurance in the USA
 
 A number of states do not require doctors to carry malpractice insurance, and some of the surgeons listed in this wiki do not have it (I've not checked all of them).
@@ -438,7 +456,9 @@ reddit
 
 
 <br />
-*****
+
+---
+
 # Smoking and Recreational Drugs
 
 Applies to all plastic surgeries.
@@ -517,7 +537,9 @@ Other
 
 
 <br />
-*****
+
+---
+
 # Piercings
 
 See also the [Piercings](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/introduction#wiki_piercings) section on the SRS page in the wiki.
@@ -548,7 +570,9 @@ Papers
 
 
 <br />
-*****
+
+---
+
 # Order of Surgeries
 
 This discussion ignores money/insurance requirements.
@@ -612,7 +636,9 @@ Facial Team
 
 
 <br />
-*****
+
+---
+
 # Medical Tattoos
 
 https://www.drchristinemcginn.com/services/tattoo.php
@@ -632,7 +658,9 @@ Papers
 * 2021 - [Applications of Medical Tattooing: A Systematic Review of Patient Satisfaction Outcomes and Emerging Trends](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8214112/) by Stacie J Becker, and Jeffrey E Cassisi
 
 <br />
-*****
+
+---
+
 # Silicone Injections
 
 Very dangerous. Have been used in face, breast, body.
@@ -698,7 +726,9 @@ University of California, San Francisco
 
 
 <br />
-*****
+
+---
+
 # Biopolymer Injections
 
 YouTube
@@ -713,7 +743,9 @@ Papers
 
 
 <br />
-*****
+
+---
+
 # Travel
 
 reddit
@@ -781,7 +813,9 @@ Companies that provide this insurance.
 
 
 <br />
-*****
+
+---
+
 # Making Useful Surgery Posts
 
 If you're making a post on reddit or elsewhere it would help if you did these things
@@ -850,7 +884,9 @@ YouTube
 
 
 <br />
-*****
+
+---
+
 # Fear
 
 https://en.wikipedia.org/wiki/Fear_of_medical_procedures - *"Most people have a fear of medical procedures at some point in their lifetime, which can include the fear of surgery, dental work, doctors, or needles. These fears are seldom diagnosed or treated, as they are often extinguished into adulthood and do not often develop into phobias preventing individuals from seeking medical attention."*
@@ -873,12 +909,16 @@ Papers
 
 
 
-*****
+
+---
+
 # Pre-existing Conditions
 
 See the same entry on the [SRS Introduction](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/introduction) page as some of it is relevant to other types of surgery and I don't have the time to reorganize it.
 
-*****
+
+---
+
 # Complications
 
 reddit subs
@@ -1084,7 +1124,9 @@ Other
 
 
 <br />
-*****
+
+---
+
 # Gender Differences
 
 Anthropometric Measurements — an Intuitive Visualization
@@ -1096,7 +1138,9 @@ Livestrong
 * 2020 - [How to Measure Your Wrist to Get Your Body Frame Size — and What It Can Tell You About Your Ideal Weight](https://www.livestrong.com/article/175491-how-to-measure-wrist-size-for-body-frame-measurement/)
 
 <br />
-*****
+
+---
+
 # Legal Action \& Complaints Against Surgeons
 
 If you have a complaint about your surgeon or want to take legal action.
@@ -1135,7 +1179,9 @@ https://www.govinfo.gov/content/pkg/USCOURTS-insd-1_09-cv-00386/pdf/USCOURTS-ins
 Dr Eppley is in this wiki, on the "Other" surgery page.
 
 <br />
-*****
+
+---
+
 # Removing Negative Reviews
 
 Not happening.
@@ -1169,7 +1215,9 @@ YouTube
 
 
 <br />
-*****
+
+---
+
 # Supporting a Partner Through Surgery
 
 reddit
@@ -1203,7 +1251,9 @@ YouTube
 
 
 <br />
-*****
+
+---
+
 # Medical Guidelines
 
 Its important to read and understand these guidelines as most medical practiioners follow them, or pretend to.
@@ -1494,7 +1544,9 @@ hormones are not clinically indicated for the individual);
 
 
 <br />
-*****
+
+---
+
 # COVID-19
 
 Papers
@@ -1503,5 +1555,7 @@ Papers
 
 
 <br />
-*****
+
+---
+
 **[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/index)**
