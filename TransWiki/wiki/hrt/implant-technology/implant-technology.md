@@ -9,7 +9,7 @@ Related wiki pages
 * [Implants<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md)
 * [Tachyphylaxis<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/tachyphylaxis/tachyphylaxis.md)
 * [Dependance<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/dependance/dependance.md)
-* [Psychological Effects<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/psychological/psychological.md-effects)
+* [Psychological Effects<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/psychological-effects/psychological-effects.md)
 
 ---
 

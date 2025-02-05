@@ -45,7 +45,7 @@ South Australia is quite bad for gatekeeping and lack of resources so this could
 
 ## The Telehealth Gender Clinic (TTGC)
 
-See the [Bel Gardon<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#telehealth) on the main Australian wiki page.
+See the [Bel Gardon<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md#bel-gardon) on the main Australian wiki page.
 
 * https://www.ttgc.com.au
 

@@ -9,7 +9,7 @@ Related wiki pages
 * [Implants<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md)
 * [Tachyphylaxis<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/tachyphylaxis/tachyphylaxis.md)
 * [Dependance<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/dependance/dependance.md)
-* [Implant Technology<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implant/implant.md-technology)
+* [Implant Technology<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implant-technology/implant-technology.md)
 
 # Psychological Effects
 
@@ -18,7 +18,7 @@ I find high estrogen levels of interest from a psychological point of view
 * Depression is very common in the trans community and anything that helps safely alleviate that is valuable.
 * There's people working on high level estrogen for the physical benefits, but I'm not aware of anyone looking into the psychological side.
 * On of the benefits of implants is that its very easy to achieve high and stable estrogen blood levels.
-* When the Sydney endocrinologist [Dr Jon Hayes<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon/jon.md-hayes) retired there were a small but significant number of trans women who were in serious psychological distress caused by the reduction in blood levels that then followed. These numbers and symptoms seem somewhat similar cis-women suffering PMDD.
+* When the Sydney endocrinologist [Dr Jon Hayes<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md) retired there were a small but significant number of trans women who were in serious psychological distress caused by the reduction in blood levels that then followed. These numbers and symptoms seem somewhat similar cis-women suffering PMDD.
 
 ---
 

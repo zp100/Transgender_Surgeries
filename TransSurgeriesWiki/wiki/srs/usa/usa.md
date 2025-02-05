@@ -23,7 +23,7 @@ SRS in other regions of the world
 
 Using [this map](https://www.50states.com/city/regions.htm).
 
-* [North East<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-north-east)
+* [North East<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md)
     * Connecticut
     * Maine
     * Massachusetts
@@ -33,7 +33,7 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * New York
     * Pennsylvania
     * Vermont
-* [Midwest<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-midwest)
+* [Midwest<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md)
     * Illinois
     * Indiana
     * Iowa
@@ -46,7 +46,7 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * North Dakota
     * South Dakota
     * Wisconsin
-* [South<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south)
+* [South<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md)
     * Alabama
     * Arkansas
     * Delaware
@@ -63,7 +63,7 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Texas
     * Virginia
     * West Virginia
-* [West<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-west)
+* [West<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md)
     * Alaska
     * Arizona
     * California
@@ -82,19 +82,19 @@ Using [this map](https://www.50states.com/city/regions.htm).
 
 # Surgeons by State
 
-* [Alabama<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_alabama)
+* [Alabama<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#alabama)
     * John Patrick Selph
     * Victor Keith Jiminez
     * Paul Zbell
-* [Alaska<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-west#wiki_alaska)
+* [Alaska<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md#alaska)
     * *none*
-* [Arizona<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-west#wiki_arizona)
+* [Arizona<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md#arizona)
     * Toby Meltzer
     * M. Michael Hayyeri
     * Genaro Valladolid
-* [Arkansas<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_arkansas)
+* [Arkansas<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#arkansas)
     * *none*
-* [California<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-west#wiki_california)
+* [California<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md#california)
     * Heidi Wittenberg
     * Adam Bonnington
     * Marci Bowers
@@ -132,7 +132,7 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Roberto Travieso
     * Virginia Li
     * John Ronald Brown
-* [Colorado<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-west#wiki_colorado)
+* [Colorado<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md#colorado)
     *  Denver Health
         * Jennifer Susan Hyer
         * Rodrigo Donalisio da Silva
@@ -142,12 +142,12 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Ty Higuchi
     * Julian Simon Winocour
     * Stanley Biber
-* [Connecticut<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-north-east#wiki_connecticut)
+* [Connecticut<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#connecticut)
     * Stanton Honig
     * Arnold D. C. Rivera
-* [Delaware<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_delaware)
+* [Delaware<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#delaware)
     * *none*
-* [Florida<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_florida)
+* [Florida<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#florida)
     * Ahmed Abdullah
     * Daniel Paul Greenwald
     * Rian A. Maercks
@@ -163,83 +163,83 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Sara Danker
     * Josef Hadeed
     * Benny K. Tan
-* [Georgia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_georgia)
+* [Georgia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#georgia)
     * Jenelle E Foote
     * Fara Movagharnia
     * Chirag Dave
-* [Hawaii<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-west#wiki_hawaii)
+* [Hawaii<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md#hawaii)
     * *unknown*
-* [Idaho<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-midwest#wiki_idaho)
+* [Idaho<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md#idaho)
     * *none*
-* [Illinois<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-midwest#wiki_illinois)
+* [Illinois<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md#illinois)
     * Loren Schechter
     * Ervin Kocjancic
     * David Didomenico
     * Traci P. Beck
-* [Indiana<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-midwest#wiki_indiana)
+* [Indiana<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md#indiana)
     * Joshua David Roth
-* [Iowa<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-midwest#wiki_iowa)
+* [Iowa<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md#iowa)
     * Amy Pearlman
     * Bradley A. Erickson
-* [Kansas<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-midwest#wiki_kansas)
+* [Kansas<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md#kansas)
     * Meredith Gray
     * Satish Ponnuru
     * Joshua Broghammer
-* [Kentucky<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_kentucky)
+* [Kentucky<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#kentucky)
     * Jonathan Witten
     * Stephen J. Monnig
-* [Louisiana<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_louisiana)
+* [Louisiana<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#louisiana)
     * *none*
-* [Maine<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-north-east#wiki_maine)
+* [Maine<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#maine)
     * *none*
-* [Maryland<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_maryland)
+* [Maryland<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#maryland)
     * Gabriel Del Corral
     * Arthur L. Burnett
     * Karen E Boyle
     * Devin O'Brien Coon
     * John Hopkins Hospital
     * Ean R. Saberski
-* [Massachusetts<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-north-east#wiki_massachusetts)
+* [Massachusetts<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#massachusetts)
     * Jaromir Slama
     * Robert D Oates
     * Oren Ganor
     * Jonathan Michael Winograd
     * Shailesh Agarwal
-* [Michigan<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-midwest#wiki_michigan)
+* [Michigan<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md#michigan)
     * Marc Arnkoff
     * Alan Neal Wilson
     * William Kuzon
     * Jonathan Todd Bolthouse
     * Nabeel Ahmad Shakir
     * Donna G Tepper
-* [Minnesota<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-midwest#wiki_minnesota)
+* [Minnesota<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md#minnesota)
     * Jorys Martinez-Jorges
     * Valerie Lemaine
     * Oscar Manrique
     * Vahe Fahradyan
     * Joseph J. Pariser
     * Benjamin Michael Marsh
-* [Mississippi<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_mississippi)
+* [Mississippi<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#mississippi)
     * Gordon M. Castleberry
-* [Missouri<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-midwest#wiki_missouri)
+* [Missouri<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md#missouri)
     * Gino Vricella
     * Alison K. Snyder-Warwick
-* [Montana<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-west#wiki_montana)
+* [Montana<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md#montana)
     * Jeffrey Devin Redshaw
-* [Nebraska<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-midwest#wiki_nebraska)
+* [Nebraska<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md#nebraska)
     * John Habib Bishay  
-* [Nevada<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-west#wiki_nevada)
+* [Nevada<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md#nevada)
     * John Brosious
     * Casey McCraw
-* [New Hampshire<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-north-east#wiki_new_hampshire)
+* [New Hampshire<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#new-hampshire)
     * Rachel A. Moses
     * John Francis Nigriny
-* [New Jersey<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-north-east#wiki_new_jersey)
+* [New Jersey<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#new-jersey)
     * Jonathan Keith
     * William Bihrle
     * John Taylor
-* [New Mexico<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-west#wiki_new_mexico)
-* [New York<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-north-east#wiki_new_york)
+* [New Mexico<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md#new-mexico)
+* [New York<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#new-york)
     * Bella Avanessian
     * Rachel Bluebond-Langner
     * Jess Ting
@@ -256,21 +256,21 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Courtney Cripps
     * Elan Horesh
     * David M. Whitehead
-* [North Carolina<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_north_carolina)
+* [North Carolina<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#north-carolina)
     * Hope Sherie
     * Keelee MacPhee
     * Brad Figler
     * Charles Douglas Scales
-* [North Dakota<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-midwest#wiki_north_dakota)
-* [Ohio<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-midwest#wiki_ohio)
+* [North Dakota<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md#north-dakota)
+* [Ohio<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md#ohio)
     * Chris McClung
     * Cecile Audrey Ferrando
     * Carin V. Hopps
     * Shubham Gupta
     * Kirtishri Mishra
-* [Oklahoma<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_oklahoma)
+* [Oklahoma<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#oklahoma)
     * *none*
-* [Oregon<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-west#wiki_oregon)
+* [Oregon<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md#oregon)
     * Daniel Dugi
     * Sean J. Clark
     * Geolani Widjaja Dy
@@ -278,7 +278,7 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Jyoti Chouhan
     * Blair Peters
     * Nick Orem Esmonde
-* [Pennsylvania<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-north-east#wiki_pennsylvania)
+* [Pennsylvania<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#pennsylvania)
     * Christine McGinn
     * Kathryn Ashley Brandt
     * Kathy Lynn Rumer
@@ -289,12 +289,12 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Laura M. Douglass
     * Katherine Rose
     * Jude Opoku-Agyeman
-* [Rhode Island<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-north-east#wiki_rhode_island)
+* [Rhode Island<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#rhode-island)
     * Daniel Kwan
-* [South Carolina<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_south_carolina)
+* [South Carolina<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#south-carolina)
     * Nikki Mark Burish
-* [South Dakota<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-midwest#wiki_south_dakota)
-* [Tennessee<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_tennessee)
+* [South Dakota<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md#south-dakota)
+* [Tennessee<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#tennessee)
     * Salam H. Alkassis
     * Peter Raphael
     * Alan Dulin
@@ -303,7 +303,7 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Stacy Ong
     * Alfred Antonetti
     * Tue A. Dinh
-* [Texas<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_texas)
+* [Texas<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#texas)
     * Ashley DeLeon
     * Peter Raphael
     * Alan Dulin
@@ -313,31 +313,31 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Alfred Antonetti
     * Tue A. Dinh
     * Dany Hanna
-* [Utah<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-west#wiki_utah)
+* [Utah<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md#utah)
     * James M. Hotaling
     * Isak Aaron Goodwin
     * Nicholas Kim
     * Jeremy Myers
     * Benjamin J. McCormick
     * Cori A. Agarwal 
-* [Vermont<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-north-east#wiki_vermont)
+* [Vermont<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#vermont)
     * *none*
-* [Virginia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_virginia)
+* [Virginia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#virginia)
     * John Tyler Roseman
     * John T Stranix
     * Sean T Corbett
-* [Washington<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-west#wiki_washington)
+* [Washington<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md#washington)
     * Geoffrey Stiller
     * Alvaro Lucioni
     * Alexander Joseuf Skokan
     * Shane D. Morrison
     * Russell E. Ettinger
-* [Washington D.C<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_washington_d.c.)
+* [Washington D.C<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_washington_d.c.))
     * Praful Ramineni
     * Kelly Chiles
-* [West Virginia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_west_virginia)
+* [West Virginia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#west-virginia)
     * Margaret Jeanne Vereb
-* [Wisconsin<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md-midwest#wiki_wisconsin)
+* [Wisconsin<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md#wisconsin)
     * Katherine M. Gast
     * Jay Ira Sandlow
     * Sean McAdams

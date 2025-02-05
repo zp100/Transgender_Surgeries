@@ -45,7 +45,7 @@ Wiki pages
 
 # Hair removal
 
-* [Hair Removal<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hair/hair.md-removal)
+* [Hair Removal<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hair-removal/hair-removal.md)
 
 <br />
 

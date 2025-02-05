@@ -150,7 +150,7 @@ See also
 * This wiki, page [Australian Psychs and Therapists<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md).
 * The Facebook group [NovaTrue](https://www.facebook.com/groups/NovaTrue/permalink/2130966700533462/) is very active on HRT in Sydney.
 * https://www.ygender.org.au/tgd-healthcare-reviews - list of doctors and reviews
-* Retired Sydney endo [Dr Jonathan Hayes<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon/jon.md-hayes) - there's talk on the NovaTrue Facebook group of him coming back in 2020.
+* Retired Sydney endo [Dr Jonathan Hayes<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md) - there's talk on the NovaTrue Facebook group of him coming back in 2020.
 * https://transitioningdownunder.com/post/87371876421/medical-practitioners - list of doctors and psych's in Australia with some reviews.
 * [SIMPLIFIED Gender Diverse Healthcare in Australia](https://docs.google.com/document/d/1-hn_YApOScn4ji3jEM0FTizGCOW8S6iyvNR4DsxzlL4/edit) - see reddit post [here<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/whaiig/new_simplified_healthcare_master_doc/).
 

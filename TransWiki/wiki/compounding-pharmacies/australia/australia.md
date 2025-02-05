@@ -132,7 +132,7 @@ Implant Cost
 * 100mg are ~~$95~~ $100each, postage ~~$12.50~~ $19 express with insurance (ie $219 for 200mg). They take about 3 days, 2 of which are testing. There's a form on their website you fill in to place the order (with a scan of prescription), post the original prescption to them, then they call you to confirm.
 * There are no larger implants. If you get 150mg or 200mg it's comprised of multiple smaller implants.
 
-CCS can make both 3mm and 4.5mm (ie 5mm) implants. The reason for either size are discussed in [Implant Technology<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md#implant-technology). As of 2020 their manufacturing process has not changed in years.
+CCS can make both 3mm and 4.5mm (ie 5mm) implants. The reason for either size are discussed in [Implant Technology<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implant-technology/implant-technology.md). As of 2020 their manufacturing process has not changed in years.
 
 **Estrogen Injections**
 
@@ -146,7 +146,7 @@ Estradiol Valerate needs to be injected quite frequently and while there other t
 
 **Testosterone Implants**
 
-I don't know much about this, but [Dr Hayes<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon/jon.md-hayes) used 50mg on occasion.
+I don't know much about this, but [Dr Hayes<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md) used 50mg on occasion.
 
 **Testosterone Injections**
 
@@ -176,7 +176,7 @@ Key details
 
 **Implants**
 
-Stenlake are known for producing 4.5mm implants, but I believe they can also make 3mm implants. The reason for either size are discussed in [Implant Technology<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md#implant-technology).
+Stenlake are known for producing 4.5mm implants, but I believe they can also make 3mm implants. The reason for either size are discussed in [Implant Technology<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implant-technology/implant-technology.md).
 
 50mg implants are $126 each, 100mg implants are $131 each, postage is $10.95 or you can pick them up yourself in Bondi/Sydney.
 
