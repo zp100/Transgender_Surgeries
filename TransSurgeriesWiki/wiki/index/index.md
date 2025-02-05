@@ -1,3 +1,5 @@
+**Introduction**
+
 **[Wiki Index](https://www.reddit.com/r/TransWiki/wiki/wiki_index)**
 
 ---
@@ -258,11 +260,13 @@ YouTube
 * [Washington attorney general announces plastic surgery lawsuit](https://www.youtube.com/watch?v=heJ8LaNPCkc) by KING 5
 
 <br />
+
 ## Facebook
 
 See [r/TransWiki/wiki/facebook](https://www.reddit.com/r/TransWiki/wiki/facebook)
 
 <br />
+
 ## Trans Media Network
 
 There's network of advertising sites tagreting trans people, combining information about surgery with adverting specific surgeons. I'd guess it is funded by surgons advertising fees, and it contains adverising by surgeons who large numbers of negative reviews.
@@ -287,6 +291,7 @@ reddit
 * [Update on wound dehiscence. (Surgeon Dr. Kathy Rumer)](https://www.reddit.com/r/Transgender_Surgeries/comments/1c1uuy1/update_on_wound_dehiscence_surgeon_dr_kathy_rumer/) by Babysoots in 2024 - *I've been using promogram as instructed by Dr. Rumer. I thought I did my research checked out surgeons closer to me  (I'm in the north east) and I found her on a website called [trans healthcare.org](https://www.transhealthcare.org/kathy-rumer/) I am very scared but I havent missed a dilation session. I just have no clue what to do right now.*
 
 <br />
+
 ## Doctor Awards
 
 * [I’m a Journalist. Apparently, I’m Also One of America’s “Top Doctors.”](https://www.propublica.org/article/top-doctors-award-journalist) by Marshall Allen in 2019
@@ -301,6 +306,7 @@ reddit
 * [ABC News Investigates Top Doctor Awards: Are they Always Well Deserved? ABC News investigates the Consumer's Research Council of America.](https://abcnews.go.com/Health/top-doctor-awards-deserved-abc-news-investigation/story?id=16771628) in 2012 - *"Dr. Silverberg said, "It's a sham. I've practiced zero days of dentistry in my life- and I still received this award for being one of America's Top Dentists. ... But Tenny remains listed as a "Top Surgeon" despite more than a dozen medical malpractice cases against him between 1983 and the time of Maribeth Chase's surgery in 2007.""*
 
 <br />
+
 ## Bias on Review Sites
 
 There are several major sources of information on transgender surgery
@@ -729,6 +735,7 @@ Marca
 * [Mexican woman faces 100 lashes and prison time after she was sexually assaulted in Qatar](https://www.marca.com/en/world-cup/2022/02/18/620fcbc8ca4741602e8b45e0.html) in 2021 - *"An economist and anthropologist faces a sentence of 100 lashes and up to seven years in prison, after she reported sexual abuse whilst working in Qatar... Qatari authorities chose not to look into the complaint or protect Schietekat, instead accusing her of extramarital affairs and giving her this sentence."*
 
 <br />
+
 ## Travel Insurance
 
 Normal travel insurance will not cover you when travelling for medical tourism.
@@ -848,6 +855,7 @@ reddit subs
 There's also lists of complications for each type of surgery in this wiki.
 
 <br />
+
 ## Death
 
 There's been a few surgery related deaths, however its low as surgery goes and its worth bearing in mind the suicide rate of untreated gender dysphoria.
@@ -875,6 +883,7 @@ Papers
 * 2023 - [Analysis of Mortality Among Transgender and Gender Diverse Adults in England](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9887492/) by Sarah S. Jackson, Jalen Brown, Ruth M. Pfeiffer, Duncan Shrewsbury, Stewart O’Callaghan, Alison M. Berner, Shahinaz M. Gadalla and Meredith S. Shiels - not surgery specific
 
 <br />
+
 ## Hair Loss
 
 [Telogen effluvium](https://en.wikipedia.org/wiki/Telogen_effluvium) can be caused by major surgery.
@@ -899,6 +908,7 @@ Dr Powers on hair restoration
 https://www.medicalnewstoday.com/articles/321590 - *"* ***Telogen effluvium*** *is a form of temporary hair loss that usually happens after stress, a shock, or a traumatic event. It usually occurs on the top of the scalp. Telogen effluvium is different from the hair loss disorder called alopecia areata. Large amounts of a person’s hair might fall out, but it is often temporary, and the hair usually grows back."*
 
 <br />
+
 ## Opiate Withdrawl
 
 reddit
@@ -907,6 +917,7 @@ reddit
 * [What opioid withdrawal was like for me](https://www.reddit.com/r/Transgender_Surgeries/comments/img0rg/what_opioid_withdrawal_was_like_for_me/) by notyourdonut in 2020
 
 <br />
+
 ## Post-op Depression
 
 reddit
@@ -915,6 +926,7 @@ reddit
 * [I have post op depression three weeks after surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/ij0hxb/i_have_post_op_depression_three_weeks_after/) by notyourdonut in 2020
 
 <br />
+
 ## Scars
 
 reddit
@@ -1015,6 +1027,7 @@ Other
 * https://t.me/+2nasLt-OCA04NGQx - Telegram Verteporfin research - *"Find answers for questions using the chat search tool. Persisting with needless questions may lead to message deletion. No personal insults. No false claims. Check research papers + official sources before making claims. Try to show evidence..."*
 
 <br />
+
 ## Stroke
 
 * [I thought FFS would change my life, but not like this... (Dr. Alex Kim)](https://www.reddit.com/r/Transgender_Surgeries/comments/me8umd/i_thought_ffs_would_change_my_life_but_not_like/) by virtualady in 2021 - FFS with Alex Kim in the USA
@@ -1220,6 +1233,7 @@ In contrast for cosmetic surgery in the cis gender population the standards are 
 * 2007 - [Excess mortality from suicide and other external causes of death among women with cosmetic breast implants](https://pubmed.ncbi.nlm.nih.gov/17667401/) - *"An increased rate of suicide among women with cosmetic breast implants has been consistently reported in the epidemiologic literature... Among women with implants, we observed statistically significant 3-fold excesses of suicide... Thus, screening for pre-implant psychiatric morbidity and post-implant monitoring among women seeking cosmetic breast implants may be warranted."*
 
 <br />
+
 ## Conversion Therapy
 
 Conversion therapy is a horrific practice with serious long term consequences, including suicide
@@ -1232,6 +1246,7 @@ https://healthliberationnow.com - *"Health Liberation Now! is a free, trans-run 
 * [How to Avoid Anti-Trans Conversion Therapists](https://healthliberationnow.com/avoid-anti-trans-conversion-therapists) - *"A survivor-developed guide to keep you or your loved ones safe."*
 
 <br />
+
 ## DSM5
 
 The DSM-5 is the [Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition](https://en.wikipedia.org/wiki/DSM-5) contains a section on the diagnostic criteria for gender dysphoria. If you don't meet these criteria you could have great difficult getting HRT/surgery.
@@ -1298,6 +1313,7 @@ See the DSM-5, page 458, [source](https://www.reddit.com/r/asktransgender/commen
 for aesthetic reasons or to remove psychological effects of androgens without changing male identity; in these cases, the criteria for gender dysphoria are not met.
 
 <br />
+
 ## ICD 11
 
 The International Calssification of Diseases, maintained by the World Health Organisation, is an alternative to the DSM 5. It doesn't seem to be used much in trans health.
@@ -1323,6 +1339,7 @@ ICD 10 is the prior version of ICD11
 > A desire to live and be accepted as a member of the opposite sex, usually accompanied by a sense of discomfort with, or inappropriateness of, one's anatomic sex, and a wish to have surgery and hormonal treatment to make one's body as congruent as possible with one's preferred sex.
 
 <br />
+
 ## WPATH Standards of Care
 
 The WPATH Standards Of Care (v8) affects many aspects of trans medical care and like it or not, its important to read it.
