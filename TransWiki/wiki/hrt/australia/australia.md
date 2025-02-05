@@ -1,6 +1,6 @@
 **HRT in Australia**
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
@@ -10,14 +10,14 @@ This is mainly about MTF, although the the doctors and psych's medical professio
 
 # Doctors By State
 
-* [ACT](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/act/act.md)
-* [New South Wales](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nsw/nsw.md)
-* [Queensland](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/qld/qld.md)
-* [South Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/sa/sa.md)
-* [Tasmania](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/tas/tas.md)
-* [Victoria](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/vic/vic.md)
-* [Western Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/wa/wa.md)
-* [Northern Territory](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nt/nt.md)
+* [ACT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/act/act.md)
+* [New South Wales<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nsw/nsw.md)
+* [Queensland<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/qld/qld.md)
+* [South Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/sa/sa.md)
+* [Tasmania<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/tas/tas.md)
+* [Victoria<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/vic/vic.md)
+* [Western Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/wa/wa.md)
+* [Northern Territory<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nt/nt.md)
 
 ## Australian Guidelines
 
@@ -48,19 +48,19 @@ I'm unclear how you get implants inserted. Its not something you can do yourself
 
 reddit
 
-* [TTGC Experience - July 2022](https://www.reddit.com/r/transgenderau/comments/vzihsk/ttgc_experience_july_2022/) by fayemess in 2022
-* [TTGC experience - May 2022](https://www.reddit.com/r/transgenderau/comments/uooe4k/ttgc_experience_may_2022/) by shwaytaketu in 2022
-* [Question about TTGC](https://www.reddit.com/r/transgenderau/comments/tlx388/question_about_ttgc/) by  PitterrPatterr
+* [TTGC Experience - July 2022<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vzihsk/ttgc_experience_july_2022/) by fayemess in 2022
+* [TTGC experience - May 2022<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/uooe4k/ttgc_experience_may_2022/) by shwaytaketu in 2022
+* [Question about TTGC<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/tlx388/question_about_ttgc/) by  PitterrPatterr
 in 2022
-* [The Specifics of Procedure with TTGC?](https://www.reddit.com/r/transgenderau/comments/tdr66g/the_specifics_of_procedure_with_ttgc/) by LeebleLeeble in 2022
-* reply to [What happens when you become incapable of accessing HRT because no doctors in the state do informed consent? (Very dark and serious subject matter, but I have nowhere else to go with this)](https://www.reddit.com/r/transgenderau/comments/mabc52/what_happens_when_you_become_incapable_of/grrx9z3/) by jojopickles in 2021
-* [Anyone have experience with The Telehealth Gender Clinic?](https://www.reddit.com/r/transgenderau/comments/kctav0/anyone_have_experience_with_the_telehealth_gender/) by katie-sylveon in 2020
-* [Has anyone in Melbourne had any experience with Dr. Satu Simpson?](https://www.reddit.com/r/transgenderau/comments/hlc313/has_anyone_in_melbourne_had_any_experience_with/) by Jodje in 2020
-* [Dr Karan Elliot, Canberra, informed consent? Need help](https://www.reddit.com/r/transgenderau/comments/evhnw7/dr_karan_elliot_canberra_informed_consent_need/ffzb1x1/) in 2020
+* [The Specifics of Procedure with TTGC?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/tdr66g/the_specifics_of_procedure_with_ttgc/) by LeebleLeeble in 2022
+* reply to [What happens when you become incapable of accessing HRT because no doctors in the state do informed consent? (Very dark and serious subject matter, but I have nowhere else to go with this)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/mabc52/what_happens_when_you_become_incapable_of/grrx9z3/) by jojopickles in 2021
+* [Anyone have experience with The Telehealth Gender Clinic?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kctav0/anyone_have_experience_with_the_telehealth_gender/) by katie-sylveon in 2020
+* [Has anyone in Melbourne had any experience with Dr. Satu Simpson?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hlc313/has_anyone_in_melbourne_had_any_experience_with/) by Jodje in 2020
+* [Dr Karan Elliot, Canberra, informed consent? Need help<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/evhnw7/dr_karan_elliot_canberra_informed_consent_need/ffzb1x1/) in 2020
 
 ### Belinda Schneider
 
-* [Prescription and terrible service in SA :(...](https://www.reddit.com/r/transgenderau/comments/zftrh2/prescription_and_terrible_service_in_sa/) by  sad_alligator12 in 2022 - *"Recently I obtained gender confirming hormones from Dr Belinda Schneider from TTGC. First of all she is super helpful and supportive and she has done so much to help me on my journey."*
+* [Prescription and terrible service in SA :(...<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zftrh2/prescription_and_terrible_service_in_sa/) by  sad_alligator12 in 2022 - *"Recently I obtained gender confirming hormones from Dr Belinda Schneider from TTGC. First of all she is super helpful and supportive and she has done so much to help me on my journey."*
 
 <br />
 
@@ -121,7 +121,7 @@ https://www.tga.gov.au/entering-australia
 
 reddit
 
-* [Transgender Canadian on working holiday in Australia. Help with HRT!!!!](https://www.reddit.com/r/transgenderau/comments/f5md0z/transgender_canadian_on_working_holiday_in/) by ToriV99 in 2020
+* [Transgender Canadian on working holiday in Australia. Help with HRT!!!!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/f5md0z/transgender_canadian_on_working_holiday_in/) by ToriV99 in 2020
 
 <br />
 
@@ -131,7 +131,7 @@ reddit
 
 reddit
 
-* [Cost of hormones and medications. Comparison.](https://www.reddit.com/r/transgenderau/comments/4s4pwh/cost_of_hormones_and_medications_comparison/) by NocteVulpes in 2016
+* [Cost of hormones and medications. Comparison.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/4s4pwh/cost_of_hormones_and_medications_comparison/) by NocteVulpes in 2016
 
 <br />
 
@@ -142,17 +142,17 @@ reddit
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia, 
-* Wiki entry [HRT Introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md)
-* Wiki entry on [Implants](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md)
-* Wiki entry on [Compounding Pharmacies](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/compounding-pharmacies/australia/australia.md) - implants, injections, topical anesthetics, etc
+* Wiki entry [HRT Introduction<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md)
+* Wiki entry on [Implants<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md)
+* Wiki entry on [Compounding Pharmacies<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/compounding-pharmacies/australia/australia.md) - implants, injections, topical anesthetics, etc
 * Australian trans sub /r/transgenderau/
-* /r/transgenderau post [Essential guides and state specific info](https://www.reddit.com/r/transgenderau/comments/daad16/) by MissTortoise in 2019
-* This wiki, page [Australian Psychs and Therapists](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md).
+* /r/transgenderau post [Essential guides and state specific info<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/daad16/) by MissTortoise in 2019
+* This wiki, page [Australian Psychs and Therapists<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md).
 * The Facebook group [NovaTrue](https://www.facebook.com/groups/NovaTrue/permalink/2130966700533462/) is very active on HRT in Sydney.
 * https://www.ygender.org.au/tgd-healthcare-reviews - list of doctors and reviews
-* Retired Sydney endo [Dr Jonathan Hayes](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon/jon.md-hayes) - there's talk on the NovaTrue Facebook group of him coming back in 2020.
+* Retired Sydney endo [Dr Jonathan Hayes<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon/jon.md-hayes) - there's talk on the NovaTrue Facebook group of him coming back in 2020.
 * https://transitioningdownunder.com/post/87371876421/medical-practitioners - list of doctors and psych's in Australia with some reviews.
-* [SIMPLIFIED Gender Diverse Healthcare in Australia](https://docs.google.com/document/d/1-hn_YApOScn4ji3jEM0FTizGCOW8S6iyvNR4DsxzlL4/edit) - see reddit post [here](https://www.reddit.com/r/transgenderau/comments/whaiig/new_simplified_healthcare_master_doc/).
+* [SIMPLIFIED Gender Diverse Healthcare in Australia](https://docs.google.com/document/d/1-hn_YApOScn4ji3jEM0FTizGCOW8S6iyvNR4DsxzlL4/edit) - see reddit post [here<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/whaiig/new_simplified_healthcare_master_doc/).
 
 <br />
 
@@ -196,7 +196,7 @@ Personally I'd try to avoid doctors who do not prescribe implants even if I didn
 
 # Estrogen Injections
 
-Estrogen injections are not common in Australia, but can be sourced from some [Compounding Pharmacies in Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/compounding-pharmacies/australia/australia.md) (with a doctors prescription).
+Estrogen injections are not common in Australia, but can be sourced from some [Compounding Pharmacies in Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/compounding-pharmacies/australia/australia.md) (with a doctors prescription).
 
 Syringes and needles are available without prescription in Australia. You should be able to get them from a pharmacy, but there's also online medical suppliers where you can order them. I can't speak from personal experience, but you could look at
 
@@ -206,7 +206,7 @@ Syringes and needles are available without prescription in Australia. You should
 
 reddit
 
-* [Is it possible to get injections? And how?](https://www.reddit.com/r/transgenderau/comments/jc0l5l/is_it_possible_to_get_injections_and_how/) by Everfree3925 in 2020
+* [Is it possible to get injections? And how?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jc0l5l/is_it_possible_to_get_injections_and_how/) by Everfree3925 in 2020
 
 <br />
 
@@ -214,15 +214,15 @@ reddit
 
 # Dr Will Powers
 
-Dr Powers has a new protocol for MTF HRT that is getting a lot of attention recently. Australian doctors following this protocol will be listed on Dr Powers sub [here](https://www.reddit.com/r/DrWillPowers/wiki/powers_method/other#wiki_australia).
+Dr Powers has a new protocol for MTF HRT that is getting a lot of attention recently. Australian doctors following this protocol will be listed on Dr Powers sub [here<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/wiki/powers_method/other#wiki_australia).
 
-For more information see [r/DrWillPowers](https://www.reddit.com/r/DrWillPowers) and the [entry for Australia](https://www.reddit.com/r/DrWillPowers/wiki/powers_method/) in his [wiki](https://www.reddit.com/r/DrWillPowers/wiki/index).
+For more information see [r/DrWillPowers<sup>R</sup>](https://www.reddit.com/r/DrWillPowers) and the [entry for Australia<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/wiki/powers_method/) in his [wiki<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/wiki/index).
 
 reddit
 
-* [Please stop trying to bribe me or my staff to get off the waiting list. It's weird and makes me not want to take you as a patient at all.](https://www.reddit.com/r/DrWillPowers/comments/dyjvc0/please_stop_trying_to_bribe_me_or_my_staff_to_get/f8sczn5/) by Drwillpowers in 2019 - *"I have a few doctors scheduled to fly in over the next year to learn my methods directly by working with me for a few weeks. I openly do this for free for anyone who wants to do it. I even have one coming from* ***australia***.*"*
-* [Getting a method closer to Dr Powers' in Brisbane, Australia](https://www.reddit.com/r/DrWillPowers/comments/dqmgzy/getting_a_method_closer_to_dr_powers_in_brisbane/) by qldtransgirl in 2019
-* [The Dr Powers method](https://www.reddit.com/r/transgenderau/comments/dq0hkj/the_dr_powers_method/) by shinyfuture in 2019
+* [Please stop trying to bribe me or my staff to get off the waiting list. It's weird and makes me not want to take you as a patient at all.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/dyjvc0/please_stop_trying_to_bribe_me_or_my_staff_to_get/f8sczn5/) by Drwillpowers in 2019 - *"I have a few doctors scheduled to fly in over the next year to learn my methods directly by working with me for a few weeks. I openly do this for free for anyone who wants to do it. I even have one coming from* ***australia***.*"*
+* [Getting a method closer to Dr Powers' in Brisbane, Australia<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/dqmgzy/getting_a_method_closer_to_dr_powers_in_brisbane/) by qldtransgirl in 2019
+* [The Dr Powers method<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dq0hkj/the_dr_powers_method/) by shinyfuture in 2019
 
 ---
 
@@ -232,9 +232,9 @@ Testosterone can be prescribed by a GP, endocronologist, or sexual health physic
 
 reddit
 
-* reply to [Saw a new doctor today](https://www.reddit.com/r/transgenderau/comments/x0kdde/saw_a_new_doctor_today/im97ci8/) by littletransseal
+* reply to [Saw a new doctor today<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/x0kdde/saw_a_new_doctor_today/im97ci8/) by littletransseal
 in 2022
-* reply to [Advice on moving to Brisbane from UK](https://www.reddit.com/r/transgenderau/comments/vdb2uc/advice_on_moving_to_brisbane_from_uk/ictg2ct/) by Nix-Tempesedo in 2022 - *"Basically prescription of testosterone on the PBS (Pharmaceutical Benefits Schemes - the government scheme for medication subsidies) is restricted. This means it can only be prescribed under the PBS, in any form (like gels, shots, whatever), if you have an "authority" - an exemption. Without an authority, you pay a private script price (i.e., more). For t, this authority can only be given by an endocrinologist (or other related specialist) for a diagnosed "androgen deficiency"... For reference, I'm on [Testogel](https://www.pbs.gov.au/medicine/item/10380H)and it costs me $6.80 for a 30 day supply (because I'm poor). The full PBS cost, or what your average person with Medicare would pay (which should include you guys), is around $40. For a private script (a script that isn't dispensed under the PBS), it's around $77. To research prices, you can find all you need to know about testosterone [on the PBS website](https://www.pbs.gov.au/pbs/search?term=testosterone&search-type=medicines&analyse=false) \- the DPMQ is the 'private script price' and the 'general patient charge' is what someone with Medicare would pay."*
+* reply to [Advice on moving to Brisbane from UK<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vdb2uc/advice_on_moving_to_brisbane_from_uk/ictg2ct/) by Nix-Tempesedo in 2022 - *"Basically prescription of testosterone on the PBS (Pharmaceutical Benefits Schemes - the government scheme for medication subsidies) is restricted. This means it can only be prescribed under the PBS, in any form (like gels, shots, whatever), if you have an "authority" - an exemption. Without an authority, you pay a private script price (i.e., more). For t, this authority can only be given by an endocrinologist (or other related specialist) for a diagnosed "androgen deficiency"... For reference, I'm on [Testogel](https://www.pbs.gov.au/medicine/item/10380H)and it costs me $6.80 for a 30 day supply (because I'm poor). The full PBS cost, or what your average person with Medicare would pay (which should include you guys), is around $40. For a private script (a script that isn't dispensed under the PBS), it's around $77. To research prices, you can find all you need to know about testosterone [on the PBS website](https://www.pbs.gov.au/pbs/search?term=testosterone&search-type=medicines&analyse=false) \- the DPMQ is the 'private script price' and the 'general patient charge' is what someone with Medicare would pay."*
 
 Dr Hayes has prescribed the topical Androfeme 1 cream and testosterone implants to post-op transwomen.
 
@@ -257,11 +257,11 @@ You may also come across the synthetic progesterone [Medroxyprogesterone Acetate
 
 # Informed Consent
 
-Some doctors now now follow the [informed consent](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#informed-consent) model, meaning you can get HRT prescribed just like anyone else can get medical care. No psych.
+Some doctors now now follow the [informed consent<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#informed-consent) model, meaning you can get HRT prescribed just like anyone else can get medical care. No psych.
 
 You may be asked to sign one or more multi-page documents informing you of the risks of what you are doing.
 
-If you need to see a psychiatrist for a HRT or surgery letter, see the [Australian Psychs & Therapists](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md) page.
+If you need to see a psychiatrist for a HRT or surgery letter, see the [Australian Psychs & Therapists<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md) page.
 
 ### Informed Consent Map
 
@@ -269,7 +269,7 @@ Erin Reed [(twitter)](https://twitter.com/ErinInTheMorn) created an map of infor
 
 reddit
 
-* [I compiled every single informed consent clinic in the country. No therapist letter needed.](https://www.reddit.com/r/asktransgender/comments/d6p05q/i_compiled_every_single_informed_consent_clinic/) by ErinInTheMorning around 2020.
+* [I compiled every single informed consent clinic in the country. No therapist letter needed.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/d6p05q/i_compiled_every_single_informed_consent_clinic/) by ErinInTheMorning around 2020.
 
 Twitter
 
@@ -281,7 +281,7 @@ Twitter
 
 reddit
 
-* reply to [UK endocrinology guidance](https://www.reddit.com/r/DrWillPowers/comments/hjha3f/uk_endocrinology_guidance/fwt72c8/) by Taracia in 2020 - this is about DHT testing in Australia, see [here](http://seals.rb.com.au/seals_tlm/testgrid.asp?s_keyword=DIHYDROTESTOSTERONE&ID=579)
+* reply to [UK endocrinology guidance<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/hjha3f/uk_endocrinology_guidance/fwt72c8/) by Taracia in 2020 - this is about DHT testing in Australia, see [here](http://seals.rb.com.au/seals_tlm/testgrid.asp?s_keyword=DIHYDROTESTOSTERONE&ID=579)
 
 Private Blood Testing
 
@@ -292,12 +292,12 @@ Private Blood Testing
 
 # DIY
 
-A few people buy their HRT online without using a doctor. See the [main HRT page](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md#diy) for more.
+A few people buy their HRT online without using a doctor. See the [main HRT page<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md#diy) for more.
 
 reddit
 
-* [r/TransDIY](https://www.reddit.com/r/TransDIY)
-* [Lena's shipment finally arrived](https://www.reddit.com/r/transgenderau/comments/gu9r6j/lenas_shipment_finally_arrived/) by amy-simmons in 2020
+* [r/TransDIY<sup>R</sup>](https://www.reddit.com/r/TransDIY)
+* [Lena's shipment finally arrived<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gu9r6j/lenas_shipment_finally_arrived/) by amy-simmons in 2020
 
 ## Importing HRT
 
@@ -319,9 +319,9 @@ AusPATH
 
 reddit
 
-* [Seeking experiences regarding Dr Pede Rogers, Perth WA](https://www.reddit.com/r/transgenderau/comments/jgilx9/seeking_experiences_regarding_dr_pede_rogers/) by islaroze in 2020
-* [\[Sydney\] What are peoples' experiences with Cathy Pell?](https://www.reddit.com/r/transgenderau/comments/agoxhr/sydney_what_are_peoples_experiences_with_cathy/) by MissNixit in 2019 - *"Dear lawd avoid her like the plague. She forced one of my friends to submit to a GENITAL EXAM. Like wtf."*
-* [Was I Sexually Harassed?](https://www.reddit.com/r/transgenderau/comments/dtwd09/was_i_sexually_harassed/) in 2019 - *"When I went to the endocrinologist after getting approval for my HRT at Monash clinic the doctor there asked me to pull down my pants to look at my genitals. He poked and played with them a bit, didn't seem like he was looking for anything, not did he explain why. Just really wanted my medication as you can imagine. Then he sat back down and acted like nothing ever happened. I'm feeling really uncomfortable about it now. Has this happened to anyone else and do you know why they do it? Honestly I can't think of a reason and I feel off."*
+* [Seeking experiences regarding Dr Pede Rogers, Perth WA<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jgilx9/seeking_experiences_regarding_dr_pede_rogers/) by islaroze in 2020
+* [\[Sydney\] What are peoples' experiences with Cathy Pell?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/agoxhr/sydney_what_are_peoples_experiences_with_cathy/) by MissNixit in 2019 - *"Dear lawd avoid her like the plague. She forced one of my friends to submit to a GENITAL EXAM. Like wtf."*
+* [Was I Sexually Harassed?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dtwd09/was_i_sexually_harassed/) in 2019 - *"When I went to the endocrinologist after getting approval for my HRT at Monash clinic the doctor there asked me to pull down my pants to look at my genitals. He poked and played with them a bit, didn't seem like he was looking for anything, not did he explain why. Just really wanted my medication as you can imagine. Then he sat back down and acted like nothing ever happened. I'm feeling really uncomfortable about it now. Has this happened to anyone else and do you know why they do it? Honestly I can't think of a reason and I feel off."*
 
 The Sydney Morning Herald
 
@@ -337,9 +337,9 @@ Other
 
 reddit
 
-* [Receiving Gender-Affirming Care in Australia](https://www.reddit.com/r/transgenderau/comments/tyngjq/receiving_genderaffirming_care_in_australia/) by Daez666 in 2022
-* [Getting hormone renewal as a foreign resident?](https://www.reddit.com/r/transgenderau/comments/emj4hr/getting_hormone_renewal_as_a_foreign_resident/) by laughing-dreamer in 2020
+* [Receiving Gender-Affirming Care in Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/tyngjq/receiving_genderaffirming_care_in_australia/) by Daez666 in 2022
+* [Getting hormone renewal as a foreign resident?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/emj4hr/getting_hormone_renewal_as_a_foreign_resident/) by laughing-dreamer in 2020
 
 ---
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

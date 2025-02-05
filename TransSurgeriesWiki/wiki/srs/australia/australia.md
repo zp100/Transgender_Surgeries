@@ -1,19 +1,19 @@
 **SRS in Australia**
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
 SRS in other regions
 
-* [Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/australia/australia.md)
-* [Canada](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/canada/canada.md)
-* [Europe](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/europe/europe.md)
-    * [UK](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/uk/uk.md)
-* [South America](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/south/south.md-america)
-* [Thailand](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
-* [USA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md)
-* [Other](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/other/other.md)
+* [Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/australia/australia.md)
+* [Canada<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/canada/canada.md)
+* [Europe<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/europe/europe.md)
+    * [UK<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/uk/uk.md)
+* [South America<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/south/south.md-america)
+* [Thailand<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
+* [USA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md)
+* [Other<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/other/other.md)
 
 ---
 
@@ -23,15 +23,15 @@ SRS in other regions
 
 ## Health Insurance for Surgery
 
-* [Best private cover in Australia for SRS?](https://www.reddit.com/r/transgenderau/comments/ky5cvi/best_private_cover_in_australia_for_srs/) by gurllayla in 2021
-* [Private health insurance options](https://www.reddit.com/r/transgenderau/comments/drif46/private_health_insurance_options/) by Patron_saint_of_salt in 2019
+* [Best private cover in Australia for SRS?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ky5cvi/best_private_cover_in_australia_for_srs/) by gurllayla in 2021
+* [Private health insurance options<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/drif46/private_health_insurance_options/) by Patron_saint_of_salt in 2019
 * https://www.finder.com.au/sex-reassignment-surgery - *"Medicare and private both contribute toward the cost of gender reassignment surgery in Australia."*
 
 ## Superannuation
 
 reddit
 
-* [Early Release of Super (Compassionate Grounds) - rejected](https://www.reddit.com/r/transgenderau/comments/hris26/early_release_of_super_compassionate_grounds/) by fiddlesticks_t in 2020
+* [Early Release of Super (Compassionate Grounds) - rejected<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hris26/early_release_of_super_compassionate_grounds/) by fiddlesticks_t in 2020
 
 ## Travel insurance for Overseas Surgery
 
@@ -43,8 +43,8 @@ reddit
 
 reddit
 
-* [Does orchidectomy count as sex affirmation surgery in NSW?](https://www.reddit.com/r/transgenderau/comments/hu07sh/does_orchidectomy_count_as_sex_affirmation/) by Barrythebunny in 2020
-* [The private health insurance swamp](https://www.reddit.com/r/transgenderau/comments/f7kvh8/the_private_health_insurance_swamp/) by iggilost in 2020
+* [Does orchidectomy count as sex affirmation surgery in NSW?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hu07sh/does_orchidectomy_count_as_sex_affirmation/) by Barrythebunny in 2020
+* [The private health insurance swamp<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/f7kvh8/the_private_health_insurance_swamp/) by iggilost in 2020
 
 ## Gynaecologists
 
@@ -58,7 +58,7 @@ Key details
 
 reddit
 
-* reply to [Gynaecologist](https://www.reddit.com/r/transgenderau/comments/14l4awl/gynaecologist/) *"Dr Devine Bronwyn in manly, free to trans patients... Free as in she won't charge trans patients, I just saw her today post revision she's great"*
+* reply to [Gynaecologist<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/14l4awl/gynaecologist/) *"Dr Devine Bronwyn in manly, free to trans patients... Free as in she won't charge trans patients, I just saw her today post revision she's great"*
 
 <br />
 
@@ -85,82 +85,82 @@ Surgeons sites
 
 reddit
 
-* [Lump inside sack after Orchi? 4.5 Weeks post op w/ Dr Hart](https://www.reddit.com/r/Transgender_Surgeries/comments/1g7b4bi/lump_inside_sack_after_orchi_45_weeks_post_op_w/) by Elenota2 in 2024
-    * [How is this looking? 15 Days Post Op Orchi](https://www.reddit.com/r/Transgender_Surgeries/comments/1fv88gs/how_is_this_looking_15_days_post_op_orchi/) by Elenota2 in 2024
-    * [Is this normal? 10 Days Post Op Orchi](https://www.reddit.com/r/Transgender_Surgeries/comments/1frduyv/is_this_normal_10_days_post_op_orchi/) by Elenota2 in 2024
-    * [Are these spots no normal for 3-4 days post op Orchiectomy?](https://www.reddit.com/r/Transgender_Surgeries/comments/1fm1v7t/are_these_spots_no_normal_for_34_days_post_op/) by Elenota2 in 2024
-* [4.5 months post op dr Keiran hart act urology](https://www.reddit.com/r/Transgender_Surgeries/comments/1d0st1l/45_months_post_op_dr_keiran_hart_act_urology/) by No-Self-Confidence- in 2024
-    * [1.5 month post , dr hart ACT , I can't find my clit also do things look ok](https://www.reddit.com/r/Transgender_Surgeries/comments/1axppqk/15_month_post_dr_hart_act_i_cant_find_my_clit/) by No-Self-Confidence- in 2024
-* reply to [Review of Dr Hart in Canberra for MTF GCS](https://www.reddit.com/r/transgenderau/comments/hsmb18/review_of_dr_hart_in_canberra_for_mtf_gcs/kg7ltqn/?context=3) by Fabula9901 in 2024 - *"Dr Hart , Very rushed, he will not advise on your anatomy before surgery , it is what it is attitude. Remember, his background is urology, so one would be mindful that he would know his way around that area, aesthetics below par. Also, if you tend to scar badly, you will carry them with you as they do not fade. Depending how much donor tissue you have to start with will greatly determine your outcome. after surgery, he told me he was 80% happy with the procedure. His words ot mine. Do your homework, and don't let your emotions make the decision on who you go with. Remember, you want the best you can achieve because this will stay with you for the rest of your life!"*
-    * [Dr Hart PPV Surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/168ltcg/dr_hart_ppv_surgery/) by Fabula9901 in 2023
-* [Separation after one week](https://www.reddit.com/r/Transgender_Surgeries/comments/186dhrz/separation_after_one_week/) by Amazing-Experience-2 in 2023 - *"Is this normal to have separation in the area I have told my dr he just said more salt baths"*
-* [Surgery revision (PPV by Dr Hart) options/ideas?](https://www.reddit.com/r/transgenderau/comments/1844ojv/surgery_revision_ppv_by_dr_hart_optionsideas/) by Zee371 in 2023 - *"I got PPV done with Dr Hart on the may 4th 2022. The outcome was subpar and more or less he has dropped me as a patient. I been told by him that I need likely a plastic surgery to fix my existing issues does anyone have any ideas? To be blunt I don't have an outer labia or clitoris. Pluming for the most part is ok altho I likely need help out with that as well at some stage."*
-* [Any one had a revision with Dr Hart?](https://www.reddit.com/r/transgenderau/comments/13bbbuq/any_one_had_a_revision_with_dr_hart/) by  Jacqueline_Jane_Zam in 2023
-    * [Help! Bleeding after dilation!!](https://www.reddit.com/r/transgenderau/comments/zraapf/help_bleeding_after_dilation/) by Jacqueline_Jane_Zam in 2022
-* [PPT/PPV dryness](https://www.reddit.com/r/Transgender_Surgeries/comments/10dcwyc/pptppv_dryness/) by drhartthrowaway in 2023
-    * [12 months on from my first post, post op ppv with Dr Kieran hart. things have improved massively. At the time it was really hard to see a light at the end of the tunnel and I really struggled to believe anyone that it could get better, so from the bottom of my heart thank you to everyone xx](https://www.reddit.com/r/Transgender_Surgeries/comments/yd4flw/12_months_on_from_my_first_post_post_op_ppv_with/) by drhartthrowaway in 2022
-    * [six months wound separation healing update. surgeon Dr Keiran Hart](https://www.reddit.com/r/Transgender_Surgeries/comments/tzromq/six_months_wound_separation_healing_update/) by drhartthrowaway in 2022
-    * [131 days post op with dr Keiran Hart in Canberra Australia. just finished dialating on the size 4 soulsource. Does it look cis ?](https://www.reddit.com/r/Transgender_Surgeries/comments/svwmvw/131_days_post_op_with_dr_keiran_hart_in_canberra/) by drhartthrowaway in 2022
-    * [three months post op results from dr Keiran Hart in Canberra Australia, AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/s0xlw7/three_months_post_op_results_from_dr_keiran_hart/) by drhartthrowaway in 2022
-    * [6 weeks post op with dr Keiran Hart. So much improvement, I will post my thoughts in the comment section.](https://www.reddit.com/r/Transgender_Surgeries/comments/qzh1l8/6_weeks_post_op_with_dr_keiran_hart_so_much/) by drhartthrowaway in 2021
-    * [Dr. Hart 24 days post op. So I felt like it's time to give an update on my recovery from my previous post. Things are healing slowly but nicely. Mentally I'm recovering and feeling alot better about my results however revision is on the cards in the future AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/qm8pob/dr_hart_24_days_post_op_so_i_felt_like_its_time/) by drhartthrowaway in 2021
-    * [I had ppv with dr hart and this is what I ended up with.. honestly Im broken](https://www.reddit.com/r/Transgender_Surgeries/comments/qecg8q/i_had_ppv_with_dr_hart_and_this_is_what_i_ended/) by drhartthrowaway in 2021
-* [2 Months Post Peritoneal Pull Through Vaginoplasty with Dr Kieran Hart (Australia) AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/10hiiap/2_months_post_peritoneal_pull_through/) by TTAKH1122 in 2023
-* [7 weeks post ppt vaginoplasty with Dr Kieran Hart, very happy with results](https://www.reddit.com/r/Transgender_Surgeries/comments/w6md3q/7_weeks_post_ppt_vaginoplasty_with_dr_kieran_hart/) by snowbellows in 2022
-    * [7 weeks post ppt vaginoplasty with Kieran Hart AMA](https://www.reddit.com/r/transgenderau/comments/w6mimx/7_weeks_post_ppt_vaginoplasty_with_kieran_hart_ama/) by snowbellows in 2022
-* [5 Months GRS w/ Dr. Kieran Hart](https://www.reddit.com/r/Transgender_Surgeries/comments/vgdzfi/5_months_grs_w_dr_kieran_hart/) by  Baibaebay in 2022
-* [Played the vulva lottery with Hart in Australia and lost - bitterly disappointed](https://www.reddit.com/r/Transgender_Surgeries/comments/rywegq/played_the_vulva_lottery_with_hart_in_australia/) by FlutterbyFlower in 2022
+* [Lump inside sack after Orchi? 4.5 Weeks post op w/ Dr Hart<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1g7b4bi/lump_inside_sack_after_orchi_45_weeks_post_op_w/) by Elenota2 in 2024
+    * [How is this looking? 15 Days Post Op Orchi<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1fv88gs/how_is_this_looking_15_days_post_op_orchi/) by Elenota2 in 2024
+    * [Is this normal? 10 Days Post Op Orchi<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1frduyv/is_this_normal_10_days_post_op_orchi/) by Elenota2 in 2024
+    * [Are these spots no normal for 3-4 days post op Orchiectomy?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1fm1v7t/are_these_spots_no_normal_for_34_days_post_op/) by Elenota2 in 2024
+* [4.5 months post op dr Keiran hart act urology<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1d0st1l/45_months_post_op_dr_keiran_hart_act_urology/) by No-Self-Confidence- in 2024
+    * [1.5 month post , dr hart ACT , I can't find my clit also do things look ok<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1axppqk/15_month_post_dr_hart_act_i_cant_find_my_clit/) by No-Self-Confidence- in 2024
+* reply to [Review of Dr Hart in Canberra for MTF GCS<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hsmb18/review_of_dr_hart_in_canberra_for_mtf_gcs/kg7ltqn/?context=3) by Fabula9901 in 2024 - *"Dr Hart , Very rushed, he will not advise on your anatomy before surgery , it is what it is attitude. Remember, his background is urology, so one would be mindful that he would know his way around that area, aesthetics below par. Also, if you tend to scar badly, you will carry them with you as they do not fade. Depending how much donor tissue you have to start with will greatly determine your outcome. after surgery, he told me he was 80% happy with the procedure. His words ot mine. Do your homework, and don't let your emotions make the decision on who you go with. Remember, you want the best you can achieve because this will stay with you for the rest of your life!"*
+    * [Dr Hart PPV Surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/168ltcg/dr_hart_ppv_surgery/) by Fabula9901 in 2023
+* [Separation after one week<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/186dhrz/separation_after_one_week/) by Amazing-Experience-2 in 2023 - *"Is this normal to have separation in the area I have told my dr he just said more salt baths"*
+* [Surgery revision (PPV by Dr Hart) options/ideas?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1844ojv/surgery_revision_ppv_by_dr_hart_optionsideas/) by Zee371 in 2023 - *"I got PPV done with Dr Hart on the may 4th 2022. The outcome was subpar and more or less he has dropped me as a patient. I been told by him that I need likely a plastic surgery to fix my existing issues does anyone have any ideas? To be blunt I don't have an outer labia or clitoris. Pluming for the most part is ok altho I likely need help out with that as well at some stage."*
+* [Any one had a revision with Dr Hart?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/13bbbuq/any_one_had_a_revision_with_dr_hart/) by  Jacqueline_Jane_Zam in 2023
+    * [Help! Bleeding after dilation!!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zraapf/help_bleeding_after_dilation/) by Jacqueline_Jane_Zam in 2022
+* [PPT/PPV dryness<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10dcwyc/pptppv_dryness/) by drhartthrowaway in 2023
+    * [12 months on from my first post, post op ppv with Dr Kieran hart. things have improved massively. At the time it was really hard to see a light at the end of the tunnel and I really struggled to believe anyone that it could get better, so from the bottom of my heart thank you to everyone xx<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/yd4flw/12_months_on_from_my_first_post_post_op_ppv_with/) by drhartthrowaway in 2022
+    * [six months wound separation healing update. surgeon Dr Keiran Hart<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/tzromq/six_months_wound_separation_healing_update/) by drhartthrowaway in 2022
+    * [131 days post op with dr Keiran Hart in Canberra Australia. just finished dialating on the size 4 soulsource. Does it look cis ?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/svwmvw/131_days_post_op_with_dr_keiran_hart_in_canberra/) by drhartthrowaway in 2022
+    * [three months post op results from dr Keiran Hart in Canberra Australia, AMA<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/s0xlw7/three_months_post_op_results_from_dr_keiran_hart/) by drhartthrowaway in 2022
+    * [6 weeks post op with dr Keiran Hart. So much improvement, I will post my thoughts in the comment section.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qzh1l8/6_weeks_post_op_with_dr_keiran_hart_so_much/) by drhartthrowaway in 2021
+    * [Dr. Hart 24 days post op. So I felt like it's time to give an update on my recovery from my previous post. Things are healing slowly but nicely. Mentally I'm recovering and feeling alot better about my results however revision is on the cards in the future AMA<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qm8pob/dr_hart_24_days_post_op_so_i_felt_like_its_time/) by drhartthrowaway in 2021
+    * [I had ppv with dr hart and this is what I ended up with.. honestly Im broken<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qecg8q/i_had_ppv_with_dr_hart_and_this_is_what_i_ended/) by drhartthrowaway in 2021
+* [2 Months Post Peritoneal Pull Through Vaginoplasty with Dr Kieran Hart (Australia) AMA<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10hiiap/2_months_post_peritoneal_pull_through/) by TTAKH1122 in 2023
+* [7 weeks post ppt vaginoplasty with Dr Kieran Hart, very happy with results<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/w6md3q/7_weeks_post_ppt_vaginoplasty_with_dr_kieran_hart/) by snowbellows in 2022
+    * [7 weeks post ppt vaginoplasty with Kieran Hart AMA<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/w6mimx/7_weeks_post_ppt_vaginoplasty_with_kieran_hart_ama/) by snowbellows in 2022
+* [5 Months GRS w/ Dr. Kieran Hart<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vgdzfi/5_months_grs_w_dr_kieran_hart/) by  Baibaebay in 2022
+* [Played the vulva lottery with Hart in Australia and lost - bitterly disappointed<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rywegq/played_the_vulva_lottery_with_hart_in_australia/) by FlutterbyFlower in 2022
 
 **Non-photo links**
 
 reddit
 
-* reply to [Peritoneal Pull Through questions](https://www.reddit.com/r/transgenderau/comments/1h5ewdm/peritoneal_pull_through_questions/m071ajs/?context=3) by OofRoissy in 2024
-* [1 week post PPV with Dr Hart](https://www.reddit.com/r/transgenderau/comments/1gk2xve/1_week_post_ppv_with_dr_hart/) by FunnyAbbreviations81 in 2024
-* [GCS/PPT Vaginoplasty w/ Dr Kieran Hart](https://www.reddit.com/r/transgenderau/comments/1f7wg8c/gcsppt_vaginoplasty_w_dr_kieran_hart/) by babyeater52 in 2024
-* [Worth seeing Dr hart again?](https://www.reddit.com/r/transgenderau/comments/18glgoz/worth_seeing_dr_hart_again/) in 2024 - *"So I had alot of issues with Dr hart (check my profile) as he has left me in a completely helpless state but recently he reached out to me finally little over 8 months and is considering to make time for me to see him again in February. I am not going to lie I don't trust him at all at this stage and his mixed response to my issues has me somewhat perplexed.... As well he highly suggested I would b better of seeking a second opinion in this last email to me. Which I have been trying to do but turns out no one wants to touch the butcher mess I am in. I feel he is very much trying to brush me off again as this isn't the first time I have try to get him to see me before. He goes on about how I should seeing a plastic surgery and talk to your GP or insert something to keep me running around anything that passes the issue to someone else and at this stage I done everything I could. I need him to take responsibility for me aka an actually patient but y do that right leave me in limbo I love just being in chronic pain..."*
-* [Dr Ives VS Dr Hart SRS](https://www.reddit.com/r/transgenderau/comments/1ctxb8u/dr_ives_vs_dr_hart_srs/) by rainbowgurl9874 in 2024
-* [Peritoneal pull through results question (loose skin)](https://www.reddit.com/r/transgenderau/comments/1cm2joa/peritoneal_pull_through_results_question_loose/) by HildegardeWithers in 2024 - *"I'm kind of questioning my decision to have a ppt as depth is very average, at the lower end of traditional methods. And while skin has been preserved, the scrotal skin that has been preserved looks just like that, two scrotal sacks unconvincingly trying to look like outer labia. This skin has reduced somewhat since surgery a month ago, but I can't imagine it changing that much, and I'm already thinking about seeing a labiaplasty surgeon to ask if they can improve the aesthetic."*
-* [Positive results from Dr Hart - have you regretted not going to Thailand?](https://www.reddit.com/r/transgenderau/comments/1c3ix6l/positive_results_from_dr_hart_have_you_regretted/) by VariousGovernment424 in 2024
-* [Just came out the operating theatre foe The Surgery (MtF). Celebration post but also AMA, I guess?](https://www.reddit.com/r/asktransgender/comments/1b09i02/just_came_out_the_operating_theatre_foe_the/) by artificed-crotch-TA in 2024
-    * x-post [Just came out of the operating theatre for The Surgery (MtF). Celebration post but also AMA, I guess?](https://www.reddit.com/r/transgenderau/comments/1b09lq8/just_came_out_of_the_operating_theatre_for_the/) by artificed-crotch-TA in 2024
-* reply to [Peritoneal Surgery with Dr Theerapong Poonyakariyagorn](https://www.reddit.com/r/Transgender_Surgeries/comments/18fqtnk/peritoneal_surgery_with_dr_theerapong/kpqazxk/) by Pitiful-Bandicoot820 in 2024 - *"I got ppv done here in Australia by Dr Hart. I thought I was gonna die in the hospital even was deny pain killers at some stages as well just very much ignore by alot of the staff. Even past this tho I am about a year and half in and I still get alot of pain and I am straight up missing a clitoris and outer labia. Dr Hart more or less has just said this is fine which I disagree greatly but he refused to do anything else. So yea idk I feel alot of folks talk higher of Dr Hart but he has legit ruined my life and the rest of the systems here in Australia do nothing to help. I said it before if you can go anywhere other than here for this type of surgery please do so. I truly believe Dr Hart shouldn't b allowed to practiced this care is sub standard and will drop you if he feels like it"*
-* [Vaginoplasty post-op issues Dr Kieran Hart](https://www.reddit.com/r/Transgender_Surgeries/comments/187zhxw/vaginoplasty_postop_issues_dr_kieran_hart/) by brisvegas_idiot in 2023 - *"As a whole I've not been very satisfied with the results for the 50 grand AUD it cost me out of pocket for the initial surgery but the main issue I've been experiencing is a tight band around 2 inches deep into my vagina... he recommended a revision to cut a muscle that's too tight, which cost me another $7k out of pocket he said it's probably because my pelvis is too small and mentioned there's a doctor in the US who might be able to break my pelvis to fix it... While I'll never regret bottom surgery I'm unhappy with these results. Nearly $60k spent for meh aesthetics, scrotum skin left over on the exterior that apparently can't be fixed without horrible scarring... I can't have sex"*
-* reply to [Dr Kieren Hart timelines](https://www.reddit.com/r/transgenderau/comments/18bshyl/dr_kieren_hart_timelines/kc67nyg/) in 2023 - *"He has butch me terribly, looks really bad and I live with chronic pain. I would advice to avoid if its possible"*
-* [Has anyone had any good experiences with Dr Hart (Canberra)](https://www.reddit.com/r/transgenderau/comments/185k8g1/has_anyone_had_any_good_experiences_with_dr_hart/) by ZoeyTheComposer in 2023
-* [Mtf surgery](https://www.reddit.com/r/MtF/comments/172mnu5/mtf_surgery/) by newpussy in 2023
-* [Has anyone discussed with Dr Kieran Hart if they can have an orchiectomy prior to having SRS with him?](https://www.reddit.com/r/transgenderau/comments/15g03fu/has_anyone_discussed_with_dr_kieran_hart_if_they/) by Better-Living2101 in 2023
-* [Had ppv done by Dr Hart](https://www.reddit.com/r/transgenderau/comments/10oly9w/had_ppv_done_by_dr_hart/) by zzeeeep in 2023 - *"I contracted hart altho its unlikey he get back to me for the most part hes been ghosting and avoid me "*
-* [Peritoneal Pull-through Revision on a botched Peritoneal GRS](https://www.reddit.com/r/Transgender_Surgeries/comments/topirt/peritoneal_pullthrough_revision_on_a_botched/) by jwstott around 2022 - *"I had my bottom surgery 13 months ago with Keiran Hart in Australia. I went in expecting a full peritoneal canal as that is what we had discussed and as i was being wheeled in for anaesthetics he told me he was going to do a PIV/Peritoneal hybrid. Disappointing aesthetics of my vulvasuarus aside, inadequate dilation instructions by Hart and his failure to take my post-op depth concerns seriously at the time I raised them mean I'm left with a depth of only 5-6cm."*
-* [PPV with Dr Hart - 6 week update - The good and the bad](https://www.reddit.com/r/Transgender_Surgeries/comments/zbhfox/ppv_with_dr_hart_6_week_update_the_good_and_the/) by thegirltwink in 2022
-    * [PPV with Dr Hart - 2.5 week update - Extreme change in dilation](https://www.reddit.com/r/Transgender_Surgeries/comments/yomx5a/ppv_with_dr_hart_25_week_update_extreme_change_in/) by thegirltwink in 2022
-    * [PPV with Dr Hart - Day 5 - the great box unboxing](https://www.reddit.com/r/Transgender_Surgeries/comments/yds092/ppv_with_dr_hart_day_5_the_great_box_unboxing/) by thegirltwink in 2022
-    * [PPV with Dr Hart - Day 1 to 4](https://www.reddit.com/r/Transgender_Surgeries/comments/yctl9p/ppv_with_dr_hart_day_1_to_4/) by  thegirltwink in 2022
-    * [Had PPV today](https://www.reddit.com/r/Transgender_Surgeries/comments/y9q3wo/had_ppv_today/) by thegirltwink in 2022
-* [Penile Inversion with Dr Hart](https://www.reddit.com/r/Transgender_Surgeries/comments/yusk22/penile_inversion_with_dr_hart/) by Kipkipsz in 2022
-* [Can I increase depth through dilation?](https://www.reddit.com/r/Transgender_Surgeries/comments/ybyyzo/can_i_increase_depth_through_dilation/) by Icy-Mud-3742 in 2022
-    * [Dilation - how to measure depth](https://www.reddit.com/r/Transgender_Surgeries/comments/y1w05f/dilation_how_to_measure_depth/)  by Icy-Mud-3742 in 2022
-    * [Clitoral sensation - return of…? I’ve recently (5weeks ago) had ppv and labiaplasty. I don’t really have a lot of feeling down there at the moment. I understand everyone is different but when is it likely that sensation will return (especially in my clitoris)?](https://www.reddit.com/r/Transgender_Surgeries/comments/xz92ds/clitoral_sensation_return_of_ive_recently_5weeks/)
-    * [When will sensation return after grs?](https://www.reddit.com/r/Transgender_Surgeries/comments/xz95sc/when_will_sensation_return_after_grs/) by Icy-Mud-3742 in 2022
-    * [Hello, I’m having grs this September in Canberra with Dr Hart (robotic peritoneal pull through vaginoplasty). I know I won’t be able to wear pants for a while afterwards but what about panty hose?](https://www.reddit.com/r/Transgender_Surgeries/comments/vwvkat/hello_im_having_grs_this_september_in_canberra/) by Icy-Mud-3742 in 2022
-* [Dr. Kieran Hart has closed his books to new referrals for gender affirming surgery](https://www.reddit.com/r/transgenderau/comments/ws4m2m/dr_kieran_hart_has_closed_his_books_to_new/) by Adorable_Egg86 in 2022
-* [Contacting Dr Kieran Hart](https://www.reddit.com/r/transgenderau/comments/w7hrkx/contacting_dr_kieran_hart/) by evie_kitty in 2022
-* [I’m 23F approaching 6 months post op peritoneal pull through with Dr Hart in Canberra and I haven’t been able to have one yet. It is sensitive down there just not in a pleasurable way…](https://www.reddit.com/r/Transgender_Surgeries/comments/u6yffo/how_long_after_srs_did_you_have_an_orgasm/) by Big-Pomelo4182 in 2022
-* [My PPV Journey (Dr Hart)](https://www.reddit.com/r/transgenderau/comments/ttlzxb/my_ppv_journey_dr_hart/) by omgsharna
+* reply to [Peritoneal Pull Through questions<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1h5ewdm/peritoneal_pull_through_questions/m071ajs/?context=3) by OofRoissy in 2024
+* [1 week post PPV with Dr Hart<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1gk2xve/1_week_post_ppv_with_dr_hart/) by FunnyAbbreviations81 in 2024
+* [GCS/PPT Vaginoplasty w/ Dr Kieran Hart<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1f7wg8c/gcsppt_vaginoplasty_w_dr_kieran_hart/) by babyeater52 in 2024
+* [Worth seeing Dr hart again?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/18glgoz/worth_seeing_dr_hart_again/) in 2024 - *"So I had alot of issues with Dr hart (check my profile) as he has left me in a completely helpless state but recently he reached out to me finally little over 8 months and is considering to make time for me to see him again in February. I am not going to lie I don't trust him at all at this stage and his mixed response to my issues has me somewhat perplexed.... As well he highly suggested I would b better of seeking a second opinion in this last email to me. Which I have been trying to do but turns out no one wants to touch the butcher mess I am in. I feel he is very much trying to brush me off again as this isn't the first time I have try to get him to see me before. He goes on about how I should seeing a plastic surgery and talk to your GP or insert something to keep me running around anything that passes the issue to someone else and at this stage I done everything I could. I need him to take responsibility for me aka an actually patient but y do that right leave me in limbo I love just being in chronic pain..."*
+* [Dr Ives VS Dr Hart SRS<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1ctxb8u/dr_ives_vs_dr_hart_srs/) by rainbowgurl9874 in 2024
+* [Peritoneal pull through results question (loose skin)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1cm2joa/peritoneal_pull_through_results_question_loose/) by HildegardeWithers in 2024 - *"I'm kind of questioning my decision to have a ppt as depth is very average, at the lower end of traditional methods. And while skin has been preserved, the scrotal skin that has been preserved looks just like that, two scrotal sacks unconvincingly trying to look like outer labia. This skin has reduced somewhat since surgery a month ago, but I can't imagine it changing that much, and I'm already thinking about seeing a labiaplasty surgeon to ask if they can improve the aesthetic."*
+* [Positive results from Dr Hart - have you regretted not going to Thailand?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1c3ix6l/positive_results_from_dr_hart_have_you_regretted/) by VariousGovernment424 in 2024
+* [Just came out the operating theatre foe The Surgery (MtF). Celebration post but also AMA, I guess?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/1b09i02/just_came_out_the_operating_theatre_foe_the/) by artificed-crotch-TA in 2024
+    * x-post [Just came out of the operating theatre for The Surgery (MtF). Celebration post but also AMA, I guess?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1b09lq8/just_came_out_of_the_operating_theatre_for_the/) by artificed-crotch-TA in 2024
+* reply to [Peritoneal Surgery with Dr Theerapong Poonyakariyagorn<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/18fqtnk/peritoneal_surgery_with_dr_theerapong/kpqazxk/) by Pitiful-Bandicoot820 in 2024 - *"I got ppv done here in Australia by Dr Hart. I thought I was gonna die in the hospital even was deny pain killers at some stages as well just very much ignore by alot of the staff. Even past this tho I am about a year and half in and I still get alot of pain and I am straight up missing a clitoris and outer labia. Dr Hart more or less has just said this is fine which I disagree greatly but he refused to do anything else. So yea idk I feel alot of folks talk higher of Dr Hart but he has legit ruined my life and the rest of the systems here in Australia do nothing to help. I said it before if you can go anywhere other than here for this type of surgery please do so. I truly believe Dr Hart shouldn't b allowed to practiced this care is sub standard and will drop you if he feels like it"*
+* [Vaginoplasty post-op issues Dr Kieran Hart<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/187zhxw/vaginoplasty_postop_issues_dr_kieran_hart/) by brisvegas_idiot in 2023 - *"As a whole I've not been very satisfied with the results for the 50 grand AUD it cost me out of pocket for the initial surgery but the main issue I've been experiencing is a tight band around 2 inches deep into my vagina... he recommended a revision to cut a muscle that's too tight, which cost me another $7k out of pocket he said it's probably because my pelvis is too small and mentioned there's a doctor in the US who might be able to break my pelvis to fix it... While I'll never regret bottom surgery I'm unhappy with these results. Nearly $60k spent for meh aesthetics, scrotum skin left over on the exterior that apparently can't be fixed without horrible scarring... I can't have sex"*
+* reply to [Dr Kieren Hart timelines<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/18bshyl/dr_kieren_hart_timelines/kc67nyg/) in 2023 - *"He has butch me terribly, looks really bad and I live with chronic pain. I would advice to avoid if its possible"*
+* [Has anyone had any good experiences with Dr Hart (Canberra)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/185k8g1/has_anyone_had_any_good_experiences_with_dr_hart/) by ZoeyTheComposer in 2023
+* [Mtf surgery<sup>R</sup>](https://www.reddit.com/r/MtF/comments/172mnu5/mtf_surgery/) by newpussy in 2023
+* [Has anyone discussed with Dr Kieran Hart if they can have an orchiectomy prior to having SRS with him?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/15g03fu/has_anyone_discussed_with_dr_kieran_hart_if_they/) by Better-Living2101 in 2023
+* [Had ppv done by Dr Hart<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/10oly9w/had_ppv_done_by_dr_hart/) by zzeeeep in 2023 - *"I contracted hart altho its unlikey he get back to me for the most part hes been ghosting and avoid me "*
+* [Peritoneal Pull-through Revision on a botched Peritoneal GRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/topirt/peritoneal_pullthrough_revision_on_a_botched/) by jwstott around 2022 - *"I had my bottom surgery 13 months ago with Keiran Hart in Australia. I went in expecting a full peritoneal canal as that is what we had discussed and as i was being wheeled in for anaesthetics he told me he was going to do a PIV/Peritoneal hybrid. Disappointing aesthetics of my vulvasuarus aside, inadequate dilation instructions by Hart and his failure to take my post-op depth concerns seriously at the time I raised them mean I'm left with a depth of only 5-6cm."*
+* [PPV with Dr Hart - 6 week update - The good and the bad<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/zbhfox/ppv_with_dr_hart_6_week_update_the_good_and_the/) by thegirltwink in 2022
+    * [PPV with Dr Hart - 2.5 week update - Extreme change in dilation<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/yomx5a/ppv_with_dr_hart_25_week_update_extreme_change_in/) by thegirltwink in 2022
+    * [PPV with Dr Hart - Day 5 - the great box unboxing<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/yds092/ppv_with_dr_hart_day_5_the_great_box_unboxing/) by thegirltwink in 2022
+    * [PPV with Dr Hart - Day 1 to 4<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/yctl9p/ppv_with_dr_hart_day_1_to_4/) by  thegirltwink in 2022
+    * [Had PPV today<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/y9q3wo/had_ppv_today/) by thegirltwink in 2022
+* [Penile Inversion with Dr Hart<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/yusk22/penile_inversion_with_dr_hart/) by Kipkipsz in 2022
+* [Can I increase depth through dilation?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ybyyzo/can_i_increase_depth_through_dilation/) by Icy-Mud-3742 in 2022
+    * [Dilation - how to measure depth<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/y1w05f/dilation_how_to_measure_depth/)  by Icy-Mud-3742 in 2022
+    * [Clitoral sensation - return of…? I’ve recently (5weeks ago) had ppv and labiaplasty. I don’t really have a lot of feeling down there at the moment. I understand everyone is different but when is it likely that sensation will return (especially in my clitoris)?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/xz92ds/clitoral_sensation_return_of_ive_recently_5weeks/)
+    * [When will sensation return after grs?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/xz95sc/when_will_sensation_return_after_grs/) by Icy-Mud-3742 in 2022
+    * [Hello, I’m having grs this September in Canberra with Dr Hart (robotic peritoneal pull through vaginoplasty). I know I won’t be able to wear pants for a while afterwards but what about panty hose?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vwvkat/hello_im_having_grs_this_september_in_canberra/) by Icy-Mud-3742 in 2022
+* [Dr. Kieran Hart has closed his books to new referrals for gender affirming surgery<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ws4m2m/dr_kieran_hart_has_closed_his_books_to_new/) by Adorable_Egg86 in 2022
+* [Contacting Dr Kieran Hart<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/w7hrkx/contacting_dr_kieran_hart/) by evie_kitty in 2022
+* [I’m 23F approaching 6 months post op peritoneal pull through with Dr Hart in Canberra and I haven’t been able to have one yet. It is sensitive down there just not in a pleasurable way…<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/u6yffo/how_long_after_srs_did_you_have_an_orgasm/) by Big-Pomelo4182 in 2022
+* [My PPV Journey (Dr Hart)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ttlzxb/my_ppv_journey_dr_hart/) by omgsharna
 in 2022, links to google document [My GCS Journey (Sharna)](https://docs.google.com/document/d/18_e3AUJPB0HeeKm-Ar9kXYltU8no08p72rr1V6uWUAA/edit?usp=drivesdk)
-* [Dr Kieren Hart for Gcs. Honest reviews, good or bad.](https://www.reddit.com/r/transgenderau/comments/t3yizk/dr_kieren_hart_for_gcs_honest_reviews_good_or_bad/) by kelli-b1971 in 2022
-* [I’M 1 MONTH POST OP SRS ASK ME ANYTHING!!!](https://www.reddit.com/r/MtF/comments/r2yqpx/im_1_month_post_op_srs_ask_me_anything/) by Gennifer29 in 2021
-* [I had GCS PPV with dr Keiran Hart in Canberra Australia yesterday ama](https://www.reddit.com/r/Transgender_Surgeries/comments/q6due4/i_had_gcs_ppv_with_dr_keiran_hart_in_canberra/) by Wolfgear098 in 2021
-* [Contacting Dr. Kieran Hart?](https://www.reddit.com/r/transgenderau/comments/pfp1hp/contacting_dr_kieran_hart/) by frostypls in 2021
-* [SRS experiences with Dr Hart in Australia](https://www.reddit.com/r/Transgender_Surgeries/comments/m3ctt7/srs_experiences_with_dr_hart_in_australia/) by Eclipse36 in 2021, references [google doc](https://docs.google.com/document/d/1L6zRIsg9YaQDYgU1g5X60HDt1gl4iqj7_Wsh70INVeU/edit?usp=drivesdk)
-    * [SRS experiences with Dr Hart](https://www.reddit.com/r/transgenderau/comments/m3bqp7/srs_experiences_with_dr_hart/) by Eclipse36 in 2021, references [google doc](https://docs.google.com/document/d/1L6zRIsg9YaQDYgU1g5X60HDt1gl4iqj7_Wsh70INVeU/edit?usp=drivesdk)
-* [Dr. Hart or Dr. Ives?](https://www.reddit.com/r/transgenderau/comments/kwn4gy/dr_hart_or_dr_ives/) by Castle-Bailey in 2021
-* [Undergoing penile inversion vaginoplasty with Dr. Kieran Hart in January (all my info)](https://www.reddit.com/r/Transgender_Surgeries/comments/j93hts/undergoing_penile_inversion_vaginoplasty_with_dr/) by defyinggod in 2020
-* [Review of Dr Hart in Canberra for MTF GCS](https://www.reddit.com/r/transgenderau/comments/hsmb18/review_of_dr_hart_in_canberra_for_mtf_gcs/) by Ali-Chall in 2020
-    * reply to [Bottom surgery doctors](https://www.reddit.com/r/transgenderau/comments/hodg48/bottom_surgery_doctors/fxi6a5m/) by Ali-Chall in 2020
-* [Bottom Surgery with Dr Hart](https://www.reddit.com/r/Transgender_Surgeries/comments/gxn3yp/bottom_surgery_with_dr_hart/) by Agreeable-Hedgehog19 in 2020
-* [Kieran Hart revisions?](https://www.reddit.com/r/transgenderau/comments/ffb29t/kieran_hart_revisions/) by estradi0l in 2020
-* [SRS in Canberra with Dr Kieran Hart?](https://www.reddit.com/r/transgenderau/comments/aoeyp9/srs_in_canberra_with_dr_kieran_hart/) by AttendezLaFemme in 2019
+* [Dr Kieren Hart for Gcs. Honest reviews, good or bad.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/t3yizk/dr_kieren_hart_for_gcs_honest_reviews_good_or_bad/) by kelli-b1971 in 2022
+* [I’M 1 MONTH POST OP SRS ASK ME ANYTHING!!!<sup>R</sup>](https://www.reddit.com/r/MtF/comments/r2yqpx/im_1_month_post_op_srs_ask_me_anything/) by Gennifer29 in 2021
+* [I had GCS PPV with dr Keiran Hart in Canberra Australia yesterday ama<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/q6due4/i_had_gcs_ppv_with_dr_keiran_hart_in_canberra/) by Wolfgear098 in 2021
+* [Contacting Dr. Kieran Hart?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/pfp1hp/contacting_dr_kieran_hart/) by frostypls in 2021
+* [SRS experiences with Dr Hart in Australia<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/m3ctt7/srs_experiences_with_dr_hart_in_australia/) by Eclipse36 in 2021, references [google doc](https://docs.google.com/document/d/1L6zRIsg9YaQDYgU1g5X60HDt1gl4iqj7_Wsh70INVeU/edit?usp=drivesdk)
+    * [SRS experiences with Dr Hart<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/m3bqp7/srs_experiences_with_dr_hart/) by Eclipse36 in 2021, references [google doc](https://docs.google.com/document/d/1L6zRIsg9YaQDYgU1g5X60HDt1gl4iqj7_Wsh70INVeU/edit?usp=drivesdk)
+* [Dr. Hart or Dr. Ives?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kwn4gy/dr_hart_or_dr_ives/) by Castle-Bailey in 2021
+* [Undergoing penile inversion vaginoplasty with Dr. Kieran Hart in January (all my info)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/j93hts/undergoing_penile_inversion_vaginoplasty_with_dr/) by defyinggod in 2020
+* [Review of Dr Hart in Canberra for MTF GCS<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hsmb18/review_of_dr_hart_in_canberra_for_mtf_gcs/) by Ali-Chall in 2020
+    * reply to [Bottom surgery doctors<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hodg48/bottom_surgery_doctors/fxi6a5m/) by Ali-Chall in 2020
+* [Bottom Surgery with Dr Hart<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/gxn3yp/bottom_surgery_with_dr_hart/) by Agreeable-Hedgehog19 in 2020
+* [Kieran Hart revisions?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ffb29t/kieran_hart_revisions/) by estradi0l in 2020
+* [SRS in Canberra with Dr Kieran Hart?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/aoeyp9/srs_in_canberra_with_dr_kieran_hart/) by AttendezLaFemme in 2019
 
 Susans
 
@@ -197,7 +197,7 @@ Surgeons sites
 
 reddit
 
-* [Orchi W/out Insurance in NSW](https://www.reddit.com/r/transgenderau/comments/a5zml6/orchi_wout_insurance_in_nsw/) in 2018
+* [Orchi W/out Insurance in NSW<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/a5zml6/orchi_wout_insurance_in_nsw/) in 2018
 
 <br />
 
@@ -235,14 +235,14 @@ reddit
 
 * [does my vulva look cis?](https://old.reddit.com/r/Transgender_Surgeries/comments/14t2al4/does_my_vulva_look_cis/) by folklovermor3 in 2023
     * [3 months post op today](https://old.reddit.com/r/Transgender_Surgeries/comments/1377qmn/3_months_post_op_today/) by folklovermor3 in 2023
-    * [8 weeks post op! (Dr David Caminer in Sydney)](https://www.reddit.com/r/Transgender_Surgeries/comments/129j59w/8_weeks_post_op_dr_david_caminer_in_sydney/) by folklovermor3 in 2023
+    * [8 weeks post op! (Dr David Caminer in Sydney)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/129j59w/8_weeks_post_op_dr_david_caminer_in_sydney/) by folklovermor3 in 2023
 
 **Non-photo links**
 
 reddit
 
-* reply to [labiaplasty then later peritoneal pull-through](https://www.reddit.com/r/transgenderau/comments/109tazp/labiaplasty_then_later_peritoneal_pullthrough/j459g4a/) by didlowman in 2023 - *"David Caminer wouldn't even answer any questions without a $300+ consultant fee and was the most high pressure book now I've ever had from a doctor office"*
-* [Has anyone had experiences with Dr David Caminer?](https://www.reddit.com/r/transgenderau/comments/fo16xu/has_anyone_had_experiences_with_dr_david_caminer/) by AlbeyAmakiir in 2020
+* reply to [labiaplasty then later peritoneal pull-through<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/109tazp/labiaplasty_then_later_peritoneal_pullthrough/j459g4a/) by didlowman in 2023 - *"David Caminer wouldn't even answer any questions without a $300+ consultant fee and was the most high pressure book now I've ever had from a doctor office"*
+* [Has anyone had experiences with Dr David Caminer?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/fo16xu/has_anyone_had_experiences_with_dr_david_caminer/) by AlbeyAmakiir in 2020
 
 <br />
 
@@ -263,12 +263,12 @@ Surgeons sites
 
 reddit
 
-* [Just had a bilateral orchiectomy (orchidectomy) with Dr Tania Hossack, AMA!](https://www.reddit.com/r/transgenderau/comments/1hg61xm/just_had_a_bilateral_orchiectomy_orchidectomy/) by godzemo in 2024
-* [Question regarding orchys](https://www.reddit.com/r/transgenderau/comments/1h1hols/question_regarding_orchys/) by  Alice_Monsterfer in 2024
-* [Orchidectomy Dr Hossak Sydney (pic for attention)](https://www.reddit.com/r/transgenderau/comments/19cixde/orchidectomy_dr_hossak_sydney_pic_for_attention/) by 8950149 in 2024 - *"Had a simple Bilateral Orchidectomy last Friday. 45 minutes in surgery, home later that day. Very little pain or discomfort - sent home with Tapendol and antibiotics - dropped to just panadol after a day or so due to tapendol knocking me out. Taking it easy with feet up, as recommended by doctor, to avoid complications and swelling. Cost $2212 AU plus hospital plus anesthesiologist costs. All up a little over $3k. Will receive some return from private health cover (maybe a few hundred?) as I had a letter from my psychiatrist declaring I had gender dysphoria and so medically necessary. Wait was two weeks from consultation, but 3 months to get a consult."*
-* reply to [Options for MTF bottom surgery in 2023](https://www.reddit.com/r/transgenderau/comments/yzyk5o/options_for_mtf_bottom_surgery_in_2023/iya81sa/?context=3) by Nyyxxen in 2022 - *"I'm currently recovering in a hotel room after being disharged from East Sydney Private Hospital, receiving penile inversion vaginoplasty from Dr Caminer. He's a bit more expensive than Dr Hart and doesn't offer peritoneal; I believe I'm his 7th patient to undergo the procedure..."*
-* [Well, I don't have the balls to do that again.... #AMA](https://www.reddit.com/r/transgenderau/comments/jjsl3x/well_i_dont_have_the_balls_to_do_that_again_ama/) by KlaraTi in 2020
-* [I have my Orchy date!!!!!](https://www.reddit.com/r/transgenderau/comments/j3q6j8/i_have_my_orchy_date/) by KlaraTi in 2020
+* [Just had a bilateral orchiectomy (orchidectomy) with Dr Tania Hossack, AMA!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1hg61xm/just_had_a_bilateral_orchiectomy_orchidectomy/) by godzemo in 2024
+* [Question regarding orchys<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1h1hols/question_regarding_orchys/) by  Alice_Monsterfer in 2024
+* [Orchidectomy Dr Hossak Sydney (pic for attention)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/19cixde/orchidectomy_dr_hossak_sydney_pic_for_attention/) by 8950149 in 2024 - *"Had a simple Bilateral Orchidectomy last Friday. 45 minutes in surgery, home later that day. Very little pain or discomfort - sent home with Tapendol and antibiotics - dropped to just panadol after a day or so due to tapendol knocking me out. Taking it easy with feet up, as recommended by doctor, to avoid complications and swelling. Cost $2212 AU plus hospital plus anesthesiologist costs. All up a little over $3k. Will receive some return from private health cover (maybe a few hundred?) as I had a letter from my psychiatrist declaring I had gender dysphoria and so medically necessary. Wait was two weeks from consultation, but 3 months to get a consult."*
+* reply to [Options for MTF bottom surgery in 2023<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/yzyk5o/options_for_mtf_bottom_surgery_in_2023/iya81sa/?context=3) by Nyyxxen in 2022 - *"I'm currently recovering in a hotel room after being disharged from East Sydney Private Hospital, receiving penile inversion vaginoplasty from Dr Caminer. He's a bit more expensive than Dr Hart and doesn't offer peritoneal; I believe I'm his 7th patient to undergo the procedure..."*
+* [Well, I don't have the balls to do that again.... #AMA<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jjsl3x/well_i_dont_have_the_balls_to_do_that_again_ama/) by KlaraTi in 2020
+* [I have my Orchy date!!!!!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/j3q6j8/i_have_my_orchy_date/) by KlaraTi in 2020
 
 <br />
 
@@ -291,9 +291,9 @@ Surgeons sites
 
 reddit
 
-* [Urologists in Sydney?](https://www.reddit.com/r/transgenderau/comments/f52z3u/urologists_in_sydney/) by nicolejr in 2020 - *"I got a referral to Dr Jarvis's offices but I just called and I mentioned that I want an orchiectomy and that Tom no longer does the procedure. "*
-* [Free(ish) orchi under Medicare - my experience](https://www.reddit.com/r/transgenderau/comments/dltgp7/freeish_orchi_under_medicare_my_experience/) by AlpacaActually in 2019
-* [Bilateral orchiectomy in Sydney?](https://www.reddit.com/r/transgenderau/comments/62wwc3/bilateral_orchiectomy_in_sydney/) by NocteVulpes in 2017
+* [Urologists in Sydney?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/f52z3u/urologists_in_sydney/) by nicolejr in 2020 - *"I got a referral to Dr Jarvis's offices but I just called and I mentioned that I want an orchiectomy and that Tom no longer does the procedure. "*
+* [Free(ish) orchi under Medicare - my experience<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dltgp7/freeish_orchi_under_medicare_my_experience/) by AlpacaActually in 2019
+* [Bilateral orchiectomy in Sydney?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/62wwc3/bilateral_orchiectomy_in_sydney/) by NocteVulpes in 2017
 
 <br />
 
@@ -314,7 +314,7 @@ Surgeons sites
 
 reddit
 
-* [Getting An Orchi. How, Where & How Much?](https://www.reddit.com/r/transgenderau/comments/mn1u6j/getting_an_orchi_how_where_how_much/) by Axiryth in 2021
+* [Getting An Orchi. How, Where & How Much?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/mn1u6j/getting_an_orchi_how_where_how_much/) by Axiryth in 2021
 
 Other
 
@@ -398,11 +398,11 @@ Surgeons sites
 
 reddit
 
-* [Just got removed from the wait list for bottom surgery, what do I do now :(](https://www.reddit.com/r/transgenderau/comments/sptvc7/just_got_removed_from_the_wait_list_for_bottom/) by Hollow1011 in 2022
-* [Dr Hans Goossen Brisbane no longer taking SRS MTF's](https://www.reddit.com/r/transgenderau/comments/shlspx/dr_hans_goossen_brisbane_no_longer_taking_srs_mtfs/) by MsCleaner in 2022
-* [PPV with Dr Goossen in Brisbane, Australia](https://www.reddit.com/r/Transgender_Surgeries/comments/pk4g59/ppv_with_dr_goossen_in_brisbane_australia/) by  yagirlchloeb in 2021 - links to a google [document](https://docs.google.com/document/d/1i-HEFAGgKVUmm4cqlqtF_-FFVoqozZBSkDKahVDxIg4/edit?usp=sharing)
-* [Review of Dr Hans Goossen GRS vaginoplasty Brisbane based.](https://www.reddit.com/r/transgenderau/comments/lh22ei/review_of_dr_hans_goossen_grs_vaginoplasty/) by penitensive in 2021
-* [MTF Hans Goossen](https://www.reddit.com/r/transgenderau/comments/c50m9g/mtf_hans_goossen/) by katielouau in 2019
+* [Just got removed from the wait list for bottom surgery, what do I do now :(<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/sptvc7/just_got_removed_from_the_wait_list_for_bottom/) by Hollow1011 in 2022
+* [Dr Hans Goossen Brisbane no longer taking SRS MTF's<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/shlspx/dr_hans_goossen_brisbane_no_longer_taking_srs_mtfs/) by MsCleaner in 2022
+* [PPV with Dr Goossen in Brisbane, Australia<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pk4g59/ppv_with_dr_goossen_in_brisbane_australia/) by  yagirlchloeb in 2021 - links to a google [document](https://docs.google.com/document/d/1i-HEFAGgKVUmm4cqlqtF_-FFVoqozZBSkDKahVDxIg4/edit?usp=sharing)
+* [Review of Dr Hans Goossen GRS vaginoplasty Brisbane based.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/lh22ei/review_of_dr_hans_goossen_grs_vaginoplasty/) by penitensive in 2021
+* [MTF Hans Goossen<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/c50m9g/mtf_hans_goossen/) by katielouau in 2019
 
 YouTube
 
@@ -428,7 +428,7 @@ Surgeons site
 
 reddit
 
-* reply to [Bilateral Orchi + medicare eligibility](https://www.reddit.com/r/transgenderau/comments/w1rgie/bilateral_orchi_medicare_eligibility/ign48ze/) by Clear_Skye_ in 2022 - *"I got my Orchi done in Adelaide (where I live) for free. I have very high coverage of Private Hospital - and I went with Dr James Aspinall. He specifically told me he waives his gap for trans patients “because we have it hard enough”. His wife is the anaesthetist, and she also waives her gap. With BUPA Gold Hospital the whole thing cost me $60 because I was discharged with some hella strong painkillers"*
+* reply to [Bilateral Orchi + medicare eligibility<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/w1rgie/bilateral_orchi_medicare_eligibility/ign48ze/) by Clear_Skye_ in 2022 - *"I got my Orchi done in Adelaide (where I live) for free. I have very high coverage of Private Hospital - and I went with Dr James Aspinall. He specifically told me he waives his gap for trans patients “because we have it hard enough”. His wife is the anaesthetist, and she also waives her gap. With BUPA Gold Hospital the whole thing cost me $60 because I was discharged with some hella strong painkillers"*
 
 ## Lachlan Farmer
 
@@ -476,22 +476,22 @@ Surgeons sites
 
 reddit
 
-* [ask a slut about having a post op pussy~ <3](https://www.reddit.com/r/traaNSFW/comments/qhdzyo/ask_a_slut_about_having_a_post_op_pussy_3/) by ascii_heart in 2022
-    * [i'm often complimented on my smile, i hope u love it too!!](https://www.reddit.com/r/adorableporn/comments/oc0jsh/im_often_complimented_on_my_smile_i_hope_u_love/) by ascii_heart in 2021
-    * [the cutest pink hole!! this is pussy 2.0 better than the original!!](https://www.reddit.com/r/manmadepussy/comments/oanbgr/the_cutest_pink_hole_this_is_pussy_20_better_than/) by ascii_heart in 2021
-    * [post op pussies need breeding too!](https://www.reddit.com/r/BreedingMaterial/comments/o9crur/post_op_pussies_need_breeding_too/) by ascii_heart in 2021
-    * [flashing my cunt in lacy panties! im so turned on by my own smell, isn't that perverted?](https://www.reddit.com/r/manmadepussy/comments/ktm7ec/flashing_my_cunt_in_lacy_panties_im_so_turned_on/) by ascii_heart in 2021
-    * [getting close with that girl in the mirror! [post op trans]](https://www.reddit.com/r/GoneWildTrans/comments/lsoct4/getting_close_with_that_girl_in_the_mirror_post/) by ascii_heart in 2021
-    * [I'm all yours, come on in](https://www.reddit.com/r/rearpussy/comments/lhydjj/im_all_yours_come_on_in/) by ascii_heart in 2021
-    * [i asked my surgeon for fat labia... and i really gottem!!!](https://www.reddit.com/r/manmadepussy/comments/k2bvew/i_asked_my_surgeon_for_fat_labia_and_i_really/) by ascii_heart in 2020
-    * [CUSTOM! DELUXE! rate my designer vagina!](https://www.reddit.com/r/Ratemypussy/comments/k0c19n/custom_deluxe_rate_my_designer_vagina/) by ascii_heart in 2020
-    * [sweet&soft post-op babydoll!](https://www.reddit.com/r/LGBTGoneWild/comments/jyjixr/sweetsoft_postop_babydoll/) by ascii_heart in 2020
-    * [stripping and playing with my post op pussy~](https://www.reddit.com/r/GoneWildTrans/comments/hpnvzf/stripping_and_playing_with_my_post_op_pussy/) by ascii_heart in 2020
-    * [flirting with the mirror and playing with my pussy 💋](https://www.reddit.com/r/GoneWildTrans/comments/hkc8fn/flirting_with_the_mirror_and_playing_with_my_pussy/) by ascii_heart in 2020
-    * [DICKGIRL x CUNTGIRL ~ my first post op fuck!](https://www.reddit.com/r/OnlyFans101/comments/gy44kc/dickgirl_x_cuntgirl_my_first_post_op_fuck/) by ascii_heart in 2020
-    * [my plushy post op pussy! 🥰 hope u like!](https://www.reddit.com/r/GoneWildTrans/comments/gy4xgb/my_plushy_post_op_pussy_hope_u_like/) by ascii_heart in 2020
-    * [post op and \[f\]eeling RESPLENDENT💕💕💕](https://www.reddit.com/r/gonewild/comments/f72r8j/post_op_and_feeling_resplendent/) by ascii_heart in 2020
-    * [\[f\]irst glimpse of my brand new cunt!!](https://www.reddit.com/r/GoneWildTrans/comments/f1tb2k/first_glimpse_of_my_brand_new_cunt/) by ascii_heart in 2020
+* [ask a slut about having a post op pussy~ <3<sup>R</sup>](https://www.reddit.com/r/traaNSFW/comments/qhdzyo/ask_a_slut_about_having_a_post_op_pussy_3/) by ascii_heart in 2022
+    * [i'm often complimented on my smile, i hope u love it too!!<sup>R</sup>](https://www.reddit.com/r/adorableporn/comments/oc0jsh/im_often_complimented_on_my_smile_i_hope_u_love/) by ascii_heart in 2021
+    * [the cutest pink hole!! this is pussy 2.0 better than the original!!<sup>R</sup>](https://www.reddit.com/r/manmadepussy/comments/oanbgr/the_cutest_pink_hole_this_is_pussy_20_better_than/) by ascii_heart in 2021
+    * [post op pussies need breeding too!<sup>R</sup>](https://www.reddit.com/r/BreedingMaterial/comments/o9crur/post_op_pussies_need_breeding_too/) by ascii_heart in 2021
+    * [flashing my cunt in lacy panties! im so turned on by my own smell, isn't that perverted?<sup>R</sup>](https://www.reddit.com/r/manmadepussy/comments/ktm7ec/flashing_my_cunt_in_lacy_panties_im_so_turned_on/) by ascii_heart in 2021
+    * [getting close with that girl in the mirror! [post op trans]<sup>R</sup>](https://www.reddit.com/r/GoneWildTrans/comments/lsoct4/getting_close_with_that_girl_in_the_mirror_post/) by ascii_heart in 2021
+    * [I'm all yours, come on in<sup>R</sup>](https://www.reddit.com/r/rearpussy/comments/lhydjj/im_all_yours_come_on_in/) by ascii_heart in 2021
+    * [i asked my surgeon for fat labia... and i really gottem!!!<sup>R</sup>](https://www.reddit.com/r/manmadepussy/comments/k2bvew/i_asked_my_surgeon_for_fat_labia_and_i_really/) by ascii_heart in 2020
+    * [CUSTOM! DELUXE! rate my designer vagina!<sup>R</sup>](https://www.reddit.com/r/Ratemypussy/comments/k0c19n/custom_deluxe_rate_my_designer_vagina/) by ascii_heart in 2020
+    * [sweet&soft post-op babydoll!<sup>R</sup>](https://www.reddit.com/r/LGBTGoneWild/comments/jyjixr/sweetsoft_postop_babydoll/) by ascii_heart in 2020
+    * [stripping and playing with my post op pussy~<sup>R</sup>](https://www.reddit.com/r/GoneWildTrans/comments/hpnvzf/stripping_and_playing_with_my_post_op_pussy/) by ascii_heart in 2020
+    * [flirting with the mirror and playing with my pussy 💋<sup>R</sup>](https://www.reddit.com/r/GoneWildTrans/comments/hkc8fn/flirting_with_the_mirror_and_playing_with_my_pussy/) by ascii_heart in 2020
+    * [DICKGIRL x CUNTGIRL ~ my first post op fuck!<sup>R</sup>](https://www.reddit.com/r/OnlyFans101/comments/gy44kc/dickgirl_x_cuntgirl_my_first_post_op_fuck/) by ascii_heart in 2020
+    * [my plushy post op pussy! 🥰 hope u like!<sup>R</sup>](https://www.reddit.com/r/GoneWildTrans/comments/gy4xgb/my_plushy_post_op_pussy_hope_u_like/) by ascii_heart in 2020
+    * [post op and \[f\]eeling RESPLENDENT💕💕💕<sup>R</sup>](https://www.reddit.com/r/gonewild/comments/f72r8j/post_op_and_feeling_resplendent/) by ascii_heart in 2020
+    * [\[f\]irst glimpse of my brand new cunt!!<sup>R</sup>](https://www.reddit.com/r/GoneWildTrans/comments/f1tb2k/first_glimpse_of_my_brand_new_cunt/) by ascii_heart in 2020
 
 realself
 
@@ -501,57 +501,57 @@ realself
 
 reddit
 
-* reply to [GRS with Ives](https://www.reddit.com/r/transgenderau/comments/1hn8dpy/grs_with_ives/m410mcv/?context=3) by Aggravating-Bee7676 in 2024 - *"... I had surgery with Andy Ives, I couldn't find one bad comment about him anywhere, all the doctors I had told me he's great ect. I don't regret surgery at all, but I regret having it done by Andy Ives. Yes complications happen I know, but it was the way he treated me when I said things weren't right. After 4 years of dealing with chronic pain and arguing with Andy. I saw Dr Hart, who was lost for words about how much tissue was left that shouldn't have been there. Dr Hart removed the tissue and the pain was gone it was a 1hr surgery, extremely short and easy. Andy gaslight me, told me nothing was wrong for 4 years straight. I ended up going to Thailand to get a revision done as well so that I had depth again. A surgery that I dreamed of turned into 4 years of constant pain, 4 surgeries and massive amounts of stress and tears. Because Andy can not admit he made a mistake."*
-* [Dr Ives VS Dr Hart SRS](https://www.reddit.com/r/transgenderau/comments/1ctxb8u/dr_ives_vs_dr_hart_srs/) by rainbowgurl9874 in 2024
-* reply to [Dr David Caminer vaginoplasty](https://www.reddit.com/r/transgenderau/comments/117mguh/dr_david_caminer_vaginoplasty/j9tgif9/) by Jacqueline_Jane_Zam in 2023
-* [1 week Post Op with Andy ives, OPEN Q+A](https://www.reddit.com/r/transgenderau/comments/uxcyqz/1_week_post_op_with_andy_ives_open_qa/) by blublubbles in 2022
-* [MtF Vaginoplasty cost breakdown (Personal experience)](https://www.reddit.com/r/transgenderau/comments/untkhv/mtf_vaginoplasty_cost_breakdown_personal/) by AbbieGator in 2022
-* [Andrew Ives is stopping GRS](https://www.reddit.com/r/transgenderau/comments/tws675/andrew_ives_is_stopping_grs/) by AbbieGator in 2022
-* [PSA: Dr Ives will apparently no longer be performing bottom surgery after the end of this year ](https://www.reddit.com/r/transgenderau/comments/tvz0ps/psa_dr_ives_will_apparently_no_longer_be/) by Pseudonymico 2022
+* reply to [GRS with Ives<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1hn8dpy/grs_with_ives/m410mcv/?context=3) by Aggravating-Bee7676 in 2024 - *"... I had surgery with Andy Ives, I couldn't find one bad comment about him anywhere, all the doctors I had told me he's great ect. I don't regret surgery at all, but I regret having it done by Andy Ives. Yes complications happen I know, but it was the way he treated me when I said things weren't right. After 4 years of dealing with chronic pain and arguing with Andy. I saw Dr Hart, who was lost for words about how much tissue was left that shouldn't have been there. Dr Hart removed the tissue and the pain was gone it was a 1hr surgery, extremely short and easy. Andy gaslight me, told me nothing was wrong for 4 years straight. I ended up going to Thailand to get a revision done as well so that I had depth again. A surgery that I dreamed of turned into 4 years of constant pain, 4 surgeries and massive amounts of stress and tears. Because Andy can not admit he made a mistake."*
+* [Dr Ives VS Dr Hart SRS<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1ctxb8u/dr_ives_vs_dr_hart_srs/) by rainbowgurl9874 in 2024
+* reply to [Dr David Caminer vaginoplasty<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/117mguh/dr_david_caminer_vaginoplasty/j9tgif9/) by Jacqueline_Jane_Zam in 2023
+* [1 week Post Op with Andy ives, OPEN Q+A<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/uxcyqz/1_week_post_op_with_andy_ives_open_qa/) by blublubbles in 2022
+* [MtF Vaginoplasty cost breakdown (Personal experience)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/untkhv/mtf_vaginoplasty_cost_breakdown_personal/) by AbbieGator in 2022
+* [Andrew Ives is stopping GRS<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/tws675/andrew_ives_is_stopping_grs/) by AbbieGator in 2022
+* [PSA: Dr Ives will apparently no longer be performing bottom surgery after the end of this year <sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/tvz0ps/psa_dr_ives_will_apparently_no_longer_be/) by Pseudonymico 2022
 * [No more Ives...](https://old.reddit.com/r/transgenderau/comments/ttlb6s/no_more_ives/) by Clara247 in 2022
-* [Any women who've had SRS with Ives this year, what was the full cost (before rebates/private health)?](https://www.reddit.com/r/transgenderau/comments/t37spr/any_women_whove_had_srs_with_ives_this_year_what/) by Bugaloon in 2022
-* [Dr Kieren Hart for Gcs. Honest reviews, good or bad.](https://www.reddit.com/r/transgenderau/comments/t3yizk/dr_kieren_hart_for_gcs_honest_reviews_good_or_bad/) by kelli-b1971 in 2022
-* reply to [How was sexual Function after vaginoplasty?](https://www.reddit.com/r/transgenderau/comments/rcfwuf/how_was_sexual_function_after_vaginoplasty/hnwetge/) by beepxyl in 2021 - *"Former partner became suicidal after losing all sexual function with Dr Ives... Early 2019"*
-* [3 day post op GRS MTF Andy Ives AMA.](https://www.reddit.com/r/transgenderau/comments/p404fa/3_day_post_op_grs_mtf_andy_ives_ama/) by Mad-Ds in 2021
-* [Red Flags in Initial Appointment with Dr Ives](https://www.reddit.com/r/transgenderau/comments/m4qmx2/red_flags_in_initial_appointment_with_dr_ives/) by Parsleh in 2021
-* [Dr. Hart or Dr. Ives?](https://www.reddit.com/r/transgenderau/comments/kwn4gy/dr_hart_or_dr_ives/) by Castle-Bailey in 2021
-* [Andrew Ives SRS costs and best healthcare](https://www.reddit.com/r/transgenderau/comments/kubqjg/andrew_ives_srs_costs_and_best_healthcare/) by BugMaleficent7155 in 2021
-* [One year ago today I had labiaplasty (i.e. zero-depth/vulvaplasty). Happy to answer questions](https://www.reddit.com/r/MtF/comments/j2yb70/one_year_ago_today_i_had_labiaplasty_ie/) by Galadhrin in 2020
-* [GCS Locally with Dr Ives, or overseas with Dr Bank](https://www.reddit.com/r/Transgender_Surgeries/comments/hrkwrl/gcs_locally_with_dr_ives_or_overseas_with_dr_bank/) by Aauperk in 2020
-* [Does Iffy Middleton still work in the UK?](https://www.reddit.com/r/transgenderUK/comments/hgcrp6/does_iffy_middleton_still_work_in_the_uk/) by Mucina_Mugwort in 2020
-* [Orchiectomy](https://www.reddit.com/r/transgenderau/comments/ej5rim/orchiectomy/) by Deannetg in 2020
-* [Zero depth labiaplasty with Mr Ives](https://www.reddit.com/r/transgenderau/comments/e6dwbs/zero_depth_labiaplasty_with_mr_ives/) by karajane42 in 2019
-* [Labioplasty Cost?](https://www.reddit.com/r/transgenderau/comments/dte7t9/labioplasty_cost/) by MaddieDeane in 2019
-* [Ives will do posterior commissure revision](https://www.reddit.com/r/transgenderau/comments/dxwc7a/ives_will_do_posterior_commissure_revision/) by polygonalbeing in 2019
-* [Ives Misconceptions](https://www.reddit.com/r/transgenderau/comments/dr8mvj/ives_misconceptions/) by lorsharos in 2019
-* [14 days post op with Andrew Ives update](https://www.reddit.com/r/transgenderau/comments/dpgn7k/14_days_post_op_with_andrew_ives_update/) by theroxyepoch in 2019
-* [3 days post op](https://www.reddit.com/r/transgenderau/comments/dki93f/3_days_post_op/) by theroxyepoch in 2019
-* [Melbourne Accommodation post SRS tips?](https://www.reddit.com/r/transgenderau/comments/ck4tvf/melbourne_accommodation_post_srs_tips/) by DoctorAvacadoIosefka in 2019
-* [So I've met my SRS surgeon and I have some answers to some questions.](https://www.reddit.com/r/TransLater/comments/blmghz/so_ive_met_my_srs_surgeon_and_i_have_some_answers/) by me_to_kate in 2019
-* [SRS with Andrew Ives and Iffy Middleton](https://www.reddit.com/r/transgenderau/comments/aocqu6/srs_with_andrew_ives_and_iffy_middleton/) by Herenzu in 2019
-* [Q&A Answers from Andrew Ives and Iffy Middleton](https://www.reddit.com/r/transgenderau/comments/ap9nyi/qa_answers_from_andrew_ives_and_iffy_middleton/) by Serenation in 2019
-* [When did you stop taking your T blocker? - GRS with Mr Ives](https://www.reddit.com/r/transgenderau/comments/a2x73d/when_did_you_stop_taking_your_t_blocker_grs_with/) by Herenzu in 2018
-* [Ives patients: can you orgasm?](https://www.reddit.com/r/transgenderau/comments/a2m3a0/ives_patients_can_you_orgasm/) by polygonalbeing in 2018
-* [Foam Mould for surgery with Mr Ives](https://www.reddit.com/r/transgenderau/comments/9saxpb/foam_mould_for_surgery_with_mr_ives/) by baklak
+* [Any women who've had SRS with Ives this year, what was the full cost (before rebates/private health)?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/t37spr/any_women_whove_had_srs_with_ives_this_year_what/) by Bugaloon in 2022
+* [Dr Kieren Hart for Gcs. Honest reviews, good or bad.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/t3yizk/dr_kieren_hart_for_gcs_honest_reviews_good_or_bad/) by kelli-b1971 in 2022
+* reply to [How was sexual Function after vaginoplasty?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/rcfwuf/how_was_sexual_function_after_vaginoplasty/hnwetge/) by beepxyl in 2021 - *"Former partner became suicidal after losing all sexual function with Dr Ives... Early 2019"*
+* [3 day post op GRS MTF Andy Ives AMA.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/p404fa/3_day_post_op_grs_mtf_andy_ives_ama/) by Mad-Ds in 2021
+* [Red Flags in Initial Appointment with Dr Ives<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/m4qmx2/red_flags_in_initial_appointment_with_dr_ives/) by Parsleh in 2021
+* [Dr. Hart or Dr. Ives?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kwn4gy/dr_hart_or_dr_ives/) by Castle-Bailey in 2021
+* [Andrew Ives SRS costs and best healthcare<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kubqjg/andrew_ives_srs_costs_and_best_healthcare/) by BugMaleficent7155 in 2021
+* [One year ago today I had labiaplasty (i.e. zero-depth/vulvaplasty). Happy to answer questions<sup>R</sup>](https://www.reddit.com/r/MtF/comments/j2yb70/one_year_ago_today_i_had_labiaplasty_ie/) by Galadhrin in 2020
+* [GCS Locally with Dr Ives, or overseas with Dr Bank<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hrkwrl/gcs_locally_with_dr_ives_or_overseas_with_dr_bank/) by Aauperk in 2020
+* [Does Iffy Middleton still work in the UK?<sup>R</sup>](https://www.reddit.com/r/transgenderUK/comments/hgcrp6/does_iffy_middleton_still_work_in_the_uk/) by Mucina_Mugwort in 2020
+* [Orchiectomy<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ej5rim/orchiectomy/) by Deannetg in 2020
+* [Zero depth labiaplasty with Mr Ives<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e6dwbs/zero_depth_labiaplasty_with_mr_ives/) by karajane42 in 2019
+* [Labioplasty Cost?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dte7t9/labioplasty_cost/) by MaddieDeane in 2019
+* [Ives will do posterior commissure revision<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dxwc7a/ives_will_do_posterior_commissure_revision/) by polygonalbeing in 2019
+* [Ives Misconceptions<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dr8mvj/ives_misconceptions/) by lorsharos in 2019
+* [14 days post op with Andrew Ives update<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dpgn7k/14_days_post_op_with_andrew_ives_update/) by theroxyepoch in 2019
+* [3 days post op<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dki93f/3_days_post_op/) by theroxyepoch in 2019
+* [Melbourne Accommodation post SRS tips?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ck4tvf/melbourne_accommodation_post_srs_tips/) by DoctorAvacadoIosefka in 2019
+* [So I've met my SRS surgeon and I have some answers to some questions.<sup>R</sup>](https://www.reddit.com/r/TransLater/comments/blmghz/so_ive_met_my_srs_surgeon_and_i_have_some_answers/) by me_to_kate in 2019
+* [SRS with Andrew Ives and Iffy Middleton<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/aocqu6/srs_with_andrew_ives_and_iffy_middleton/) by Herenzu in 2019
+* [Q&A Answers from Andrew Ives and Iffy Middleton<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ap9nyi/qa_answers_from_andrew_ives_and_iffy_middleton/) by Serenation in 2019
+* [When did you stop taking your T blocker? - GRS with Mr Ives<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/a2x73d/when_did_you_stop_taking_your_t_blocker_grs_with/) by Herenzu in 2018
+* [Ives patients: can you orgasm?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/a2m3a0/ives_patients_can_you_orgasm/) by polygonalbeing in 2018
+* [Foam Mould for surgery with Mr Ives<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/9saxpb/foam_mould_for_surgery_with_mr_ives/) by baklak
  in 2018
-* [MtF GRS with Andrew Ives - Part 2](https://www.reddit.com/r/transgenderau/comments/9mon1t/mtf_grs_with_andrew_ives_part_2/) by trulyl in 2018
-* [GRS, Medicare, private health, and how it works](https://www.reddit.com/r/transgenderau/comments/9l89rq/grs_medicare_private_health_and_how_it_works/) by dancing-on-my-own in 2018
-* [Just had SRS (nsfw)](https://www.reddit.com/r/MtF/comments/97j9ro/just_had_srs_nsfw/) by MissVioletVi in 2018
-* [Does Ives not do a labia minora?](https://www.reddit.com/r/transgenderau/comments/96m334/does_ives_not_do_a_labia_minora/) in 2018
-* [AMA - Just had MTF SRS](https://www.reddit.com/r/asktransgender/comments/95ue1q/ama_just_had_mtf_srs/) by MissVioletVi in 2018
-* [MtF GRS with Andrew Ives](https://www.reddit.com/r/transgenderau/comments/90x5hh/mtf_grs_with_andrew_ives/) by trulyl in 2018
-* [I have a vagina now! AMA](https://www.reddit.com/r/asktransgender/comments/7sd7st/i_have_a_vagina_now_ama/) by L0nelyprincess in 2018 
-* [Ives & preparing for SRS](https://www.reddit.com/r/transgenderau/comments/7plhc0/ives_preparing_for_srs/) in 2018
-* [People who are post 1+ year Ives patients; can you give me your thoughts? Are you happy with your results?](https://www.reddit.com/r/transgenderau/comments/8mdyg7/people_who_are_post_1_year_ives_patients_can_you/) in 2018
-* [1 week post-op with Andy Ives in Melbourne, Australia!](https://www.reddit.com/r/MtF/comments/7bc395/1_week_postop_with_andy_ives_in_melbourne/), photo [here](https://imgur.com/a/lZmy7#zk6taCL) around 2018
-* [As requested: 3 months post-op with Andrew Ives in Melbourne, AU](https://www.reddit.com/r/MtF/comments/7pvkjh/as_requested_3_months_postop_with_andrew_ives_in/) in 2018, photos [here](https://imgur.com/a/V61rp#ujdmWAU).
-* [AMA about SRS with Andy Ives in Melbourne 9 weeks ago](https://www.reddit.com/r/transgenderau/comments/6l56z7/ama_about_srs_with_andy_ives_in_melbourne_9_weeks/) by PM_ME_YOUR_PECANPIE in 2017
-* [Orchiectomy in Melbourne](https://www.reddit.com/r/transgenderau/comments/6odamo/orchiectomy_in_melbourne/) by GenmaichaHorchata around 2017
-* [AMA had MtF GRS with Andy Ives in Melbourne last week. (Yes anything)](https://www.reddit.com/r/transgenderau/comments/6dfah7/ama_had_mtf_grs_with_andy_ives_in_melbourne_last/) by PM_ME_YOUR_PECANPIE in 2017 
-* [A talk with Andrew Ives](https://www.reddit.com/r/transgenderau/comments/4jv12a/a_talk_with_andrew_ives/) by Serenation around 2016
-* [GRS with Andrew Ives in two weeks](https://www.reddit.com/r/transgenderau/comments/4lshn7/grs_with_andrew_ives_in_two_weeks/) around 2016
-* [1 day post-op GRS with Dr Andrew Ives in Melbourne, Australia AMA!](https://www.reddit.com/r/asktransgender/comments/4oall5/1_day_postop_grs_with_dr_andrew_ives_in_melbourne/) by AnnaRose96 in 2016
-* [SRS in Melbourne with Andrew Ives 13 Days Post-op *Update/AMA](https://www.reddit.com/r/asktransgender/comments/4q7k5s/srs_in_melbourne_with_andrew_ives_13_days_postop/) by AnnaRose96 in 2016 
+* [MtF GRS with Andrew Ives - Part 2<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/9mon1t/mtf_grs_with_andrew_ives_part_2/) by trulyl in 2018
+* [GRS, Medicare, private health, and how it works<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/9l89rq/grs_medicare_private_health_and_how_it_works/) by dancing-on-my-own in 2018
+* [Just had SRS (nsfw)<sup>R</sup>](https://www.reddit.com/r/MtF/comments/97j9ro/just_had_srs_nsfw/) by MissVioletVi in 2018
+* [Does Ives not do a labia minora?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/96m334/does_ives_not_do_a_labia_minora/) in 2018
+* [AMA - Just had MTF SRS<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/95ue1q/ama_just_had_mtf_srs/) by MissVioletVi in 2018
+* [MtF GRS with Andrew Ives<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/90x5hh/mtf_grs_with_andrew_ives/) by trulyl in 2018
+* [I have a vagina now! AMA<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/7sd7st/i_have_a_vagina_now_ama/) by L0nelyprincess in 2018 
+* [Ives & preparing for SRS<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/7plhc0/ives_preparing_for_srs/) in 2018
+* [People who are post 1+ year Ives patients; can you give me your thoughts? Are you happy with your results?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/8mdyg7/people_who_are_post_1_year_ives_patients_can_you/) in 2018
+* [1 week post-op with Andy Ives in Melbourne, Australia!<sup>R</sup>](https://www.reddit.com/r/MtF/comments/7bc395/1_week_postop_with_andy_ives_in_melbourne/), photo [here](https://imgur.com/a/lZmy7#zk6taCL) around 2018
+* [As requested: 3 months post-op with Andrew Ives in Melbourne, AU<sup>R</sup>](https://www.reddit.com/r/MtF/comments/7pvkjh/as_requested_3_months_postop_with_andrew_ives_in/) in 2018, photos [here](https://imgur.com/a/V61rp#ujdmWAU).
+* [AMA about SRS with Andy Ives in Melbourne 9 weeks ago<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/6l56z7/ama_about_srs_with_andy_ives_in_melbourne_9_weeks/) by PM_ME_YOUR_PECANPIE in 2017
+* [Orchiectomy in Melbourne<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/6odamo/orchiectomy_in_melbourne/) by GenmaichaHorchata around 2017
+* [AMA had MtF GRS with Andy Ives in Melbourne last week. (Yes anything)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/6dfah7/ama_had_mtf_grs_with_andy_ives_in_melbourne_last/) by PM_ME_YOUR_PECANPIE in 2017 
+* [A talk with Andrew Ives<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/4jv12a/a_talk_with_andrew_ives/) by Serenation around 2016
+* [GRS with Andrew Ives in two weeks<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/4lshn7/grs_with_andrew_ives_in_two_weeks/) around 2016
+* [1 day post-op GRS with Dr Andrew Ives in Melbourne, Australia AMA!<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/4oall5/1_day_postop_grs_with_dr_andrew_ives_in_melbourne/) by AnnaRose96 in 2016
+* [SRS in Melbourne with Andrew Ives 13 Days Post-op *Update/AMA<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/4q7k5s/srs_in_melbourne_with_andrew_ives_13_days_postop/) by AnnaRose96 in 2016 
 
 Susans
 
@@ -594,9 +594,9 @@ Key details
 
 reddit
 
-* reply to [labiaplasty then later peritoneal pull-through](https://www.reddit.com/r/transgenderau/comments/109tazp/labiaplasty_then_later_peritoneal_pullthrough/j459g4a/) by didlowman in 2023 - *"...Cheng Hean Lo didn't answer any of my questions and had a insane BMI"*
-* reply to [Bottom surgery doctors](https://www.reddit.com/r/transgenderau/comments/hodg48/bottom_surgery_doctors/fxij0wu/) by Miffedy in 2020
-* [Any trans men had surgery with Cheng Hean Lo](https://www.reddit.com/r/transgenderau/comments/i592tu/any_trans_men_had_surgery_with_cheng_hean_lo/) by rdioactivrsegld in 2020 - this is FTM
+* reply to [labiaplasty then later peritoneal pull-through<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/109tazp/labiaplasty_then_later_peritoneal_pullthrough/j459g4a/) by didlowman in 2023 - *"...Cheng Hean Lo didn't answer any of my questions and had a insane BMI"*
+* reply to [Bottom surgery doctors<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hodg48/bottom_surgery_doctors/fxij0wu/) by Miffedy in 2020
+* [Any trans men had surgery with Cheng Hean Lo<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/i592tu/any_trans_men_had_surgery_with_cheng_hean_lo/) by rdioactivrsegld in 2020 - this is FTM
 * [https://www.reddit.com/r/transgenderau/comments/eo2niw/just_had_di_top_surgery_with_mr_cheng_lo_in/](Just had DI top surgery with Mr Cheng Lo in Melbourne. Great experience. AMA) by zam5ever in 2020 - this is FTM
 
 Other
@@ -630,20 +630,20 @@ reddit
 
 reddit
 
-* [PIV Vaginoplasty - Dr Gideon Blecher - Nov 2024](https://www.reddit.com/r/Transgender_Surgeries/comments/1hnbjk1/piv_vaginoplasty_dr_gideon_blecher_nov_2024/) by Clair3o in 2024
+* [PIV Vaginoplasty - Dr Gideon Blecher - Nov 2024<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1hnbjk1/piv_vaginoplasty_dr_gideon_blecher_nov_2024/) by Clair3o in 2024
 
 **Non-photo links**
 
 reddit
 
-* [My GCS experience with Dr Gideon Blecher](https://www.reddit.com/r/transgenderau/comments/1h8idxv/my_gcs_experience_with_dr_gideon_blecher/) by L3A29 in 2024
-* [Successfully completed No Nuts November, AMA](https://www.reddit.com/r/transgenderau/comments/1h2jbs2/successfully_completed_no_nuts_november_ama/) by auzziebutts in 2024
-* reply to [labiaplasty then later peritoneal pull-through](https://www.reddit.com/r/transgenderau/comments/109tazp/labiaplasty_then_later_peritoneal_pullthrough/j459g4a/) by didlowman in 2023 - *"Gideon Blecher just out right refused vaginoplasty and was disgusted by me and found it weird that I didn't care about depth and my main reason for wanting vaginalpasty wasn't sexual that and he really didn't like when I told him I was ADHD he was like your not going to remember to dilate 3 times a day them every day of the rest of your life."*
-* [Dr Kieren Hart for Gcs. Honest reviews, good or bad.](https://www.reddit.com/r/transgenderau/comments/t3yizk/dr_kieren_hart_for_gcs_honest_reviews_good_or_bad/) by kelli-b1971 in 2022
-* [Orchiectomy](https://www.reddit.com/r/transgenderau/comments/q5nvup/orchiectomy/) by justrideit81 in 2021
-* reply to [Jaco Erasmus experiences?](https://www.reddit.com/r/transgenderau/comments/l4gt9f/jaco_erasmus_experiences/gksh76k/) by SaladInternational33 in 2021
-* [GRS with Dr Gideon Blecher (Melbourne Australia)](https://www.reddit.com/r/Transgender_Surgeries/comments/iql6kf/grs_with_dr_gideon_blecher_melbourne_australia/) by  alexis_23276 in 2020
-* [ZSR Staple : What "style" does this produce?](https://www.reddit.com/r/circumcision/comments/hjqrz6/zsr_staple_what_style_does_this_produce/fwrrshu/) in 2020 - this is not trans related
+* [My GCS experience with Dr Gideon Blecher<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1h8idxv/my_gcs_experience_with_dr_gideon_blecher/) by L3A29 in 2024
+* [Successfully completed No Nuts November, AMA<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1h2jbs2/successfully_completed_no_nuts_november_ama/) by auzziebutts in 2024
+* reply to [labiaplasty then later peritoneal pull-through<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/109tazp/labiaplasty_then_later_peritoneal_pullthrough/j459g4a/) by didlowman in 2023 - *"Gideon Blecher just out right refused vaginoplasty and was disgusted by me and found it weird that I didn't care about depth and my main reason for wanting vaginalpasty wasn't sexual that and he really didn't like when I told him I was ADHD he was like your not going to remember to dilate 3 times a day them every day of the rest of your life."*
+* [Dr Kieren Hart for Gcs. Honest reviews, good or bad.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/t3yizk/dr_kieren_hart_for_gcs_honest_reviews_good_or_bad/) by kelli-b1971 in 2022
+* [Orchiectomy<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/q5nvup/orchiectomy/) by justrideit81 in 2021
+* reply to [Jaco Erasmus experiences?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/l4gt9f/jaco_erasmus_experiences/gksh76k/) by SaladInternational33 in 2021
+* [GRS with Dr Gideon Blecher (Melbourne Australia)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/iql6kf/grs_with_dr_gideon_blecher_melbourne_australia/) by  alexis_23276 in 2020
+* [ZSR Staple : What "style" does this produce?<sup>R</sup>](https://www.reddit.com/r/circumcision/comments/hjqrz6/zsr_staple_what_style_does_this_produce/fwrrshu/) in 2020 - this is not trans related
 
 YouTube
 
@@ -676,9 +676,9 @@ Surgeons sites
 
 reddit
 
-* [I just had a consult with Dr Adee Davidson for GRS](https://www.reddit.com/r/transgenderau/comments/1etby41/i_just_had_a_consult_with_dr_adee_davidson_for_grs/) by skye_nyet in 2024
-* [Anyone had SRS/GCS with Dr Adee Davidson in Melb?](https://www.reddit.com/r/transgenderau/comments/194ooj8/anyone_had_srsgcs_with_dr_adee_davidson_in_melb/) by mysticasha in 2024
-* [Anyone heard of Dr adee-jonathan davidson?](https://www.reddit.com/r/transgenderau/comments/17zg0fn/anyone_heard_of_dr_adeejonathan_davidson/) by thetechdoc in 2023
+* [I just had a consult with Dr Adee Davidson for GRS<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1etby41/i_just_had_a_consult_with_dr_adee_davidson_for_grs/) by skye_nyet in 2024
+* [Anyone had SRS/GCS with Dr Adee Davidson in Melb?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/194ooj8/anyone_had_srsgcs_with_dr_adee_davidson_in_melb/) by mysticasha in 2024
+* [Anyone heard of Dr adee-jonathan davidson?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/17zg0fn/anyone_heard_of_dr_adeejonathan_davidson/) by thetechdoc in 2023
 
 <br />
 
@@ -696,7 +696,7 @@ http://transvanilla.hu/vaginoplasty-orvos/ceber
 
 reddit
 
-* [Dr Simon Ceber assists Ives in surgery](https://www.reddit.com/r/transgenderau/comments/gi9won/dr_simon_ceber_assists_ives_in_surgery/) by ascii_heart in 2020
+* [Dr Simon Ceber assists Ives in surgery<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gi9won/dr_simon_ceber_assists_ives_in_surgery/) by ascii_heart in 2020
 
 <br />
 
@@ -735,7 +735,7 @@ Key details
 
 reddit
 
-* [If my surgeon uses an incision on my scrotal tissue for an orchiectomy, will this damage the tissue for SRS? I’m wanting the Thai method by Chett.](https://www.reddit.com/r/Transgender_Surgeries/comments/hqgeu5/if_my_surgeon_uses_an_incision_on_my_scrotal/) by shinyfuture in 2020
+* [If my surgeon uses an incision on my scrotal tissue for an orchiectomy, will this damage the tissue for SRS? I’m wanting the Thai method by Chett.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hqgeu5/if_my_surgeon_uses_an_incision_on_my_scrotal/) by shinyfuture in 2020
 
 <br />
 
@@ -752,7 +752,7 @@ Key details
 
 reddit
 
-* [Stopping Progynova before Bi-orchidectomy](https://www.reddit.com/r/transgenderau/comments/jq40j8/stopping_progynova_before_biorchidectomy/) by micah_sergal in 2020
+* [Stopping Progynova before Bi-orchidectomy<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jq40j8/stopping_progynova_before_biorchidectomy/) by micah_sergal in 2020
 
 Other
 
@@ -769,7 +769,7 @@ Key Details
 
 reddit
 
-* [One month since surgery](https://www.reddit.com/r/AMABwGD/comments/1h0bp9f/one_month_since_surgery/) by PantiedPBoy in 2024
+* [One month since surgery<sup>R</sup>](https://www.reddit.com/r/AMABwGD/comments/1h0bp9f/one_month_since_surgery/) by PantiedPBoy in 2024
 
 <br />
 
@@ -779,4 +779,4 @@ reddit
 
 ---
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

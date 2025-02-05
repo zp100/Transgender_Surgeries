@@ -1,6 +1,6 @@
 **Introduction**
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
@@ -14,7 +14,7 @@ Note that there's a fair number of negative posts about surgeons here as its one
 
 I generally only list posts or video's where I can identify the surgeon. Unfortunately a lot of YouTuber's don't mention their surgeons, or bury the information in their video's where I'm not inclined to find it. 
 
-I normally add links in the wiki without asking permission, but if the original poster wants links removed from these pages please let me know. There was a complaint/discussion on this here on reddit, [My issue with the Transgender_Surgeries Wiki - and how I propose to solve this issue](https://www.reddit.com/r/Transgender_Surgeries/comments/lvh35w/my_issue_with_the_transgender_surgeries_wiki_and/) in 2021
+I normally add links in the wiki without asking permission, but if the original poster wants links removed from these pages please let me know. There was a complaint/discussion on this here on reddit, [My issue with the Transgender_Surgeries Wiki - and how I propose to solve this issue<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lvh35w/my_issue_with_the_transgender_surgeries_wiki_and/) in 2021
 
 Many of the links should be explored further. For example, I list only one YouTube video rather than all of them by the same person.
 
@@ -34,7 +34,7 @@ I usually see most trans related posts, but please also
 
 ## About Me
 
-There's nothing much I want to say. My username [u/HiddenStill](https://www.reddit.com/user/HiddenStill) was chosen because I'd spent years trying not to transition. Its made me overly cautious, to the point where I say very little about myself and I especially don't like talking about anything recent. It probably doesn't really matter, but its not entirely rational anymore.
+There's nothing much I want to say. My username [u/HiddenStill<sup>R</sup><sup>R</sup>](https://www.reddit.com/user/HiddenStill) was chosen because I'd spent years trying not to transition. Its made me overly cautious, to the point where I say very little about myself and I especially don't like talking about anything recent. It probably doesn't really matter, but its not entirely rational anymore.
 
 When I started out on reddit I used to post my opinions on surgeons just like anyone else, but I've pulled back from that and mostly stopped. This wiki and moderating has given me more attention and influence than I'm comfortable with, and I don't think its fair for me to influence anyone's choice in surgeon beyond providing links to resources. For all these reasons if/when I have surgery I'm not going to post about it under this account.
 
@@ -48,13 +48,13 @@ I'm not and never have been in any medical field. My work is far removed from th
 
 # Male to Female (MTF) Surgery
 
-* [Sex Reassignment Surgery \(SRS\)](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md)
-* [Facial Feminization Surgeons \(FFS\)](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/introduction/introduction.md)
-* [Voice Feminization Surgery \(VFS\)](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/introduction/introduction.md)
-* [Breasts](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/breasts/introduction/introduction.md)
-* [Hips & Butt](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hips-butt/introduction/introduction.md)
-* [Hair transplant](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hair-transplant/introduction/introduction.md)
-* [Other Surgeries](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/other/other.md)
+* [Sex Reassignment Surgery \(SRS\)<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md)
+* [Facial Feminization Surgeons \(FFS\)<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/introduction/introduction.md)
+* [Voice Feminization Surgery \(VFS\)<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/introduction/introduction.md)
+* [Breasts<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/breasts/introduction/introduction.md)
+* [Hips & Butt<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hips-butt/introduction/introduction.md)
+* [Hair transplant<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hair-transplant/introduction/introduction.md)
+* [Other Surgeries<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/other/other.md)
 
 <br />
 
@@ -62,38 +62,38 @@ I'm not and never have been in any medical field. My work is far removed from th
 
 # Female to Male (FTM) Surgery
 
-I don't know much about this, but there's a lot of photo's on [transbucket](http://www.transbucket.com) and [/r/ftm](https://www.reddit.com/r/ftm/) on reddit.
+I don't know much about this, but there's a lot of photo's on [transbucket](http://www.transbucket.com) and [/r/ftm<sup>R</sup>](https://www.reddit.com/r/ftm/) on reddit.
 
 If anyone wants to create and maintain some FTM wiki pages, or creates a similar FTM wiki please let me know.
 
 reddit
 
-* [r/phallo](https://www.reddit.com/r/phallo) - *"A discussion-based subreddit for those curious about, interested in, pursuing, or who have gone through phalloplasty and anyone else who wants to discuss it in a supportive and respectful atmosphere. This sub is not exclusive to trans people, but you are expected to respect all gender identities if you wish to participate here."* - also see their [wiki](https://www.reddit.com/r/phallo/wiki/index)
-* [r/EverythingPhallo](https://www.reddit.com/r/EverythingPhallo)
-* ~~[r/Metoidioplasty](https://www.reddit.com/r/Metoidioplasty)~~ - *"A community for anyone who wants to learn more about or share their experience with metoidioplasty. Metoidioplasty is a type of lower surgery for transmasculine individuals and non-binary people."*
-* [r/metoidio](https://www.reddit.com/r/metoidio) - *"A discussion-based subreddit for those curious about, interested in, pursuing, or who have gone through metoidioplasty and anyone else who wants to discuss it in a supportive and respectful atmosphere."*
-* [r/TopSurgery](https://www.reddit.com/r/TopSurgery)
-* [r/Top_Surgery_Peri](https://www.reddit.com/r/Top_Surgery_Peri)
-* [r/FTMSurgeryTalk](https://www.reddit.com/r/FTMSurgeryTalk)
-* ~~[r/ftmbottomsurgery](https://www.reddit.com/r/ftmbottomsurgery)~~ *"This subreddit was banned due to being unmoderated."*
-* [r/ftmsurgeryexperience](https://www.reddit.com/r/ftmsurgeryexperience) - *"A space for trans men and transmasculine people to share their experience with surgeries or procedures related to transition. Ideally, this sub will function as a resource for those searching for surgeons."*
-* [r/ftmperi](https://www.reddit.com/r/ftmperi) - *"For trans guys who want/have had periareolar or keyhole top surgery to share and connect with each other."*
-* [r/FreedTheNips](https://www.reddit.com/r/FreedTheNips) - *"A supportive, body positive community for nippleless trans and/or non-binary individuals."*
-* [r/gynecomastia](https://www.reddit.com/r/gynecomastia) - *"A place where you can feel free to share your experiences with Gynecomastia. Use this subreddit to learn about, post questions, and discuss any topics relating to gynecomastia. Also, share your success stories of gynecomastia treatments."*
-* [r/salmacian](https://www.reddit.com/r/salmacian) - *"A subreddit for people who desire a mixed genital set (for example, a penis and a vagina)."*
-* [r/FTMHysto](https://www.reddit.com/r/FTMHysto)
+* [r/phallo<sup>R</sup>](https://www.reddit.com/r/phallo) - *"A discussion-based subreddit for those curious about, interested in, pursuing, or who have gone through phalloplasty and anyone else who wants to discuss it in a supportive and respectful atmosphere. This sub is not exclusive to trans people, but you are expected to respect all gender identities if you wish to participate here."* - also see their [wiki<sup>R</sup>](https://www.reddit.com/r/phallo/wiki/index)
+* [r/EverythingPhallo<sup>R</sup>](https://www.reddit.com/r/EverythingPhallo)
+* ~~[r/Metoidioplasty<sup>R</sup>](https://www.reddit.com/r/Metoidioplasty)~~ - *"A community for anyone who wants to learn more about or share their experience with metoidioplasty. Metoidioplasty is a type of lower surgery for transmasculine individuals and non-binary people."*
+* [r/metoidio<sup>R</sup>](https://www.reddit.com/r/metoidio) - *"A discussion-based subreddit for those curious about, interested in, pursuing, or who have gone through metoidioplasty and anyone else who wants to discuss it in a supportive and respectful atmosphere."*
+* [r/TopSurgery<sup>R</sup>](https://www.reddit.com/r/TopSurgery)
+* [r/Top_Surgery_Peri<sup>R</sup>](https://www.reddit.com/r/Top_Surgery_Peri)
+* [r/FTMSurgeryTalk<sup>R</sup>](https://www.reddit.com/r/FTMSurgeryTalk)
+* ~~[r/ftmbottomsurgery<sup>R</sup>](https://www.reddit.com/r/ftmbottomsurgery)~~ *"This subreddit was banned due to being unmoderated."*
+* [r/ftmsurgeryexperience<sup>R</sup>](https://www.reddit.com/r/ftmsurgeryexperience) - *"A space for trans men and transmasculine people to share their experience with surgeries or procedures related to transition. Ideally, this sub will function as a resource for those searching for surgeons."*
+* [r/ftmperi<sup>R</sup>](https://www.reddit.com/r/ftmperi) - *"For trans guys who want/have had periareolar or keyhole top surgery to share and connect with each other."*
+* [r/FreedTheNips<sup>R</sup>](https://www.reddit.com/r/FreedTheNips) - *"A supportive, body positive community for nippleless trans and/or non-binary individuals."*
+* [r/gynecomastia<sup>R</sup>](https://www.reddit.com/r/gynecomastia) - *"A place where you can feel free to share your experiences with Gynecomastia. Use this subreddit to learn about, post questions, and discuss any topics relating to gynecomastia. Also, share your success stories of gynecomastia treatments."*
+* [r/salmacian<sup>R</sup>](https://www.reddit.com/r/salmacian) - *"A subreddit for people who desire a mixed genital set (for example, a penis and a vagina)."*
+* [r/FTMHysto<sup>R</sup>](https://www.reddit.com/r/FTMHysto)
 
 Other somewhat related subs
 
-* [r/ftm](https://www.reddit.com/r/ftm) and [wiki](https://www.reddit.com/r/ftm/wiki/index)
-* [r/GrowYourTDick](https://www.reddit.com/r/GrowYourTDick) - *"The equivalent of [r/GrowYourClit](https://www.reddit.com/r/GrowYourClit), but for FTMs and NBs. For sharing strategies in maximizing bottom growth, DHT creams, and pumping. Ideally for people who don’t mind full body testosterone changes, but we’ll try and help NBs if TERFs ban you from other growth subs. Lurkers and positive comments welcome! Please check out other subreddits for NSFW FTM content."*
-* [r/GrowYourClit](https://www.reddit.com/r/GrowYourClit) - *"This subreddit was created to help women learn about the simple, safe, easy and highly beneficial process of growing a larger clit."*
-* [r/Minoxbeards](https://www.reddit.com/r/Minoxbeards)
-* ~~[r/FtMResourceCenter/comments/cj4xyg/list_of_ftm_specific_subreddits](https://www.reddit.com/r/FtMResourceCenter/comments/cj4xyg/list_of_ftm_specific_subreddits) - large list of FTM subs~~
-* [r/Seahorse_Dads](https://www.reddit.com/r/Seahorse_Dads) - *"A safe space for trans men with biological children, whether you're trying, expecting, had an accidental pregnancy, or have already had your children."*
-* [r/FtMPorn](https://www.reddit.com/r/FtMPorn) - *"Gay, straight, solo, group, any kind of porn as long as it is FtM involved!"*
-* [r/FTMMenPorn](https://www.reddit.com/r/FTMMenPorn) - *"Share masculine porn featuring masculine trans men in masculine roles."*
-* [r/Transmascdicks](https://www.reddit.com/r/Transmascdicks) - *"Please only post prosthetic penises! This will be a helpful resource when someone wants to buy a prosthetic but also a fun community to share dick pics... This should be more of an informational page of dick pics rather than a porn/sexual page."*
+* [r/ftm<sup>R</sup>](https://www.reddit.com/r/ftm) and [wiki<sup>R</sup>](https://www.reddit.com/r/ftm/wiki/index)
+* [r/GrowYourTDick<sup>R</sup>](https://www.reddit.com/r/GrowYourTDick) - *"The equivalent of [r/GrowYourClit<sup>R</sup>](https://www.reddit.com/r/GrowYourClit), but for FTMs and NBs. For sharing strategies in maximizing bottom growth, DHT creams, and pumping. Ideally for people who don’t mind full body testosterone changes, but we’ll try and help NBs if TERFs ban you from other growth subs. Lurkers and positive comments welcome! Please check out other subreddits for NSFW FTM content."*
+* [r/GrowYourClit<sup>R</sup>](https://www.reddit.com/r/GrowYourClit) - *"This subreddit was created to help women learn about the simple, safe, easy and highly beneficial process of growing a larger clit."*
+* [r/Minoxbeards<sup>R</sup>](https://www.reddit.com/r/Minoxbeards)
+* ~~[r/FtMResourceCenter/comments/cj4xyg/list_of_ftm_specific_subreddits<sup>R</sup>](https://www.reddit.com/r/FtMResourceCenter/comments/cj4xyg/list_of_ftm_specific_subreddits) - large list of FTM subs~~
+* [r/Seahorse_Dads<sup>R</sup>](https://www.reddit.com/r/Seahorse_Dads) - *"A safe space for trans men with biological children, whether you're trying, expecting, had an accidental pregnancy, or have already had your children."*
+* [r/FtMPorn<sup>R</sup>](https://www.reddit.com/r/FtMPorn) - *"Gay, straight, solo, group, any kind of porn as long as it is FtM involved!"*
+* [r/FTMMenPorn<sup>R</sup>](https://www.reddit.com/r/FTMMenPorn) - *"Share masculine porn featuring masculine trans men in masculine roles."*
+* [r/Transmascdicks<sup>R</sup>](https://www.reddit.com/r/Transmascdicks) - *"Please only post prosthetic penises! This will be a helpful resource when someone wants to buy a prosthetic but also a fun community to share dick pics... This should be more of an informational page of dick pics rather than a porn/sexual page."*
 
 There's some non-binary and FTM groups in Facebook wiki page.
 
@@ -129,7 +129,7 @@ Papers
 
 reddit
 
-* [Transgender patients should not have to disclose their previously assigned gender for medical reasons.](https://www.reddit.com/r/Transgender_Surgeries/comments/kr1tc4/transgender_patients_should_not_have_to_disclose/) by syrahlips in 2021
+* [Transgender patients should not have to disclose their previously assigned gender for medical reasons.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kr1tc4/transgender_patients_should_not_have_to_disclose/) by syrahlips in 2021
 
 <br />
 
@@ -164,7 +164,7 @@ Some are looking for the best surgeon in the world, money no object. Its not an 
 
 Some prefer surgeons in their own country so that its easier to get problems taken care of. This post mentions local surgery in both Sweden and Germany and still having problems getting doctors to help.
 
-* reply to [Update on my SRS issues from 5 days ago](https://www.reddit.com/r/Transgender_Surgeries/comments/cch1r8/update_on_my_srs_issues_from_5_days_ago/eto40ix/) by ligg-e-woo in 2019
+* reply to [Update on my SRS issues from 5 days ago<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/cch1r8/update_on_my_srs_issues_from_5_days_ago/eto40ix/) by ligg-e-woo in 2019
 
 I'm not aware of anyone who's sucessfully sued a surgeon for botched trans surgery anywhere in the world.
 
@@ -172,17 +172,17 @@ Surgeons have different eligibility requirements for surgery. Some (many) will n
 
 reddit
 
-* reply to [Bottom surgery advice!](https://www.reddit.com/r/Transgender_Surgeries/comments/10j6p7q/bottom_surgery_advice/j5iwfuh/) by NatalieSurgeryDiary in 2023
-* [Do you think it's important to choose a surgeon as close as possible?](https://www.reddit.com/r/Transgender_Surgeries/comments/10dkqan/do_you_think_its_important_to_choose_a_surgeon_as/) by AmbitiousFlowers in 2023s
-* [What are other good sources for trans surgery result info apart from Reddit?](https://www.reddit.com/r/Transgender_Surgeries/comments/uy7ii2/what_are_other_good_sources_for_trans_surgery/) by vajop in 2022
-* [Who to avoid and who would you personally recommend/ go to?](https://www.reddit.com/r/Transgender_Surgeries/comments/snohdz/who_to_avoid_and_who_would_you_personally/) by Idontknow610 in 2022
-* [Which SRS surgeons should you 100% avoid?](https://www.reddit.com/r/Transgender_Surgeries/comments/rorbt9/which_srs_surgeons_should_you_100_avoid/) by Lianna999 in 2021
-* [PPT (Bluebond-Langer) vs. PI (McGinn) vs. non-PI (Banks) - A lot of conflicting info out there. Can anyone help clarify the differences? What exactly is motivating surgeons to practice each techniques? How is Suporn's technique not being practiced anywhere else?](https://www.reddit.com/r/Transgender_Surgeries/comments/rjopxs/ppt_bluebondlanger_vs_pi_mcginn_vs_nonpi_banks_a/) by Intelligent_Kiwi2755 in 2021
-* [MTF SRS: learning, deciding, and everything before the actual surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/o1x9nn/mtf_srs_learning_deciding_and_everything_before/) by 2d4d_data in 2021
-* [What I've Learned from Preparing for 4 Trans Surgeries.](https://www.reddit.com/r/Transgender_Surgeries/comments/lfia64/what_ive_learned_from_preparing_for_4_trans/) by jasmine1106 in 2021
-* [Surgical skill aside, do you find value in going to a surgeon who is a trans woman?](https://www.reddit.com/r/Transgender_Surgeries/comments/k1rses/surgical_skill_aside_do_you_find_value_in_going/) by  erroneousY in 2020
-* [mtf, newly researching grs; lost, confused, overwhelmed](https://www.reddit.com/r/Transgender_Surgeries/comments/j3crgd/mtf_newly_researching_grs_lost_confused/) by Rare-Philosophy-5146 in 2020
-* [Question about MtF SRS/GRS](https://www.reddit.com/r/Transgender_Surgeries/comments/eiybon/question_about_mtf_srsgrs/) by KnoxKat - this is asking about size of donor material
+* reply to [Bottom surgery advice!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10j6p7q/bottom_surgery_advice/j5iwfuh/) by NatalieSurgeryDiary in 2023
+* [Do you think it's important to choose a surgeon as close as possible?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10dkqan/do_you_think_its_important_to_choose_a_surgeon_as/) by AmbitiousFlowers in 2023s
+* [What are other good sources for trans surgery result info apart from Reddit?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/uy7ii2/what_are_other_good_sources_for_trans_surgery/) by vajop in 2022
+* [Who to avoid and who would you personally recommend/ go to?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/snohdz/who_to_avoid_and_who_would_you_personally/) by Idontknow610 in 2022
+* [Which SRS surgeons should you 100% avoid?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rorbt9/which_srs_surgeons_should_you_100_avoid/) by Lianna999 in 2021
+* [PPT (Bluebond-Langer) vs. PI (McGinn) vs. non-PI (Banks) - A lot of conflicting info out there. Can anyone help clarify the differences? What exactly is motivating surgeons to practice each techniques? How is Suporn's technique not being practiced anywhere else?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rjopxs/ppt_bluebondlanger_vs_pi_mcginn_vs_nonpi_banks_a/) by Intelligent_Kiwi2755 in 2021
+* [MTF SRS: learning, deciding, and everything before the actual surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/o1x9nn/mtf_srs_learning_deciding_and_everything_before/) by 2d4d_data in 2021
+* [What I've Learned from Preparing for 4 Trans Surgeries.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lfia64/what_ive_learned_from_preparing_for_4_trans/) by jasmine1106 in 2021
+* [Surgical skill aside, do you find value in going to a surgeon who is a trans woman?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/k1rses/surgical_skill_aside_do_you_find_value_in_going/) by  erroneousY in 2020
+* [mtf, newly researching grs; lost, confused, overwhelmed<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/j3crgd/mtf_newly_researching_grs_lost_confused/) by Rare-Philosophy-5146 in 2020
+* [Question about MtF SRS/GRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/eiybon/question_about_mtf_srsgrs/) by KnoxKat - this is asking about size of donor material
 
 Transgender Health
 
@@ -211,10 +211,10 @@ Some complications are minor and easily rectified. Others will will be a traumat
 
 Here's some cases worth reading
 
-* reply to [Sabrina all surgeons say this is text book normal vulvar anatomy surgeon: Kathy Rumer](https://www.reddit.com/r/Transgender_Surgeries/comments/lpf9ii/sabrina_all_surgeons_say_this_is_text_book_normal/gofszij/) by EmmaLake in 2021
-* [When GRS recovery never ends](https://www.reddit.com/r/Transgender_Surgeries/comments/ljhd0b/when_grs_recovery_never_ends/) by EmmaLake in 2021
-* [When Surgeons Fail Their Trans Patients on Gender Confirming Surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/icsahu/when_surgeons_fail_their_trans_patients_on_gender/) in 2020 - this is from an experienced surgeon
-* http://hannahsimpson.com/Surgery and associated comment here [I need your help... because... I don't know how much longer I can keep going on this way. Please. Any help. I'm begging you.](https://www.reddit.com/r/asktransgender/comments/9220a2/i_need_your_help_because_i_dont_know_how_much/e34966r/)
+* reply to [Sabrina all surgeons say this is text book normal vulvar anatomy surgeon: Kathy Rumer<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lpf9ii/sabrina_all_surgeons_say_this_is_text_book_normal/gofszij/) by EmmaLake in 2021
+* [When GRS recovery never ends<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ljhd0b/when_grs_recovery_never_ends/) by EmmaLake in 2021
+* [When Surgeons Fail Their Trans Patients on Gender Confirming Surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/icsahu/when_surgeons_fail_their_trans_patients_on_gender/) in 2020 - this is from an experienced surgeon
+* http://hannahsimpson.com/Surgery and associated comment here [I need your help... because... I don't know how much longer I can keep going on this way. Please. Any help. I'm begging you.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9220a2/i_need_your_help_because_i_dont_know_how_much/e34966r/)
 
 Papers
 
@@ -242,9 +242,9 @@ I'll add some information here about how to search for surgery information. TBA.
 
 reddit
 
-* [What are other good sources for trans surgery result info apart from Reddit?](https://www.reddit.com/r/Transgender_Surgeries/comments/uy7ii2/what_are_other_good_sources_for_trans_surgery/) by vajop in 2022
-* [How to Get Publications that Aren't Available Online 101](https://www.reddit.com/r/MtFHRT/comments/e7e8sv/how_to_get_publications_that_arent_available/) by Alyw234237 in 2019
-* [How to Research MtF HRT and the Biomedical Scientific Literature 101](https://www.reddit.com/r/MtFHRT/comments/9h7i1f/how_to_research_mtf_hrt_and_the_biomedical/) by Alyw234237 in 2018
+* [What are other good sources for trans surgery result info apart from Reddit?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/uy7ii2/what_are_other_good_sources_for_trans_surgery/) by vajop in 2022
+* [How to Get Publications that Aren't Available Online 101<sup>R</sup>](https://www.reddit.com/r/MtFHRT/comments/e7e8sv/how_to_get_publications_that_arent_available/) by Alyw234237 in 2019
+* [How to Research MtF HRT and the Biomedical Scientific Literature 101<sup>R</sup>](https://www.reddit.com/r/MtFHRT/comments/9h7i1f/how_to_research_mtf_hrt_and_the_biomedical/) by Alyw234237 in 2018
 
 If you search for the surgeons name together with the keywords malpractice, lawsuit, etc, and find lots of hits of the surgeons own site it may indicate the surgeon is trying to hide something, so keep looking. See this post
 
@@ -253,7 +253,7 @@ If you search for the surgeons name together with the keywords malpractice, laws
 ## Allure Aesthetics 2022 in USA
 
 [AG Ferguson files lawsuit against Seattle-based plastic surgery clinic for bribing, threatening patients to falsely inflate its online ratings](https://www.atg.wa.gov/news/news-releases/ag-ferguson-files-lawsuit-against-seattle-based-plastic-surgery-clinic-bribing) by Washington State Office of the Attorney General on 29 DEcember 2022 - *"Attorney General Bob Ferguson today filed a federal lawsuit against Allure Esthetic, a major plastic surgery provider in Seattle, and its owner, Dr. Javad Sajan, for* ***falsely and illegally inflating its ratings on online rating platforms such as Yelp and Google. The company intimidated patients into removing negative reviews, and ordered its employees to post fake positive reviews.*** *"*
-    * reddit [Discussion](https://www.reddit.com/r/medicine/comments/zygdt7/washington_state_ag_files_lawsuit_against/) on [r/medicine](https://www.reddit.com/r/medicine)
+    * reddit [Discussion<sup>R</sup>](https://www.reddit.com/r/medicine/comments/zygdt7/washington_state_ag_files_lawsuit_against/) on [r/medicine<sup>R</sup>](https://www.reddit.com/r/medicine)
 
 YouTube
 
@@ -263,7 +263,7 @@ YouTube
 
 ## Facebook
 
-See [r/TransWiki/wiki/facebook](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/facebook/facebook.md)
+See [r/TransWiki/wiki/facebook<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/facebook/facebook.md)
 
 <br />
 
@@ -288,7 +288,7 @@ Note, on their [legal page](https://www.transmedianetwork.com/legal/) - Trans Me
 
 reddit
 
-* [Update on wound dehiscence. (Surgeon Dr. Kathy Rumer)](https://www.reddit.com/r/Transgender_Surgeries/comments/1c1uuy1/update_on_wound_dehiscence_surgeon_dr_kathy_rumer/) by Babysoots in 2024 - *I've been using promogram as instructed by Dr. Rumer. I thought I did my research checked out surgeons closer to me  (I'm in the north east) and I found her on a website called [trans healthcare.org](https://www.transhealthcare.org/kathy-rumer/) I am very scared but I havent missed a dilation session. I just have no clue what to do right now.*
+* [Update on wound dehiscence. (Surgeon Dr. Kathy Rumer)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1c1uuy1/update_on_wound_dehiscence_surgeon_dr_kathy_rumer/) by Babysoots in 2024 - *I've been using promogram as instructed by Dr. Rumer. I thought I did my research checked out surgeons closer to me  (I'm in the north east) and I found her on a website called [trans healthcare.org](https://www.transhealthcare.org/kathy-rumer/) I am very scared but I havent missed a dilation session. I just have no clue what to do right now.*
 
 <br />
 
@@ -313,7 +313,7 @@ There are several major sources of information on transgender surgery
 
 * reddit - reddit doesn't appear to have any significant bias, except for the bias inherent selection bias of being on reddit in the fist place
 * Facebook - significant bias due to promotion by surgeons & medical tourism companies. See above.
-* [Susans](https://www.susans.org/) - often removes or edits posts critical of surgeons, unfortunately introducing significant bias. Note that susans appears have significantly less traffic in recent years than it did in the past and is rapidly becoming irrelevant as a source of information. There's some discussion in this post [PSA: susans.org is not a trustworthy site for information on surgeons](https://www.reddit.com/r/Transgender_Surgeries/comments/fvxjdi/psa_susansorg_is_not_a_trustworthy_site_for/) in 2020, see also reply to [What proportion of MTF SRS is “successful”?](https://www.reddit.com/r/Transgender_Surgeries/comments/ihabkt/what_proportion_of_mtf_srs_is_successful/g32ossr/?context=3) in 2020. Note that people have been severely harmed by censorship on susans, eg reply to [What proportion of MTF SRS is “successful”?](https://www.reddit.com/r/Transgender_Surgeries/comments/ihabkt/what_proportion_of_mtf_srs_is_successful/g32kpbd/?context=3) by BotchedSRS in 2020
+* [Susans](https://www.susans.org/) - often removes or edits posts critical of surgeons, unfortunately introducing significant bias. Note that susans appears have significantly less traffic in recent years than it did in the past and is rapidly becoming irrelevant as a source of information. There's some discussion in this post [PSA: susans.org is not a trustworthy site for information on surgeons<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/fvxjdi/psa_susansorg_is_not_a_trustworthy_site_for/) in 2020, see also reply to [What proportion of MTF SRS is “successful”?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ihabkt/what_proportion_of_mtf_srs_is_successful/g32ossr/?context=3) in 2020. Note that people have been severely harmed by censorship on susans, eg reply to [What proportion of MTF SRS is “successful”?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ihabkt/what_proportion_of_mtf_srs_is_successful/g32kpbd/?context=3) by BotchedSRS in 2020
 
 I've seen a number of complaints about the medical review site [realself](https://www.realself.com/) that among other things it removes negative reviews for doctors that pay, and there's lots of fake reviews.
 
@@ -321,23 +321,23 @@ I've seen a number of complaints about the medical review site [realself](https:
     * [Cosmetic surgeon and social media star Dr Daniel Lanzer has given a legally enforceable undertaking to stop practising medicine in Australia.](https://www.smh.com.au/business/consumer-affairs/controversial-surgeon-daniel-lanzer-undertakes-not-to-practice-20211029-p594i2.html) in The Sydney Morning Herald in 2021
     * [Shocking practices exposed in Australia’s cosmetic surgery industry | Four Corners](https://www.youtube.com/watch?v=3jFBGPq1Lz4) by ABC News In-depth in 25 October 2021
 * [Better Business Bureau, RealSelf, Inc](https://www.bbb.org/us/wa/seattle/profile/health-care-referral/realself-inc-1296-22674843/customer-reviews)
-* reddit/Transgender_Surgeries [FFS Bensimon and Brassard results pics removed from Realself](https://www.reddit.com/r/Transgender_Surgeries/comments/k0cyzg/ffs_bensimon_and_brassard_results_pics_removed/) by HealthyCompote9573 in 2020
-* [How are FAKE Reviews Legal????](https://www.reddit.com/r/PlasticSurgery/comments/enr8hh/how_are_fake_reviews_legal/) by Penguin_Peanut in 2020
-* reddit/PlasticSurgery [How are Fake Reviews Legal](https://www.reddit.com/r/PlasticSurgery/comments/d4tp52/how_are_fake_reviews_legal/) by LanaaKat
+* reddit/Transgender_Surgeries [FFS Bensimon and Brassard results pics removed from Realself<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/k0cyzg/ffs_bensimon_and_brassard_results_pics_removed/) by HealthyCompote9573 in 2020
+* [How are FAKE Reviews Legal????<sup>R</sup>](https://www.reddit.com/r/PlasticSurgery/comments/enr8hh/how_are_fake_reviews_legal/) by Penguin_Peanut in 2020
+* reddit/PlasticSurgery [How are Fake Reviews Legal<sup>R</sup>](https://www.reddit.com/r/PlasticSurgery/comments/d4tp52/how_are_fake_reviews_legal/) by LanaaKat
  in 2019
-* reddit/PlasticSurgery [DO NOT TRUST REALSELF REVIEWS!](https://www.reddit.com/r/PlasticSurgery/comments/clbb9x/do_not_trust_realself_reviews/) by Davidmiller1083 in 2019
-* reddit/PlasticSurgery [Is it true that realself is corrupt?](https://www.reddit.com/r/PlasticSurgery/comments/bgt54j/is_it_true_that_realself_is_corrupt/) in 2019
-* reddit/censorship [Realself bans and censorship](https://www.reddit.com/r/censorship/comments/7vuft7/realself_bans_and_censorship/) in 2018
-* reddit/PlasticSurgery [Be warned: RealSelf.com will delete your negative reviews](https://www.reddit.com/r/PlasticSurgery/comments/9vrkjf/be_warned_realselfcom_will_delete_your_negative/) in 2018
-* reddit/PlasticSurgery [A warning: Reaself deletes bad reviews quite often. Use them but don't rely on them alone.](https://www.reddit.com/r/PlasticSurgery/comments/4rikhg/a_warning_reaself_deletes_bad_reviews_quite_often/)
+* reddit/PlasticSurgery [DO NOT TRUST REALSELF REVIEWS!<sup>R</sup>](https://www.reddit.com/r/PlasticSurgery/comments/clbb9x/do_not_trust_realself_reviews/) by Davidmiller1083 in 2019
+* reddit/PlasticSurgery [Is it true that realself is corrupt?<sup>R</sup>](https://www.reddit.com/r/PlasticSurgery/comments/bgt54j/is_it_true_that_realself_is_corrupt/) in 2019
+* reddit/censorship [Realself bans and censorship<sup>R</sup>](https://www.reddit.com/r/censorship/comments/7vuft7/realself_bans_and_censorship/) in 2018
+* reddit/PlasticSurgery [Be warned: RealSelf.com will delete your negative reviews<sup>R</sup>](https://www.reddit.com/r/PlasticSurgery/comments/9vrkjf/be_warned_realselfcom_will_delete_your_negative/) in 2018
+* reddit/PlasticSurgery [A warning: Reaself deletes bad reviews quite often. Use them but don't rely on them alone.<sup>R</sup>](https://www.reddit.com/r/PlasticSurgery/comments/4rikhg/a_warning_reaself_deletes_bad_reviews_quite_often/)
 * [Pissed Consumer, Realself](https://realself.pissedconsumer.com/review.html)
 * https://www.sitejabber.com/reviews/realself.com
 * https://www.complaintsboard.com/realself-b123430
 * https://www.bbb.org/western-washington/business-reviews/health-care-referral/real-self-in-seattle-wa-22674843/reviews-and-complaints
 * http://messageboards.makemeheal.com/rhinoplasty/realself-allowing-fake-reviews-for-sponsored-surgeons-t167768.html
-* reddit/PlasticSurgery [Why I don't trust Realself and plastic surgery reviews in general](https://www.reddit.com/r/PlasticSurgery/comments/afbzqi/why_i_dont_trust_realself_and_plastic_surgery/) by gynosurgeryio
+* reddit/PlasticSurgery [Why I don't trust Realself and plastic surgery reviews in general<sup>R</sup>](https://www.reddit.com/r/PlasticSurgery/comments/afbzqi/why_i_dont_trust_realself_and_plastic_surgery/) by gynosurgeryio
  in 2019, see also [here](http://gynosurgery.io/articles/why-realself-cant-be-trusted/) and [here](http://gynosurgery.io/articles/fake-reviews/).
-* reddit/PlasticSurgery [How to know which surgeon to trust?](https://www.reddit.com/r/PlasticSurgery/comments/9firzk/how_to_know_which_surgeon_to_trust/) in 2018
+* reddit/PlasticSurgery [How to know which surgeon to trust?<sup>R</sup>](https://www.reddit.com/r/PlasticSurgery/comments/9firzk/how_to_know_which_surgeon_to_trust/) in 2018
 * http://www.missjfacialplasticsurgery.com/missjforum/yaf_postst10777_Realself---banned-and-locked-out.aspx#post221665
 * https://uk.trustpilot.com/review/realself.com
 * https://www.minclaw.com/removing-fake-negative-reviews-realself/ - discusses how to remove *negative* and fake reviews from realself
@@ -360,8 +360,8 @@ I'd also be cautious where surgeons feature in articles in lots of magazines, ne
 
 reddit
 
-* [I will literally do anything to get surgeries. What should I do?](https://www.reddit.com/r/Transgender_Surgeries/comments/kaacvu/i_will_literally_do_anything_to_get_surgeries/) by sara_charleston_ts in 2020
-* [How did y’all save money for SRS?](https://www.reddit.com/r/ask_transgender/comments/9xy2b0/how_did_yall_save_money_for_srs/) in 2018
+* [I will literally do anything to get surgeries. What should I do?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kaacvu/i_will_literally_do_anything_to_get_surgeries/) by sara_charleston_ts in 2020
+* [How did y’all save money for SRS?<sup>R</sup>](https://www.reddit.com/r/ask_transgender/comments/9xy2b0/how_did_yall_save_money_for_srs/) in 2018
 
 <br />
 
@@ -413,7 +413,7 @@ YouTube
 
 reddit
 
-* reply to [Sarah Saxon (Austin, Texas) (Student of Spiegel) blocked my phone number when I told her I had post-surgical complications and asked her to call me back.](https://www.reddit.com/r/Transgender_Surgeries/comments/1chiv3t/sarah_saxon_austin_texas_student_of_spiegel/l235jxe/) by thornhawthorne in 2024 - *"I can't get a lawyer to take my case. They're all saying it's not worth it. I have contacted 20+ attorneys in DFW so far... Texas law severely limits how much you can sue for and every lawyer is like "I want more money than that for this""*
+* reply to [Sarah Saxon (Austin, Texas) (Student of Spiegel) blocked my phone number when I told her I had post-surgical complications and asked her to call me back.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1chiv3t/sarah_saxon_austin_texas_student_of_spiegel/l235jxe/) by thornhawthorne in 2024 - *"I can't get a lawyer to take my case. They're all saying it's not worth it. I have contacted 20+ attorneys in DFW so far... Texas law severely limits how much you can sue for and every lawyer is like "I want more money than that for this""*
 
 <br />
 
@@ -425,20 +425,20 @@ Applies to all plastic surgeries.
 
 reddit
 
-* [r/opiates](https://www.reddit.com/r/opiates)
-* [Being on Suboxone While going through SRS surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/1725677/being_on_suboxone_while_going_through_srs_surgery/) by SalStyles in 2023
-* [Cannabis for dilation related pain](https://www.reddit.com/r/Transgender_Surgeries/comments/vkzjz8/cannabis_for_dilation_related_pain/) by princessxha in 2022 - *"... but I really was not fine in weeks 2-4. Dilation was uncharacteristically painful. More painful than most people report. Severe, sharp, burning pain on the inside... I found small quantities (0.2g combusted) of it before each dilation session (3x day) to be a godsend. Smoked pure, no tobacco of course. I would compare the type of pain relief to opiates. You still have the pain but you don’t feel it properly because you’re too fuzzy. It was as ‘mind-numbing’ as strong opiates but without the addiction/danger, constipation and extreme sedation."*
+* [r/opiates<sup>R</sup>](https://www.reddit.com/r/opiates)
+* [Being on Suboxone While going through SRS surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1725677/being_on_suboxone_while_going_through_srs_surgery/) by SalStyles in 2023
+* [Cannabis for dilation related pain<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vkzjz8/cannabis_for_dilation_related_pain/) by princessxha in 2022 - *"... but I really was not fine in weeks 2-4. Dilation was uncharacteristically painful. More painful than most people report. Severe, sharp, burning pain on the inside... I found small quantities (0.2g combusted) of it before each dilation session (3x day) to be a godsend. Smoked pure, no tobacco of course. I would compare the type of pain relief to opiates. You still have the pain but you don’t feel it properly because you’re too fuzzy. It was as ‘mind-numbing’ as strong opiates but without the addiction/danger, constipation and extreme sedation."*
 * reply to [becoming addicted to weed](https://old.reddit.com/r/transgenderUK/comments/lme1ks/becoming_addicted_to_weed/gnxatjo/) by NatsWallis in 2021
-* [The doctors only have opioids and I can feel myself becoming addicted to it again. (RANT)](https://www.reddit.com/r/Transgender_Surgeries/comments/jcubnt/the_doctors_only_have_opioids_and_i_can_feel/) by  MissTaylor2020 in 2020
-* [WARNING FOR RECOVERING OPIATE ADDICTS INTERESTED IN SURGERY](https://www.reddit.com/r/PlasticSurgery/comments/i4913z/warning_for_recovering_opiate_addicts_interested/) by ald47 in 2020
-* [Marijuana and Surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/doe13d/marijuana_and_surgery/) by MeZooey in 2019
-* [Marijuana Extract Post-Op](https://www.reddit.com/r/Transgender_Surgeries/comments/dbku7e/marijuana_extract_postop/) by SinAthena in 2019
-* [What do you do if a person is in need of real pain relief but has a history of painkiller abuse?](https://www.reddit.com/r/medicine/comments/932fr3/what_do_you_do_if_a_person_is_in_need_of_real/) in [r/medicine](https://www.reddit.com/r/medicine) by LegalizeChemistry around 2019
-* [Smoking four days before breast augmentation](https://www.reddit.com/r/anesthesiology/comments/a0g2uo/smoking_four_days_before_breast_augmentation/) in /r/anesthesiology in 2018
-* [Did you \*really\* quit smoking before your BA?](https://www.reddit.com/r/PlasticSurgery/comments/a0dmrr/did_you_really_quit_smoking_before_your_ba/) in 2018
-* [Anybody here knowledgeable about this?](https://www.reddit.com/r/anesthesiology/comments/93b1bi/anybody_here_knowledgeable_about_this/) in /r/anesthesiology in 2018 - cross post of *Is there any danger in smoking weed the night before getting your wisdom teeth out, along with being a regular smoker?*
-* [I have a heavy history of ketamine and benzo abuse and have a permanent tolerance to both. Will these effect my surgery?](https://www.reddit.com/r/anesthesiology/comments/7pyn2n/i_have_a_heavy_history_of_ketamine_and_benzo/) in /r/anesthesiology in 2018
-* [Cocaine, anesthesia and elective plastic surgery.](https://www.reddit.com/r/anesthesiology/comments/6h4m9b/cocaine_anesthesia_and_elective_plastic_surgery/) in /r/anesthesiology in 2017
+* [The doctors only have opioids and I can feel myself becoming addicted to it again. (RANT)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jcubnt/the_doctors_only_have_opioids_and_i_can_feel/) by  MissTaylor2020 in 2020
+* [WARNING FOR RECOVERING OPIATE ADDICTS INTERESTED IN SURGERY<sup>R</sup>](https://www.reddit.com/r/PlasticSurgery/comments/i4913z/warning_for_recovering_opiate_addicts_interested/) by ald47 in 2020
+* [Marijuana and Surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/doe13d/marijuana_and_surgery/) by MeZooey in 2019
+* [Marijuana Extract Post-Op<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dbku7e/marijuana_extract_postop/) by SinAthena in 2019
+* [What do you do if a person is in need of real pain relief but has a history of painkiller abuse?<sup>R</sup>](https://www.reddit.com/r/medicine/comments/932fr3/what_do_you_do_if_a_person_is_in_need_of_real/) in [r/medicine<sup>R</sup>](https://www.reddit.com/r/medicine) by LegalizeChemistry around 2019
+* [Smoking four days before breast augmentation<sup>R</sup>](https://www.reddit.com/r/anesthesiology/comments/a0g2uo/smoking_four_days_before_breast_augmentation/) in /r/anesthesiology in 2018
+* [Did you \*really\* quit smoking before your BA?<sup>R</sup>](https://www.reddit.com/r/PlasticSurgery/comments/a0dmrr/did_you_really_quit_smoking_before_your_ba/) in 2018
+* [Anybody here knowledgeable about this?<sup>R</sup>](https://www.reddit.com/r/anesthesiology/comments/93b1bi/anybody_here_knowledgeable_about_this/) in /r/anesthesiology in 2018 - cross post of *Is there any danger in smoking weed the night before getting your wisdom teeth out, along with being a regular smoker?*
+* [I have a heavy history of ketamine and benzo abuse and have a permanent tolerance to both. Will these effect my surgery?<sup>R</sup>](https://www.reddit.com/r/anesthesiology/comments/7pyn2n/i_have_a_heavy_history_of_ketamine_and_benzo/) in /r/anesthesiology in 2018
+* [Cocaine, anesthesia and elective plastic surgery.<sup>R</sup>](https://www.reddit.com/r/anesthesiology/comments/6h4m9b/cocaine_anesthesia_and_elective_plastic_surgery/) in /r/anesthesiology in 2017
 
 YouTube
 
@@ -495,17 +495,17 @@ Other
 
 # Piercings
 
-See also the [Piercings](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#piercings) section on the SRS page in the wiki.
+See also the [Piercings<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#piercings) section on the SRS page in the wiki.
 
 reddit
 
-* [r/transbodymods](https://www.reddit.com/r/transbodymods)
-* [New bling for post vaginoplasty VCH](https://www.reddit.com/r/transbodymods/comments/1cghxj5/new_bling_for_post_vaginoplasty_vch/) by overundermoon in 2024
-* [SRS/piercing question](https://www.reddit.com/r/asktransgender/comments/9r7m2q/srspiercing_question/) by 2liitle2late
+* [r/transbodymods<sup>R</sup>](https://www.reddit.com/r/transbodymods)
+* [New bling for post vaginoplasty VCH<sup>R</sup>](https://www.reddit.com/r/transbodymods/comments/1cghxj5/new_bling_for_post_vaginoplasty_vch/) by overundermoon in 2024
+* [SRS/piercing question<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9r7m2q/srspiercing_question/) by 2liitle2late
 in 2019
-* [Piercing removal before Vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/dujijy/piercing_removal_before_vaginoplasty/) by  thegoddessunicorn in 2019
+* [Piercing removal before Vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dujijy/piercing_removal_before_vaginoplasty/) by  thegoddessunicorn in 2019
 
-There's a sub for piercing, [r/piercing](https://www.reddit.com/r/piercing), and you can search it for surgery [with this](https://www.reddit.com/r/piercing/search?q=Surgery&restrict_sr=on&include_over_18=on)
+There's a sub for piercing, [r/piercing<sup>R</sup>](https://www.reddit.com/r/piercing), and you can search it for surgery [with this<sup>R</sup>](https://www.reddit.com/r/piercing/search?q=Surgery&restrict_sr=on&include_over_18=on)
 
 Anesthesia Patient Safety Foundation
 
@@ -527,7 +527,7 @@ Papers
 
 This discussion ignores money/insurance requirements.
 
-Most surgeons follow the [WPATH Standards of Care](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index#wiki_wpath_standards_of_care) and it is very difficult to get genital surgery without being on HRT and socially transitioned for at least 12 months (some of this has changed with the new [SOC 8](https://www.reddit.com/r/Transgender_Surgeries/comments/xfanwx/wpath_standards_of_care_version_8_published/)). Two psychiatrist letters are also required by WPATH rules. It is possible to get SRS without social transition, but probably not worth the effort if you intend to transition anytime soon. Getting SRS without HRT is more difficult, but can be done in some circumstances (and its in the [WPATH 8 Standards of Care](https://www.wpath.org/soc8/soc8.md)) - if you do that you will need to go on either estrogen or testosterone afterwards to prevent serious medical problems occurring.
+Most surgeons follow the [WPATH Standards of Care<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wpath-standards-of-care) and it is very difficult to get genital surgery without being on HRT and socially transitioned for at least 12 months (some of this has changed with the new [SOC 8<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/xfanwx/wpath_standards_of_care_version_8_published/)). Two psychiatrist letters are also required by WPATH rules. It is possible to get SRS without social transition, but probably not worth the effort if you intend to transition anytime soon. Getting SRS without HRT is more difficult, but can be done in some circumstances (and its in the [WPATH 8 Standards of Care](https://www.wpath.org/soc8/soc8.md)) - if you do that you will need to go on either estrogen or testosterone afterwards to prevent serious medical problems occurring.
 
 After SRS you have to dilate regularly, so it may be best to leave a (long) gap before other surgeries that could interfere with that schedule. Genital hair removal for SRS should be started at least a year prior to surgery, and probably more. It needs to remain clear for the entire hair growth cycle to be sure its all gone. Any remaining hair may be impossible to remove post-op. There's little research on this, but I would think electrolsys is safer option than laser for genital hair - for face it doesn't matter much of some grows back. Surgeons should be able to provide you with a drawing of the area that needs hair removal. If you remove all the hair then you won't be able to hide surgical scars post-op, should you have them. If the the surgeon says you don't need hair removal for penile inversion becaue they do it during surgery, its not true - it's not guarenteed and you are at risk if internal hair.  Its more correct to say that they don't need it, but you do (ie its your problem not theirs).
 
@@ -547,21 +547,21 @@ Don't get face/body piercings soon before surgery as they must be removed due to
 
 reddit
 
-* reply to [People who have had a BBL/similar, did you do it before or after bottom surgery?](https://www.reddit.com/r/Transgender_Surgeries/comments/16pkijm/people_who_have_had_a_bblsimilar_did_you_do_it/k1uqu8v/?context=3) by Eviscerator14 in 2023 - *" Dr Bank has put out a notice saying they may stop seeing patients who have had BBLs because of the way it changes blood vessels in the groin area. I had a BBL before Srs with Bank and he said I lost a lot of blood, and that sometimes it can cause other complications with the graft. Thankfully I didn’t get any, but it’s definitely not a sure fire thing... t’s in the Astra discord for Bank patients and based on my own convos with Bank, but looking at the announcement in the discord I think it was sent via email to a patient? So not sure it’s like a fully official thing yet... he said I was mostly fine because I had a fairly mild one. And specifically it was about going up through the Mons pubis for lipo that was the issue, so it definitely depends. Also Bank has such a unique technique so may just be him. Hopefully it’s not an issue for others!"*
-* [FFS and GCS at the Same Time?](https://www.reddit.com/r/Transgender_Surgeries/comments/iltwtp/ffs_and_gcs_at_the_same_time/) by ArinHawk in 2020
-* [Anesthesia and tube size after VFSRAC ( voice feminization surgery )](https://www.reddit.com/r/Transgender_Surgeries/comments/wwmd1y/anesthesia_and_tube_size_after_vfsrac_voice/) by finallytransitioning in 2022
-* [How long to wait after FFS before getting a hair transplant?](https://www.reddit.com/r/Transgender_Surgeries/comments/mo5c37/how_long_to_wait_after_ffs_before_getting_a_hair/) by ikeycapstan in 2021
-* [Question regarding FFS and Hair graft.](https://www.reddit.com/r/Transgender_Surgeries/comments/me3ht6/question_regarding_ffs_and_hair_graft/) by YvetteOnSet in 2021
+* reply to [People who have had a BBL/similar, did you do it before or after bottom surgery?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/16pkijm/people_who_have_had_a_bblsimilar_did_you_do_it/k1uqu8v/?context=3) by Eviscerator14 in 2023 - *" Dr Bank has put out a notice saying they may stop seeing patients who have had BBLs because of the way it changes blood vessels in the groin area. I had a BBL before Srs with Bank and he said I lost a lot of blood, and that sometimes it can cause other complications with the graft. Thankfully I didn’t get any, but it’s definitely not a sure fire thing... t’s in the Astra discord for Bank patients and based on my own convos with Bank, but looking at the announcement in the discord I think it was sent via email to a patient? So not sure it’s like a fully official thing yet... he said I was mostly fine because I had a fairly mild one. And specifically it was about going up through the Mons pubis for lipo that was the issue, so it definitely depends. Also Bank has such a unique technique so may just be him. Hopefully it’s not an issue for others!"*
+* [FFS and GCS at the Same Time?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/iltwtp/ffs_and_gcs_at_the_same_time/) by ArinHawk in 2020
+* [Anesthesia and tube size after VFSRAC ( voice feminization surgery )<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/wwmd1y/anesthesia_and_tube_size_after_vfsrac_voice/) by finallytransitioning in 2022
+* [How long to wait after FFS before getting a hair transplant?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/mo5c37/how_long_to_wait_after_ffs_before_getting_a_hair/) by ikeycapstan in 2021
+* [Question regarding FFS and Hair graft.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/me3ht6/question_regarding_ffs_and_hair_graft/) by YvetteOnSet in 2021
 * [Complete loss of voice](https://www.susans.org/forums/index.php/topic,257844.0.html) by Naomi71 in 2021 - *"I had a Wendler glottoplasty for the second time. the first time in 2017 I had another surgery a few months after the web was created and a big pipe was put in my throat, destroying the vocal chord surgery. The web was entirely gone. ... (a part of my lungs was removed when I had lung cancer)"*
-* [Is it worth getting an orchiectomy if I know I want a full vaginoplasty eventually?](https://www.reddit.com/r/Transgender_Surgeries/comments/l1jhg1/is_it_worth_getting_an_orchiectomy_if_i_know_i/) by NikitaMakesMusic in 2021
-* reply to [Women who got FFS, who did you go to? How was it?](https://www.reddit.com/r/transgenderau/comments/k17blz/women_who_got_ffs_who_did_you_go_to_how_was_it/gdn7gam/) by girlontheavenue in 2020 - FFS, SRS, BA in one trip
-* [hair implants before ffs?](https://www.reddit.com/r/Transgender_Surgeries/comments/iyze9z/hair_implants_before_ffs/) by bread_mountain in 2020
-* [Is it okay to have both BA and SRS at the same time or like.. close by?](https://www.reddit.com/r/Transgender_Surgeries/comments/ge0yr9/is_it_okay_to_have_both_ba_and_srs_at_the_same/) by RosyBlink in 2020
-* [VFS or FFS first?](https://www.reddit.com/r/Transgender_Surgeries/comments/esx1r8/vfs_or_ffs_first/) by MerylSilverburgh90 in 2020
-* [For those who have had both FFS and SRS, which one meant the most to you, would you recommend doing first?](https://www.reddit.com/r/Transgender_Surgeries/comments/ekdkd5/for_those_who_have_had_both_ffs_and_srs_which_one/) by Carah-Maisie in 2020
-* reply to [I want to do all my surgeries in 1 year. What order should I choose?](https://www.reddit.com/r/Transgender_Surgeries/comments/9y3web/i_want_to_do_all_my_surgeries_in_1_year_what/e9y09c4/) in 2018 - *"I had FFS and BA after VFS and it took my voice back to a pre-VFS state. I’m getting it redone in three months. Huge waste of money because I didn’t save it for last."*
+* [Is it worth getting an orchiectomy if I know I want a full vaginoplasty eventually?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/l1jhg1/is_it_worth_getting_an_orchiectomy_if_i_know_i/) by NikitaMakesMusic in 2021
+* reply to [Women who got FFS, who did you go to? How was it?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/k17blz/women_who_got_ffs_who_did_you_go_to_how_was_it/gdn7gam/) by girlontheavenue in 2020 - FFS, SRS, BA in one trip
+* [hair implants before ffs?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/iyze9z/hair_implants_before_ffs/) by bread_mountain in 2020
+* [Is it okay to have both BA and SRS at the same time or like.. close by?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ge0yr9/is_it_okay_to_have_both_ba_and_srs_at_the_same/) by RosyBlink in 2020
+* [VFS or FFS first?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/esx1r8/vfs_or_ffs_first/) by MerylSilverburgh90 in 2020
+* [For those who have had both FFS and SRS, which one meant the most to you, would you recommend doing first?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ekdkd5/for_those_who_have_had_both_ffs_and_srs_which_one/) by Carah-Maisie in 2020
+* reply to [I want to do all my surgeries in 1 year. What order should I choose?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/9y3web/i_want_to_do_all_my_surgeries_in_1_year_what/e9y09c4/) in 2018 - *"I had FFS and BA after VFS and it took my voice back to a pre-VFS state. I’m getting it redone in three months. Huge waste of money because I didn’t save it for last."*
 
-BA and [BBL](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hips-butt/introduction#wiki_brazilian_butt_lift) should not be done at the same time as during recovery you're supposed to lie on your back/front/front.md respectivly.
+BA and [BBL<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hips-butt/introduction/introduction.md#brazilian-butt-lift) should not be done at the same time as during recovery you're supposed to lie on your back/front/front.md respectivly.
 
 A women died having multiple surgeries
 
@@ -589,7 +589,7 @@ https://www.drchristinemcginn.com/services/tattoo.php
 
 reddit
 
-* [Go as PINK as you can - hard won SRS insights. If only someone had been able to explain to me...](https://www.reddit.com/r/Transgender_Surgeries/comments/10mpqct/go_as_pink_as_you_can_hard_won_srs_insights_if/) by bunnytransgirl in 2023
+* [Go as PINK as you can - hard won SRS insights. If only someone had been able to explain to me...<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10mpqct/go_as_pink_as_you_can_hard_won_srs_insights_if/) by bunnytransgirl in 2023
 
 Safety of Tattos
 
@@ -613,11 +613,11 @@ fda
 
 reddit
 
-* [Before and after, amazing tattoo work](https://www.reddit.com/r/interestingasfuck/comments/13og3gg/before_and_after_amazing_tattoo_work/) in 2023 - this is not trans related
-* [Transgender Woman Gives Warning about Fake Silicone Removed From Hips](https://www.reddit.com/r/Botchedsurgeries/comments/yiy3e3/transgender_woman_gives_warning_about_fake/) by Ecstatic_Feature_425 in 2022
-* [This patient’s 15yo silicone injections caused the tissue to develop necrosis as the silicone eventually traveled up to the surface of her skin.](https://www.reddit.com/r/Botchedsurgeries/comments/xgm6xe/this_patients_15yo_silicone_injections_caused_the/) in 2022
-* [Is it really that bad?](https://www.reddit.com/r/Transgender_Surgeries/comments/pr66yj/is_it_really_that_bad/) by SixGunsLoaded in 2021
-* [Biopolymer removal with BBL reconstruction (major NSFW)](https://www.reddit.com/r/Botchedsurgeries/comments/d5naxo/biopolymer_removal_with_bbl_reconstruction_major/) by Zaza9000 in 2019 - this is not silicone, but similar
+* [Before and after, amazing tattoo work<sup>R</sup>](https://www.reddit.com/r/interestingasfuck/comments/13og3gg/before_and_after_amazing_tattoo_work/) in 2023 - this is not trans related
+* [Transgender Woman Gives Warning about Fake Silicone Removed From Hips<sup>R</sup>](https://www.reddit.com/r/Botchedsurgeries/comments/yiy3e3/transgender_woman_gives_warning_about_fake/) by Ecstatic_Feature_425 in 2022
+* [This patient’s 15yo silicone injections caused the tissue to develop necrosis as the silicone eventually traveled up to the surface of her skin.<sup>R</sup>](https://www.reddit.com/r/Botchedsurgeries/comments/xgm6xe/this_patients_15yo_silicone_injections_caused_the/) in 2022
+* [Is it really that bad?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pr66yj/is_it_really_that_bad/) by SixGunsLoaded in 2021
+* [Biopolymer removal with BBL reconstruction (major NSFW)<sup>R</sup>](https://www.reddit.com/r/Botchedsurgeries/comments/d5naxo/biopolymer_removal_with_bbl_reconstruction_major/) by Zaza9000 in 2019 - this is not silicone, but similar
 
 YouTube
 
@@ -686,16 +686,16 @@ Papers
 
 reddit
 
-* [British gay man ‘tortured’ in Qatar is almost out of HIV medicine, family says.](https://www.reddit.com/r/gaybros/comments/1c1z0tq/british_gay_man_tortured_in_qatar_is_almost_out/) by 0WishToBeFree0 in 2024 - links to Advocate article [](https://www.advocate.com/news/qatar-gay-airline-torture-hiv) in 2024 - *"Forty-four-year-old Manuel Guerrero, who also holds Mexican citizenship, moved to Qatar, where homosexuality is illegal, seven years ago for his work. He was detained on February 4 after being entrapped by law enforcement through a fake Grindr profile, and was held in jail for nearly two months. During that time, Qatari authorities subjected Guerrero to secret nighttime interrogations where they forced him to name other LGBTQ+ people he had relations with, according to his family. After learning of his HIV status, they locked him in solitary confinement and refused to administer his medication... Younes added that "security officers also inflict verbal abuse, extract forced confessions, and deny detainees access to legal counsel, family, and medical care... "They tortured Manuel in the face of the U.K. embassy, and I believe the U.K. government needs to escalate the situation because it's critical and it's not fair," he said. "They must send a clear message to the state of Qatar that they can't do that to a British citizen. They can't torture a British citizen."*
-* [A catch-all answer to "should I go to (insert Middle East country here)?": No you fucking shouldn't.](https://www.reddit.com/r/asktransgender/comments/14p93kl/a_catchall_answer_to_should_i_go_to_insert_middle/) by JesiDoodli in 2023 - *"It is unsafe. It doesn't matter how well you pass, it's unsafe. Even if you've had bottom surgery, are on HRT, it's unsafe. It doesn't matter how deep into the closet you are, if the only people who know you're queer are online. It's unsafe. You could easily be outed, doesn't matter how well you pass, or if you're closeted. This opens the floodgates to harassment, assault, arrest, torture, abuse, even murder. Here, rainbow toys are banned because it's "spreading homosexuality to kids". Now imagine the reception you'll get as an actual queer person."*
-* [On today’s episode of reasons people want us to be bombed and killed.](https://www.reddit.com/r/qatar/comments/yc3nic/on_todays_episode_of_reasons_people_want_us_to_be/) in 24 October 2022 - post in [r/qatar](https://www.reddit.com/r/qatar) about the forced vaginal examination of a australian women transititing thought Qatar, lots of defending what happened
+* [British gay man ‘tortured’ in Qatar is almost out of HIV medicine, family says.<sup>R</sup>](https://www.reddit.com/r/gaybros/comments/1c1z0tq/british_gay_man_tortured_in_qatar_is_almost_out/) by 0WishToBeFree0 in 2024 - links to Advocate article [](https://www.advocate.com/news/qatar-gay-airline-torture-hiv) in 2024 - *"Forty-four-year-old Manuel Guerrero, who also holds Mexican citizenship, moved to Qatar, where homosexuality is illegal, seven years ago for his work. He was detained on February 4 after being entrapped by law enforcement through a fake Grindr profile, and was held in jail for nearly two months. During that time, Qatari authorities subjected Guerrero to secret nighttime interrogations where they forced him to name other LGBTQ+ people he had relations with, according to his family. After learning of his HIV status, they locked him in solitary confinement and refused to administer his medication... Younes added that "security officers also inflict verbal abuse, extract forced confessions, and deny detainees access to legal counsel, family, and medical care... "They tortured Manuel in the face of the U.K. embassy, and I believe the U.K. government needs to escalate the situation because it's critical and it's not fair," he said. "They must send a clear message to the state of Qatar that they can't do that to a British citizen. They can't torture a British citizen."*
+* [A catch-all answer to "should I go to (insert Middle East country here)?": No you fucking shouldn't.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/14p93kl/a_catchall_answer_to_should_i_go_to_insert_middle/) by JesiDoodli in 2023 - *"It is unsafe. It doesn't matter how well you pass, it's unsafe. Even if you've had bottom surgery, are on HRT, it's unsafe. It doesn't matter how deep into the closet you are, if the only people who know you're queer are online. It's unsafe. You could easily be outed, doesn't matter how well you pass, or if you're closeted. This opens the floodgates to harassment, assault, arrest, torture, abuse, even murder. Here, rainbow toys are banned because it's "spreading homosexuality to kids". Now imagine the reception you'll get as an actual queer person."*
+* [On today’s episode of reasons people want us to be bombed and killed.<sup>R</sup>](https://www.reddit.com/r/qatar/comments/yc3nic/on_todays_episode_of_reasons_people_want_us_to_be/) in 24 October 2022 - post in [r/qatar<sup>R</sup>](https://www.reddit.com/r/qatar) about the forced vaginal examination of a australian women transititing thought Qatar, lots of defending what happened
 * [Australian women sue over Qatar airport strip-searches](https://www.bbc.com/news/world-australia-59288177), BBC News in 2021 - *"The women said they did not consent to the examinations and were not given explanations for what was happening to them. One of the women, who did not want to be named, told the BBC she was "subjected to the most horrifically invasive physical exam". "I was certain that I was either going to be killed by one of the many men that had a gun, or that my husband on the plane was going to be killed," she said in a statement from her lawyer."* 
 * [Australian women invasively examined on Qatar flight set to sue after ‘being ignored’](https://www.smh.com.au/national/australian-women-invasively-examined-on-qatar-flight-are-suing-after-being-ignored-20211114-p598qe.html) in 2021 - *"Seven of the 13 Australian women hauled off a Qatar Airways flight last year and forced to undergo invasive examinations at Doha airport are threatening legal action after more that a year of being ignored by the wealthy gulf state."*
 * ['Some were upset, angry, one was crying': significant concerns over invasive Doha searches](https://www.smh.com.au/politics/federal/some-were-upset-angry-one-was-crying-significant-concerns-over-invasive-doha-searches-20201026-p568lk.html) in 2020
-* [UK, New Zealand say citizens also tested invasively in Qatar | Australia](https://www.reddit.com/r/worldnews/comments/jkqlx1/uk_new_zealand_say_citizens_also_tested/) in 2020
-* [Qatar subjects 34 women including 18 Australian female passengers to compulsory genital exams in a hunt for the mother of an abandoned newborn at the Doha airport.](https://www.reddit.com/r/worldnews/comments/jl1c04/qatar_subjects_34_women_including_18_australian/) in 2020
-* [Terrified Australians strip-searched in Qatar 'had nowhere to run'](https://www.reddit.com/r/worldnews/comments/ji8zqj/terrified_australians_stripsearched_in_qatar_had/) in 2020
-* reply to [\[PSA\] Avoid Dubai & Abu Dhabi (and Emirates and Etihad Airways)](https://www.reddit.com/r/asktransgender/comments/9rcu2q/psa_avoid_dubai_abu_dhabi_and_emirates_and_etihad/e8h7u35/?context=3) by PennyLisa in 2019 - *"Yeh... No don't go there. Even on a stop-over. Someone I know got detained in the airport for 24hrs due to being trans on the way for FFS in Spain when they were supposed to be there for 4 hours. They had to change the surgery dates because of it (facial team sorted it out in the end).
+* [UK, New Zealand say citizens also tested invasively in Qatar | Australia<sup>R</sup>](https://www.reddit.com/r/worldnews/comments/jkqlx1/uk_new_zealand_say_citizens_also_tested/) in 2020
+* [Qatar subjects 34 women including 18 Australian female passengers to compulsory genital exams in a hunt for the mother of an abandoned newborn at the Doha airport.<sup>R</sup>](https://www.reddit.com/r/worldnews/comments/jl1c04/qatar_subjects_34_women_including_18_australian/) in 2020
+* [Terrified Australians strip-searched in Qatar 'had nowhere to run'<sup>R</sup>](https://www.reddit.com/r/worldnews/comments/ji8zqj/terrified_australians_stripsearched_in_qatar_had/) in 2020
+* reply to [\[PSA\] Avoid Dubai & Abu Dhabi (and Emirates and Etihad Airways)<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9rcu2q/psa_avoid_dubai_abu_dhabi_and_emirates_and_etihad/e8h7u35/?context=3) by PennyLisa in 2019 - *"Yeh... No don't go there. Even on a stop-over. Someone I know got detained in the airport for 24hrs due to being trans on the way for FFS in Spain when they were supposed to be there for 4 hours. They had to change the surgery dates because of it (facial team sorted it out in the end).
 "*
 
 YouTube
@@ -757,7 +757,7 @@ If you're making a post on reddit or elsewhere it would help if you did these th
 * If you make multiple related posts add a link back to the older posts so that people can easily go back to them. Edit the posts in the older ones to refer forwards to the next. An index would be even better. Some people don't know how to use reddit and find related posts, and even if you do it can be very difficult after a few years and thousands of posts.
 * Let me know if you make or see a post that you think should be in the wiki - I don't find all of them by myself. I normally link posts that I think will be of interest to people researching a surgeon. Either send me a pm or add my reddit user name to the post somewhere - i.e. just type \/u\/HiddenStill\/
 
-*There's a new way of making image galleries on reddit that should probably superceed imgur etc. Its not yet enabled on the surgery sub (16 July 2020), but should be shortly. Its described [here](https://www.reddit.com/r/modnews/comments/hisodw/image_gallery_support_is_coming_soon/)*
+*There's a new way of making image galleries on reddit that should probably superceed imgur etc. Its not yet enabled on the surgery sub (16 July 2020), but should be shortly. Its described [here<sup>R</sup>](https://www.reddit.com/r/modnews/comments/hisodw/image_gallery_support_is_coming_soon/)*
 
 Questions that tend to be of interest to others include
 
@@ -782,7 +782,7 @@ It can be helpful to know how to format posts on reddit to make it easier to rea
 
 Here's a really good example of post of the above suggestions
 
-* reddit [GRS/SRS Surgery 4th April 2019 Mr Roland Morley Charing Cross Hospital [UK]](https://www.reddit.com/r/Transgender_Surgeries/comments/c0qnt5/grssrs_surgery_4th_april_2019_mr_roland_morley/) by Koukalaka in 2019
+* reddit [GRS/SRS Surgery 4th April 2019 Mr Roland Morley Charing Cross Hospital [UK]<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/c0qnt5/grssrs_surgery_4th_april_2019_mr_roland_morley/) by Koukalaka in 2019
 
 If you make a very negative post about a surgeon on susans.org there's a good chance it will get removed.
 
@@ -824,8 +824,8 @@ reddit
 
 reddit
 
-* [I don’t think I can ever medically transition and it really hurts.](https://www.reddit.com/r/ftm/comments/zmp6wj/i_dont_think_i_can_ever_medically_transition_and/) by  thehumancheese in 2022
-* [Resources for someone terrified of general anesthesia?](https://www.reddit.com/r/PlasticSurgery/comments/dhvr7e/resources_for_someone_terrified_of_general/) in 2019 - not trans related
+* [I don’t think I can ever medically transition and it really hurts.<sup>R</sup>](https://www.reddit.com/r/ftm/comments/zmp6wj/i_dont_think_i_can_ever_medically_transition_and/) by  thehumancheese in 2022
+* [Resources for someone terrified of general anesthesia?<sup>R</sup>](https://www.reddit.com/r/PlasticSurgery/comments/dhvr7e/resources_for_someone_terrified_of_general/) in 2019 - not trans related
 
 Other
 
@@ -841,7 +841,7 @@ Papers
 
 # Pre-existing Conditions
 
-See the same entry on the [SRS Introduction](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md) page as some of it is relevant to other types of surgery and I don't have the time to reorganize it.
+See the same entry on the [SRS Introduction<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md) page as some of it is relevant to other types of surgery and I don't have the time to reorganize it.
 
 ---
 
@@ -862,7 +862,7 @@ There's been a few surgery related deaths, however its low as surgery goes and i
 
 SRS
 
-* 2023 - [Please be cautious and mindful of the risks of SRS in Thailand](https://www.reddit.com/r/Transgender_Surgeries/comments/107tybr/please_be_cautious_and_mindful_of_the_risks_of/) by SavannahMavy, see also [here](https://www.reddit.com/r/MtF/comments/107tx69/please_be_cautious_and_mindful_of_the_risks_of/)
+* 2023 - [Please be cautious and mindful of the risks of SRS in Thailand<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/107tybr/please_be_cautious_and_mindful_of_the_risks_of/) by SavannahMavy, see also [here<sup>R</sup>](https://www.reddit.com/r/MtF/comments/107tx69/please_be_cautious_and_mindful_of_the_risks_of/)
 * Sherman Leis in 2019 - see [A Butterfly for Her Mads (Parent)](https://www.transfaith.info/articles/a-butterfly-for-her-mom)
 * Reply to [SRS death](https://www.susans.org/forums/index.php/topic,119815.msg928946.html#msg928946) by Joandelynn in 2012 - *"Dr. Eugene Schrang lost a patient due to Pulmonary Embolism, but it should be noted that the patient already had a long history of Thrombophlebitis and Pulmonary Emboli, stopped taking her medicines for that, and then took a long-distance flight before getting surgery. There was also a patient in Sweden who died due to complications after SRS. I don't know the details. [(source)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016885)"*
 * 2011 - [Gender reassignment surgery: an overview](https://www.researchgate.net/publication/51046028_Gender_reassignment_surgery_An_overview) by Gennaro Selvaggi and James Bellringer - *"Combined with routine use of low- molecular-weight heparins and compression stockings, we have seen only two pulmonary emboli in the last 1,000 MtF surgical procedures (one of which was fatal)."*, see also
@@ -890,16 +890,16 @@ Papers
 
 reddit
 
-* [r/TelogenEffluvium](https://www.reddit.com/r/TelogenEffluvium)
-* [\[Update\] My experience with FFS post surgical recovery and hair loss (so far)](https://www.reddit.com/r/Transgender_Surgeries/comments/10rw3g4/update_my_experience_with_ffs_post_surgical/) by flurbdurbburb in 2023
-    * [\[Long Read\] My experience with FFS post surgical recovery and hair loss (so far)](https://www.reddit.com/r/Transgender_Surgeries/comments/y2db43/long_read_my_experience_with_ffs_post_surgical/) by flurbdurbburb in 2022
-    * [Total hair loss after FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/xqj7dn/total_hair_loss_after_ffs/) by flurbdurbburb in 2022
-* [Post Op Hairloss](https://www.reddit.com/r/Transgender_Surgeries/comments/g3ufhp/post_op_hairloss/) by hrt_breaker in 2020
-* in [r/MtF](https://www.reddit.com/r/MtF) - [Has anyone experienced a period of significant (head) hair shedding after orchiectomy/srs? Is this normal or is it just me?](https://www.reddit.com/r/MtF/comments/bm3j6t/has_anyone_experienced_a_period_of_significant/) in 2019
-* in [r/asktransgender](https://www.reddit.com/r/asktransgender) - [Has anyone else experienced a period of significant (head) hair shedding after their orchiectomy/Srs? Is it normal or is it just me?](https://www.reddit.com/r/asktransgender/comments/bm3ije/has_anyone_else_experienced_a_period_of/) in 2019
-* [Does anyone here have experience with telogen effluvium?](https://www.reddit.com/r/MtF/comments/9y2tti/does_anyone_here_have_experience_with_telogen/) by serindipitous275 in 2019
-* [Surgery and hair loss](https://www.reddit.com/r/curlyhair/comments/7adjwv/surgery_and_hair_loss/) by MuppetManiac in 2018
-* [FFS scar hairloss?](https://www.reddit.com/r/asktransgender/comments/49sk4p/ffs_scar_hairloss/) by throwmeaway4782 in 2016
+* [r/TelogenEffluvium<sup>R</sup>](https://www.reddit.com/r/TelogenEffluvium)
+* [\[Update\] My experience with FFS post surgical recovery and hair loss (so far)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10rw3g4/update_my_experience_with_ffs_post_surgical/) by flurbdurbburb in 2023
+    * [\[Long Read\] My experience with FFS post surgical recovery and hair loss (so far)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/y2db43/long_read_my_experience_with_ffs_post_surgical/) by flurbdurbburb in 2022
+    * [Total hair loss after FFS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/xqj7dn/total_hair_loss_after_ffs/) by flurbdurbburb in 2022
+* [Post Op Hairloss<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/g3ufhp/post_op_hairloss/) by hrt_breaker in 2020
+* in [r/MtF<sup>R</sup>](https://www.reddit.com/r/MtF) - [Has anyone experienced a period of significant (head) hair shedding after orchiectomy/srs? Is this normal or is it just me?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/bm3j6t/has_anyone_experienced_a_period_of_significant/) in 2019
+* in [r/asktransgender<sup>R</sup>](https://www.reddit.com/r/asktransgender) - [Has anyone else experienced a period of significant (head) hair shedding after their orchiectomy/Srs? Is it normal or is it just me?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/bm3ije/has_anyone_else_experienced_a_period_of/) in 2019
+* [Does anyone here have experience with telogen effluvium?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/9y2tti/does_anyone_here_have_experience_with_telogen/) by serindipitous275 in 2019
+* [Surgery and hair loss<sup>R</sup>](https://www.reddit.com/r/curlyhair/comments/7adjwv/surgery_and_hair_loss/) by MuppetManiac in 2018
+* [FFS scar hairloss?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/49sk4p/ffs_scar_hairloss/) by throwmeaway4782 in 2016
 
 Dr Powers on hair restoration 
 
@@ -913,8 +913,8 @@ https://www.medicalnewstoday.com/articles/321590 - *"* ***Telogen effluvium*** *
 
 reddit
 
-* [Obsessed with opiates after surgery](https://www.reddit.com/r/opiates/comments/obyev0/obsessed_with_opiates_after_surgery/) in 2021 - this is on [r/opiates](https://www.reddit.com/r/opiates) and not trans related
-* [What opioid withdrawal was like for me](https://www.reddit.com/r/Transgender_Surgeries/comments/img0rg/what_opioid_withdrawal_was_like_for_me/) by notyourdonut in 2020
+* [Obsessed with opiates after surgery<sup>R</sup>](https://www.reddit.com/r/opiates/comments/obyev0/obsessed_with_opiates_after_surgery/) in 2021 - this is on [r/opiates<sup>R</sup>](https://www.reddit.com/r/opiates) and not trans related
+* [What opioid withdrawal was like for me<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/img0rg/what_opioid_withdrawal_was_like_for_me/) by notyourdonut in 2020
 
 <br />
 
@@ -922,8 +922,8 @@ reddit
 
 reddit
 
-* [What opioid withdrawal was like for me](https://www.reddit.com/r/Transgender_Surgeries/comments/img0rg/what_opioid_withdrawal_was_like_for_me/) by notyourdonut in 2020
-* [I have post op depression three weeks after surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/ij0hxb/i_have_post_op_depression_three_weeks_after/) by notyourdonut in 2020
+* [What opioid withdrawal was like for me<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/img0rg/what_opioid_withdrawal_was_like_for_me/) by notyourdonut in 2020
+* [I have post op depression three weeks after surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ij0hxb/i_have_post_op_depression_three_weeks_after/) by notyourdonut in 2020
 
 <br />
 
@@ -931,13 +931,13 @@ reddit
 
 reddit
 
-* [Vulvoplasty (without vaginal cavity) Results 2Y+ PostOP (Argentina)](https://www.reddit.com/r/Transgender_Surgeries/comments/s91ih4/vulvoplasty_without_vaginal_cavity_results_2y/) by AnonymousFruits in 2022 - *"Keloid Scars improved with 6 sessions of triamcinolone injections... the end the triamcinolone injections were very effective, they did not go away completely but visually it improved a lot. The dermatologists gave me an injection of 30mg/5ml every 3 weeks. At the sixth session I stopped applying them for fear of atrophying the tissue..."*
-* [What can be done about faded bottom surgery scars to get more passable look?](https://www.reddit.com/r/Transgender_Surgeries/comments/qdpqst/what_can_be_done_about_faded_bottom_surgery_scars/) by daisysbe in 2021
-* [Any recommendations to help with scar tissue treatment for both a recent BA as well as extended Abdominalplasty? (Both surgeries are within the last 3 months)](https://www.reddit.com/r/Transgender_Surgeries/comments/lkutmt/any_recommendations_to_help_with_scar_tissue/) by magistrazor in 2021
-* [Fading Top Surgery Scars](https://www.reddit.com/r/Transgender_Surgeries/comments/hyn8d9/fading_top_surgery_scars/) by chronic_nighthawk in 2020
-* [anyone tried labial tattooing?](https://www.reddit.com/r/Transgender_Surgeries/comments/hvvce5/anyone_tried_labial_tattooing/) by transbianasfuck in 2020 - refers to https://www.drchristinemcginn.com/services/tattoo.php
-* [Scar camouflage pigment tattoo (after 1 session)](https://www.reddit.com/r/Transgender_Surgeries/comments/emtrfb/scar_camouflage_pigment_tattoo_after_1_session/) by kay2290 in 2020
-* [30 plus years on hormones. What effects did I notice?](https://www.reddit.com/r/asktransgender/comments/9hrj9g/30_plus_years_on_hormones_what_effects_did_i/) in 2018 - *"The scars on my vulva faded away after more than 10 years. 28 years post-op you couldn’t find them if you searched for it. I still dilate once a month. The estrogens help to keep the tissue elastic. For the early era Biber did a great job."*
+* [Vulvoplasty (without vaginal cavity) Results 2Y+ PostOP (Argentina)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/s91ih4/vulvoplasty_without_vaginal_cavity_results_2y/) by AnonymousFruits in 2022 - *"Keloid Scars improved with 6 sessions of triamcinolone injections... the end the triamcinolone injections were very effective, they did not go away completely but visually it improved a lot. The dermatologists gave me an injection of 30mg/5ml every 3 weeks. At the sixth session I stopped applying them for fear of atrophying the tissue..."*
+* [What can be done about faded bottom surgery scars to get more passable look?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qdpqst/what_can_be_done_about_faded_bottom_surgery_scars/) by daisysbe in 2021
+* [Any recommendations to help with scar tissue treatment for both a recent BA as well as extended Abdominalplasty? (Both surgeries are within the last 3 months)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lkutmt/any_recommendations_to_help_with_scar_tissue/) by magistrazor in 2021
+* [Fading Top Surgery Scars<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hyn8d9/fading_top_surgery_scars/) by chronic_nighthawk in 2020
+* [anyone tried labial tattooing?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hvvce5/anyone_tried_labial_tattooing/) by transbianasfuck in 2020 - refers to https://www.drchristinemcginn.com/services/tattoo.php
+* [Scar camouflage pigment tattoo (after 1 session)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/emtrfb/scar_camouflage_pigment_tattoo_after_1_session/) by kay2290 in 2020
+* [30 plus years on hormones. What effects did I notice?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9hrj9g/30_plus_years_on_hormones_what_effects_did_i/) in 2018 - *"The scars on my vulva faded away after more than 10 years. 28 years post-op you couldn’t find them if you searched for it. I still dilate once a month. The estrogens help to keep the tissue elastic. For the early era Biber did a great job."*
 
 YouTube
 
@@ -1006,10 +1006,10 @@ https://en.wikipedia.org/wiki/Verteporfin - *"Verteporfin is an inhibitor of fib
 
 reddit
 
-* [Verteporfin for ENF/regenerative wound healing - applicability to transgender surgeries ?](https://www.reddit.com/r/DrWillPowers/comments/1e6xijs/verteporfin_for_enfregenerative_wound_healing/) by asilenceliketruth in 2024
-* [Verteporfin use and scar reduction](https://www.reddit.com/r/Transgender_Surgeries/comments/uf2urp/verteporfin_use_and_scar_reduction/) by stupidgothybitch in 2022
-* [Playing with verteporfin (visudyn) for scar prevention or removal: DAE?](https://www.reddit.com/r/estrogel/comments/tfpxbb/playing_with_verteporfin_visudyn_for_scar/) by darthemofan in 2022
-* reply to [In general, FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/qia70a/in_general_ffs/hjzcn5y/) by testPoster_ignore in 2021
+* [Verteporfin for ENF/regenerative wound healing - applicability to transgender surgeries ?<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/1e6xijs/verteporfin_for_enfregenerative_wound_healing/) by asilenceliketruth in 2024
+* [Verteporfin use and scar reduction<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/uf2urp/verteporfin_use_and_scar_reduction/) by stupidgothybitch in 2022
+* [Playing with verteporfin (visudyn) for scar prevention or removal: DAE?<sup>R</sup>](https://www.reddit.com/r/estrogel/comments/tfpxbb/playing_with_verteporfin_visudyn_for_scar/) by darthemofan in 2022
+* reply to [In general, FFS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qia70a/in_general_ffs/hjzcn5y/) by testPoster_ignore in 2021
 
 Papers
 
@@ -1030,7 +1030,7 @@ Other
 
 ## Stroke
 
-* [I thought FFS would change my life, but not like this... (Dr. Alex Kim)](https://www.reddit.com/r/Transgender_Surgeries/comments/me8umd/i_thought_ffs_would_change_my_life_but_not_like/) by virtualady in 2021 - FFS with Alex Kim in the USA
+* [I thought FFS would change my life, but not like this... (Dr. Alex Kim)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/me8umd/i_thought_ffs_would_change_my_life_but_not_like/) by virtualady in 2021 - FFS with Alex Kim in the USA
 
 <br />
 
@@ -1054,15 +1054,15 @@ Livestrong
 
 If you have a complaint about your surgeon or want to take legal action.
 
-See also the section in this wiki on [Malpractice insurance in the USA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#malpractice-insurance-in-the-usa).
+See also the section in this wiki on [Malpractice insurance in the USA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#malpractice-insurance-in-the-usa).
 
 reddit
 
-* [Federal Trade Commission Announces Proposed Rule Banning Fake Reviews and Testimonials](https://www.reddit.com/r/technews/comments/14oblvc/federal_trade_commission_announces_proposed_rule/) in 2023
+* [Federal Trade Commission Announces Proposed Rule Banning Fake Reviews and Testimonials<sup>R</sup>](https://www.reddit.com/r/technews/comments/14oblvc/federal_trade_commission_announces_proposed_rule/) in 2023
 * [Hypothetical: if a patient or family threatens litigation, do you still maintain a doctor-patient relationship?](https://np.reddit.com/r/medicine/comments/y3y1qh/hypothetical_if_a_patient_or_family_threatens/) in 2022 - don't post here unless you're a medical professional
 * [A case of suing patients who leave bad reviews](https://np.reddit.com/r/medicine/comments/od4grg/a_case_of_suing_patients_who_leave_bad_reviews/) in 2021 - read the sub rules and don't post in this sub
-* [Do any of y’all feel uncomfortable with signing an arbitration agreement for SRS (Wittenberg/MoZaic) even before consultation?](https://www.reddit.com/r/Transgender_Surgeries/comments/k410wp/do_any_of_yall_feel_uncomfortable_with_signing_an/) by  mfgoose in 2020
-* [A Formal Complaint Letter](https://www.reddit.com/r/Transgender_Surgeries/comments/cdsyih/a_formal_complaint_letter/) by Ikal_19 in 2019
+* [Do any of y’all feel uncomfortable with signing an arbitration agreement for SRS (Wittenberg/MoZaic) even before consultation?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/k410wp/do_any_of_yall_feel_uncomfortable_with_signing_an/) by  mfgoose in 2020
+* [A Formal Complaint Letter<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/cdsyih/a_formal_complaint_letter/) by Ikal_19 in 2019
 
 Other
 
@@ -1095,7 +1095,7 @@ Not happening.
 
 Are you a lawyer? If so, read this
 
-* [Where's reddit's policy on lawyers threatening to sue subreddits/moderators unless I delete the subreddit or give them admin?](https://www.reddit.com/r/ModSupport/comments/epjm4b/wheres_reddits_policy_on_lawyers_threatening_to/) in 2020
+* [Where's reddit's policy on lawyers threatening to sue subreddits/moderators unless I delete the subreddit or give them admin?<sup>R</sup>](https://www.reddit.com/r/ModSupport/comments/epjm4b/wheres_reddits_policy_on_lawyers_threatening_to/) in 2020
 * https://fairuse.stanford.edu/overview/website-permissions/linking/
 * https://www.score.org/blog/consumer-review-fairness-act-what-it-means-your-business - *"On March 14, 2017, the Consumer Review Fairness Act (CRFA) took effect, laying out new rules for both businesses and consumers. ... The CRFA protects consumer assessments of products, services and customer service. This protection applies not only to written reviews, but social media posts, oral appraisals, uploaded videos and photography."*
 * [Consumer Review Fairness Act](https://www.ftc.gov/enforcement/statutes/consumer-review-fairness-act) - *"The Act generally makes provisions of form contracts between sellers and individual consumers void from inception if the provisions: (1) prohibit or restrict individuals from reviewing sellers’ goods, services, or conduct; (2) impose penalties or fees on individuals for such reviews; or (3) require individuals to transfer intellectual property rights in such reviews. The Act also bars sellers from offering form contracts with such provisions. The Act contains certain exceptions, including for contract provisions that bar the submission of confidential, private, or unlawful information."*
@@ -1113,7 +1113,7 @@ If you wish to make negative reviews about surgeons read this page that discusse
 ## Allure Aesthetics 2022 in USA
 
 [AG Ferguson files lawsuit against Seattle-based plastic surgery clinic for bribing, threatening patients to falsely inflate its online ratings](https://www.atg.wa.gov/news/news-releases/ag-ferguson-files-lawsuit-against-seattle-based-plastic-surgery-clinic-bribing) by Washington State Office of the Attorney General on 29 DEcember 2022 - *"Attorney General Bob Ferguson today filed a federal lawsuit against Allure Esthetic, a major plastic surgery provider in Seattle, and its owner, Dr. Javad Sajan, for* ***falsely and illegally inflating its ratings on online rating platforms such as Yelp and Google. The company intimidated patients into removing negative reviews, and ordered its employees to post fake positive reviews.*** *"*
-    * reddit [Discussion](https://www.reddit.com/r/medicine/comments/zygdt7/washington_state_ag_files_lawsuit_against/) on [r/medicine](https://www.reddit.com/r/medicine)
+    * reddit [Discussion<sup>R</sup>](https://www.reddit.com/r/medicine/comments/zygdt7/washington_state_ag_files_lawsuit_against/) on [r/medicine<sup>R</sup>](https://www.reddit.com/r/medicine)
 
 YouTube
 
@@ -1127,25 +1127,25 @@ YouTube
 
 reddit
 
-* [Partner just got bottom surgery, looking for advice/tips for the next few weeks/months](https://www.reddit.com/r/Transgender_Surgeries/comments/vontdv/partner_just_got_bottom_surgery_looking_for/) by inimicalamitous in 2022 - this is MTF
-* [Facial Feminization Surgery and Rollarcoaster Emotions](https://www.reddit.com/r/mypartneristrans/comments/mtpt34/facial_feminization_surgery_and_rollarcoaster/) by Kindly-Quit in 2021
-    * [Facial Feminization Surgery: Updates/thoughts/blog(?). 1 day before Operation.](https://www.reddit.com/r/mypartneristrans/comments/mzatmc/facial_feminization_surgery_updatesthoughtsblog_1/) by Kindly-Quit in 2021
-    * [Facial Feminization Surgery Update 2: Day of Surgery](https://www.reddit.com/r/mypartneristrans/comments/n0d7yv/facial_feminization_surgery_update_2_day_of/) by Kindly-Quit in 2021
-    * [Facial Feminization Surgery: 3rd Update. Day 2.](https://www.reddit.com/r/mypartneristrans/comments/n0svwh/facial_feminization_surgery_3rd_update_day_2/) by Kindly-Quit in 2021
-    * [Facial Feminization Surgery Update #4. Day 5. A VERY raw rant.](https://www.reddit.com/r/mypartneristrans/comments/n2sbep/facial_feminization_surgery_update_4_day_5_a_very/) by Kindly-Quit in 2021
-    * [Facial Feminization Surgery: Update #5- day 6 1/2](https://www.reddit.com/r/mypartneristrans/comments/n41luj/facial_feminization_surgery_update_5_day_6_12/) by Kindly-Quit in 2021
-    * [Facial Feminization Surgery. Update #7.](https://www.reddit.com/r/mypartneristrans/comments/n6i9sb/facial_feminization_surgery_update_7/) by Kindly-Quit in 2021
-    * [Facial Feminization Surgery Update #8 (2 weeks post-op)](https://www.reddit.com/r/mypartneristrans/comments/nbw1ox/facial_feminization_surgery_update_8_2_weeks/) by Kindly-Quit in 2021
-    * [Facial Feminization Surgery Update #9 (4 months post-op)](https://www.reddit.com/r/mypartneristrans/comments/pmb7yu/facial_feminization_surgery_update_9_4_months/) by Kindly-Quit in 2021
-* [My girlfriend has CGS surgery soon :)) (I got questions)](https://www.reddit.com/r/mypartneristrans/comments/hrzmzm/my_girlfriend_has_cgs_surgery_soon_i_got_questions/) by Dry-Reindeer710 in 2020
-* [Minimal-Depth Vaginoplasty AMA - Partner's Perspective](https://www.reddit.com/r/mypartneristrans/comments/dhugq5/minimaldepth_vaginoplasty_ama_partners_perspective/) by queeroctopus496 in 2019, surgeon was Dr Hyer in USA
-* [Help with partners post Srs depression](https://www.reddit.com/r/mypartneristrans/comments/ba9bj5/help_with_partners_post_srs_depression/) by Mrreaper3695 in 2019
-* [Accompanying Girlfriend to Thailand (suporn) for GCS... Advice?](https://www.reddit.com/r/mypartneristrans/comments/al59xv/accompanying_girlfriend_to_thailand_suporn_for/) by IckyNikki415 in 2019
-* [Supporting Through the GRS Process](https://www.reddit.com/r/mypartneristrans/comments/8xt5ea/supporting_through_the_grs_process/) by radziadax in 2018
-* [SRS Recovery (cis female with mtf partner)](https://www.reddit.com/r/mypartneristrans/comments/6dvw42/srs_recovery_cis_female_with_mtf_partner/) by 10ladybugs in 2018
-* [Honest reactions to M2F partner's SRS](https://www.reddit.com/r/mypartneristrans/comments/43k832/honest_reactions_to_m2f_partners_srs/) by zokiepokie in 2016
-* [My wife is having here SRS in a week. I'm scared :(](https://www.reddit.com/r/mypartneristrans/comments/3ts5o6/my_wife_is_having_here_srs_in_a_week_im_scared/) by LoanMeAPony in 2016
-* [My girlfriend is considering SRS in Thailand; we're in the US. I'd love to go with her to help her during her healing period, but I'm concerned my weak stomach will be my downfall...What might I need to do while she heals?](https://www.reddit.com/r/mypartneristrans/comments/1r9n77/my_girlfriend_is_considering_srs_in_thailand_were/) by SapphicSapphire around 2014
+* [Partner just got bottom surgery, looking for advice/tips for the next few weeks/months<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vontdv/partner_just_got_bottom_surgery_looking_for/) by inimicalamitous in 2022 - this is MTF
+* [Facial Feminization Surgery and Rollarcoaster Emotions<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/mtpt34/facial_feminization_surgery_and_rollarcoaster/) by Kindly-Quit in 2021
+    * [Facial Feminization Surgery: Updates/thoughts/blog(?). 1 day before Operation.<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/mzatmc/facial_feminization_surgery_updatesthoughtsblog_1/) by Kindly-Quit in 2021
+    * [Facial Feminization Surgery Update 2: Day of Surgery<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/n0d7yv/facial_feminization_surgery_update_2_day_of/) by Kindly-Quit in 2021
+    * [Facial Feminization Surgery: 3rd Update. Day 2.<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/n0svwh/facial_feminization_surgery_3rd_update_day_2/) by Kindly-Quit in 2021
+    * [Facial Feminization Surgery Update #4. Day 5. A VERY raw rant.<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/n2sbep/facial_feminization_surgery_update_4_day_5_a_very/) by Kindly-Quit in 2021
+    * [Facial Feminization Surgery: Update #5- day 6 1/2<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/n41luj/facial_feminization_surgery_update_5_day_6_12/) by Kindly-Quit in 2021
+    * [Facial Feminization Surgery. Update #7.<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/n6i9sb/facial_feminization_surgery_update_7/) by Kindly-Quit in 2021
+    * [Facial Feminization Surgery Update #8 (2 weeks post-op)<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/nbw1ox/facial_feminization_surgery_update_8_2_weeks/) by Kindly-Quit in 2021
+    * [Facial Feminization Surgery Update #9 (4 months post-op)<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/pmb7yu/facial_feminization_surgery_update_9_4_months/) by Kindly-Quit in 2021
+* [My girlfriend has CGS surgery soon :)) (I got questions)<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/hrzmzm/my_girlfriend_has_cgs_surgery_soon_i_got_questions/) by Dry-Reindeer710 in 2020
+* [Minimal-Depth Vaginoplasty AMA - Partner's Perspective<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/dhugq5/minimaldepth_vaginoplasty_ama_partners_perspective/) by queeroctopus496 in 2019, surgeon was Dr Hyer in USA
+* [Help with partners post Srs depression<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/ba9bj5/help_with_partners_post_srs_depression/) by Mrreaper3695 in 2019
+* [Accompanying Girlfriend to Thailand (suporn) for GCS... Advice?<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/al59xv/accompanying_girlfriend_to_thailand_suporn_for/) by IckyNikki415 in 2019
+* [Supporting Through the GRS Process<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/8xt5ea/supporting_through_the_grs_process/) by radziadax in 2018
+* [SRS Recovery (cis female with mtf partner)<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/6dvw42/srs_recovery_cis_female_with_mtf_partner/) by 10ladybugs in 2018
+* [Honest reactions to M2F partner's SRS<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/43k832/honest_reactions_to_m2f_partners_srs/) by zokiepokie in 2016
+* [My wife is having here SRS in a week. I'm scared :(<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/3ts5o6/my_wife_is_having_here_srs_in_a_week_im_scared/) by LoanMeAPony in 2016
+* [My girlfriend is considering SRS in Thailand; we're in the US. I'd love to go with her to help her during her healing period, but I'm concerned my weak stomach will be my downfall...What might I need to do while she heals?<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/1r9n77/my_girlfriend_is_considering_srs_in_thailand_were/) by SapphicSapphire around 2014
 
 YouTube
 
@@ -1299,7 +1299,7 @@ Differential diagnosis is a medical term, whicish is [defined by wikipedia](http
 
 If you have any of these conditions you may have great difficulty getting HRT/surgery.
 
-See the DSM-5, page 458, [source](https://www.reddit.com/r/asktransgender/comments/q9tm1m/what_is_differential_diagnosis_of_gender_dysphoria/hgyi9ow/).
+See the DSM-5, page 458, [source<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/q9tm1m/what_is_differential_diagnosis_of_gender_dysphoria/hgyi9ow/).
 
 > **Nonconfonnity to gender roles**. Gender dysphoria should be distinguished from simple nonconformity to stereotypical gender role behavior by the strong desire to be of another gender than the assigned one and by the extent and pervasiveness of gender-variant activities and interests. The diagnosis is not meant to merely describe nonconformity to stereotypical gender role behavior (e.g., "tomboyism" in girls, "girly-boy" behavior in boys, occasional cross-dressing in adult men). Given the increased openness of atypical gender expressions by individuals across the entire range of the transgender spectrum, it is important that the clinical diagnosis be limited to those individuals whose distress and impairment meet the specified criteria.
 
@@ -1361,7 +1361,7 @@ Links
 
 * [What do WPATH Standards of Care 8 actually say?](https://stainedglasswoman.substack.com/p/what-do-wpath-standards-of-care-8) by Doc Impossible in 2022
 * 2022 - [WPATH committee chair endorses book by Christian writer with history of conversion therapy](https://transsafety.network/posts/wpath-childrens-endorses-concerning-author/) - *"In a move which will alarm many trans people, a senior figure at WPATH—the World Professional Association for Transgender Health—has given her enthusiastic endorsement to a book by Christian Conversion Therapy writer Mark Yarhouse. Laura Edwards-Leeper, the chair of the organisation's Child and Adolescent Committee, called the book '...an essential read for all mental health providers working with gender diverse and transgender individuals'."*
-* https://transpolicyreform.wordpress.com/2021/10/09/transgender-affirmation-in-retrograde - this is about Dr Marci Bowers (president elect of WPATH at the time) appaling interview with an anti-trans activist, see also this reddit post [Is Dr Marci Bowers transphobic?](https://www.reddit.com/r/Transgender_Surgeries/comments/q3b5vx/is_dr_marci_bowers_transphobic/) by HiddenStill (me) on 8 October 2021
+* https://transpolicyreform.wordpress.com/2021/10/09/transgender-affirmation-in-retrograde - this is about Dr Marci Bowers (president elect of WPATH at the time) appaling interview with an anti-trans activist, see also this reddit post [Is Dr Marci Bowers transphobic?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/q3b5vx/is_dr_marci_bowers_transphobic/) by HiddenStill (me) on 8 October 2021
 * https://transpolicyreform.wordpress.com/2018/07/28/and-then-a-step-to-the-right-the-2018-wpath-officers-election/
 
 ### Version 7 Psych letters for Chest/Breast Augmentation
@@ -1443,4 +1443,4 @@ Papers
 
 ---
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

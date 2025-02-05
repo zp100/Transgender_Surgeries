@@ -1,19 +1,19 @@
 **Tachyphylaxis**
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
 Related wiki pages
 
-* [Implants](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md)
-* [Dependance](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/dependance/dependance.md)
-* [Psychological Effects](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/psychological/psychological.md-effects)
-* [Implant Technology](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implant/implant.md-technology)
+* [Implants<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md)
+* [Dependance<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/dependance/dependance.md)
+* [Psychological Effects<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/psychological/psychological.md-effects)
+* [Implant Technology<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implant/implant.md-technology)
 
 # Tachyphylaxis
 
-Doctors may warn you about ***tachyphylaxis*** when using implants. Its essentially a tolerance to estrogen, where you experience symptoms of low estrogen levels while actually having very high levels. Its easily avoided with the correct protocol and occurs if you get new implants based on symptoms (ie when you feel bad) rather than when your levels are actually low (using blood tests). Australian endocrinologist [Dr Jonathan Hayes](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon-hayes) used a nominal value of 800 pmol/L as a minium, though in practice it was often a bit higher than that. As noted by [Professor John Studd](https://www.studd.co.uk/implants/implants.md.php), simply having supraphysiological estrogen levels is not by itself tachyphylaxis.
+Doctors may warn you about ***tachyphylaxis*** when using implants. Its essentially a tolerance to estrogen, where you experience symptoms of low estrogen levels while actually having very high levels. Its easily avoided with the correct protocol and occurs if you get new implants based on symptoms (ie when you feel bad) rather than when your levels are actually low (using blood tests). Australian endocrinologist [Dr Jonathan Hayes<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md) used a nominal value of 800 pmol/L as a minium, though in practice it was often a bit higher than that. As noted by [Professor John Studd](https://www.studd.co.uk/implants/implants.md.php), simply having supraphysiological estrogen levels is not by itself tachyphylaxis.
 
  The exact meaning of tachyphylaxis in this context is unclear as different papers use different definitions. Wikipedia [describes tachyphylaxis](https://en.wikipedia.org/wiki/Tachyphylaxis) as a tolerance to a drug, however the definition with regards to implants varies.
 
@@ -116,8 +116,8 @@ They have stated they have two patients with with supraphysiological oestradiol 
 
 # reddit
 
-* reply to [Pellet implant for estradiol questions](https://www.reddit.com/r/DrWillPowers/comments/htv5bo/pellet_implant_for_estradiol_questions/fzld2b2/) by glmdl in 2020
+* reply to [Pellet implant for estradiol questions<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/htv5bo/pellet_implant_for_estradiol_questions/fzld2b2/) by glmdl in 2020
 
 ---
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

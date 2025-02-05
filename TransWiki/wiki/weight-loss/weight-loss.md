@@ -1,6 +1,6 @@
 **Weight Loss**
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
@@ -14,13 +14,13 @@ Surgeons have weight/BMI limits, often around 15 to 30 for SRS. It varies among 
 
 reddit
 
-* [Nonbinary: Vaginolplasty- revision](https://www.reddit.com/r/Transgender_Surgeries/comments/1fh25q7/nonbinary_vaginolplasty_revision/) by Clean-Bird3449 in 2024 - surgeon Praful Ramineni - "*My BMI is like 53 but he's worked on people around 60.*"
+* [Nonbinary: Vaginolplasty- revision<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1fh25q7/nonbinary_vaginolplasty_revision/) by Clean-Bird3449 in 2024 - surgeon Praful Ramineni - "*My BMI is like 53 but he's worked on people around 60.*"
 * [Time to Say Goodbye to the B.M.I.? (Gift Article)](https://np.reddit.com/r/medicine/comments/1faoawr/time_to_say_goodbye_to_the_bmi_gift_article/) in 2024
-* [Any formerly obese or morbidly obese ladies who have had SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/13hgeed/any_formerly_obese_or_morbidly_obese_ladies_who/) by KittyJoFoxtrot in 2023
-* [I'm a fat trans woman and today is the 1 year anniversary of my vaginoplasty. AMA](https://www.reddit.com/r/asktransgender/comments/108dld0/im_a_fat_trans_woman_and_today_is_the_1_year/) by Avronox in 2023
-* [too fat for surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/ty34i3/too_fat_for_surgery/) by killerbee2319 in 2022
-* [higher bmi options for vaginoplasties](https://www.reddit.com/r/Transgender_Surgeries/comments/pqc7vo/higher_bmi_options_for_vaginoplasties/) bybobbbbo4000 in 2021 - *"My BMI was over 35 when I got both SRS procedures from Dr Stiller in Washington state (USA)."* and *"I just had my bottom surgery with Dr. Stiller and my BMI was 39 and he didn’t even say a word to me about it."*
-* [How does obesity affect the procedure of surgery? If the patient has excessive body fat, how much does it hinder the surgeon?](https://www.reddit.com/r/medicine/comments/1dgpnf/how_does_obesity_affect_the_procedure_of_surgery/) around 2013
+* [Any formerly obese or morbidly obese ladies who have had SRS?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/13hgeed/any_formerly_obese_or_morbidly_obese_ladies_who/) by KittyJoFoxtrot in 2023
+* [I'm a fat trans woman and today is the 1 year anniversary of my vaginoplasty. AMA<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/108dld0/im_a_fat_trans_woman_and_today_is_the_1_year/) by Avronox in 2023
+* [too fat for surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ty34i3/too_fat_for_surgery/) by killerbee2319 in 2022
+* [higher bmi options for vaginoplasties<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pqc7vo/higher_bmi_options_for_vaginoplasties/) bybobbbbo4000 in 2021 - *"My BMI was over 35 when I got both SRS procedures from Dr Stiller in Washington state (USA)."* and *"I just had my bottom surgery with Dr. Stiller and my BMI was 39 and he didn’t even say a word to me about it."*
+* [How does obesity affect the procedure of surgery? If the patient has excessive body fat, how much does it hinder the surgeon?<sup>R</sup>](https://www.reddit.com/r/medicine/comments/1dgpnf/how_does_obesity_affect_the_procedure_of_surgery/) around 2013
 
 Surgeons
 
@@ -44,13 +44,13 @@ Other
 
 Weight loss on reddit
 
-* [r/loseit](https://www.reddit.com/r/loseit)
-* [r/FiveTwo](https://www.reddit.com/r/FiveTwo)
-* [r/keto](https://www.reddit.com/r/keto)
-* [r/loseit](https://www.reddit.com/r/loseit)
-* [r/intermittentfasting](https://www.reddit.com/r/intermittentfasting)
-* [r/fasting](https://www.reddit.com/r/fasting)
-* [r/Water_Fasting](https://www.reddit.com/r/Water_Fasting)
+* [r/loseit<sup>R</sup>](https://www.reddit.com/r/loseit)
+* [r/FiveTwo<sup>R</sup>](https://www.reddit.com/r/FiveTwo)
+* [r/keto<sup>R</sup>](https://www.reddit.com/r/keto)
+* [r/loseit<sup>R</sup>](https://www.reddit.com/r/loseit)
+* [r/intermittentfasting<sup>R</sup>](https://www.reddit.com/r/intermittentfasting)
+* [r/fasting<sup>R</sup>](https://www.reddit.com/r/fasting)
+* [r/Water_Fasting<sup>R</sup>](https://www.reddit.com/r/Water_Fasting)
 
 For very large amount of weight loss excess skin may need surgical removal. The reddit fasting sub says that fasting can eliminate this skin through a process called autophagy. I've no idea if that's true.
 
@@ -78,18 +78,18 @@ Tolerance builds over time, so it seems like it would be a good idea to achieve 
 
 I've seen reccomended (from non-medical sources) to start with low dose of semaglutide and increase it as slowly as possible to reduce side effects and keep it effective as long as possible, then change over to tirzepatide when it stops working and do the same. You may need to be on it for life to stop the weight comming back. Tirzepatide is significantly more expensive that semagludtide.
 
-* [r/Ozempic](https://www.reddit.com/r/Ozempic) - brand name for Semaglutide
-* [r/Mounjaro](https://www.reddit.com/r/Mounjaro) - brand name for Tirzepatide
-* [r/Tirzepatide](https://www.reddit.com/r/Tirzepatide) (brand Mounjaro)
-* [r/Retatrutide](https://www.reddit.com/r/Retatrutide) - *"Follow the development of GIP/GLP-1/ glucagon agonist"*
-* [r/tirzepatidecompound](https://www.reddit.com/r/tirzepatidecompound)
-* [r/WomensTirzepatide](https://www.reddit.com/r/WomensTirzepatide)
-* [r/TirzepatideRX](https://www.reddit.com/r/TirzepatideRX)
-* [r/Tirzeglutide](https://www.reddit.com/r/Tirzeglutide) - *"A place to offer support and discuss experiences with GLP-1 peptides."*
-* [r/Semaglutide](https://www.reddit.com/r/Semaglutide) - weekly injection (brand Ozempic) or daily oral (brand Rybelsus)
-* [r/Peptidesource](https://www.reddit.com/r/Peptidesource) - Semaglutide and Tirzepatide are peptides
-* [r/SemaglutideFreeSpeech](https://www.reddit.com/r/SemaglutideFreeSpeech) - *"Chat open and freely about Semaglutide and similar compounds."*
-* [r/SourcingSemaglutide](https://www.reddit.com/r/SourcingSemaglutide) - *"Semaglutide is in short supply at the moment. This community was created to share sources for those with a prescription looking to source Semaglutide."*
+* [r/Ozempic<sup>R</sup>](https://www.reddit.com/r/Ozempic) - brand name for Semaglutide
+* [r/Mounjaro<sup>R</sup>](https://www.reddit.com/r/Mounjaro) - brand name for Tirzepatide
+* [r/Tirzepatide<sup>R</sup>](https://www.reddit.com/r/Tirzepatide) (brand Mounjaro)
+* [r/Retatrutide<sup>R</sup>](https://www.reddit.com/r/Retatrutide) - *"Follow the development of GIP/GLP-1/ glucagon agonist"*
+* [r/tirzepatidecompound<sup>R</sup>](https://www.reddit.com/r/tirzepatidecompound)
+* [r/WomensTirzepatide<sup>R</sup>](https://www.reddit.com/r/WomensTirzepatide)
+* [r/TirzepatideRX<sup>R</sup>](https://www.reddit.com/r/TirzepatideRX)
+* [r/Tirzeglutide<sup>R</sup>](https://www.reddit.com/r/Tirzeglutide) - *"A place to offer support and discuss experiences with GLP-1 peptides."*
+* [r/Semaglutide<sup>R</sup>](https://www.reddit.com/r/Semaglutide) - weekly injection (brand Ozempic) or daily oral (brand Rybelsus)
+* [r/Peptidesource<sup>R</sup>](https://www.reddit.com/r/Peptidesource) - Semaglutide and Tirzepatide are peptides
+* [r/SemaglutideFreeSpeech<sup>R</sup>](https://www.reddit.com/r/SemaglutideFreeSpeech) - *"Chat open and freely about Semaglutide and similar compounds."*
+* [r/SourcingSemaglutide<sup>R</sup>](https://www.reddit.com/r/SourcingSemaglutide) - *"Semaglutide is in short supply at the moment. This community was created to share sources for those with a prescription looking to source Semaglutide."*
 * https://en.wikipedia.org/wiki/Semaglutide
 * https://en.wikipedia.org/wiki/Tirzepatide
 * https://en.wikipedia.org/wiki/Retatrutide - *"Retatrutide (LY-3437943) is an experimental drug for obesity developed by American pharmaceutical company Eli Lilly and Company. It is a triple glucagon hormone receptor agonist (GLP-1, GIP, and GCGR receptors)."*
@@ -101,8 +101,8 @@ These drugs are dangerous if taken prior to surgery
 
 reddit
 
-* [The Definitive Guide to Tirzepatide: History, Usage & Administration](https://www.reddit.com/r/Tirzepatide/comments/142wx80/the_definitive_guide_to_tirzepatide_history_usage/) in 2023
-* [Guide to Sourcing Peptides 2023](https://www.reddit.com/r/Peptidesource/comments/142wdu4/guide_to_sourcing_peptides_2023/) by MountainNovel878 in 2023
+* [The Definitive Guide to Tirzepatide: History, Usage & Administration<sup>R</sup>](https://www.reddit.com/r/Tirzepatide/comments/142wx80/the_definitive_guide_to_tirzepatide_history_usage/) in 2023
+* [Guide to Sourcing Peptides 2023<sup>R</sup>](https://www.reddit.com/r/Peptidesource/comments/142wdu4/guide_to_sourcing_peptides_2023/) by MountainNovel878 in 2023
 
 YouTube
 
@@ -114,9 +114,9 @@ Another drug for weight loss is Phentermine, although not mearly as effective as
 
 reddit
 
-* reply to [a question about weight and PI vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/wccxgt/a_question_about_weight_and_pi_vaginoplasty/ij9lnxa/?context=3) by ujyxe in 2022 - *"I had GRS with Brassard two months ago, at a 37ish BMI. Between 35 and 40, they basically want you to do a sleep apnea screening... They do say in the documents that they won’t operate above 40."*
-* [Loose Skin from 90+ lb weight loss gone from Fasting](https://www.reddit.com/r/fasting/comments/b1yw6u/loose_skin_from_90_lb_weight_loss_gone_from/) by madpiratebippy in 2019
-* [Does anybody have actual proof that fasting induced autophagy reduces scars/stretch marks?](https://www.reddit.com/r/fasting/comments/b1456g/does_anybody_have_actual_proof_that_fasting/) by Rengiil in 2019
+* reply to [a question about weight and PI vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/wccxgt/a_question_about_weight_and_pi_vaginoplasty/ij9lnxa/?context=3) by ujyxe in 2022 - *"I had GRS with Brassard two months ago, at a 37ish BMI. Between 35 and 40, they basically want you to do a sleep apnea screening... They do say in the documents that they won’t operate above 40."*
+* [Loose Skin from 90+ lb weight loss gone from Fasting<sup>R</sup>](https://www.reddit.com/r/fasting/comments/b1yw6u/loose_skin_from_90_lb_weight_loss_gone_from/) by madpiratebippy in 2019
+* [Does anybody have actual proof that fasting induced autophagy reduces scars/stretch marks?<sup>R</sup>](https://www.reddit.com/r/fasting/comments/b1456g/does_anybody_have_actual_proof_that_fasting/) by Rengiil in 2019
 
 Livestrong
 
@@ -145,4 +145,4 @@ I think I know how its compounded, and how it could be done DIY, but its very di
 
 ---
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

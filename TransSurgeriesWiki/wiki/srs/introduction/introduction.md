@@ -1,6 +1,6 @@
 **SRS Introduction**
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
@@ -8,14 +8,14 @@
 
 Surgeons by country, including photos.
 
-* [Australia](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/australia/australia.md)
-* [Canada](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/canada/canada.md)
-* [Europe](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/europe/europe.md)
-    * [UK](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/uk/uk.md)
-* [South America](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/south/south.md-america)
-* [Thailand](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
-* [USA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md)
-* [Other](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/other/other.md)
+* [Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/australia/australia.md)
+* [Canada<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/canada/canada.md)
+* [Europe<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/europe/europe.md)
+    * [UK<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/uk/uk.md)
+* [South America<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/south/south.md-america)
+* [Thailand<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
+* [USA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md)
+* [Other<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/other/other.md)
 
 <br />
 
@@ -45,18 +45,18 @@ There's lot of different names/acronyms for this, and I'm just using SRS out of 
 
 reddit
 
-* [Jan 2020 lecture by Thai Surgeon showing internals of 4 types of SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/ew4zi7/jan_2020_lecture_by_thai_surgeon_showing/) by HiddenStill in 2020, refers to YouTube video [Post-operative care and neovagina care](https://www.youtube.com/watch?v=UN-NVge8XmY) by HIV-NAT Thailand in 2020
-* [Let’s talk about aesthetics of GRS.](https://www.reddit.com/r/Transgender_Surgeries/comments/dvnhc6/lets_talk_about_aesthetics_of_grs/) by whitebasket22 in 2019
-* [Vaginal canal not between labia minora?](https://www.reddit.com/r/Transgender_Surgeries/comments/as3v49/vaginal_canal_not_between_labia_minora/) by polygonalbeing in 2019
+* [Jan 2020 lecture by Thai Surgeon showing internals of 4 types of SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ew4zi7/jan_2020_lecture_by_thai_surgeon_showing/) by HiddenStill in 2020, refers to YouTube video [Post-operative care and neovagina care](https://www.youtube.com/watch?v=UN-NVge8XmY) by HIV-NAT Thailand in 2020
+* [Let’s talk about aesthetics of GRS.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dvnhc6/lets_talk_about_aesthetics_of_grs/) by whitebasket22 in 2019
+* [Vaginal canal not between labia minora?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/as3v49/vaginal_canal_not_between_labia_minora/) by polygonalbeing in 2019
 
 Susans
 
-* [3D model of a clitoris a friend printed and I glittered](https://www.reddit.com/r/TwoXChromosomes/comments/b4d9nf/3d_model_of_a_clitoris_a_friend_printed_and_i/) in 2019 - not trans related, but kind of interesting.
+* [3D model of a clitoris a friend printed and I glittered<sup>R</sup>](https://www.reddit.com/r/TwoXChromosomes/comments/b4d9nf/3d_model_of_a_clitoris_a_friend_printed_and_i/) in 2019 - not trans related, but kind of interesting.
 * [My Vagina Is Not Within Inner Labia!](https://www.susans.org/forums/index.php/topic,244532.0.html) by Violet in 2019 - she has photo/videos elsewhere
 
 YouTube
 
-* [Post-operative care and neovagina care](https://www.youtube.com/watch?v=UN-NVge8XmY) by HIV-NAT Thailand - *"Lectured by Worapon Ratanalert, MD, Department of Surgery, Faculty of Medicine, Chulalongkorn University and Thai Red Cross AIDS Research Centre Bangkok, Thailand in 22nd Bangkok International Symposium on HIV Medicine 2020 on January 15-17, 2020 at BITEC, Bangkok, Thailand"*. At 6:34 there's a ***video comparison of internals of a cis-vagina, skin graft, colonic flap, and peritoneal flap***. See also reddit post [Jan 2020 lecture by Thai Surgeon showing internals of 4 types of SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/ew4zi7/jan_2020_lecture_by_thai_surgeon_showing/) by HiddenStill in 2020
+* [Post-operative care and neovagina care](https://www.youtube.com/watch?v=UN-NVge8XmY) by HIV-NAT Thailand - *"Lectured by Worapon Ratanalert, MD, Department of Surgery, Faculty of Medicine, Chulalongkorn University and Thai Red Cross AIDS Research Centre Bangkok, Thailand in 22nd Bangkok International Symposium on HIV Medicine 2020 on January 15-17, 2020 at BITEC, Bangkok, Thailand"*. At 6:34 there's a ***video comparison of internals of a cis-vagina, skin graft, colonic flap, and peritoneal flap***. See also reddit post [Jan 2020 lecture by Thai Surgeon showing internals of 4 types of SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ew4zi7/jan_2020_lecture_by_thai_surgeon_showing/) by HiddenStill in 2020
 
 <br />
  
@@ -64,8 +64,8 @@ YouTube
 
 reddit
 
-* [My 😼 turned 7 today!!](https://www.reddit.com/r/manmadepussy/comments/qsiu4i/my_turned_7_today/) by Glittering-Machine- in 2021
-* [GCS result with Dr Chettawut, 10 years ago.](https://www.reddit.com/r/Transgender_Surgeries/comments/pu2lph/gcs_result_with_dr_chettawut_10_years_ago/) by justafleetingmoment in 2021
+* [My 😼 turned 7 today!!<sup>R</sup>](https://www.reddit.com/r/manmadepussy/comments/qsiu4i/my_turned_7_today/) by Glittering-Machine- in 2021
+* [GCS result with Dr Chettawut, 10 years ago.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pu2lph/gcs_result_with_dr_chettawut_10_years_ago/) by justafleetingmoment in 2021
 
 YouTube
 
@@ -79,8 +79,8 @@ As in taking them home in jar, not still attached to your body (that's elsewhere
 
 reddit
 
-* [I want to take home my testes after my orchi but my surgeon is pushing back. Anybody have other surgeon recs?](https://www.reddit.com/r/Transgender_Surgeries/comments/rajeo0/i_want_to_take_home_my_testes_after_my_orchi_but/) by chaos_and_noise in 2021
-* [Should I save my testicles?](https://www.reddit.com/r/Transgender_Surgeries/comments/ptvlfw/should_i_save_my_testicles/) by  pleximccabe in 2021
+* [I want to take home my testes after my orchi but my surgeon is pushing back. Anybody have other surgeon recs?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rajeo0/i_want_to_take_home_my_testes_after_my_orchi_but/) by chaos_and_noise in 2021
+* [Should I save my testicles?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ptvlfw/should_i_save_my_testicles/) by  pleximccabe in 2021
 
 YouTube
 
@@ -100,7 +100,7 @@ Papers
 
 reddit
 
-* [Step-By-Step Surgery Video of Robotic Peritoneal Flap Vaginoplasty at NYU Langone](https://www.reddit.com/r/Transgender_Surgeries/comments/qc2uq9/stepbystep_surgery_video_of_robotic_peritoneal/) by trans_Gaines in 2021
+* [Step-By-Step Surgery Video of Robotic Peritoneal Flap Vaginoplasty at NYU Langone<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qc2uq9/stepbystep_surgery_video_of_robotic_peritoneal/) by trans_Gaines in 2021
 
 YouTube
 
@@ -148,7 +148,7 @@ https://www.susans.org/wiki/Penile_inversion
 
 reddit
 
-* [How long after GCS before going back to work (MTF)](https://www.reddit.com/r/Transgender_Surgeries/comments/ordlfy/how_long_after_gcs_before_going_back_to_work_mtf/) by sammysd53 in 2021
+* [How long after GCS before going back to work (MTF)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ordlfy/how_long_after_gcs_before_going_back_to_work_mtf/) by sammysd53 in 2021
 
 YouTube
 
@@ -176,21 +176,21 @@ https://www.susans.org/wiki/Colovaginoplasty
 
 reddit
 
-* [can i eat an orange after colon srs after three weeks?](https://www.reddit.com/r/Transgender_Surgeries/comments/zbl5y7/can_i_eat_an_orange_after_colon_srs_after_three/) by Alternative_Tap6279 in 2022
-* [No bad smell. Colo-vaginoplasty.](https://www.reddit.com/r/Transgender_Surgeries/comments/umjew6/no_bad_smell_colovaginoplasty/) by Kimberlashes in 2022 - surgeon Ivan Mañero Vazquez in Spain - *"I had one about six months ago now and never had a single issue with a bad smell."*
-* [8 weeks post op colo-vaginoplasty with minor dehisence. Getting 22cm depth. Still a little swollen due to the dehisence complication, but very happy with the result. By IM GENDER Clinic, Ivan Manero, Barcelona.](https://www.reddit.com/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/) by Potential_Total_257 in 2022
-* [Chat with colovaginaplasty friend of mines tonight bout having to clean deep in the neovagina…](https://www.reddit.com/r/Transgender_Surgeries/comments/oj8qi0/chat_with_colovaginaplasty_friend_of_mines/) by GSGurl in 2021
-* [Confusing SRS information from doctors advice appreciated](https://www.reddit.com/r/Transgender_Surgeries/comments/jwm5c5/confusing_srs_information_from_doctors_advice/) by  Doughy_Doe in 2020
-* [Mtf colon-vaginoplasty & sex questions](https://www.reddit.com/r/Transgender_Surgeries/comments/j3m8s9/mtf_colonvaginoplasty_sex_questions/) by Throwwwaway_1399 in 2020 - surgeon is Loren Schechter, see [Dr Loren Schechter( Chicago- 1st surgery 2016 & revision 2018- result after both) Colon-vaginoplasty results](https://www.reddit.com/r/Transgender_Surgeries/comments/j40087/dr_loren_schechter_chicago_1st_surgery_2016/) one day later.
-* [Dr Loren Schechter( Chicago- 1st surgery 2016 & revision 2018- result after both) Colon-vaginoplasty results](https://www.reddit.com/r/Transgender_Surgeries/comments/j40087/dr_loren_schechter_chicago_1st_surgery_2016/) by Throwwwaway_1399 in 2020
-* reply to [Am I the only straight girl who wants a shallow depth vaginoplasty? \[NSFW\]](https://www.reddit.com/r/asktransgender/comments/em17aw/am_i_the_only_straight_girl_who_wants_a_shallow/fdm7mw9/) by AutumnGlow33 in 2020
-* in asktransgender [Had sigmoid colon SRS with Dr. Kamol in Bangkok 6 months ago. AMA](https://www.reddit.com/r/asktransgender/comments/eff4bg/had_sigmoid_colon_srs_with_dr_kamol_in_bangkok_6/) by estraNicole in 2019 and in Transgender_Surgeries [Had sigmoid colon SRS with Dr. Kamol in Bangkok 6 months ago. 
-* [Intestinal Vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/dy896t/intestinal_vaginoplasty/) by Transgirljz in 2019
-* [Best surgeons in US that do Sigmoid Colon SRS?](https://www.reddit.com/r/MtF/comments/dm6k8e/best_surgeons_in_us_that_do_sigmoid_colon_srs/) by barista237 in 2019
-* [Pai?](https://www.reddit.com/r/Transgender_Surgeries/comments/c6n5ii/pai/) by missgigi14 in 2019
-* [Can you dilate to much after Vaginoplasty surgery?](https://www.reddit.com/r/Transgender_Surgeries/comments/c8aiyp/can_you_dilate_to_much_after_vaginoplasty_surgery/) by Cami1990 in 2019
-* [I have no clue what to do, daughter can't get the bottom surgery and is becoming suicidal.](https://www.reddit.com/r/asktransgender/comments/79i5q5/i_have_no_clue_what_to_do_daughter_cant_get_the/) by Throwawayforhelp2017 in 2017
-* [Colovag?](https://www.reddit.com/r/asktransgender/comments/221tov/colovag/) by tmenace around 2014
+* [can i eat an orange after colon srs after three weeks?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/zbl5y7/can_i_eat_an_orange_after_colon_srs_after_three/) by Alternative_Tap6279 in 2022
+* [No bad smell. Colo-vaginoplasty.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/umjew6/no_bad_smell_colovaginoplasty/) by Kimberlashes in 2022 - surgeon Ivan Mañero Vazquez in Spain - *"I had one about six months ago now and never had a single issue with a bad smell."*
+* [8 weeks post op colo-vaginoplasty with minor dehisence. Getting 22cm depth. Still a little swollen due to the dehisence complication, but very happy with the result. By IM GENDER Clinic, Ivan Manero, Barcelona.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/) by Potential_Total_257 in 2022
+* [Chat with colovaginaplasty friend of mines tonight bout having to clean deep in the neovagina…<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/oj8qi0/chat_with_colovaginaplasty_friend_of_mines/) by GSGurl in 2021
+* [Confusing SRS information from doctors advice appreciated<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jwm5c5/confusing_srs_information_from_doctors_advice/) by  Doughy_Doe in 2020
+* [Mtf colon-vaginoplasty & sex questions<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/j3m8s9/mtf_colonvaginoplasty_sex_questions/) by Throwwwaway_1399 in 2020 - surgeon is Loren Schechter, see [Dr Loren Schechter( Chicago- 1st surgery 2016 & revision 2018- result after both) Colon-vaginoplasty results<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/j40087/dr_loren_schechter_chicago_1st_surgery_2016/) one day later.
+* [Dr Loren Schechter( Chicago- 1st surgery 2016 & revision 2018- result after both) Colon-vaginoplasty results<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/j40087/dr_loren_schechter_chicago_1st_surgery_2016/) by Throwwwaway_1399 in 2020
+* reply to [Am I the only straight girl who wants a shallow depth vaginoplasty? \[NSFW\]<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/em17aw/am_i_the_only_straight_girl_who_wants_a_shallow/fdm7mw9/) by AutumnGlow33 in 2020
+* in asktransgender [Had sigmoid colon SRS with Dr. Kamol in Bangkok 6 months ago. AMA<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/eff4bg/had_sigmoid_colon_srs_with_dr_kamol_in_bangkok_6/) by estraNicole in 2019 and in Transgender_Surgeries [Had sigmoid colon SRS with Dr. Kamol in Bangkok 6 months ago. 
+* [Intestinal Vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dy896t/intestinal_vaginoplasty/) by Transgirljz in 2019
+* [Best surgeons in US that do Sigmoid Colon SRS?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/dm6k8e/best_surgeons_in_us_that_do_sigmoid_colon_srs/) by barista237 in 2019
+* [Pai?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/c6n5ii/pai/) by missgigi14 in 2019
+* [Can you dilate to much after Vaginoplasty surgery?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/c8aiyp/can_you_dilate_to_much_after_vaginoplasty_surgery/) by Cami1990 in 2019
+* [I have no clue what to do, daughter can't get the bottom surgery and is becoming suicidal.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/79i5q5/i_have_no_clue_what_to_do_daughter_cant_get_the/) by Throwawayforhelp2017 in 2017
+* [Colovag?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/221tov/colovag/) by tmenace around 2014
 
 Susans
 
@@ -267,17 +267,17 @@ This started getting a lot of attention after Jess Ting did an article in Wired 
 
 reddit
 
-* [PPT Surgeons conflicting information on self-lubrication](https://www.reddit.com/r/Transgender_Surgeries/comments/10cvfen/ppt_surgeons_conflicting_information_on/) by Amazing-Experience-3 in 2023
-* [Penile-Preserving, Laproscopic Peritoneal-Pullthrough GCS with Dr. Heidi Wittenberg, Post-Op Year 3-ish?](https://www.reddit.com/r/Transgender_Surgeries/comments/wkfhhs/penilepreserving_laproscopic/) by the_weird_stuff in 2022 - *"My "Final Verdict" in a nutshell is - don't get what I got. The promising nature at the beginning (natural lube, some interesting sensation) has went away completely after a couple years. I think that there is still very slight lubrication (possibly even enough to clean it out) but is in general pretty dry and numb. To be honest, I'm probably going to get it removed. It was (as I knew going in) an experiment, and I'd consider it a failed one."*
-    * [FYI: Penile-Preserving, Laproscopic Peritoneal-Pullthrough GCS with Dr. Heidi Wittenberg in a month-ish](https://www.reddit.com/r/Transgender_Surgeries/comments/chxntq/fyi_penilepreserving_laproscopic/) by the_weird_stuff in 2019
-* reply to [Confused about vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/it3y44/confused_about_vaginoplasty/g5dqh68/) by Maybebaby57 in 2020 - *"I had a peritoneal graft revision for vaginal stenosis. I was down to about 3 1/2 inches of depth and could only get the blue (soulsource) dilator in to about the first dot."*
-* [Does anyone get constant leaking after a year with PPV?](https://www.reddit.com/r/Transgender_Surgeries/comments/g17d05/does_anyone_get_constant_leaking_after_a_year/) by krone6 in 2020
-* [Bottom surgery with Dr. Ting?](https://www.reddit.com/r/MtF/comments/ddoll8/bottom_surgery_with_dr_ting/) by Pheonix_Knight in 2019
-* [The final word on neovagina linings - is peritoneum actually better than a skin graft?](https://www.reddit.com/r/Transgender_Surgeries/comments/d7ry8r/the_final_word_on_neovagina_linings_is_peritoneum/) by Chief_Gadfium in 2019
-* [peritoneal vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/d6q3yv/peritoneal_vaginoplasty/) by Jamie-89 in 2019
-* [SRS / GRS New Options v's Old Favorites](https://www.reddit.com/r/Transgender_Surgeries/comments/bmh50d/srs_grs_new_options_vs_old_favorites/) by danielle-tv in 2019
-* [Has anyone here gotten a peritoneal vaginoplasty?](https://www.reddit.com/r/Transgender_Surgeries/comments/b1htzg/has_anyone_here_gotten_a_peritoneal_vaginoplasty/) by Dani_Anna in 2019
-* [I am Just Over 2 Weeks Post-Op From GCS/Vaginoplasty with Dr Rachael Bluebond-Langner That Was Robot Assisted. Here Is My Experience.](https://www.reddit.com/r/asktransgender/comments/7dmdm3/i_am_just_over_2_weeks_postop_from/) by enigmabound in 2018 - peritoneal according to [this post](https://www.reddit.com/r/Transgender_Surgeries/comments/b1htzg/has_anyone_here_gotten_a_peritoneal_vaginoplasty/eimz8pe/)
+* [PPT Surgeons conflicting information on self-lubrication<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10cvfen/ppt_surgeons_conflicting_information_on/) by Amazing-Experience-3 in 2023
+* [Penile-Preserving, Laproscopic Peritoneal-Pullthrough GCS with Dr. Heidi Wittenberg, Post-Op Year 3-ish?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/wkfhhs/penilepreserving_laproscopic/) by the_weird_stuff in 2022 - *"My "Final Verdict" in a nutshell is - don't get what I got. The promising nature at the beginning (natural lube, some interesting sensation) has went away completely after a couple years. I think that there is still very slight lubrication (possibly even enough to clean it out) but is in general pretty dry and numb. To be honest, I'm probably going to get it removed. It was (as I knew going in) an experiment, and I'd consider it a failed one."*
+    * [FYI: Penile-Preserving, Laproscopic Peritoneal-Pullthrough GCS with Dr. Heidi Wittenberg in a month-ish<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/chxntq/fyi_penilepreserving_laproscopic/) by the_weird_stuff in 2019
+* reply to [Confused about vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/it3y44/confused_about_vaginoplasty/g5dqh68/) by Maybebaby57 in 2020 - *"I had a peritoneal graft revision for vaginal stenosis. I was down to about 3 1/2 inches of depth and could only get the blue (soulsource) dilator in to about the first dot."*
+* [Does anyone get constant leaking after a year with PPV?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/g17d05/does_anyone_get_constant_leaking_after_a_year/) by krone6 in 2020
+* [Bottom surgery with Dr. Ting?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/ddoll8/bottom_surgery_with_dr_ting/) by Pheonix_Knight in 2019
+* [The final word on neovagina linings - is peritoneum actually better than a skin graft?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/d7ry8r/the_final_word_on_neovagina_linings_is_peritoneum/) by Chief_Gadfium in 2019
+* [peritoneal vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/d6q3yv/peritoneal_vaginoplasty/) by Jamie-89 in 2019
+* [SRS / GRS New Options v's Old Favorites<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/bmh50d/srs_grs_new_options_vs_old_favorites/) by danielle-tv in 2019
+* [Has anyone here gotten a peritoneal vaginoplasty?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/b1htzg/has_anyone_here_gotten_a_peritoneal_vaginoplasty/) by Dani_Anna in 2019
+* [I am Just Over 2 Weeks Post-Op From GCS/Vaginoplasty with Dr Rachael Bluebond-Langner That Was Robot Assisted. Here Is My Experience.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/7dmdm3/i_am_just_over_2_weeks_postop_from/) by enigmabound in 2018 - peritoneal according to [this post<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/b1htzg/has_anyone_here_gotten_a_peritoneal_vaginoplasty/eimz8pe/)
 
 Susans
 
@@ -307,13 +307,13 @@ Other
 
 reddit
 
-* [SRS PPT/peritoneal graft - not as clean and fresh a smell as I thought it would be. What's your experience pls if you've had peritoneal SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/109nagd/srs_pptperitoneal_graft_not_as_clean_and_fresh_a/) by jazmynz in 2023 - *"UPDATE... I woke up one day and the over secretion and its smell had totally disappeared and has stayed like it ever since. Not even a single day returning. There is still a tiny bit of fluid, just enough for lubrication and smells fine I can only presume the initial secretion was lymph fluid seeping from around the sutures or maybe the peritoneal membrane cleaning meds out of my blood post surgery. Things are now as fresh and clean as I hoped peritoneal SRS would be."*
-* [Part 6: Had PPT/PPV/PPTV with Dr. Heidi Wittenberg March 9th 2021](https://www.reddit.com/r/Transgender_Surgeries/comments/qldmt7/part_6_had_pptppvpptv_with_dr_heidi_wittenberg/) by jannaw996 in 2021
-* [Peritoneal Pull Thorough Vaginoplasty with Dr Miroslav in Serbia, AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/okpldk/peritoneal_pull_thorough_vaginoplasty_with_dr/) by Evening_Rip1327 in 2021
-* [PPT vaginas & discharge (tmi)](https://www.reddit.com/r/Transgender_Surgeries/comments/l5xnlj/ppt_vaginas_discharge_tmi/) by haydenpaille in 2021
-* [Does anyone who has had peritoneal pull through vaginoplasty NOT get excessive lubrication?](https://www.reddit.com/r/Transgender_Surgeries/comments/jcwyhy/does_anyone_who_has_had_peritoneal_pull_through/) by defyinggod in 2020
+* [SRS PPT/peritoneal graft - not as clean and fresh a smell as I thought it would be. What's your experience pls if you've had peritoneal SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/109nagd/srs_pptperitoneal_graft_not_as_clean_and_fresh_a/) by jazmynz in 2023 - *"UPDATE... I woke up one day and the over secretion and its smell had totally disappeared and has stayed like it ever since. Not even a single day returning. There is still a tiny bit of fluid, just enough for lubrication and smells fine I can only presume the initial secretion was lymph fluid seeping from around the sutures or maybe the peritoneal membrane cleaning meds out of my blood post surgery. Things are now as fresh and clean as I hoped peritoneal SRS would be."*
+* [Part 6: Had PPT/PPV/PPTV with Dr. Heidi Wittenberg March 9th 2021<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qldmt7/part_6_had_pptppvpptv_with_dr_heidi_wittenberg/) by jannaw996 in 2021
+* [Peritoneal Pull Thorough Vaginoplasty with Dr Miroslav in Serbia, AMA<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/okpldk/peritoneal_pull_thorough_vaginoplasty_with_dr/) by Evening_Rip1327 in 2021
+* [PPT vaginas & discharge (tmi)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/l5xnlj/ppt_vaginas_discharge_tmi/) by haydenpaille in 2021
+* [Does anyone who has had peritoneal pull through vaginoplasty NOT get excessive lubrication?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jcwyhy/does_anyone_who_has_had_peritoneal_pull_through/) by defyinggod in 2020
 * [Vaginoplasty Peritoneal Pull Through Discussion: Heidi Wittenberg](https://www.youtube.com/watch?v=dTN-TRhvGng) by  Mozaic Care in 2019
-* [First Ever MTF Pull-Through Peritoneal Vaginoplasty in the US (?)](https://www.reddit.com/r/Transgender_Surgeries/comments/cot4eg/first_ever_mtf_pullthrough_peritoneal/) by norabelrose in 2019
+* [First Ever MTF Pull-Through Peritoneal Vaginoplasty in the US (?)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/cot4eg/first_ever_mtf_pullthrough_peritoneal/) by norabelrose in 2019
 
 YouTube
 
@@ -332,7 +332,7 @@ Other
 
 reddit
 
-* [After ring surgery now after a 4 weeks surgery i can say that the ring is gone. Hopefuly forever. The 2nd surgery was after 16weeks after the first general Srs surgery.](https://www.reddit.com/r/Transgender_Surgeries/comments/12z5zre/after_ring_surgery_now_after_a_4_weeks_surgery_i/) by  Carolina-Swe in 2023, for more see entry for surgeon Antti Mikkola in Sweden
+* [After ring surgery now after a 4 weeks surgery i can say that the ring is gone. Hopefuly forever. The 2nd surgery was after 16weeks after the first general Srs surgery.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/12z5zre/after_ring_surgery_now_after_a_4_weeks_surgery_i/) by  Carolina-Swe in 2023, for more see entry for surgeon Antti Mikkola in Sweden
 
 <br />
 
@@ -342,10 +342,10 @@ reddit
 
 reddit
 
-* [2 days post-op penile inversion vaginoplasty + tunica vaginalis graft (peritoneum) with Dr. Jess Ting - AMA!](https://www.reddit.com/r/asktransgender/comments/narf3p/2_days_postop_penile_inversion_vaginoplasty/) by SpicyHotShura in 2021
-    * [1 week post-op with Dr. Jess Ting - AMA pt. 2!](https://www.reddit.com/r/asktransgender/comments/nggrmr/1_week_postop_with_dr_jess_ting_ama_pt_2/) by SpicyHotShura in 2021
-* [can anyone help me understand what a tunica graft is?](https://www.reddit.com/r/Transgender_Surgeries/comments/kpxxp8/can_anyone_help_me_understand_what_a_tunica_graft/) by Ortcuttisretired in 2021
-* [The Suporn Clinic is now officially using both the tunica vaginalis and urethral mucosa to line the vagina, according to their website](https://www.reddit.com/r/Transgender_Surgeries/comments/oxxkm6/the_suporn_clinic_is_now_officially_using_both/) by Aromatic_Guest_6589 around 2021
+* [2 days post-op penile inversion vaginoplasty + tunica vaginalis graft (peritoneum) with Dr. Jess Ting - AMA!<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/narf3p/2_days_postop_penile_inversion_vaginoplasty/) by SpicyHotShura in 2021
+    * [1 week post-op with Dr. Jess Ting - AMA pt. 2!<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/nggrmr/1_week_postop_with_dr_jess_ting_ama_pt_2/) by SpicyHotShura in 2021
+* [can anyone help me understand what a tunica graft is?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kpxxp8/can_anyone_help_me_understand_what_a_tunica_graft/) by Ortcuttisretired in 2021
+* [The Suporn Clinic is now officially using both the tunica vaginalis and urethral mucosa to line the vagina, according to their website<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/oxxkm6/the_suporn_clinic_is_now_officially_using_both/) by Aromatic_Guest_6589 around 2021
 
 YouTube
 
@@ -367,60 +367,60 @@ See the SRS wiki pages for surgeons.
 
 Related reddit subs
 
-* [r/M2E](https://www.reddit.com/r/M2E) - *"If you are considering transitioning from male to eunuch, this forum is here to support you from A to Z."*
-* [r/castration](https://www.reddit.com/r/castration) - *"Some of the entires are lightly fictionalized, and this sub is inclusive of kink, fetish, fantasy AND fact."*
-* [r/Castrations](https://www.reddit.com/r/Castrations) - *"A place to talk about the fantasy or seek advice"*
-* [r/CastratedShemales](https://www.reddit.com/r/CastratedShemales) - porn sub
-* [r/eunuchs](https://www.reddit.com/r/eunuchs)
-* [r/neutered](https://www.reddit.com/r/neutered) - *"This subreddit is a safe space for trans people, and anyone else who may seek to be, or find interest in, being neutered."*
-* [r/emptysacks](https://www.reddit.com/r/emptysacks) - *"A place for eunuchs, trans people, and the like who have been castrated."*
-* [r/emptysackshemales](https://www.reddit.com/r/emptysackshemales)
-* [r/orchiectomy](https://www.reddit.com/r/orchiectomy) - *"Support for those who have had, or wish to have an orchiectomy (medically necessarily or electively). Otherwise known as removal of one (or both) testicles. Removal of both testicles is also called castration. People of all gender walks are welcome here."*
-* [r/stirringcastration](https://www.reddit.com/r/stirringcastration) - seems to be diy castration
+* [r/M2E<sup>R</sup>](https://www.reddit.com/r/M2E) - *"If you are considering transitioning from male to eunuch, this forum is here to support you from A to Z."*
+* [r/castration<sup>R</sup>](https://www.reddit.com/r/castration) - *"Some of the entires are lightly fictionalized, and this sub is inclusive of kink, fetish, fantasy AND fact."*
+* [r/Castrations<sup>R</sup>](https://www.reddit.com/r/Castrations) - *"A place to talk about the fantasy or seek advice"*
+* [r/CastratedShemales<sup>R</sup>](https://www.reddit.com/r/CastratedShemales) - porn sub
+* [r/eunuchs<sup>R</sup>](https://www.reddit.com/r/eunuchs)
+* [r/neutered<sup>R</sup>](https://www.reddit.com/r/neutered) - *"This subreddit is a safe space for trans people, and anyone else who may seek to be, or find interest in, being neutered."*
+* [r/emptysacks<sup>R</sup>](https://www.reddit.com/r/emptysacks) - *"A place for eunuchs, trans people, and the like who have been castrated."*
+* [r/emptysackshemales<sup>R</sup>](https://www.reddit.com/r/emptysackshemales)
+* [r/orchiectomy<sup>R</sup>](https://www.reddit.com/r/orchiectomy) - *"Support for those who have had, or wish to have an orchiectomy (medically necessarily or electively). Otherwise known as removal of one (or both) testicles. Removal of both testicles is also called castration. People of all gender walks are welcome here."*
+* [r/stirringcastration<sup>R</sup>](https://www.reddit.com/r/stirringcastration) - seems to be diy castration
 
 reddit
 
-* [\*Graphic be advised\* Orchiectomy parts removed.](https://www.reddit.com/r/Transgender_Surgeries/comments/14sao5j/graphic_be_advised_orchiectomy_parts_removed/) by MissBoofsAlot in 2023
-* [I learned the hard way that you can get testicular torsion post-orchiectomy](https://www.reddit.com/r/Transgender_Surgeries/comments/10q4q2a/i_learned_the_hard_way_that_you_can_get/) by Fisguard in 2023 - *"13 years ago I had a bilateral orchiectomy with Dr. Tuan Njuyen in Lake Oswego, Oregon. The procedure went normally and healed well. Everything else is intact, I never ended up having GCS. I was grateful to never have to feel testicular pain ever again, but I was wrong! A couple of weeks ago I did yoga for the first time in years and ended up thinking I pulled a muscle in my groin area... I was admitted to the hospital the following day, skipping me ahead of a bunch of people because of the whimpering and clawing at my seat in the lobby... The searing agony came back in just a time for them to put me on heavy medication and kept me overnight. Once they had the MRI they found that one of my spermatic cords had gotten tangled in the inguinal canal and seemingly pinched with an artery. It then got swollen and stuck there... They said they'd perform surgery if it comes back. If I did have surgery, the surgeon would have made an incision in the pelvic region a couple inches above the swelling and snipped the spermatic cord higher up so it could never tangle again. So... if you're thinking about getting an orchi it couldn't hurt to ask your surgeon to snip a little higher, right? lol"*
-* [36 Hours Post Orchi - 36 Years Old - 5"7 120 lbs](https://www.reddit.com/r/Transgender_Surgeries/comments/10nh4a7/36_hours_post_orchi_36_years_old_57_120_lbs/) by staykinky in 2023, see also YouTube video [Transgender Orchiectomy Consultation - Before & After Trans Journey \[LetsGetSRS 38\]](https://www.youtube.com/watch?v=9n_AfW8gzdk) by Transcaping in 2023
-* [Six Months Post Orchiectomy, Some Anecdotal Experiences](https://www.reddit.com/r/Transgender_Surgeries/comments/z0nal8/six_months_post_orchiectomy_some_anecdotal/) by  juniperliketheberry in 2022
-* [The dissection report of my balls, Or what HRT really does to testis, Feel free to ask anything about my Orchi!](https://www.reddit.com/r/asktransgender/comments/xq2tdy/the_dissection_report_of_my_balls_or_what_hrt/) by Katlynashe in 2022
-* [Orchiectomy 8 years ago - My vaginoplasty is scheduled for October with Dr. Whitehead!](https://www.reddit.com/r/Transgender_Surgeries/comments/xh5n0z/orchiectomy_8_years_ago_my_vaginoplasty_is/) by floridaeunuch in 2022
-* [Spermatic cord pain 2 years post orchiectomy.](https://www.reddit.com/r/Transgender_Surgeries/comments/uvsl00/spermatic_cord_pain_2_years_post_orchiectomy/) by PrincessNakeyDance in 2022
-    * [\[Orchiectomy Complications\] Spermatic Cord seems to be fused to my incision, has anyone else experienced this before?](https://www.reddit.com/r/Transgender_Surgeries/comments/i2fpds/orchiectomy_complications_spermatic_cord_seems_to/) by PrincessNakeyDance in 2021
-* reply to [Internal swelling after orchi?](https://www.reddit.com/user/D0esANyoneREadTHese) by D0esANyoneREadTHese - *"If they used a long halflife dissolving suture like heavy Vicryl it might be that it's finally dissolving enough to come loose... if you have the nylon ligature clips that might just be something you end up having to live with unless they migrated, everyone I know who's had clips instead of suture ligations, either for orchiectomy or for scalpel vasectomy, complains about occasional bouts of moderate pain/swelling in the inguinal area as the clips occasionally move around. I actually specifically ASKED my surgeon which kind of ligations he'd use before my orchi cause I didn't want to get stuck with clips, you'd have to call them up and ask what they used."*
-* [2 days post-op penile inversion vaginoplasty + tunica vaginalis graft (peritoneum) with Dr. Jess Ting - AMA!](https://www.reddit.com/r/asktransgender/comments/narf3p/2_days_postop_penile_inversion_vaginoplasty/) by SpicyHotShura in 2021 - *"Dr. Ting uses the tunica vaginalis, which is analogous to the peritoneum. Its a newer technique that does not require robots, like the peritoneal pull through method that has been around much longer... That's the tunica vaginalis! Which is usually discarded in all other bottom surgeries, including orchiectomy, unless you have it done radically (through the inguinal ring rather than the scrotum) like I did when I had my orchi."*
-* [Orchiectomy question.](https://www.reddit.com/r/Transgender_Surgeries/comments/qqhiy7/orchiectomy_question/) by  internalgirl in 2021 - *"I had a bilateral orchi three weeks ago and it feels like the end of the cord has healed and fused to the inside of the scrotum and is pulling it upward toward where I used to tuck my testicles."*
-* [Orchiectomy experience, before and after bulge profile](https://www.reddit.com/r/Transgender_Surgeries/comments/q19qpf/orchiectomy_experience_before_and_after_bulge/) by UniqueMeat in 2021
-* [Wear underwear while sleeping after orchiectomy or be naked?](https://www.reddit.com/r/Transgender_Surgeries/comments/o02ra5/wear_underwear_while_sleeping_after_orchiectomy/) by Robinothoodie in 2021
-* [Simple vs Radical Orchiectomy](https://www.reddit.com/r/Transgender_Surgeries/comments/lw9zgn/simple_vs_radical_orchiectomy/) by KennaCinae in 2021
-* [Sex life after orchiectomy ?](https://www.reddit.com/r/Transgender_Surgeries/comments/kc0r5j/sex_life_after_orchiectomy/) by raiventhegirl in 2020
-* [Questions for anyone who has had an orchiectomy](https://www.reddit.com/r/Transgender_Surgeries/comments/k42rt1/questions_for_anyone_who_has_had_an_orchiectomy/) by Mundane-Yesterday-18 in 2020
-* [Benefits of an orchiectomy](https://www.reddit.com/r/Transgender_Surgeries/comments/jly6fu/benefits_of_an_orchiectomy/) by  Nikki22_ in 2020
-* [Are your spermatic cords 'sticking out' after simple orchi? /Clarifying anatomy, etc](https://www.reddit.com/r/Transgender_Surgeries/comments/ittlb4/are_your_spermatic_cords_sticking_out_after/) by portlandiandro in 2020
-* [I had a bilateral orchiectomy today with Dr. McClung. I was only at the hospital for 3 hours and the pain hasn't been very bad. Most pain was during the first few hours post op and in my lower abdomen. If anyone has questions feel free to ask.](https://www.reddit.com/r/Transgender_Surgeries/comments/itkqdq/i_had_a_bilateral_orchiectomy_today_with_dr/) by carar33 in 2020
-* [Orchiectomy before vaginoplasty?](https://www.reddit.com/r/Transgender_Surgeries/comments/ijw740/orchiectomy_before_vaginoplasty/) by needSRS in 2020
-* [Orchiectomy before SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/ifxkwu/orchiectomy_before_srs/) by MirriLiu in 2020
-* [\[Orchiectomy Complications\] Spermatic Cord seems to be fused to my incision, has anyone else experienced this before?](https://www.reddit.com/r/Transgender_Surgeries/comments/i2fpds/orchiectomy_complications_spermatic_cord_seems_to/) by PrincessNakeyDance in 2020
-* [Pinching 2 Weeks After Orchi](https://www.reddit.com/r/asktransgender/comments/i1vewz/pinching_2_weeks_after_orchi/) by TheGeometrist in 2020
-* [Those who have had an orchiectomy without general anesthesia, how much did it cost? And how did it go?](https://www.reddit.com/r/Transgender_Surgeries/comments/f23ujp/those_who_have_had_an_orchiectomy_without_general/) by PrincessNakeyDance in 2020
-* [Received devastating new from Suporn (due to my previous orchi)](https://www.reddit.com/r/Transgender_Surgeries/comments/e6kt1f/received_devastating_new_from_suporn_due_to_my/) by \_Caracal\_ in 2019
-* [Mexico?](https://www.reddit.com/r/M2E/comments/cp3xa2/mexico/) by ballboy83 in 2019
-* [Horrific scarring after orchiectomy. 2 months post op is this permanent? I feel the stitches were left in too long that's y it looks like this.](https://www.reddit.com/r/Transgender_Surgeries/comments/dt6njl/horrific_scarring_after_orchiectomy_2_months_post/) by elektrikkiss in 2019
-* [Orchiectomy questions](https://www.reddit.com/r/Transgender_Surgeries/comments/dbykbe/orchiectomy_questions/) by AleksLife in 2019
-* [DEVASTATED by loss of libido after orchiectomy.](https://www.reddit.com/r/asktransgender/comments/crxmci/devastated_by_loss_of_libido_after_orchiectomy/) by  Nlwile3f in 2019
-* [I had a orchietomy with scrotectomy on 7/31. I wanted this as my final surgery. I don’t want to the “full” surgery, I never had much dysphoria about my penis. I knew I wanted my testes removed. I hope it is good enough angle. Ask me any thing.](https://www.reddit.com/r/Transgender_Surgeries/comments/cngh88/i_had_a_orchietomy_with_scrotectomy_on_731_i/) by  Darbyprof in 2019, photo [here](https://i.redd.it/oj240grmh5f31.jpg)
-* [Day 5 after my scrotectony.](https://www.reddit.com/r/ask_transgender/comments/clzgws/day_5_after_my_scrotectony/) by Darbyprof in 2019
-* [Orchiectomy 7 months post-op recovery album](https://www.reddit.com/r/Transgender_Surgeries/comments/cnioxr/orchiectomy_7_months_postop_recovery_album/) by wantingmisa in 2019, photos [here](https://imgur.com/a/YZyXt68)
-* [Orchiectomy Today! AMA](https://www.reddit.com/r/MtF/comments/cjul5u/orchiectomy_today_ama/) by EdmundPaine in 2019
-* [Post-Orchie Changes](https://www.reddit.com/r/MtF/comments/b9n8hq/postorchie_changes/) by TenFootTiger in 2019
-* [I gave up my balls to become a girl](https://www.reddit.com/r/GoneWildTrans/comments/a6jvx6/i_gave_up_my_balls_to_become_a_girl/) by LewdRabbit in 2018  
-* [Orchi long-term post-op photos?](https://www.reddit.com/r/asktransgender/comments/a4bdg8/orchi_longterm_postop_photos/) by lunabeieli in 2018
-* [had an orchiectomy last Thursday w/Dr. Smith @ UCSF. AMA.](https://www.reddit.com/r/asktransgender/comments/95yt4e/had_an_orchiectomy_last_thursday_wdr_smith_ucsf/) by ninabooboo in 2018
-* [I had an elective surgical castration, AMA](https://www.reddit.com/r/IAmA/comments/90rap9/i_had_an_elective_surgical_castration_ama/) by HaileyHeartless in 2018
-* [Just had an orchiectomy yesterday AMA](https://www.reddit.com/r/MtF/comments/8o1eaa/just_had_an_orchiectomy_yesterday_ama/), photos [here](https://imgur.com/a/x1vc6J3), by  transgenderbeepboop in 2018
-* [I got my name legally changed last week, Orchiectomy yesterday! AMA!](https://www.reddit.com/r/asktransgender/comments/6diimb/i_got_my_name_legally_changed_last_week/) by FionaV14 around 2017
-* [I had my simple bilateral orchiectomy this morning. AMA!](https://www.reddit.com/r/asktransgender/comments/2x9jn6/i_had_my_simple_bilateral_orchiectomy_this/) by meatbeagle around 2015, photos [here](https://imgur.com/a/H7Rg0) and [here](https://imgur.com/a/aSSaW)
+* [\*Graphic be advised\* Orchiectomy parts removed.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/14sao5j/graphic_be_advised_orchiectomy_parts_removed/) by MissBoofsAlot in 2023
+* [I learned the hard way that you can get testicular torsion post-orchiectomy<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10q4q2a/i_learned_the_hard_way_that_you_can_get/) by Fisguard in 2023 - *"13 years ago I had a bilateral orchiectomy with Dr. Tuan Njuyen in Lake Oswego, Oregon. The procedure went normally and healed well. Everything else is intact, I never ended up having GCS. I was grateful to never have to feel testicular pain ever again, but I was wrong! A couple of weeks ago I did yoga for the first time in years and ended up thinking I pulled a muscle in my groin area... I was admitted to the hospital the following day, skipping me ahead of a bunch of people because of the whimpering and clawing at my seat in the lobby... The searing agony came back in just a time for them to put me on heavy medication and kept me overnight. Once they had the MRI they found that one of my spermatic cords had gotten tangled in the inguinal canal and seemingly pinched with an artery. It then got swollen and stuck there... They said they'd perform surgery if it comes back. If I did have surgery, the surgeon would have made an incision in the pelvic region a couple inches above the swelling and snipped the spermatic cord higher up so it could never tangle again. So... if you're thinking about getting an orchi it couldn't hurt to ask your surgeon to snip a little higher, right? lol"*
+* [36 Hours Post Orchi - 36 Years Old - 5"7 120 lbs<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10nh4a7/36_hours_post_orchi_36_years_old_57_120_lbs/) by staykinky in 2023, see also YouTube video [Transgender Orchiectomy Consultation - Before & After Trans Journey \[LetsGetSRS 38\]](https://www.youtube.com/watch?v=9n_AfW8gzdk) by Transcaping in 2023
+* [Six Months Post Orchiectomy, Some Anecdotal Experiences<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/z0nal8/six_months_post_orchiectomy_some_anecdotal/) by  juniperliketheberry in 2022
+* [The dissection report of my balls, Or what HRT really does to testis, Feel free to ask anything about my Orchi!<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/xq2tdy/the_dissection_report_of_my_balls_or_what_hrt/) by Katlynashe in 2022
+* [Orchiectomy 8 years ago - My vaginoplasty is scheduled for October with Dr. Whitehead!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/xh5n0z/orchiectomy_8_years_ago_my_vaginoplasty_is/) by floridaeunuch in 2022
+* [Spermatic cord pain 2 years post orchiectomy.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/uvsl00/spermatic_cord_pain_2_years_post_orchiectomy/) by PrincessNakeyDance in 2022
+    * [\[Orchiectomy Complications\] Spermatic Cord seems to be fused to my incision, has anyone else experienced this before?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i2fpds/orchiectomy_complications_spermatic_cord_seems_to/) by PrincessNakeyDance in 2021
+* reply to [Internal swelling after orchi?<sup>R</sup>](https://www.reddit.com/user/D0esANyoneREadTHese) by D0esANyoneREadTHese - *"If they used a long halflife dissolving suture like heavy Vicryl it might be that it's finally dissolving enough to come loose... if you have the nylon ligature clips that might just be something you end up having to live with unless they migrated, everyone I know who's had clips instead of suture ligations, either for orchiectomy or for scalpel vasectomy, complains about occasional bouts of moderate pain/swelling in the inguinal area as the clips occasionally move around. I actually specifically ASKED my surgeon which kind of ligations he'd use before my orchi cause I didn't want to get stuck with clips, you'd have to call them up and ask what they used."*
+* [2 days post-op penile inversion vaginoplasty + tunica vaginalis graft (peritoneum) with Dr. Jess Ting - AMA!<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/narf3p/2_days_postop_penile_inversion_vaginoplasty/) by SpicyHotShura in 2021 - *"Dr. Ting uses the tunica vaginalis, which is analogous to the peritoneum. Its a newer technique that does not require robots, like the peritoneal pull through method that has been around much longer... That's the tunica vaginalis! Which is usually discarded in all other bottom surgeries, including orchiectomy, unless you have it done radically (through the inguinal ring rather than the scrotum) like I did when I had my orchi."*
+* [Orchiectomy question.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qqhiy7/orchiectomy_question/) by  internalgirl in 2021 - *"I had a bilateral orchi three weeks ago and it feels like the end of the cord has healed and fused to the inside of the scrotum and is pulling it upward toward where I used to tuck my testicles."*
+* [Orchiectomy experience, before and after bulge profile<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/q19qpf/orchiectomy_experience_before_and_after_bulge/) by UniqueMeat in 2021
+* [Wear underwear while sleeping after orchiectomy or be naked?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/o02ra5/wear_underwear_while_sleeping_after_orchiectomy/) by Robinothoodie in 2021
+* [Simple vs Radical Orchiectomy<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lw9zgn/simple_vs_radical_orchiectomy/) by KennaCinae in 2021
+* [Sex life after orchiectomy ?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kc0r5j/sex_life_after_orchiectomy/) by raiventhegirl in 2020
+* [Questions for anyone who has had an orchiectomy<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/k42rt1/questions_for_anyone_who_has_had_an_orchiectomy/) by Mundane-Yesterday-18 in 2020
+* [Benefits of an orchiectomy<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jly6fu/benefits_of_an_orchiectomy/) by  Nikki22_ in 2020
+* [Are your spermatic cords 'sticking out' after simple orchi? /Clarifying anatomy, etc<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ittlb4/are_your_spermatic_cords_sticking_out_after/) by portlandiandro in 2020
+* [I had a bilateral orchiectomy today with Dr. McClung. I was only at the hospital for 3 hours and the pain hasn't been very bad. Most pain was during the first few hours post op and in my lower abdomen. If anyone has questions feel free to ask.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/itkqdq/i_had_a_bilateral_orchiectomy_today_with_dr/) by carar33 in 2020
+* [Orchiectomy before vaginoplasty?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ijw740/orchiectomy_before_vaginoplasty/) by needSRS in 2020
+* [Orchiectomy before SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ifxkwu/orchiectomy_before_srs/) by MirriLiu in 2020
+* [\[Orchiectomy Complications\] Spermatic Cord seems to be fused to my incision, has anyone else experienced this before?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i2fpds/orchiectomy_complications_spermatic_cord_seems_to/) by PrincessNakeyDance in 2020
+* [Pinching 2 Weeks After Orchi<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/i1vewz/pinching_2_weeks_after_orchi/) by TheGeometrist in 2020
+* [Those who have had an orchiectomy without general anesthesia, how much did it cost? And how did it go?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/f23ujp/those_who_have_had_an_orchiectomy_without_general/) by PrincessNakeyDance in 2020
+* [Received devastating new from Suporn (due to my previous orchi)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/e6kt1f/received_devastating_new_from_suporn_due_to_my/) by \_Caracal\_ in 2019
+* [Mexico?<sup>R</sup>](https://www.reddit.com/r/M2E/comments/cp3xa2/mexico/) by ballboy83 in 2019
+* [Horrific scarring after orchiectomy. 2 months post op is this permanent? I feel the stitches were left in too long that's y it looks like this.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dt6njl/horrific_scarring_after_orchiectomy_2_months_post/) by elektrikkiss in 2019
+* [Orchiectomy questions<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dbykbe/orchiectomy_questions/) by AleksLife in 2019
+* [DEVASTATED by loss of libido after orchiectomy.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/crxmci/devastated_by_loss_of_libido_after_orchiectomy/) by  Nlwile3f in 2019
+* [I had a orchietomy with scrotectomy on 7/31. I wanted this as my final surgery. I don’t want to the “full” surgery, I never had much dysphoria about my penis. I knew I wanted my testes removed. I hope it is good enough angle. Ask me any thing.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/cngh88/i_had_a_orchietomy_with_scrotectomy_on_731_i/) by  Darbyprof in 2019, photo [here](https://i.redd.it/oj240grmh5f31.jpg)
+* [Day 5 after my scrotectony.<sup>R</sup>](https://www.reddit.com/r/ask_transgender/comments/clzgws/day_5_after_my_scrotectony/) by Darbyprof in 2019
+* [Orchiectomy 7 months post-op recovery album<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/cnioxr/orchiectomy_7_months_postop_recovery_album/) by wantingmisa in 2019, photos [here](https://imgur.com/a/YZyXt68)
+* [Orchiectomy Today! AMA<sup>R</sup>](https://www.reddit.com/r/MtF/comments/cjul5u/orchiectomy_today_ama/) by EdmundPaine in 2019
+* [Post-Orchie Changes<sup>R</sup>](https://www.reddit.com/r/MtF/comments/b9n8hq/postorchie_changes/) by TenFootTiger in 2019
+* [I gave up my balls to become a girl<sup>R</sup>](https://www.reddit.com/r/GoneWildTrans/comments/a6jvx6/i_gave_up_my_balls_to_become_a_girl/) by LewdRabbit in 2018  
+* [Orchi long-term post-op photos?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/a4bdg8/orchi_longterm_postop_photos/) by lunabeieli in 2018
+* [had an orchiectomy last Thursday w/Dr. Smith @ UCSF. AMA.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/95yt4e/had_an_orchiectomy_last_thursday_wdr_smith_ucsf/) by ninabooboo in 2018
+* [I had an elective surgical castration, AMA<sup>R</sup>](https://www.reddit.com/r/IAmA/comments/90rap9/i_had_an_elective_surgical_castration_ama/) by HaileyHeartless in 2018
+* [Just had an orchiectomy yesterday AMA<sup>R</sup>](https://www.reddit.com/r/MtF/comments/8o1eaa/just_had_an_orchiectomy_yesterday_ama/), photos [here](https://imgur.com/a/x1vc6J3), by  transgenderbeepboop in 2018
+* [I got my name legally changed last week, Orchiectomy yesterday! AMA!<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/6diimb/i_got_my_name_legally_changed_last_week/) by FionaV14 around 2017
+* [I had my simple bilateral orchiectomy this morning. AMA!<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/2x9jn6/i_had_my_simple_bilateral_orchiectomy_this/) by meatbeagle around 2015, photos [here](https://imgur.com/a/H7Rg0) and [here](https://imgur.com/a/aSSaW)
 
 Susans
 
@@ -442,9 +442,9 @@ Discord
 Other
 
 * https://wordsmith.social/elilla/whats-it-like-to-be-a-post-orchiectomy-non-op-trans-woman - in 2020
-* [Considering CaCl2 injection... Any advice?](https://www.reddit.com/r/TransDIY/comments/awjwme/considering_cacl2_injection_any_advice/) in 2019
-* [Will this affect my ability to get surgery?](https://www.reddit.com/r/asktransgender/comments/axd99y/will_this_affect_my_ability_to_get_surgery/) by ooofomg in 2019
-* reddit - [Injected my nuts with calcium chloride six months ago and testosterone back under 20 ng/dl. I’m not using hormones. Should I start HRT?](https://www.reddit.com/r/TransDIY/comments/ai1hjg/injected_my_nuts_with_calcium_chloride_six_months/) by Linnetugh in 2019
+* [Considering CaCl2 injection... Any advice?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/awjwme/considering_cacl2_injection_any_advice/) in 2019
+* [Will this affect my ability to get surgery?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/axd99y/will_this_affect_my_ability_to_get_surgery/) by ooofomg in 2019
+* reddit - [Injected my nuts with calcium chloride six months ago and testosterone back under 20 ng/dl. I’m not using hormones. Should I start HRT?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/ai1hjg/injected_my_nuts_with_calcium_chloride_six_months/) by Linnetugh in 2019
 * http://forums.eunuch.org/forum.php
 * Porn sub - https://www.reddit.com/r/emptysacks/
 * Castration fetish sub, some photos - https://www.reddit.com/r/castration/
@@ -471,15 +471,15 @@ Removal of the entire scrotum, including testicles. Best not do this if you plan
 
 reddit
 
-* [\[NSFW\] Progress pics and AMA Orchiectomy and Scrotectomy by Dr Christian Seipp in the UK](https://www.reddit.com/r/Transgender_Surgeries/comments/14sikun/nsfw_progress_pics_and_ama_orchiectomy_and/) by ZeroBallsNoSack in 2023
-* [1 day post-op orchie+scrotectomy](https://www.reddit.com/r/Transgender_Surgeries/comments/yb8awx/1_day_postop_orchiescrotectomy/) by mimsja89 in 2022
-* [orchiectomy + Scrotectomy Update](https://www.reddit.com/r/Transgender_Surgeries/comments/xwsblp/orchiectomy_scrotectomy_update/) by Neutered-Girlfriend in 2022 - surgeon Min Jun (USA)
-* [Orchiectomy and scrotectomy with Dr. Nabeel Shakir at Henry Ford Hospitals in Detroit](https://www.reddit.com/r/Transgender_Surgeries/comments/r19tuz/orchiectomy_and_scrotectomy_with_dr_nabeel_shakir/) by Transitive_Verb in 2021
-* [Evaluating GCS options post-scrotectomy — what is possible? what is realistic?](https://www.reddit.com/r/Transgender_Surgeries/comments/o5xa8q/evaluating_gcs_options_postscrotectomy_what_is/) by SnackChest in 2021
-* [My experience with scrotectomy (and orchiectomy) - Dr. Gladys Ng, UCLA](https://www.reddit.com/r/Transgender_Surgeries/comments/kla5de/my_experience_with_scrotectomy_and_orchiectomy_dr/) by scrotectomythrowaway in 2020
-* [Scrotectomy and Estradiol Gel Question](https://www.reddit.com/r/TransDIY/comments/j7lhlj/scrotectomy_and_estradiol_gel_question/) by ske105 in 2020
-* [Information on a Scrotectomy?](https://www.reddit.com/r/Transgender_Surgeries/comments/fku3e8/information_on_a_scrotectomy/) by sora_souzou in 2020
-* [I had a orchietomy with scrotectomy on 7/31. I wanted this as my final surgery. I don’t want to the “full” surgery, I never had much dysphoria about my penis. I knew I wanted my testes removed. I hope it is good enough angle. Ask me any thing.](https://www.reddit.com/r/Transgender_Surgeries/comments/cngh88/i_had_a_orchietomy_with_scrotectomy_on_731_i/) by Darbyprof in 2019, photos [here](https://i.redd.it/oj240grmh5f31.jpg). See also previous post * [Orchi with a scrotectomy yesterday.](https://www.reddit.com/r/Transgender_Surgeries/comments/ckmyz4/orchi_with_a_scrotectomy_yesterday/) by Darbyprof in 2019
+* [\[NSFW\] Progress pics and AMA Orchiectomy and Scrotectomy by Dr Christian Seipp in the UK<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/14sikun/nsfw_progress_pics_and_ama_orchiectomy_and/) by ZeroBallsNoSack in 2023
+* [1 day post-op orchie+scrotectomy<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/yb8awx/1_day_postop_orchiescrotectomy/) by mimsja89 in 2022
+* [orchiectomy + Scrotectomy Update<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/xwsblp/orchiectomy_scrotectomy_update/) by Neutered-Girlfriend in 2022 - surgeon Min Jun (USA)
+* [Orchiectomy and scrotectomy with Dr. Nabeel Shakir at Henry Ford Hospitals in Detroit<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/r19tuz/orchiectomy_and_scrotectomy_with_dr_nabeel_shakir/) by Transitive_Verb in 2021
+* [Evaluating GCS options post-scrotectomy — what is possible? what is realistic?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/o5xa8q/evaluating_gcs_options_postscrotectomy_what_is/) by SnackChest in 2021
+* [My experience with scrotectomy (and orchiectomy) - Dr. Gladys Ng, UCLA<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kla5de/my_experience_with_scrotectomy_and_orchiectomy_dr/) by scrotectomythrowaway in 2020
+* [Scrotectomy and Estradiol Gel Question<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/j7lhlj/scrotectomy_and_estradiol_gel_question/) by ske105 in 2020
+* [Information on a Scrotectomy?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/fku3e8/information_on_a_scrotectomy/) by sora_souzou in 2020
+* [I had a orchietomy with scrotectomy on 7/31. I wanted this as my final surgery. I don’t want to the “full” surgery, I never had much dysphoria about my penis. I knew I wanted my testes removed. I hope it is good enough angle. Ask me any thing.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/cngh88/i_had_a_orchietomy_with_scrotectomy_on_731_i/) by Darbyprof in 2019, photos [here](https://i.redd.it/oj240grmh5f31.jpg). See also previous post * [Orchi with a scrotectomy yesterday.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ckmyz4/orchi_with_a_scrotectomy_yesterday/) by Darbyprof in 2019
 
 <br />
 
@@ -491,9 +491,9 @@ Not really sure what to call this.
 
 reddit
 
-* [Post operative care after orchiectomy](https://www.reddit.com/r/Transgender_Surgeries/comments/iitz8t/post_operative_care_after_orchiectomy/) by Shawnabenn in 2020
-* [Orchiectomy and labiaplasty without removal of the penis (NOT the same as vaginoplasty with penile preservation)](https://www.reddit.com/r/Transgender_Surgeries/comments/emfa9m/orchiectomy_and_labiaplasty_without_removal_of/) by Mariankavanwinne in 2020, surgeon Dr Mladen Zagor in Dubrovnik, Croatia
-* [Pioneering a new transgender surgery option!](https://www.reddit.com/r/MtF/comments/b9v8rg/pioneering_a_new_transgender_surgery_option/) by Amberlisi in 2019
+* [Post operative care after orchiectomy<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/iitz8t/post_operative_care_after_orchiectomy/) by Shawnabenn in 2020
+* [Orchiectomy and labiaplasty without removal of the penis (NOT the same as vaginoplasty with penile preservation)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/emfa9m/orchiectomy_and_labiaplasty_without_removal_of/) by Mariankavanwinne in 2020, surgeon Dr Mladen Zagor in Dubrovnik, Croatia
+* [Pioneering a new transgender surgery option!<sup>R</sup>](https://www.reddit.com/r/MtF/comments/b9v8rg/pioneering_a_new_transgender_surgery_option/) by Amberlisi in 2019
 
 <br />
 
@@ -503,29 +503,29 @@ reddit
 
 reddit
 
-* [Vulvoplasty vs Vaginoplasty. Looking for clarification and experiences.](https://www.reddit.com/r/Transgender_Surgeries/comments/znq6l1/vulvoplasty_vs_vaginoplasty_looking_for/) by FrogMastrr338 in 2022
-* [Minimum depth GCS, 1 month post op...no pain and plenty of gain!](https://www.reddit.com/r/Transgender_Surgeries/comments/qjkvm6/minimum_depth_gcs_1_month_post_opno_pain_and/) by Jayne_now in 2021
-* [Question for those who have considered zero/minimal-depth vaginoplasty...](https://www.reddit.com/r/Transgender_Surgeries/comments/jxa62j/question_for_those_who_have_considered/) by KorriTaranis in 2020
-* [I had vulvaplasty with Dr Geolani Dy 19th October 2020! Ask me questions if you want](https://www.reddit.com/r/asktransgender/comments/jfvv5v/i_had_vulvaplasty_with_dr_geolani_dy_19th_october/) by collectablecat in 2020
-* [Anyone had PPT after initial vaginiolasty? What the recovery like?](https://www.reddit.com/r/Transgender_Surgeries/comments/jjpq5o/anyone_had_ppt_after_initial_vaginiolasty_what/) by mindepth_throwaway in 2020
-    * [GRS Dr. Wittenberg pics. Post op 9 days. Initial pic taken in OR, then pics at 7, 8, and 9 days. Giving back for all the help I got from sharing here by people before my surgery.](https://www.reddit.com/r/Transgender_Surgeries/comments/i03pe6/grs_dr_wittenberg_pics_post_op_9_days_initial_pic/) by mindepth_throwaway in 2020
-* [Finally Found My Vagina](https://www.reddit.com/r/Transgender_Surgeries/comments/iyhkxr/finally_found_my_vagina/) by CastleX1992 in 2020
-* [Zero Depth Vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/ion6nl/zero_depth_vaginoplasty/) by lrgoodin2000 in 2020
-* [Does a zero-depth vaginoplasty require the same hair removal as a standard vaginoplasty?](https://www.reddit.com/r/Transgender_Surgeries/comments/i4aoly/does_a_zerodepth_vaginoplasty_require_the_same/) by ThrowawayStowaway124 in 2020
-* [Anyone here get MTF zero depth vaginoplasty?](https://www.reddit.com/r/Transgender_Surgeries/comments/i39mev/anyone_here_get_mtf_zero_depth_vaginoplasty/) by notyourmodeminority in 2020
-* [Am I the only straight girl who wants a shallow depth vaginoplasty? \[NSFW\]](https://www.reddit.com/r/asktransgender/comments/em17aw/am_i_the_only_straight_girl_who_wants_a_shallow/) by kspot4 in 2020
-    * [Zero depth vaginoplasty questions? (Anal sex as an alternative)](https://www.reddit.com/r/Transgender_Surgeries/comments/elfq9d/zero_depth_vaginoplasty_questions_anal_sex_as_an/) by kspot4 in 2020
-* [1 year post-op zero depth vaginoplasty. Very happy.](https://www.reddit.com/r/Transgender_Surgeries/comments/ek8hkj/1_year_postop_zero_depth_vaginoplasty_very_happy/) by Naomyblake in 2020
-* [I'm considering zero depth vaginoplasty, what do you think?](https://www.reddit.com/r/Transgender_Surgeries/comments/cuknta/im_considering_zero_depth_vaginoplasty_what_do/) by bones_heart_paper in 2019
-* [Question about zero depth SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/dqbfv2/question_about_zero_depth_srs/) by Gwen543 in 2019
-* [Had Secondary Colon Vaginoplasty With Dr. Stiller Last Friday, And Love My Results!](https://www.reddit.com/r/Transgender_Surgeries/comments/dwddjy/had_secondary_colon_vaginoplasty_with_dr_stiller/) by AutumnGlow33 in 2019
-* [I’m recently post-op with dr Brassard. I went for non-cavity vaginoplasty. I’m so happy with my new genitalia.](https://www.reddit.com/r/MtF/comments/b1814j/im_recently_postop_with_dr_brassard_i_went_for/) by ChloeTsjoert in 2019
-* [I just had a nonstandard SRS, AMA](https://www.reddit.com/r/asktransgender/comments/av6px9/i_just_had_a_nonstandard_srs_ama/) by UsedWeapons in 2019
-* [The 6 woman-affirming surgeries I have had, their pain levels & obstacles](https://www.reddit.com/r/Transgender_Surgeries/comments/94nn1e/the_6_womanaffirming_surgeries_i_have_had_their/) by truetrans in 2018
-* [I had a labiaplasty (cosmetic MTF SRS with labia but no vagina) about one year ago. Final AMA ](https://www.reddit.com/r/asktransgender/comments/92hw2i/i_had_a_labiaplasty_cosmetic_mtf_srs_with_labia/) by Throwaway1736638287 in 2018
-* [Just had low depth SRS with Christine McGinn AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/8z2m0l/just_had_low_depth_srs_with_christine_mcginn_ama/) by guisar in 2018
-* [Has Anyone Heard of People Regretting the Partial/Cosmetic Vaginoplasty?](https://www.reddit.com/r/asktransgender/comments/6ynm67/has_anyone_heard_of_people_regretting_the/) in 2017
-* [I had non-cavity GRS with Brassard, five and a half weeks ago. AMA.](https://www.reddit.com/r/asktransgender/comments/4etcxt/i_had_noncavity_grs_with_brassard_five_and_a_half/) by shiningshawna around 2016
+* [Vulvoplasty vs Vaginoplasty. Looking for clarification and experiences.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/znq6l1/vulvoplasty_vs_vaginoplasty_looking_for/) by FrogMastrr338 in 2022
+* [Minimum depth GCS, 1 month post op...no pain and plenty of gain!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qjkvm6/minimum_depth_gcs_1_month_post_opno_pain_and/) by Jayne_now in 2021
+* [Question for those who have considered zero/minimal-depth vaginoplasty...<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jxa62j/question_for_those_who_have_considered/) by KorriTaranis in 2020
+* [I had vulvaplasty with Dr Geolani Dy 19th October 2020! Ask me questions if you want<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/jfvv5v/i_had_vulvaplasty_with_dr_geolani_dy_19th_october/) by collectablecat in 2020
+* [Anyone had PPT after initial vaginiolasty? What the recovery like?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jjpq5o/anyone_had_ppt_after_initial_vaginiolasty_what/) by mindepth_throwaway in 2020
+    * [GRS Dr. Wittenberg pics. Post op 9 days. Initial pic taken in OR, then pics at 7, 8, and 9 days. Giving back for all the help I got from sharing here by people before my surgery.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i03pe6/grs_dr_wittenberg_pics_post_op_9_days_initial_pic/) by mindepth_throwaway in 2020
+* [Finally Found My Vagina<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/iyhkxr/finally_found_my_vagina/) by CastleX1992 in 2020
+* [Zero Depth Vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ion6nl/zero_depth_vaginoplasty/) by lrgoodin2000 in 2020
+* [Does a zero-depth vaginoplasty require the same hair removal as a standard vaginoplasty?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i4aoly/does_a_zerodepth_vaginoplasty_require_the_same/) by ThrowawayStowaway124 in 2020
+* [Anyone here get MTF zero depth vaginoplasty?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i39mev/anyone_here_get_mtf_zero_depth_vaginoplasty/) by notyourmodeminority in 2020
+* [Am I the only straight girl who wants a shallow depth vaginoplasty? \[NSFW\]<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/em17aw/am_i_the_only_straight_girl_who_wants_a_shallow/) by kspot4 in 2020
+    * [Zero depth vaginoplasty questions? (Anal sex as an alternative)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/elfq9d/zero_depth_vaginoplasty_questions_anal_sex_as_an/) by kspot4 in 2020
+* [1 year post-op zero depth vaginoplasty. Very happy.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ek8hkj/1_year_postop_zero_depth_vaginoplasty_very_happy/) by Naomyblake in 2020
+* [I'm considering zero depth vaginoplasty, what do you think?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/cuknta/im_considering_zero_depth_vaginoplasty_what_do/) by bones_heart_paper in 2019
+* [Question about zero depth SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dqbfv2/question_about_zero_depth_srs/) by Gwen543 in 2019
+* [Had Secondary Colon Vaginoplasty With Dr. Stiller Last Friday, And Love My Results!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dwddjy/had_secondary_colon_vaginoplasty_with_dr_stiller/) by AutumnGlow33 in 2019
+* [I’m recently post-op with dr Brassard. I went for non-cavity vaginoplasty. I’m so happy with my new genitalia.<sup>R</sup>](https://www.reddit.com/r/MtF/comments/b1814j/im_recently_postop_with_dr_brassard_i_went_for/) by ChloeTsjoert in 2019
+* [I just had a nonstandard SRS, AMA<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/av6px9/i_just_had_a_nonstandard_srs_ama/) by UsedWeapons in 2019
+* [The 6 woman-affirming surgeries I have had, their pain levels & obstacles<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/94nn1e/the_6_womanaffirming_surgeries_i_have_had_their/) by truetrans in 2018
+* [I had a labiaplasty (cosmetic MTF SRS with labia but no vagina) about one year ago. Final AMA <sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/92hw2i/i_had_a_labiaplasty_cosmetic_mtf_srs_with_labia/) by Throwaway1736638287 in 2018
+* [Just had low depth SRS with Christine McGinn AMA<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/8z2m0l/just_had_low_depth_srs_with_christine_mcginn_ama/) by guisar in 2018
+* [Has Anyone Heard of People Regretting the Partial/Cosmetic Vaginoplasty?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/6ynm67/has_anyone_heard_of_people_regretting_the/) in 2017
+* [I had non-cavity GRS with Brassard, five and a half weeks ago. AMA.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/4etcxt/i_had_noncavity_grs_with_brassard_five_and_a_half/) by shiningshawna around 2016
 
 Susans
 
@@ -552,9 +552,9 @@ Journal of Sexual Medicine
 
 reddit
 
-* reply to [6 weeks postop srs AMA | minimal depth | combined method | Dr. Morath | Munich , Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/r8q6hq/6_weeks_postop_srs_ama_minimal_depth_combined/hn7g6j7/) by galjer10n in 2021 - *"I agree - zero depth for me was a fairly quick recovery! When having my canal added later that alone seemed to take longer - even though all the exterior and clitoris was already done and in tact. ...  Just because I could have mine added after the fact, it was super difficult to get! I had issue with insurance and other things....it very well could have cost me out of pocket had my surgeon not been so involved. He was also a bit hesitant on doing it, and now I have a permanent scar across my lowe abdomen, so bathing suits are gonna be a bit difficult to find the right one and such. Also I had to go through two medical leaves (12 weeks total) but I was fortunate to ha e a good position with a caring company - so that wasn't too much of an issue. ...Just be 100% sure you want to go zero depth! Its not easy and its not always possible (per my surgeon) to have it added later. "*
-    * [Almost 5 months postop - skin grafted canal addition from original zero depth vaginoplasty 10 months prior](https://www.reddit.com/r/Transgender_Surgeries/comments/qe9sdi/almost_5_months_postop_skin_grafted_canal/) by galjer10n in 2021
-    * [Zero depth after thoughts and whats next](https://www.reddit.com/r/Transgender_Surgeries/comments/lngp32/zero_depth_after_thoughts_and_whats_next/) by galjer10n in 2021 - *"I had zero depth GCS on 8/4/2020. I went this route mainly due to major dysphoria and I was only interested in aesthetics. However, this surgery did something major for me - my dysphoria is all but non existent anymore! I'm sure coming out and getting name changed and all played a big part there. What I notice now is I love who I am, and I feel very good about myself- something I have NEVER felt. This has also made me realize something else -while zero depth wasn't a regrettable choice, I now feel there is more to life, things I was never interested in prior as they never gave me any thoughts, now, probably because I feel so damn good, I see as options! I wont go into details there. ...While I have no regret going this route as I have the aesthetics I wanted, I do wish I'd have felt about myself how I feel now back then as I would have made another decision."*
+* reply to [6 weeks postop srs AMA | minimal depth | combined method | Dr. Morath | Munich , Germany<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/r8q6hq/6_weeks_postop_srs_ama_minimal_depth_combined/hn7g6j7/) by galjer10n in 2021 - *"I agree - zero depth for me was a fairly quick recovery! When having my canal added later that alone seemed to take longer - even though all the exterior and clitoris was already done and in tact. ...  Just because I could have mine added after the fact, it was super difficult to get! I had issue with insurance and other things....it very well could have cost me out of pocket had my surgeon not been so involved. He was also a bit hesitant on doing it, and now I have a permanent scar across my lowe abdomen, so bathing suits are gonna be a bit difficult to find the right one and such. Also I had to go through two medical leaves (12 weeks total) but I was fortunate to ha e a good position with a caring company - so that wasn't too much of an issue. ...Just be 100% sure you want to go zero depth! Its not easy and its not always possible (per my surgeon) to have it added later. "*
+    * [Almost 5 months postop - skin grafted canal addition from original zero depth vaginoplasty 10 months prior<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qe9sdi/almost_5_months_postop_skin_grafted_canal/) by galjer10n in 2021
+    * [Zero depth after thoughts and whats next<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lngp32/zero_depth_after_thoughts_and_whats_next/) by galjer10n in 2021 - *"I had zero depth GCS on 8/4/2020. I went this route mainly due to major dysphoria and I was only interested in aesthetics. However, this surgery did something major for me - my dysphoria is all but non existent anymore! I'm sure coming out and getting name changed and all played a big part there. What I notice now is I love who I am, and I feel very good about myself- something I have NEVER felt. This has also made me realize something else -while zero depth wasn't a regrettable choice, I now feel there is more to life, things I was never interested in prior as they never gave me any thoughts, now, probably because I feel so damn good, I see as options! I wont go into details there. ...While I have no regret going this route as I have the aesthetics I wanted, I do wish I'd have felt about myself how I feel now back then as I would have made another decision."*
 
 <br />
 
@@ -562,16 +562,16 @@ reddit
 
 ## Non-binary Surgery
 
-This refers to the surgery itself, rather than a person who's non-binary having a traditional surgery. For that, look under [Real Life Experience](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#real-life-experience-rle).
+This refers to the surgery itself, rather than a person who's non-binary having a traditional surgery. For that, look under [Real Life Experience<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#real-life-experience-rle).
 
-While this section is for AMAB, it's also possible for AFAB to have simular results. See reddit users [nonbinaryphallo](https://www.reddit.com/user/nonbinaryphallo/submitted/) and [bonusdickboi](https://www.reddit.com/user/bonusdickboi/submitted/).
+While this section is for AMAB, it's also possible for AFAB to have simular results. See reddit users [nonbinaryphallo<sup>R</sup>](https://www.reddit.com/user/nonbinaryphallo/submitted/) and [bonusdickboi<sup>R</sup>](https://www.reddit.com/user/bonusdickboi/submitted/).
 
 Related reddit subs
 
-* [r/NonBinary](https://www.reddit.com/r/NonBinary) - *"This is a subreddit for people of every stripe who feel that they don't fit into our culture's gender-binary."*
-* [r/salmacian](https://www.reddit.com/r/salmacian) - *"A subreddit for people who desire a mixed genital set (for example, a penis and a vagina)."*
-* [r/salmacianporn](https://www.reddit.com/r/salmacianporn)
-* [r/AMABwGD](https://www.reddit.com/r/AMABwGD) - *"This is a support group for all those AMAB folks out there who suffer from bottom dysphoria, but who also don't want to seek a binary gender transition."*
+* [r/NonBinary<sup>R</sup>](https://www.reddit.com/r/NonBinary) - *"This is a subreddit for people of every stripe who feel that they don't fit into our culture's gender-binary."*
+* [r/salmacian<sup>R</sup>](https://www.reddit.com/r/salmacian) - *"A subreddit for people who desire a mixed genital set (for example, a penis and a vagina)."*
+* [r/salmacianporn<sup>R</sup>](https://www.reddit.com/r/salmacianporn)
+* [r/AMABwGD<sup>R</sup>](https://www.reddit.com/r/AMABwGD) - *"This is a support group for all those AMAB folks out there who suffer from bottom dysphoria, but who also don't want to seek a binary gender transition."*
 
 Non-binary wiki
 
@@ -588,10 +588,10 @@ Doctors who offer penile preserving SRS include
 * Thomas Satterwhite in California, USA
 * Dev N Gurjalam, USA
 * The [Crane Center](https://cranects.com/non-binary-surgery/) in Texas, USA
-* Maybe Ivan Aguilar in Guadalajara, Mexico (see [here](https://www.reddit.com/r/Transgender_Surgeries/comments/equkd2/nonbinary_and_interested_in_penile_preserving/ff08xjr/))
-* Keelee MacPhee in USA, according to [SRS Requirement Dilemma](https://www.reddit.com/r/AMABwGD/comments/kguyk6/srs_requirement_dilemma/) by Brittnee65 in 2021
-* Geolani Widjaja Dy in Oregon, USA (see [this](https://www.reddit.com/r/salmacian/comments/pl7cnp/successfully_on_track_for_penile_preserving/) post in 2021)
-* Daniel Dugi in Oregon, USA (see [this](https://www.reddit.com/r/salmacian/comments/pl7cnp/successfully_on_track_for_penile_preserving/) post in 2021)
+* Maybe Ivan Aguilar in Guadalajara, Mexico (see [here<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/equkd2/nonbinary_and_interested_in_penile_preserving/ff08xjr/))
+* Keelee MacPhee in USA, according to [SRS Requirement Dilemma<sup>R</sup>](https://www.reddit.com/r/AMABwGD/comments/kguyk6/srs_requirement_dilemma/) by Brittnee65 in 2021
+* Geolani Widjaja Dy in Oregon, USA (see [this<sup>R</sup>](https://www.reddit.com/r/salmacian/comments/pl7cnp/successfully_on_track_for_penile_preserving/) post in 2021)
+* Daniel Dugi in Oregon, USA (see [this<sup>R</sup>](https://www.reddit.com/r/salmacian/comments/pl7cnp/successfully_on_track_for_penile_preserving/) post in 2021)
 * Adam Bonnington, USA
 * Marin Health (Marin and Napa counties, CA, USA) - https://www.mymarinhealth.org/programs-services/surgery-procedures/surgical-specialties/gender-affirmation-surgery/nonbinary-gender-affirming-surgery
 * Praful Ramineni in USA
@@ -600,53 +600,53 @@ The following is only a sample of the posts on this surgery for each surgeon. Ch
 
 reddit - Androgynoplasty
 
-* [I am recovering from a minor second revision to my non-standard, phallus-preserving vaginoplasty from two years ago. Ask me a couple things! (Serious, NSFW)](https://www.reddit.com/r/asktransgender/comments/hju7ne/i_am_recovering_from_a_minor_second_revision_to/) by Androgynoplasty in 2020
-* [I am recovering from a non-standard vaginoplasty: I kept my penis. Ask me a couple things. \(Serious, NSFW\)](https://www.reddit.com/r/asktransgender/comments/9csb92/i_am_recovering_from_a_nonstandard_vaginoplasty_i/) by Androgynoplasty in 2018, photos [here](https://imgur.com/a/0Ua6KXh).
+* [I am recovering from a minor second revision to my non-standard, phallus-preserving vaginoplasty from two years ago. Ask me a couple things! (Serious, NSFW)<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/hju7ne/i_am_recovering_from_a_minor_second_revision_to/) by Androgynoplasty in 2020
+* [I am recovering from a non-standard vaginoplasty: I kept my penis. Ask me a couple things. \(Serious, NSFW\)<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9csb92/i_am_recovering_from_a_nonstandard_vaginoplasty_i/) by Androgynoplasty in 2018, photos [here](https://imgur.com/a/0Ua6KXh).
 
 reddit - Optional_Joystick
 
-* [OptionalJoystick Penile Preservation Vaginoplasty update 06/13/2021 ](https://www.reddit.com/r/salmacian/comments/nzfqn9/optionaljoystick_penile_preservation_vaginoplasty/) by Optional_Joystick in 2021
-* [OptionalJoystick Penile Preservation Vaginoplasty update 12/31/2020](https://www.reddit.com/r/salmacian/comments/knyqlr/optionaljoystick_penile_preservation_vaginoplasty/) by Optional_Joystick in 2021 
-* [OptionalJoystick Penile Preservation Vaginoplasty 10/13/2020 - post op pics & discussion](https://www.reddit.com/r/salmacian/comments/jl97in/optionaljoystick_penile_preservation_vaginoplasty/) by Optional_Joystick in 2020 - surgeon is Heidi Wittenberg
+* [OptionalJoystick Penile Preservation Vaginoplasty update 06/13/2021 <sup>R</sup>](https://www.reddit.com/r/salmacian/comments/nzfqn9/optionaljoystick_penile_preservation_vaginoplasty/) by Optional_Joystick in 2021
+* [OptionalJoystick Penile Preservation Vaginoplasty update 12/31/2020<sup>R</sup>](https://www.reddit.com/r/salmacian/comments/knyqlr/optionaljoystick_penile_preservation_vaginoplasty/) by Optional_Joystick in 2021 
+* [OptionalJoystick Penile Preservation Vaginoplasty 10/13/2020 - post op pics & discussion<sup>R</sup>](https://www.reddit.com/r/salmacian/comments/jl97in/optionaljoystick_penile_preservation_vaginoplasty/) by Optional_Joystick in 2020 - surgeon is Heidi Wittenberg
 
 reddit
 
-* [Nonbinary: Vaginolplasty- revision](https://www.reddit.com/r/Transgender_Surgeries/comments/1fh25q7/nonbinary_vaginolplasty_revision/) by Clean-Bird3449 in 2024
-* [10/24/23 Vaginoplasty w/ Dr. Praful Ramineni - Months 4 & 6](https://www.reddit.com/r/AMABwGD/comments/1d3ldwe/102423_vaginoplasty_w_dr_praful_ramineni_months_4/) by greatbritain846 in 2024
-    * [10/24/23 Vaginoplasty w/ Dr. Praful Ramineni - Months 4 & 6](https://www.reddit.com/r/Transgender_Surgeries/comments/1d3lflq/102423_vaginoplasty_w_dr_praful_ramineni_months_4/) by greatbritain846 in 2024
-* [8 weeks post-op from full depth vaginoplasty at GRS Montréal w/ Brassard](https://www.reddit.com/r/Transgender_Surgeries/comments/1cfd9ft/8_weeks_postop_from_full_depth_vaginoplasty_at/) by JedKeezy in 2024
-* [1 year post-op phallus-preserving vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/18tux6x/1_year_postop_phalluspreserving_vaginoplasty/) by CozyGams in 2023 - surgeon Dev N Gurjala in USA
-* [Futa needs to be bred](https://www.reddit.com/r/salmacianporn/comments/178qdzz/futa_needs_to_be_bred/) by CozyGams in 2023 - surgeon Dev N Gurjala in USA
-    * [Wet slit, huge clit](https://www.reddit.com/r/salmacianporn/comments/16ckf5f/wet_slit_huge_clit/) by CozyGams in 2023
-    * [8 month post-op phallus-preserving vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/16bpk0v/8_month_postop_phalluspreserving_vaginoplasty/) by CozyGams in 2023
-* [Update: SRS Vaginoplasty without Orchiectomy 6month + Revision](https://www.reddit.com/r/Transgender_Surgeries/comments/18bdc7t/update_srs_vaginoplasty_without_orchiectomy/) by SimpleArtist3795 in 2023, primary surgeon Dany Hanna in USA, revisions Márcio Littleton in Portugal (and Brazil)
-    * [Had PIV without Orchi 2wks post-op AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/14jt2vj/had_piv_without_orchi_2wks_postop_ama/) by SimpleArtist3795 in 2023, surgeon Dany Hanna in USA
-* [Q for others with vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/10h12oh/q_for_others_with_vaginoplasty/) by reddGal8902 in 2023
-    * [I had Penile-Preserving Vaginoplasty a little over a week ago](https://www.reddit.com/r/salmacian/comments/y7s1zp/i_had_penilepreserving_vaginoplasty_a_little_over/) by reddGal8902 in 2022
-* [12 month post-op penile preservation vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/zny3o2/12_month_postop_penile_preservation_vaginoplasty/) by  TransThrowAway482618 in 2022 - surgeons Heidi Wittenberg, Charles Ascher-Walsh, Purohit
-    * [Two months post-op, penile preservation vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/stb2xd/two_months_postop_penile_preservation_vaginoplasty/) by TransThrowAway482618 in 2022
-    * [One and a half months post-op penile preservation vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/shbzhp/one_and_a_half_months_postop_penile_preservation/) by TransThrowAway482618 in 2022
-    * [One month post-op, Penile Preservation Vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/s3bqzd/one_month_postop_penile_preservation_vaginoplasty/) by TransThrowAway482618 in 2022
-    * [Urine coming out of my vagina](https://www.reddit.com/r/Transgender_Surgeries/comments/s1pt5q/urine_coming_out_of_my_vagina/) by TransThrowAway482618 in 2022
-    * [Three weeks post-op, penile preservation vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/rz0n0k/three_weeks_postop_penile_preservation/) by TransThrowAway482618 in 2022
-    * [Two weeks post-op penile preservation vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/rtqc44/two_weeks_postop_penile_preservation_vaginoplasty/) by TransThrowAway482618 in 2021
-    * [Part 3: Penile preservation vaginoplasty, 1 week follow-up appointment](https://www.reddit.com/r/Transgender_Surgeries/comments/rl9k2s/part_3_penile_preservation_vaginoplasty_1_week/) by TransThrowAway482618 in 2021
-    * [Part 2: Penile preservation vaginoplasty two days post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/rhvm2w/part_2_penile_preservation_vaginoplasty_two_days/) by TransThrowAway482618 in 2021
-    * [Part 1: Penile preservation vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/revtj4/part_1_penile_preservation_vaginoplasty/) by TransThrowAway482618 in 2021
-* [NB-Salmacian post op](https://www.reddit.com/r/Transgender_Surgeries/comments/ycl4zq/nbsalmacian_post_op/) by NuParts in 2022
-* [Week 16 post-surgery](https://www.reddit.com/r/salmacian/comments/qronxl/week_16_postsurgery/) by Fit_Run_5523 in 2021 - this is a penile preservation vaginoplasty
-    * [NSFW: Results from Dr Bonnington (Week 8)](https://www.reddit.com/r/salmacian/comments/qg2ugx/nsfw_results_from_dr_bonnington_week_8/) by Fit_Run_5523 in 2021
-    * [NSFW: Results from Dr Bonnington](https://www.reddit.com/r/salmacian/comments/pghc4i/nsfw_results_from_dr_bonnington/) by Fit_Run_5523 in 2021
-* [Which surgeons do i ask for NB surgery?](https://www.reddit.com/r/Transgender_Surgeries/comments/i15ack/which_surgeons_do_i_ask_for_nb_surgery/) by trashidentity in 2020
-* [Can penile-preservation vaginoplasty later become altered to a be a “regular” vaginoplasty by the penis being reshaped into a clitoris?](https://www.reddit.com/r/Transgender_Surgeries/comments/goe9ax/can_penilepreservation_vaginoplasty_later_become/) by _larkspur in 2020
-* [nonbinary transfem, planning to get penile preservation + minimal depth labiaplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/ehz50z/nonbinary_transfem_planning_to_get_penile/) by enbytran in 2020
-* [Got a response back from a Mexican surgeon ( not telling you who) about my desire to have both a vagina and a penis. It's a positive response. Read my detailed answer if you want.](https://www.reddit.com/r/MtF/comments/clm13b/got_a_response_back_from_a_mexican_surgeon_not/) by Kekmantlin in 2019 (see post history, this is probably Dr Ivan Aguilar)
-* [Non Standard Bottom Surgery AMA 3pm PST 11/02/2019: I now have a penis and a vagina](https://www.reddit.com/r/asktransgender/comments/dqnuyb/non_standard_bottom_surgery_ama_3pm_pst_11022019/) by illyriarose in 2019
-* [Opinion?](https://www.reddit.com/r/Transgender_Surgeries/comments/crpd1g/opinion/) by CeliaTheBrave in 2019, photo [here](https://i.redd.it/7kwl87lfq1h31.jpg), surgeon Heidi Wittenberg (USA)
-* [SRS surgeon Yvan Aguilar in Mexico? SRS price dropped from 14000$ to 9000$?](https://www.reddit.com/r/MtF/comments/cppvpz/srs_surgeon_yvan_aguilar_in_mexico_srs_price/) by Kekmantlin in 2019 - see previous post [Got a response back from a Mexican surgeon ( not telling you who) about my desire to have both a vagina and a penis. It's a positive response. Read my detailed answer if you want.](https://www.reddit.com/r/MtF/comments/clm13b/got_a_response_back_from_a_mexican_surgeon_not/) by Kekmantlin in 2019
-* [FYI: Penile-Preserving, Laproscopic Peritoneal-Pullthrough GCS with Dr. Heidi Wittenberg in a month-ish](https://www.reddit.com/r/Transgender_Surgeries/comments/chxntq/fyi_penilepreserving_laproscopic/) by the_weird_stuff in 2019
-* [I will be having a vaginoplasty while preserving my penis. Just made my down payment. Will have surgery this fall.](https://www.reddit.com/r/MtF/comments/busoxb/i_will_be_having_a_vaginoplasty_while_preserving/) by CeliaTheBrave in 2019
-* [Question about an unorthodox surgery. \[text based image\]](https://www.reddit.com/r/asktransgender/comments/8q820p/question_about_an_unorthodox_surgery_text_based/) in 2018
+* [Nonbinary: Vaginolplasty- revision<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1fh25q7/nonbinary_vaginolplasty_revision/) by Clean-Bird3449 in 2024
+* [10/24/23 Vaginoplasty w/ Dr. Praful Ramineni - Months 4 & 6<sup>R</sup>](https://www.reddit.com/r/AMABwGD/comments/1d3ldwe/102423_vaginoplasty_w_dr_praful_ramineni_months_4/) by greatbritain846 in 2024
+    * [10/24/23 Vaginoplasty w/ Dr. Praful Ramineni - Months 4 & 6<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1d3lflq/102423_vaginoplasty_w_dr_praful_ramineni_months_4/) by greatbritain846 in 2024
+* [8 weeks post-op from full depth vaginoplasty at GRS Montréal w/ Brassard<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1cfd9ft/8_weeks_postop_from_full_depth_vaginoplasty_at/) by JedKeezy in 2024
+* [1 year post-op phallus-preserving vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/18tux6x/1_year_postop_phalluspreserving_vaginoplasty/) by CozyGams in 2023 - surgeon Dev N Gurjala in USA
+* [Futa needs to be bred<sup>R</sup>](https://www.reddit.com/r/salmacianporn/comments/178qdzz/futa_needs_to_be_bred/) by CozyGams in 2023 - surgeon Dev N Gurjala in USA
+    * [Wet slit, huge clit<sup>R</sup>](https://www.reddit.com/r/salmacianporn/comments/16ckf5f/wet_slit_huge_clit/) by CozyGams in 2023
+    * [8 month post-op phallus-preserving vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/16bpk0v/8_month_postop_phalluspreserving_vaginoplasty/) by CozyGams in 2023
+* [Update: SRS Vaginoplasty without Orchiectomy 6month + Revision<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/18bdc7t/update_srs_vaginoplasty_without_orchiectomy/) by SimpleArtist3795 in 2023, primary surgeon Dany Hanna in USA, revisions Márcio Littleton in Portugal (and Brazil)
+    * [Had PIV without Orchi 2wks post-op AMA<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/14jt2vj/had_piv_without_orchi_2wks_postop_ama/) by SimpleArtist3795 in 2023, surgeon Dany Hanna in USA
+* [Q for others with vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10h12oh/q_for_others_with_vaginoplasty/) by reddGal8902 in 2023
+    * [I had Penile-Preserving Vaginoplasty a little over a week ago<sup>R</sup>](https://www.reddit.com/r/salmacian/comments/y7s1zp/i_had_penilepreserving_vaginoplasty_a_little_over/) by reddGal8902 in 2022
+* [12 month post-op penile preservation vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/zny3o2/12_month_postop_penile_preservation_vaginoplasty/) by  TransThrowAway482618 in 2022 - surgeons Heidi Wittenberg, Charles Ascher-Walsh, Purohit
+    * [Two months post-op, penile preservation vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/stb2xd/two_months_postop_penile_preservation_vaginoplasty/) by TransThrowAway482618 in 2022
+    * [One and a half months post-op penile preservation vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/shbzhp/one_and_a_half_months_postop_penile_preservation/) by TransThrowAway482618 in 2022
+    * [One month post-op, Penile Preservation Vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/s3bqzd/one_month_postop_penile_preservation_vaginoplasty/) by TransThrowAway482618 in 2022
+    * [Urine coming out of my vagina<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/s1pt5q/urine_coming_out_of_my_vagina/) by TransThrowAway482618 in 2022
+    * [Three weeks post-op, penile preservation vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rz0n0k/three_weeks_postop_penile_preservation/) by TransThrowAway482618 in 2022
+    * [Two weeks post-op penile preservation vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rtqc44/two_weeks_postop_penile_preservation_vaginoplasty/) by TransThrowAway482618 in 2021
+    * [Part 3: Penile preservation vaginoplasty, 1 week follow-up appointment<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rl9k2s/part_3_penile_preservation_vaginoplasty_1_week/) by TransThrowAway482618 in 2021
+    * [Part 2: Penile preservation vaginoplasty two days post-op<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rhvm2w/part_2_penile_preservation_vaginoplasty_two_days/) by TransThrowAway482618 in 2021
+    * [Part 1: Penile preservation vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/revtj4/part_1_penile_preservation_vaginoplasty/) by TransThrowAway482618 in 2021
+* [NB-Salmacian post op<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ycl4zq/nbsalmacian_post_op/) by NuParts in 2022
+* [Week 16 post-surgery<sup>R</sup>](https://www.reddit.com/r/salmacian/comments/qronxl/week_16_postsurgery/) by Fit_Run_5523 in 2021 - this is a penile preservation vaginoplasty
+    * [NSFW: Results from Dr Bonnington (Week 8)<sup>R</sup>](https://www.reddit.com/r/salmacian/comments/qg2ugx/nsfw_results_from_dr_bonnington_week_8/) by Fit_Run_5523 in 2021
+    * [NSFW: Results from Dr Bonnington<sup>R</sup>](https://www.reddit.com/r/salmacian/comments/pghc4i/nsfw_results_from_dr_bonnington/) by Fit_Run_5523 in 2021
+* [Which surgeons do i ask for NB surgery?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i15ack/which_surgeons_do_i_ask_for_nb_surgery/) by trashidentity in 2020
+* [Can penile-preservation vaginoplasty later become altered to a be a “regular” vaginoplasty by the penis being reshaped into a clitoris?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/goe9ax/can_penilepreservation_vaginoplasty_later_become/) by _larkspur in 2020
+* [nonbinary transfem, planning to get penile preservation + minimal depth labiaplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ehz50z/nonbinary_transfem_planning_to_get_penile/) by enbytran in 2020
+* [Got a response back from a Mexican surgeon ( not telling you who) about my desire to have both a vagina and a penis. It's a positive response. Read my detailed answer if you want.<sup>R</sup>](https://www.reddit.com/r/MtF/comments/clm13b/got_a_response_back_from_a_mexican_surgeon_not/) by Kekmantlin in 2019 (see post history, this is probably Dr Ivan Aguilar)
+* [Non Standard Bottom Surgery AMA 3pm PST 11/02/2019: I now have a penis and a vagina<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/dqnuyb/non_standard_bottom_surgery_ama_3pm_pst_11022019/) by illyriarose in 2019
+* [Opinion?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/crpd1g/opinion/) by CeliaTheBrave in 2019, photo [here](https://i.redd.it/7kwl87lfq1h31.jpg), surgeon Heidi Wittenberg (USA)
+* [SRS surgeon Yvan Aguilar in Mexico? SRS price dropped from 14000$ to 9000$?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/cppvpz/srs_surgeon_yvan_aguilar_in_mexico_srs_price/) by Kekmantlin in 2019 - see previous post [Got a response back from a Mexican surgeon ( not telling you who) about my desire to have both a vagina and a penis. It's a positive response. Read my detailed answer if you want.<sup>R</sup>](https://www.reddit.com/r/MtF/comments/clm13b/got_a_response_back_from_a_mexican_surgeon_not/) by Kekmantlin in 2019
+* [FYI: Penile-Preserving, Laproscopic Peritoneal-Pullthrough GCS with Dr. Heidi Wittenberg in a month-ish<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/chxntq/fyi_penilepreserving_laproscopic/) by the_weird_stuff in 2019
+* [I will be having a vaginoplasty while preserving my penis. Just made my down payment. Will have surgery this fall.<sup>R</sup>](https://www.reddit.com/r/MtF/comments/busoxb/i_will_be_having_a_vaginoplasty_while_preserving/) by CeliaTheBrave in 2019
+* [Question about an unorthodox surgery. \[text based image\]<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/8q820p/question_about_an_unorthodox_surgery_text_based/) in 2018
 
 Yozakura Kurage (Penile preserving vaginoplasty)
 
@@ -656,7 +656,7 @@ Yozakura Kurage (Penile preserving vaginoplasty)
 
 tumblr
 
-* https://androgyny2018.tumblr.com - "An MTX Journey", *"As planned, I now have a penis and a (neo)vagina."*, see reddit comment [here](https://www.reddit.com/r/Transgender_Surgeries/comments/rhvkxe/san_francisco_surgery_ppv_method_body_sculpting/hotc53h/) by [u/Prototype1250](https://www.reddit.com/user/Prototype1250), surgeon is Wittenberg (USA)
+* https://androgyny2018.tumblr.com - "An MTX Journey", *"As planned, I now have a penis and a (neo)vagina."*, see reddit comment [here<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rhvkxe/san_francisco_surgery_ppv_method_body_sculpting/hotc53h/) by [u/Prototype1250<sup>R</sup>](https://www.reddit.com/user/Prototype1250), surgeon is Wittenberg (USA)
 
 Susans
 
@@ -675,7 +675,7 @@ There's one non-binary surgery by James Bellringer (UK) - see the post on [trans
 Heidi Wittenberg in the USA offers non-binary surgery - *We understand that some patients will not be looking specifically for transfeminine or transmasculine surgeries. For these patients, we offer individualized surgical options. Examples include penile preservation vaginoplasty and vaginal preservation phalloplasty*.
 
 * https://www.mozaiccare.net/gender-nonconforming
-* reddit [I will be having a vaginoplasty while preserving my penis. Just made my down payment. Will have surgery this fall.](https://www.reddit.com/r/MtF/comments/busoxb/i_will_be_having_a_vaginoplasty_while_preserving/) by CeliaTheBrave in 2019
+* reddit [I will be having a vaginoplasty while preserving my penis. Just made my down payment. Will have surgery this fall.<sup>R</sup>](https://www.reddit.com/r/MtF/comments/busoxb/i_will_be_having_a_vaginoplasty_while_preserving/) by CeliaTheBrave in 2019
 
 Pornhub. There's a lot of fairly standard trans porn on Pornhub, however I'm not sure these two links can be classified as transgender related. Some of the others I saw are even further afield and I've not included them here.
 
@@ -721,28 +721,28 @@ Surgeons who (probably) do this procedure include
 
 reddit
 
-* [r/nullo](https://www.reddit.com/r/nullo) - *"A place to talk about and share images of nullos and nullification, whether fantasy or in practice."*
-* [r/anatomicalpenectomy](https://www.reddit.com/r/anatomicalpenectomy) - *"A de-fetishized, anatomical look at severed male genitals."*
+* [r/nullo<sup>R</sup>](https://www.reddit.com/r/nullo) - *"A place to talk about and share images of nullos and nullification, whether fantasy or in practice."*
+* [r/anatomicalpenectomy<sup>R</sup>](https://www.reddit.com/r/anatomicalpenectomy) - *"A de-fetishized, anatomical look at severed male genitals."*
 
-* [Nullification pictures from my surgery](https://www.reddit.com/r/eunuchs/comments/1cu5kld/nullification_pictures_from_my_surgery/) by bethkamolski in 2024
-    * [A few extra pics of my penectomy](https://www.reddit.com/r/eunuchs/comments/1cu5yv5/a_few_extra_pics_of_my_penectomy/) by bethkamolski in 2024
-    * [Additional penectomy/nullification pics](https://www.reddit.com/r/eunuchs/comments/1cu5x7j/additional_penectomynullification_pics/) by bethkamolski in 2024
-    * [More nullification pictures](https://www.reddit.com/r/eunuchs/comments/1cu5g6p/more_nullification_pictures/) by bethkamolski in 2024
-    * [My male nullification pictures](https://www.reddit.com/r/eunuchs/comments/1cu5exc/my_male_nullification_pictures/) by bethkamolski in 2024
-* [Reconstructive SRS after total penectomy](https://www.reddit.com/r/MtF/comments/ykw70n/reconstructive_srs_after_total_penectomy/) by Deep-Ad9635 in 2022
-* [Nullo](https://www.reddit.com/r/nullo_smoothies/comments/1ane08g/nullo/) by split6 in 2024
-    * [Going on 16 weeks](https://www.reddit.com/r/nullo/comments/xs1o06/going_on_16_weeks/) by split6 in 2022
-    * [6 weeks after my Nullification](https://www.reddit.com/r/nullo/comments/wcjs9d/6_weeks_after_my_nullification/) by split6 in 2022
-    * [Me after Penectomy and Castration](https://www.reddit.com/r/penectomy/comments/wbwdy5/me_after_penectomy_and_castration/) by split6 in 2022
-    * [4 weeks post Nullification surgery](https://www.reddit.com/r/nullo/comments/vx46qv/4_weeks_post_nullification_surgery/) by split6 in 2022
-    * reply to [Recommendations for Vaginoplasty Surgeons in the US?](https://www.reddit.com/r/Transgender_Surgeries/comments/w001zn/recommendations_for_vaginoplasty_surgeons_in_the/igdpudy/) by split6 in 2022 - *"Though I wanted to be Nullified, I was coded under vaginoplasty with the hospital and insurance. My surgeon said it's the same surgery except for the things I didn't want like the labia and pocket for penetration. He even created a "clit" as he calls it. I tell people it's a button, because people associate a clit with a vagina. I've had a a very good experience with him, he's very direct and easy to work with, and answers questions completely. He responded to email very quickly, even on his surgery days. The people I know who have had the vaginoplasty are taking testosterone, and live as a male socially, as I continue to do, now with no genitals. The fact that this surgeon will help people transition MtF, those who want a "mangina" (their own term, not mine) and Male to Nullo shows he's very flexible. I highly recommend him. My own therapist retired during the pandemic, and my letters were too old for the insurance to accept, but he even recommended a therapist that works with him and it made things so easy."*
-    * [My orchiectomy and scrotum removal. I want to be gender nullified. Urologist consultation in February scheduled](https://www.reddit.com/user/split6/submitted/) by split6 in 2021 - *"I had Nullification surgery 4.5 weeks ago by Dr Praful Ramenini with District Plastic surgery."*
-    * [I'm ready to take the next step. Time to become a Nullo](https://www.reddit.com/r/nullo/comments/kpseuc/im_ready_to_take_the_next_step_time_to_become_a/) by split6 in 2021
-* [Urethrostomy](https://www.reddit.com/r/nullo/comments/oaiphl/urethrostomy/) by CTEunuchSlave in 2021
-    * [Reborn as a nullo](https://www.reddit.com/r/nullo/comments/o2f3yn/reborn_as_a_nullo/) by CTEunuchSlave in 2021, surgeon Ivan Aguilar, Mexico
-    * reply to [Where can I find picture results of someone who is 100% nullified?](https://www.reddit.com/r/nullo/comments/o3slfu/where_can_i_find_picture_results_of_someone_who/h2dzccg/) by CTEunuchSlave in 2021 links to https://www.ctnullo.com
-* [Mexico?](https://www.reddit.com/r/M2E/comments/cp3xa2/mexico/) by ballboy83 in 2019
-* [I'm a trans woman who had nullification surgery 5 days ago in Guadalajara. AMA.](https://www.reddit.com/r/MtF/comments/cp4uh1/im_a_trans_woman_who_had_nullification_surgery_5/) by JanaSophiaSherine in 2019
+* [Nullification pictures from my surgery<sup>R</sup>](https://www.reddit.com/r/eunuchs/comments/1cu5kld/nullification_pictures_from_my_surgery/) by bethkamolski in 2024
+    * [A few extra pics of my penectomy<sup>R</sup>](https://www.reddit.com/r/eunuchs/comments/1cu5yv5/a_few_extra_pics_of_my_penectomy/) by bethkamolski in 2024
+    * [Additional penectomy/nullification pics<sup>R</sup>](https://www.reddit.com/r/eunuchs/comments/1cu5x7j/additional_penectomynullification_pics/) by bethkamolski in 2024
+    * [More nullification pictures<sup>R</sup>](https://www.reddit.com/r/eunuchs/comments/1cu5g6p/more_nullification_pictures/) by bethkamolski in 2024
+    * [My male nullification pictures<sup>R</sup>](https://www.reddit.com/r/eunuchs/comments/1cu5exc/my_male_nullification_pictures/) by bethkamolski in 2024
+* [Reconstructive SRS after total penectomy<sup>R</sup>](https://www.reddit.com/r/MtF/comments/ykw70n/reconstructive_srs_after_total_penectomy/) by Deep-Ad9635 in 2022
+* [Nullo<sup>R</sup>](https://www.reddit.com/r/nullo_smoothies/comments/1ane08g/nullo/) by split6 in 2024
+    * [Going on 16 weeks<sup>R</sup>](https://www.reddit.com/r/nullo/comments/xs1o06/going_on_16_weeks/) by split6 in 2022
+    * [6 weeks after my Nullification<sup>R</sup>](https://www.reddit.com/r/nullo/comments/wcjs9d/6_weeks_after_my_nullification/) by split6 in 2022
+    * [Me after Penectomy and Castration<sup>R</sup>](https://www.reddit.com/r/penectomy/comments/wbwdy5/me_after_penectomy_and_castration/) by split6 in 2022
+    * [4 weeks post Nullification surgery<sup>R</sup>](https://www.reddit.com/r/nullo/comments/vx46qv/4_weeks_post_nullification_surgery/) by split6 in 2022
+    * reply to [Recommendations for Vaginoplasty Surgeons in the US?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/w001zn/recommendations_for_vaginoplasty_surgeons_in_the/igdpudy/) by split6 in 2022 - *"Though I wanted to be Nullified, I was coded under vaginoplasty with the hospital and insurance. My surgeon said it's the same surgery except for the things I didn't want like the labia and pocket for penetration. He even created a "clit" as he calls it. I tell people it's a button, because people associate a clit with a vagina. I've had a a very good experience with him, he's very direct and easy to work with, and answers questions completely. He responded to email very quickly, even on his surgery days. The people I know who have had the vaginoplasty are taking testosterone, and live as a male socially, as I continue to do, now with no genitals. The fact that this surgeon will help people transition MtF, those who want a "mangina" (their own term, not mine) and Male to Nullo shows he's very flexible. I highly recommend him. My own therapist retired during the pandemic, and my letters were too old for the insurance to accept, but he even recommended a therapist that works with him and it made things so easy."*
+    * [My orchiectomy and scrotum removal. I want to be gender nullified. Urologist consultation in February scheduled<sup>R</sup>](https://www.reddit.com/user/split6/submitted/) by split6 in 2021 - *"I had Nullification surgery 4.5 weeks ago by Dr Praful Ramenini with District Plastic surgery."*
+    * [I'm ready to take the next step. Time to become a Nullo<sup>R</sup>](https://www.reddit.com/r/nullo/comments/kpseuc/im_ready_to_take_the_next_step_time_to_become_a/) by split6 in 2021
+* [Urethrostomy<sup>R</sup>](https://www.reddit.com/r/nullo/comments/oaiphl/urethrostomy/) by CTEunuchSlave in 2021
+    * [Reborn as a nullo<sup>R</sup>](https://www.reddit.com/r/nullo/comments/o2f3yn/reborn_as_a_nullo/) by CTEunuchSlave in 2021, surgeon Ivan Aguilar, Mexico
+    * reply to [Where can I find picture results of someone who is 100% nullified?<sup>R</sup>](https://www.reddit.com/r/nullo/comments/o3slfu/where_can_i_find_picture_results_of_someone_who/h2dzccg/) by CTEunuchSlave in 2021 links to https://www.ctnullo.com
+* [Mexico?<sup>R</sup>](https://www.reddit.com/r/M2E/comments/cp3xa2/mexico/) by ballboy83 in 2019
+* [I'm a trans woman who had nullification surgery 5 days ago in Guadalajara. AMA.<sup>R</sup>](https://www.reddit.com/r/MtF/comments/cp4uh1/im_a_trans_woman_who_had_nullification_surgery_5/) by JanaSophiaSherine in 2019
 
 YouTube
 
@@ -765,7 +765,7 @@ Adam Curlykale
 * https://www.instagram.com/adam.curlykale/
 * http://allthatsinteresting.com/adam-curlykale
 * [Man with tattoos all over his body gets penis removed as it spoiled the look](http://www.asianage.com/life/more-features/190718/man-with-tattoos-all-over-his-body-gets-penis-removed-as-it-spoiled-the-look.html) in 2018
-* reddit reply to [Man with tattoos all over his body gets penis removed as it spoiled the look](https://www.reddit.com/r/nottheonion/comments/90gdwg/man_with_tattoos_all_over_his_body_gets_penis/e2q7yjx/) in 2018 (says Adam is non-binary)
+* reddit reply to [Man with tattoos all over his body gets penis removed as it spoiled the look<sup>R</sup>](https://www.reddit.com/r/nottheonion/comments/90gdwg/man_with_tattoos_all_over_his_body_gets_penis/e2q7yjx/) in 2018 (says Adam is non-binary)
 * [Man who is 90% covered in tattoos has penis removed as it interferes with his ‘look’](https://metro.co.uk/2018/07/18/man-90-covered-tattoos-penis-removed-interferes-look-7733391/) in 2018 says it was at Jardines Hospital, Guadalajara, Mexico
 * https://www.stern.de/neon/wilde-welt/gesellschaft/nullo--adam-liess-sich-penis--hoden-und-nippel-entfernen-8176174.html in 2018
 
@@ -792,7 +792,7 @@ Other
 
 This involves injection of local anesthetic into the nerves of the penis to remove sensation. It's supposed to be temporary, but can apparently result in a permanent loss of sensation. If you were to have SRS later on I'd assume you would continue to have no sensation. It seems like a really bad idea.
 
-* reddit - reply to [How does it feel not to have a penis anymore?](https://www.reddit.com/r/MtF/comments/b4vt0k/how_does_it_feel_not_to_have_a_penis_anymore/ej9f5dl/) in 2019
+* reddit - reply to [How does it feel not to have a penis anymore?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/b4vt0k/how_does_it_feel_not_to_have_a_penis_anymore/ej9f5dl/) in 2019
 * bme [Virtual penectomy almost real](https://www.bme.com/media/story/3373840/?cat=extreme/nullo_male/trans) by portos in 2012
 * bme [Virtual Penectomy that really works](https://www.bme.com/media/story/837235/?cat=hard) in 2000
 * medscape [Dorsal Penile Nerve Block](https://emedicine.medscape.com/article/81077-overview) in 2018
@@ -813,9 +813,9 @@ Surgeons
 
 reddit
 
-* [My Vaginoplasty (one-year post-op by Dr. Meltzer)](https://www.reddit.com/r/AMABwGD/comments/18zf8hf/my_vaginoplasty_oneyear_postop_by_dr_meltzer/) by  segremores in 2024
-    * [I am a Masc NB and had Vaginoplasty with Dr. Meltzer AMA!](https://www.reddit.com/r/AMABwGD/comments/10bx5hk/i_am_a_masc_nb_and_had_vaginoplasty_with_dr/) by segremores in 2023
-* reply to [Recommendations for Vaginoplasty Surgeons in the US?](https://www.reddit.com/r/Transgender_Surgeries/comments/w001zn/recommendations_for_vaginoplasty_surgeons_in_the/igdpudy/) by split6 in 2022 - *"The people I know who have had the vaginoplasty are taking testosterone, and live as a male socially, as I continue to do, now with no genitals. The fact that this surgeon will help people transition MtF, those who want a "mangina" (their own term, not mine) and Male to Nullo shows he's very flexible. I highly recommend him. My own therapist retired during the pandemic, and my letters were too old for the insurance to accept, but he even recommended a therapist that works with him and it made things so easy."*
+* [My Vaginoplasty (one-year post-op by Dr. Meltzer)<sup>R</sup>](https://www.reddit.com/r/AMABwGD/comments/18zf8hf/my_vaginoplasty_oneyear_postop_by_dr_meltzer/) by  segremores in 2024
+    * [I am a Masc NB and had Vaginoplasty with Dr. Meltzer AMA!<sup>R</sup>](https://www.reddit.com/r/AMABwGD/comments/10bx5hk/i_am_a_masc_nb_and_had_vaginoplasty_with_dr/) by segremores in 2023
+* reply to [Recommendations for Vaginoplasty Surgeons in the US?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/w001zn/recommendations_for_vaginoplasty_surgeons_in_the/igdpudy/) by split6 in 2022 - *"The people I know who have had the vaginoplasty are taking testosterone, and live as a male socially, as I continue to do, now with no genitals. The fact that this surgeon will help people transition MtF, those who want a "mangina" (their own term, not mine) and Male to Nullo shows he's very flexible. I highly recommend him. My own therapist retired during the pandemic, and my letters were too old for the insurance to accept, but he even recommended a therapist that works with him and it made things so easy."*
 
 <br />
 
@@ -827,9 +827,9 @@ http://wombtransplantuk.org/
 
 reddit
 
-* [Uterus transplant in the US.](https://www.reddit.com/r/transgender/comments/i6jp5f/uterus_transplant_in_the_us/) by guisar in 2020
-* [Who wants a womb?](https://www.reddit.com/r/transgenderUK/comments/btn6jk/who_wants_a_womb/) by notINGCOS in 2019
-* [An concept of SRS Ive been thinking about](https://www.reddit.com/r/asktransgender/comments/b9y1ui/an_concept_of_srs_ive_been_thinking_about/) by NewMammal in 2019
+* [Uterus transplant in the US.<sup>R</sup>](https://www.reddit.com/r/transgender/comments/i6jp5f/uterus_transplant_in_the_us/) by guisar in 2020
+* [Who wants a womb?<sup>R</sup>](https://www.reddit.com/r/transgenderUK/comments/btn6jk/who_wants_a_womb/) by notINGCOS in 2019
+* [An concept of SRS Ive been thinking about<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/b9y1ui/an_concept_of_srs_ive_been_thinking_about/) by NewMammal in 2019
 
 John Hopkins Medicine
 
@@ -869,8 +869,8 @@ A post on Susans says that keeping testicles after SRS (by moving to the abdomen
 
 reddit
 
-* [Had PIV without Orchi 2wks post-op AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/14jt2vj/had_piv_without_orchi_2wks_postop_ama/) by SimpleArtist3795 in 2023 - *"Hi! Two weeks ago I (33nb/amab [he/they]) had a Penile Inversion Vaginoplasty without Orchiectomy (testes retained). My surgeon was Dr. Dany Hanna out of Texas. The procedure was pretty standard overall. More scrotal tissue had to be left attached to house my testes externally in the outer labia and he anchored them in place. I have a clit and possibly inner labia. I'm still very swollen so time will tell with aesthetics. Visually the results are consistent with Dr Hanna's work. I have almost 3" of depth, that's as much as I could get with all things factored in. I'm looking forward to finishing healing. Dr Hanna and team were awesome and he was VERY realistic with me every step of the way. He definitely delivered despite my having a rare request. He does recommend I get my testes examined every couple of year to ensure things are still good down there. I am not on hormones and do not require them."*
-* [Got a response back from a Mexican surgeon ( not telling you who) about my desire to have both a vagina and a penis. It's a positive response. Read my detailed answer if you want.](https://www.reddit.com/r/MtF/comments/clm13b/got_a_response_back_from_a_mexican_surgeon_not/) by Kekmantlin in 2019
+* [Had PIV without Orchi 2wks post-op AMA<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/14jt2vj/had_piv_without_orchi_2wks_postop_ama/) by SimpleArtist3795 in 2023 - *"Hi! Two weeks ago I (33nb/amab [he/they]) had a Penile Inversion Vaginoplasty without Orchiectomy (testes retained). My surgeon was Dr. Dany Hanna out of Texas. The procedure was pretty standard overall. More scrotal tissue had to be left attached to house my testes externally in the outer labia and he anchored them in place. I have a clit and possibly inner labia. I'm still very swollen so time will tell with aesthetics. Visually the results are consistent with Dr Hanna's work. I have almost 3" of depth, that's as much as I could get with all things factored in. I'm looking forward to finishing healing. Dr Hanna and team were awesome and he was VERY realistic with me every step of the way. He definitely delivered despite my having a rare request. He does recommend I get my testes examined every couple of year to ensure things are still good down there. I am not on hormones and do not require them."*
+* [Got a response back from a Mexican surgeon ( not telling you who) about my desire to have both a vagina and a penis. It's a positive response. Read my detailed answer if you want.<sup>R</sup>](https://www.reddit.com/r/MtF/comments/clm13b/got_a_response_back_from_a_mexican_surgeon_not/) by Kekmantlin in 2019
 
 YouTube
 
@@ -903,13 +903,13 @@ Papers
 
 ### Tilapia Skin
 
-See Dr. Alvaro Rodriguez on the Wiki page for [SRS in South America](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/south/south.md-america)
+See Dr. Alvaro Rodriguez on the Wiki page for [SRS in South America<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/south/south.md-america)
 
 reddit
 
-* [\[6-weeks\] I asked for a Kitty and got turned into a Mermaid! Dr. Gupta Vaginoplasty AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/1bn2tmr/6weeks_i_asked_for_a_kitty_and_got_turned_into_a/) by GuppySurgery in 2024 - *"I was given Kerecis (Fish Skin) for my PPT."*
-* [My transition journey - Got SRS 11 months after HRT](https://www.reddit.com/r/asktransgender/comments/suupd8/my_transition_journey_got_srs_11_months_after_hrt/) by _almabet in 2022 - this is with Dr. Alvaro Rodriguez in Columbia
-* [Tilapia Vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/qd0w2v/tilapia_vaginoplasty/) by ayeareeye in 2021 - *"I just had a consult with a doctor in Colombia for FFS. His name is Dr. Alvaro Rodriguez. I also saw that he does Vaginoplasty with the tilapia skin."*
+* [\[6-weeks\] I asked for a Kitty and got turned into a Mermaid! Dr. Gupta Vaginoplasty AMA<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1bn2tmr/6weeks_i_asked_for_a_kitty_and_got_turned_into_a/) by GuppySurgery in 2024 - *"I was given Kerecis (Fish Skin) for my PPT."*
+* [My transition journey - Got SRS 11 months after HRT<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/suupd8/my_transition_journey_got_srs_11_months_after_hrt/) by _almabet in 2022 - this is with Dr. Alvaro Rodriguez in Columbia
+* [Tilapia Vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qd0w2v/tilapia_vaginoplasty/) by ayeareeye in 2021 - *"I just had a consult with a doctor in Colombia for FFS. His name is Dr. Alvaro Rodriguez. I also saw that he does Vaginoplasty with the tilapia skin."*
 
 New York Post
 
@@ -942,9 +942,9 @@ Papers in the Journal of Minimally Invasive Gynecology
 reddit
 
 * [BCCL to stop erections part three: pain management and healing so far](https://old.reddit.com/r/Transgender_Surgeries/comments/1bpemht/bccl_to_stop_erections_part_three_pain_management/) by j3553k in 2024 - *"Currently, my penis does still extend a bit during an "erection", but it doesn't go up at all, just extends. When I get an "erection", I'd say it's about half the length of an erection pre-op. I imagine that as the severed corpora cavernosa tissues atrophy, the amount of extension will go down. However, since there's no blood in the corpora cavernosa, it's very squishy. It's quite a different feeling than erections pre-op. You can kinda see what I mean by getting hard and squishing your glans into your corpora cavernosa (or maybe by pinching below your glans and squishing it into your fingers). One thing to note - I was a grower pre-op (rather than a shower), so that might have an impact on "erections" post-op due to the difference in tissues. I didn't have extreme dysphoria over erections (I did have some), but I definitely have euphoria now that they're gone! In my experience, dysphoria/euphoria are very personal things, so I couldn't say for sure how you would react."*
-    * [BCCL to stop erections part two!](https://www.reddit.com/r/Transgender_Surgeries/comments/1bhx3es/bccl_to_stop_erections_part_two/) by j3553k in 2024, surgeon Dr. Prayful Ramineni, USA
-    * [Bilateral corpora cavernosa ligation to stop erections](https://www.reddit.com/r/Transgender_Surgeries/comments/1bamers/bilateral_corpora_cavernosa_ligation_to_stop/) by j3553k in 2024
-* [Not attracted to what I am getting "down there"](https://www.reddit.com/r/Transgender_Surgeries/comments/lb92i8/not_attracted_to_what_i_am_getting_down_there/) by aidenhartxxx in 2021 - *"I recently had an orchiectomy and what's called a cavernosal artery dilation/destruction (basically, I can't get hard anymore)."*
+    * [BCCL to stop erections part two!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1bhx3es/bccl_to_stop_erections_part_two/) by j3553k in 2024, surgeon Dr. Prayful Ramineni, USA
+    * [Bilateral corpora cavernosa ligation to stop erections<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1bamers/bilateral_corpora_cavernosa_ligation_to_stop/) by j3553k in 2024
+* [Not attracted to what I am getting "down there"<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lb92i8/not_attracted_to_what_i_am_getting_down_there/) by aidenhartxxx in 2021 - *"I recently had an orchiectomy and what's called a cavernosal artery dilation/destruction (basically, I can't get hard anymore)."*
 
 Papers
 
@@ -958,22 +958,22 @@ Papers
 
 reddit
 
-* [r/urethral_reroute](https://www.reddit.com/r/urethral_reroute)
-* [Failure](https://www.reddit.com/r/urethral_reroute/comments/1epljcq/failure/) in 2024 - this is with a device that you can find by google searching for "深pa"
-* reply to [pee after surgery. what is it like peeing for the first time after surgery? do you have to learn that? how does it feel compared to before? how long does it take to get used to it? Do you still often reach down and only then realize you don't have to hold anything anymore?](https://www.reddit.com/r/Transgender_Surgeries/comments/xpk10h/pee_after_surgery_what_is_it_like_peeing_for_the/iq5oq6m/) by BettyBob420 in 2022 - *" I had a perineal urethrostomy for several years before bottom surgery that was pretty much identical to post vaginoplasty functional sensation. I had to have the urethrostomy reversed at the beginning of last year in anticipation of vaginoplasty this year..."*
-* [as a update to the urethrostomy done by Dr Jonathan witten, this is the 3 month update for those who were curious.](https://www.reddit.com/r/Transgender_Surgeries/comments/wnmshk/as_a_update_to_the_urethrostomy_done_by_dr/) by  by oogittyboogitty in 2022
-    * [\[update\] 13 days post op urethrostomy Dr Jonathan witten, it feels wild peeing from between my legs now!](https://www.reddit.com/r/Transgender_Surgeries/comments/v20lqt/update_13_days_post_op_urethrostomy_dr_jonathan/) by oogittyboogitty in 2022
-    * [2 days post op urethrostomy, Jonathan witten](https://www.reddit.com/r/Transgender_Surgeries/comments/uu53bw/2_days_post_op_urethrostomy_jonathan_witten/) by oogittyboogitty in 2022
-    * [perineal urethrostomy in 10 days, why do I feel like I must be forced to sit to pee😅](https://www.reddit.com/r/Transgender_Surgeries/comments/um5u35/perineal_urethrostomy_in_10_days_why_do_i_feel/) by oogittyboogitty in 2022
-* [Urethrostomy](https://www.reddit.com/r/nullo/comments/oaiphl/urethrostomy/) by CTEunuchSlave in 2021
-    * [Reborn as a nullo](https://www.reddit.com/r/nullo/comments/o2f3yn/reborn_as_a_nullo/) by CTEunuchSlave in 2021, surgeon Ivan Aguilar, Mexico
-    * reply to [Where can I find picture results of someone who is 100% nullified?](https://www.reddit.com/r/nullo/comments/o3slfu/where_can_i_find_picture_results_of_someone_who/h2dzccg/) by CTEunuchSlave in 2021 links to https://www.ctnullo.com
-* [My orchiectomy and scrotum removal. I want to be gender nullified. Urologist consultation in February scheduled](https://www.reddit.com/user/split6/submitted/) by split6 in 2021
-* [I'm ready to take the next step. Time to become a Nullo](https://www.reddit.com/r/nullo/comments/kpseuc/im_ready_to_take_the_next_step_time_to_become_a/) by split6 in 2021
-* [By request a close-up. No balls, no sac, urethra reroute, dick open to the base (subincision)](https://www.reddit.com/r/emptysacks/comments/kft16s/by_request_a_closeup_no_balls_no_sac_urethra/) by split6 in 2020
-* [My healed urethra reroute opening](https://www.reddit.com/r/ExtremeBodyMods/comments/keww0s/my_healed_urethra_reroute_opening/) by split6 in 2020
-* [My modified body](https://www.reddit.com/r/ExtremeBodyMods/comments/jigxh0/my_modified_body/) by split6 in 2020 - *"Full subincision, castrated, scrotum removal, urethra reroute"*, also check post history for more
-* [For those that are happy with their AMAB genitalia have you considered...](https://www.reddit.com/r/MtF/comments/d6qyie/for_those_that_are_happy_with_their_amab/) by Giant_Tess in 2019
+* [r/urethral_reroute<sup>R</sup>](https://www.reddit.com/r/urethral_reroute)
+* [Failure<sup>R</sup>](https://www.reddit.com/r/urethral_reroute/comments/1epljcq/failure/) in 2024 - this is with a device that you can find by google searching for "深pa"
+* reply to [pee after surgery. what is it like peeing for the first time after surgery? do you have to learn that? how does it feel compared to before? how long does it take to get used to it? Do you still often reach down and only then realize you don't have to hold anything anymore?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/xpk10h/pee_after_surgery_what_is_it_like_peeing_for_the/iq5oq6m/) by BettyBob420 in 2022 - *" I had a perineal urethrostomy for several years before bottom surgery that was pretty much identical to post vaginoplasty functional sensation. I had to have the urethrostomy reversed at the beginning of last year in anticipation of vaginoplasty this year..."*
+* [as a update to the urethrostomy done by Dr Jonathan witten, this is the 3 month update for those who were curious.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/wnmshk/as_a_update_to_the_urethrostomy_done_by_dr/) by  by oogittyboogitty in 2022
+    * [\[update\] 13 days post op urethrostomy Dr Jonathan witten, it feels wild peeing from between my legs now!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/v20lqt/update_13_days_post_op_urethrostomy_dr_jonathan/) by oogittyboogitty in 2022
+    * [2 days post op urethrostomy, Jonathan witten<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/uu53bw/2_days_post_op_urethrostomy_jonathan_witten/) by oogittyboogitty in 2022
+    * [perineal urethrostomy in 10 days, why do I feel like I must be forced to sit to pee😅<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/um5u35/perineal_urethrostomy_in_10_days_why_do_i_feel/) by oogittyboogitty in 2022
+* [Urethrostomy<sup>R</sup>](https://www.reddit.com/r/nullo/comments/oaiphl/urethrostomy/) by CTEunuchSlave in 2021
+    * [Reborn as a nullo<sup>R</sup>](https://www.reddit.com/r/nullo/comments/o2f3yn/reborn_as_a_nullo/) by CTEunuchSlave in 2021, surgeon Ivan Aguilar, Mexico
+    * reply to [Where can I find picture results of someone who is 100% nullified?<sup>R</sup>](https://www.reddit.com/r/nullo/comments/o3slfu/where_can_i_find_picture_results_of_someone_who/h2dzccg/) by CTEunuchSlave in 2021 links to https://www.ctnullo.com
+* [My orchiectomy and scrotum removal. I want to be gender nullified. Urologist consultation in February scheduled<sup>R</sup>](https://www.reddit.com/user/split6/submitted/) by split6 in 2021
+* [I'm ready to take the next step. Time to become a Nullo<sup>R</sup>](https://www.reddit.com/r/nullo/comments/kpseuc/im_ready_to_take_the_next_step_time_to_become_a/) by split6 in 2021
+* [By request a close-up. No balls, no sac, urethra reroute, dick open to the base (subincision)<sup>R</sup>](https://www.reddit.com/r/emptysacks/comments/kft16s/by_request_a_closeup_no_balls_no_sac_urethra/) by split6 in 2020
+* [My healed urethra reroute opening<sup>R</sup>](https://www.reddit.com/r/ExtremeBodyMods/comments/keww0s/my_healed_urethra_reroute_opening/) by split6 in 2020
+* [My modified body<sup>R</sup>](https://www.reddit.com/r/ExtremeBodyMods/comments/jigxh0/my_modified_body/) by split6 in 2020 - *"Full subincision, castrated, scrotum removal, urethra reroute"*, also check post history for more
+* [For those that are happy with their AMAB genitalia have you considered...<sup>R</sup>](https://www.reddit.com/r/MtF/comments/d6qyie/for_those_that_are_happy_with_their_amab/) by Giant_Tess in 2019
 
 BME
 
@@ -1002,17 +1002,17 @@ Revisions to fix problems with the original surgery, or sometimes just cosmetic 
 
 reddit
 
-* [18 days post op - impressive labiaplasty results, Dr Theerapong is an artist](https://www.reddit.com/r/Transgender_Surgeries/comments/1408rv7/18_days_post_op_impressive_labiaplasty_results_dr/) by Adorable_Degree_7277 in 2023
-    * [AMA I had open colon srs revision with Dr Thee last week](https://www.reddit.com/r/Transgender_Surgeries/comments/13s2j92/ama_i_had_open_colon_srs_revision_with_dr_thee/) by Adorable_Degree_7277 in 2023 - *"Original surgery with Dr Schaff March 21. Circulation disturbance caused major bloodloss on day 3. in the end I only had 12cm depth, penetration impossible due to major pain at the entrance, and poor aesthetic."*
-* [Dr. Bank, 3 days post revision srs](https://www.reddit.com/r/Transgender_Surgeries/comments/10tazcp/dr_bank_3_days_post_revision_srs/) by  I_like_polar_bears in 2023 - note that this surgeon won't do revisions on other surgeons patients
-* [Got rid of Kamol’s 2019 SRS Scrotal PI mess !! - Went to Dr. Theerapong 2022 - Complete redo SRS Sigmoid Colon and aesthetics .](https://www.reddit.com/r/Transgender_Surgeries/comments/1055vfh/got_rid_of_kamols_2019_srs_scrotal_pi_mess_went/) by  Krystal-Garven-2 in 2023
-* [Do surgeons who have only done a revision for you still do free revisions?](https://www.reddit.com/r/Transgender_Surgeries/comments/was2yi/do_surgeons_who_have_only_done_a_revision_for_you/) by transythrowaway in 2022
-* [Cosmetic improvement/ revision by Dr. Banks](https://www.reddit.com/r/Transgender_Surgeries/comments/vwqyom/cosmetic_improvement_revision_by_dr_banks/) by suporngirl in 2022
-* [from Botched , to great. nsfw](https://www.reddit.com/r/Transgender_Surgeries/comments/t9bscc/from_botched_to_great_nsfw/) by PublicVictory5833 in 2022 - *"Dr Alkassis has been absolutely wonderful, he turned my freddy krueger into a beautiful unicorn. ... These first 2 surgeries, "my primary srs" and my 2nd surgery "emergency revision srs" were performed my Dr Daniel Freet at UT Physicians in Houston Texas. Please do your research, I recommend starting away from him for srs surgeries."*
-* [SRS Revision with Dr. Bluebond-Langner](https://www.reddit.com/r/Transgender_Surgeries/comments/hl5d1f/srs_revision_with_dr_bluebondlangner/) by Maybebaby57 in 2020
-* [Does anyone get constant leaking after a year with PPV?](https://www.reddit.com/r/Transgender_Surgeries/comments/g17d05/does_anyone_get_constant_leaking_after_a_year/) by krone6 in 2020
-* [Post op trans women don’t deserve to be ignored.](https://www.reddit.com/r/asktransgender/comments/b6j2nu/post_op_trans_women_dont_deserve_to_be_ignored/) by awaysleeping in 2019
-* [Just got through a vaginal canal reconstruction (deepening) with Dr. Ley (her first ever) AMA](https://www.reddit.com/r/asktransgender/comments/b27utj/just_got_through_a_vaginal_canal_reconstruction/) by LuxxRazzys in 2019
+* [18 days post op - impressive labiaplasty results, Dr Theerapong is an artist<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1408rv7/18_days_post_op_impressive_labiaplasty_results_dr/) by Adorable_Degree_7277 in 2023
+    * [AMA I had open colon srs revision with Dr Thee last week<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/13s2j92/ama_i_had_open_colon_srs_revision_with_dr_thee/) by Adorable_Degree_7277 in 2023 - *"Original surgery with Dr Schaff March 21. Circulation disturbance caused major bloodloss on day 3. in the end I only had 12cm depth, penetration impossible due to major pain at the entrance, and poor aesthetic."*
+* [Dr. Bank, 3 days post revision srs<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10tazcp/dr_bank_3_days_post_revision_srs/) by  I_like_polar_bears in 2023 - note that this surgeon won't do revisions on other surgeons patients
+* [Got rid of Kamol’s 2019 SRS Scrotal PI mess !! - Went to Dr. Theerapong 2022 - Complete redo SRS Sigmoid Colon and aesthetics .<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1055vfh/got_rid_of_kamols_2019_srs_scrotal_pi_mess_went/) by  Krystal-Garven-2 in 2023
+* [Do surgeons who have only done a revision for you still do free revisions?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/was2yi/do_surgeons_who_have_only_done_a_revision_for_you/) by transythrowaway in 2022
+* [Cosmetic improvement/ revision by Dr. Banks<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vwqyom/cosmetic_improvement_revision_by_dr_banks/) by suporngirl in 2022
+* [from Botched , to great. nsfw<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/t9bscc/from_botched_to_great_nsfw/) by PublicVictory5833 in 2022 - *"Dr Alkassis has been absolutely wonderful, he turned my freddy krueger into a beautiful unicorn. ... These first 2 surgeries, "my primary srs" and my 2nd surgery "emergency revision srs" were performed my Dr Daniel Freet at UT Physicians in Houston Texas. Please do your research, I recommend starting away from him for srs surgeries."*
+* [SRS Revision with Dr. Bluebond-Langner<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hl5d1f/srs_revision_with_dr_bluebondlangner/) by Maybebaby57 in 2020
+* [Does anyone get constant leaking after a year with PPV?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/g17d05/does_anyone_get_constant_leaking_after_a_year/) by krone6 in 2020
+* [Post op trans women don’t deserve to be ignored.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/b6j2nu/post_op_trans_women_dont_deserve_to_be_ignored/) by awaysleeping in 2019
+* [Just got through a vaginal canal reconstruction (deepening) with Dr. Ley (her first ever) AMA<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/b27utj/just_got_through_a_vaginal_canal_reconstruction/) by LuxxRazzys in 2019
 
 Susans
 
@@ -1022,8 +1022,8 @@ Susans
 Hanna Simpson - Surgery by Kathy Rumer, Revision by Marci Bowers
 
 * http://www.female.plumbing
-* [SRS Revision Surgeon Choice](https://www.reddit.com/r/Transgender_Surgeries/comments/cfxkbf/srs_revision_surgeon_choice/) in 2019
-* reply to [I need your help... because... I don't know how much longer I can keep going on this way. Please. Any help. I'm begging you.](https://www.reddit.com/r/asktransgender/comments/9220a2/i_need_your_help_because_i_dont_know_how_much/e34966r/) by hannsimp in 2018
+* [SRS Revision Surgeon Choice<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/cfxkbf/srs_revision_surgeon_choice/) in 2019
+* reply to [I need your help... because... I don't know how much longer I can keep going on this way. Please. Any help. I'm begging you.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9220a2/i_need_your_help_because_i_dont_know_how_much/e34966r/) by hannsimp in 2018
 
 realself
 
@@ -1051,8 +1051,8 @@ Papers
 
 reddit
 
-* [Question: for a 15 y.o mtf girl if possible undergo toa B.A. and SRS,i want it soon as possible,please answer me?](https://www.reddit.com/r/Transgender_Surgeries/comments/kpml23/question_for_a_15_yo_mtf_girl_if_possible_undergo/) by supermikelina - from Italy having surgery in Spain
-* [Does anyone have experience having consultations as a minor, for surgeries had when over 18?](https://www.reddit.com/r/Transgender_Surgeries/comments/i4j5tr/does_anyone_have_experience_having_consultations/) by Prionian in 2020
+* [Question: for a 15 y.o mtf girl if possible undergo toa B.A. and SRS,i want it soon as possible,please answer me?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kpml23/question_for_a_15_yo_mtf_girl_if_possible_undergo/) by supermikelina - from Italy having surgery in Spain
+* [Does anyone have experience having consultations as a minor, for surgeries had when over 18?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i4j5tr/does_anyone_have_experience_having_consultations/) by Prionian in 2020
 
 Susans
 
@@ -1075,8 +1075,8 @@ New York Times
 
 reddit
 
-* reply to [Minimal depth or just orchi?](https://www.reddit.com/r/Transgender_Surgeries/comments/ltucj5/minimal_depth_or_just_orchi/gp3m970/) by Happy72trans in 2021
-* [Hope and Dreams](https://www.reddit.com/r/Transgender_Surgeries/comments/kdriti/hope_and_dreams/) by Happy72trans in 2020
+* reply to [Minimal depth or just orchi?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ltucj5/minimal_depth_or_just_orchi/gp3m970/) by Happy72trans in 2021
+* [Hope and Dreams<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kdriti/hope_and_dreams/) by Happy72trans in 2020
 
 <br />
 
@@ -1088,25 +1088,25 @@ It should go without saying, but this is exceptionally dangerous.
 
 reddit
 
-* [r/stirringcastration](https://www.reddit.com/r/stirringcastration) - seems to be a diy castration sub
+* [r/stirringcastration<sup>R</sup>](https://www.reddit.com/r/stirringcastration) - seems to be a diy castration sub
 * reply to [People asking about vial coring so I wrote an article](https://old.reddit.com/r/TransDIY/comments/18380bh/people_asking_about_vial_coring_so_i_wrote_an/kap3qds/), see the articles [Orchiectomy](https://mesityl.substack.com/p/orchiectomy) and [Orchiectomy part 2](https://mesityl.substack.com/p/orchiectomy-part-2)
-* [A warning tale](https://www.reddit.com/r/orchiectomy/comments/182afvw/a_warning_tale/) by IndividualExciting99 in 2023 - *"I have tried several methods of self castration only one had any success??. about 18 weeks ago I injected both testicles with 3mm of hypretonic (30%) saline this was not painful at all and both testicles became swollen. this was about 3 inches in diamiter... All was well after a couple of days both testicles went down. Both were soft with no hard lumps or aparent internal structures. I was smiling inside finally I had done it, what a relief.. a couple of days later my left ball started to swell and was painful. fuck was it painful. codene and ibroprofen together failed to touch the pain. I walked into the local hospital and spoke to triage. at this point my testicle was about 7 inches long 2,5 inches diameter and so tender. triage called the uroligy consultant who felt prodded and poked then he said "this has to come off NOW" so i was admited and a emergengy op scheduled. when I came round it was not nice i reacted badly to the shit they gave to knock me out.. any way this left me wit no left testicle and a right testicle aboy the size of a single peanut... To anyone trying to kill their balls by injection all i can say is DONT"*
-* [Jeez, trans woman prisoner who did her own orchiectomy is now denied estrogen, they'll only give her testosterone](https://www.reddit.com/r/transgenderUK/comments/17scxk9/jeez_trans_woman_prisoner_who_did_her_own/) by  \_shagger\_ in 2023
-* [Explaination to the doctor](https://www.reddit.com/r/stirringcastration/comments/u7mcjs/explaination_to_the_doctor/) by Suspicious_Papaya_96 in 2022
-* reply to [Knowing if you're ready..](https://www.reddit.com/r/Transgender_Surgeries/comments/t87wpg/knowing_if_youre_ready/hznx0u5/) by ashleyjm in 2022
-* reply to [Knowing if you're ready..](https://www.reddit.com/r/Transgender_Surgeries/comments/t87wpg/knowing_if_youre_ready/hznx0u5/) by ashleyjm in 2022 - alcohol injections followed by surgeons orchi
-* [Absorption of EstroGel after home orchiectomy](https://www.reddit.com/r/TransDIY/comments/iqpuc1/absorption_of_estrogel_after_home_orchiectomy/) by AshlyBotex in 2020
-* [April 28 on the left, yesterday on the right, after eight stir sessions. Something looks a little different...can’t quite put my finger on it](https://www.reddit.com/r/castration/comments/hlxqir/april_28_on_the_left_yesterday_on_the_right_after/) by stirrednuts in 2020 - there's plenty more in their post history, also look on [r/M2E](https://www.reddit.com/r/M2E)
-* [April 10th. Status on my journey to become an Eunuch.](https://www.reddit.com/r/M2E/comments/fydjux/april_10th_status_on_my_journey_to_become_an/) by Meetoo73 in 2020
-* [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)](https://www.reddit.com/r/transmaxxing/comments/fkuoyl/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020 - in [r/transmaxxing](https://www.reddit.com/r/transmaxxing) 
-* [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)](https://www.reddit.com/r/Boymode/comments/fkuhns/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020 - in [r/Boymode](https://www.reddit.com/r/Boymode) 
-* [This is what it looks like with legs closed. On the previous picture my legs were spread. The random scar is from my self surgery and not the doctors fault. I talked to someone in the healthcare system, and they can remove the hair inside the vagina. So I feel a little better now.](https://www.reddit.com/r/Transgender_Surgeries/comments/fn8j7z/this_is_what_it_looks_like_with_legs_closed_on/) by stupidstories in 2020
+* [A warning tale<sup>R</sup>](https://www.reddit.com/r/orchiectomy/comments/182afvw/a_warning_tale/) by IndividualExciting99 in 2023 - *"I have tried several methods of self castration only one had any success??. about 18 weeks ago I injected both testicles with 3mm of hypretonic (30%) saline this was not painful at all and both testicles became swollen. this was about 3 inches in diamiter... All was well after a couple of days both testicles went down. Both were soft with no hard lumps or aparent internal structures. I was smiling inside finally I had done it, what a relief.. a couple of days later my left ball started to swell and was painful. fuck was it painful. codene and ibroprofen together failed to touch the pain. I walked into the local hospital and spoke to triage. at this point my testicle was about 7 inches long 2,5 inches diameter and so tender. triage called the uroligy consultant who felt prodded and poked then he said "this has to come off NOW" so i was admited and a emergengy op scheduled. when I came round it was not nice i reacted badly to the shit they gave to knock me out.. any way this left me wit no left testicle and a right testicle aboy the size of a single peanut... To anyone trying to kill their balls by injection all i can say is DONT"*
+* [Jeez, trans woman prisoner who did her own orchiectomy is now denied estrogen, they'll only give her testosterone<sup>R</sup>](https://www.reddit.com/r/transgenderUK/comments/17scxk9/jeez_trans_woman_prisoner_who_did_her_own/) by  \_shagger\_ in 2023
+* [Explaination to the doctor<sup>R</sup>](https://www.reddit.com/r/stirringcastration/comments/u7mcjs/explaination_to_the_doctor/) by Suspicious_Papaya_96 in 2022
+* reply to [Knowing if you're ready..<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/t87wpg/knowing_if_youre_ready/hznx0u5/) by ashleyjm in 2022
+* reply to [Knowing if you're ready..<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/t87wpg/knowing_if_youre_ready/hznx0u5/) by ashleyjm in 2022 - alcohol injections followed by surgeons orchi
+* [Absorption of EstroGel after home orchiectomy<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/iqpuc1/absorption_of_estrogel_after_home_orchiectomy/) by AshlyBotex in 2020
+* [April 28 on the left, yesterday on the right, after eight stir sessions. Something looks a little different...can’t quite put my finger on it<sup>R</sup>](https://www.reddit.com/r/castration/comments/hlxqir/april_28_on_the_left_yesterday_on_the_right_after/) by stirrednuts in 2020 - there's plenty more in their post history, also look on [r/M2E<sup>R</sup>](https://www.reddit.com/r/M2E)
+* [April 10th. Status on my journey to become an Eunuch.<sup>R</sup>](https://www.reddit.com/r/M2E/comments/fydjux/april_10th_status_on_my_journey_to_become_an/) by Meetoo73 in 2020
+* [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)<sup>R</sup>](https://www.reddit.com/r/transmaxxing/comments/fkuoyl/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020 - in [r/transmaxxing<sup>R</sup>](https://www.reddit.com/r/transmaxxing) 
+* [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)<sup>R</sup>](https://www.reddit.com/r/Boymode/comments/fkuhns/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020 - in [r/Boymode<sup>R</sup>](https://www.reddit.com/r/Boymode) 
+* [This is what it looks like with legs closed. On the previous picture my legs were spread. The random scar is from my self surgery and not the doctors fault. I talked to someone in the healthcare system, and they can remove the hair inside the vagina. So I feel a little better now.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/fn8j7z/this_is_what_it_looks_like_with_legs_closed_on/) by stupidstories in 2020
     * reply to [I had bottom surgery yesterday. Everything went great and now I'm finally done with the whole transitioning phase of being trans. Even bought myself a support shark to help me recover.](https://old.reddit.com/r/lgbt/comments/d8k0qu/i_had_bottom_surgery_yesterday_everything_went/f5pq62g/) by stupidstories in 2019
-* [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)](https://www.reddit.com/r/Boymode/comments/fkuhns/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020
-* [Alcohol injections](https://www.reddit.com/r/M2E/comments/etj2jn/alcohol_injections/) by staygrateful123 in 2020
-* [{IM-hrt} Estrogen lv's Post-up and progesteron use Questions](https://www.reddit.com/r/asktransgender/comments/eysepb/imhrt_estrogen_lvs_postup_and_progesteron_use/) by barb32 in 2020, also see earlier posts [here](https://www.reddit.com/r/transtimelines/comments/e7cnjs/my_first_time_going_to_the_beach_in_a_bikini_was/f9yml8r/) and [here](https://www.reddit.com/r/AskMtFHRT/comments/dqom3a/hormone_dose_before_orchiectomy/f6981ul/)
-* [Considering CaCl2 injection... Any advice?](https://www.reddit.com/r/TransDIY/comments/awjwme/considering_cacl2_injection_any_advice/) in 2019
-* [In the hospital after almost bleeding out after having an unlicensed orchi.](https://www.reddit.com/r/asktransgender/comments/6c12nc/in_the_hospital_after_almost_bleeding_out_after/) by empresskittycat in 2017 - *"So, about a year ago I got into contact with someone who had her orchiectomy done by a man who used to do them on sheep and it was his fetish so he had done it on her... So, yesterday he came over to my apartment. The procedure I was completely awake for and it was horrible, horrible pain. My testicles kept going back inside my scrotum so he kept having to push them out. Then he got one off and the artery started bleeding. He sutured it (badly) and then got the other one out and off. By the end of it I had been screaming and writihing in pain, but he finished and I was so happy to have them gone. He left me and my partner for me to rest in bed. Well, about ten minutes later I heard what sounded like water being poured onto the bed and there was blood everywhere. It was just gushing. So, my partner called the paramedics. They came and got me into the ambulence which was hard because I live on the second floor and I could not stand up without possibly completely bleeding out. I got to the hospital and they put me into proper surgery. They reopened me up, cleaned me out, made sure to remove any debris the first guy left over and now I am still here, still in immense pain. The police were called by the hospital too and my unlicensed surgeon is now under investigation. I feel a little bad for him since he was such a nice guy, or seemed to be...  The "Surgeon" was arrested last night so he will not be able to do his risky business again. While I feel kind of bad for him, after reading comments here I think it is probably for the best."*
+* [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)<sup>R</sup>](https://www.reddit.com/r/Boymode/comments/fkuhns/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020
+* [Alcohol injections<sup>R</sup>](https://www.reddit.com/r/M2E/comments/etj2jn/alcohol_injections/) by staygrateful123 in 2020
+* [{IM-hrt} Estrogen lv's Post-up and progesteron use Questions<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/eysepb/imhrt_estrogen_lvs_postup_and_progesteron_use/) by barb32 in 2020, also see earlier posts [here<sup>R</sup>](https://www.reddit.com/r/transtimelines/comments/e7cnjs/my_first_time_going_to_the_beach_in_a_bikini_was/f9yml8r/) and [here<sup>R</sup>](https://www.reddit.com/r/AskMtFHRT/comments/dqom3a/hormone_dose_before_orchiectomy/f6981ul/)
+* [Considering CaCl2 injection... Any advice?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/awjwme/considering_cacl2_injection_any_advice/) in 2019
+* [In the hospital after almost bleeding out after having an unlicensed orchi.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/6c12nc/in_the_hospital_after_almost_bleeding_out_after/) by empresskittycat in 2017 - *"So, about a year ago I got into contact with someone who had her orchiectomy done by a man who used to do them on sheep and it was his fetish so he had done it on her... So, yesterday he came over to my apartment. The procedure I was completely awake for and it was horrible, horrible pain. My testicles kept going back inside my scrotum so he kept having to push them out. Then he got one off and the artery started bleeding. He sutured it (badly) and then got the other one out and off. By the end of it I had been screaming and writihing in pain, but he finished and I was so happy to have them gone. He left me and my partner for me to rest in bed. Well, about ten minutes later I heard what sounded like water being poured onto the bed and there was blood everywhere. It was just gushing. So, my partner called the paramedics. They came and got me into the ambulence which was hard because I live on the second floor and I could not stand up without possibly completely bleeding out. I got to the hospital and they put me into proper surgery. They reopened me up, cleaned me out, made sure to remove any debris the first guy left over and now I am still here, still in immense pain. The police were called by the hospital too and my unlicensed surgeon is now under investigation. I feel a little bad for him since he was such a nice guy, or seemed to be...  The "Surgeon" was arrested last night so he will not be able to do his risky business again. While I feel kind of bad for him, after reading comments here I think it is probably for the best."*
 
 kitten den
 
@@ -1203,7 +1203,7 @@ Samir S Shirodkar, Fayez T Hammad, Naseem A Qureshi
     * http://gynodiversity.com/uploads/Classification_of_the_anatomical_variation_in_female_external_genitalia.pdf
 * [100 Vaginas review – an extraordinary and empowering spread of the legs](https://www.theguardian.com/lifeandstyle/2019/feb/09/me-and-my-vulva-100-women-reveal-all-photographs), The Guardian in 2019, photo [here](https://www.theguardian.com/lifeandstyle/2019/feb/09/me-and-my-vulva-100-women-reveal-all-photographs#img-2)
 * [Great Wall of Vagina](http://www.greatwallofvagina.co.uk/images)
-* [The Second Annual Vulva Gallery](https://www.reddit.com/r/normalnudes/comments/39l1q9/the_second_annual_vulva_gallery/) on /r/normalnudes, photos [here](https://imgur.com/a/lDsgw), and another copy [here](http://www.fuckblogging.com/3-years-of-anonymous-vulva-vagina-submissions-from-all-over-the-world-part-1/)
+* [The Second Annual Vulva Gallery<sup>R</sup>](https://www.reddit.com/r/normalnudes/comments/39l1q9/the_second_annual_vulva_gallery/) on /r/normalnudes, photos [here](https://imgur.com/a/lDsgw), and another copy [here](http://www.fuckblogging.com/3-years-of-anonymous-vulva-vagina-submissions-from-all-over-the-world-part-1/)
 * https://en.wikipedia.org/wiki/Femalia - I've not seen this but it sounds like it might be useful
 * http://www.labialibrary.org.au/
 * https://en.wikipedia.org/wiki/Erogenous_zone#Female
@@ -1214,7 +1214,7 @@ Samir S Shirodkar, Fayez T Hammad, Naseem A Qureshi
 * https://www.reddit.com/r/pussy/comments/1er52xt/my_little_21_year_old_pussy_is_all_yours_for_the - a very clear example
 reddit
 
-* [Vaginoplasty and Anatomical Correctness of the Vulva](https://www.reddit.com/r/Transgender_Surgeries/comments/x6eaow/vaginoplasty_and_anatomical_correctness_of_the/) by actualkylie in 2022
+* [Vaginoplasty and Anatomical Correctness of the Vulva<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/x6eaow/vaginoplasty_and_anatomical_correctness_of_the/) by actualkylie in 2022
 
 Research
 
@@ -1224,7 +1224,7 @@ Research
 
 Some cis-women have labiaplasty to alter their labia minora.
 
-* [r/LabiaplastySurgery](https://www.reddit.com/r/LabiaplastySurgery)
+* [r/LabiaplastySurgery<sup>R</sup>](https://www.reddit.com/r/LabiaplastySurgery)
 * https://en.wikipedia.org/wiki/Labiaplasty
 * https://en.wikipedia.org/wiki/Clitoral_hood_reduction
 * YouTube - [I Got Surgery To Have A Designer Vagina | Refinery29](https://www.youtube.com/watch?v=jkn6FakBAmA) by Refinery29 in 2021
@@ -1245,7 +1245,7 @@ Porn is obvioulsy not representative of the average vagina/vulva.
 * https://www.reddit.com/r/rearpussy - porn sub
 * https://www.reddit.com/r/MoundofVenus - porn sub for mons pubis
 * https://www.reddit.com/r/PussyMound - porn sub
-* https://www.reddit.com/r/spreading - porn sub for "Spread open pussies only". This sub is interesting as you can see the internal structure and compare to SRS results. Most SRS photo's don't show anything internally and in some cases its significantly different. See this reddit post [Vaginal canal not between labia minora?](https://www.reddit.com/r/Transgender_Surgeries/comments/as3v49/vaginal_canal_not_between_labia_minora/) in 2019.
+* https://www.reddit.com/r/spreading - porn sub for "Spread open pussies only". This sub is interesting as you can see the internal structure and compare to SRS results. Most SRS photo's don't show anything internally and in some cases its significantly different. See this reddit post [Vaginal canal not between labia minora?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/as3v49/vaginal_canal_not_between_labia_minora/) in 2019.
 * https://www.reddit.com/r/gonewild/comments/efzgpq/eat_me_f - cis-women with innner labia ending above the vagina
 * https://www.reddit.com/r/GodPussy/comments/184z6bd/are_you_man_enough_to_not_pull_out - cis-women with innner labia ending above the vagina
 
@@ -1264,9 +1264,9 @@ I'll collect a few results here to illustrate various points of post-op results.
 
 In porn its quite common to obscure the view with hands or toys, and presumably its intentionally as sometimes you'll never find a photo without that.
 
-* [r/postoppussy](https://www.reddit.com/r/postoppussy)
-* [r/postoppussies](https://www.reddit.com/r/postoppussies)
-* [r/PostOpTransgirls](https://www.reddit.com/r/PostOpTransgirls)
+* [r/postoppussy<sup>R</sup>](https://www.reddit.com/r/postoppussy)
+* [r/postoppussies<sup>R</sup>](https://www.reddit.com/r/postoppussies)
+* [r/PostOpTransgirls<sup>R</sup>](https://www.reddit.com/r/PostOpTransgirls)
 * https://imgur.com/a/gcOxGQs - porn/unknown surgeon
 * https://imgur.com/gallery/B6Rsi39 - Melissa Hilton/unknown surgeon
 * https://imgur.com/gallery/KG8qLyN - Carmen Casper/unknown surgeon
@@ -1276,11 +1276,11 @@ In porn its quite common to obscure the view with hands or toys, and presumably 
 * https://imgur.com/gallery/03y72St - Harley/unknown surgeon
 * http://hannahsimpson.com/Surgery/ - bad result/surgeon Kathy Rumer 
 * realself - [Complete GCS Disaster from the Beginning.](https://www.realself.com/review/vaginoplasty-complete-disaster-beginning) by EmmaLake in 2019 - bad result/surgeon Sidhbh Gallagher
-* reddit - [Do not go to Dr. Schechter post-op photos (nsfw) ](https://www.reddit.com/r/Transgender_Surgeries/comments/7rtada/do_not_go_to_dr_schechter_postop_photos_nsfw/) in 2018, photos [here](https://imgur.com/a/rIbvC). - bad result
+* reddit - [Do not go to Dr. Schechter post-op photos (nsfw) <sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/7rtada/do_not_go_to_dr_schechter_postop_photos_nsfw/) in 2018, photos [here](https://imgur.com/a/rIbvC). - bad result
 
 Mia Fever (see Brassard) at first glance appears to have an excellent result, except that its misleading as you can actually see very little. 
 
-Inner labia that that don't go all the way down are a common feature/complaint in post-op results - few surgeons are good at it. It does exist in cis-women, as shown [here](https://www.reddit.com/r/GodPussy/comments/17dpjgs/sick_of_using_your_hand_to_get_off_try_using_me/), [here](https://www.reddit.com/r/GodPussy/comments/176skkg/lets_play_truth_or_dare_i_dare_you_not_to_pull_out/), and [here](https://www.reddit.com/r/RealGirls/comments/137icl2/cum_in_me_already_i_cant_wait_any_longer/), but the different is also quite clear.
+Inner labia that that don't go all the way down are a common feature/complaint in post-op results - few surgeons are good at it. It does exist in cis-women, as shown [here<sup>R</sup>](https://www.reddit.com/r/GodPussy/comments/17dpjgs/sick_of_using_your_hand_to_get_off_try_using_me/), [here<sup>R</sup>](https://www.reddit.com/r/GodPussy/comments/176skkg/lets_play_truth_or_dare_i_dare_you_not_to_pull_out/), and [here<sup>R</sup>](https://www.reddit.com/r/RealGirls/comments/137icl2/cum_in_me_already_i_cant_wait_any_longer/), but the different is also quite clear.
 
 <br />
 
@@ -1290,8 +1290,8 @@ Inner labia that that don't go all the way down are a common feature/complaint i
 
 reddit
 
-* reply to [is mtf bottom surgery clockable, I probably won’t get bottom surgery for a variety of reasons, but if decide to i don’t want to get it if it is clockable](https://www.reddit.com/r/Transgender_Surgeries/comments/gi6bwt/is_mtf_bottom_surgery_clockable_i_probably_wont/fqczmm8/) - *"You shouldn't expect your result to be "unclockable" since I've literally had a cis friend who got "clocked" by her vagina due to a terf thinking it looked "trans"."*
-* [My cisF ex has almost no labia minora and it doesn't enclose the vaginal canal.](https://www.reddit.com/r/MtF/comments/etr0ag/my_cisf_ex_has_almost_no_labia_minora_and_it/) by hrt_breaker in 2020
+* reply to [is mtf bottom surgery clockable, I probably won’t get bottom surgery for a variety of reasons, but if decide to i don’t want to get it if it is clockable<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/gi6bwt/is_mtf_bottom_surgery_clockable_i_probably_wont/fqczmm8/) - *"You shouldn't expect your result to be "unclockable" since I've literally had a cis friend who got "clocked" by her vagina due to a terf thinking it looked "trans"."*
+* [My cisF ex has almost no labia minora and it doesn't enclose the vaginal canal.<sup>R</sup>](https://www.reddit.com/r/MtF/comments/etr0ag/my_cisf_ex_has_almost_no_labia_minora_and_it/) by hrt_breaker in 2020
 
 Susans
 
@@ -1325,7 +1325,7 @@ Stephanie Lynnette in 2021
 
 ## Choosing a surgeon
 
-Moved to the [Surgery Introduction page](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md).
+Moved to the [Surgery Introduction page<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md).
 
 <br />
 
@@ -1335,7 +1335,7 @@ Moved to the [Surgery Introduction page](https://github.com/zp100/Transgender_Su
 
 reddit
 
-* [My Consultation with Dr. Rachel Bluebond-Langner (Vaginoplasty)](https://www.reddit.com/r/Transgender_Surgeries/comments/klzaa6/my_consultation_with_dr_rachel_bluebondlangner/) by  WafflesSamoyed in 2020
+* [My Consultation with Dr. Rachel Bluebond-Langner (Vaginoplasty)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/klzaa6/my_consultation_with_dr_rachel_bluebondlangner/) by  WafflesSamoyed in 2020
 
 <br />
 
@@ -1345,21 +1345,21 @@ reddit
 
 reddit
 
-* [Packing List for SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/upu3pr/packing_list_for_srs/) by SurgeryDiary in 2022
-* [Recommended "Donut" Cusion? \[MtF Vaginoplasty\]](https://www.reddit.com/r/Transgender_Surgeries/comments/qixadc/recommended_donut_cusion_mtf_vaginoplasty/) by tieltina in 2021
-* [MTF SRS: learning, deciding, and everything before the actual surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/o1x9nn/mtf_srs_learning_deciding_and_everything_before/) by 2d4d_data in 2021
-* [Vaginoplasty shopping list](https://www.reddit.com/r/Transgender_Surgeries/comments/l5vg6r/vaginoplasty_shopping_list/) by BroadwayStingray in 2021
-* [SRS surgery purchase list (my experience)](https://www.reddit.com/r/Transgender_Surgeries/comments/j9iio0/srs_surgery_purchase_list_my_experience/) by IsVicky in 2020
-* [question on pads for gcs postop](https://www.reddit.com/r/Transgender_Surgeries/comments/j9cz6p/question_on_pads_for_gcs_postop/) by FlashyDeparture9 in 2020
-* [Things you had/wish you had while recovering from bottom surgery in the hospital?](https://www.reddit.com/r/Transgender_Surgeries/comments/is0ihl/things_you_hadwish_you_had_while_recovering_from/) by claire_lunara in 2020
-* [Suggestions for Packing List](https://www.reddit.com/r/Transgender_Surgeries/comments/gdiwk7/suggestions_for_packing_list/) by Melissa7d in 2020
-* [Some SRS Tips I Wish I'd Known](https://www.reddit.com/r/MtF/comments/f7q07f/some_srs_tips_i_wish_id_known/) by someflowertips in 2020
-* [Check list of supplies for post op srs. Having srs at the end of the month and want to be prepared. I thought I saw a list here once but I cannot find it.](https://www.reddit.com/r/Transgender_Surgeries/comments/en1mf1/check_list_of_supplies_for_post_op_srs_having_srs/) by Jennakesti88 in 2020
-* [Minimal-Depth Vaginoplasty AMA - Partner's Perspective](https://www.reddit.com/r/mypartneristrans/comments/dhugq5/minimaldepth_vaginoplasty_ama_partners_perspective/) by queeroctopus496 in 2019
-* [SRS with Dr Suporn PDF 5th Edition](https://www.reddit.com/r/Transgender_Surgeries/comments/fayd3p/srs_with_dr_suporn_pdf_5th_edition/) by Suporn2015SRS in 2020
-* [Q for mtf bottom surgery patients - Has anyone benefitted from the use of a bidet post-op?](https://www.reddit.com/r/Transgender_Surgeries/comments/e04imw/q_for_mtf_bottom_surgery_patients_has_anyone/) by Jen-Ai in 2019
-* [Items you wish you'd had for vaginoplasty](https://www.reddit.com/r/asktransgender/comments/dtiyd3/items_you_wish_youd_had_for_vaginoplasty/) by burnsbabe in 2019
-* reply to [Anyone else have GCS with McGinn? Questions about post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/anvejb/anyone_else_have_gcs_with_mcginn_questions_about/efwkf94/?context=3) by AmeliaLeah in 2019
+* [Packing List for SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/upu3pr/packing_list_for_srs/) by SurgeryDiary in 2022
+* [Recommended "Donut" Cusion? \[MtF Vaginoplasty\]<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qixadc/recommended_donut_cusion_mtf_vaginoplasty/) by tieltina in 2021
+* [MTF SRS: learning, deciding, and everything before the actual surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/o1x9nn/mtf_srs_learning_deciding_and_everything_before/) by 2d4d_data in 2021
+* [Vaginoplasty shopping list<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/l5vg6r/vaginoplasty_shopping_list/) by BroadwayStingray in 2021
+* [SRS surgery purchase list (my experience)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/j9iio0/srs_surgery_purchase_list_my_experience/) by IsVicky in 2020
+* [question on pads for gcs postop<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/j9cz6p/question_on_pads_for_gcs_postop/) by FlashyDeparture9 in 2020
+* [Things you had/wish you had while recovering from bottom surgery in the hospital?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/is0ihl/things_you_hadwish_you_had_while_recovering_from/) by claire_lunara in 2020
+* [Suggestions for Packing List<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/gdiwk7/suggestions_for_packing_list/) by Melissa7d in 2020
+* [Some SRS Tips I Wish I'd Known<sup>R</sup>](https://www.reddit.com/r/MtF/comments/f7q07f/some_srs_tips_i_wish_id_known/) by someflowertips in 2020
+* [Check list of supplies for post op srs. Having srs at the end of the month and want to be prepared. I thought I saw a list here once but I cannot find it.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/en1mf1/check_list_of_supplies_for_post_op_srs_having_srs/) by Jennakesti88 in 2020
+* [Minimal-Depth Vaginoplasty AMA - Partner's Perspective<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/dhugq5/minimaldepth_vaginoplasty_ama_partners_perspective/) by queeroctopus496 in 2019
+* [SRS with Dr Suporn PDF 5th Edition<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/fayd3p/srs_with_dr_suporn_pdf_5th_edition/) by Suporn2015SRS in 2020
+* [Q for mtf bottom surgery patients - Has anyone benefitted from the use of a bidet post-op?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/e04imw/q_for_mtf_bottom_surgery_patients_has_anyone/) by Jen-Ai in 2019
+* [Items you wish you'd had for vaginoplasty<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/dtiyd3/items_you_wish_youd_had_for_vaginoplasty/) by burnsbabe in 2019
+* reply to [Anyone else have GCS with McGinn? Questions about post-op<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/anvejb/anyone_else_have_gcs_with_mcginn_questions_about/efwkf94/?context=3) by AmeliaLeah in 2019
 
 YouTube
 
@@ -1371,13 +1371,13 @@ YouTube
 
 ## Fertility
 
-If you want to go off HRT to get a last sperm sample, [search for Clomid in Dr Will Powers sub](https://www.reddit.com/r/DrWillPowers/search?q=Clomid&restrict_sr=on&include_over_18=on).
+If you want to go off HRT to get a last sperm sample, [search for Clomid in Dr Will Powers sub<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/search?q=Clomid&restrict_sr=on&include_over_18=on).
 
 reddit
 
-* [Exactly how effective is clomid?](https://www.reddit.com/r/DrWillPowers/comments/jtl582/exactly_how_effective_is_clomid/) by scientificmethodist in 2020
-* [Clomid/Clomiphene is Amazing to become fertile again!](https://www.reddit.com/r/DrWillPowers/comments/jg1snw/clomidclomiphene_is_amazing_to_become_fertile/) by 36QuestioningMTF in 2020
-* [Using Clomid to get a sperm sample](https://www.reddit.com/r/DrWillPowers/comments/ejt08g/using_clomid_to_get_a_sperm_sample/) by  agdistis2018 around 2019
+* [Exactly how effective is clomid?<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/jtl582/exactly_how_effective_is_clomid/) by scientificmethodist in 2020
+* [Clomid/Clomiphene is Amazing to become fertile again!<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/jg1snw/clomidclomiphene_is_amazing_to_become_fertile/) by 36QuestioningMTF in 2020
+* [Using Clomid to get a sperm sample<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/ejt08g/using_clomid_to_get_a_sperm_sample/) by  agdistis2018 around 2019
 
 YouTube
 
@@ -1395,13 +1395,13 @@ WPATH 8 Standards of Care (2022) say stopping estrogen before surgery is no long
 
 reddit
 
-* [Stopping hormones before surgery and weight loss](https://www.reddit.com/r/Transgender_Surgeries/comments/109izyo/stopping_hormones_before_surgery_and_weight_loss/) by taylort2019 in 2023
-* [WPATH Standards of Care Version 8 published](https://www.reddit.com/r/Transgender_Surgeries/comments/xfanwx/wpath_standards_of_care_version_8_published/) by HiddenStill in 2022
-* reply to [This is what pellet perfection labs look like. SHBG in the dirt despite E2 being locked at 300pg/ml and a free estradiol percentage greater than 2%. This patient got 5x 50mg pellets about 2 months ago. I am seriously loving these things. Still trying to get someone to make me 100mg pellets though.](https://www.reddit.com/r/DrWillPowers/comments/oligvx/this_is_what_pellet_perfection_labs_look_like/h5h8p8r/) by shinyfuture in 2021 - *"It’s only a problem if you want surgery, I had to get mine taken out 3 days before SRS and essentially wasted $200 ... Dr Kamol"*
-* [HRT and GRS](https://www.reddit.com/r/Transgender_Surgeries/comments/o7j5mn/hrt_and_grs/) by RainbowDashieeee in 2021
-* [Reseting HRT for breast growth](https://www.reddit.com/r/TransDIY/comments/mc4gjm/reseting_hrt_for_breast_growth/) by 2d4d_data in 2021
-* [Any MTF who chose to undergo bottom surgery, and pause HRT?](https://www.reddit.com/r/asktransgender/comments/f2qj80/any_mtf_who_chose_to_undergo_bottom_surgery_and/) by  maddie-reddit in 2020
-* [HRT GRS](https://www.reddit.com/r/Transgender_Surgeries/comments/f1f8fi/hrt_grs/) by SpaceFluff- in 2020
+* [Stopping hormones before surgery and weight loss<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/109izyo/stopping_hormones_before_surgery_and_weight_loss/) by taylort2019 in 2023
+* [WPATH Standards of Care Version 8 published<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/xfanwx/wpath_standards_of_care_version_8_published/) by HiddenStill in 2022
+* reply to [This is what pellet perfection labs look like. SHBG in the dirt despite E2 being locked at 300pg/ml and a free estradiol percentage greater than 2%. This patient got 5x 50mg pellets about 2 months ago. I am seriously loving these things. Still trying to get someone to make me 100mg pellets though.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/oligvx/this_is_what_pellet_perfection_labs_look_like/h5h8p8r/) by shinyfuture in 2021 - *"It’s only a problem if you want surgery, I had to get mine taken out 3 days before SRS and essentially wasted $200 ... Dr Kamol"*
+* [HRT and GRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/o7j5mn/hrt_and_grs/) by RainbowDashieeee in 2021
+* [Reseting HRT for breast growth<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/mc4gjm/reseting_hrt_for_breast_growth/) by 2d4d_data in 2021
+* [Any MTF who chose to undergo bottom surgery, and pause HRT?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/f2qj80/any_mtf_who_chose_to_undergo_bottom_surgery_and/) by  maddie-reddit in 2020
+* [HRT GRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/f1f8fi/hrt_grs/) by SpaceFluff- in 2020
 
 Other links
 
@@ -1431,10 +1431,10 @@ https://en.wikipedia.org/wiki/Micropenis
 
 reddit
 
-* [I (22F) think bottom surgery gave me PTSD](https://www.reddit.com/r/Transgender_Surgeries/comments/14htotz/i_22f_think_bottom_surgery_gave_me_ptsd/) by ehu_girl in 2023 - *"3 years ago I had surgery with Dr. Bowers and I wasn’t prepared for the complications I had... 3 years later I still have nightmares a few times a week about how it felt having to hammer the dilator in there because of how terrified I was I’d lose depth (and I did but I think most do, I just wasn’t given much to start with bc* ***I started blockers early***). *I also still have a problem with internal hair growth because Bowers had said I didn’t need to get electrolysis beforehand. "*
-* reply to [not enough skin for srs?](https://www.reddit.com/r/Transgender_Surgeries/comments/w9lpmc/not_enough_skin_for_srs/ii0oc7n/) by SRSwithBanksy in 2022 - *"I can vouch for Dr. Bank in this area. I didn't necessarily have a micropenis, but I started hormone blockers at 14 and had a small penis and scrotum. Still ended up with around 7.5 inches of depth and well defined labia minora made from penile skin. From what I can tell, my labia minora are on the smaller side for the Suporn clinic, but much more present than almost any other surgeon."*
-* [Is Dr Marci Bowers transphobic?](https://www.reddit.com/r/Transgender_Surgeries/comments/q3b5vx/is_dr_marci_bowers_transphobic/) by HiddenStill in 2022
-* [Best GRS doctors for the…under-endowed among us?](https://www.reddit.com/r/Transgender_Surgeries/comments/ugh59q/best_grs_doctors_for_theunderendowed_among_us/) by noiselesspatient in 2022
+* [I (22F) think bottom surgery gave me PTSD<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/14htotz/i_22f_think_bottom_surgery_gave_me_ptsd/) by ehu_girl in 2023 - *"3 years ago I had surgery with Dr. Bowers and I wasn’t prepared for the complications I had... 3 years later I still have nightmares a few times a week about how it felt having to hammer the dilator in there because of how terrified I was I’d lose depth (and I did but I think most do, I just wasn’t given much to start with bc* ***I started blockers early***). *I also still have a problem with internal hair growth because Bowers had said I didn’t need to get electrolysis beforehand. "*
+* reply to [not enough skin for srs?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/w9lpmc/not_enough_skin_for_srs/ii0oc7n/) by SRSwithBanksy in 2022 - *"I can vouch for Dr. Bank in this area. I didn't necessarily have a micropenis, but I started hormone blockers at 14 and had a small penis and scrotum. Still ended up with around 7.5 inches of depth and well defined labia minora made from penile skin. From what I can tell, my labia minora are on the smaller side for the Suporn clinic, but much more present than almost any other surgeon."*
+* [Is Dr Marci Bowers transphobic?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/q3b5vx/is_dr_marci_bowers_transphobic/) by HiddenStill in 2022
+* [Best GRS doctors for the…under-endowed among us?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ugh59q/best_grs_doctors_for_theunderendowed_among_us/) by noiselesspatient in 2022
 
 Susans
 
@@ -1454,14 +1454,14 @@ GenderAnalysis
 
 reddit
 
-* [How do you figure out MTF SRS is right for you?](https://www.reddit.com/r/Transgender_Surgeries/comments/kax0lh/how_do_you_figure_out_mtf_srs_is_right_for_you/) by 2Poop2Babiez in 2020
-* [How do you know you want bottom surgery(MTF)](https://www.reddit.com/r/Transgender_Surgeries/comments/jdvl3h/how_do_you_know_you_want_bottom_surgerymtf/) by augustknightfx in 2020
-* [Deciding SRS was right for me](https://www.reddit.com/r/MtF/comments/imd0eq/deciding_srs_was_right_for_me/) by 2d4d_data in 2020
-* [What is the rate of transgender people getting/wanting to get GRS?](https://www.reddit.com/r/asktransgender/comments/hhtq85/what_is_the_rate_of_transgender_people/) by SapphicMystery in 2020
-* [For those who have had bottom surgery but don’t have much dysphoria, if at all](https://www.reddit.com/r/Transgender_Surgeries/comments/gnn5c1/for_those_who_have_had_bottom_surgery_but_dont/) by whathappened2life in 2020
-* [Those who didn't have too much genitial dysphoria, and weren't completely certain that a vaginoplasty was the right thing to do...how do you feel a year or more after?](https://www.reddit.com/r/Transgender_Surgeries/comments/eq3bvm/those_who_didnt_have_too_much_genitial_dysphoria/) by JasmineTG in 2020
-* [Any people here who got surgery even though they were only mildly genital dysphoric? What is your experience post op?](https://www.reddit.com/r/asktransgender/comments/ck7ewr/any_people_here_who_got_surgery_even_though_they/) by shonkshonk in 2019
-* [How did you decide that SRS either was or wasn't right for you?](https://www.reddit.com/r/MtF/comments/9m0q41/how_did_you_decide_that_srs_either_was_or_wasnt/) by Balgruuf_Oh_Balgruuf in 2018
+* [How do you figure out MTF SRS is right for you?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kax0lh/how_do_you_figure_out_mtf_srs_is_right_for_you/) by 2Poop2Babiez in 2020
+* [How do you know you want bottom surgery(MTF)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jdvl3h/how_do_you_know_you_want_bottom_surgerymtf/) by augustknightfx in 2020
+* [Deciding SRS was right for me<sup>R</sup>](https://www.reddit.com/r/MtF/comments/imd0eq/deciding_srs_was_right_for_me/) by 2d4d_data in 2020
+* [What is the rate of transgender people getting/wanting to get GRS?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/hhtq85/what_is_the_rate_of_transgender_people/) by SapphicMystery in 2020
+* [For those who have had bottom surgery but don’t have much dysphoria, if at all<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/gnn5c1/for_those_who_have_had_bottom_surgery_but_dont/) by whathappened2life in 2020
+* [Those who didn't have too much genitial dysphoria, and weren't completely certain that a vaginoplasty was the right thing to do...how do you feel a year or more after?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/eq3bvm/those_who_didnt_have_too_much_genitial_dysphoria/) by JasmineTG in 2020
+* [Any people here who got surgery even though they were only mildly genital dysphoric? What is your experience post op?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/ck7ewr/any_people_here_who_got_surgery_even_though_they/) by shonkshonk in 2019
+* [How did you decide that SRS either was or wasn't right for you?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/9m0q41/how_did_you_decide_that_srs_either_was_or_wasnt/) by Balgruuf_Oh_Balgruuf in 2018
 
 <br />
 
@@ -1471,8 +1471,8 @@ reddit
 
 reddit
 
-* [I cancelled my consult](https://www.reddit.com/r/Transgender_Surgeries/comments/zk3m2f/i_cancelled_my_consult/) by  bottomsurgeryjourney in 2022
-* [So I've Cancelled My Surgery](https://www.reddit.com/r/MtF/comments/aat9mr/so_ive_cancelled_my_surgery/) by aw_shucks_you_got_me in 2018
+* [I cancelled my consult<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/zk3m2f/i_cancelled_my_consult/) by  bottomsurgeryjourney in 2022
+* [So I've Cancelled My Surgery<sup>R</sup>](https://www.reddit.com/r/MtF/comments/aat9mr/so_ive_cancelled_my_surgery/) by aw_shucks_you_got_me in 2018
 
 Susans
 
@@ -1486,9 +1486,9 @@ Susans
 
 reddit
 
-* [I'm Trans, About to Have Surgery, Think Vaginas are Ugly ...](https://www.reddit.com/r/Transgender_Surgeries/comments/jz7wpz/im_trans_about_to_have_surgery_think_vaginas_are/) by LongBeachVero in 2020
-* [Normal to be scared/nervous before SRS?](https://www.reddit.com/r/asktransgender/comments/en5q93/normal_to_be_scarednervous_before_srs/) by polygonalbeing in 2020
-* [How do I get over my fear of SRS and just do it?](https://www.reddit.com/r/Transgender_Surgeries/comments/doa0cc/how_do_i_get_over_my_fear_of_srs_and_just_do_it/) by transthrowaway3343 in 2019
+* [I'm Trans, About to Have Surgery, Think Vaginas are Ugly ...<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jz7wpz/im_trans_about_to_have_surgery_think_vaginas_are/) by LongBeachVero in 2020
+* [Normal to be scared/nervous before SRS?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/en5q93/normal_to_be_scarednervous_before_srs/) by polygonalbeing in 2020
+* [How do I get over my fear of SRS and just do it?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/doa0cc/how_do_i_get_over_my_fear_of_srs_and_just_do_it/) by transthrowaway3343 in 2019
 
 YouTube
 
@@ -1509,11 +1509,11 @@ The Living Experiment
 
 reddit
 
-* [My experience of having SRS while awake - Video](https://www.reddit.com/r/Transgender_Surgeries/comments/g3mn20/my_experience_of_having_srs_while_awake_video/) by hazelrichardson52 in 2020
+* [My experience of having SRS while awake - Video<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/g3mn20/my_experience_of_having_srs_while_awake_video/) by hazelrichardson52 in 2020
 
 YouTube
 
-* [My experience of having SRS while awake - Video](https://www.reddit.com/r/Transgender_Surgeries/comments/g3mn20/my_experience_of_having_srs_while_awake_video/) by  Hazel's Transgender in 2020 - this is reddit's [r/hazelrichardson52](https://www.reddit.com/r/hazelrichardson52)
+* [My experience of having SRS while awake - Video<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/g3mn20/my_experience_of_having_srs_while_awake_video/) by  Hazel's Transgender in 2020 - this is reddit's [r/hazelrichardson52<sup>R</sup>](https://www.reddit.com/r/hazelrichardson52)
 
 <br />
 
@@ -1523,11 +1523,11 @@ YouTube
 
 reddit
 
-* [So what’s the... uhh plan for cleaning after pooping (MTF SRS)?](https://www.reddit.com/r/Transgender_Surgeries/comments/k70v12/so_whats_the_uhh_plan_for_cleaning_after_pooping/) by alexastrid in 2020
-* [Embarrassing question ever! What to do with facial hair during the first few days of post op vaginoplasty (full depth)??](https://www.reddit.com/r/Transgender_Surgeries/comments/k6pjrs/embarrassing_question_ever_what_to_do_with_facial/) by qtips2019 in 2020
-* [Is a hotel stay necessary to recover from SRS (vaginoplasty) before leaving home if I am within 7-8 hours driving distance?](https://www.reddit.com/r/asktransgender/comments/a0rh2n/is_a_hotel_stay_necessary_to_recover_from_srs/) in 2018
-* [Post-op people, what did you do during recovery? What should I plan?](https://www.reddit.com/r/asktransgender/comments/9j2ukv/postop_people_what_did_you_do_during_recovery/) in 2018
-* [Anything you wish you did bring for the big day\(srs\)?](https://www.reddit.com/r/asktransgender/comments/96ij6e/anything_you_wish_you_did_bring_for_the_big_day/) in 2018
+* [So what’s the... uhh plan for cleaning after pooping (MTF SRS)?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/k70v12/so_whats_the_uhh_plan_for_cleaning_after_pooping/) by alexastrid in 2020
+* [Embarrassing question ever! What to do with facial hair during the first few days of post op vaginoplasty (full depth)??<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/k6pjrs/embarrassing_question_ever_what_to_do_with_facial/) by qtips2019 in 2020
+* [Is a hotel stay necessary to recover from SRS (vaginoplasty) before leaving home if I am within 7-8 hours driving distance?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/a0rh2n/is_a_hotel_stay_necessary_to_recover_from_srs/) in 2018
+* [Post-op people, what did you do during recovery? What should I plan?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9j2ukv/postop_people_what_did_you_do_during_recovery/) in 2018
+* [Anything you wish you did bring for the big day\(srs\)?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/96ij6e/anything_you_wish_you_did_bring_for_the_big_day/) in 2018
 
 YouTube
 
@@ -1539,43 +1539,43 @@ YouTube
 
 ## Real Life Experience (RLE)
 
-The [WPATH Standards of Care](https://www.wpath.org/publications/soc) version 7 require (page 106) one year of living in your preferred gender (and HRT) before genital surgery. The one year is known as [RLE](https://en.wikipedia.org/wiki/Real-life_experience_\(transgender\)), or sometimes RLT (Real Life Test) as in you don't get your SRS without passing it. Note that the WPATH SOC is not a legal requirement, surgeons are not required to follow it, and it is open to some interpretation. See the wiki introduction page on [Medical Guidelines](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#medical-guidelines) for more. Note also that version 8 of the WPATH SOC has some updates in related to this.
+The [WPATH Standards of Care](https://www.wpath.org/publications/soc) version 7 require (page 106) one year of living in your preferred gender (and HRT) before genital surgery. The one year is known as [RLE](https://en.wikipedia.org/wiki/Real-life_experience_\(transgender\)), or sometimes RLT (Real Life Test) as in you don't get your SRS without passing it. Note that the WPATH SOC is not a legal requirement, surgeons are not required to follow it, and it is open to some interpretation. See the wiki introduction page on [Medical Guidelines<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#medical-guidelines) for more. Note also that version 8 of the WPATH SOC has some updates in related to this.
 
 Its possible, though rare, to get SRS without even presenting/identifying female or having any intention of socially transitioning. Lots of trans people don't believe this is possible (and some believe it shouldn't be allowed). You must take estrogen or testosterone afer removing the testicles otherwise you'll be at risk of [osteoporosis](https://en.wikipedia.org/wiki/Osteoporosis) (this is very bad) and other problems. As evidence its possible, and with reputable surgeons:
 
 reddit subs
 
-* [r/AMABwGD](https://www.reddit.com/r/AMABwGD) - *"This is a support group for all those AMAB folks out there who suffer from bottom dysphoria, but who also don't want to seek a binary gender transition."*
+* [r/AMABwGD<sup>R</sup>](https://www.reddit.com/r/AMABwGD) - *"This is a support group for all those AMAB folks out there who suffer from bottom dysphoria, but who also don't want to seek a binary gender transition."*
 
 reddit
 
-* [Masc Enby With A New Pussy](https://www.reddit.com/r/manmadepussy/comments/1529pw9/masc_enby_with_a_new_pussy/) by SignificantSport5771 in 2023 - surgeon is Loren Schechter in USA
-    * [Two Weeks Post Op](https://www.reddit.com/r/Transgender_Surgeries/comments/14gh7io/two_weeks_post_op/) by SignificantSport5771 in 2023
-* [I am a Masc NB and had Vaginoplasty with Dr. Meltzer AMA!](https://www.reddit.com/r/AMABwGD/comments/10bx5hk/i_am_a_masc_nb_and_had_vaginoplasty_with_dr/) by segremores in 2023
-* [Penile Inversion surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/mjfg25/penile_inversion_surgery/) by sugarbaby_K in 2021
-* [Is it possible to live as a man but with a man made pussy?](https://www.reddit.com/r/manmadepussy/comments/jtb8qp/is_it_possible_to_live_as_a_man_but_with_a_man/) by cumiko in 2020
-* [Subreddit for people seeking surgery](https://www.reddit.com/r/tucking/comments/khppov/subreddit_for_people_seeking_surgery/) by  AceDragonDaddy in 2020 - annoucning a new (private) sub [r/AMABwGD](https://www.reddit.com/r/AMABwGD) *"This is a support group for all those AMAB folks out there who suffer from bottom dysphoria, without necessarily wanting to go through a binary transition."*
-* reply to [How much does surgeon choice matter? (Mtf vaginoplasty)](https://www.reddit.com/r/Transgender_Surgeries/comments/ixbr9n/how_much_does_surgeon_choice_matter_mtf/g66pll7/) by TronzAnon in 2020
-* [I am a male from birth with penis. But I wanna be male with vagina! What I have to do? Is it normal?](https://www.reddit.com/r/Transgender_Surgeries/comments/gm8c94/i_am_a_male_from_birth_with_penis_but_i_wanna_be/) by MaleWithPussy in 2020
-* [Anyone had GRS but remained androgynous?](https://www.reddit.com/r/asktransgender/comments/f1qs8z/anyone_had_grs_but_remained_androgynous/) by galjer10n in 2020, and
-    * reply to [Is it strange to get MtF surgeries while in boy mode?](https://www.reddit.com/r/Transgender_Surgeries/comments/o4htvf/is_it_strange_to_get_mtf_surgeries_while_in_boy/h2hclpa/) by galjer10n in 2021
-* [9 month update - Dr. Bank @ Suporn Clinic](https://www.reddit.com/r/Transgender_Surgeries/comments/eqvk9c/9_month_update_dr_bank_suporn_clinic/) by InevitableAmbition in 2020 - *"I haven't socially transitioned yet, and feel no particular pressure to."*
-* [Remaining as a male socially after having GCS(vaginoplasty)?](https://www.reddit.com/r/asktransgender/comments/ellrl8/remaining_as_a_male_socially_after_having/) by vsme in 2020
-* [SRS with Dr Suporn PDF 4th Edition](https://www.reddit.com/r/Transgender_Surgeries/comments/e6roo1/srs_with_dr_suporn_pdf_4th_edition/) by Suporn2015SRS in 2019, pages 228 and 240
-* [GRS still in boymode?](https://www.reddit.com/r/MtF/comments/a8i8r9/grs_still_in_boymode/) by allisonmaybe in 2019
-* [Do trans people need to undergo Real Life Experience before getting approved for gender reassignment surgery?](https://www.reddit.com/r/asktransgender/comments/amulpg/do_trans_people_need_to_undergo_real_life/) by MissDramaQueen in 2019
-* Reply to [SRS within a short notice](https://www.reddit.com/r/asktransgender/comments/8fwyva/srs_within_a_short_notice/dy7kogk/?context=1) by ArielBartlett in 2018
-* [Which lockers do I use? (It's complicated)](https://www.reddit.com/r/MtF/comments/8vei9y/which_lockers_do_i_use_its_complicated/) by kiwiis in 2018
-* reply to [I regret GCS but not social transition. Can I get a meta?](https://www.reddit.com/r/Transgender_Surgeries/comments/9ddv7m/i_regret_gcs_but_not_social_transition_can_i_get/e66tta2/) in 2018
-* [I am recovering from a non-standard vaginoplasty: I kept my penis. Ask me a couple things. (Serious, NSFW)](https://www.reddit.com/r/asktransgender/comments/9csb92/i_am_recovering_from_a_nonstandard_vaginoplasty_i/e5d0f9y/) by Androgynoplasty in 2018
-* reply to [Did you get/Do you want SRS for yourself, or did you get it/do you want it because you don't want to be harrassed in locker rooms, at swimming pools, in dating, etc?](https://www.reddit.com/r/MtF/comments/9dnfhv/did_you_getdo_you_want_srs_for_yourself_or_did/e5jejf2/) by Aprze in 2018, and reply to [Is it transphobic if you can't see person as their preferred gender, despite respecting their pronouns and more?](https://www.reddit.com/r/asktransgender/comments/h0h0mi/is_it_transphobic_if_you_cant_see_person_as_their/ftn156w/) in 2020
-* [Well I guess it is set. Anyone else in Chonburi mid April - June 2019?](https://www.reddit.com/r/asktransgender/comments/98jb1y/well_i_guess_it_is_set_anyone_else_in_chonburi/) by InevitableAmbition in 2018
-* reply to [SRS without social transition?](https://www.reddit.com/r/asktransgender/comments/860lmh/srs_without_social_transition/dw1icu6/) in 2018
-* [SRS without changing gender](https://www.reddit.com/r/asktransgender/comments/5j05kw/srs_without_changing_gender/dbcfdjs/) around 2017
-* reply to [Any experience with Dr. Paul Daverio (SRS MtF) ?](https://www.reddit.com/r/asktransgender/comments/6qhjjv/any_experience_with_dr_paul_daverio_srs_mtf/dky7l2c/) by LadyDuckloves
+* [Masc Enby With A New Pussy<sup>R</sup>](https://www.reddit.com/r/manmadepussy/comments/1529pw9/masc_enby_with_a_new_pussy/) by SignificantSport5771 in 2023 - surgeon is Loren Schechter in USA
+    * [Two Weeks Post Op<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/14gh7io/two_weeks_post_op/) by SignificantSport5771 in 2023
+* [I am a Masc NB and had Vaginoplasty with Dr. Meltzer AMA!<sup>R</sup>](https://www.reddit.com/r/AMABwGD/comments/10bx5hk/i_am_a_masc_nb_and_had_vaginoplasty_with_dr/) by segremores in 2023
+* [Penile Inversion surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/mjfg25/penile_inversion_surgery/) by sugarbaby_K in 2021
+* [Is it possible to live as a man but with a man made pussy?<sup>R</sup>](https://www.reddit.com/r/manmadepussy/comments/jtb8qp/is_it_possible_to_live_as_a_man_but_with_a_man/) by cumiko in 2020
+* [Subreddit for people seeking surgery<sup>R</sup>](https://www.reddit.com/r/tucking/comments/khppov/subreddit_for_people_seeking_surgery/) by  AceDragonDaddy in 2020 - annoucning a new (private) sub [r/AMABwGD<sup>R</sup>](https://www.reddit.com/r/AMABwGD) *"This is a support group for all those AMAB folks out there who suffer from bottom dysphoria, without necessarily wanting to go through a binary transition."*
+* reply to [How much does surgeon choice matter? (Mtf vaginoplasty)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ixbr9n/how_much_does_surgeon_choice_matter_mtf/g66pll7/) by TronzAnon in 2020
+* [I am a male from birth with penis. But I wanna be male with vagina! What I have to do? Is it normal?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/gm8c94/i_am_a_male_from_birth_with_penis_but_i_wanna_be/) by MaleWithPussy in 2020
+* [Anyone had GRS but remained androgynous?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/f1qs8z/anyone_had_grs_but_remained_androgynous/) by galjer10n in 2020, and
+    * reply to [Is it strange to get MtF surgeries while in boy mode?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/o4htvf/is_it_strange_to_get_mtf_surgeries_while_in_boy/h2hclpa/) by galjer10n in 2021
+* [9 month update - Dr. Bank @ Suporn Clinic<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/eqvk9c/9_month_update_dr_bank_suporn_clinic/) by InevitableAmbition in 2020 - *"I haven't socially transitioned yet, and feel no particular pressure to."*
+* [Remaining as a male socially after having GCS(vaginoplasty)?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/ellrl8/remaining_as_a_male_socially_after_having/) by vsme in 2020
+* [SRS with Dr Suporn PDF 4th Edition<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/e6roo1/srs_with_dr_suporn_pdf_4th_edition/) by Suporn2015SRS in 2019, pages 228 and 240
+* [GRS still in boymode?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/a8i8r9/grs_still_in_boymode/) by allisonmaybe in 2019
+* [Do trans people need to undergo Real Life Experience before getting approved for gender reassignment surgery?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/amulpg/do_trans_people_need_to_undergo_real_life/) by MissDramaQueen in 2019
+* Reply to [SRS within a short notice<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/8fwyva/srs_within_a_short_notice/dy7kogk/?context=1) by ArielBartlett in 2018
+* [Which lockers do I use? (It's complicated)<sup>R</sup>](https://www.reddit.com/r/MtF/comments/8vei9y/which_lockers_do_i_use_its_complicated/) by kiwiis in 2018
+* reply to [I regret GCS but not social transition. Can I get a meta?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/9ddv7m/i_regret_gcs_but_not_social_transition_can_i_get/e66tta2/) in 2018
+* [I am recovering from a non-standard vaginoplasty: I kept my penis. Ask me a couple things. (Serious, NSFW)<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9csb92/i_am_recovering_from_a_nonstandard_vaginoplasty_i/e5d0f9y/) by Androgynoplasty in 2018
+* reply to [Did you get/Do you want SRS for yourself, or did you get it/do you want it because you don't want to be harrassed in locker rooms, at swimming pools, in dating, etc?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/9dnfhv/did_you_getdo_you_want_srs_for_yourself_or_did/e5jejf2/) by Aprze in 2018, and reply to [Is it transphobic if you can't see person as their preferred gender, despite respecting their pronouns and more?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/h0h0mi/is_it_transphobic_if_you_cant_see_person_as_their/ftn156w/) in 2020
+* [Well I guess it is set. Anyone else in Chonburi mid April - June 2019?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/98jb1y/well_i_guess_it_is_set_anyone_else_in_chonburi/) by InevitableAmbition in 2018
+* reply to [SRS without social transition?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/860lmh/srs_without_social_transition/dw1icu6/) in 2018
+* [SRS without changing gender<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/5j05kw/srs_without_changing_gender/dbcfdjs/) around 2017
+* reply to [Any experience with Dr. Paul Daverio (SRS MtF) ?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/6qhjjv/any_experience_with_dr_paul_daverio_srs_mtf/dky7l2c/) by LadyDuckloves
  in 2017
-* [Has anyone else thought to just medically transition to get their body more feminine but not socially transition?](https://www.reddit.com/r/asktransgender/comments/3y0dni/has_anyone_else_thought_to_just_medically/cy9efyf/) around 2016
-* [I just had SRS and I'm in shock](https://www.reddit.com/r/asktransgender/comments/45a9ub/i_just_had_srs_and_im_in_shock/) around 2016. This post is mostly deleted, but its about a male having SRS with Brassard. To quote a short piece *"This guy I'm talking about was about 60 years old, plain white guy ... He was literally your stereotypical overweight trucker, full beard"*
+* [Has anyone else thought to just medically transition to get their body more feminine but not socially transition?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/3y0dni/has_anyone_else_thought_to_just_medically/cy9efyf/) around 2016
+* [I just had SRS and I'm in shock<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/45a9ub/i_just_had_srs_and_im_in_shock/) around 2016. This post is mostly deleted, but its about a male having SRS with Brassard. To quote a short piece *"This guy I'm talking about was about 60 years old, plain white guy ... He was literally your stereotypical overweight trucker, full beard"*
 
 Susans
 
@@ -1625,14 +1625,14 @@ https://www.gendergp.com/help-centre/surgery-referral
 
 reddit
 
-* [Awful experience with GenderGP SRS Referral Letters](https://www.reddit.com/r/Transgender_Surgeries/comments/13xxv5l/awful_experience_with_gendergp_srs_referral/) by Charliethespy in 2023
-* [(UK) SRS surgery letter rejected by Dr Bank. Written by GenderGP, what are my alternatives to getting another letter?](https://www.reddit.com/r/Transgender_Surgeries/comments/126mlr6/uk_srs_surgery_letter_rejected_by_dr_bank_written/) by Trippyyy1 in 2023
-* [Has anyone used plume to get a letter for surgery?](https://www.reddit.com/r/Transgender_Surgeries/comments/t92dwh/has_anyone_used_plume_to_get_a_letter_for_surgery/) by azure_agony - *"I did and it was very easy. I recommend them for sure."*
-* [Therapist Letters - I had great luck with this website: www.thegalap.org.](https://www.reddit.com/r/Transgender_Surgeries/comments/rucots/therapist_letters_i_had_great_luck_with_this/) by floridaeunuch in 2022
+* [Awful experience with GenderGP SRS Referral Letters<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/13xxv5l/awful_experience_with_gendergp_srs_referral/) by Charliethespy in 2023
+* [(UK) SRS surgery letter rejected by Dr Bank. Written by GenderGP, what are my alternatives to getting another letter?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/126mlr6/uk_srs_surgery_letter_rejected_by_dr_bank_written/) by Trippyyy1 in 2023
+* [Has anyone used plume to get a letter for surgery?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/t92dwh/has_anyone_used_plume_to_get_a_letter_for_surgery/) by azure_agony - *"I did and it was very easy. I recommend them for sure."*
+* [Therapist Letters - I had great luck with this website: www.thegalap.org.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rucots/therapist_letters_i_had_great_luck_with_this/) by floridaeunuch in 2022
 
 I had to put this somewhere - this is a post by cis-women with [MKRH](https://en.wikipedia.org/wiki/M%C3%BCllerian_agenesis) talking about her experience, and its something many of us can relate to.
 
-* [Some struggles of being a women without a vagina or uterus](https://www.reddit.com/r/TwoXChromosomes/comments/hgktvi/some_struggles_of_being_a_women_without_a_vagina/) by hi-its-a-throw-away in 2020
+* [Some struggles of being a women without a vagina or uterus<sup>R</sup>](https://www.reddit.com/r/TwoXChromosomes/comments/hgktvi/some_struggles_of_being_a_women_without_a_vagina/) by hi-its-a-throw-away in 2020
 
 <br />
 
@@ -1658,13 +1658,13 @@ I've heard of [Graham L Peveller](http://www.gendertherapist.com/) being accepte
 
 reddit
 
-* reply to [SRS surgery referrals for Suporn clinic](https://www.reddit.com/r/transnord/comments/16f3gpu/srs_surgery_referrals_for_suporn_clinic/jzzgujw/) by MooshroomMagic69 in 2023 - *"I found Dr.Graham Peveller. He charges 260 USD for providing you a referral letter... I must say that Dr.Peveller's services have not met my expectations. Communication outside of the chat service has been slow, vague and infrequent... Since Peveller does not hold any degree related to psychology, he does not meet the WPATH criteria of being a licensed psychologist signee. Therefore, the letter must be endorsed by a second psychiatrist in-house at the clinic before surgery. The fee for this meeting is 2,000 THB. This will "upgrade" the referral to be WPATH compliant... I'd no longer recommend against using Dr.Graham Peveller's services. It is, however, important for me to inform anyone interested to lower your expectations of Peveller's communicative abilities. He suffered from a major injury, and probably has some ways to go with recovery. For those with >3 months time remaining, I'd shoot him an email well in advance."*
-* reply to [What is the pathway to GRS? (MTF)](https://www.reddit.com/r/transgenderau/comments/onzxah/what_is_the_pathway_to_grs_mtf/h5ypzhw/) by Tharivol616 in 2021 - using Dr Graham L Peveller for PAI in Thailand
-* [List with online gender therapists](https://www.reddit.com/r/Transgender_Surgeries/comments/j4fuvj/list_with_online_gender_therapists/) by Laura__333 in 2020
-* [How to find a PhD or MD psychiatrist for a letter](https://www.reddit.com/r/Transgender_Surgeries/comments/i4dns2/how_to_find_a_phd_or_md_psychiatrist_for_a_letter/) by MeZooey in 2020
-* reply to [My insurance requires me to be "living as another gender" for a year before they'll sign off on something, what does that mean and what documentation is necessary?](https://www.reddit.com/r/Transgender_Surgeries/comments/efgjri/my_insurance_requires_me_to_be_living_as_another/fc9ed3c/) in 2019
-* reply to [Is it possible to have srs when you diy?](https://www.reddit.com/r/TransDIY/comments/b7qbi8/is_it_possible_to_have_srs_when_you_diy/ejtpzob/) by liszasthrowaway in 2019, for SRS with [Sutin in Thailand](https://www.reddit.com/r/asktransgender/comments/b3tg71/necrosis_following_gcs_in_thailand_what_was_your/ej2hhtk/). Also see [Proof letter for srs in Thailand?](https://www.reddit.com/r/transgenderUK/comments/b747tm/proof_letter_for_srs_in_thailand/ejq1cvk/)
-* [My SRS experience with Dr. Chettawut (Oct 2017)](https://www.reddit.com/r/asktransgender/comments/7fwk3b/my_srs_experience_with_dr_chettawut_oct_2017/) by finallybeing in 2017, reccomends psychs [Shawn McGill](http://shawnmcgillmsw.com/) and [Dr Lori Becker](https://www.psychologytoday.com/us/therapists/dr-lori-becker-clayton-mo/342569).
+* reply to [SRS surgery referrals for Suporn clinic<sup>R</sup>](https://www.reddit.com/r/transnord/comments/16f3gpu/srs_surgery_referrals_for_suporn_clinic/jzzgujw/) by MooshroomMagic69 in 2023 - *"I found Dr.Graham Peveller. He charges 260 USD for providing you a referral letter... I must say that Dr.Peveller's services have not met my expectations. Communication outside of the chat service has been slow, vague and infrequent... Since Peveller does not hold any degree related to psychology, he does not meet the WPATH criteria of being a licensed psychologist signee. Therefore, the letter must be endorsed by a second psychiatrist in-house at the clinic before surgery. The fee for this meeting is 2,000 THB. This will "upgrade" the referral to be WPATH compliant... I'd no longer recommend against using Dr.Graham Peveller's services. It is, however, important for me to inform anyone interested to lower your expectations of Peveller's communicative abilities. He suffered from a major injury, and probably has some ways to go with recovery. For those with >3 months time remaining, I'd shoot him an email well in advance."*
+* reply to [What is the pathway to GRS? (MTF)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/onzxah/what_is_the_pathway_to_grs_mtf/h5ypzhw/) by Tharivol616 in 2021 - using Dr Graham L Peveller for PAI in Thailand
+* [List with online gender therapists<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/j4fuvj/list_with_online_gender_therapists/) by Laura__333 in 2020
+* [How to find a PhD or MD psychiatrist for a letter<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i4dns2/how_to_find_a_phd_or_md_psychiatrist_for_a_letter/) by MeZooey in 2020
+* reply to [My insurance requires me to be "living as another gender" for a year before they'll sign off on something, what does that mean and what documentation is necessary?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/efgjri/my_insurance_requires_me_to_be_living_as_another/fc9ed3c/) in 2019
+* reply to [Is it possible to have srs when you diy?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/b7qbi8/is_it_possible_to_have_srs_when_you_diy/ejtpzob/) by liszasthrowaway in 2019, for SRS with [Sutin in Thailand<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/b3tg71/necrosis_following_gcs_in_thailand_what_was_your/ej2hhtk/). Also see [Proof letter for srs in Thailand?<sup>R</sup>](https://www.reddit.com/r/transgenderUK/comments/b747tm/proof_letter_for_srs_in_thailand/ejq1cvk/)
+* [My SRS experience with Dr. Chettawut (Oct 2017)<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/7fwk3b/my_srs_experience_with_dr_chettawut_oct_2017/) by finallybeing in 2017, reccomends psychs [Shawn McGill](http://shawnmcgillmsw.com/) and [Dr Lori Becker](https://www.psychologytoday.com/us/therapists/dr-lori-becker-clayton-mo/342569).
 
 Susans
 
@@ -1674,7 +1674,7 @@ Susans
 Other
 
 * https://thegalap.org/need-a-letter/
-* https://www.genderhealthcenter.org/ - this reddit [comment](https://www.reddit.com/r/Transgender_Surgeries/comments/i4dns2/how_to_find_a_phd_or_md_psychiatrist_for_a_letter/g0hr8vu/) says this site does them super cheap
+* https://www.genderhealthcenter.org/ - this reddit [comment<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i4dns2/how_to_find_a_phd_or_md_psychiatrist_for_a_letter/g0hr8vu/) says this site does them super cheap
 * https://micheleomara.com/letter-of-recommendation-for-hrt-chest-surgery/
 
 <br />
@@ -1683,7 +1683,7 @@ Other
 
 ## Genital Hair Removal
 
-See [https://www.reddit.com/r/TransWiki/wiki/hair-removal](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hair-removal/hair-removal.md)
+See [https://www.reddit.com/r/TransWiki/wiki/hair-removal<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hair-removal/hair-removal.md)
 
 <br />
 
@@ -1693,7 +1693,7 @@ See [https://www.reddit.com/r/TransWiki/wiki/hair-removal](https://github.com/zp
 
 reddit
 
-* [Topical Testosterone for Atrophy Prevention](https://www.reddit.com/r/DrWillPowers/comments/ddg8ww/topical_testosterone_for_atrophy_prevention/) by red_and_teal in 2019
+* [Topical Testosterone for Atrophy Prevention<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/ddg8ww/topical_testosterone_for_atrophy_prevention/) by red_and_teal in 2019
 
 <br />
 
@@ -1701,15 +1701,15 @@ reddit
 
 ## Piercings
 
-See also the [Piercings](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#piercings) section in the introduction page of this wiki.
+See also the [Piercings<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#piercings) section in the introduction page of this wiki.
 
 reddit
 
-* [r/transbodymods](https://www.reddit.com/r/transbodymods)
-* reply to [Would a Prince Albert impact Vaginoplasty?](https://www.reddit.com/r/transbodymods/comments/17mpk3x/would_a_prince_albert_impact_vaginoplasty/k7xbzly/) by FrecklesMcPaws in 2023 - *"I’ve spoken with my partner’s GRS surgeon who’s also one of the most well-known in the US and she assured me for PIV that a PA won’t affect the surgery at all."*
-* [VCH + Fourchette piercings done today - feeling very happy (the GCS was done in 03/2020 by Dr Schaff)](https://www.reddit.com/r/Transgender_Surgeries/comments/rb8h88/vch_fourchette_piercings_done_today_feeling_very/) by sonia_sadhbh in 2021
-* [Will a punctured urethra affect my SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/f4pbpj/will_a_punctured_urethra_affect_my_srs/) by hrt_breaker in 2020 - *"I had a Prince Albert piercing down there and they said it was no big deal and was able just to cut and suture it closed."*
-* [Anyone have ladybits piercings?](https://www.reddit.com/r/MtF/comments/69aust/anyone_have_ladybits_piercings/) by  actuallyaheron in 2017 - this is all pre-op
+* [r/transbodymods<sup>R</sup>](https://www.reddit.com/r/transbodymods)
+* reply to [Would a Prince Albert impact Vaginoplasty?<sup>R</sup>](https://www.reddit.com/r/transbodymods/comments/17mpk3x/would_a_prince_albert_impact_vaginoplasty/k7xbzly/) by FrecklesMcPaws in 2023 - *"I’ve spoken with my partner’s GRS surgeon who’s also one of the most well-known in the US and she assured me for PIV that a PA won’t affect the surgery at all."*
+* [VCH + Fourchette piercings done today - feeling very happy (the GCS was done in 03/2020 by Dr Schaff)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rb8h88/vch_fourchette_piercings_done_today_feeling_very/) by sonia_sadhbh in 2021
+* [Will a punctured urethra affect my SRS?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/f4pbpj/will_a_punctured_urethra_affect_my_srs/) by hrt_breaker in 2020 - *"I had a Prince Albert piercing down there and they said it was no big deal and was able just to cut and suture it closed."*
+* [Anyone have ladybits piercings?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/69aust/anyone_have_ladybits_piercings/) by  actuallyaheron in 2017 - this is all pre-op
 
 <br />
 
@@ -1719,7 +1719,7 @@ reddit
 
 reddit
 
-* [Any recommendations for SRS / GRS surgeons that are experienced with Klinefelter's Syndrome?](https://www.reddit.com/r/asktransgender/comments/9rqwet/any_recommendations_for_srs_grs_surgeons_that_are/) by Veravvund in 2018
+* [Any recommendations for SRS / GRS surgeons that are experienced with Klinefelter's Syndrome?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9rqwet/any_recommendations_for_srs_grs_surgeons_that_are/) by Veravvund in 2018
 
 Susans
 
@@ -1735,11 +1735,11 @@ There may be some advantage to having more scrotal skin rather than less.
 
 reddit
 
-* [MTF SRS: learning, deciding, and everything before the actual surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/o1x9nn/mtf_srs_learning_deciding_and_everything_before/) by 2d4d_data in 2021 - *"Within 6 months of starting HRT my testicles were a fraction of the size they were before. In the years since without the constant weight and size my scrotal skin has shrunk. I have heard a few surgeons talking about stretching the skin before surgery. When this skin is used to construct the end of the vagina having more isn't a bad thing."*
+* [MTF SRS: learning, deciding, and everything before the actual surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/o1x9nn/mtf_srs_learning_deciding_and_everything_before/) by 2d4d_data in 2021 - *"Within 6 months of starting HRT my testicles were a fraction of the size they were before. In the years since without the constant weight and size my scrotal skin has shrunk. I have heard a few surgeons talking about stretching the skin before surgery. When this skin is used to construct the end of the vagina having more isn't a bad thing."*
 
 reddit subs
 
-* [r/BallStretching](https://www.reddit.com/r/BallStretching)
+* [r/BallStretching<sup>R</sup>](https://www.reddit.com/r/BallStretching)
 
 Jarod Johansen's Ball Stretching Guide
 
@@ -1771,7 +1771,7 @@ Papers
 
 reddit
 
-* [Acid Reflux and ppt/ppv vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/ugfyfx/acid_reflux_and_pptppv_vaginoplasty/) by Hypermug in 2022
+* [Acid Reflux and ppt/ppv vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ugfyfx/acid_reflux_and_pptppv_vaginoplasty/) by Hypermug in 2022
 
 <br />
 
@@ -1781,8 +1781,8 @@ reddit
 
 reddit
 
-* [Could regular anal ruin chances at depth during srs?](https://www.reddit.com/r/Transgender_Surgeries/comments/iog32k/could_regular_anal_ruin_chances_at_depth_during/) by Charlotte_Star in 2020
-* [Unsuccessful surgery by Chettawut](https://www.reddit.com/r/Transgender_Surgeries/comments/cegbvc/unsuccessful_surgery_by_chettawut/) by Wife_UK in 2019, also see related post [Let's discuss complications from anal](https://www.reddit.com/r/Transgender_Surgeries/comments/cf0aw6/lets_discuss_complications_from_anal/) by tiltedtwilight the next day.
+* [Could regular anal ruin chances at depth during srs?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/iog32k/could_regular_anal_ruin_chances_at_depth_during/) by Charlotte_Star in 2020
+* [Unsuccessful surgery by Chettawut<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/cegbvc/unsuccessful_surgery_by_chettawut/) by Wife_UK in 2019, also see related post [Let's discuss complications from anal<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/cf0aw6/lets_discuss_complications_from_anal/) by tiltedtwilight the next day.
 
 <br />
 
@@ -1792,7 +1792,7 @@ reddit
 
 Move to a separate page
 
-[https://www.reddit.com/r/TransWiki/wiki/weight-loss](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/weigh-loss/weight-loss.md)
+[https://www.reddit.com/r/TransWiki/wiki/weight-loss<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/weigh-loss/weight-loss.md)
 
 <br />
 
@@ -1804,7 +1804,7 @@ https://en.wikipedia.org/wiki/Coeliac_disease - *"Coeliac disease (celiac diseas
 
 reddit
 
-* reply to [Question about SRS + crohn's disease](https://www.reddit.com/r/Transgender_Surgeries/comments/uqqkxp/question_about_srs_crohns_disease/i8ubq7i/) by Year_2038_Problem in 2022 - *"I have Celiac, so my surgeon (Dr Mcginn) screened for Chronn's just to be safe. She said it wouldn't prevent me from getting the surgery, but she'd need to take precautions if I had it."*
+* reply to [Question about SRS + crohn's disease<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/uqqkxp/question_about_srs_crohns_disease/i8ubq7i/) by Year_2038_Problem in 2022 - *"I have Celiac, so my surgeon (Dr Mcginn) screened for Chronn's just to be safe. She said it wouldn't prevent me from getting the surgery, but she'd need to take precautions if I had it."*
 
 Careful with lubes, Dangerous Lilly in [The Big Lube Guide](http://dangerouslilly.com/lube-guide/) warns against lubes containing Vitamin E and Oat Beta Glucan for Celiacs and those with extreme gluten-sensitivity.
 
@@ -1818,12 +1818,12 @@ https://en.wikipedia.org/wiki/Crohn%27s_disease - *"Crohn's disease is a type of
 
 reddit
 
-* reply to [Question about SRS + crohn's disease](https://www.reddit.com/r/Transgender_Surgeries/comments/uqqkxp/question_about_srs_crohns_disease/i8ubq7i/) by Year_2038_Problem in 2022 - *"I have Celiac, so my surgeon (Dr Mcginn) screened for Chronn's just to be safe. She said it wouldn't prevent me from getting the surgery, but she'd need to take precautions if I had it."*
-* reply to [3 Failed Consults: Mt. Sinai, Bluebond-Langner, Boston Medical Center. Help & Support?](https://www.reddit.com/r/Transgender_Surgeries/comments/q5i44z/3_failed_consults_mt_sinai_bluebondlangner_boston/hg9ihn6/) by MyNewTransAccount in 2021
-* [(mtf srs) I made a mistake, could have had 6" depth, asked for 5"](https://www.reddit.com/r/Transgender_Surgeries/comments/ixnlv9/mtf_srs_i_made_a_mistake_could_have_had_6_depth/) by tharjaa in 2020
-    * [Had srs with Suporn. A lot of issues and concerns, revisions needed?](https://www.reddit.com/r/Transgender_Surgeries/comments/figkje/had_srs_with_suporn_a_lot_of_issues_and_concerns/) by tharjaa in 2020
+* reply to [Question about SRS + crohn's disease<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/uqqkxp/question_about_srs_crohns_disease/i8ubq7i/) by Year_2038_Problem in 2022 - *"I have Celiac, so my surgeon (Dr Mcginn) screened for Chronn's just to be safe. She said it wouldn't prevent me from getting the surgery, but she'd need to take precautions if I had it."*
+* reply to [3 Failed Consults: Mt. Sinai, Bluebond-Langner, Boston Medical Center. Help & Support?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/q5i44z/3_failed_consults_mt_sinai_bluebondlangner_boston/hg9ihn6/) by MyNewTransAccount in 2021
+* [(mtf srs) I made a mistake, could have had 6" depth, asked for 5"<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ixnlv9/mtf_srs_i_made_a_mistake_could_have_had_6_depth/) by tharjaa in 2020
+    * [Had srs with Suporn. A lot of issues and concerns, revisions needed?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/figkje/had_srs_with_suporn_a_lot_of_issues_and_concerns/) by tharjaa in 2020
 
-[r/CrohnsDisease](https://www.reddit.com/r/CrohnsDisease)
+[r/CrohnsDisease<sup>R</sup>](https://www.reddit.com/r/CrohnsDisease)
 
 <br />
 
@@ -1847,40 +1847,40 @@ Also known as EDS.
 
 Resources
 
-* [r/ehlersdanlos](https://www.reddit.com/r/ehlersdanlos) - and search the sub for [surgery](https://www.reddit.com/r/ehlersdanlos/search?q=surgery&restrict_sr=on&include_over_18=on&sort=relevance&t=all)
-* [r/Trans_Zebras](https://www.reddit.com/r/Trans_Zebras) - *"A subreddit dedicated to Transgender "Zebras" For those, not in the know, Zebra is a term used to label people with the chronic condition Ehlers Danlos Syndrome."*
+* [r/ehlersdanlos<sup>R</sup>](https://www.reddit.com/r/ehlersdanlos) - and search the sub for [surgery<sup>R</sup>](https://www.reddit.com/r/ehlersdanlos/search?q=surgery&restrict_sr=on&include_over_18=on&sort=relevance&t=all)
+* [r/Trans_Zebras<sup>R</sup>](https://www.reddit.com/r/Trans_Zebras) - *"A subreddit dedicated to Transgender "Zebras" For those, not in the know, Zebra is a term used to label people with the chronic condition Ehlers Danlos Syndrome."*
 * https://en.wikipedia.org/wiki/Ehlers%E2%80%93Danlos_syndromes - Symptoms may include loose joints, joint pain, stretchy skin, and abnormal scar formation.
 * https://www.ehlers-danlos.com
 
 reddit
 
-* [I tried to post this to the Ehlers-Danlos subreddit so that other people could be helped, but unfortunately, the mods there wont allow it. I'll post it here, and perhaps it will make it to those who need to see it and whom it could help. Basically, how I partially reversed my fiancé's EDS.](https://www.reddit.com/r/DrWillPowers/comments/1evepcf/i_tried_to_post_this_to_the_ehlersdanlos/) by Drwillpowers in 2024
-    * [Have Gender Dysphoria? Hypermobile? ADHD or Autism? POTS? IBS? Hashimotos? Give methylated B vitamins a try!](https://www.reddit.com/r/DrWillPowers/comments/12g4rop/have_gender_dysphoria_hypermobile_adhd_or_autism/) by Drwillpowers in 2023
-    * [I've been speaking to other doctors who have noticed what i've noticed, and I think "The Nonad of Trans" is the same condition as some other things I link in this thread.](https://www.reddit.com/r/DrWillPowers/comments/y30ubw/ive_been_speaking_to_other_doctors_who_have/) by Drwillpowers in 2022
-    * [The Nonad of Trans? I continue to see more associated conditions with both MTF and FTM transgender people at rates far beyond what is plausible to be due to chance. Please help me out with this.](https://www.reddit.com/r/DrWillPowers/comments/wybnef/the_nonad_of_trans_i_continue_to_see_more/) by Drwillpowers in 2022
-    * [I might have just figured out the genetic basis for my "Tetrad of Trans" disorder and my hands are shaking and I need some help from people who are experts in genetics.](https://www.reddit.com/r/DrWillPowers/comments/tfti58/i_might_have_just_figured_out_the_genetic_basis/) by Drwillpowers in 2022
-    * [There is a statistically anomalous amount of Ehler's Danlos Syndrome / Hypermobility Spectrum Disorder in my MTF community. I literally can't ignore it anymore.](https://www.reddit.com/r/DrWillPowers/comments/mmbg3t/there_is_a_statistically_anomalous_amount_of/) by  Drwillpowers in 2021 - not surgery related, but interesting
-* [worried about labiaplasty 5 days post op](https://www.reddit.com/r/Transgender_Surgeries/comments/11cx6n3/worried_about_labiaplasty_5_days_post_op/) by Kara_Fox in 2023
-* [Gender dysphoria in adolescents with Ehlers–Danlos syndrome](https://www.reddit.com/r/ehlersdanlos/comments/112c2xr/gender_dysphoria_in_adolescents_with_ehlersdanlos/) by fanciestVeggie in 2023 - references [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9806399/)
-* [Does anyone know any US (north-east) GI specialists with competency for patients with EDS?](https://www.reddit.com/r/DrWillPowers/comments/11yoix3/does_anyone_know_any_us_northeast_gi_specialists/) by pxumr1rj in 2023
-* [EDS & Transgender surgery](https://www.reddit.com/r/ehlersdanlos/comments/10oipkc/eds_transgender_surgery/) by MalibuPuppy in 2023, also see cross post [here](https://www.reddit.com/r/Transgender_Surgeries/comments/10p68z0/hehlers_danlos_eds_transgender_surgery_crosspost/).
-* [Ehlers Danlos Syndrome - medical literature vs medical culture vs patient culture](https://www.reddit.com/r/medicine/comments/yerdlb/ehlers_danlos_syndrome_medical_literature_vs/) in 2022 - don't post here without reading the rules of the sub as its for medical professionals and you may get banned
-* [EDS and vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/ugek8d/eds_and_vaginoplasty/) by  MehToFemale in 2022 - surgeon Dr Burke at ECMC - *"I have mild EDS classic type and had vaginoplasty about a year ago with Dr Burke at ECMC. I had massive swelling, apparently the most they'd seen, and a fair amount of dehissence (sutures popping). Because of this I have a fair amount of scar tissue around my vaginal opening which I'm trying to break up through dilating, it's been slow going. They tried to remove some scar tissue/open up the vaginal opening when I had a revision, but it mostly dehissed and scarred in again."*
-* [Dr. Ley 6 months post op labiaplasty revision with EDS tissue](https://www.reddit.com/r/Transgender_Surgeries/comments/ukj8di/dr_ley_6_months_post_op_labiaplasty_revision_with/) by Throwsawayfortacos in 2022
-    * [3 Years post op with Dr Ley, the journey of wound dehiscence, Ehlers-Danlos and acceptance](https://www.reddit.com/r/Transgender_Surgeries/comments/drv16a/3_years_post_op_with_dr_ley_the_journey_of_wound/) by Throwsawayfortacos in 2019
-    * [Dr. Ley, 8 weeks post op, stage 2 recovery pics](https://www.reddit.com/r/Transgender_Surgeries/comments/hoz50c/dr_ley_8_weeks_post_op_stage_2_recovery_pics/) by Throwsawayfortacos in 2020
-    * [3 Years post op with Dr Ley, the journey of wound dehiscence, Ehlers-Danlos and acceptance](https://www.reddit.com/r/Transgender_Surgeries/comments/drv16a/3_years_post_op_with_dr_ley_the_journey_of_wound/) by Throwsawayfortacos in 2019
-    * [NSFW Post op 6.5 months, final update](https://www.reddit.com/r/MtF/comments/6f8k63/nsfw_post_op_65_months_final_update/) by Throwsawayfortacos around 2017, photo's [here](http://imgur.com/0WGApXZ) and [here](https://imgur.com/a/d33Dz).
-* [EDS experts talking about hormones and EDS on their Instagram stories today!!](https://www.reddit.com/r/ehlersdanlos/comments/tnvvgt/eds_experts_talking_about_hormones_and_eds_on/) by  Different-Eagle-612 in 2022 - not surgery
-* [Just wanted to say thank you!](https://www.reddit.com/r/DrWillPowers/comments/sh7a4o/just_wanted_to_say_thank_you/) by yorkpeaches in 2022 - some of Dr Powers comments are about EDS - *"At a side note, I'm pretty sure I have discovered some sort of genetic syndrome that I'm calling informally for now "the tetrad of trans". Autism, gender dysphoria, hypermobile joints, adhd. I have so many people in my practice that have all four of these simultaneously that it defies any denying it anymore. I can't ignore it. I look forward to further affordable whole genome sequencing so that we can start to sort out which genes are responsible for this."*
-* reply to [I’m in the ER with an enormous Bartholin cyst, and I’m terrified that they’re not going to listen to me when I say local anesthetics don’t work for me.](https://www.reddit.com/r/TwoXChromosomes/comments/s5qyse/im_in_the_er_with_an_enormous_bartholin_cyst_and/ht0i6ng/) in 2022 - *"... before I was diagnosed and learned about this issue, I had two dentists yell at me on separate occasions that there was "no way I could still feel them drilling." Now I always bring in literature about it from an EDS organization when I need dental work, and fillings have been painless ever since. Personally I need 2 to 3 times the typical dosage for effectiveness at the dentist."*
-* [HRT made my Ehlers Danlos / HSD much worse - anyone have similar experiences? Did anything work?](https://www.reddit.com/r/DrWillPowers/comments/q23et1/hrt_made_my_ehlers_danlos_hsd_much_worse_anyone/) by GarfSaysTransRights in 2021 - not surgery related
-* [Do any FTM’s who have had top surgery also have ehlers-danlos or Marfans syndrome?](https://www.reddit.com/r/transgenderUK/comments/j1go7f/do_any_ftms_who_have_had_top_surgery_also_have/) by cassowarybrain - this is FTM top surgery
-* [SRS and Ehlers-Danlos Syndrome](https://www.reddit.com/r/Transgender_Surgeries/comments/i690po/srs_and_ehlersdanlos_syndrome/) by MadGenderScientist in 2020
-* [HRT Options for Ehlers Danlos Syndrome](https://www.reddit.com/r/AskMtFHRT/comments/g5tvgv/hrt_options_for_ehlers_danlos_syndrome/) by Mattpilf in 2020 - this is not about surgery
-* [2 years 6 months post op results - Ehlers Danlos Syndrome/connective tissue disorder](https://www.reddit.com/r/ftm/comments/dmx09v/2_years_6_months_post_op_results_ehlers_danlos/) by edsftm around 2020 (this is FTM surgery)
-* [Any other trans zebras on here? I'm curious how EDS has impacted your transition. EDS impacted mine in a bunch of unexpected ways](https://www.reddit.com/r/ehlersdanlos/comments/cuknqg/any_other_trans_zebras_on_here_im_curious_how_eds/) by mhpro90 in 2019
-* [EDS Story of an Aussie trans-girl](https://www.reddit.com/r/ehlersdanlos/comments/90o8l2/eds_story_of_an_aussie_transgirl/) by Fuckmylifuuuu in 2019 - not surgery related
+* [I tried to post this to the Ehlers-Danlos subreddit so that other people could be helped, but unfortunately, the mods there wont allow it. I'll post it here, and perhaps it will make it to those who need to see it and whom it could help. Basically, how I partially reversed my fiancé's EDS.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/1evepcf/i_tried_to_post_this_to_the_ehlersdanlos/) by Drwillpowers in 2024
+    * [Have Gender Dysphoria? Hypermobile? ADHD or Autism? POTS? IBS? Hashimotos? Give methylated B vitamins a try!<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/12g4rop/have_gender_dysphoria_hypermobile_adhd_or_autism/) by Drwillpowers in 2023
+    * [I've been speaking to other doctors who have noticed what i've noticed, and I think "The Nonad of Trans" is the same condition as some other things I link in this thread.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/y30ubw/ive_been_speaking_to_other_doctors_who_have/) by Drwillpowers in 2022
+    * [The Nonad of Trans? I continue to see more associated conditions with both MTF and FTM transgender people at rates far beyond what is plausible to be due to chance. Please help me out with this.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/wybnef/the_nonad_of_trans_i_continue_to_see_more/) by Drwillpowers in 2022
+    * [I might have just figured out the genetic basis for my "Tetrad of Trans" disorder and my hands are shaking and I need some help from people who are experts in genetics.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/tfti58/i_might_have_just_figured_out_the_genetic_basis/) by Drwillpowers in 2022
+    * [There is a statistically anomalous amount of Ehler's Danlos Syndrome / Hypermobility Spectrum Disorder in my MTF community. I literally can't ignore it anymore.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/mmbg3t/there_is_a_statistically_anomalous_amount_of/) by  Drwillpowers in 2021 - not surgery related, but interesting
+* [worried about labiaplasty 5 days post op<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/11cx6n3/worried_about_labiaplasty_5_days_post_op/) by Kara_Fox in 2023
+* [Gender dysphoria in adolescents with Ehlers–Danlos syndrome<sup>R</sup>](https://www.reddit.com/r/ehlersdanlos/comments/112c2xr/gender_dysphoria_in_adolescents_with_ehlersdanlos/) by fanciestVeggie in 2023 - references [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9806399/)
+* [Does anyone know any US (north-east) GI specialists with competency for patients with EDS?<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/11yoix3/does_anyone_know_any_us_northeast_gi_specialists/) by pxumr1rj in 2023
+* [EDS & Transgender surgery<sup>R</sup>](https://www.reddit.com/r/ehlersdanlos/comments/10oipkc/eds_transgender_surgery/) by MalibuPuppy in 2023, also see cross post [here<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10p68z0/hehlers_danlos_eds_transgender_surgery_crosspost/).
+* [Ehlers Danlos Syndrome - medical literature vs medical culture vs patient culture<sup>R</sup>](https://www.reddit.com/r/medicine/comments/yerdlb/ehlers_danlos_syndrome_medical_literature_vs/) in 2022 - don't post here without reading the rules of the sub as its for medical professionals and you may get banned
+* [EDS and vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ugek8d/eds_and_vaginoplasty/) by  MehToFemale in 2022 - surgeon Dr Burke at ECMC - *"I have mild EDS classic type and had vaginoplasty about a year ago with Dr Burke at ECMC. I had massive swelling, apparently the most they'd seen, and a fair amount of dehissence (sutures popping). Because of this I have a fair amount of scar tissue around my vaginal opening which I'm trying to break up through dilating, it's been slow going. They tried to remove some scar tissue/open up the vaginal opening when I had a revision, but it mostly dehissed and scarred in again."*
+* [Dr. Ley 6 months post op labiaplasty revision with EDS tissue<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ukj8di/dr_ley_6_months_post_op_labiaplasty_revision_with/) by Throwsawayfortacos in 2022
+    * [3 Years post op with Dr Ley, the journey of wound dehiscence, Ehlers-Danlos and acceptance<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/drv16a/3_years_post_op_with_dr_ley_the_journey_of_wound/) by Throwsawayfortacos in 2019
+    * [Dr. Ley, 8 weeks post op, stage 2 recovery pics<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hoz50c/dr_ley_8_weeks_post_op_stage_2_recovery_pics/) by Throwsawayfortacos in 2020
+    * [3 Years post op with Dr Ley, the journey of wound dehiscence, Ehlers-Danlos and acceptance<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/drv16a/3_years_post_op_with_dr_ley_the_journey_of_wound/) by Throwsawayfortacos in 2019
+    * [NSFW Post op 6.5 months, final update<sup>R</sup>](https://www.reddit.com/r/MtF/comments/6f8k63/nsfw_post_op_65_months_final_update/) by Throwsawayfortacos around 2017, photo's [here](http://imgur.com/0WGApXZ) and [here](https://imgur.com/a/d33Dz).
+* [EDS experts talking about hormones and EDS on their Instagram stories today!!<sup>R</sup>](https://www.reddit.com/r/ehlersdanlos/comments/tnvvgt/eds_experts_talking_about_hormones_and_eds_on/) by  Different-Eagle-612 in 2022 - not surgery
+* [Just wanted to say thank you!<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/sh7a4o/just_wanted_to_say_thank_you/) by yorkpeaches in 2022 - some of Dr Powers comments are about EDS - *"At a side note, I'm pretty sure I have discovered some sort of genetic syndrome that I'm calling informally for now "the tetrad of trans". Autism, gender dysphoria, hypermobile joints, adhd. I have so many people in my practice that have all four of these simultaneously that it defies any denying it anymore. I can't ignore it. I look forward to further affordable whole genome sequencing so that we can start to sort out which genes are responsible for this."*
+* reply to [I’m in the ER with an enormous Bartholin cyst, and I’m terrified that they’re not going to listen to me when I say local anesthetics don’t work for me.<sup>R</sup>](https://www.reddit.com/r/TwoXChromosomes/comments/s5qyse/im_in_the_er_with_an_enormous_bartholin_cyst_and/ht0i6ng/) in 2022 - *"... before I was diagnosed and learned about this issue, I had two dentists yell at me on separate occasions that there was "no way I could still feel them drilling." Now I always bring in literature about it from an EDS organization when I need dental work, and fillings have been painless ever since. Personally I need 2 to 3 times the typical dosage for effectiveness at the dentist."*
+* [HRT made my Ehlers Danlos / HSD much worse - anyone have similar experiences? Did anything work?<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/q23et1/hrt_made_my_ehlers_danlos_hsd_much_worse_anyone/) by GarfSaysTransRights in 2021 - not surgery related
+* [Do any FTM’s who have had top surgery also have ehlers-danlos or Marfans syndrome?<sup>R</sup>](https://www.reddit.com/r/transgenderUK/comments/j1go7f/do_any_ftms_who_have_had_top_surgery_also_have/) by cassowarybrain - this is FTM top surgery
+* [SRS and Ehlers-Danlos Syndrome<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i690po/srs_and_ehlersdanlos_syndrome/) by MadGenderScientist in 2020
+* [HRT Options for Ehlers Danlos Syndrome<sup>R</sup>](https://www.reddit.com/r/AskMtFHRT/comments/g5tvgv/hrt_options_for_ehlers_danlos_syndrome/) by Mattpilf in 2020 - this is not about surgery
+* [2 years 6 months post op results - Ehlers Danlos Syndrome/connective tissue disorder<sup>R</sup>](https://www.reddit.com/r/ftm/comments/dmx09v/2_years_6_months_post_op_results_ehlers_danlos/) by edsftm around 2020 (this is FTM surgery)
+* [Any other trans zebras on here? I'm curious how EDS has impacted your transition. EDS impacted mine in a bunch of unexpected ways<sup>R</sup>](https://www.reddit.com/r/ehlersdanlos/comments/cuknqg/any_other_trans_zebras_on_here_im_curious_how_eds/) by mhpro90 in 2019
+* [EDS Story of an Aussie trans-girl<sup>R</sup>](https://www.reddit.com/r/ehlersdanlos/comments/90o8l2/eds_story_of_an_aussie_transgirl/) by Fuckmylifuuuu in 2019 - not surgery related
 
 YouTube
 
@@ -1916,8 +1916,8 @@ https://en.wikipedia.org/wiki/Factor_V_Leiden - Blood clotting disorder
 
 reddit
 
-* [I just got my orchiectomy today and i couldn't be happier!](https://www.reddit.com/r/asktransgender/comments/aikf5x/i_just_got_my_orchiectomy_today_and_i_couldnt_be/) by Merp_Derpster in 2019
-* [Had SRS without HRT 3 years ago.](https://www.reddit.com/r/MtF/comments/9oj4oo/had_srs_without_hrt_3_years_ago/) by  GiaInTheMill in 2018 - *"This surgeon performed SRS on me without me being on HRT at that time. "*
+* [I just got my orchiectomy today and i couldn't be happier!<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/aikf5x/i_just_got_my_orchiectomy_today_and_i_couldnt_be/) by Merp_Derpster in 2019
+* [Had SRS without HRT 3 years ago.<sup>R</sup>](https://www.reddit.com/r/MtF/comments/9oj4oo/had_srs_without_hrt_3_years_ago/) by  GiaInTheMill in 2018 - *"This surgeon performed SRS on me without me being on HRT at that time. "*
 
 <br />
 
@@ -1929,9 +1929,9 @@ https://en.wikipedia.org/wiki/Fibromyalgia - *"Fibromyalgia (FM) is a medical co
 
 reddit
 
-* [Dr Sutin has accepted a Fibromyalgia patient](https://www.reddit.com/r/Transgender_Surgeries/comments/12rfrxb/dr_sutin_has_accepted_a_fibromyalgia_patient/) by mysticasha in 2023
-* reply to [How painful is MTF SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/10syxya/how_painful_is_mtf_srs/j77wcic/?context=3) by RedPanda5447 in 2023
-* [Vaginoplasty Recovery and Pain Question](https://www.reddit.com/r/Transgender_Surgeries/comments/wcdkwj/vaginoplasty_recovery_and_pain_question/) by mysticasha in 2022
+* [Dr Sutin has accepted a Fibromyalgia patient<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/12rfrxb/dr_sutin_has_accepted_a_fibromyalgia_patient/) by mysticasha in 2023
+* reply to [How painful is MTF SRS?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10syxya/how_painful_is_mtf_srs/j77wcic/?context=3) by RedPanda5447 in 2023
+* [Vaginoplasty Recovery and Pain Question<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/wcdkwj/vaginoplasty_recovery_and_pain_question/) by mysticasha in 2022
 
 <br />
 
@@ -1947,17 +1947,17 @@ Papers
 
 reddit
 
-* reply to [Question for circumcised and restoring men - Penis pain or discomfort during daily life?](https://www.reddit.com/r/foreskin_restoration/comments/wjhfgv/question_for_circumcised_and_restoring_men_penis/ijhwofk/) by GirlOrNothing in 2022
-* [Do circumcised people have a harder time getting good results?](https://www.reddit.com/r/Transgender_Surgeries/comments/l43ttp/do_circumcised_people_have_a_harder_time_getting/) by Trans_Weed_Leaf in 2021
-* [Circumcision and srs](https://www.reddit.com/r/Transgender_Surgeries/comments/hmxzyj/circumcision_and_srs/) by Unhappy_Movie in 2020
-* [Can I still have MtF bottom surgery if I don't have foreskin?](https://www.reddit.com/r/Transgender_Surgeries/comments/h909bg/can_i_still_have_mtf_bottom_surgery_if_i_dont/) by ZuanshiGamer in 2020
-* [Circumcised transwoman with questions](https://www.reddit.com/r/Transgender_Surgeries/comments/gumhkf/circumcised_transwoman_with_questions/) by snowsoracle in 2020
+* reply to [Question for circumcised and restoring men - Penis pain or discomfort during daily life?<sup>R</sup>](https://www.reddit.com/r/foreskin_restoration/comments/wjhfgv/question_for_circumcised_and_restoring_men_penis/ijhwofk/) by GirlOrNothing in 2022
+* [Do circumcised people have a harder time getting good results?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/l43ttp/do_circumcised_people_have_a_harder_time_getting/) by Trans_Weed_Leaf in 2021
+* [Circumcision and srs<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hmxzyj/circumcision_and_srs/) by Unhappy_Movie in 2020
+* [Can I still have MtF bottom surgery if I don't have foreskin?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/h909bg/can_i_still_have_mtf_bottom_surgery_if_i_dont/) by ZuanshiGamer in 2020
+* [Circumcised transwoman with questions<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/gumhkf/circumcised_transwoman_with_questions/) by snowsoracle in 2020
 
 reddit subs
 
-* [r/foreskin_restoration](https://www.reddit.com/r/foreskin_restoration) and its wiki [r/foreskin_restoration/wiki/index](https://www.reddit.com/r/foreskin_restoration/wiki/index)
-* [r/Foregen](https://www.reddit.com/r/Foregen)
-* [r/restoringdick](https://www.reddit.com/r/restoringdick) - *"Photos of dicks throughout the process of foreskin restoration. The NSFW off-shoot of /r/Foreskin_Restoration"*
+* [r/foreskin_restoration<sup>R</sup>](https://www.reddit.com/r/foreskin_restoration) and its wiki [r/foreskin_restoration/wiki/index<sup>R</sup>](https://www.reddit.com/r/foreskin_restoration/wiki/index)
+* [r/Foregen<sup>R</sup>](https://www.reddit.com/r/Foregen)
+* [r/restoringdick<sup>R</sup>](https://www.reddit.com/r/restoringdick) - *"Photos of dicks throughout the process of foreskin restoration. The NSFW off-shoot of /r/Foreskin_Restoration"*
 
 Other
 
@@ -1971,10 +1971,10 @@ An alternative (and better for SRS) treatment for phimosis is the [Dorsal Slit](
 
 reddit
 
-* reply to [Am I able to go through with mtf surgery if I have phimosis?](https://www.reddit.com/r/Transgender_Surgeries/comments/wtogyj/am_i_able_to_go_through_with_mtf_surgery_if_i/im02umb/) by Cut3LittleBunny in 2022 - *"As someone who got phimosis and now 10 days post SRS. Yeah you can..."*
-* [My foreskin is getting too tight for my penis, not sure what to do. Help me Obi Will Kapowers, you're my only hope.](https://www.reddit.com/r/DrWillPowers/comments/qxzqmj/my_foreskin_is_getting_too_tight_for_my_penis_not/) by The_Jade49 in 2021
-* [Circumcision and it's affects on GCS](https://www.reddit.com/r/Transgender_Surgeries/comments/pbw7y3/circumcision_and_its_affects_on_gcs/haewy0s/) by V_N355 in 2021 - *"I had a procedure called a dorsal slit rather than a circumcision to releive tight foreskin but at same time retain the skin. I'll be having penile inversion in December. I had the consultation couple of weeks back and they were happy to work with this."*
-* [Circumcision and srs](https://www.reddit.com/r/Transgender_Surgeries/comments/hmxzyj/circumcision_and_srs/) by Unhappy_Movie in 2020
+* reply to [Am I able to go through with mtf surgery if I have phimosis?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/wtogyj/am_i_able_to_go_through_with_mtf_surgery_if_i/im02umb/) by Cut3LittleBunny in 2022 - *"As someone who got phimosis and now 10 days post SRS. Yeah you can..."*
+* [My foreskin is getting too tight for my penis, not sure what to do. Help me Obi Will Kapowers, you're my only hope.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/qxzqmj/my_foreskin_is_getting_too_tight_for_my_penis_not/) by The_Jade49 in 2021
+* [Circumcision and it's affects on GCS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pbw7y3/circumcision_and_its_affects_on_gcs/haewy0s/) by V_N355 in 2021 - *"I had a procedure called a dorsal slit rather than a circumcision to releive tight foreskin but at same time retain the skin. I'll be having penile inversion in December. I had the consultation couple of weeks back and they were happy to work with this."*
+* [Circumcision and srs<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hmxzyj/circumcision_and_srs/) by Unhappy_Movie in 2020
 
 Other
 
@@ -1991,7 +1991,7 @@ https://en.wikipedia.org/wiki/Hypospadias - *"Hypospadias is a common variation 
 
 reddit
 
-* [Does a hypospadias repair affect SRS/GCS?](https://www.reddit.com/r/MtF/comments/lt5num/does_a_hypospadias_repair_affect_srsgcs/) by Alice18997 in 2021
+* [Does a hypospadias repair affect SRS/GCS?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/lt5num/does_a_hypospadias_repair_affect_srsgcs/) by Alice18997 in 2021
 
 YouTube
 
@@ -2005,9 +2005,9 @@ YouTube
 
 reddit
 
-* [Question about inguinal hernia repair](https://www.reddit.com/r/Transgender_Surgeries/comments/tvan1i/question_about_inguinal_hernia_repair/) by Charming-Address6973 in 2022
-* [ingurinal hernia impacting GRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/nhlje8/ingurinal_hernia_impacting_grs/) by  Alyrose192 in 2021
-* [inguinal hernia repair](https://www.reddit.com/r/Transgender_Surgeries/comments/mmyk4j/past_inguinal_hernia_repair_and_inguinal/) by falconfan83 in 2021
+* [Question about inguinal hernia repair<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/tvan1i/question_about_inguinal_hernia_repair/) by Charming-Address6973 in 2022
+* [ingurinal hernia impacting GRS?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/nhlje8/ingurinal_hernia_impacting_grs/) by  Alyrose192 in 2021
+* [inguinal hernia repair<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/mmyk4j/past_inguinal_hernia_repair_and_inguinal/) by falconfan83 in 2021
 
 <br />
 
@@ -2017,7 +2017,7 @@ reddit
 
 reddit
 
-* reply to [Are bowel diseases cause for disqualification for MTF GRS/SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/rm3ojf/are_bowel_diseases_cause_for_disqualification_for/hq89byf/?context=3) by sixinthedark in 2021 - *"I have IBS and it wasn’t a problem for me."*
+* reply to [Are bowel diseases cause for disqualification for MTF GRS/SRS?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rm3ojf/are_bowel_diseases_cause_for_disqualification_for/hq89byf/?context=3) by sixinthedark in 2021 - *"I have IBS and it wasn’t a problem for me."*
 
 <br />
 
@@ -2027,7 +2027,7 @@ reddit
 
 reddit
 
-* [Getting ready for SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/kprd0x/getting_ready_for_srs/) by barbie1518 in 2020
+* [Getting ready for SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kprd0x/getting_ready_for_srs/) by barbie1518 in 2020
 
 <br />
 
@@ -2039,7 +2039,7 @@ https://en.wikipedia.org/wiki/Peyronie%27s_disease - *"Peyronie's disease is a c
 
 reddit
 
-* [Anyone if is still possible to have vaginoplasty for someone with Peyronie's](https://www.reddit.com/r/Transgender_Surgeries/comments/zv80yj/anyone_if_is_still_possible_to_have_vaginoplasty/) by browntranswoman94 in 2022
+* [Anyone if is still possible to have vaginoplasty for someone with Peyronie's<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/zv80yj/anyone_if_is_still_possible_to_have_vaginoplasty/) by browntranswoman94 in 2022
 
 <br />
 
@@ -2049,7 +2049,7 @@ reddit
 
 reddit
 
-* [Post-Op Transwoman with complications](https://www.reddit.com/r/Transgender_Surgeries/comments/qsru71/postop_transwoman_with_complications/) by TiffanyRichter in 2021 - *"The surgery didn't take due to several reasons, I had bladder cancer eight years ago and lost my bladder from the disease, their was nothing for the surgeons to attach the colon to except for scar tissue from the cancer surgery performed. The other reason is that I was diagnosed with Marfan Syndrome and so the vaginal tissue stretched too much. I asked my surgeon about skin grafts, but he said that would not work in my case."*
+* [Post-Op Transwoman with complications<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qsru71/postop_transwoman_with_complications/) by TiffanyRichter in 2021 - *"The surgery didn't take due to several reasons, I had bladder cancer eight years ago and lost my bladder from the disease, their was nothing for the surgeons to attach the colon to except for scar tissue from the cancer surgery performed. The other reason is that I was diagnosed with Marfan Syndrome and so the vaginal tissue stretched too much. I asked my surgeon about skin grafts, but he said that would not work in my case."*
 
 YouTube
 
@@ -2065,7 +2065,7 @@ https://en.wikipedia.org/wiki/Prostatectomy - *"Prostatectomy ... as a medical t
 
 reddit
 
-* [Vaginoplasty after prostate removal.](https://www.reddit.com/r/Transgender_Surgeries/comments/wjgidx/vaginoplasty_after_prostate_removal/) by Physical_Clock_2978 in 2022 - a surgeon replied *"I do penile inversion vaginal plasty and I would certainly offer you that technique, but we both would need to understand that the risk of rectal injury, and the risk of total incontinence afterwards, is sky high. After even a well-done radical prostatectomy, the external sphincter is barely holding on for dear life. When you create the vaginal canal, it would dislocate some of its connections of the sphincter to the rectal area, possibly pushing you over into total incontinence. I see it as “doable” but “high risk”."*
+* [Vaginoplasty after prostate removal.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/wjgidx/vaginoplasty_after_prostate_removal/) by Physical_Clock_2978 in 2022 - a surgeon replied *"I do penile inversion vaginal plasty and I would certainly offer you that technique, but we both would need to understand that the risk of rectal injury, and the risk of total incontinence afterwards, is sky high. After even a well-done radical prostatectomy, the external sphincter is barely holding on for dear life. When you create the vaginal canal, it would dislocate some of its connections of the sphincter to the rectal area, possibly pushing you over into total incontinence. I see it as “doable” but “high risk”."*
 
 <br />
 
@@ -2091,7 +2091,7 @@ https://en.wikipedia.org/wiki/Marfan_syndrome - Marfan syndrome (MFS) is a rare 
 
 reddit
 
-* [Post-Op Transwoman with complications](https://www.reddit.com/r/Transgender_Surgeries/comments/qsru71/postop_transwoman_with_complications/) by TiffanyRichter in 2021
+* [Post-Op Transwoman with complications<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qsru71/postop_transwoman_with_complications/) by TiffanyRichter in 2021
 
 <br />
 
@@ -2101,7 +2101,7 @@ reddit
 
 reddit
 
-* [Repost from r/asktransgender - ms and srs](https://www.reddit.com/r/Transgender_Surgeries/comments/gadh4a/repost_from_rasktransgender_ms_and_srs/) by spacegirldream in 2020
+* [Repost from r/asktransgender - ms and srs<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/gadh4a/repost_from_rasktransgender_ms_and_srs/) by spacegirldream in 2020
 
 ### Transurethral Resection of the Prostate
 
@@ -2119,19 +2119,19 @@ Papers
 
 Reddit subs
 
-* [r/Healthyhooha](https://www.reddit.com/r/Healthyhooha) - not trans related, but *"This is a sub for safe, open discussion about the maintenance, habits, questions, and tips related to vaginal and vulvular health."*
+* [r/Healthyhooha<sup>R</sup>](https://www.reddit.com/r/Healthyhooha) - not trans related, but *"This is a sub for safe, open discussion about the maintenance, habits, questions, and tips related to vaginal and vulvular health."*
 
 reddit
 
-* [Why did you need help after SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/lgd2za/why_did_you_need_help_after_srs/) by paige2018 in 2021
+* [Why did you need help after SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lgd2za/why_did_you_need_help_after_srs/) by paige2018 in 2021
 * [How to Survive Gender Confirmation Surgery](https://www.youtube.com/watch?v=62Tl-kLCQPM) by Maya Henry in 2020
-* [MtF surgery: what they don't tell you](https://www.reddit.com/r/asktransgender/comments/bnqfnq/mtf_surgery_what_they_dont_tell_you/) by llliiibbbrrraaa in 2019
-* [Is it true that the clit becomes way more sensitive then the penis head after SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/a1ftdp/is_it_true_that_the_clit_becomes_way_more/) by evie2296 in 2018
-* [SRS PSA - If planning on having SRS or are recovering go buy a donut cushion ive suffered sitting for 8 weeks, this thing is amazing!](https://www.reddit.com/r/transgenderUK/comments/9r0eh3/srs_psa_if_planning_on_having_srs_or_are/) by KKae in 2018, also discusses granulation and douche.
+* [MtF surgery: what they don't tell you<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/bnqfnq/mtf_surgery_what_they_dont_tell_you/) by llliiibbbrrraaa in 2019
+* [Is it true that the clit becomes way more sensitive then the penis head after SRS?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/a1ftdp/is_it_true_that_the_clit_becomes_way_more/) by evie2296 in 2018
+* [SRS PSA - If planning on having SRS or are recovering go buy a donut cushion ive suffered sitting for 8 weeks, this thing is amazing!<sup>R</sup>](https://www.reddit.com/r/transgenderUK/comments/9r0eh3/srs_psa_if_planning_on_having_srs_or_are/) by KKae in 2018, also discusses granulation and douche.
 
 reddit
 
-* [SRS with Dr Suporn PDF 5th Edition](https://www.reddit.com/r/Transgender_Surgeries/comments/fayd3p/srs_with_dr_suporn_pdf_5th_edition/) by Suporn2015SRS in 2020
+* [SRS with Dr Suporn PDF 5th Edition<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/fayd3p/srs_with_dr_suporn_pdf_5th_edition/) by Suporn2015SRS in 2020
 
 YouTube
 
@@ -2149,9 +2149,9 @@ You need to take adaquate estrogen (or testesterone) after surgery to avoid medi
 
 reddit
 
-* [6 months post simple orchiectomy](https://www.reddit.com/r/Transgender_Surgeries/comments/kmabyj/6_months_post_simple_orchiectomy/) by Spawkeye in 2020
-* [HRT Post SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/ja100v/hrt_post_srs/) by LongBeachVero in 2020
-* [DEVASTATED by loss of libido after orchiectomy.](https://www.reddit.com/r/asktransgender/comments/crxmci/devastated_by_loss_of_libido_after_orchiectomy/) by  Nlwile3f in 2019
+* [6 months post simple orchiectomy<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kmabyj/6_months_post_simple_orchiectomy/) by Spawkeye in 2020
+* [HRT Post SRS?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ja100v/hrt_post_srs/) by LongBeachVero in 2020
+* [DEVASTATED by loss of libido after orchiectomy.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/crxmci/devastated_by_loss_of_libido_after_orchiectomy/) by  Nlwile3f in 2019
 
 Susans
 
@@ -2170,7 +2170,7 @@ This is also a problem for some cis-women.
 
 reddit
 
-* [Question for post op McGinn ladies](https://www.reddit.com/r/Transgender_Surgeries/comments/c6mvhq/question_for_post_op_mcginn_ladies/) by garbageanonaccount in 2019
+* [Question for post op McGinn ladies<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/c6mvhq/question_for_post_op_mcginn_ladies/) by garbageanonaccount in 2019
 
 Susans
 
@@ -2187,7 +2187,7 @@ YouTube
 
 Its not common, but the the adrenal glands produce testosterone and after SRS or orchiectomy they can in some cases increase production to compensate for sudden loss.
 
-From a [pdf about SRS with Suporn](https://www.reddit.com/r/asktransgender/comments/7jj0n4/srs_with_dr_suporn_pdf_update_2/)
+From a [pdf about SRS with Suporn<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/7jj0n4/srs_with_dr_suporn_pdf_update_2/)
 
 > The clinic’s ‘Post-Op Care’ book says that in about 10-15% of cases “unwanted male characteristics can return immediately post-operative” as the body attempts to make up for
 the loss of testosterone and that the treatment is anti-androgens “for at least 3 months”. My doctor said much the same and prescribed low dose spironolactone (25mg) to allow my body to adjust. I took it for a few months, and as usual it fixed that problem.
@@ -2200,20 +2200,20 @@ the loss of testosterone and that the treatment is anti-androgens “for at leas
 
 reddit
 
-* [what does living with a vagina mean?](https://www.reddit.com/r/Transgender_Surgeries/comments/za5xnq/what_does_living_with_a_vagina_mean/) by annsophie88 in 2022
-* [How did SRS/GCS help with your dysphoria?](https://www.reddit.com/r/Transgender_Surgeries/comments/yw3j95/how_did_srsgcs_help_with_your_dysphoria/) by alexgaymergirl in 2022
-* [Calm.](https://www.reddit.com/r/Transgender_Surgeries/comments/v0xtqt/calm/) by ignis_probat in 2022
-* [Stupid Srs question.](https://www.reddit.com/r/MtF/comments/j072jn/stupid_srs_question/) by embarrased_to_Ask_42 in 2020
-* [11 Questions for post SRS women. I'm very interested in learning about several aspects. (I am MtF 20YO if it matters.)](https://www.reddit.com/r/Transgender_Surgeries/comments/i29xy8/11_questions_for_post_srs_women_im_very/) by thevirtualgetaway in 2020
-* [Post SRS women, what changes did you notice?](https://www.reddit.com/r/Transgender_Surgeries/comments/i1s5bw/post_srs_women_what_changes_did_you_notice/) by notyourdonut in 2020
-* [trans women who have undergone genital surgery, what was it like? what does it feel like? how was the recovery? is there a possibility of complications? how much did it cost?](https://www.reddit.com/r/asktransgender/comments/ewb8qb/trans_women_who_have_undergone_genital_surgery/) by Smurlef in 2020
+* [what does living with a vagina mean?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/za5xnq/what_does_living_with_a_vagina_mean/) by annsophie88 in 2022
+* [How did SRS/GCS help with your dysphoria?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/yw3j95/how_did_srsgcs_help_with_your_dysphoria/) by alexgaymergirl in 2022
+* [Calm.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/v0xtqt/calm/) by ignis_probat in 2022
+* [Stupid Srs question.<sup>R</sup>](https://www.reddit.com/r/MtF/comments/j072jn/stupid_srs_question/) by embarrased_to_Ask_42 in 2020
+* [11 Questions for post SRS women. I'm very interested in learning about several aspects. (I am MtF 20YO if it matters.)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i29xy8/11_questions_for_post_srs_women_im_very/) by thevirtualgetaway in 2020
+* [Post SRS women, what changes did you notice?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i1s5bw/post_srs_women_what_changes_did_you_notice/) by notyourdonut in 2020
+* [trans women who have undergone genital surgery, what was it like? what does it feel like? how was the recovery? is there a possibility of complications? how much did it cost?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/ewb8qb/trans_women_who_have_undergone_genital_surgery/) by Smurlef in 2020
 * [Gender Reassignment Surgery Pros and Cons](https://www.youtube.com/watch?v=p6bQqvbM63s) by Melody Maia Monet in 2019
-* [What does it feel like after GCS?](https://www.reddit.com/r/Transgender_Surgeries/comments/dqd834/what_does_it_feel_like_after_gcs/) by kspot4 in 2019
-* [Unexpected and Unmarketable Benefits of GRS](https://www.reddit.com/r/asktransgender/comments/beaaci/unexpected_and_unmarketable_benefits_of_grs/) by imp777 in 2019
-* [How long after bottom surgery (MTF) to "feel normal"?](https://www.reddit.com/r/asktransgender/comments/aez091/how_long_after_bottom_surgery_mtf_to_feel_normal/) by AWOL89
+* [What does it feel like after GCS?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dqd834/what_does_it_feel_like_after_gcs/) by kspot4 in 2019
+* [Unexpected and Unmarketable Benefits of GRS<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/beaaci/unexpected_and_unmarketable_benefits_of_grs/) by imp777 in 2019
+* [How long after bottom surgery (MTF) to "feel normal"?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/aez091/how_long_after_bottom_surgery_mtf_to_feel_normal/) by AWOL89
 in 2019
-* [Do neo-vaginas self clean?](https://www.reddit.com/r/asktransgender/comments/a0797z/do_neovaginas_self_clean/) in 2018
-* [Post-Op Experiences: Bad Toilet Paper Is The WORST](https://www.reddit.com/r/MtF/comments/9iquny/postop_experiences_bad_toilet_paper_is_the_worst/) by liv_calvin in 2018
+* [Do neo-vaginas self clean?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/a0797z/do_neovaginas_self_clean/) in 2018
+* [Post-Op Experiences: Bad Toilet Paper Is The WORST<sup>R</sup>](https://www.reddit.com/r/MtF/comments/9iquny/postop_experiences_bad_toilet_paper_is_the_worst/) by liv_calvin in 2018
 
 YouTube
 
@@ -2231,40 +2231,40 @@ YouTube
 
 reddit
 
-* [Suction Vibrators for Post-Op Clits](https://www.reddit.com/r/Transgender_Surgeries/comments/10mka9q/suction_vibrators_for_postop_clits/) by VegVal
+* [Suction Vibrators for Post-Op Clits<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10mka9q/suction_vibrators_for_postop_clits/) by VegVal
 in 2023
-* [Does Vaginal penetrative sex post op feel like anal?](https://www.reddit.com/r/Transgender_Surgeries/comments/wyozuh/does_vaginal_penetrative_sex_post_op_feel_like/) by BxbySxrxh in 2022
-* [\[Guide\] Troubleshooting your sexual experiences post-GRS](https://www.reddit.com/r/MtF/comments/s0upst/guide_troubleshooting_your_sexual_experiences/) by zoe_bletchdel in 2022
-* [Why does it take so long to be able to masturbate after SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/re02sn/why_does_it_take_so_long_to_be_able_to_masturbate/) by Brittnee65 in 2021
-* [How does it feel to be penetrated in your neovagina?](https://www.reddit.com/r/asktransgender/comments/r99i2y/how_does_it_feel_to_be_penetrated_in_your/) by Fun_Park2505 in 2021
-* [Orchiectomy regret?](https://www.reddit.com/r/Transgender_Surgeries/comments/lt1136/orchiectomy_regret/) by CandyappleWinter in 2021
-* [Post Op Vaginal Sex vs Dilation Feeling](https://www.reddit.com/r/Transgender_Surgeries/comments/l82ce8/post_op_vaginal_sex_vs_dilation_feeling/) by LongBeachVero in 2021
-* [Bleeding after post-op sex?](https://www.reddit.com/r/Transgender_Surgeries/comments/l3refw/bleeding_after_postop_sex/) by crose9310 in 2021
-* [How to Orgasm Post-Vaginoplasty?](https://www.reddit.com/r/Transgender_Surgeries/comments/km5553/how_to_orgasm_postvaginoplasty/) by  Estus_Is_Life in 2020
-* [Post Op SRS - Weird problem](https://www.reddit.com/r/Transgender_Surgeries/comments/k6uv6c/post_op_srs_weird_problem/) by Nosferatugirl in 2020
-* [Several pain on my way home after rough sex. SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/jzer3o/several_pain_on_my_way_home_after_rough_sex_srs/) by PatienceFuzzy in 2020
-* [Post op orgasms](https://www.reddit.com/r/Transgender_Surgeries/comments/jx4hsz/post_op_orgasms/) by SarahBear81 in 2020
-* [Wanting to penetrate now that I had SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/jwoogx/wanting_to_penetrate_now_that_i_had_srs/) by LaurenRossy1 in 2020
-* [Sexual stimulation after vaginoplasty...](https://www.reddit.com/r/Transgender_Surgeries/comments/irupbz/sexual_stimulation_after_vaginoplasty/) by 91toss in 2020
-* [Post-op orgasms](https://www.reddit.com/r/Transgender_Surgeries/comments/i3xbcs/postop_orgasms/) by TaraJo in 2020
-* [MTF GRS sex life?](https://www.reddit.com/r/Transgender_Surgeries/comments/hpk0xx/mtf_grs_sex_life/) by oharavee in 2020
-* [How am I supposed to have sex if it takes 10 minutes to get the dilator in?](https://www.reddit.com/r/Transgender_Surgeries/comments/hff1yu/how_am_i_supposed_to_have_sex_if_it_takes_10/) by combcool in 2020
-* [How long does it take for nerves in the clitoris to recover after SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/gjhlhc/how_long_does_it_take_for_nerves_in_the_clitoris/) by evek1996 in 2020
-* [I am post op I am looking for a vibrator is the hitachi good?](https://www.reddit.com/r/Transgender_Surgeries/comments/ghlllc/i_am_post_op_i_am_looking_for_a_vibrator_is_the/) by evek1996 in 2020
-* [\[NSFW\] Neovaginas and large insertions?](https://www.reddit.com/r/asktransgender/comments/g2zdav/nsfw_neovaginas_and_large_insertions/) by OwnsManyThighsocks in 2020
-* [NSFW How does sex feel with a neovagina vs natal vagina?](https://www.reddit.com/r/asktransgender/comments/g41eb1/nsfw_how_does_sex_feel_with_a_neovagina_vs_natal/) by  Transrandomquestions in 2020
-* [NSFW What is receiving oral like after bottom surgery?](https://www.reddit.com/r/Transgender_Surgeries/comments/fyoi33/nsfw_what_is_receiving_oral_like_after_bottom/) by avocadotoastslut in 2020
-* [3 months post-SRS and not an inkling of pleasurabe/sexual sensation. I'm starting to feel pretty damned crushed.](https://www.reddit.com/r/Transgender_Surgeries/comments/eefx9f/3_months_postsrs_and_not_an_inkling_of/) by ArloParks in 2019
-* [Anal after Vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/eao413/anal_after_vaginoplasty/) by BaltimoreAlchemist in 2019
-* [Just had my first orgasm ever! 1.5 years post GCS](https://www.reddit.com/r/MtF/comments/djiqn0/just_had_my_first_orgasm_ever_15_years_post_gcs/) by  PurpleOperation in 2019
-* [Trans women of Reddit, What's your sex life experience after the gender reassignment surgery?](https://www.reddit.com/r/asktransgender/comments/d5uh7o/trans_women_of_reddit_whats_your_sex_life/) by wildseaswim in 2019
-* [I just had an orgasm for the first time since bottom surgery.](https://www.reddit.com/r/asktransgender/comments/cmqq87/i_just_had_an_orgasm_for_the_first_time_since/) by  bipolarSamanth0r in 2019 - *"it's been 20 months and I thought I couldn't any more"*
-* [Trans Women who've had SRS... what's vaginal sex like?](https://www.reddit.com/r/asktransgender/comments/atdyr7/trans_women_whove_had_srs_whats_vaginal_sex_like/) by Nelke15
+* [Does Vaginal penetrative sex post op feel like anal?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/wyozuh/does_vaginal_penetrative_sex_post_op_feel_like/) by BxbySxrxh in 2022
+* [\[Guide\] Troubleshooting your sexual experiences post-GRS<sup>R</sup>](https://www.reddit.com/r/MtF/comments/s0upst/guide_troubleshooting_your_sexual_experiences/) by zoe_bletchdel in 2022
+* [Why does it take so long to be able to masturbate after SRS?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/re02sn/why_does_it_take_so_long_to_be_able_to_masturbate/) by Brittnee65 in 2021
+* [How does it feel to be penetrated in your neovagina?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/r99i2y/how_does_it_feel_to_be_penetrated_in_your/) by Fun_Park2505 in 2021
+* [Orchiectomy regret?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lt1136/orchiectomy_regret/) by CandyappleWinter in 2021
+* [Post Op Vaginal Sex vs Dilation Feeling<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/l82ce8/post_op_vaginal_sex_vs_dilation_feeling/) by LongBeachVero in 2021
+* [Bleeding after post-op sex?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/l3refw/bleeding_after_postop_sex/) by crose9310 in 2021
+* [How to Orgasm Post-Vaginoplasty?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/km5553/how_to_orgasm_postvaginoplasty/) by  Estus_Is_Life in 2020
+* [Post Op SRS - Weird problem<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/k6uv6c/post_op_srs_weird_problem/) by Nosferatugirl in 2020
+* [Several pain on my way home after rough sex. SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jzer3o/several_pain_on_my_way_home_after_rough_sex_srs/) by PatienceFuzzy in 2020
+* [Post op orgasms<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jx4hsz/post_op_orgasms/) by SarahBear81 in 2020
+* [Wanting to penetrate now that I had SRS?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jwoogx/wanting_to_penetrate_now_that_i_had_srs/) by LaurenRossy1 in 2020
+* [Sexual stimulation after vaginoplasty...<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/irupbz/sexual_stimulation_after_vaginoplasty/) by 91toss in 2020
+* [Post-op orgasms<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i3xbcs/postop_orgasms/) by TaraJo in 2020
+* [MTF GRS sex life?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hpk0xx/mtf_grs_sex_life/) by oharavee in 2020
+* [How am I supposed to have sex if it takes 10 minutes to get the dilator in?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hff1yu/how_am_i_supposed_to_have_sex_if_it_takes_10/) by combcool in 2020
+* [How long does it take for nerves in the clitoris to recover after SRS?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/gjhlhc/how_long_does_it_take_for_nerves_in_the_clitoris/) by evek1996 in 2020
+* [I am post op I am looking for a vibrator is the hitachi good?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ghlllc/i_am_post_op_i_am_looking_for_a_vibrator_is_the/) by evek1996 in 2020
+* [\[NSFW\] Neovaginas and large insertions?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/g2zdav/nsfw_neovaginas_and_large_insertions/) by OwnsManyThighsocks in 2020
+* [NSFW How does sex feel with a neovagina vs natal vagina?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/g41eb1/nsfw_how_does_sex_feel_with_a_neovagina_vs_natal/) by  Transrandomquestions in 2020
+* [NSFW What is receiving oral like after bottom surgery?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/fyoi33/nsfw_what_is_receiving_oral_like_after_bottom/) by avocadotoastslut in 2020
+* [3 months post-SRS and not an inkling of pleasurabe/sexual sensation. I'm starting to feel pretty damned crushed.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/eefx9f/3_months_postsrs_and_not_an_inkling_of/) by ArloParks in 2019
+* [Anal after Vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/eao413/anal_after_vaginoplasty/) by BaltimoreAlchemist in 2019
+* [Just had my first orgasm ever! 1.5 years post GCS<sup>R</sup>](https://www.reddit.com/r/MtF/comments/djiqn0/just_had_my_first_orgasm_ever_15_years_post_gcs/) by  PurpleOperation in 2019
+* [Trans women of Reddit, What's your sex life experience after the gender reassignment surgery?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/d5uh7o/trans_women_of_reddit_whats_your_sex_life/) by wildseaswim in 2019
+* [I just had an orgasm for the first time since bottom surgery.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/cmqq87/i_just_had_an_orgasm_for_the_first_time_since/) by  bipolarSamanth0r in 2019 - *"it's been 20 months and I thought I couldn't any more"*
+* [Trans Women who've had SRS... what's vaginal sex like?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/atdyr7/trans_women_whove_had_srs_whats_vaginal_sex_like/) by Nelke15
  in 2019
-* [NSFW first time after GCS](https://www.reddit.com/r/MtF/comments/9zzk2a/nsfw_first_time_after_gcs/) by  Abjury in 2018
-* [Have I damaged my clitoris? Post op orgasming?](https://www.reddit.com/r/asktransgender/comments/9wpgit/have_i_damaged_my_clitoris_post_op_orgasming/) by  throwaway5577575
+* [NSFW first time after GCS<sup>R</sup>](https://www.reddit.com/r/MtF/comments/9zzk2a/nsfw_first_time_after_gcs/) by  Abjury in 2018
+* [Have I damaged my clitoris? Post op orgasming?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9wpgit/have_i_damaged_my_clitoris_post_op_orgasming/) by  throwaway5577575
  in 2018
-* [For those post-op, how's sex?](https://www.reddit.com/r/asktransgender/comments/3owz03/for_those_postop_hows_sex/) by  transthrowaway45345 around 2016
+* [For those post-op, how's sex?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/3owz03/for_those_postop_hows_sex/) by  transthrowaway45345 around 2016
 * [How real does a post-op vagina look and feel?](https://old.reddit.com/r/asktransgender/comments/up542/how_real_does_a_postop_vagina_look_and_feel/) by AliceCode in 2013
 
 YouTube
@@ -2310,7 +2310,7 @@ Vogue: [Why One Trans Woman Wants to Discuss Sex After Surgery](https://www.vogu
 
 reddit
 
-* [I'm told that I have no taste down there. Common for women with a neovagina or is it just me?](https://www.reddit.com/r/Transgender_Surgeries/comments/tdy82f/im_told_that_i_have_no_taste_down_there_common/) by HappyFlowerSeeds in 2022
+* [I'm told that I have no taste down there. Common for women with a neovagina or is it just me?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/tdy82f/im_told_that_i_have_no_taste_down_there_common/) by HappyFlowerSeeds in 2022
 
 Susans
 
@@ -2331,13 +2331,13 @@ General anesthesia can cause post-op depression.
 
 reddit
 
-* [3.5 years ago I had grs & 4 months later I tried to commit suic*de. This is what saved me](https://www.reddit.com/r/Transgender_Surgeries/comments/18j5ap8/35_years_ago_i_had_grs_4_months_later_i_tried_to/) by mililanigirl in 2023
-* [I had a 12 hour-long brain surgery a couple of months ago and was in the hospital for 5 days. During that time, I was given oxy, fentanyl, dilauded, and a bunch of other meds. They sent me home with oxy, but I felt sicker than a dog after getting home. Was this due to opiate withdrawal?](https://www.reddit.com/r/opiates/comments/p4xxgo/i_had_a_12_hourlong_brain_surgery_a_couple_of/) in 2021 - this is in [r/opiates](https://www.reddit.com/r/opiates) which contains some interesting discussion on the effects of these drugs
-* [What opioid withdrawal was like for me](https://www.reddit.com/r/Transgender_Surgeries/comments/img0rg/what_opioid_withdrawal_was_like_for_me/) by notyourdonut in 2020
-* [MtF surgery: what they don't tell you](https://www.reddit.com/r/asktransgender/comments/bnqfnq/mtf_surgery_what_they_dont_tell_you/en8jnsm/) by femme_inside in 2019
-* [Help with partners post Srs depression](https://www.reddit.com/r/mypartneristrans/comments/ba9bj5/help_with_partners_post_srs_depression/) by Mrreaper3695 in 2019
+* [3.5 years ago I had grs & 4 months later I tried to commit suic*de. This is what saved me<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/18j5ap8/35_years_ago_i_had_grs_4_months_later_i_tried_to/) by mililanigirl in 2023
+* [I had a 12 hour-long brain surgery a couple of months ago and was in the hospital for 5 days. During that time, I was given oxy, fentanyl, dilauded, and a bunch of other meds. They sent me home with oxy, but I felt sicker than a dog after getting home. Was this due to opiate withdrawal?<sup>R</sup>](https://www.reddit.com/r/opiates/comments/p4xxgo/i_had_a_12_hourlong_brain_surgery_a_couple_of/) in 2021 - this is in [r/opiates<sup>R</sup>](https://www.reddit.com/r/opiates) which contains some interesting discussion on the effects of these drugs
+* [What opioid withdrawal was like for me<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/img0rg/what_opioid_withdrawal_was_like_for_me/) by notyourdonut in 2020
+* [MtF surgery: what they don't tell you<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/bnqfnq/mtf_surgery_what_they_dont_tell_you/en8jnsm/) by femme_inside in 2019
+* [Help with partners post Srs depression<sup>R</sup>](https://www.reddit.com/r/mypartneristrans/comments/ba9bj5/help_with_partners_post_srs_depression/) by Mrreaper3695 in 2019
 
- [r/opiates](https://www.reddit.com/r/opiates) has some interesting discussion on post op
+ [r/opiates<sup>R</sup>](https://www.reddit.com/r/opiates) has some interesting discussion on post op
 
 YouTube
 
@@ -2351,12 +2351,12 @@ YouTube
 
 According to wikipedia a vagina ranges from [4.3" to 4.7"](https://en.wikipedia.org/wiki/Human_vaginal_size) during sexual arousal, and the [avergage errect penis length  is 5.17"](https://en.wikipedia.org/wiki/Human_penis_size). However the post-operative trans women's vagina does not stretch.
 
-For complications in depth post-op see wiki entry [Dilation and Depth](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#dilation-and-depth)
+For complications in depth post-op see wiki entry [Dilation and Depth<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#dilation-and-depth)
 
 reddit
 
-* [Succesful Attempt at Gaining Depth](https://www.reddit.com/r/Transgender_Surgeries/comments/go274u/succesful_attempt_at_gaining_depth/) by 9lexi in 2020
-* [Dilation tips to maximise depth?](https://www.reddit.com/r/Transgender_Surgeries/comments/fyrxcn/dilation_tips_to_maximise_depth/) by 9lexi
+* [Succesful Attempt at Gaining Depth<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/go274u/succesful_attempt_at_gaining_depth/) by 9lexi in 2020
+* [Dilation tips to maximise depth?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/fyrxcn/dilation_tips_to_maximise_depth/) by 9lexi
 in 2020
 
 Susans
@@ -2400,7 +2400,7 @@ Cis-women's depth in a post on susans [Re: Chettawut girls, are your vaginas wor
 *I need to review these, I'm not sure which ones are related to depth.*
 
 * [Postoperative complications of male to female sex reassignment surgery: A 10-year French retrospective study.](https://www.ncbi.nlm.nih.gov/pubmed/30269882) in 2019
-* [SRS with Dr Suporn PDF Update 2](https://www.reddit.com/r/asktransgender/comments/7jj0n4/srs_with_dr_suporn_pdf_update_2/) by Suporn2015SRS in 2018
+* [SRS with Dr Suporn PDF Update 2<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/7jj0n4/srs_with_dr_suporn_pdf_update_2/) by Suporn2015SRS in 2018
 * THESIS FOR DOCTORAL DEGREE (Ph.D.), [Outcome and Refinements of Gender Confirming Surgery](https://openarchive.ki.se/xmlui/bitstream/handle/10616/45364/Thesis_Hannes_Sigurjonsson.pdf), by Hannes Sigurjónsson in 2016 (Sweden)
 * [Surgical Reconstruction for Male-to-Female Sex Reassignment](http://dx.doi.org/10.1016/j.eururo.2012.12.030) in 2012 (Germany)
 * [Surgical Outcome after Penile Inversion Vaginoplasty: A Retrospective Study of 475 Transgender Women.](https://www.ncbi.nlm.nih.gov/pubmed/27782992) in 2016
@@ -2425,53 +2425,53 @@ If dilation is difficult you need to do it more, not less.
 
 Note that some cis-women dilate
 
-* reddit reply to [This month marks for me 10 years post-op... AMA?](https://www.reddit.com/r/MtF/comments/ekau6b/this_month_marks_for_me_10_years_postop_ama/fdc7hji/) by Yo_Its_Me_Abby in 2020
+* reddit reply to [This month marks for me 10 years post-op... AMA?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/ekau6b/this_month_marks_for_me_10_years_postop_ama/fdc7hji/) by Yo_Its_Me_Abby in 2020
 * https://www.reddit.com/r/vaginismus/
 
 reddit
 
-* [Don't dilate like that, dilate like this. You're probably doing it wrong (Surgeons hate him! learn this one cool trick!)](https://www.reddit.com/r/DrWillPowers/comments/15t8v7h/dont_dilate_like_that_dilate_like_this_youre/) by Drwillpowers in 2023
-* [Dilating while standing up](https://www.reddit.com/r/Transgender_Surgeries/comments/149kap1/dilating_while_standing_up/) by Low-Island-2637 in 2023
-* [In the interest of Science: a Diagram showing my Progress with dilation after SRS. Ø4,5cm is a soft silicone dildo, not a dilator!](https://www.reddit.com/r/Transgender_Surgeries/comments/10cz5s7/in_the_interest_of_science_a_diagram_showing_my/) by Torenga in 2023
-* [Quick question for anyone who’s had GCS. I’m flying home for the first time after GCS and my wife is worried about TSA and what they’ll ask about my dilators. I don’t want to check them, well because I’m worried they lose them. Any thoughts would be greatly appreciated! Thank you](https://www.reddit.com/r/Transgender_Surgeries/comments/ztpgvm/quick_question_for_anyone_whos_had_gcs_im_flying/) by raceinbk1980 in 2022
-* [I had issues dilating early on, so thought I would post what worked for me. I am beyond this difficult point now, but maybe it helps some others.](https://www.reddit.com/r/Transgender_Surgeries/comments/xx1q2j/i_had_issues_dilating_early_on_so_thought_i_would/) by WRKaren in 2022
-* [Cannabis for dilation related pain](https://www.reddit.com/r/Transgender_Surgeries/comments/vkzjz8/cannabis_for_dilation_related_pain/) by princessxha in 2022 - *"... but I really was not fine in weeks 2-4. Dilation was uncharacteristically painful. More painful than most people report. Severe, sharp, burning pain on the inside... I found small quantities (0.2g combusted) of it before each dilation session (3x day) to be a godsend. Smoked pure, no tobacco of course. I would compare the type of pain relief to opiates. You still have the pain but you don’t feel it properly because you’re too fuzzy. It was as ‘mind-numbing’ as strong opiates but without the addiction/danger, constipation and extreme sedation."*
+* [Don't dilate like that, dilate like this. You're probably doing it wrong (Surgeons hate him! learn this one cool trick!)<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/15t8v7h/dont_dilate_like_that_dilate_like_this_youre/) by Drwillpowers in 2023
+* [Dilating while standing up<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/149kap1/dilating_while_standing_up/) by Low-Island-2637 in 2023
+* [In the interest of Science: a Diagram showing my Progress with dilation after SRS. Ø4,5cm is a soft silicone dildo, not a dilator!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10cz5s7/in_the_interest_of_science_a_diagram_showing_my/) by Torenga in 2023
+* [Quick question for anyone who’s had GCS. I’m flying home for the first time after GCS and my wife is worried about TSA and what they’ll ask about my dilators. I don’t want to check them, well because I’m worried they lose them. Any thoughts would be greatly appreciated! Thank you<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ztpgvm/quick_question_for_anyone_whos_had_gcs_im_flying/) by raceinbk1980 in 2022
+* [I had issues dilating early on, so thought I would post what worked for me. I am beyond this difficult point now, but maybe it helps some others.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/xx1q2j/i_had_issues_dilating_early_on_so_thought_i_would/) by WRKaren in 2022
+* [Cannabis for dilation related pain<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vkzjz8/cannabis_for_dilation_related_pain/) by princessxha in 2022 - *"... but I really was not fine in weeks 2-4. Dilation was uncharacteristically painful. More painful than most people report. Severe, sharp, burning pain on the inside... I found small quantities (0.2g combusted) of it before each dilation session (3x day) to be a godsend. Smoked pure, no tobacco of course. I would compare the type of pain relief to opiates. You still have the pain but you don’t feel it properly because you’re too fuzzy. It was as ‘mind-numbing’ as strong opiates but without the addiction/danger, constipation and extreme sedation."*
 * [Extreme dilation pain](https://www.susans.org/forums/index.php/topic,256653.0.html) by Emma Landing in 2022
-* [Lidocaine on vaginal dilator](https://www.reddit.com/r/Transgender_Surgeries/comments/ugxb2z/lidocaine_on_vaginal_dilator/) by Expensive-Can-5743 in 2022
-* [Guide to dilating](https://www.reddit.com/r/Transgender_Surgeries/comments/tfj6wx/guide_to_dilating/) by 2d4d_data in 2022
-    * [Guide to dilating](https://www.reddit.com/r/Transgender_Surgeries/comments/pt7wum/guide_to_dilating/) by 2d4d_data in 2021
-* [PSA for dilators etc while flying](https://www.reddit.com/r/Transgender_Surgeries/comments/t3rn7b/psa_for_dilators_etc_while_flying/) by femessence in 2022
-* [A big bed desk has been the biggest help for dilating by far!](https://www.reddit.com/r/Transgender_Surgeries/comments/t4ryo7/a_big_bed_desk_has_been_the_biggest_help_for/) by OdderlyNat in 2022
-* [3D-printed dilator stand](https://www.reddit.com/r/Transgender_Surgeries/comments/m34p5k/3dprinted_dilator_stand/) by TransSurgeryAlt4728 in 2021
-* [\[MTF\] How log were you sore after sizing up, and did you take breaks or power through with the new size?](https://www.reddit.com/r/Transgender_Surgeries/comments/kz9gas/mtf_how_log_were_you_sore_after_sizing_up_and_did/) by _jenni4 in 2021
-* [How "tight" is your dilating?](https://www.reddit.com/r/Transgender_Surgeries/comments/kxzd5j/how_tight_is_your_dilating/) by RosyGlow in 2021
-* [How Do You Know You are Dilating Correctly?](https://www.reddit.com/r/Transgender_Surgeries/comments/kauhvy/how_do_you_know_you_are_dilating_correctly/) by LongBeachVero in 2020
-* [Dilating Width problems twelve days in](https://www.reddit.com/r/Transgender_Surgeries/comments/jhz3m9/dilating_width_problems_twelve_days_in/) by transinthesouthpod in 2020
-* [Was orange not enough for some women?](https://www.reddit.com/r/Transgender_Surgeries/comments/jg9ovs/was_orange_not_enough_for_some_women/) by notyourdonut in 2020
-* [Is there life after dilation?](https://www.reddit.com/r/Transgender_Surgeries/comments/jem875/is_there_life_after_dilation/) by AnyaAnn in 2020
-* [Blood with dilation?](https://www.reddit.com/r/Transgender_Surgeries/comments/iulnlx/blood_with_dilation/) by LaurenRossy1 in 2020
-* [Internal look through clear dilater 35 days post](https://www.reddit.com/r/manmadepussy/comments/ifkmms/internal_look_through_clear_dilater_35_days_post/) by CuteFoxers, video [here](https://www.redgifs.com/watch/dangerousgrimhairstreak)
-* [Dilation after surgery.](https://www.reddit.com/r/Transgender_Surgeries/comments/ghg0lh/dilation_after_surgery/) by allielizzie16 in 2020
-* [Would anyone else be willing to share their dilation routine as prescribed by their doc?](https://www.reddit.com/r/Transgender_Surgeries/comments/gtpz2b/would_anyone_else_be_willing_to_share_their/) by nuwutella in 2020
-* [Dilation- whats more important, frequency or duration?](https://www.reddit.com/r/Transgender_Surgeries/comments/goxlr2/dilation_whats_more_important_frequency_or/) by 15thcateringwillow in 2020
-* [PSA don't forget to dilate or douche. I forgot. This is the result. Waxy skin cells and sweat etc :( I had to blast my vag with water and manually excavate this.](https://www.reddit.com/r/trans/comments/fsl4qz/psa_dont_forget_to_dilate_or_douche_i_forgot_this/) by adventures_in_dysl in 2020
-* [\[NSFW\] Neovaginas and large insertions?](https://www.reddit.com/r/asktransgender/comments/g2zdav/nsfw_neovaginas_and_large_insertions/) by OwnsManyThighsocks in 2020
-* [Is the necessity of dilation a myth?](https://www.reddit.com/r/Transgender_Surgeries/comments/eura5j/is_the_necessity_of_dilation_a_myth/) by sg2k19 in 2020
-* [What to dilate on?](https://www.reddit.com/r/asktransgender/comments/egvr6l/what_to_dilate_on/) by ZebraTank in 2020
-* [Clear acrylic dilators and a flashlight can be used as fiber optics to see inside yourself](https://www.reddit.com/r/Transgender_Surgeries/comments/eko0l9/clear_acrylic_dilators_and_a_flashlight_can_be/) by MayScream in 2020
-* [Dilation: pain in leg](https://www.reddit.com/r/Transgender_Surgeries/comments/efchma/dilation_pain_in_leg/) by smilewithnose in 2019
-* [So I dilated for the first time in 2 months. Yikes.](https://www.reddit.com/r/MtF/comments/dbvbvc/so_i_dilated_for_the_first_time_in_2_months_yikes/) by voicethrowaway1337 in 2019
-* [I won!](https://www.reddit.com/r/Transgender_Surgeries/comments/d0171n/i_won/) by transgendersquid in 2019
-* [blood after dilation at nearly 3 months op ?](https://www.reddit.com/r/Transgender_Surgeries/comments/d2slhs/blood_after_dilation_at_nearly_3_months_op/) by  WarriorFighter19 in 2019
-* [Dilator Stuck inside my Vagina: Urgent](https://www.reddit.com/r/Transgender_Surgeries/comments/byq39k/dilator_stuck_inside_my_vagina_urgent/) by pinkielotus in 2019
-* [Increasing depth in transgender women by using testosterone on dilators](https://www.reddit.com/r/Transgender_Surgeries/comments/brvtcg/increasing_depth_in_transgender_women_by_using/) by 2d4d_data in 2019, discussing a comment by [/u/Drwillpowers](https://www.reddit.com/user/Drwillpowers)
-* [What’s dilation like, both post op recovery and long term?](https://www.reddit.com/r/Transgender_Surgeries/comments/bcmlgp/whats_dilation_like_both_post_op_recovery_and/) by mugiwara_girl in 2019
-* [Is it possible to regain my initial SRS depth?](https://www.reddit.com/r/asktransgender/comments/b8iayh/is_it_possible_to_regain_my_initial_srs_depth/) by egmtz in 2019
-* [Failed to dilate, vagina almost closed ](https://www.reddit.com/r/Transgender_Surgeries/comments/99z5yu/failed_to_dilate_vagina_almost_closed/) in 2018
-* [SRS with Dr Suporn PDF Update 2](https://www.reddit.com/r/asktransgender/comments/7jj0n4/srs_with_dr_suporn_pdf_update_2/) by Suporn2015SRS in 2018
-* [Somebody should make a subreddit called "Dilation Station" where post op women can post entertaining things to watch and do while dilating.](https://www.reddit.com/r/asktransgender/comments/7v0car/somebody_should_make_a_subreddit_called_dilation/) in 2018, see also https://www.reddit.com/r/dilationstation/
+* [Lidocaine on vaginal dilator<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ugxb2z/lidocaine_on_vaginal_dilator/) by Expensive-Can-5743 in 2022
+* [Guide to dilating<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/tfj6wx/guide_to_dilating/) by 2d4d_data in 2022
+    * [Guide to dilating<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pt7wum/guide_to_dilating/) by 2d4d_data in 2021
+* [PSA for dilators etc while flying<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/t3rn7b/psa_for_dilators_etc_while_flying/) by femessence in 2022
+* [A big bed desk has been the biggest help for dilating by far!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/t4ryo7/a_big_bed_desk_has_been_the_biggest_help_for/) by OdderlyNat in 2022
+* [3D-printed dilator stand<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/m34p5k/3dprinted_dilator_stand/) by TransSurgeryAlt4728 in 2021
+* [\[MTF\] How log were you sore after sizing up, and did you take breaks or power through with the new size?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kz9gas/mtf_how_log_were_you_sore_after_sizing_up_and_did/) by _jenni4 in 2021
+* [How "tight" is your dilating?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kxzd5j/how_tight_is_your_dilating/) by RosyGlow in 2021
+* [How Do You Know You are Dilating Correctly?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kauhvy/how_do_you_know_you_are_dilating_correctly/) by LongBeachVero in 2020
+* [Dilating Width problems twelve days in<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jhz3m9/dilating_width_problems_twelve_days_in/) by transinthesouthpod in 2020
+* [Was orange not enough for some women?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jg9ovs/was_orange_not_enough_for_some_women/) by notyourdonut in 2020
+* [Is there life after dilation?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jem875/is_there_life_after_dilation/) by AnyaAnn in 2020
+* [Blood with dilation?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/iulnlx/blood_with_dilation/) by LaurenRossy1 in 2020
+* [Internal look through clear dilater 35 days post<sup>R</sup>](https://www.reddit.com/r/manmadepussy/comments/ifkmms/internal_look_through_clear_dilater_35_days_post/) by CuteFoxers, video [here](https://www.redgifs.com/watch/dangerousgrimhairstreak)
+* [Dilation after surgery.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ghg0lh/dilation_after_surgery/) by allielizzie16 in 2020
+* [Would anyone else be willing to share their dilation routine as prescribed by their doc?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/gtpz2b/would_anyone_else_be_willing_to_share_their/) by nuwutella in 2020
+* [Dilation- whats more important, frequency or duration?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/goxlr2/dilation_whats_more_important_frequency_or/) by 15thcateringwillow in 2020
+* [PSA don't forget to dilate or douche. I forgot. This is the result. Waxy skin cells and sweat etc :( I had to blast my vag with water and manually excavate this.<sup>R</sup>](https://www.reddit.com/r/trans/comments/fsl4qz/psa_dont_forget_to_dilate_or_douche_i_forgot_this/) by adventures_in_dysl in 2020
+* [\[NSFW\] Neovaginas and large insertions?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/g2zdav/nsfw_neovaginas_and_large_insertions/) by OwnsManyThighsocks in 2020
+* [Is the necessity of dilation a myth?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/eura5j/is_the_necessity_of_dilation_a_myth/) by sg2k19 in 2020
+* [What to dilate on?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/egvr6l/what_to_dilate_on/) by ZebraTank in 2020
+* [Clear acrylic dilators and a flashlight can be used as fiber optics to see inside yourself<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/eko0l9/clear_acrylic_dilators_and_a_flashlight_can_be/) by MayScream in 2020
+* [Dilation: pain in leg<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/efchma/dilation_pain_in_leg/) by smilewithnose in 2019
+* [So I dilated for the first time in 2 months. Yikes.<sup>R</sup>](https://www.reddit.com/r/MtF/comments/dbvbvc/so_i_dilated_for_the_first_time_in_2_months_yikes/) by voicethrowaway1337 in 2019
+* [I won!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/d0171n/i_won/) by transgendersquid in 2019
+* [blood after dilation at nearly 3 months op ?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/d2slhs/blood_after_dilation_at_nearly_3_months_op/) by  WarriorFighter19 in 2019
+* [Dilator Stuck inside my Vagina: Urgent<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/byq39k/dilator_stuck_inside_my_vagina_urgent/) by pinkielotus in 2019
+* [Increasing depth in transgender women by using testosterone on dilators<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/brvtcg/increasing_depth_in_transgender_women_by_using/) by 2d4d_data in 2019, discussing a comment by [/u/Drwillpowers<sup>R</sup>](https://www.reddit.com/user/Drwillpowers)
+* [What’s dilation like, both post op recovery and long term?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/bcmlgp/whats_dilation_like_both_post_op_recovery_and/) by mugiwara_girl in 2019
+* [Is it possible to regain my initial SRS depth?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/b8iayh/is_it_possible_to_regain_my_initial_srs_depth/) by egmtz in 2019
+* [Failed to dilate, vagina almost closed <sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/99z5yu/failed_to_dilate_vagina_almost_closed/) in 2018
+* [SRS with Dr Suporn PDF Update 2<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/7jj0n4/srs_with_dr_suporn_pdf_update_2/) by Suporn2015SRS in 2018
+* [Somebody should make a subreddit called "Dilation Station" where post op women can post entertaining things to watch and do while dilating.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/7v0car/somebody_should_make_a_subreddit_called_dilation/) in 2018, see also https://www.reddit.com/r/dilationstation/
 * [GRS Dialation and more, 3 weeks after GRS](https://www.youtube.com/watch?v=CK0Fo9EptNk) by Alanis Martinez in 2019 - surgeon was Harold Reed in USA
-* [Suporn vs Chet Dilators](https://www.reddit.com/r/MtF/comments/6wov04/suporn_vs_chet_dilators/) in 2017
+* [Suporn vs Chet Dilators<sup>R</sup>](https://www.reddit.com/r/MtF/comments/6wov04/suporn_vs_chet_dilators/) in 2017
 
 Susans
 
@@ -2553,7 +2553,7 @@ A few surgeons use stents early on
 
 reddit
 
-* [Placeholder after 2nd SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/1e2hmwg/placeholder_after_2nd_srs/) by AeylaHearts in 2024 - *"I just had my revision surgery/ 2nd stage surgery with Dr. Hess/Heß in Essen, Germany and now I am advised to wear a placeholder and not dilate for the following 2 weeks. This is to not irritate the inner stitches more than necessary. The placeholder/stent is made from Bandages wrapped up in a condom, which is common for Hess and The surgeries in Munich I think."*
+* [Placeholder after 2nd SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1e2hmwg/placeholder_after_2nd_srs/) by AeylaHearts in 2024 - *"I just had my revision surgery/ 2nd stage surgery with Dr. Hess/Heß in Essen, Germany and now I am advised to wear a placeholder and not dilate for the following 2 weeks. This is to not irritate the inner stitches more than necessary. The placeholder/stent is made from Bandages wrapped up in a condom, which is common for Hess and The surgeries in Munich I think."*
 
 <br />
 
@@ -2570,10 +2570,10 @@ Firstly, a warning about cheap dilators and sex toys as found on Chinese sites, 
 
 reddit
 
-* [Soul Source dilator measurements and comparison to some common toys.](https://www.reddit.com/r/Transgender_Surgeries/comments/zv3x35/soul_source_dilator_measurements_and_comparison/) by Icy-Yogurt-Leah in 2022
-* [A comparison photo of various dilators](https://www.reddit.com/r/Transgender_Surgeries/comments/w458xc/a_comparison_photo_of_various_dilators/) by 2d4d_data in 2022
-* [Product List - Feel free to contribute with recommendations and requests :)](https://www.reddit.com/r/vaginismus/comments/jx940f/product_list_feel_free_to_contribute_with/) in 2021
-* [Has anyone dropped their soul source GRS dilators?](https://www.reddit.com/r/Transgender_Surgeries/comments/twg1rs/has_anyone_dropped_their_soul_source_grs_dilators/) by princessgigixxo in 2022
+* [Soul Source dilator measurements and comparison to some common toys.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/zv3x35/soul_source_dilator_measurements_and_comparison/) by Icy-Yogurt-Leah in 2022
+* [A comparison photo of various dilators<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/w458xc/a_comparison_photo_of_various_dilators/) by 2d4d_data in 2022
+* [Product List - Feel free to contribute with recommendations and requests :)<sup>R</sup>](https://www.reddit.com/r/vaginismus/comments/jx940f/product_list_feel_free_to_contribute_with/) in 2021
+* [Has anyone dropped their soul source GRS dilators?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/twg1rs/has_anyone_dropped_their_soul_source_grs_dilators/) by princessgigixxo in 2022
 
 Suppliers
 
@@ -2589,7 +2589,7 @@ Suppliers
 * https://vaginismus.com/products/vaginal-dilator-set
 * https://middlesexmd.com/products/vaginal-dilators-set-of-7
 * https://www.vuvatech.com
-* https://www.millimedical.com - see post on susans [An expanding electric dilator?](https://www.susans.org/forums/index.php/topic,244559.0.html) in 2019, and reddit [Expanding dilator - Made dilation faster and less painful](https://www.reddit.com/r/MtF/comments/hlk4w1/expanding_dilator_made_dilation_faster_and_less/) in 2020, and reddit reply to [Dilators](https://www.reddit.com/r/Transgender_Surgeries/comments/in7qqw/dilators/g46alyp/) by illyriarose in 2020
+* https://www.millimedical.com - see post on susans [An expanding electric dilator?](https://www.susans.org/forums/index.php/topic,244559.0.html) in 2019, and reddit [Expanding dilator - Made dilation faster and less painful<sup>R</sup>](https://www.reddit.com/r/MtF/comments/hlk4w1/expanding_dilator_made_dilation_faster_and_less/) in 2020, and reddit reply to [Dilators<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/in7qqw/dilators/g46alyp/) by illyriarose in 2020
     Soul Source now (2021) sell these https://www.soulsource.com/products/milli-expandable-dilator
 * medesign I.C. GmbH [Dilator Set 'Vivian'](https://en.medesign.de/frontend/shop/showArticle/dilator-set-vivian/303)
 * Passion Glass Sex Toys [Glass Dilators GRS SRS](https://www.passionglass.com/Glass-Dilators-GRS-SRS-c22800211)
@@ -2618,9 +2618,9 @@ Markovsky (Germany) [Meine GaOP – Die zweite und dritte Woche nach der OP – 
 
 reddit
 
-* reply to [Day 48 post SRS (I think). I'm still alive... I loosing hope for my vagina to look like one... I'm not posting because there is not much changes... The only thing is that now I'm using the big dilatator and it hurts so damn much.](https://www.reddit.com/r/Transgender_Surgeries/comments/xwcqad/day_48_post_srs_i_think_im_still_alive_i_loosing/ir6p9rh/) *"* ***She-Ology*** *sells two series of tapered ones that are too short for actual dilation, but are perfect for stretching the entrance and scar ring, and have a flared base so you can wear them while sitting. The small series is probably too small to be useful, ignore that one. Not being too long, they can remain comfortable to wear for hours. Makes the first few inches a breeze at your next dilation session especially if the scar ring contraction gets really bad...* ***Fuze*** makes a series of five cylindrical silicone dilators up to 1.5” diameter and 5.75” insertable. The first couple are probably useless, but the latter three (1”, 1.25”, 1.5” diameter) are perfect for wearing overnight with a couple tight pairs of underwear. If you start losing hours a day of your life just getting to depth, having a dilator inside for many more hours a day will make a huge difference."*
-* [Wearable Dildo or Dilator](https://www.reddit.com/r/SexToys/comments/sb4smx/wearable_dildo_or_dilator/) in 2022 - suggests CalExotics She-ology wearable silicone dilator.
-* [Neovagina canal rescue utilizing inflatable dilators.](https://www.reddit.com/r/DrWillPowers/comments/si15t2/neovagina_canal_rescue_utilizing_inflatable/) by Drwillpowers in 2022
+* reply to [Day 48 post SRS (I think). I'm still alive... I loosing hope for my vagina to look like one... I'm not posting because there is not much changes... The only thing is that now I'm using the big dilatator and it hurts so damn much.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/xwcqad/day_48_post_srs_i_think_im_still_alive_i_loosing/ir6p9rh/) *"* ***She-Ology*** *sells two series of tapered ones that are too short for actual dilation, but are perfect for stretching the entrance and scar ring, and have a flared base so you can wear them while sitting. The small series is probably too small to be useful, ignore that one. Not being too long, they can remain comfortable to wear for hours. Makes the first few inches a breeze at your next dilation session especially if the scar ring contraction gets really bad...* ***Fuze*** makes a series of five cylindrical silicone dilators up to 1.5” diameter and 5.75” insertable. The first couple are probably useless, but the latter three (1”, 1.25”, 1.5” diameter) are perfect for wearing overnight with a couple tight pairs of underwear. If you start losing hours a day of your life just getting to depth, having a dilator inside for many more hours a day will make a huge difference."*
+* [Wearable Dildo or Dilator<sup>R</sup>](https://www.reddit.com/r/SexToys/comments/sb4smx/wearable_dildo_or_dilator/) in 2022 - suggests CalExotics She-ology wearable silicone dilator.
+* [Neovagina canal rescue utilizing inflatable dilators.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/si15t2/neovagina_canal_rescue_utilizing_inflatable/) by Drwillpowers in 2022
 
 Papers
 
@@ -2652,19 +2652,19 @@ Note that its not clear how suitable these for post-op trans women, and they are
 
 reddit
 
-* reply to [Dilators](https://www.reddit.com/r/Transgender_Surgeries/comments/in7qqw/dilators/g46alyp/) by illyriarose in 2020
-* [Expanding dilator - Made dilation faster and less painful](https://www.reddit.com/r/MtF/comments/hlk4w1/expanding_dilator_made_dilation_faster_and_less/) in 2020
+* reply to [Dilators<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/in7qqw/dilators/g46alyp/) by illyriarose in 2020
+* [Expanding dilator - Made dilation faster and less painful<sup>R</sup>](https://www.reddit.com/r/MtF/comments/hlk4w1/expanding_dilator_made_dilation_faster_and_less/) in 2020
 
-reddit - in [r/vaginismus](https://www.reddit.com/r/vaginismus)
+reddit - in [r/vaginismus<sup>R</sup>](https://www.reddit.com/r/vaginismus)
 
-* [Milli Malfunction?](https://www.reddit.com/r/vaginismus/comments/njckxr/milli_malfunction/) in 2021
-* [Milli Expandable Dilator](https://www.reddit.com/r/vaginismus/comments/j4fw8m/milli_expandable_dilator/) in 2020
-* [New type of dilator!](https://www.reddit.com/r/vaginismus/comments/avz9ah/new_type_of_dilator/) in 2019
-* [A dilator that expands inside of you!?](https://www.reddit.com/r/vaginismus/comments/7dad37/a_dilator_that_expands_inside_of_you/) in 2017
+* [Milli Malfunction?<sup>R</sup>](https://www.reddit.com/r/vaginismus/comments/njckxr/milli_malfunction/) in 2021
+* [Milli Expandable Dilator<sup>R</sup>](https://www.reddit.com/r/vaginismus/comments/j4fw8m/milli_expandable_dilator/) in 2020
+* [New type of dilator!<sup>R</sup>](https://www.reddit.com/r/vaginismus/comments/avz9ah/new_type_of_dilator/) in 2019
+* [A dilator that expands inside of you!?<sup>R</sup>](https://www.reddit.com/r/vaginismus/comments/7dad37/a_dilator_that_expands_inside_of_you/) in 2017
 
 reddit
 
-* [u/milliforher](https://www.reddit.com/user/milliforher) - company account
+* [u/milliforher<sup>R</sup>](https://www.reddit.com/user/milliforher) - company account
 
 Susans
 
@@ -2684,16 +2684,16 @@ Dr Will Powers reccomends using an inflatable sex toy to help with difficult dil
 
 reddit
 
-* reply to [Useful for dilation?](https://www.reddit.com/r/Transgender_Surgeries/comments/18mg0ot/useful_for_dilation/ke6wmyy/?context=3) by GenderRebellious in 2023 - *"If you’re looking for an expandable dilator, try a balloon style version such as the one linked below. It exerts even pressure around the entire vaginal wall, is made of body-safe silicone, and the expansion can be easily controlled and released by the squeeze pump. I used this to stretch my scar ring during the contracture period (post-op months 3-5). It worked so well that my surgeon (McGinn) has been giving these to her other patients with contracture issues."*
-* [Don't dilate like that, dilate like this. You're probably doing it wrong (Surgeons hate him! learn this one cool trick!)](https://www.reddit.com/r/DrWillPowers/comments/15t8v7h/dont_dilate_like_that_dilate_like_this_youre/) by Drwillpowers in 2023
-* [Starfish technique for neovaginal opening scar tissue restriction and lack of vaginal aperture width.](https://www.reddit.com/r/DrWillPowers/comments/tlgf73/starfish_technique_for_neovaginal_opening_scar/) by Drwillpowers in 2022
-* [Neovagina canal rescue utilizing inflatable dilators.](https://www.reddit.com/r/DrWillPowers/comments/si15t2/neovagina_canal_rescue_utilizing_inflatable/) by Drwillpowers in 2022
-* [Did anyone have suggestions for inflatable dilators? Dr. P had suggested this as a good alternative for the candlestick dilators usually given to post-op folks.](https://www.reddit.com/r/DrWillPowers/comments/qv0ift/did_anyone_have_suggestions_for_inflatable/) by  SarcasticNut in 2021
+* reply to [Useful for dilation?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/18mg0ot/useful_for_dilation/ke6wmyy/?context=3) by GenderRebellious in 2023 - *"If you’re looking for an expandable dilator, try a balloon style version such as the one linked below. It exerts even pressure around the entire vaginal wall, is made of body-safe silicone, and the expansion can be easily controlled and released by the squeeze pump. I used this to stretch my scar ring during the contracture period (post-op months 3-5). It worked so well that my surgeon (McGinn) has been giving these to her other patients with contracture issues."*
+* [Don't dilate like that, dilate like this. You're probably doing it wrong (Surgeons hate him! learn this one cool trick!)<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/15t8v7h/dont_dilate_like_that_dilate_like_this_youre/) by Drwillpowers in 2023
+* [Starfish technique for neovaginal opening scar tissue restriction and lack of vaginal aperture width.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/tlgf73/starfish_technique_for_neovaginal_opening_scar/) by Drwillpowers in 2022
+* [Neovagina canal rescue utilizing inflatable dilators.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/si15t2/neovagina_canal_rescue_utilizing_inflatable/) by Drwillpowers in 2022
+* [Did anyone have suggestions for inflatable dilators? Dr. P had suggested this as a good alternative for the candlestick dilators usually given to post-op folks.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/qv0ift/did_anyone_have_suggestions_for_inflatable/) by  SarcasticNut in 2021
 
-reddit - in [r/vaginismus](https://www.reddit.com/r/vaginismus)
+reddit - in [r/vaginismus<sup>R</sup>](https://www.reddit.com/r/vaginismus)
 
-* [Mixed Emotions (Cured self and gave self new small problem)](https://www.reddit.com/r/vaginismus/comments/mcekdm/mixed_emotions_cured_self_and_gave_self_new_small/) in 2021 - *"A long time ago, I bought an inflatable plug with the intention of inflating it and birthing it. ... Over time, I was able to get it in uninflated, but with no hope of getting it out equally uninflated. A few weeks ago, I decided to try again. I got it to a size that was probably as thick as a wrist, more or less, and pushed it out. I was very turned on and excited by being able to do this. It burnt just a tiny bit, but it was absolutely nothing in comparison to vaginismus at it's worst. The toy was a pain level I could enjoy as a sadomasochist, which was absoloutely never something I could say about vaginismus. But afterwards, I was touching myself, and I was just... in awe of how "loose" it was. I almost fisted myself, but not quite. I figured this was just in the moment and would snap back to the regular tightness, like how it does/did after dilating or sex, but... it didn't entirely. In the weeks following, I found myself putting a finger in with ease and being totally amazed. It was always difficult to get a finger in before, always, and now I could just do it anytime. I would do it just to prove to myself that it still worked. Whether I was masturbating or just sitting around by myself, I'd do it just to feel how easy it was. I wondered if this meant I was cured, if this is what a normal vagina feels like. ... So, the day before yesterday, I attempted sex without dilating first, and IT WORKED! It went in easily and naturally, with no preparation, like never before, and it felt GOOD! And at first, this is wonderful."*
-* [Biggest dilator goes only halfway](https://www.reddit.com/r/vaginismus/comments/3nul6r/biggest_dilator_goes_only_halfway/) around 2015 - *"I also got myself a small inflatable dildo (it’s the 6 inches inflatable dildo from Lovehoney, if anyone is interested). It’s a great tool, because it’s not as rigid as a plastic dilator, and you can gradually make it bigger when it is already inside of you. With the help of the dildo, I’m now at the point where I can insert the biggest dilator of my set (I have the Velvi kit)."*
+* [Mixed Emotions (Cured self and gave self new small problem)<sup>R</sup>](https://www.reddit.com/r/vaginismus/comments/mcekdm/mixed_emotions_cured_self_and_gave_self_new_small/) in 2021 - *"A long time ago, I bought an inflatable plug with the intention of inflating it and birthing it. ... Over time, I was able to get it in uninflated, but with no hope of getting it out equally uninflated. A few weeks ago, I decided to try again. I got it to a size that was probably as thick as a wrist, more or less, and pushed it out. I was very turned on and excited by being able to do this. It burnt just a tiny bit, but it was absolutely nothing in comparison to vaginismus at it's worst. The toy was a pain level I could enjoy as a sadomasochist, which was absoloutely never something I could say about vaginismus. But afterwards, I was touching myself, and I was just... in awe of how "loose" it was. I almost fisted myself, but not quite. I figured this was just in the moment and would snap back to the regular tightness, like how it does/did after dilating or sex, but... it didn't entirely. In the weeks following, I found myself putting a finger in with ease and being totally amazed. It was always difficult to get a finger in before, always, and now I could just do it anytime. I would do it just to prove to myself that it still worked. Whether I was masturbating or just sitting around by myself, I'd do it just to feel how easy it was. I wondered if this meant I was cured, if this is what a normal vagina feels like. ... So, the day before yesterday, I attempted sex without dilating first, and IT WORKED! It went in easily and naturally, with no preparation, like never before, and it felt GOOD! And at first, this is wonderful."*
+* [Biggest dilator goes only halfway<sup>R</sup>](https://www.reddit.com/r/vaginismus/comments/3nul6r/biggest_dilator_goes_only_halfway/) around 2015 - *"I also got myself a small inflatable dildo (it’s the 6 inches inflatable dildo from Lovehoney, if anyone is interested). It’s a great tool, because it’s not as rigid as a plastic dilator, and you can gradually make it bigger when it is already inside of you. With the help of the dildo, I’m now at the point where I can insert the biggest dilator of my set (I have the Velvi kit)."*
 
 #### Sybian/Motorbunny
 
@@ -2739,20 +2739,20 @@ Dangerous Lilly
 
 reddit
 
-* reply to [What is your long-term experience with vaginoplasty? What complications and issues have you run into after several years? Are you blissfully happy about it and have had no problems?](https://www.reddit.com/r/MtF/comments/yes9ud/what_is_your_longterm_experience_with/iu2jm0g/) by Moon_Horse - *"One bad experience was a yeast infection I got as a result of an allergic reaction to a lube I was using. It was awful. Though my doctor gave me a pill that cleared it right up. Keeping my flora happy has been a pretty important lesson."*
-* [The new reality after bottom surgery…](https://www.reddit.com/r/TransLater/comments/12grrws/the_new_reality_after_bottom_surgery/) by what-where-how in 2023 - instructions for DIY lube
-* [Best lube for dilating?](https://www.reddit.com/r/Transgender_Surgeries/comments/vs4hmy/best_lube_for_dilating/) by BullfrogWinter7660 in 2022
-* [Dilating lube — my experience with Surgilube vs. Slippery Stuff.](https://www.reddit.com/r/Transgender_Surgeries/comments/lpxm4c/dilating_lube_my_experience_with_surgilube_vs/) by burset225 in 2021
-* [Lubricants Of Dilating (That AREN'T Surgilube?)](https://www.reddit.com/r/Transgender_Surgeries/comments/i63nnt/lubricants_of_dilating_that_arent_surgilube/) by  LiteralGrill in 2020
-* [Your favorite lube for dilating?](https://www.reddit.com/r/Transgender_Surgeries/comments/ghxen6/your_favorite_lube_for_dilating/) by throwawaymybut in 2020
-* [Ives Misconceptions](https://www.reddit.com/r/transgenderau/comments/dr8mvj/ives_misconceptions/) by lorsharos in 2019
-* [Post op lube options in Australia](https://www.reddit.com/r/transgenderau/comments/cgo4bj/post_op_lube_options_in_australia/) by pyorre6 in 2019
-* [Getting GRS very soon - Lube reccomendations from post op girls?](https://www.reddit.com/r/asktransgender/comments/8gs01q/getting_grs_very_soon_lube_reccomendations_from/) by Fairlady31
+* reply to [What is your long-term experience with vaginoplasty? What complications and issues have you run into after several years? Are you blissfully happy about it and have had no problems?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/yes9ud/what_is_your_longterm_experience_with/iu2jm0g/) by Moon_Horse - *"One bad experience was a yeast infection I got as a result of an allergic reaction to a lube I was using. It was awful. Though my doctor gave me a pill that cleared it right up. Keeping my flora happy has been a pretty important lesson."*
+* [The new reality after bottom surgery…<sup>R</sup>](https://www.reddit.com/r/TransLater/comments/12grrws/the_new_reality_after_bottom_surgery/) by what-where-how in 2023 - instructions for DIY lube
+* [Best lube for dilating?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vs4hmy/best_lube_for_dilating/) by BullfrogWinter7660 in 2022
+* [Dilating lube — my experience with Surgilube vs. Slippery Stuff.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lpxm4c/dilating_lube_my_experience_with_surgilube_vs/) by burset225 in 2021
+* [Lubricants Of Dilating (That AREN'T Surgilube?)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i63nnt/lubricants_of_dilating_that_arent_surgilube/) by  LiteralGrill in 2020
+* [Your favorite lube for dilating?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ghxen6/your_favorite_lube_for_dilating/) by throwawaymybut in 2020
+* [Ives Misconceptions<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dr8mvj/ives_misconceptions/) by lorsharos in 2019
+* [Post op lube options in Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cgo4bj/post_op_lube_options_in_australia/) by pyorre6 in 2019
+* [Getting GRS very soon - Lube reccomendations from post op girls?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/8gs01q/getting_grs_very_soon_lube_reccomendations_from/) by Fairlady31
  in 2018
-* [NSFW: Lube recommendations post GCS?](https://www.reddit.com/r/asktransgender/comments/9zejqz/nsfw_lube_recommendations_post_gcs/) by throwaway5577575
+* [NSFW: Lube recommendations post GCS?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9zejqz/nsfw_lube_recommendations_post_gcs/) by throwaway5577575
  in 2018
-* [Post ops with Chettawut, and QC Lubricating Jelly, a conundrum](https://www.reddit.com/r/asktransgender/comments/8ekkw2/post_ops_with_chettawut_and_qc_lubricating_jelly/) in 2018
-* [Bulk buy lube Australian suppliers?](https://www.reddit.com/r/transgenderau/comments/7ncxqu/bulk_buy_lube_australian_suppliers/) in 2018
+* [Post ops with Chettawut, and QC Lubricating Jelly, a conundrum<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/8ekkw2/post_ops_with_chettawut_and_qc_lubricating_jelly/) in 2018
+* [Bulk buy lube Australian suppliers?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/7ncxqu/bulk_buy_lube_australian_suppliers/) in 2018
 
 Susans
 
@@ -2780,9 +2780,9 @@ Other
 
 reddit
 
-* [9 years post-op: PI w/ scrotal grafts with Dr. Bowers](https://www.reddit.com/r/Transgender_Surgeries/comments/14sstun/9_years_postop_pi_w_scrotal_grafts_with_dr_bowers/) by MuffzStuffz in 2023 - *"... I had like "around 7" hairs growing inside. I tried my best to cope with it for the next year or so, plucking the hairs the best to my ability, but by 7 years post-op, I was just kind of sick of the upkeep of cleaning it, dilating, and trying to deal with the hair. I was going through a rough spot with chronic health conditions, declining mental health, and no partners/sexual desire so I just decided to stop the uncomfortable dilating sessions and deal with the consequences later. It was nice ignoring it for awhile, but by 8 years post-op I was starting to have some pelvic pain near the surgery site even though I wasn't using the neovag canal anymore. I ended up getting new, smaller dilators to see if that would help the pain, and I found out I have about 3 or so inches left in depth... So now I still have to dilate and clean it out to help reduce the pain and discomfort in the area, even though I don't really view it as a viable sexual organ anymore (especially the neovag canal)."*
-* reply to [Questions for people who have gotten vaginoplasty and are fully healed](https://www.reddit.com/r/Transgender_Surgeries/comments/r0plcg/questions_for_people_who_have_gotten_vaginoplasty/hlvjv0o/) by Strong_Suggestion503 in 2021
-* reply to [after SRS, will you need to dilate for the rest of your life?](https://www.reddit.com/r/AskMtFHRT/comments/hm5cd9/after_srs_will_you_need_to_dilate_for_the_rest_of/fx3o65w/) by KaySOS in 2020
+* [9 years post-op: PI w/ scrotal grafts with Dr. Bowers<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/14sstun/9_years_postop_pi_w_scrotal_grafts_with_dr_bowers/) by MuffzStuffz in 2023 - *"... I had like "around 7" hairs growing inside. I tried my best to cope with it for the next year or so, plucking the hairs the best to my ability, but by 7 years post-op, I was just kind of sick of the upkeep of cleaning it, dilating, and trying to deal with the hair. I was going through a rough spot with chronic health conditions, declining mental health, and no partners/sexual desire so I just decided to stop the uncomfortable dilating sessions and deal with the consequences later. It was nice ignoring it for awhile, but by 8 years post-op I was starting to have some pelvic pain near the surgery site even though I wasn't using the neovag canal anymore. I ended up getting new, smaller dilators to see if that would help the pain, and I found out I have about 3 or so inches left in depth... So now I still have to dilate and clean it out to help reduce the pain and discomfort in the area, even though I don't really view it as a viable sexual organ anymore (especially the neovag canal)."*
+* reply to [Questions for people who have gotten vaginoplasty and are fully healed<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/r0plcg/questions_for_people_who_have_gotten_vaginoplasty/hlvjv0o/) by Strong_Suggestion503 in 2021
+* reply to [after SRS, will you need to dilate for the rest of your life?<sup>R</sup>](https://www.reddit.com/r/AskMtFHRT/comments/hm5cd9/after_srs_will_you_need_to_dilate_for_the_rest_of/fx3o65w/) by KaySOS in 2020
 
 Susans
 
@@ -2805,7 +2805,7 @@ YouTube
 
 reddit
 
-* [Post-Op Moods/Hormones???](https://www.reddit.com/r/Transgender_Surgeries/comments/hjqnz5/postop_moodshormones/) by jasmine1106 in 2020
+* [Post-Op Moods/Hormones???<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hjqnz5/postop_moodshormones/) by jasmine1106 in 2020
 
 <br />
 
@@ -2817,8 +2817,8 @@ See also colonvaginoplasty.
 
 reddit
 
-* [Dealing with dryness](https://www.reddit.com/r/Transgender_Surgeries/comments/isrqwj/dealing_with_dryness/) by soafafilla in 2020
-* [Mtf and trans femme people whove had bottom surgery (SRS), are you able to self lubricate?](https://www.reddit.com/r/asktransgender/comments/btd70x/mtf_and_trans_femme_people_whove_had_bottom/) by Mekelaina in 2019
+* [Dealing with dryness<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/isrqwj/dealing_with_dryness/) by soafafilla in 2020
+* [Mtf and trans femme people whove had bottom surgery (SRS), are you able to self lubricate?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/btd70x/mtf_and_trans_femme_people_whove_had_bottom/) by Mekelaina in 2019
 
 <br />
 
@@ -2830,10 +2830,10 @@ https://en.wikipedia.org/wiki/Wound_dehiscence - *"Wound dehiscence is a surgica
 
 reddit
 
-* [Clitoris question, help needed !!!](https://www.reddit.com/r/Transgender_Surgeries/comments/14kt13q/clitoris_question_help_needed/) by dovecry in 2023 - *"my surgeon (dr purohit, sinai nyc) advised i use manuka honey on dehiscence sights near the vaginal opening and my wounds closed up damn well in less than 2 weeks"*
-* [Dehiscence healing information needed](https://www.reddit.com/r/Transgender_Surgeries/comments/p2uskg/dehiscence_healing_information_needed/) by  HopelessMagic in 2021
-* [How bad of a wound dehiscence is this? 20 days postop](https://www.reddit.com/r/Transgender_Surgeries/comments/p05fs3/how_bad_of_a_wound_dehiscence_is_this_20_days/) by katsusan in 2021, surgeon Jess Ting
-* [Labia tore](https://www.reddit.com/r/Transgender_Surgeries/comments/osxeqg/labia_tore/) by TheOneAndOnlyKelly in 2021
+* [Clitoris question, help needed !!!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/14kt13q/clitoris_question_help_needed/) by dovecry in 2023 - *"my surgeon (dr purohit, sinai nyc) advised i use manuka honey on dehiscence sights near the vaginal opening and my wounds closed up damn well in less than 2 weeks"*
+* [Dehiscence healing information needed<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/p2uskg/dehiscence_healing_information_needed/) by  HopelessMagic in 2021
+* [How bad of a wound dehiscence is this? 20 days postop<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/p05fs3/how_bad_of_a_wound_dehiscence_is_this_20_days/) by katsusan in 2021, surgeon Jess Ting
+* [Labia tore<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/osxeqg/labia_tore/) by TheOneAndOnlyKelly in 2021
 
 <br />
 
@@ -2851,12 +2851,12 @@ Marci Bowers (SRS surgeon) - http://marcibowers.com/mtf/wp-content/uploads/sites
 
 UCSF Center of Excellence for Transgender Health [Vaginoplasty procedures, complications and aftercare](http://transhealth.ucsf.edu/trans?page=guidelines-vaginoplasty) by Toby Meltzer (SRS Surgeon) - *"Initially the patient should douche daily during frequent dilation. Douching can be reduced to 2-3 times a week when dilation is less frequent."*
 
-reddit [Having anosmia, how will I know when to use a vaginal shower after SRS?](https://www.reddit.com/r/asktransgender/comments/9urp0v/having_anosmia_how_will_i_know_when_to_use_a/) by miarella in 2018
+reddit [Having anosmia, how will I know when to use a vaginal shower after SRS?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9urp0v/having_anosmia_how_will_i_know_when_to_use_a/) by miarella in 2018
 
 * I went to Dr. Chettawut and he specified using one once a week for three months and then as needed thereafter. After the three month period I’ve used it only occasionally.
 * once in 2.5 years
 
-reddit [Life after SRS question. (nsfw?)](https://www.reddit.com/r/asktransgender/comments/8nobyl/life_after_srs_question_nsfw/) by KiaraCake in 2019
+reddit [Life after SRS question. (nsfw?)<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/8nobyl/life_after_srs_question_nsfw/) by KiaraCake in 2019
 
 * Douche once a day? My surgeon said to stop at 2 months. Most people seem to stop once they get past the initial stages of healing... Dr. Sutin - PAI
 * My surgeon was Brassard in Montreal, his instructions are to douche once a day forever to prevent dead cells from accumulating and causing infection.
@@ -2866,19 +2866,19 @@ reddit [Life after SRS question. (nsfw?)](https://www.reddit.com/r/asktransgende
 * My girlfriend went to Brassard about 18 months ago and I don't think she's douched in like a year.
 * I stopped douching about 3 months ago and I've had no problems. 
 
-reddit [Post-vaginoplasty: do you douche?](https://www.reddit.com/r/asktransgender/comments/7kxbz9/postvaginoplasty_do_you_douche/) by stellaproiectura in 2018 - *"I’m recovering from GRS with Dr. Brassard and their recovery booklet specifies to douche every single day for the rest of your life. This seems abnormal; for cis women, douching is generally ill advised ever, let alone once per day. I’ve spoken to former Brassard patients who were not informed to douche daily, and who haven’t douched at all in years. Others douche once a week. "*
+reddit [Post-vaginoplasty: do you douche?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/7kxbz9/postvaginoplasty_do_you_douche/) by stellaproiectura in 2018 - *"I’m recovering from GRS with Dr. Brassard and their recovery booklet specifies to douche every single day for the rest of your life. This seems abnormal; for cis women, douching is generally ill advised ever, let alone once per day. I’ve spoken to former Brassard patients who were not informed to douche daily, and who haven’t douched at all in years. Others douche once a week. "*
 
 * I went to Bowers and she specifically states not to douche. I've never douched once and I'm perfectly healthy.
 * I went to Brassard three years ago and my booklet specifically said not to. 
 * I haven't douched in 15 years.
 
-reddit [How do you clean cum out of post op vagina NSFW](https://www.reddit.com/r/asktransgender/comments/5pluua/how_do_you_clean_cum_out_of_post_op_vagina_nsfw/) by transsurgery around 2017
+reddit [How do you clean cum out of post op vagina NSFW<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/5pluua/how_do_you_clean_cum_out_of_post_op_vagina_nsfw/) by transsurgery around 2017
 
 * I had surgery with Chettawut, I asked him and he said I could douche after sex if I wanted to, but it's not required.
 * I have never douched, surgeon said not to because they are self cleaning
 * I see you went to Chet, I went to Suporn which is a very similar method. I was told not to worry about it, it'll clean itself. 
 
-reddit [For those post-op, how's sex?](https://www.reddit.com/r/asktransgender/comments/3owz03/for_those_postop_hows_sex/) by transthrowaway45345 around 2016
+reddit [For those post-op, how's sex?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/3owz03/for_those_postop_hows_sex/) by transthrowaway45345 around 2016
 
 * Do you clean your vagina in the shower or do you need to douche everytime? Shower only. Haven't touched since like 3 months post-op.
 * I very rarely douche anymore. Theres no weird discharge so I dont really worry about it. Just wash it down in the shower.
@@ -2919,7 +2919,7 @@ Susans [Using a feminine douche? And general cleaning tips/tricks?](https://www.
 
 reddit
 
-* reply to [1 day post-op with Drs Krakowsky and Grober at WCH, AMA.](https://www.reddit.com/r/Transgender_Surgeries/comments/e25toi/1_day_postop_with_drs_krakowsky_and_grober_at_wch/f8tv809/) by TragicNut in 2019
+* reply to [1 day post-op with Drs Krakowsky and Grober at WCH, AMA.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/e25toi/1_day_postop_with_drs_krakowsky_and_grober_at_wch/f8tv809/) by TragicNut in 2019
 
 Susans
 
@@ -2943,7 +2943,7 @@ YouTube
 
 reddit
 
-* [New bling for post vaginoplasty VCH](https://www.reddit.com/r/transbodymods/comments/1cghxj5/new_bling_for_post_vaginoplasty_vch/) by overundermoon in 2024
+* [New bling for post vaginoplasty VCH<sup>R</sup>](https://www.reddit.com/r/transbodymods/comments/1cghxj5/new_bling_for_post_vaginoplasty_vch/) by overundermoon in 2024
 
 <br />
 
@@ -2953,7 +2953,7 @@ reddit
 
 reddit
 
-* [Probiotic suppositories for neo vaginas?](https://www.reddit.com/r/Transgender_Surgeries/comments/kas1hf/probiotic_suppositories_for_neo_vaginas/) by syrahlips in 2020
+* [Probiotic suppositories for neo vaginas?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kas1hf/probiotic_suppositories_for_neo_vaginas/) by syrahlips in 2020
  
 
 <br />
@@ -2964,9 +2964,9 @@ reddit
 
 reddit
 
-* [So I have surgery coming up next week (bottom) and I’m wondering if it’s ok to travel on Greyhound about 5 day after my procedure?](https://www.reddit.com/r/Transgender_Surgeries/comments/tgo11y/so_i_have_surgery_coming_up_next_week_bottom_and/) by Future-Statement9356 in 2022
-* [Is it possible to recover from srs without help?](https://www.reddit.com/r/Transgender_Surgeries/comments/tg1ug3/is_it_possible_to_recover_from_srs_without_help/) by radiofree_catgirl in 2022
-* [Pain Levels sitting from GRS / SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/liim1t/pain_levels_sitting_from_grs_srs/) by BisForBoa
+* [So I have surgery coming up next week (bottom) and I’m wondering if it’s ok to travel on Greyhound about 5 day after my procedure?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/tgo11y/so_i_have_surgery_coming_up_next_week_bottom_and/) by Future-Statement9356 in 2022
+* [Is it possible to recover from srs without help?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/tg1ug3/is_it_possible_to_recover_from_srs_without_help/) by radiofree_catgirl in 2022
+* [Pain Levels sitting from GRS / SRS?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/liim1t/pain_levels_sitting_from_grs_srs/) by BisForBoa
 in 2021
 
 <br />
@@ -2979,7 +2979,7 @@ Can be caused by internal hair and granulation (and probably many other things).
 
 reddit
 
-* [Reoccurring Infection](https://www.reddit.com/r/Transgender_Surgeries/comments/t1m7n8/reoccurring_infection/) by  transthrowaway7895 in 2022 - *"I got the issue checked out by a doctor who works with post op patients. Turns out it wasn't a reoccurring infection but granular tissue at the apex. Dilation was irritating it and causing blood, the odor, and the weird discharge. I did seem to have had a BV infection but it either was taken care of by the initial antibiotics or switch to ph balanced lube after. The doctor I saw applied silver nitrate and the symptoms improved / disappeared immediately after."*
+* [Reoccurring Infection<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/t1m7n8/reoccurring_infection/) by  transthrowaway7895 in 2022 - *"I got the issue checked out by a doctor who works with post op patients. Turns out it wasn't a reoccurring infection but granular tissue at the apex. Dilation was irritating it and causing blood, the odor, and the weird discharge. I did seem to have had a BV infection but it either was taken care of by the initial antibiotics or switch to ph balanced lube after. The doctor I saw applied silver nitrate and the symptoms improved / disappeared immediately after."*
 
 <br />
 
@@ -2989,8 +2989,8 @@ reddit
 
 reddit
 
-* [clit *too* sensitive?](https://www.reddit.com/r/Transgender_Surgeries/comments/102b7xg/clit_too_sensitive/) by weeb-gaymer-girl in 2023
-* [Clitoris Super Duper Sensitive? Like WOWZERS??](https://www.reddit.com/r/Transgender_Surgeries/comments/k66elz/clitoris_super_duper_sensitive_like_wowzers/) by LongBeachVero in 2020
+* [clit *too* sensitive?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/102b7xg/clit_too_sensitive/) by weeb-gaymer-girl in 2023
+* [Clitoris Super Duper Sensitive? Like WOWZERS??<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/k66elz/clitoris_super_duper_sensitive_like_wowzers/) by LongBeachVero in 2020
 
 <br />
 
@@ -3000,7 +3000,7 @@ reddit
 
 reddit
 
-* [Vaginoplasty recovery time for a competitive curler?](https://www.reddit.com/r/Transgender_Surgeries/comments/zvv499/vaginoplasty_recovery_time_for_a_competitive/) by NerdyKyogre in 2022
+* [Vaginoplasty recovery time for a competitive curler?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/zvv499/vaginoplasty_recovery_time_for_a_competitive/) by NerdyKyogre in 2022
 
 <br />
 
@@ -3010,7 +3010,7 @@ reddit
 
 reddit
 
-* [Constant urethral pain](https://www.reddit.com/r/Transgender_Surgeries/comments/jwps10/constant_urethral_pain/) by sunnysunshine05 in 2020
+* [Constant urethral pain<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jwps10/constant_urethral_pain/) by sunnysunshine05 in 2020
 
 <br />
 
@@ -3020,15 +3020,15 @@ reddit
 
 reddit
 
-* [pee after surgery. what is it like peeing for the first time after surgery? do you have to learn that? how does it feel compared to before? how long does it take to get used to it? Do you still often reach down and only then realize you don't have to hold anything anymore?](https://www.reddit.com/r/Transgender_Surgeries/comments/xpk10h/pee_after_surgery_what_is_it_like_peeing_for_the/) by annsophie88 in 2022
-* [Struggles with peeing after srs](https://www.reddit.com/r/asktransgender/comments/ljv1w9/struggles_with_peeing_after_srs/) by Lettucelat in 2021
-* [Frequent Urination and Difficult Emptying Bladder Post Op](https://www.reddit.com/r/Transgender_Surgeries/comments/kqgewx/frequent_urination_and_difficult_emptying_bladder/) by jojouws in 2021
-    * [Peeing Problems and Incomplete Emptying of Bladder Post SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/ddbiat/peeing_problems_and_incomplete_emptying_of/) by jojouws around 2020
-    * [Urinary Complications after MTF sex reassignment surgery (SRS)](https://www.reddit.com/r/Transgender_Surgeries/comments/d6kzhl/urinary_complications_after_mtf_sex_reassignment/) by jojouws around 2020
-    * [MTF urethral stricture after SRS surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/cz5w8f/mtf_urethral_stricture_after_srs_surgery/) by jojouws around 2020
-    * [Urinary Complications After SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/cx7sf9/urinary_complications_after_srs/) by jojouws around 2020
-* [Urinary stricture complications & timeline, am I being unreasonable?](https://www.reddit.com/r/Transgender_Surgeries/comments/pqdpiv/urinary_stricture_complications_timeline_am_i/) by _Ashleigh in 2021 - *"Since then, every time I urinate is a painful ordeal. Bladder contractions to push the urine out hurt, and I have to go thru about 5 of them before they stop occurring, at which point I can manually push more urine out. I get no stream during any of this, just individual drips. I also keep developing UTIs."* - surgeon is James Bellringer in the UK
-* [Look I can Pee like a big girl!](https://www.reddit.com/r/manmadepussy/comments/hozjf1/look_i_can_pee_like_a_big_girl/) by generalchaos34 in 2020 - surgeon is Heidi Wittenberg (USA)
+* [pee after surgery. what is it like peeing for the first time after surgery? do you have to learn that? how does it feel compared to before? how long does it take to get used to it? Do you still often reach down and only then realize you don't have to hold anything anymore?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/xpk10h/pee_after_surgery_what_is_it_like_peeing_for_the/) by annsophie88 in 2022
+* [Struggles with peeing after srs<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/ljv1w9/struggles_with_peeing_after_srs/) by Lettucelat in 2021
+* [Frequent Urination and Difficult Emptying Bladder Post Op<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kqgewx/frequent_urination_and_difficult_emptying_bladder/) by jojouws in 2021
+    * [Peeing Problems and Incomplete Emptying of Bladder Post SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ddbiat/peeing_problems_and_incomplete_emptying_of/) by jojouws around 2020
+    * [Urinary Complications after MTF sex reassignment surgery (SRS)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/d6kzhl/urinary_complications_after_mtf_sex_reassignment/) by jojouws around 2020
+    * [MTF urethral stricture after SRS surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/cz5w8f/mtf_urethral_stricture_after_srs_surgery/) by jojouws around 2020
+    * [Urinary Complications After SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/cx7sf9/urinary_complications_after_srs/) by jojouws around 2020
+* [Urinary stricture complications & timeline, am I being unreasonable?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pqdpiv/urinary_stricture_complications_timeline_am_i/) by _Ashleigh in 2021 - *"Since then, every time I urinate is a painful ordeal. Bladder contractions to push the urine out hurt, and I have to go thru about 5 of them before they stop occurring, at which point I can manually push more urine out. I get no stream during any of this, just individual drips. I also keep developing UTIs."* - surgeon is James Bellringer in the UK
+* [Look I can Pee like a big girl!<sup>R</sup>](https://www.reddit.com/r/manmadepussy/comments/hozjf1/look_i_can_pee_like_a_big_girl/) by generalchaos34 in 2020 - surgeon is Heidi Wittenberg (USA)
 
 Susans
 
@@ -3089,7 +3089,7 @@ https://en.wikipedia.org/wiki/Anal_fissure - *"An anal fissure is a break or tea
 
 reddit
 
-* [Anal fissure after bottom surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/10bfwzk/anal_fissure_after_bottom_surgery/) by Nyyxxen in 2023
+* [Anal fissure after bottom surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10bfwzk/anal_fissure_after_bottom_surgery/) by Nyyxxen in 2023
 
 <br />
 
@@ -3103,9 +3103,9 @@ I've only put a few here, but there are (many) more listed on the surgeons pages
 
 reddit
 
-* [u/EmmaLake](https://www.reddit.com/user/EmmaLake)
-* [Giving a helpful bit of very true and bad news on a Beverly Hills SRS surgeon Dr. Alex S. SinClair....!!!](https://www.reddit.com/r/Transgender_Surgeries/comments/gy8tfx/giving_a_helpful_bit_of_very_true_and_bad_news_on/) by 11com69 in 2020, photos [here](https://i.ibb.co/zSmzvrF/20190724-174435.jpg)
-* [Do not go to Dr. Schechter post-op photos (nsfw)](https://www.reddit.com/r/Transgender_Surgeries/comments/7rtada/do_not_go_to_dr_schechter_postop_photos_nsfw/) in 2018, photos [here](https://imgur.com/a/rIbvC).
+* [u/EmmaLake<sup>R</sup>](https://www.reddit.com/user/EmmaLake)
+* [Giving a helpful bit of very true and bad news on a Beverly Hills SRS surgeon Dr. Alex S. SinClair....!!!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/gy8tfx/giving_a_helpful_bit_of_very_true_and_bad_news_on/) by 11com69 in 2020, photos [here](https://i.ibb.co/zSmzvrF/20190724-174435.jpg)
+* [Do not go to Dr. Schechter post-op photos (nsfw)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/7rtada/do_not_go_to_dr_schechter_postop_photos_nsfw/) in 2018, photos [here](https://imgur.com/a/rIbvC).
 
 YouTube
 
@@ -3128,13 +3128,13 @@ reddit subs
 
 See also
 
-*  [r/Healthyhooha](https://www.reddit.com/r/Healthyhooha) - *"This is a sub for safe, open discussion about the maintenance, habits, questions, and tips related to vaginal and vulvular health."*
+*  [r/Healthyhooha<sup>R</sup>](https://www.reddit.com/r/Healthyhooha) - *"This is a sub for safe, open discussion about the maintenance, habits, questions, and tips related to vaginal and vulvular health."*
 
 Not necessarily a complication of surgery.
 
 * [Neovaginas need support microbial support to avoid bad smell](https://old.reddit.com/r/Transgender_Surgeries/comments/1ae8n8c/neovaginas_need_support_microbial_support_to/) by mililanigirl in 2024
-* [keep getting BV](https://www.reddit.com/r/Transgender_Surgeries/comments/xa4spk/keep_getting_bv/) by Melissa7d in 2022
-* [PSA: How I got rid of my awfully stubborn bacterial vaginosis (BV)](https://www.reddit.com/r/asktransgender/comments/adfnx1/psa_how_i_got_rid_of_my_awfully_stubborn/) by verypersonalq in 2019
+* [keep getting BV<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/xa4spk/keep_getting_bv/) by Melissa7d in 2022
+* [PSA: How I got rid of my awfully stubborn bacterial vaginosis (BV)<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/adfnx1/psa_how_i_got_rid_of_my_awfully_stubborn/) by verypersonalq in 2019
 
 <br />
 
@@ -3144,7 +3144,7 @@ Not necessarily a complication of surgery.
 
 reddit
 
-* [Experiences with "Cowper's Cyst"?](https://www.reddit.com/r/Transgender_Surgeries/comments/1fi8ipt/experiences_with_cowpers_cyst/) by cyberpunk_trans in 2024 - *" I'm a few years post-bottom surgery, and 1 year post-revision. I had my surgery performed at NYU by Dr. RBL. Shortly after my revision, I complained to my surgeon about some swelling in the area next to my urethra, on one side. It was swollen and slightly dark-colored. She suggested it may be a cyst, and prescribed some cream to see if it would resolve itself. It didn't resolve itself. The swelling remained and it was somewhat inconvenient and occasionally uncomfortable for a number of months. Finally, I flew to NY for a post-op visit, and the Dr was able to take a closer look. Her conclusion was that it was a "cowper's cyst" - a cyst formed from cowper's gland fluid, possibly from some blockage in the duct. She nicked it with some scissors and allowed it to drain. It's been a few days since then, and the swelling has gone down considerably. It's my hope that the cyst is resolved. If it comes back, I'll have to schedule a surgery in NY for a more through cyst excision. Notably, Dr. RBL mentioned that she does occasionally see this happen with some bottom surgery patients, but did not know why it occurs."*
+* [Experiences with "Cowper's Cyst"?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1fi8ipt/experiences_with_cowpers_cyst/) by cyberpunk_trans in 2024 - *" I'm a few years post-bottom surgery, and 1 year post-revision. I had my surgery performed at NYU by Dr. RBL. Shortly after my revision, I complained to my surgeon about some swelling in the area next to my urethra, on one side. It was swollen and slightly dark-colored. She suggested it may be a cyst, and prescribed some cream to see if it would resolve itself. It didn't resolve itself. The swelling remained and it was somewhat inconvenient and occasionally uncomfortable for a number of months. Finally, I flew to NY for a post-op visit, and the Dr was able to take a closer look. Her conclusion was that it was a "cowper's cyst" - a cyst formed from cowper's gland fluid, possibly from some blockage in the duct. She nicked it with some scissors and allowed it to drain. It's been a few days since then, and the swelling has gone down considerably. It's my hope that the cyst is resolved. If it comes back, I'll have to schedule a surgery in NY for a more through cyst excision. Notably, Dr. RBL mentioned that she does occasionally see this happen with some bottom surgery patients, but did not know why it occurs."*
 
 <br />
 
@@ -3152,7 +3152,7 @@ reddit
 
 ### Death
 
-See [Death](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#death) on the main surgery wiki page.
+See [Death<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#death) on the main surgery wiki page.
 
 <br />
 
@@ -3166,8 +3166,8 @@ Wound separation
 
 reddit
 
-* [(Graphic!) 17 days post-op SRS; wound separation.](https://www.reddit.com/r/Transgender_Surgeries/comments/pywvli/graphic_17_days_postop_srs_wound_separation/) by purplechri in 2021
-* [13 days post op and I think I have an infected wound separation on my labia](https://www.reddit.com/r/Transgender_Surgeries/comments/mug37o/13_days_post_op_and_i_think_i_have_an_infected/) by MissInterpreted22  in 2021
+* [(Graphic!) 17 days post-op SRS; wound separation.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pywvli/graphic_17_days_postop_srs_wound_separation/) by purplechri in 2021
+* [13 days post op and I think I have an infected wound separation on my labia<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/mug37o/13_days_post_op_and_i_think_i_have_an_infected/) by MissInterpreted22  in 2021
 
 <br />
 
@@ -3180,12 +3180,12 @@ Depth or tightness.
 reddit
 
 * [Extreme dilation pain](https://www.susans.org/forums/index.php/topic,256653.0.html) by Emma Landing in 2022
-* [Starfish technique for neovaginal opening scar tissue restriction and lack of vaginal aperture width.](https://www.reddit.com/r/DrWillPowers/comments/tlgf73/starfish_technique_for_neovaginal_opening_scar/) by Drwillpowers in 2022
-* [Depth gaining progress](https://www.reddit.com/r/Transgender_Surgeries/comments/rt5aqy/depth_gaining_progress/) by galjer10n in 2022, surgeon Chris McClung (USA)
-* reply to [Confused about vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/it3y44/confused_about_vaginoplasty/g5dqh68/) by Maybebaby57 in 2020
-* [Succesful Attempt at Gaining Depth](https://www.reddit.com/r/Transgender_Surgeries/comments/go274u/succesful_attempt_at_gaining_depth/) by 9lexi in 2020 - *"In the name of data compilation, I am very happy to report that I have gained approx 1.5-2" of depth, overall. The 6-inch mark on my dilator now sits flush with my labia minora. This was achieved simply by putting extra pressure on the dilator, as advised on the previous thread and by my surgical nurse when consulted. I occasionaly use coconut oil as a lubricant, which has had the added effect of softening the skin around my pelvic floor considerably."*
-    * [Dilation tips to maximise depth?](https://www.reddit.com/r/Transgender_Surgeries/comments/fyrxcn/dilation_tips_to_maximise_depth/) by 9lexi in 2020 - *"I'd been on blockers since early puberty, and I came out with just over 4 inches of vaginal depth - admittedly a good result for what I had to offer."*
-* reply to [Succesful Attempt at Gaining Depth](https://www.reddit.com/r/Transgender_Surgeries/comments/go274u/succesful_attempt_at_gaining_depth/frddvdj/) by darthemofan *"this matches my experiences: it is possible to gain or regain depth, contrary to what the surgeons proclaim... I see from the other posts you had surgery 4 month ago. I do not think such results are replicable much further than than 4 month mark (1.5 to 2") but 0.5 to 1" might within 6 month to 1 year. I do not know if the effect can be cumulative... With Suporn, I gained about 1.5 inches in the first 2 months, to about 7.5 as measured with the L Due to serious disease, I could not dilate for a while at about 8 month post op. It was not SRS related but really bad and I didn't have my mind on that. It was about 2 month stop. Hard to remember, it's a bad experience I try to forget I lost about 1 inch, and have since regained / relost/ regained some of that. Currently, at least on the S, I'm at 6.5, on the L I used to be at 6 but working up Then a few month ago I have lost the M dilator (yeah my bad, don't do drugs kids) making it tough to work with just S and L so I'm back to 5.5 on the L while still at 6.5 on the S I will try to get soulsource or something with E3 oil to go back to at least 6.5 on L"*
+* [Starfish technique for neovaginal opening scar tissue restriction and lack of vaginal aperture width.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/tlgf73/starfish_technique_for_neovaginal_opening_scar/) by Drwillpowers in 2022
+* [Depth gaining progress<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rt5aqy/depth_gaining_progress/) by galjer10n in 2022, surgeon Chris McClung (USA)
+* reply to [Confused about vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/it3y44/confused_about_vaginoplasty/g5dqh68/) by Maybebaby57 in 2020
+* [Succesful Attempt at Gaining Depth<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/go274u/succesful_attempt_at_gaining_depth/) by 9lexi in 2020 - *"In the name of data compilation, I am very happy to report that I have gained approx 1.5-2" of depth, overall. The 6-inch mark on my dilator now sits flush with my labia minora. This was achieved simply by putting extra pressure on the dilator, as advised on the previous thread and by my surgical nurse when consulted. I occasionaly use coconut oil as a lubricant, which has had the added effect of softening the skin around my pelvic floor considerably."*
+    * [Dilation tips to maximise depth?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/fyrxcn/dilation_tips_to_maximise_depth/) by 9lexi in 2020 - *"I'd been on blockers since early puberty, and I came out with just over 4 inches of vaginal depth - admittedly a good result for what I had to offer."*
+* reply to [Succesful Attempt at Gaining Depth<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/go274u/succesful_attempt_at_gaining_depth/frddvdj/) by darthemofan *"this matches my experiences: it is possible to gain or regain depth, contrary to what the surgeons proclaim... I see from the other posts you had surgery 4 month ago. I do not think such results are replicable much further than than 4 month mark (1.5 to 2") but 0.5 to 1" might within 6 month to 1 year. I do not know if the effect can be cumulative... With Suporn, I gained about 1.5 inches in the first 2 months, to about 7.5 as measured with the L Due to serious disease, I could not dilate for a while at about 8 month post op. It was not SRS related but really bad and I didn't have my mind on that. It was about 2 month stop. Hard to remember, it's a bad experience I try to forget I lost about 1 inch, and have since regained / relost/ regained some of that. Currently, at least on the S, I'm at 6.5, on the L I used to be at 6 but working up Then a few month ago I have lost the M dilator (yeah my bad, don't do drugs kids) making it tough to work with just S and L so I'm back to 5.5 on the L while still at 6.5 on the S I will try to get soulsource or something with E3 oil to go back to at least 6.5 on L"*
 
 Susans
 
@@ -3204,7 +3204,7 @@ https://fertilitypedia.org/edu/therapies/pharmacotherapy-of-vaginismus - mention
 
 This non-trans reddit comment might have some relevance
 
-* [I bought a dildo to "break myself in" after having trouble with penetrative sex with past partners.](https://www.reddit.com/r/TwoXSex/comments/z1q6w6/i_bought_a_dildo_to_break_myself_in_after_having/ixdbkv8/?context=3) - *"When trying to have sex for the first time, it wouldn’t go in and the pain was unbearable. I thought it was because I needed to be “broken in” and kept trying but nothing changed. Had my first OBGYN appointment and all she did was prescribe me vaginal muscle relaxer ointment to put inside there. I applied it before sex and it was like magic. My muscles didn’t contract and was able to have sex and enjoy it. I only needed it 2-3 times after that and after those times I didn’t need it at all. Over a year later and my sex life is now pain free!!"*
+* [I bought a dildo to "break myself in" after having trouble with penetrative sex with past partners.<sup>R</sup>](https://www.reddit.com/r/TwoXSex/comments/z1q6w6/i_bought_a_dildo_to_break_myself_in_after_having/ixdbkv8/?context=3) - *"When trying to have sex for the first time, it wouldn’t go in and the pain was unbearable. I thought it was because I needed to be “broken in” and kept trying but nothing changed. Had my first OBGYN appointment and all she did was prescribe me vaginal muscle relaxer ointment to put inside there. I applied it before sex and it was like magic. My muscles didn’t contract and was able to have sex and enjoy it. I only needed it 2-3 times after that and after those times I didn’t need it at all. Over a year later and my sex life is now pain free!!"*
 
 Papers
 
@@ -3218,9 +3218,9 @@ Papers
 
 reddit
 
-* [does your vagina ever stop leaking?](https://www.reddit.com/r/Transgender_Surgeries/comments/twwpap/does_your_vagina_ever_stop_leaking/) by IncognitoGirl81 in 2022
-* [discharge update -- halfway fixed !](https://www.reddit.com/r/Transgender_Surgeries/comments/qsanvi/discharge_update_halfway_fixed/) by florecida in 2021
-    * [discharge](https://www.reddit.com/r/Transgender_Surgeries/comments/qkevst/discharge/) by florecida in 2021
+* [does your vagina ever stop leaking?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/twwpap/does_your_vagina_ever_stop_leaking/) by IncognitoGirl81 in 2022
+* [discharge update -- halfway fixed !<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qsanvi/discharge_update_halfway_fixed/) by florecida in 2021
+    * [discharge<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qkevst/discharge/) by florecida in 2021
 
 <br />
 
@@ -3230,13 +3230,13 @@ reddit
 
 reddit
 
-* [Bottom Surgery/Tracheal shave Update: Marci Bowers, Min Jun, Dev Gurjala, Ellie Ley](https://www.reddit.com/r/Transgender_Surgeries/comments/127fxuo/bottom_surgerytracheal_shave_update_marci_bowers/) by AlaynasChoppy in 2023 - Surgery with Bowers, *"She also has so so many cases where she leaves too much erectile tissue, it's a common Bowers issue... My first consultation was with Dr. Min Jun... He also said that he didnt feel super confident removing the erectile tissue, and to quote him "thats something that important to nail the first time.""*
-* [Vaginal obstruction](https://www.reddit.com/r/Transgender_Surgeries/comments/o7oeg7/vaginal_obstruction/) by fatairae in 2021
-* [Questions about extra erectile tissue](https://www.reddit.com/r/Transgender_Surgeries/comments/hpbaxc/questions_about_extra_erectile_tissue/) by atlshuizhang in 2020
-* [Erectile Tissue Issues in Post-Operative Trans Women.](https://www.reddit.com/r/DrWillPowers/comments/gt1sha/erectile_tissue_issues_in_postoperative_trans/) by throwaway65843484 in 2020
-* [Leftover erectile tissue, and what to do about it.](https://www.reddit.com/r/Transgender_Surgeries/comments/emp67c/leftover_erectile_tissue_and_what_to_do_about_it/) by KarlaTheWitch in 2020
-* [SRS with Dr Suporn PDF 5th Edition](https://www.reddit.com/r/Transgender_Surgeries/comments/fayd3p/srs_with_dr_suporn_pdf_5th_edition/)
-* reply to [Vaginoplasty technique in Linköping](https://www.reddit.com/r/transnord/comments/dfexf3/vaginoplasty_technique_in_link%C3%B6ping/f36zn9h/) by ligg-e-woo in 2019
+* [Bottom Surgery/Tracheal shave Update: Marci Bowers, Min Jun, Dev Gurjala, Ellie Ley<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/127fxuo/bottom_surgerytracheal_shave_update_marci_bowers/) by AlaynasChoppy in 2023 - Surgery with Bowers, *"She also has so so many cases where she leaves too much erectile tissue, it's a common Bowers issue... My first consultation was with Dr. Min Jun... He also said that he didnt feel super confident removing the erectile tissue, and to quote him "thats something that important to nail the first time.""*
+* [Vaginal obstruction<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/o7oeg7/vaginal_obstruction/) by fatairae in 2021
+* [Questions about extra erectile tissue<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hpbaxc/questions_about_extra_erectile_tissue/) by atlshuizhang in 2020
+* [Erectile Tissue Issues in Post-Operative Trans Women.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/gt1sha/erectile_tissue_issues_in_postoperative_trans/) by throwaway65843484 in 2020
+* [Leftover erectile tissue, and what to do about it.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/emp67c/leftover_erectile_tissue_and_what_to_do_about_it/) by KarlaTheWitch in 2020
+* [SRS with Dr Suporn PDF 5th Edition<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/fayd3p/srs_with_dr_suporn_pdf_5th_edition/)
+* reply to [Vaginoplasty technique in Linköping<sup>R</sup>](https://www.reddit.com/r/transnord/comments/dfexf3/vaginoplasty_technique_in_link%C3%B6ping/f36zn9h/) by ligg-e-woo in 2019
 
 YouTube
 
@@ -3257,8 +3257,8 @@ Susans
 
 reddit
 
-* [Uncomfortably wet all the time](https://www.reddit.com/r/Healthyhooha/comments/gfnnt1/uncomfortably_wet_all_the_time/) in 2020 - this is a ciswomen
-* [Does anyone get constant leaking after a year with PPV?](https://www.reddit.com/r/Transgender_Surgeries/comments/g17d05/does_anyone_get_constant_leaking_after_a_year/) by krone6 in 2020
+* [Uncomfortably wet all the time<sup>R</sup>](https://www.reddit.com/r/Healthyhooha/comments/gfnnt1/uncomfortably_wet_all_the_time/) in 2020 - this is a ciswomen
+* [Does anyone get constant leaking after a year with PPV?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/g17d05/does_anyone_get_constant_leaking_after_a_year/) by krone6 in 2020
 
 YouTube
 
@@ -3276,40 +3276,40 @@ https://en.wikipedia.org/wiki/Granulation_tissue
 
 reddit
 
-* [Need help with first silver nitrate application yesterday](https://www.reddit.com/r/Transgender_Surgeries/comments/1e7wxmt/need_help_with_first_silver_nitrate_application/) by grsfollowupquestions in 2024
-* [months post-op Brassard](https://www.reddit.com/r/Transgender_Surgeries/comments/1aqoum7/2_months_postop_brassard/) by u5ern4me2 in 2024
-* reply to [Don't dilate like that, dilate like this. You're probably doing it wrong (Surgeons hate him! learn this one cool trick!)](https://www.reddit.com/r/DrWillPowers/comments/15t8v7h/dont_dilate_like_that_dilate_like_this_youre/k5ar0mc/) by Personal-Tutor5225
+* [Need help with first silver nitrate application yesterday<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1e7wxmt/need_help_with_first_silver_nitrate_application/) by grsfollowupquestions in 2024
+* [months post-op Brassard<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1aqoum7/2_months_postop_brassard/) by u5ern4me2 in 2024
+* reply to [Don't dilate like that, dilate like this. You're probably doing it wrong (Surgeons hate him! learn this one cool trick!)<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/15t8v7h/dont_dilate_like_that_dilate_like_this_youre/k5ar0mc/) by Personal-Tutor5225
  in 2023 - *"I sourced this : Kenalog In Orabase (Triamcinolone Acetonide) - 0.1% (5g)"* and Powers replies *"That's the stuff I use. Basically the same thing + benzocaine. But topically on granulation tissue, it causes it to turn to non-granulation tissue extremely rapidly. Usually only one application is needed. It's quite effective."*
-* [7 Weeks Post PIV SRS (Dany Hanna)](https://www.reddit.com/r/Transgender_Surgeries/comments/13kw92i/7_weeks_post_piv_srs_dany_hanna/) by Narrow-Selection3725 in 2023
-* [Dr Brassard inside cavity hyper granulation pics. I will post fully healed cavity pics when im done with the weekly treatment. Pictures taken at 4months post op.](https://www.reddit.com/r/Transgender_Surgeries/comments/12vexl4/dr_brassard_inside_cavity_hyper_granulation_pics/) by Alexe1337 in 2023
-* [Is this Granulation?](https://www.reddit.com/r/Transgender_Surgeries/comments/12nexp8/is_this_granulation/) by ExpJustice in 2023
-* [6 Weeks Post PIV. Red Areas Recently Appeared.](https://www.reddit.com/r/Transgender_Surgeries/comments/13e9zkd/6_weeks_post_piv_red_areas_recently_appeared/) by Narrow-Selection3725 in 2023
-* [Day 48 post SRS (I think). I'm still alive... I loosing hope for my vagina to look like one... I'm not posting because there is not much changes... The only thing is that now I'm using the big dilatator and it hurts so damn much.](https://www.reddit.com/r/Transgender_Surgeries/comments/xwcqad/day_48_post_srs_i_think_im_still_alive_i_loosing/) by Cut3LittleBunny in 2022
-* [Two things, one personal, and one a neat trick for post-op granulation tissue.](https://www.reddit.com/r/DrWillPowers/comments/wstc5z/two_things_one_personal_and_one_a_neat_trick_for/) by Drwillpowers in 2022 - *"... Apparently I should have posted on this ages ago? Silver nitrate certainly works for granulation tissue, but I think it is absolutely not the best option for post-op trans people. It stains the tissue and can leave semi-permanent "tattoos" it tends to spread beyond where you want it to go and can atrophy other tissue a little bit, and its only somewhat effective. Steroid injections are also commonly used for overly prolific granulation tissue, but once again, hard to keep where you put them and its easy to overshoot and cause atrophy. What would be a lot better would be a topical steroid, but in a wet area, creams/ointments just spread around like mad. There exists "triamcinolone dental paste". The stuff is hydroscopic and was designed to be placed in the mouth on apthous ulcerations (canker sores). As a result, you can take a little dab of this paste, and push it onto the cancer sore, and it rapidly absorbs water from the surrounding tissues and glues itself in place, eluting the steroid directly at the site of application but minimal exposure to the surrounding areas. As a result, I can take this stuff, and basically place it on undesirable granulation tissue, and literally within days, it begins to regress backwards due to its impact on the vascular proliferation. Once the granulation tissue becomes a regular old wound bed again, you just stop using it and hopefully things heal over right. If not, and it starts to come back, you just bonk it again with another coating once a day until you get where you need to be. This is far less irritating, seems to be extremely effective, and is highly precise. I couldn't find any evidence when I searched of this drug in studies or elsewhere being used in this fashion, and its exceptionally effective and in my opinion superior to that of other options. Sorry I didn't post on this one before, sometimes I do stuff and not really think about it being a big deal, but I've had a few of these in a row lately and the patients commented on how much more convenient/effective it was and I realized I should prob post it up."*
-* [Is this hyper granulation? Sorry for graphic pic](https://www.reddit.com/r/Transgender_Surgeries/comments/wkg68u/is_this_hyper_granulation_sorry_for_graphic_pic/) by throwaway5523354 in 2022
-* [Silver Nitrate Discharge](https://www.reddit.com/r/Transgender_Surgeries/comments/vrf91p/silver_nitrate_discharge/) by Tylizle
+* [7 Weeks Post PIV SRS (Dany Hanna)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/13kw92i/7_weeks_post_piv_srs_dany_hanna/) by Narrow-Selection3725 in 2023
+* [Dr Brassard inside cavity hyper granulation pics. I will post fully healed cavity pics when im done with the weekly treatment. Pictures taken at 4months post op.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/12vexl4/dr_brassard_inside_cavity_hyper_granulation_pics/) by Alexe1337 in 2023
+* [Is this Granulation?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/12nexp8/is_this_granulation/) by ExpJustice in 2023
+* [6 Weeks Post PIV. Red Areas Recently Appeared.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/13e9zkd/6_weeks_post_piv_red_areas_recently_appeared/) by Narrow-Selection3725 in 2023
+* [Day 48 post SRS (I think). I'm still alive... I loosing hope for my vagina to look like one... I'm not posting because there is not much changes... The only thing is that now I'm using the big dilatator and it hurts so damn much.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/xwcqad/day_48_post_srs_i_think_im_still_alive_i_loosing/) by Cut3LittleBunny in 2022
+* [Two things, one personal, and one a neat trick for post-op granulation tissue.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/wstc5z/two_things_one_personal_and_one_a_neat_trick_for/) by Drwillpowers in 2022 - *"... Apparently I should have posted on this ages ago? Silver nitrate certainly works for granulation tissue, but I think it is absolutely not the best option for post-op trans people. It stains the tissue and can leave semi-permanent "tattoos" it tends to spread beyond where you want it to go and can atrophy other tissue a little bit, and its only somewhat effective. Steroid injections are also commonly used for overly prolific granulation tissue, but once again, hard to keep where you put them and its easy to overshoot and cause atrophy. What would be a lot better would be a topical steroid, but in a wet area, creams/ointments just spread around like mad. There exists "triamcinolone dental paste". The stuff is hydroscopic and was designed to be placed in the mouth on apthous ulcerations (canker sores). As a result, you can take a little dab of this paste, and push it onto the cancer sore, and it rapidly absorbs water from the surrounding tissues and glues itself in place, eluting the steroid directly at the site of application but minimal exposure to the surrounding areas. As a result, I can take this stuff, and basically place it on undesirable granulation tissue, and literally within days, it begins to regress backwards due to its impact on the vascular proliferation. Once the granulation tissue becomes a regular old wound bed again, you just stop using it and hopefully things heal over right. If not, and it starts to come back, you just bonk it again with another coating once a day until you get where you need to be. This is far less irritating, seems to be extremely effective, and is highly precise. I couldn't find any evidence when I searched of this drug in studies or elsewhere being used in this fashion, and its exceptionally effective and in my opinion superior to that of other options. Sorry I didn't post on this one before, sometimes I do stuff and not really think about it being a big deal, but I've had a few of these in a row lately and the patients commented on how much more convenient/effective it was and I realized I should prob post it up."*
+* [Is this hyper granulation? Sorry for graphic pic<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/wkg68u/is_this_hyper_granulation_sorry_for_graphic_pic/) by throwaway5523354 in 2022
+* [Silver Nitrate Discharge<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vrf91p/silver_nitrate_discharge/) by Tylizle
 in 2022
-* [Reoccurring Infection](https://www.reddit.com/r/Transgender_Surgeries/comments/t1m7n8/reoccurring_infection/) by  transthrowaway7895 in 2022 - *"I got the issue checked out by a doctor who works with post op patients. Turns out it wasn't a reoccurring infection but granular tissue at the apex. Dilation was irritating it and causing blood, the odor, and the weird discharge. I did seem to have had a BV infection but it either was taken care of by the initial antibiotics or switch to ph balanced lube after. The doctor I saw applied silver nitrate and the symptoms improved / disappeared immediately after."*
-* [Persistent Granulation Tissue](https://www.reddit.com/r/Transgender_Surgeries/comments/ueskak/persistent_granulation_tissue/) by  SinAthena in 2022
-* [4 month post op granulation tissue/bleeding](https://www.reddit.com/r/Transgender_Surgeries/comments/tzju1u/4_month_post_op_granulation_tissuebleeding/) by Vannaspite in 2022
-* [Feeling Suicidal After SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/sfc4ka/feeling_suicidal_after_srs/) by u1traviolette in 2022
-* reply to [Question on discharge postop - how long do you end up wearing pads for?](https://www.reddit.com/r/Transgender_Surgeries/comments/qere0i/question_on_discharge_postop_how_long_do_you_end/hhxkhop/?context=3) by RxDotaValk in 2021 - *"Once my surgeon used silver nitrate to burn away the granulation tissue (this happened at my 6 month follow up appointment), my daily amount of discharge decreased dramatically. It was night and day. I was getting really nervous because at 6 months and still having to wear pads or changing liners every few hours...it was causing a lot of anxiety for me. I was wondering if this was the new normal. If you have a lot of granulation tissue (the lumpy bright red tissue), make an appointment with your surgeon asap to get it removed. They cut off a piece when I was in the office but it didn't hurt at all, surprisingly. My surgeon also gave me a prescription for [clobetasol](https://en.wikipedia.org/wiki/Clobetasol_propionate) that has helped clear up almost all of the remaining granulation tissue that didn't go away after the silver nitrate treatment."*
-* [what should I expect from silver nitrate for granulation tissue?](https://www.reddit.com/r/Transgender_Surgeries/comments/qajcsn/what_should_i_expect_from_silver_nitrate_for/) by IncognitoGirl81 in 2021
-* [Almost 5 months postop - skin grafted canal addition from original zero depth vaginoplasty 10 months prior](https://www.reddit.com/r/Transgender_Surgeries/comments/qe9sdi/almost_5_months_postop_skin_grafted_canal/) by galjer10n in 2021
-* [Dilating after a silver nitrate treatment?](https://www.reddit.com/r/Transgender_Surgeries/comments/o248yv/dilating_after_a_silver_nitrate_treatment/) by  saoirse_floflo in 2021
-* [This treatment reduced my hypergranulation when silver nitrate didn't](https://www.reddit.com/r/Transgender_Surgeries/comments/oq61vz/this_treatment_reduced_my_hypergranulation_when/) by RosyGlow in 2021
-* [Reoccurring granulation, post srs, any advise](https://www.reddit.com/r/Transgender_Surgeries/comments/mnbmgp/reoccurring_granulation_post_srs_any_advise/) by Andsheshallnotnofear in 2021
-* [Silver Nitrate Use](https://www.reddit.com/r/Transgender_Surgeries/comments/kyyar4/silver_nitrate_use/) by LongBeachVero in 2021
-* [Discharge after GCS 6 months post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/kl685u/discharge_after_gcs_6_months_postop/) by Melissa7d in 2020
-* [Has anyone had granulation on the clitoris?](https://www.reddit.com/r/Transgender_Surgeries/comments/jbrqyp/has_anyone_had_granulation_on_the_clitoris/) by notyourdonut in 2020
-* [Granulation at 10 months](https://www.reddit.com/r/Transgender_Surgeries/comments/ghhkf8/granulation_at_10_months/) by throwawaymybut in 2020
-* [Douching & Granulation](https://www.reddit.com/r/Transgender_Surgeries/comments/hj8gz7/douching_granulation/) by 9lexi in 2020
-* [granulation help?](https://www.reddit.com/r/Transgender_Surgeries/comments/go61ji/granulation_help/) by zFr0st in 2020
-* [Complications](https://www.reddit.com/r/Transgender_Surgeries/comments/ghwvli/complications/) by ExLibrisMortis in 2020 - surgeons is Bowers in the USA
-* [SRS: granulation inside vagina](https://www.reddit.com/r/Transgender_Surgeries/comments/eg0uyd/srs_granulation_inside_vagina/) by smilewithnose in 2020
-* [Steroid cream for granulated tissue. This work for anyone?](https://www.reddit.com/r/Transgender_Surgeries/comments/e76jqf/steroid_cream_for_granulated_tissue_this_work_for/) by pile_drive_me in 2019
-* [Should I use silver nitrate by myself??](https://www.reddit.com/r/Transgender_Surgeries/comments/ci8824/should_i_use_silver_nitrate_by_myself/) by lovelikeamelie in 2019
-* reply to [I need your help... because... I don't know how much longer I can keep going on this way. Please. Any help. I'm begging you. ](https://www.reddit.com/r/asktransgender/comments/9220a2/i_need_your_help_because_i_dont_know_how_much/e33do5q/) by EmmaLake in 2018 - an example of post-SRS granulation 
+* [Reoccurring Infection<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/t1m7n8/reoccurring_infection/) by  transthrowaway7895 in 2022 - *"I got the issue checked out by a doctor who works with post op patients. Turns out it wasn't a reoccurring infection but granular tissue at the apex. Dilation was irritating it and causing blood, the odor, and the weird discharge. I did seem to have had a BV infection but it either was taken care of by the initial antibiotics or switch to ph balanced lube after. The doctor I saw applied silver nitrate and the symptoms improved / disappeared immediately after."*
+* [Persistent Granulation Tissue<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ueskak/persistent_granulation_tissue/) by  SinAthena in 2022
+* [4 month post op granulation tissue/bleeding<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/tzju1u/4_month_post_op_granulation_tissuebleeding/) by Vannaspite in 2022
+* [Feeling Suicidal After SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/sfc4ka/feeling_suicidal_after_srs/) by u1traviolette in 2022
+* reply to [Question on discharge postop - how long do you end up wearing pads for?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qere0i/question_on_discharge_postop_how_long_do_you_end/hhxkhop/?context=3) by RxDotaValk in 2021 - *"Once my surgeon used silver nitrate to burn away the granulation tissue (this happened at my 6 month follow up appointment), my daily amount of discharge decreased dramatically. It was night and day. I was getting really nervous because at 6 months and still having to wear pads or changing liners every few hours...it was causing a lot of anxiety for me. I was wondering if this was the new normal. If you have a lot of granulation tissue (the lumpy bright red tissue), make an appointment with your surgeon asap to get it removed. They cut off a piece when I was in the office but it didn't hurt at all, surprisingly. My surgeon also gave me a prescription for [clobetasol](https://en.wikipedia.org/wiki/Clobetasol_propionate) that has helped clear up almost all of the remaining granulation tissue that didn't go away after the silver nitrate treatment."*
+* [what should I expect from silver nitrate for granulation tissue?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qajcsn/what_should_i_expect_from_silver_nitrate_for/) by IncognitoGirl81 in 2021
+* [Almost 5 months postop - skin grafted canal addition from original zero depth vaginoplasty 10 months prior<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qe9sdi/almost_5_months_postop_skin_grafted_canal/) by galjer10n in 2021
+* [Dilating after a silver nitrate treatment?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/o248yv/dilating_after_a_silver_nitrate_treatment/) by  saoirse_floflo in 2021
+* [This treatment reduced my hypergranulation when silver nitrate didn't<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/oq61vz/this_treatment_reduced_my_hypergranulation_when/) by RosyGlow in 2021
+* [Reoccurring granulation, post srs, any advise<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/mnbmgp/reoccurring_granulation_post_srs_any_advise/) by Andsheshallnotnofear in 2021
+* [Silver Nitrate Use<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kyyar4/silver_nitrate_use/) by LongBeachVero in 2021
+* [Discharge after GCS 6 months post-op<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kl685u/discharge_after_gcs_6_months_postop/) by Melissa7d in 2020
+* [Has anyone had granulation on the clitoris?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jbrqyp/has_anyone_had_granulation_on_the_clitoris/) by notyourdonut in 2020
+* [Granulation at 10 months<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ghhkf8/granulation_at_10_months/) by throwawaymybut in 2020
+* [Douching & Granulation<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hj8gz7/douching_granulation/) by 9lexi in 2020
+* [granulation help?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/go61ji/granulation_help/) by zFr0st in 2020
+* [Complications<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ghwvli/complications/) by ExLibrisMortis in 2020 - surgeons is Bowers in the USA
+* [SRS: granulation inside vagina<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/eg0uyd/srs_granulation_inside_vagina/) by smilewithnose in 2020
+* [Steroid cream for granulated tissue. This work for anyone?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/e76jqf/steroid_cream_for_granulated_tissue_this_work_for/) by pile_drive_me in 2019
+* [Should I use silver nitrate by myself??<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ci8824/should_i_use_silver_nitrate_by_myself/) by lovelikeamelie in 2019
+* reply to [I need your help... because... I don't know how much longer I can keep going on this way. Please. Any help. I'm begging you. <sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9220a2/i_need_your_help_because_i_dont_know_how_much/e33do5q/) by EmmaLake in 2018 - an example of post-SRS granulation 
 
 Susans
 
@@ -3348,8 +3348,8 @@ Other
 
 reddit
 
-* [How to Avoid a Hematoma? (Orchi Soon!)](https://www.reddit.com/r/Transgender_Surgeries/comments/hjv78c/how_to_avoid_a_hematoma_orchi_soon/) by frankinsenses in 2020
-* [Post-Orchi Hematoma?](https://www.reddit.com/r/Transgender_Surgeries/comments/hjqpor/postorchi_hematoma/) by luna_ladybird in 2020
+* [How to Avoid a Hematoma? (Orchi Soon!)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hjv78c/how_to_avoid_a_hematoma_orchi_soon/) by frankinsenses in 2020
+* [Post-Orchi Hematoma?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hjqpor/postorchi_hematoma/) by luna_ladybird in 2020
 
 <br />
 
@@ -3359,7 +3359,7 @@ reddit
 
 redd
 
-* [Post Op and Bladder Control](https://www.reddit.com/r/Transgender_Surgeries/comments/mnol1o/post_op_and_bladder_control/) by Leeper90 in 2021
+* [Post Op and Bladder Control<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/mnol1o/post_op_and_bladder_control/) by Leeper90 in 2021
 
 <br />
 
@@ -3371,7 +3371,7 @@ Some women have a long and difficult recovery
 
 reddit
 
-* [9 month update - Dr. Bank @ Suporn Clinic](https://www.reddit.com/r/Transgender_Surgeries/comments/eqvk9c/9_month_update_dr_bank_suporn_clinic/) by InevitableAmbition in 2020
+* [9 month update - Dr. Bank @ Suporn Clinic<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/eqvk9c/9_month_update_dr_bank_suporn_clinic/) by InevitableAmbition in 2020
 
 <br />
 
@@ -3379,7 +3379,7 @@ reddit
 
 ### Hair Loss
 
-See [Hair Loss](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#hair-loss) on main surgery wiki page.
+See [Hair Loss<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#hair-loss) on main surgery wiki page.
 
 <br />
 
@@ -3391,7 +3391,7 @@ Anti-depressants, finasteride, low testosterone can all cause problems. For some
 
 reddit
 
-* [Orchiectomy regret?](https://www.reddit.com/r/Transgender_Surgeries/comments/lt1136/orchiectomy_regret/) by CandyappleWinter in 2021
+* [Orchiectomy regret?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lt1136/orchiectomy_regret/) by CandyappleWinter in 2021
 
 <br />
 
@@ -3399,7 +3399,7 @@ reddit
 
 ### Medical Adhesive
 
-* reply to [First day in Bangkok](https://www.reddit.com/r/Transgender_Surgeries/comments/dntdjp/first_day_in_bangkok/fcrseeo/?context=3) by Allieh6935 in 2019 - *"I was allergic to the glue they had on the bandages and the glue used like I have big scars from it "*
+* reply to [First day in Bangkok<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dntdjp/first_day_in_bangkok/fcrseeo/?context=3) by Allieh6935 in 2019 - *"I was allergic to the glue they had on the bandages and the glue used like I have big scars from it "*
 
 <br />
 
@@ -3411,7 +3411,7 @@ https://en.wikipedia.org/wiki/Necrosis - *"Necrosis (from Ancient Greek νέκρ
 
 reddit
 
-* [Necrosis](https://www.reddit.com/r/Transgender_Surgeries/comments/j0664q/necrosis/) by lazylittlelion in 2020
+* [Necrosis<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/j0664q/necrosis/) by lazylittlelion in 2020
 
 <br />
 
@@ -3423,7 +3423,7 @@ https://en.wikipedia.org/wiki/Peripheral_neuropathy
 
 reddit
 
-* [Neuropathy as a result of Complications](https://www.reddit.com/r/Transgender_Surgeries/comments/i7w98r/neuropathy_as_a_result_of_complications/) by  imnotabadword in 2020
+* [Neuropathy as a result of Complications<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i7w98r/neuropathy_as_a_result_of_complications/) by  imnotabadword in 2020
 
 <br />
 
@@ -3448,16 +3448,16 @@ Possible reasons for pain include
 reddit
 
 * reply to [Is anyone just tired of dealing with surgeons and kinda shocked at how often they are blatantly bad people or just have horrible bedside manner?](https://old.reddit.com/r/Transgender_Surgeries/comments/1eeugn4/is_anyone_just_tired_of_dealing_with_surgeons_and/lfjxsld/?context=3) by TransexxedTransexual in 2024 - *"I had a vaginectomy and part of a Johansson's urethroplasty with Dr. Dmitriy Nikolavsky in Syracuse, NY... I was in severe pain for the next week. I told this to the medical team but they couldn't have responded worse... I went in to get seen and check if there's an infection. There wasn't, I was just in pain because I had an intense surgery. The nurse coordinator there, Amy, initially said I can't be in pain. I continuously stated that I am definitely in severe pain. She then said that I can't be in that much pain, and when I said I am, she said that the pain must be from something else and can't be from surgery...  The entire time they saw me I was in severe pain and completely unable to sit down at all. Sarah, the nurse practitioner there, made it seem like I was drug seeking and "refusing" to cooperate and essentially wrote the visit notes that way. She said they can only treat post op pain, not chronic pain (I literally just had surgery that week!!!)...  He then went on a long speech about how he had a patient like me before and how his supervisor is supportive of him not operating on anyone he doesn't want to, etc. That was the last I had talked to him... He apparently has a habit of doing this. Since this happened to me, I've talked to/heard of at least 5 other people who were treated like this or dropped as patients by Nikolavsky... I would never recommend him to anyone. I regret seeing him and it permanently traumatized me. For months it was difficult to feel any sort of sensation in my penis because I was terrified it would turn into severe pain."*
-* [Warning about Dmitry Nikolavsky in Syracuse, NY](https://www.reddit.com/r/Transgender_Surgeries/comments/16tfp8p/warning_about_dmitry_nikolavsky_in_syracuse_ny/) by warningDMSyrcacuse in 2023 - *"He does not provide adequate pain meds for a lot of people. He gives tramadol, Tylenol, and celebrex for pain by default. No stringer opioids. Even if you think you'd find that to be enough for pain, I strongly, strongly, STRONGLY recommend you tell Nikolavsky that you don't do well with pain at your consult. That way, the office will make an appointment with their pain management clinic (which is like 15 to 20 minutes drive from the hospital) and THEY'LL have to give you/clear you for pain meds. Context: I had no fucking clue they'd do this and was left suffering, I was completely unable to do anything but cry and scream for a week and Nikolavsky's team did nothing about it but minimize my pain and gaslight me ... I have a medication listed in my allergies and his team came in while I was in the hospital and less than 24 hours post op to try and pressure me into taking that medication. During my post op visit, he came in with a resident and when I asked who he was and why he was there, the way he answered made it seem like I wasn't allowed to say no to him being there. "*
-* [Update - painful dilation](https://www.reddit.com/r/Transgender_Surgeries/comments/10b8e8q/update_painful_dilation/) by JustSoBitter in 2023 - *"I went to my GP who prescribed neuropathic painkillers. It totally fixed everything. I even introduced the next size up to my dilator routine and have been able to hit depth consistently. Dilation also takes about half the time it used to."*
-    * [Sharp pains in labia 3 weeks post SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/102l9mo/sharp_pains_in_labia_3_weeks_post_srs/) by JustSoBitter in 2023 - *"I had PIV about three weeks ago... In the past couple of days, I've been having really intense sharp pains around my labia, specifically around the suture lines."*
-* [Post GRS pain relief. What were you given ?](https://www.reddit.com/r/Transgender_Surgeries/comments/r2nqyh/post_grs_pain_relief_what_were_you_given/) by Icy-Yogurt-Leah in 2021
-* [Severe ongoing nerve pain after grs MTF in Thailand](https://www.reddit.com/r/Transgender_Surgeries/comments/pzsbhp/severe_ongoing_nerve_pain_after_grs_mtf_in/) by overlycaucasian1 in 2021
-* [Does the pain ever stop?](https://www.reddit.com/r/Transgender_Surgeries/comments/kaz0eb/does_the_pain_ever_stop/) by Sorvena in 2020
-* [Struggling with post-op pain](https://www.reddit.com/r/Transgender_Surgeries/comments/k1xfpd/struggling_with_postop_pain/) by Sorvena in 2020
-* [Bad experience with Dr. Wittenberg](https://www.reddit.com/r/Transgender_Surgeries/comments/hg176r/bad_experience_with_dr_wittenberg/) by RainbowPassage1 in 2020
-* [Post op girls. How much does it honestly hurt?](https://www.reddit.com/r/MtF/comments/ftwylm/post_op_girls_how_much_does_it_honestly_hurt/) by Shadow_Heart_ in 2020
-* [\[NYT\] “After surgery in Germany I wanted Vicodin, not herbal tea”](https://www.reddit.com/r/medicine/comments/7tkh9j/nyt_after_surgery_in_germany_i_wanted_vicodin_not/) in 2018. This is about the different attitudes to painkillers in Germany vs the USA after surgery.
+* [Warning about Dmitry Nikolavsky in Syracuse, NY<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/16tfp8p/warning_about_dmitry_nikolavsky_in_syracuse_ny/) by warningDMSyrcacuse in 2023 - *"He does not provide adequate pain meds for a lot of people. He gives tramadol, Tylenol, and celebrex for pain by default. No stringer opioids. Even if you think you'd find that to be enough for pain, I strongly, strongly, STRONGLY recommend you tell Nikolavsky that you don't do well with pain at your consult. That way, the office will make an appointment with their pain management clinic (which is like 15 to 20 minutes drive from the hospital) and THEY'LL have to give you/clear you for pain meds. Context: I had no fucking clue they'd do this and was left suffering, I was completely unable to do anything but cry and scream for a week and Nikolavsky's team did nothing about it but minimize my pain and gaslight me ... I have a medication listed in my allergies and his team came in while I was in the hospital and less than 24 hours post op to try and pressure me into taking that medication. During my post op visit, he came in with a resident and when I asked who he was and why he was there, the way he answered made it seem like I wasn't allowed to say no to him being there. "*
+* [Update - painful dilation<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10b8e8q/update_painful_dilation/) by JustSoBitter in 2023 - *"I went to my GP who prescribed neuropathic painkillers. It totally fixed everything. I even introduced the next size up to my dilator routine and have been able to hit depth consistently. Dilation also takes about half the time it used to."*
+    * [Sharp pains in labia 3 weeks post SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/102l9mo/sharp_pains_in_labia_3_weeks_post_srs/) by JustSoBitter in 2023 - *"I had PIV about three weeks ago... In the past couple of days, I've been having really intense sharp pains around my labia, specifically around the suture lines."*
+* [Post GRS pain relief. What were you given ?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/r2nqyh/post_grs_pain_relief_what_were_you_given/) by Icy-Yogurt-Leah in 2021
+* [Severe ongoing nerve pain after grs MTF in Thailand<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pzsbhp/severe_ongoing_nerve_pain_after_grs_mtf_in/) by overlycaucasian1 in 2021
+* [Does the pain ever stop?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kaz0eb/does_the_pain_ever_stop/) by Sorvena in 2020
+* [Struggling with post-op pain<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/k1xfpd/struggling_with_postop_pain/) by Sorvena in 2020
+* [Bad experience with Dr. Wittenberg<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hg176r/bad_experience_with_dr_wittenberg/) by RainbowPassage1 in 2020
+* [Post op girls. How much does it honestly hurt?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/ftwylm/post_op_girls_how_much_does_it_honestly_hurt/) by Shadow_Heart_ in 2020
+* [\[NYT\] “After surgery in Germany I wanted Vicodin, not herbal tea”<sup>R</sup>](https://www.reddit.com/r/medicine/comments/7tkh9j/nyt_after_surgery_in_germany_i_wanted_vicodin_not/) in 2018. This is about the different attitudes to painkillers in Germany vs the USA after surgery.
 
 YouTube
 
@@ -3478,7 +3478,7 @@ https://en.wikipedia.org/wiki/Postural_orthostatic_tachycardia_syndrome - *"Post
 
 reddit
 
-* [Beware of POTS post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/16nx704/beware_of_pots_postop/) by SoVeryBohemian
+* [Beware of POTS post-op<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/16nx704/beware_of_pots_postop/) by SoVeryBohemian
  in 2023 - *" It's when your pressure is naturally a bit down and when you get up your blood doesn't get to the head quickly enough so you might get dizzy, lose your vision for some seconds or outright faint. I'm a big case and it happens basically every day once or twice cause I'm dumb and don't take time to get up. You usually get some seconds of grace of your vision going black and can act quicky by bending down or if it's bad enough sit or lay down to avoid fainting. If it gets to the point of shaking uncontrollably you're most likely going down."* - also see the reply *"What youre describing in this comment is [orthostatic hypotension](https://en.wikipedia.org/wiki/Orthostatic_hypotension) not POTS."*
 
 <br />
@@ -3489,8 +3489,8 @@ reddit
 
 reddit
 
-* [My vagina is falling out (colon vaginoplasty) any ideas wat to do?](https://www.reddit.com/r/Transgender_Surgeries/comments/rt94ss/my_vagina_is_falling_out_colon_vaginoplasty_any/) by Distilled-patient in 2021
-* [Prolapse?](https://www.reddit.com/r/Transgender_Surgeries/comments/kd6dni/prolapse/) by ronin16319 in 2020
+* [My vagina is falling out (colon vaginoplasty) any ideas wat to do?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rt94ss/my_vagina_is_falling_out_colon_vaginoplasty_any/) by Distilled-patient in 2021
+* [Prolapse?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kd6dni/prolapse/) by ronin16319 in 2020
 
 YouTube
 
@@ -3511,10 +3511,10 @@ See also Vesicovaginal Fistula.
 
 reddit
 
-* [Post-vaginoplasty, photographoc journal of my discharge (gross)](https://www.reddit.com/r/Transgender_Surgeries/comments/rmzn3i/postvaginoplasty_photographoc_journal_of_my/) by i_am_xs in 2021 - surgeon is Praful Ramineni (USA)
-    * [Super awkward post-op question (vaginoplasty, Tuesday of last week)](https://www.reddit.com/r/Transgender_Surgeries/comments/rk02ek/super_awkward_postop_question_vaginoplasty/)  by i_am_xs in 2021
-* [Rectovaginal Fistula suspicion](https://www.reddit.com/r/Transgender_Surgeries/comments/lu1k6b/rectovaginal_fistula_suspicion/) by Musca75 in 2021
-* [Can't find resources on srs revision options](https://www.reddit.com/r/asktransgender/comments/cav7x3/cant_find_resources_on_srs_revision_options/) by knightlyslain in 2019 - surgeon is Chettawut (Thailand)
+* [Post-vaginoplasty, photographoc journal of my discharge (gross)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rmzn3i/postvaginoplasty_photographoc_journal_of_my/) by i_am_xs in 2021 - surgeon is Praful Ramineni (USA)
+    * [Super awkward post-op question (vaginoplasty, Tuesday of last week)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rk02ek/super_awkward_postop_question_vaginoplasty/)  by i_am_xs in 2021
+* [Rectovaginal Fistula suspicion<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lu1k6b/rectovaginal_fistula_suspicion/) by Musca75 in 2021
+* [Can't find resources on srs revision options<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/cav7x3/cant_find_resources_on_srs_revision_options/) by knightlyslain in 2019 - surgeon is Chettawut (Thailand)
 
 YouTube
 
@@ -3536,9 +3536,9 @@ YouTube
 * Preecha (Thailand) 0% (0 of 395)
 * Suporn (Thailand) 0.08% (2 in 2500)
 * Bellringer (UK) 0.75% (6 in 800)
-* Tina Rashid (UK) 1 in 450 (see [here](https://www.reddit.com/r/Transgender_Surgeries/comments/16v5keh/be_aware_of_the_risks_that_come_with_grs/k2u3lu5/?context=3))
-* Wittenberg (USA) 2% (see [here](https://www.reddit.com/r/Transgender_Surgeries/comments/ng0w4r/how_rare_is_a_fistula_after_grs_surgery/gyot6j5/) in 2021)
-* McGinn (USA) 0.6% (see [here](https://www.reddit.com/r/Transgender_Surgeries/comments/ng0w4r/how_rare_is_a_fistula_after_grs_surgery/gyot6j5/) in 2021)
+* Tina Rashid (UK) 1 in 450 (see [here<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/16v5keh/be_aware_of_the_risks_that_come_with_grs/k2u3lu5/?context=3))
+* Wittenberg (USA) 2% (see [here<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ng0w4r/how_rare_is_a_fistula_after_grs_surgery/gyot6j5/) in 2021)
+* McGinn (USA) 0.6% (see [here<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ng0w4r/how_rare_is_a_fistula_after_grs_surgery/gyot6j5/) in 2021)
 
 Sources
 
@@ -3546,7 +3546,7 @@ Sources
 
 * [Management of Vaginoplasty and Phalloplasty Complications](https://www.urologic.theclinics.com/article/S0094-0143\(19\)30059-X/fulltext) by Jessica N. Scahrdein,Lee C. Zhao, Dmitriy Nikolavsky in 2019
 * [Postoperative complications of male to female sex reassignment surgery: A 10-year French retrospective study.](https://www.ncbi.nlm.nih.gov/pubmed/30269882) in 2019
-* [SRS with Dr Suporn PDF Update 2](https://www.reddit.com/r/asktransgender/comments/7jj0n4/srs_with_dr_suporn_pdf_update_2/) by Suporn2015SRS in 2018
+* [SRS with Dr Suporn PDF Update 2<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/7jj0n4/srs_with_dr_suporn_pdf_update_2/) by Suporn2015SRS in 2018
 * [Clinical Characteristics and Management of Neovaginal Fistulas After Vaginoplasty in Transgender Women.](https://www.ncbi.nlm.nih.gov/m/pubmed/27159746/) in 2016 - somewhere in Europe
 * THESIS FOR DOCTORAL DEGREE (Ph.D.), [Outcome and Refinements of Gender Confirming Surgery](https://openarchive.ki.se/xmlui/bitstream/handle/10616/45364/Thesis_Hannes_Sigurjonsson.pdf), by Hannes Sigurjónsson in 2016 (Sweden)
 * [Surgical Reconstruction for Male-to-Female Sex Reassignment](http://dx.doi.org/10.1016/j.eururo.2012.12.030) in 2012 (Germany)
@@ -3574,9 +3574,9 @@ See also the section on scarring on the the Introduction page.
 
 reddit
 
-* [Vulvoplasty (without vaginal cavity) Results 2Y+ PostOP (Argentina)](https://www.reddit.com/r/Transgender_Surgeries/comments/s91ih4/vulvoplasty_without_vaginal_cavity_results_2y/) by AnonymousFruits in 2022
-    * [Vulvoplasty (without vaginal cavity) Results 1Y+ PostOP (Argentina)](https://www.reddit.com/r/Transgender_Surgeries/comments/ku2lny/vulvoplasty_without_vaginal_cavity_results_1y/) by AnonymousFruits in 2021
-    * [Vulvoplasty Big Keloid](https://www.reddit.com/r/Transgender_Surgeries/comments/ktglxy/vulvoplasty_big_keloid/) by AnonymousFruits in 2021
+* [Vulvoplasty (without vaginal cavity) Results 2Y+ PostOP (Argentina)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/s91ih4/vulvoplasty_without_vaginal_cavity_results_2y/) by AnonymousFruits in 2022
+    * [Vulvoplasty (without vaginal cavity) Results 1Y+ PostOP (Argentina)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ku2lny/vulvoplasty_without_vaginal_cavity_results_1y/) by AnonymousFruits in 2021
+    * [Vulvoplasty Big Keloid<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ktglxy/vulvoplasty_big_keloid/) by AnonymousFruits in 2021
 
 <br />
 
@@ -3590,15 +3590,15 @@ Anti-depressants, finasteride, low testosterone can all cause problems. For some
 
 reddit
 
-* [(update) antidepressants were actually worsening my post op depression](https://www.reddit.com/r/Transgender_Surgeries/comments/127e9wu/update_antidepressants_were_actually_worsening_my/) by transthrowaway12121 in 2023 - *"hi some time ago i was being sad here talking about regretting srs and sex being shit and stuff. i had been on lexapro and wellbutrin for many years but on a low dose, it was even on my doctor's radar i could get off it at some point as i had been doing well. ever since srs even without things going wrong i felt out of it, disconnected from my enotions and body and side effects like sexual dysfunction were reallt fucking me up. so since some weeks ago ive been off those meds and wow i instantly feel so much better and sex is so good. i instantly went from regretting surgery to suddenly just feeling peace and hope about life in a way i never have before...."*
-    * [post-op sexual frustration](https://www.reddit.com/r/Transgender_Surgeries/comments/11vweff/postop_sexual_frustration/) by transthrowaway12121 in 2023
-* [Finally able to orgasm! (6 months post op)](https://www.reddit.com/r/Transgender_Surgeries/comments/zvfb9y/finally_able_to_orgasm_6_months_post_op/) by  heyImMissErin - *"I was so discouraged for the past two months not being able to find any pleasure in masturbating but I finally managed to orgasm! Huge sigh of relief (literally and metaphorically!)."*
-* reply to [Is anyone who had vaginoplasty unable to orgasm?](https://www.reddit.com/r/Transgender_Surgeries/comments/s66nui/is_anyone_who_had_vaginoplasty_unable_to_orgasm/ht2j1b1/) by mtfanon999 in 2022 - *"J.Bellringer, "Genital surgery", pages 209-219 in J.Barrett, "Transsexual and other disorders of gender identity: a practical guide to management", London, 2007, in the section on clitoroplasty, which focusses on techniques for creating a sensate neo cltoris, on page 214 concludes "only some 75% of patients are able to reach orgasm." In the concluding section on sexual function, on page 219 he stated - in the context of vaginal sexual stimulation - that "a reasonable estimate is that some 85% of patients are able to attain organsm after the operation. Gradual incremental improvement in surgical techniques over the last 15 years may account for the rise in the proportion of people reporting a sensate neo citoris from Bellringer's report of 75% in 2007, to Rashid's report of 85% in 2021."*
-* [After GRS, my vaginal skin and surrounding area are completely numb. Any surgery or way to fix?](https://www.reddit.com/r/Transgender_Surgeries/comments/ixz9nj/after_grs_my_vaginal_skin_and_surrounding_area/) by BeechHause in 2020
-* [How long until feeling comes back?](https://www.reddit.com/r/Transgender_Surgeries/comments/i1q9t8/how_long_until_feeling_comes_back/) by  sharinganuser in 2020
-* [I just had an orgasm for the first time since bottom surgery.](https://www.reddit.com/r/asktransgender/comments/cmqq87/i_just_had_an_orgasm_for_the_first_time_since/) by  bipolarSamanth0r in 2019 - *"it's been 20 months and I thought I couldn't any more"*
-* [loss clitoris sensation risk](https://www.reddit.com/r/Transgender_Surgeries/comments/czmwql/loss_clitoris_sensation_risk/) by Susaop in 2019
-* [Had SRS and my hands are numb. Anyone else deal with this?](https://www.reddit.com/r/asktransgender/comments/aisrvg/had_srs_and_my_hands_are_numb_anyone_else_deal/) by Optishosh in 2019
+* [(update) antidepressants were actually worsening my post op depression<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/127e9wu/update_antidepressants_were_actually_worsening_my/) by transthrowaway12121 in 2023 - *"hi some time ago i was being sad here talking about regretting srs and sex being shit and stuff. i had been on lexapro and wellbutrin for many years but on a low dose, it was even on my doctor's radar i could get off it at some point as i had been doing well. ever since srs even without things going wrong i felt out of it, disconnected from my enotions and body and side effects like sexual dysfunction were reallt fucking me up. so since some weeks ago ive been off those meds and wow i instantly feel so much better and sex is so good. i instantly went from regretting surgery to suddenly just feeling peace and hope about life in a way i never have before...."*
+    * [post-op sexual frustration<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/11vweff/postop_sexual_frustration/) by transthrowaway12121 in 2023
+* [Finally able to orgasm! (6 months post op)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/zvfb9y/finally_able_to_orgasm_6_months_post_op/) by  heyImMissErin - *"I was so discouraged for the past two months not being able to find any pleasure in masturbating but I finally managed to orgasm! Huge sigh of relief (literally and metaphorically!)."*
+* reply to [Is anyone who had vaginoplasty unable to orgasm?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/s66nui/is_anyone_who_had_vaginoplasty_unable_to_orgasm/ht2j1b1/) by mtfanon999 in 2022 - *"J.Bellringer, "Genital surgery", pages 209-219 in J.Barrett, "Transsexual and other disorders of gender identity: a practical guide to management", London, 2007, in the section on clitoroplasty, which focusses on techniques for creating a sensate neo cltoris, on page 214 concludes "only some 75% of patients are able to reach orgasm." In the concluding section on sexual function, on page 219 he stated - in the context of vaginal sexual stimulation - that "a reasonable estimate is that some 85% of patients are able to attain organsm after the operation. Gradual incremental improvement in surgical techniques over the last 15 years may account for the rise in the proportion of people reporting a sensate neo citoris from Bellringer's report of 75% in 2007, to Rashid's report of 85% in 2021."*
+* [After GRS, my vaginal skin and surrounding area are completely numb. Any surgery or way to fix?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ixz9nj/after_grs_my_vaginal_skin_and_surrounding_area/) by BeechHause in 2020
+* [How long until feeling comes back?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i1q9t8/how_long_until_feeling_comes_back/) by  sharinganuser in 2020
+* [I just had an orgasm for the first time since bottom surgery.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/cmqq87/i_just_had_an_orgasm_for_the_first_time_since/) by  bipolarSamanth0r in 2019 - *"it's been 20 months and I thought I couldn't any more"*
+* [loss clitoris sensation risk<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/czmwql/loss_clitoris_sensation_risk/) by Susaop in 2019
+* [Had SRS and my hands are numb. Anyone else deal with this?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/aisrvg/had_srs_and_my_hands_are_numb_anyone_else_deal/) by Optishosh in 2019
 
 YouTube
 
@@ -3617,15 +3617,15 @@ Other
 
 reddit subs
 
-* [r/Healthyhooha](https://www.reddit.com/r/Healthyhooha) - *"This is a sub for safe, open discussion about the maintenance, habits, questions, and tips related to vaginal and vulvular health."*
+* [r/Healthyhooha<sup>R</sup>](https://www.reddit.com/r/Healthyhooha) - *"This is a sub for safe, open discussion about the maintenance, habits, questions, and tips related to vaginal and vulvular health."*
 
 reddit
 
-* [I’m at my wits end with bottom surgery. Please help me.](https://www.reddit.com/r/Transgender_Surgeries/comments/11g5omq/im_at_my_wits_end_with_bottom_surgery_please_help/) by Far_Razzmatazz_3923 in 2023 - *"I had surgery in 2020, and since 6 months post op I have been experiencing brown and feces smelling discharge on the end of my dialators. So we would think it’s an anal fistula, right? That there’s some sort of hole in my canal?... ITS GONE 😭😭😭😭😭😭😭 You saved me. I cried last night because it’s gone. I used Canesten lactic acid for BV ITS GONE I can’t believe this"*
-* [My pussy stinks](https://www.reddit.com/r/Transgender_Surgeries/comments/s42ztk/my_pussy_stinks/) by AnarchaMasochist in 2022
-* [Pestilent vagina](https://www.reddit.com/r/Transgender_Surgeries/comments/jvxngj/pestilent_vagina/) by LaurenRossy1 in 2020
-* [Question about post-op vulva smell](https://www.reddit.com/r/Transgender_Surgeries/comments/ji4ipg/question_about_postop_vulva_smell/) by lexilous in 2020
-* [Post-Op Vagina Question](https://www.reddit.com/r/MtF/comments/hdu3zm/postop_vagina_question/) by wmina in 2020
+* [I’m at my wits end with bottom surgery. Please help me.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/11g5omq/im_at_my_wits_end_with_bottom_surgery_please_help/) by Far_Razzmatazz_3923 in 2023 - *"I had surgery in 2020, and since 6 months post op I have been experiencing brown and feces smelling discharge on the end of my dialators. So we would think it’s an anal fistula, right? That there’s some sort of hole in my canal?... ITS GONE 😭😭😭😭😭😭😭 You saved me. I cried last night because it’s gone. I used Canesten lactic acid for BV ITS GONE I can’t believe this"*
+* [My pussy stinks<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/s42ztk/my_pussy_stinks/) by AnarchaMasochist in 2022
+* [Pestilent vagina<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jvxngj/pestilent_vagina/) by LaurenRossy1 in 2020
+* [Question about post-op vulva smell<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ji4ipg/question_about_postop_vulva_smell/) by lexilous in 2020
+* [Post-Op Vagina Question<sup>R</sup>](https://www.reddit.com/r/MtF/comments/hdu3zm/postop_vagina_question/) by wmina in 2020
 
 <br />
 
@@ -3647,9 +3647,9 @@ https://en.wikipedia.org/wiki/Urinary_tract_infection - *"A urinary tract infect
 
 reddit
 
-* [Blood when wiping after peeing and constant feeling of needing to pee. UTI? What does one do with this?](https://www.reddit.com/r/Transgender_Surgeries/comments/19ez8n8/blood_when_wiping_after_peeing_and_constant/) by SoVeryBohemian in 2024
-* [AZO has changed my UTI ridden life forever](https://www.reddit.com/r/Healthyhooha/comments/zyn34t/azo_has_changed_my_uti_ridden_life_forever/) in 2022 - this post is by a cis women, *"No one knows the pain of a UTI unless they’ve had it themselves, and those who’ve experienced it can attest to the pain... I took the tablets. And my life changed forever. No running to the washroom, shivering on the toilet, crying and sobbing in pain waiting hours to see a doctor. I drove myself to my doctors appointment, took the urine sample, was scolded for ruining the test results due to the AZO dye, but I regret nothing. They can and will have a look at the urine at the lab LOL. Anyways, to anyone who experiences UTIs here and there, please get yourself some AZO."* - this post refers to [AZO® Urinary Pain Relief Maximum Strength Tablets](https://www.azoproducts.com/product/urinary-tract-infections/pain-relief-maximum-strength-tablets/), containing *"99.5mg dose of active ingredient per tablet, Phenazopyridine Hydrochloride"*
-* [Problems in Paradise](https://www.reddit.com/r/Transgender_Surgeries/comments/urx9cf/problems_in_paradise/) by  Sapphire-Sarazin in 2022
+* [Blood when wiping after peeing and constant feeling of needing to pee. UTI? What does one do with this?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/19ez8n8/blood_when_wiping_after_peeing_and_constant/) by SoVeryBohemian in 2024
+* [AZO has changed my UTI ridden life forever<sup>R</sup>](https://www.reddit.com/r/Healthyhooha/comments/zyn34t/azo_has_changed_my_uti_ridden_life_forever/) in 2022 - this post is by a cis women, *"No one knows the pain of a UTI unless they’ve had it themselves, and those who’ve experienced it can attest to the pain... I took the tablets. And my life changed forever. No running to the washroom, shivering on the toilet, crying and sobbing in pain waiting hours to see a doctor. I drove myself to my doctors appointment, took the urine sample, was scolded for ruining the test results due to the AZO dye, but I regret nothing. They can and will have a look at the urine at the lab LOL. Anyways, to anyone who experiences UTIs here and there, please get yourself some AZO."* - this post refers to [AZO® Urinary Pain Relief Maximum Strength Tablets](https://www.azoproducts.com/product/urinary-tract-infections/pain-relief-maximum-strength-tablets/), containing *"99.5mg dose of active ingredient per tablet, Phenazopyridine Hydrochloride"*
+* [Problems in Paradise<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/urx9cf/problems_in_paradise/) by  Sapphire-Sarazin in 2022
  
 
 <br />
@@ -3664,7 +3664,7 @@ https://en.wikipedia.org/wiki/Vesicovaginal_fistula - *"Vesicovaginal fistula, o
 
 reddit
 
-* [Urine coming out of my vagina](https://www.reddit.com/r/Transgender_Surgeries/comments/s1pt5q/urine_coming_out_of_my_vagina/) by TransThrowAway482618 in 2022
+* [Urine coming out of my vagina<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/s1pt5q/urine_coming_out_of_my_vagina/) by TransThrowAway482618 in 2022
 
 <br />
 
@@ -3683,32 +3683,32 @@ Review of the data
 
 reddit
 
-* [A Systematic Review of Patient Regret After Surgery- A Common Phenomenon in Many Specialties but Rare Within Gender-Affirmation Surgery](https://www.reddit.com/r/science/comments/1cdxd6i/a_systematic_review_of_patient_regret_after/) in 2024 - refers to this 2024 [paper](https://doi.org/10.1016/j.amjsurg.2024.04.021).
-* [Post op regret or depression?](https://www.reddit.com/r/Transgender_Surgeries/comments/zwaaxb/post_op_regret_or_depression/) by alvysaurus in 2022
-* [3 year post op srs, Karolinska Sweden, 2 revision surgeries. Very happy with the results now and all the problems were resolved. Finally last update, more info in comments also AMA.](https://www.reddit.com/r/Transgender_Surgeries/comments/wquu15/3_year_post_op_srs_karolinska_sweden_2_revision/) by stupidstories in 2022
-    * [Did breast implants a little over a year ago, 250cc. I know we are supposed to do surgeries for ourselves, but I love the attention men give me now. I experience dysphoria less than once a month. The surgeries (including srs) really work. I finally got my shit together, only took 30 years haha.](https://www.reddit.com/r/Transgender_Surgeries/comments/r742gi/did_breast_implants_a_little_over_a_year_ago/) by stupidstories in 2021
-    * [I don't know where to post this besides here. Can someone that regret getting bottom surgery please contact me?](https://www.reddit.com/r/Transgender_Surgeries/comments/lf42ng/i_dont_know_where_to_post_this_besides_here_can/) by stupidstories in 2021
-* [Regret!](https://www.reddit.com/r/Transgender_Surgeries/comments/vqxb1b/regret/) by amethyztt in 2022
-* [Struggling With Terrible Surgery Outcome And Massive Regret](https://www.reddit.com/r/Transgender_Surgeries/comments/loq3xv/struggling_with_terrible_surgery_outcome_and/) by LiteralGrill in 2021
-* [What are some regrets those of you who have had bottom surgery have?](https://www.reddit.com/r/MtF/comments/j118gl/what_are_some_regrets_those_of_you_who_have_had/) by burner_account_uwu in 2020
-* [Do you ever regret this?](https://www.reddit.com/r/Transgender_Surgeries/comments/hjufv0/do_you_ever_regret_this/) by gcsthrowaway123 in 2020
-* [SRS Regrets](https://www.reddit.com/r/MtF/comments/e5de09/srs_regrets/) by Dangerous-Mango in 2019
-* [can I get some actual trans op regret statistics?](https://www.reddit.com/r/asktransgender/comments/dq2ede/can_i_get_some_actual_trans_op_regret_statistics/) by ZquirrelwolfDragon in 2019
-* [I low key regret GRS but not transition. Strange feeling, I know.](https://www.reddit.com/r/MtF/comments/croh91/i_low_key_regret_grs_but_not_transition_strange/) by JessyCarolinz in 2019
-* [Science AMA Series: I'm Cecilia Dhejne a fellow of the European Committee of Sexual Medicine, from the Karolinska University Hospital in Sweden. I'm here to talk about transgender health, suicide rates, and my often misinterpreted study. Ask me anything!](https://www.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/) by Cecilia_Dhejne_Helmy around 2018
-* [I'm kinda regretful of my GRS over 2 years ago](https://www.reddit.com/r/asktransgender/comments/a0rujz/im_kinda_regretful_of_my_grs_over_2_years_ago/) by dolomiteky  in 2018
-* [Had SRS (MtF), but feeling wrong. Am I alone in this?](https://www.reddit.com/r/asktransgender/comments/9xyx1z/had_srs_mtf_but_feeling_wrong_am_i_alone_in_this/) by TheChloeGraceRose in 2018
-* [I regret GCS but not social transition. Can I get a meta?](https://www.reddit.com/r/Transgender_Surgeries/comments/9ddv7m/i_regret_gcs_but_not_social_transition_can_i_get/) in 2018
-* [SRS Reversal](https://www.reddit.com/r/asktransgender/comments/5dtof9/srs_reversal/) by thewesternexperience in 2017
-* [Reverting SRS](https://www.reddit.com/r/ask_transgender/comments/5d6y34/reverting_srs/) by thewesternexperience around 2016
-* [MtF who had a phalloplasty (!) because she regretted SRS - but not social transition. AMA.](https://www.reddit.com/r/asktransgender/comments/2rd6pk/mtf_who_had_a_phalloplasty_because_she_regretted/) around 2015
-* reply to [What if a person who wasn't trans had SRS?](https://www.reddit.com/r/asktransgender/comments/2vcr2j/what_if_a_person_who_wasnt_trans_had_srs/cogkord/) around 2015
+* [A Systematic Review of Patient Regret After Surgery- A Common Phenomenon in Many Specialties but Rare Within Gender-Affirmation Surgery<sup>R</sup>](https://www.reddit.com/r/science/comments/1cdxd6i/a_systematic_review_of_patient_regret_after/) in 2024 - refers to this 2024 [paper](https://doi.org/10.1016/j.amjsurg.2024.04.021).
+* [Post op regret or depression?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/zwaaxb/post_op_regret_or_depression/) by alvysaurus in 2022
+* [3 year post op srs, Karolinska Sweden, 2 revision surgeries. Very happy with the results now and all the problems were resolved. Finally last update, more info in comments also AMA.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/wquu15/3_year_post_op_srs_karolinska_sweden_2_revision/) by stupidstories in 2022
+    * [Did breast implants a little over a year ago, 250cc. I know we are supposed to do surgeries for ourselves, but I love the attention men give me now. I experience dysphoria less than once a month. The surgeries (including srs) really work. I finally got my shit together, only took 30 years haha.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/r742gi/did_breast_implants_a_little_over_a_year_ago/) by stupidstories in 2021
+    * [I don't know where to post this besides here. Can someone that regret getting bottom surgery please contact me?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lf42ng/i_dont_know_where_to_post_this_besides_here_can/) by stupidstories in 2021
+* [Regret!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vqxb1b/regret/) by amethyztt in 2022
+* [Struggling With Terrible Surgery Outcome And Massive Regret<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/loq3xv/struggling_with_terrible_surgery_outcome_and/) by LiteralGrill in 2021
+* [What are some regrets those of you who have had bottom surgery have?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/j118gl/what_are_some_regrets_those_of_you_who_have_had/) by burner_account_uwu in 2020
+* [Do you ever regret this?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hjufv0/do_you_ever_regret_this/) by gcsthrowaway123 in 2020
+* [SRS Regrets<sup>R</sup>](https://www.reddit.com/r/MtF/comments/e5de09/srs_regrets/) by Dangerous-Mango in 2019
+* [can I get some actual trans op regret statistics?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/dq2ede/can_i_get_some_actual_trans_op_regret_statistics/) by ZquirrelwolfDragon in 2019
+* [I low key regret GRS but not transition. Strange feeling, I know.<sup>R</sup>](https://www.reddit.com/r/MtF/comments/croh91/i_low_key_regret_grs_but_not_transition_strange/) by JessyCarolinz in 2019
+* [Science AMA Series: I'm Cecilia Dhejne a fellow of the European Committee of Sexual Medicine, from the Karolinska University Hospital in Sweden. I'm here to talk about transgender health, suicide rates, and my often misinterpreted study. Ask me anything!<sup>R</sup>](https://www.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/) by Cecilia_Dhejne_Helmy around 2018
+* [I'm kinda regretful of my GRS over 2 years ago<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/a0rujz/im_kinda_regretful_of_my_grs_over_2_years_ago/) by dolomiteky  in 2018
+* [Had SRS (MtF), but feeling wrong. Am I alone in this?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9xyx1z/had_srs_mtf_but_feeling_wrong_am_i_alone_in_this/) by TheChloeGraceRose in 2018
+* [I regret GCS but not social transition. Can I get a meta?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/9ddv7m/i_regret_gcs_but_not_social_transition_can_i_get/) in 2018
+* [SRS Reversal<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/5dtof9/srs_reversal/) by thewesternexperience in 2017
+* [Reverting SRS<sup>R</sup>](https://www.reddit.com/r/ask_transgender/comments/5d6y34/reverting_srs/) by thewesternexperience around 2016
+* [MtF who had a phalloplasty (!) because she regretted SRS - but not social transition. AMA.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/2rd6pk/mtf_who_had_a_phalloplasty_because_she_regretted/) around 2015
+* reply to [What if a person who wasn't trans had SRS?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/2vcr2j/what_if_a_person_who_wasnt_trans_had_srs/cogkord/) around 2015
 
 Hate on reddit
 
-* [Why does the detrans sub seem so transphobic?](https://www.reddit.com/r/asktransgender/comments/14q15le/why_does_the_detrans_sub_seem_so_transphobic/) by No-Preference2841 in 2023
-* [Leaving /r/detrans cult was a best choice in my life.](https://www.reddit.com/r/MtF/comments/130jlt0/leaving_rdetrans_cult_was_a_best_choice_in_my_life/) by Detranscult in 2023
-* [Let’s be honest — r/detrans is not a detrans subreddit anymore — it is a full-blown transphobic sub.](https://www.reddit.com/r/MtF/comments/vrwa0k/lets_be_honest_rdetrans_is_not_a_detrans/) by sadbathory in 2022
+* [Why does the detrans sub seem so transphobic?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/14q15le/why_does_the_detrans_sub_seem_so_transphobic/) by No-Preference2841 in 2023
+* [Leaving /r/detrans cult was a best choice in my life.<sup>R</sup>](https://www.reddit.com/r/MtF/comments/130jlt0/leaving_rdetrans_cult_was_a_best_choice_in_my_life/) by Detranscult in 2023
+* [Let’s be honest — r/detrans is not a detrans subreddit anymore — it is a full-blown transphobic sub.<sup>R</sup>](https://www.reddit.com/r/MtF/comments/vrwa0k/lets_be_honest_rdetrans_is_not_a_detrans/) by sadbathory in 2022
 
 YouTube
 
@@ -3727,8 +3727,8 @@ David Reimer
 
 Samantha Kane
 
-* reddit [This person underwent 3 SRS surgeries and transitioned 3 times. Samantha Kane.](https://www.reddit.com/r/asktransgender/comments/9cqj3t/this_person_underwent_3_srs_surgeries_and/) in 2018
-* reddit [Samantha Kane has undergone her THIRD SRS surgery! She transitioned from male to female in 1997, had SRS 6 months after starting HRT, detransitioned in 2004, had reversal surgery to create a penis again. Lived for 13 years as a man again, retransitioned in 2017 to female and had ANOTHER SRS in 2018.](https://www.reddit.com/r/MtF/comments/9cq5nf/samantha_kane_has_undergone_her_third_srs_surgery/), in 2018
+* reddit [This person underwent 3 SRS surgeries and transitioned 3 times. Samantha Kane.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9cqj3t/this_person_underwent_3_srs_surgeries_and/) in 2018
+* reddit [Samantha Kane has undergone her THIRD SRS surgery! She transitioned from male to female in 1997, had SRS 6 months after starting HRT, detransitioned in 2004, had reversal surgery to create a penis again. Lived for 13 years as a man again, retransitioned in 2017 to female and had ANOTHER SRS in 2018.<sup>R</sup>](https://www.reddit.com/r/MtF/comments/9cq5nf/samantha_kane_has_undergone_her_third_srs_surgery/), in 2018
 * Daily Mail article [High-flying lawyer undergoes her THIRD gender re-assignment surgery to become a woman for the second time - after going back to being a man to re-connect with her children](http://www.dailymail.co.uk/femail/article-6067657/Transgender-lawyer-undergoes-gender-assignment-surgery-time.html)
 
 Huffpost
@@ -3764,9 +3764,9 @@ To put things in perspective
 * In a 2020 paper [Patients’ experiences of discontentment one year after total knee arthroplasty- a qualitative study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6961288/) - *"Of the 348 patients who responded to a letter asking if they were satisfied or dissatisfied with their surgery, 61 (18%) reported discontent."*
 * In a 2018 paper [13% of chemotherapy patients regret having chemotherapy](https://doi.org/10.1016/j.jtho.2018.08.109) - this is a treatment for cancer!
 
-There's paper often cited by hate groups against SRS. The author made an AMA post on reddit around 2018 about it. Read her response [here](https://www.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/dkun6n3/?context=3), in particular *"The study was not designed to answer the question if gender-affirming surgery causes mortality suicide or criminality so it could not be used to say that gender-affirming surgery causes death. The study does not say that we should not treat transgender persons since they anyway commit suicide on the opposite it say that we need to improve health care for transgender people and that we need to reduce risk in both cardio vascular dead and suicide. Some people interpret that suicide or suicide is a sign of regret to gender-affirming treatment. The study does not say that. To my knowledge there is no study that had showed that suicide attempts in the transgender group is due to that they regret transition. However there are some studies showing an association with suicidality and minority stress"*
+There's paper often cited by hate groups against SRS. The author made an AMA post on reddit around 2018 about it. Read her response [here<sup>R</sup>](https://www.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/dkun6n3/?context=3), in particular *"The study was not designed to answer the question if gender-affirming surgery causes mortality suicide or criminality so it could not be used to say that gender-affirming surgery causes death. The study does not say that we should not treat transgender persons since they anyway commit suicide on the opposite it say that we need to improve health care for transgender people and that we need to reduce risk in both cardio vascular dead and suicide. Some people interpret that suicide or suicide is a sign of regret to gender-affirming treatment. The study does not say that. To my knowledge there is no study that had showed that suicide attempts in the transgender group is due to that they regret transition. However there are some studies showing an association with suicidality and minority stress"*
 
-* [Science AMA Series: I'm Cecilia Dhejne a fellow of the European Committee of Sexual Medicine, from the Karolinska University Hospital in Sweden. I'm here to talk about transgender health, suicide rates, and my often misinterpreted study. Ask me anything!](https://www.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/dkun6n3/?context=3)
+* [Science AMA Series: I'm Cecilia Dhejne a fellow of the European Committee of Sexual Medicine, from the Karolinska University Hospital in Sweden. I'm here to talk about transgender health, suicide rates, and my often misinterpreted study. Ask me anything!<sup>R</sup>](https://www.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/dkun6n3/?context=3)
 * 2011 - [Long-Term Follow-Up of Transsexual Persons Undergoing Sex Reassignment Surgery: Cohort Study in Sweden](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016885) by Cecilia Dhejne, Paul Lichtenstein, Marcus Boman, Anna L. V. Johansson, Niklas Långström, Mikael Landén
 
 <br />
@@ -3777,8 +3777,8 @@ There's paper often cited by hate groups against SRS. The author made an AMA pos
 
 reddit
 
-* [Having an issue with my scar and it’s scaring me! Help!](https://www.reddit.com/r/Transgender_Surgeries/comments/ig6294/having_an_issue_with_my_scar_and_its_scaring_me/) by throwaway514190 in 2020
-* [Still squeezing sutures out of my skin 5 years later.](https://www.reddit.com/r/Transgender_Surgeries/comments/hisu91/still_squeezing_sutures_out_of_my_skin_5_years/) by trutrans in 2020
+* [Having an issue with my scar and it’s scaring me! Help!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ig6294/having_an_issue_with_my_scar_and_its_scaring_me/) by throwaway514190 in 2020
+* [Still squeezing sutures out of my skin 5 years later.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hisu91/still_squeezing_sutures_out_of_my_skin_5_years/) by trutrans in 2020
 
 Papers
 
@@ -3883,7 +3883,7 @@ Papers
 
 Plos One
 
-* [Long-Term Follow-Up of Transsexual Persons Undergoing Sex Reassignment Surgery: Cohort Study in Sweden](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016885) by Cecilia Dhejne, Paul Lichtenstein, Marcus Boman, Anna L. V. Johansson, Niklas Långström, Mikael Landén, in 2011, [DOI](https://doi.org/10.1371journal.pone.0016885), see also [reddit AMA by author Cecilia Dhejne](https://www.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/) in 2017, and where she [discusses the misrepresentation of the study](https://www.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/dkuk2tr/). See also related reddit post [Long-Term Follow-Up of Transsexual Persons Undergoing Sex Reassignment Surgery: Cohort Study in Sweden](https://www.reddit.com/r/psychology/comments/82judv/longterm_followup_of_transsexual_persons/) in 2018
+* [Long-Term Follow-Up of Transsexual Persons Undergoing Sex Reassignment Surgery: Cohort Study in Sweden](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016885) by Cecilia Dhejne, Paul Lichtenstein, Marcus Boman, Anna L. V. Johansson, Niklas Långström, Mikael Landén, in 2011, [DOI](https://doi.org/10.1371journal.pone.0016885), see also [reddit AMA by author Cecilia Dhejne<sup>R</sup>](https://www.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/) in 2017, and where she [discusses the misrepresentation of the study<sup>R</sup>](https://www.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/dkuk2tr/). See also related reddit post [Long-Term Follow-Up of Transsexual Persons Undergoing Sex Reassignment Surgery: Cohort Study in Sweden<sup>R</sup>](https://www.reddit.com/r/psychology/comments/82judv/longterm_followup_of_transsexual_persons/) in 2018
 
 The Journal of Clinical Endocrinology & Metabolism
 
@@ -3958,8 +3958,8 @@ There's a lot of academic papers listed in a spreadsheet [here](https://docs.goo
 
 reddit
 
-* [Discord server dedicated to SRS info, before afters, an other surgeries (vfs,ffs) for trans people only. Mainly MtF focused, FtM's welcome.](https://www.reddit.com/r/asktransgender/comments/d8cuyb/discord_server_dedicated_to_srs_info_before/) by Minty9 in 2019
-* [Trying to understand the neovagina better](https://www.reddit.com/r/MtF/comments/991dnv/trying_to_understand_the_neovagina_better/) in 2018 - about post-op vaginal skin.
+* [Discord server dedicated to SRS info, before afters, an other surgeries (vfs,ffs) for trans people only. Mainly MtF focused, FtM's welcome.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/d8cuyb/discord_server_dedicated_to_srs_info_before/) by Minty9 in 2019
+* [Trying to understand the neovagina better<sup>R</sup>](https://www.reddit.com/r/MtF/comments/991dnv/trying_to_understand_the_neovagina_better/) in 2018 - about post-op vaginal skin.
 
 [Vaginoplasty: Male to Female Sex Reassignment Surgery (SRS)](http://ai.eecs.umich.edu/people/conway/TS/SRSlink.html) by Liz Conway, 2001-2006
 
@@ -3967,7 +3967,7 @@ Trans Road Map: [Vaginoplasty surgeons and overviews ](http://www.tsroadmap.com/
 
 reddit
 
-* [Anyone had SRS and BA at the same time?](https://www.reddit.com/r/asktransgender/comments/8wxid2/anyone_had_srs_and_ba_at_the_same_time/) in 2018
+* [Anyone had SRS and BA at the same time?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/8wxid2/anyone_had_srs_and_ba_at_the_same_time/) in 2018
 
 YouTube
 
@@ -3998,13 +3998,13 @@ A collection including Brassard, Chettawut, Bowers, McGinn, and Suporn.
 
 Post-op porn, generally its difficult or impossible to find out who the surgeons were
 
-* [r/PostOpTransgirls](https://www.reddit.com/r/PostOpTransgirls)
-* ~~[r/manmadepussy](https://www.reddit.com/r/manmadepussy)~~
-* [r/PostOpTrans](https://www.reddit.com/r/PostOpTrans)
+* [r/PostOpTransgirls<sup>R</sup>](https://www.reddit.com/r/PostOpTransgirls)
+* ~~[r/manmadepussy<sup>R</sup>](https://www.reddit.com/r/manmadepussy)~~
+* [r/PostOpTrans<sup>R</sup>](https://www.reddit.com/r/PostOpTrans)
 * https://www.ashemaletube.com/search/post_op/?sort=re
 
 <br />
 
 ---
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**

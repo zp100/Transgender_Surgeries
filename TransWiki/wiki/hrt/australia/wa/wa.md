@@ -1,26 +1,26 @@
 **HRT in Western Australia (WA)**
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
 
 ---
 
 HRT in other states of Australia
 
-* [ACT](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/act/act.md)
-* [NSW](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nsw/nsw.md)
-* [QLD](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/qld/qld.md)
-* [SA](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/sa/sa.md)
-* [TAS](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/tas/tas.md)
-* [VIC](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/vic/vic.md)
+* [ACT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/act/act.md)
+* [NSW<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nsw/nsw.md)
+* [QLD<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/qld/qld.md)
+* [SA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/sa/sa.md)
+* [TAS<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/tas/tas.md)
+* [VIC<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/vic/vic.md)
 * WA
-* [NT](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nt/nt.md)
+* [NT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nt/nt.md)
 
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia
-* [Telehealth](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#telehealth) - Doctors who work on line prescribing across Australia
-* Wiki entry for [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
-* /r/transgenderau [wiki for Western Australia](https://www.reddit.com/r/transgenderau/wiki/resources-wa)
+* [Telehealth<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#telehealth) - Doctors who work on line prescribing across Australia
+* Wiki entry for [Australian Psychiatrists & Therapists<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
+* /r/transgenderau [wiki for Western Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/wiki/resources-wa)
 * Trans Health Australia [Medical Practitioners in Western Australia](http://www.transhealthaustralia.org/index.php/western-australia/6-medical-practitioners-wa)
 * TransFolk of Western Australia - https://www.transfolkofwa.org
 * TransFolk of Western Australia - https://www.facebook.com/TransFolkofWA - *"TransFolk of WA is a support service for trans and gender diverse people and their loved ones in Western Australia."*
@@ -38,7 +38,7 @@ Doctors doing estrogen implants in Western Australia
 
 reddit
 
-* [Starting transition in Perth at 17](https://www.reddit.com/r/transgenderau/comments/mfkqfs/starting_transition_in_perth_at_17/) by justafeckingegg in 2021
+* [Starting transition in Perth at 17<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/mfkqfs/starting_transition_in_perth_at_17/) by justafeckingegg in 2021
 
 Perth Childrens Hospital
 
@@ -66,9 +66,9 @@ Key details
 
 reddit
 
-* [Perth: Alexander Heights Family Practice - Negative Experience](https://www.reddit.com/r/transgenderau/comments/nafdvx/perth_alexander_heights_family_practice_negative/) by nuggspo0ky in 2021
-* [How to start transition](https://www.reddit.com/r/transgenderau/comments/bqs11n/how_to_start_transition/) by YaGurlAlexis in 2019
-* [For those who have E or T implants, what are the pros/cons?](https://www.reddit.com/r/asktransgender/comments/5ondyw/for_those_who_have_e_or_t_implants_what_are_the/) by SleepNowMyThrowaway around 2017
+* [Perth: Alexander Heights Family Practice - Negative Experience<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/nafdvx/perth_alexander_heights_family_practice_negative/) by nuggspo0ky in 2021
+* [How to start transition<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/bqs11n/how_to_start_transition/) by YaGurlAlexis in 2019
+* [For those who have E or T implants, what are the pros/cons?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/5ondyw/for_those_who_have_e_or_t_implants_what_are_the/) by SleepNowMyThrowaway around 2017
 
 <br />
 
@@ -82,7 +82,7 @@ Key details
 
 reddit
 
-* [Terrible experience with Dr Raileen Merlino (Perth)](https://www.reddit.com/r/transgenderau/comments/id8mus/terrible_experience_with_dr_raileen_merlino_perth/g27jj6w/) by HakushiBestShaman in 2020
+* [Terrible experience with Dr Raileen Merlino (Perth)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/id8mus/terrible_experience_with_dr_raileen_merlino_perth/g27jj6w/) by HakushiBestShaman in 2020
 
 <br />
 
@@ -95,9 +95,9 @@ Key details
 
 reddit
 
-* [Transitioning in Perth](https://www.reddit.com/r/transgenderau/comments/javx31/transitioning_in_perth/) by Lazy_Seagull in 2020
-* reply to [Terrible experience with Dr Raileen Merlino (Perth)](https://www.reddit.com/r/transgenderau/comments/id8mus/terrible_experience_with_dr_raileen_merlino_perth/g27j5uz/) by wren4777 in 2020
-* [Other people's experience with Dr Adams in perth](https://www.reddit.com/r/transgenderau/comments/i8592l/other_peoples_experience_with_dr_adams_in_perth/) by VaeVictus1337  in 2020
+* [Transitioning in Perth<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/javx31/transitioning_in_perth/) by Lazy_Seagull in 2020
+* reply to [Terrible experience with Dr Raileen Merlino (Perth)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/id8mus/terrible_experience_with_dr_raileen_merlino_perth/g27j5uz/) by wren4777 in 2020
+* [Other people's experience with Dr Adams in perth<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/i8592l/other_peoples_experience_with_dr_adams_in_perth/) by VaeVictus1337  in 2020
 
 <br />
 
@@ -110,7 +110,7 @@ Key details
 
 reddit
 
-* [Informed Consent in WA](https://www.reddit.com/r/transgenderau/comments/hk5a92/informed_consent_in_wa/) by AmNotAWeeb in 2020
+* [Informed Consent in WA<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hk5a92/informed_consent_in_wa/) by AmNotAWeeb in 2020
 
 <br />
 
@@ -130,7 +130,7 @@ Other
 
 reddit
 
-* reply to [Are there any trans-friendly bulk-billing doctors in Perth?](https://www.reddit.com/r/transgenderau/comments/ts2oay/are_there_any_transfriendly_bulkbilling_doctors/i38aoak/) by Silver-Cherry-3512 in 2022
+* reply to [Are there any trans-friendly bulk-billing doctors in Perth?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ts2oay/are_there_any_transfriendly_bulkbilling_doctors/i38aoak/) by Silver-Cherry-3512 in 2022
 
 <br />
 
@@ -149,10 +149,10 @@ Key details
 
 reddit
 
-* [Bad experience with bronwyn stuckey perth endo.](https://www.reddit.com/r/transgenderau/comments/soyg19/bad_experience_with_bronwyn_stuckey_perth_endo/) by Day_pigeon in 2022
-* [Endocrinologist in Perth, Western Australia](https://www.reddit.com/r/transgenderau/comments/4dp9ba/endocrinologist_in_perth_western_australia/) by Never-be-Ashley around 2017
-* [Perth: endocrinologist Bronwyn Stuckey](https://www.reddit.com/r/transgenderau/comments/6v81z5/perth_endocrinologist_bronwyn_stuckey/) by Launchyonder around 2017
-* [Perth, Australia: Doctor Fiona Coombes](https://www.reddit.com/r/asktransgender/comments/235sxq/perth_australia_doctor_fiona_coombes/) by hannahranga around 2015
+* [Bad experience with bronwyn stuckey perth endo.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/soyg19/bad_experience_with_bronwyn_stuckey_perth_endo/) by Day_pigeon in 2022
+* [Endocrinologist in Perth, Western Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/4dp9ba/endocrinologist_in_perth_western_australia/) by Never-be-Ashley around 2017
+* [Perth: endocrinologist Bronwyn Stuckey<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/6v81z5/perth_endocrinologist_bronwyn_stuckey/) by Launchyonder around 2017
+* [Perth, Australia: Doctor Fiona Coombes<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/235sxq/perth_australia_doctor_fiona_coombes/) by hannahranga around 2015
 
 <br />
 
@@ -167,8 +167,8 @@ Key details
 
 reddit
 
-* [Endocrinologist in Perth, Western Australia](https://www.reddit.com/r/transgenderau/comments/4dp9ba/endocrinologist_in_perth_western_australia/) by Never-be-Ashley around 2017
-* [Perth, Australia: Doctor Fiona Coombes](https://www.reddit.com/r/asktransgender/comments/235sxq/perth_australia_doctor_fiona_coombes/) by hannahranga around 2015
+* [Endocrinologist in Perth, Western Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/4dp9ba/endocrinologist_in_perth_western_australia/) by Never-be-Ashley around 2017
+* [Perth, Australia: Doctor Fiona Coombes<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/235sxq/perth_australia_doctor_fiona_coombes/) by hannahranga around 2015
 
 Susans
 
@@ -192,7 +192,7 @@ Key details
 
 reddit
 
-* [Bad experience with bronwyn stuckey perth endo.](https://www.reddit.com/r/transgenderau/comments/soyg19/bad_experience_with_bronwyn_stuckey_perth_endo/) by Day_pigeon in 2022
+* [Bad experience with bronwyn stuckey perth endo.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/soyg19/bad_experience_with_bronwyn_stuckey_perth_endo/) by Day_pigeon in 2022
 
 Other
 
@@ -244,10 +244,10 @@ Key details
 
 reddit
 
-* [Transitioning in Perth](https://www.reddit.com/r/transgenderau/comments/javx31/transitioning_in_perth/) by Lazy_Seagull in 2020
-* [My experiences with legal and medical gender transition (for people who are scared).](https://www.reddit.com/r/transgenderau/comments/cwhmvx/my_experiences_with_legal_and_medical_gender/) by squigglydash in 2019
-* [Hello, quick question](https://www.reddit.com/r/transgenderau/comments/2ckh43/hello_quick_question/) by TheOtherLena around 2015
-* [Perth, Australia: Doctor Fiona Coombes](https://www.reddit.com/r/asktransgender/comments/235sxq/perth_australia_doctor_fiona_coombes/) by hannahranga around 2015
+* [Transitioning in Perth<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/javx31/transitioning_in_perth/) by Lazy_Seagull in 2020
+* [My experiences with legal and medical gender transition (for people who are scared).<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cwhmvx/my_experiences_with_legal_and_medical_gender/) by squigglydash in 2019
+* [Hello, quick question<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/2ckh43/hello_quick_question/) by TheOtherLena around 2015
+* [Perth, Australia: Doctor Fiona Coombes<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/235sxq/perth_australia_doctor_fiona_coombes/) by hannahranga around 2015
 
 Other links
 
@@ -266,8 +266,8 @@ Key details
 
 reddit
 
-* [Hello, quick question](https://www.reddit.com/r/transgenderau/comments/2ckh43/hello_quick_question/) by TheOtherLena around 2015
-* [Perth, Australia: Doctor Fiona Coombes](https://www.reddit.com/r/asktransgender/comments/235sxq/perth_australia_doctor_fiona_coombes/) by hannahranga around 2015
+* [Hello, quick question<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/2ckh43/hello_quick_question/) by TheOtherLena around 2015
+* [Perth, Australia: Doctor Fiona Coombes<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/235sxq/perth_australia_doctor_fiona_coombes/) by hannahranga around 2015
 
 <br />
 
@@ -282,8 +282,8 @@ Key details
 
 reddit
 
-* reply to [Midland, WA, anybody know a GP that will prescribe me hrt](https://www.reddit.com/r/transgenderau/comments/mtqcv4/midland_wa_anybody_know_a_gp_that_will_prescribe/gv29nfw/) by JeanieDreamy in 2021
-* [Hello, quick question](https://www.reddit.com/r/transgenderau/comments/2ckh43/hello_quick_question/) by TheOtherLena around 2015
+* reply to [Midland, WA, anybody know a GP that will prescribe me hrt<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/mtqcv4/midland_wa_anybody_know_a_gp_that_will_prescribe/gv29nfw/) by JeanieDreamy in 2021
+* [Hello, quick question<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/2ckh43/hello_quick_question/) by TheOtherLena around 2015
 
 Other links
 
@@ -306,8 +306,8 @@ Key details
 
 reddit
 
-* [Other people's experience with Dr Adams in perth](https://www.reddit.com/r/transgenderau/comments/i8592l/other_peoples_experience_with_dr_adams_in_perth/) by VaeVictus1337 in 2020
-* [Experiences with Dr. Stephen Adams, Fremantle](https://www.reddit.com/r/transgenderau/comments/fnj63v/experiences_with_dr_stephen_adams_fremantle/) by Lost-Heron in 2020
+* [Other people's experience with Dr Adams in perth<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/i8592l/other_peoples_experience_with_dr_adams_in_perth/) by VaeVictus1337 in 2020
+* [Experiences with Dr. Stephen Adams, Fremantle<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/fnj63v/experiences_with_dr_stephen_adams_fremantle/) by Lost-Heron in 2020
 
 Other
 
@@ -326,7 +326,7 @@ Key details
 
 reddit
 
-* [What was your experience like with the Royal Perth Hospital?](https://www.reddit.com/r/transgenderau/comments/ge9mb9/what_was_your_experience_like_with_the_royal/) by Elyntra in 2020
+* [What was your experience like with the Royal Perth Hospital?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ge9mb9/what_was_your_experience_like_with_the_royal/) by Elyntra in 2020
 
 <br />
 
@@ -344,10 +344,10 @@ Key details
 
 reddit
 
-* [Seeking experiences regarding Dr Pede Rogers, Perth WA](https://www.reddit.com/r/transgenderau/comments/jgilx9/seeking_experiences_regarding_dr_pede_rogers/) by islaroze in 2020 - *"A couple of years ago I had posted to this sub sharing my experiences with Bede Rogers, namely his sexual advances, disregard for personal boundaries and abuse of power... I have just gotten off the phone after having received a call from a woman who had received a complaint that I had made against Dr Rogers practice ethics and I am due to meet with her on Tuesday to give a statement regarding my experiences... Please do not be afraid. He has been doing this since I met him, back in 2014, he has undoubtedly done the same thing since beginning his career and he will continue to do this until courage prevails."*
-* [Experience with Dr Bede Rogers @ Perth Medical Centre](https://www.reddit.com/r/transgenderau/comments/j34p3d/experience_with_dr_bede_rogers_perth_medical/) by jakewindsor1 in 2020
-* reply to [Bad Perth Therapist](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/fsuq293/) in 2020
-* [Dr Rogers, Perth (MtF)](https://www.reddit.com/r/transgenderau/comments/8tfomp/dr_rogers_perth_mtf/) in 2018
+* [Seeking experiences regarding Dr Pede Rogers, Perth WA<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jgilx9/seeking_experiences_regarding_dr_pede_rogers/) by islaroze in 2020 - *"A couple of years ago I had posted to this sub sharing my experiences with Bede Rogers, namely his sexual advances, disregard for personal boundaries and abuse of power... I have just gotten off the phone after having received a call from a woman who had received a complaint that I had made against Dr Rogers practice ethics and I am due to meet with her on Tuesday to give a statement regarding my experiences... Please do not be afraid. He has been doing this since I met him, back in 2014, he has undoubtedly done the same thing since beginning his career and he will continue to do this until courage prevails."*
+* [Experience with Dr Bede Rogers @ Perth Medical Centre<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/j34p3d/experience_with_dr_bede_rogers_perth_medical/) by jakewindsor1 in 2020
+* reply to [Bad Perth Therapist<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/fsuq293/) in 2020
+* [Dr Rogers, Perth (MtF)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/8tfomp/dr_rogers_perth_mtf/) in 2018
 
 YouTube
 
@@ -371,7 +371,7 @@ Key details
 
 reddit
 
-* [Informed Consent in WA](https://www.reddit.com/r/transgenderau/comments/hk5a92/informed_consent_in_wa/) by AmNotAWeeb in 2020
+* [Informed Consent in WA<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hk5a92/informed_consent_in_wa/) by AmNotAWeeb in 2020
 
 <br />
 
@@ -387,7 +387,7 @@ Key details
 
 reddit
 
-* [Stopping Progynova before Bi-orchidectomy](https://www.reddit.com/r/transgenderau/comments/jq40j8/stopping_progynova_before_biorchidectomy/) by micah_sergal in 2020
+* [Stopping Progynova before Bi-orchidectomy<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jq40j8/stopping_progynova_before_biorchidectomy/) by micah_sergal in 2020
 
 Other
 
@@ -407,7 +407,7 @@ Key details
 
 reddit
 
-* [Starting transition in Perth at 17](https://www.reddit.com/r/transgenderau/comments/mfkqfs/starting_transition_in_perth_at_17/) by justafeckingegg in 2021
+* [Starting transition in Perth at 17<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/mfkqfs/starting_transition_in_perth_at_17/) by justafeckingegg in 2021
 
 <br />
 
@@ -423,7 +423,7 @@ Key details
 
 reddit
 
-* [Just feeling so tired of whaiting](https://www.reddit.com/r/transgenderau/comments/s7p6ke/just_feeling_so_tired_of_whaiting/) by KotaSlav in 2022
+* [Just feeling so tired of whaiting<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/s7p6ke/just_feeling_so_tired_of_whaiting/) by KotaSlav in 2022
 
 <br />
 
@@ -455,7 +455,7 @@ Key details
 
 reddit
 
-* [Sir Charles Gairdner Hospital in Perth, WA was absolutely wonderful regarding me being trans](https://www.reddit.com/r/transgenderau/comments/hej1br/sir_charles_gairdner_hospital_in_perth_wa_was/) by Its_Sasha in 2020
+* [Sir Charles Gairdner Hospital in Perth, WA was absolutely wonderful regarding me being trans<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hej1br/sir_charles_gairdner_hospital_in_perth_wa_was/) by Its_Sasha in 2020
 
 Other
 
@@ -473,8 +473,8 @@ Key details
 
 reddit
 
-* [Sir Charles Gairdner Hospital in Perth, WA was absolutely wonderful regarding me being trans](https://www.reddit.com/r/transgenderau/comments/hej1br/sir_charles_gairdner_hospital_in_perth_wa_was/) by Its_Sasha in 2020
+* [Sir Charles Gairdner Hospital in Perth, WA was absolutely wonderful regarding me being trans<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hej1br/sir_charles_gairdner_hospital_in_perth_wa_was/) by Its_Sasha in 2020
 
 ---
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
