@@ -34,7 +34,7 @@ I usually see most trans related posts, but please also
 
 ## About Me
 
-There's nothing much I want to say. My username u/HiddenStill was chosen because I'd spent years trying not to transition. Its made me overly cautious, to the point where I say very little about myself and I especially don't like talking about anything recent. It probably doesn't really matter, but its not entirely rational anymore.
+There's nothing much I want to say. My username [u/HiddenStill](https://www.reddit.com/user/HiddenStill) was chosen because I'd spent years trying not to transition. Its made me overly cautious, to the point where I say very little about myself and I especially don't like talking about anything recent. It probably doesn't really matter, but its not entirely rational anymore.
 
 When I started out on reddit I used to post my opinions on surgeons just like anyone else, but I've pulled back from that and mostly stopped. This wiki and moderating has given me more attention and influence than I'm comfortable with, and I don't think its fair for me to influence anyone's choice in surgeon beyond providing links to resources. For all these reasons if/when I have surgery I'm not going to post about it under this account.
 

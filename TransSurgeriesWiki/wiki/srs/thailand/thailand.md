@@ -2412,7 +2412,7 @@ Susans
 
 YouTube
 
-* [‘It is my dream’: Woman says she risked it all for gender-affirming surgery in Thailand](https://www.youtube.com/watch?v=O8cI8ysUFFU) by CNN in 2024 - note in the credits is Mailee Osten-Tan who is reddit user reddit user u/Rough-Mood - see also this related [CNN article](https://edition.cnn.com/interactive/asequals/cheap-gender-affirmation-surgery-thailand-as-equals-intl-cmd/) by Mailee Osten-Tan and Prim Chuwiruch Corben
+* [‘It is my dream’: Woman says she risked it all for gender-affirming surgery in Thailand](https://www.youtube.com/watch?v=O8cI8ysUFFU) by CNN in 2024 - note in the credits is Mailee Osten-Tan who is reddit user reddit user [u/Rough-Mood](https://www.reddit.com/user/Rough-Mood) - see also this related [CNN article](https://edition.cnn.com/interactive/asequals/cheap-gender-affirmation-surgery-thailand-as-equals-intl-cmd/) by Mailee Osten-Tan and Prim Chuwiruch Corben
 * [SRS at Bangkok Pratunam](https://www.youtube.com/watch?v=AbQHbRe5LFY) by Virginia Burr in 2023
 * [Trans Women’s Impact on Thai Fashion | States of Undress | Refinery29](https://www.youtube.com/watch?v=pJiRT8WWqNg) by Refinery29 in 2023, see 30:58
 * [Katoi: Thailand, the kingdom of ladyboys](https://youtu.be/PFWn44BDI78?t=2046) by Investigations et Enquêtes in 2023
@@ -2468,8 +2468,8 @@ http://www.ladyboyspattaya.com/topic/35174-srs-with-dr-thep-vechavisit-at-pratun
 
 Articles by Mailee Osten-Tan
 
-* [‘It is my dream’: Woman says she risked it all for gender-affirming surgery in Thailand](https://www.youtube.com/watch?v=O8cI8ysUFFU) by CNN in 2024 - note in the credits is Mailee Osten-Tan who is reddit user reddit user u/Rough-Mood - see also this related [CNN article](https://edition.cnn.com/interactive/asequals/cheap-gender-affirmation-surgery-thailand-as-equals-intl-cmd/) by Mailee Osten-Tan and Prim Chuwiruch Corben
-* Longreads [Finding a path in a broken system](https://longreads.com/2022/06/08/gender-confirmation-surgery-trans-health-care-thailand/) by Mailee Osten-Tan in 2022 - note this is reddit user u/Rough-Mood
+* [‘It is my dream’: Woman says she risked it all for gender-affirming surgery in Thailand](https://www.youtube.com/watch?v=O8cI8ysUFFU) by CNN in 2024 - note in the credits is Mailee Osten-Tan who is reddit user reddit user [u/Rough-Mood](https://www.reddit.com/user/Rough-Mood) - see also this related [CNN article](https://edition.cnn.com/interactive/asequals/cheap-gender-affirmation-surgery-thailand-as-equals-intl-cmd/) by Mailee Osten-Tan and Prim Chuwiruch Corben
+* Longreads [Finding a path in a broken system](https://longreads.com/2022/06/08/gender-confirmation-surgery-trans-health-care-thailand/) by Mailee Osten-Tan in 2022 - note this is reddit user [u/Rough-Mood](https://www.reddit.com/user/Rough-Mood)
 
 TikTok
 
@@ -2573,7 +2573,7 @@ Surgeons sites
 
 **Photo links**
 
-Sales representative on reddit is u/louisdpc999, banned from [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries) for repeated [rule 6](https://www.reddit.com/r/Transgender_Surgeries/comments/exrxnh/rule_6_posts_from_those_with_a_commercial/) violations.
+Sales representative on reddit is [u/louisdpc999](https://www.reddit.com/user/louisdpc999), banned from [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries) for repeated [rule 6](https://www.reddit.com/r/Transgender_Surgeries/comments/exrxnh/rule_6_posts_from_those_with_a_commercial/) violations.
 
 reddit
 
@@ -2956,7 +2956,7 @@ YouTube
 
 * [What's It Like to Get Bottom Surgery? (My Story)](https://www.youtube.com/watch?v=CEIYqWHaU2k) by Alice in Wonder1and in 2024
     * [Trans Girl Surgery Update!](https://www.youtube.com/watch?v=kEfJ1_8winY) by Alice in Wonder1and in 2023
-* [From New Zealand to Phuket for Gender Affirming Surgery at PPSI with Dr Sanguan](https://www.youtube.com/watch?v=ZeeefsRPBH0) by Maddie Rose in 2022, aka u/Dizzy_Seaworthiness
+* [From New Zealand to Phuket for Gender Affirming Surgery at PPSI with Dr Sanguan](https://www.youtube.com/watch?v=ZeeefsRPBH0) by Maddie Rose in 2022, aka [u/Dizzy_Seaworthiness](https://www.reddit.com/user/Dizzy_Seaworthiness)
 * [Bangkok Hospital Siriroj PPSI Dr Sanguan](https://www.youtube.com/watch?v=ZcEc9GSXznE) by CH Admin in 2020
 * [Sex Change | National Geographic](https://www.youtube.com/watch?v=acSKE1FkkpI) by National Geographic in 2007
 

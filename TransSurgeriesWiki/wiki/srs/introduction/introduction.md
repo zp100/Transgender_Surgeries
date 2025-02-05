@@ -656,7 +656,7 @@ Yozakura Kurage (Penile preserving vaginoplasty)
 
 tumblr
 
-* https://androgyny2018.tumblr.com - "An MTX Journey", *"As planned, I now have a penis and a (neo)vagina."*, see reddit comment [here](https://www.reddit.com/r/Transgender_Surgeries/comments/rhvkxe/san_francisco_surgery_ppv_method_body_sculpting/hotc53h/) by u/Prototype1250, surgeon is Wittenberg (USA)
+* https://androgyny2018.tumblr.com - "An MTX Journey", *"As planned, I now have a penis and a (neo)vagina."*, see reddit comment [here](https://www.reddit.com/r/Transgender_Surgeries/comments/rhvkxe/san_francisco_surgery_ppv_method_body_sculpting/hotc53h/) by [u/Prototype1250](https://www.reddit.com/user/Prototype1250), surgeon is Wittenberg (USA)
 
 Susans
 
@@ -2664,7 +2664,7 @@ reddit - in [r/vaginismus](https://www.reddit.com/r/vaginismus)
 
 reddit
 
-* u/milliforher - company account
+* [u/milliforher](https://www.reddit.com/user/milliforher) - company account
 
 Susans
 
@@ -3103,7 +3103,7 @@ I've only put a few here, but there are (many) more listed on the surgeons pages
 
 reddit
 
-* u/EmmaLake
+* [u/EmmaLake](https://www.reddit.com/user/EmmaLake)
 * [Giving a helpful bit of very true and bad news on a Beverly Hills SRS surgeon Dr. Alex S. SinClair....!!!](https://www.reddit.com/r/Transgender_Surgeries/comments/gy8tfx/giving_a_helpful_bit_of_very_true_and_bad_news_on/) by 11com69 in 2020, photos [here](https://i.ibb.co/zSmzvrF/20190724-174435.jpg)
 * [Do not go to Dr. Schechter post-op photos (nsfw)](https://www.reddit.com/r/Transgender_Surgeries/comments/7rtada/do_not_go_to_dr_schechter_postop_photos_nsfw/) in 2018, photos [here](https://imgur.com/a/rIbvC).
 

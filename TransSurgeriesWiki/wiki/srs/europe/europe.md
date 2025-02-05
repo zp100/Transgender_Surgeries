@@ -3610,7 +3610,7 @@ YouTube
 
 * [day1 part2](https://www.youtube.com/watch?v=Fl4U4rQH9wc) by Karolina in 2022
     * [day 1 part 1 srs surgery](https://www.youtube.com/watch?v=uvbmWd1CDZY) by Karolina in 2022
-    * [Srs surgery Sweden/Stockholm, day0 .](https://www.youtube.com/watch?v=QAfBRUiFQJ8) by Karolina in 2022 - this is redditor u/Carolina-Swe
+    * [Srs surgery Sweden/Stockholm, day0 .](https://www.youtube.com/watch?v=QAfBRUiFQJ8) by Karolina in 2022 - this is redditor [u/Carolina-Swe](https://www.reddit.com/user/Carolina-Swe)
 
 Other
 

@@ -482,7 +482,7 @@ reddit
  
 YouTube
 
-* [my nightmare facelift by dr Elahi Mohammed](https://www.youtube.com/watch?v=03dvIgq7-UA) by Ebony with a hint of Rose in 2024 - this was posted by reddit user u/hexxanna in [Condensed video of nightmare facelift failure surgery by dr Elahi Mohammed ](https://www.reddit.com/r/cosmeticsurgery/comments/1e7jdlc/condensed_video_of_nightmare_facelift_failure/) in 2024 along with a realself review [The absolute worst decision I could have ever made in my life](https://www.realself.com/review/smas-facelift-no-results-scarring-painful-recovery)
+* [my nightmare facelift by dr Elahi Mohammed](https://www.youtube.com/watch?v=03dvIgq7-UA) by Ebony with a hint of Rose in 2024 - this was posted by reddit user [u/hexxanna](https://www.reddit.com/user/hexxanna) in [Condensed video of nightmare facelift failure surgery by dr Elahi Mohammed ](https://www.reddit.com/r/cosmeticsurgery/comments/1e7jdlc/condensed_video_of_nightmare_facelift_failure/) in 2024 along with a realself review [The absolute worst decision I could have ever made in my life](https://www.realself.com/review/smas-facelift-no-results-scarring-painful-recovery)
 
 Review sites
 
@@ -1053,7 +1053,7 @@ Susans
 
 YouTube
 
-* [FFS Face Reveal](https://www.youtube.com/watch?v=oUJu0SsVqZg) by Aphreditto in 2022, this is reddit user u/Aphreditto
+* [FFS Face Reveal](https://www.youtube.com/watch?v=oUJu0SsVqZg) by Aphreditto in 2022, this is reddit user [u/Aphreditto](https://www.reddit.com/user/Aphreditto)
 * [Transgender Facial Feminization Surgery Results](https://www.youtube.com/watch?v=kKrksobzh64) by Cadence Winter in 2018
 * [Plastic Surgery in MEXICO!!!](https://www.youtube.com/watch?v=ru6feMVO664) by EverydayBeautiful L.A.
 

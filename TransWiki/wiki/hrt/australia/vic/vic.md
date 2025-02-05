@@ -259,7 +259,7 @@ Other
 
 reddit
 
-* reply to [Need some advice: Trying to organise SRS in Thailand](https://www.reddit.com/r/transgenderau/comments/1cbpro6/need_some_advice_trying_to_organise_srs_in/l9vf3sq/?context=3) by HiddenStill in 2024, Dr Brownhill responds using reddit account u/jacattack12
+* reply to [Need some advice: Trying to organise SRS in Thailand](https://www.reddit.com/r/transgenderau/comments/1cbpro6/need_some_advice_trying_to_organise_srs_in/l9vf3sq/?context=3) by HiddenStill in 2024, Dr Brownhill responds using reddit account [u/jacattack12](https://www.reddit.com/user/jacattack12)
 * reply to [Refused WPATH letter](https://www.reddit.com/r/transgenderau/comments/1b4qrf5/refused_wpath_letter/kt4mntf/) by Pretty_Gorgeous - *"I've had two different gender affirming surgeries and neither surgeon required a wpath letter. They just wanted a GP referral for Medicare purposes and the rest was done under informed consent... The Thai surgeon said they need 2 wpath letters and to come off HRT prior to surgery and I shot back indicating that this was an antiquated methodology and it had been shown that it was no longer necessary in other countries (citing Australia) and they came back with they were happy to do it under informed consent as long as I signed a waiver understanding that they had raised their points about irreversible surgery and possible risks... my GP is part of a service you may be interested in.. nowbu.com.au"*
 
 **NowBu - Suppliments**

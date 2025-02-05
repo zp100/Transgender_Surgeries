@@ -2556,7 +2556,7 @@ There's more on the FFS page
 
 Surgeons sites
 
-* u/DrFensterer
+* [u/DrFensterer](https://www.reddit.com/user/DrFensterer)
 * https://www.baptisthealth.com/provider/tathyana-m-fensterer-md-plasticreconstructive-surgery
 
 Article
@@ -2565,7 +2565,7 @@ Article
 
 reddit
 
-* [FFS surgeon DrFensterer to answer questions about transgender surgeries](https://www.reddit.com/r/Transgender_Surgeries/comments/q8z5ot/ffs_surgeon_drfensterer_to_answer_questions_about/) by u/DrFensterer
+* [FFS surgeon DrFensterer to answer questions about transgender surgeries](https://www.reddit.com/r/Transgender_Surgeries/comments/q8z5ot/ffs_surgeon_drfensterer_to_answer_questions_about/) by [u/DrFensterer](https://www.reddit.com/user/DrFensterer)
 
 <br />
 

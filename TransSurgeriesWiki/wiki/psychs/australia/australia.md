@@ -357,7 +357,7 @@ Also works at the Sydney Gender Center.
 
 **reddit**
 
-* u/DrJamesMorandini
+* [u/DrJamesMorandini](https://www.reddit.com/user/DrJamesMorandini)
 * [Concord Hospital / King Street Psychology Clinic, NSW](https://www.reddit.com/r/transgenderau/comments/1eryckb/concord_hospital_king_street_psychology_clinic_nsw/) by ToaxtyLive in 2024
     * [King Street Psychology Clinic Appointment & Update](https://www.reddit.com/r/transgenderau/comments/1dnw9xw/king_street_psychology_clinic_appointment_update/) by ToaxtyLive in 2024
     * [Psychologist, King Street Clinic](https://www.reddit.com/r/transgenderau/comments/1dbokpc/psychologist_king_street_clinic/) by ToaxtyLive in 2024

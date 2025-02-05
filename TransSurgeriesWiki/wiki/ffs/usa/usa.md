@@ -159,7 +159,7 @@ reddit
 * Reply to [Can't decide between Dr. Deschamps-Braly and Dr. Zukowski for FFS. Are there any past patients out there that can help? w/pics of my face.](https://www.reddit.com/r/asktransgender/comments/63lz25/cant_decide_between_dr_deschampsbraly_and_dr/dh6ibeq/) by emilycdcanada
 * [FFS - Deschamps-Braly: 1 month post-op update](https://www.reddit.com/r/asktransgender/comments/5gi57w/ffs_deschampsbraly_1_month_postop_update/) by debraMckenz
 
-reddit - u/always-autumn
+reddit - [u/always-autumn](https://www.reddit.com/user/always-autumn)
 
 * [3 Years Post FFS with Deschamps-Braly](https://www.reddit.com/r/Transgender_Surgeries/comments/icw9dy/3_years_post_ffs_with_deschampsbraly/) by always-autumn in 2019
 * [2 Years Post FFS](https://www.reddit.com/r/transtimelines/comments/b72s43/2_years_post_ffs/) by always-autumn in 2019
@@ -168,13 +168,13 @@ reddit - u/always-autumn
 * [Profile Comparison: 7 months HRT VS 13 months HRT + 2 months post-op FFS with Deschamps-Braly](https://www.reddit.com/r/transtimelines/comments/6ggycc/profile_comparison_7_months_hrt_vs_13_months_hrt/) by always-autumn
 * [Summer 2015 VS 12 Days Post-op FFS with Dr. Deschamps-Braly (no makeup, hair down) ](https://www.reddit.com/r/transtimelines/comments/67ixnv/summer_2015_vs_12_days_postop_ffs_with_dr/) by always-autumn
 
-reddit - u/lilliannee
+reddit - [u/lilliannee](https://www.reddit.com/user/lilliannee)
 
 * [I had FFS with Deschamps-Braly two weeks today.](https://www.reddit.com/r/MtF/comments/7up9ab/i_had_ffs_with_deschampsbraly_two_weeks_today/) by lilliannee in 2018
 * [16 days post-FFS and new haircut!](https://www.reddit.com/r/transpassing/comments/7v44ff/16_days_postffs_and_new_haircut/)
 * [4 months post-FFS : Life is good!](https://www.reddit.com/r/transpassing/comments/8lnydx/4_months_postffs_life_is_good/)
 
-reddit - u/Buchabricks
+reddit - [u/Buchabricks](https://www.reddit.com/user/Buchabricks)
 
 * [Three weeks post Facial Feminization surgery, confident enough to take a face pic! Hey boys ;)](https://www.reddit.com/r/traps/comments/8ntzo2/three_weeks_post_facial_feminization_surgery/)
 * [Recovering from facial feminization surgery. Still v v puffy and one sleepo beepo](https://www.reddit.com/r/transpositive/comments/8l3qpj/recovering_from_facial_feminization_surgery_still/)
@@ -2209,7 +2209,7 @@ Other
 
 Surgeons sites
 
-* u/DrFensterer
+* [u/DrFensterer](https://www.reddit.com/user/DrFensterer)
 * https://www.baptisthealth.com/provider/tathyana-m-fensterer-md-plasticreconstructive-surgery
 
 Article
@@ -2218,7 +2218,7 @@ Article
 
 reddit
 
-* [FFS surgeon DrFensterer to answer questions about transgender surgeries](https://www.reddit.com/r/Transgender_Surgeries/comments/q8z5ot/ffs_surgeon_drfensterer_to_answer_questions_about/) by u/DrFensterer
+* [FFS surgeon DrFensterer to answer questions about transgender surgeries](https://www.reddit.com/r/Transgender_Surgeries/comments/q8z5ot/ffs_surgeon_drfensterer_to_answer_questions_about/) by [u/DrFensterer](https://www.reddit.com/user/DrFensterer)
 * [Recommendations for FFS and GRS in Kentucky](https://www.reddit.com/r/Transgender_Surgeries/comments/pkzmfd/recommendations_for_ffs_and_grs_in_kentucky/) by Blazerawl in 2021
 
 Susans

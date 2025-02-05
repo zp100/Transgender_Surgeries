@@ -755,7 +755,7 @@ Papers
 
 ## Post-op Hair removal
 
-Some of the above links have information on hair removal post-op, in particular those by u/SeanaTG aka u/ElectrolysisBySeana (she's a [Canadian electrologist](http://www.electrolysisbyseana.com/)). It sounds very difficult, but not necessarily impossible. I'm not sure, but it may require cauterisation instead of electrolysis.
+Some of the above links have information on hair removal post-op, in particular those by [u/SeanaTG](https://www.reddit.com/user/SeanaTG) aka [u/ElectrolysisBySeana](https://www.reddit.com/user/ElectrolysisBySeana) (she's a [Canadian electrologist](http://www.electrolysisbyseana.com/)). It sounds very difficult, but not necessarily impossible. I'm not sure, but it may require cauterisation instead of electrolysis.
 
 There's a couple of posts on susans by KayXo, who managed to permanently remove deep vaginal hair after using [Nair](https://en.wikipedia.org/wiki/Nair_(hair_removal)) at the suggestion of her surgeon Dr Brassard. See [here](https://www.susans.org/forums/index.php/topic,220964.msg1958452.html#msg1958452), [here](https://www.susans.org/forums/index.php/topic,223149.msg1976373.html#msg1976373), and [here](https://www.susans.org/forums/index.php/topic,223149.msg1976533.html#msg1976533). Be extremely careful if you try that.
 
