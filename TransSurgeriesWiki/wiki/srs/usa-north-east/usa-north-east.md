@@ -1054,7 +1054,7 @@ Jazz Jennings
 
 Legal
 
-* "Jess Ting, M.D." acting as Plaintiff's counsel in the lawsuit [THOMPSON v. RUMER](https://www.courtlistener.com/docket/7820076/22/thompson-v-rumer/) filed Feb 1, 2020 (i.e. he is acting for the trans woman suing [Dr Kathy Rumer<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md#kathy-lynn-rumer)). 
+* "Jess Ting, M.D." acting as Plaintiff's counsel in the lawsuit [THOMPSON v. RUMER](https://www.courtlistener.com/docket/7820076/22/thompson-v-rumer/) filed Feb 1, 2020 (i.e. he is acting for the trans woman suing [Dr Kathy Rumer<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#kathy-lynn-rumer)). 
 
 <br />
 

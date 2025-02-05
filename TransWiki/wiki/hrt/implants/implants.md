@@ -192,7 +192,7 @@ Before inserting the implant a local anesthetic of lidocaine is injected, otherw
 
 See the wiki entry on lidocaine inejections
 
-* [https://www.reddit.com/r/TransWiki/wiki/local_anesthetic#wiki_lidocaine_injections<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/local_anesthetic/local_anesthetic.md#lidocaine-injections)
+* [https://www.reddit.com/r/TransWiki/wiki/local_anesthetic#wiki_lidocaine_injections<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/local_anesthetic/local_anesthetic.md#injections)
 
 <br />
 
@@ -798,7 +798,7 @@ reddit
 
 ## Australia
 
-There are two main manufacturers of estrogen implants in Australia, Complementary Compounding Services (CCS) in Ballina and Stenlake in Sydney, plus a couple of others. CCS do make both 3mm and 4.5mm implants, and while Stenlake are known of the 4.5mm implants I believe they can also make the 3mm implants. The reason for either size are discussed above in [Implant Technology<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md#implant-technology).
+There are two main manufacturers of estrogen implants in Australia, Complementary Compounding Services (CCS) in Ballina and Stenlake in Sydney, plus a couple of others. CCS do make both 3mm and 4.5mm implants, and while Stenlake are known of the 4.5mm implants I believe they can also make the 3mm implants. The reason for either size are discussed above in [Implant Technology<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implant-technology/implant-technology.md).
 
 * https://custommedicine.com.au/
 * https://www.stenlake.com.au/

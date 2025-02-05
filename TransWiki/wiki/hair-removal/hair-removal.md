@@ -826,7 +826,7 @@ However in the lawsuit [THOMPSON v. RUMER](https://www.courtlistener.com/docket/
 
 > Defendants Kathy L. Rumer D.O., F.A.C.O.S. and Delaware Valley Aesthetics, PLLC d/b/a Rumer Cosmetic Surgery will prove that they complied with the standard of care in performing Roxanne Thompson's gender reassignment surgery on September 13, 2016. *Hair regrowth is a recognized complication of vaginoplasty. Complete hair removal, whether it is done pre-operatively or post-operatively is never guaranteed.* There are differing schools of thought on the subject of hair removal when performing gender reassignment surgery."
 
-Futher information on Dr Kather Rumer can be found in this wiki [here<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md#kathy-lynn-rumer).
+Futher information on Dr Kather Rumer can be found in this wiki [here<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#kathy-lynn-rumer).
 
 YouTube
 
