@@ -2,13 +2,11 @@
 
 ---
 
-
 # Introduction
 
 These pages are a collection of links to to information about surgeons around the world. Originally it was only links containing photos of MTF SRS results based on my (HiddenStill) personal research into SRS, but has been expanded. **There's a wide range of information here and some of it may be disturbing.**
 
 I've tried to avoid expressing my personal opinions on these pages but there is bias in what I've collected due to my interests at the time. I'm trying to round it out to include links of more general interest to everyone, but its a long term project. As a result **what you see here is not necessarily representative of what's available on Internet. Further, links posted here are not an endorsement that the surgeons are good, or even competent. Please bear that in mind and do your own research.**
-
 
 Note that there's a fair number of negative posts about surgeons here as its one of the things I'm most interested in. All experienced surgeons have negative reviews and its not something that should rule automatically one out. I like to consider the number of negative vs positive reviews. There's also more links for some surgeons than others, partly due to my personal focus. I'll continue to edit and add to these pages over time and if anyone knows of any results, links, corrections, or improvements please let me know.
 
@@ -42,9 +40,6 @@ I go by female pronouns online and male in real life.
 
 I'm not and never have been in any medical field. My work is far removed from that.
 
-
-
-
 <br />
 
 ---
@@ -58,8 +53,6 @@ I'm not and never have been in any medical field. My work is far removed from th
 * [Hips & Butt](https://www.reddit.com/r/TransSurgeriesWiki/wiki/hips-butt/introduction)
 * [Hair transplant](https://www.reddit.com/r/TransSurgeriesWiki/wiki/hair-transplant/introduction)
 * [Other Surgeries](https://www.reddit.com/r/TransSurgeriesWiki/wiki/other)
-
-
 
 <br />
 
@@ -126,21 +119,15 @@ Papers
 * 2021 - [Facial Masculinization from Procedures to Payment: A Review](https://doi.org/10.1089/lgbt.2020.0128) by Jason Harris, Ishani D. Premaratne, Jason A. Spector
 * 2011 - [Dr. Paul Tessier and facial skeletal masculinization](https://doi.org/10.1097/sap.0b013e31821835cb) by Douglas K Ousterhout
 
-
-
-
 <br />
 
 ---
 
 # Intersex
 
-
 reddit
 
 * [Transgender patients should not have to disclose their previously assigned gender for medical reasons.](https://www.reddit.com/r/Transgender_Surgeries/comments/kr1tc4/transgender_patients_should_not_have_to_disclose/) by syrahlips in 2021
-
-
 
 <br />
 
@@ -172,7 +159,6 @@ Women have many varied reasons for choosing their surgeon andprioritise differen
 If you have freedom to choose a surgeon it can be difficult to get started evaluatining them due to the amount of choice. Personally I'd start by looking at the most popular surgeons as judged by the number of reviews in the wiki - they are presumaby popular for a reason and the number of reviews make it easier to judge the risk of having problems. ie no botched surgeries for a surgeon with no reviews doesn't mean anything, except that a surgeon with no reviews probably doesn't have much practice/skill either. Look at photos of results very carefully and educate yourself on what you are looking at - you may find you have different opinions on what is good/bad to others.
 
 Some are looking for the best surgeon in the world, money no object. Its not an easy question to answer - I've noticed a number of exceptionally wealthy trans women all choosing different surgeons. I'd start looking at surgeon in the USA and Thailand, starting with the most popular.
-
 
 Some prefer surgeons in their own country so that its easier to get problems taken care of. This post mentions local surgery in both Sweden and Germany and still having problems getting doctors to help.
 
@@ -208,7 +194,6 @@ The 2020 paper [Adverse events associated with gender affirming vaginoplasty sur
 
 > The incidence of serious adverse events related to vaginoplasty surgery is low, whereas minor events are common. *After a threshold of 50 vaginoplasty surgeries, these events were reduced, including the need for revision surgery.*
 
-
 *This is my opinion for what it's worth.*
 
 There's many new trans surgeons appearing in recent years. You might reasonably think that all surgeons are highly qualified professionals who are all much the same, and none of them could possibly be incompetant. After all, even the best surgeons in the world were once inexperienced and unknown. And even the best still have reports of botched surgeries So what if you choose one of these?
@@ -229,13 +214,9 @@ Here's some cases worth reading
 * [When Surgeons Fail Their Trans Patients on Gender Confirming Surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/icsahu/when_surgeons_fail_their_trans_patients_on_gender/) in 2020 - this is from an experienced surgeon
 * http://hannahsimpson.com/Surgery and associated comment here [I need your help... because... I don't know how much longer I can keep going on this way. Please. Any help. I'm begging you.](https://www.reddit.com/r/asktransgender/comments/9220a2/i_need_your_help_because_i_dont_know_how_much/e34966r/)
 
-
 Papers
 
 * 2020 - [Adverse events associated with gender affirming vaginoplasty surgery](https://pubmed.ncbi.nlm.nih.gov/32446999/) by Cecile A Ferrando - *"The incidence of serious adverse events related to vaginoplasty surgery is low, whereas minor events are common. After a threshold of 50 vaginoplasty surgeries, these events were reduced, including the need for revision surgery."*. Note that this is a single surgeon, a small sample, and still only 76 surgeries. There's are surgeons who have 1000 cases, and a few with over 2000.
-
-
-
 
 <br />
 
@@ -248,10 +229,6 @@ YouTube
 * [Surgery Secrets with Dr. Blair Peters](https://www.youtube.com/watch?v=GoZvu0CIz-c) by Surgery 101 in 2021
 * [Day in the Life - Gender Surgeon \[Ep. 20\]](https://www.youtube.com/watch?v=504avISZl3U) by Kevin Jubbal, M.D. - *"Our highly anticipated Day in the Life series is back with a very special episode with Dr. John Brosious, a gender surgeon practicing in Las Vegas, Nevada. As you’ll discover in this episode, you don’t have to fit the stereotypical doctor mold to be successful in medicine or to transform patients' lives. This is a day in his life."*
 * [So You Want to Be a GENDER SURGEON \[Ep. 35\]](https://www.youtube.com/watch?v=nDBKJccyVHQ) by Med School Insiders in 2022 - "*After medical school, there are a few different pathways to becoming a gender surgeon, and which pathway you choose will be dependent on which area of gender surgery you wish to go into. The most common pathway to becoming a gender surgeon is to complete a plastic surgery residency followed by either a one-year gender surgery fellowship or a one-year microvascular fellowship. That being said, there are other pathways to becoming a gender surgeon as well.*" and also *"Huge shout out to Gender Surgeon Dr. John Brosious for helping me with this video. See a Day in his Life on my other channel, Kevin Jubbal, M.D."*
-
-
-
-
 
 <br />
 
@@ -271,7 +248,6 @@ If you search for the surgeons name together with the keywords malpractice, laws
 
 * From LinkedIn - [Dealing with Negative Search Results: How to Get Rid of the Bad Stuff](https://www.linkedin.com/pulse/dealing-negative-search-results-how-get-rid-bad-stuff-joe-chierotti/) - Suppress (or Bury) the Negative Content with Reverse SEO. Your other option for minimizing the reputation damage of negative content is with search engine suppression, also referred to as Reverse SEO. This is akin to fighting fire with fire. Instead of trying to remove content, you simply create more in an effort to bury the negative content in the search results. In most cases, suppression via Search Engine Optimization (SEO) - i.e. Reverse SEO - is not only effective at removing negative content from the first few pages of search results, but it also works to strengthen your online branding and/or promote your business in a positive light. Most consumers will only visit the first few links returned in search results. As you create SEO-focused content, your page rises to the top of the search ranks, while other pages move down. If you can get the negative content pushed to the third or fourth page, it's likely that consumers won't even see it."
 
-
 ## Allure Aesthetics 2022 in USA
 
 [AG Ferguson files lawsuit against Seattle-based plastic surgery clinic for bribing, threatening patients to falsely inflate its online ratings](https://www.atg.wa.gov/news/news-releases/ag-ferguson-files-lawsuit-against-seattle-based-plastic-surgery-clinic-bribing) by Washington State Office of the Attorney General on 29 DEcember 2022 - *"Attorney General Bob Ferguson today filed a federal lawsuit against Allure Esthetic, a major plastic surgery provider in Seattle, and its owner, Dr. Javad Sajan, for* ***falsely and illegally inflating its ratings on online rating platforms such as Yelp and Google. The company intimidated patients into removing negative reviews, and ordered its employees to post fake positive reviews.*** *"*
@@ -281,13 +257,10 @@ YouTube
 
 * [Washington attorney general announces plastic surgery lawsuit](https://www.youtube.com/watch?v=heJ8LaNPCkc) by KING 5
 
-
-
 <br />
 ## Facebook
 
 See [r/TransWiki/wiki/facebook](https://www.reddit.com/r/TransWiki/wiki/facebook)
-
 
 <br />
 ## Trans Media Network
@@ -307,13 +280,11 @@ There's network of advertising sites tagreting trans people, combining informati
     * https://www.topsurgeryflorida.com
     * https://www.topsurgerymexico.com
 
-
 Note, on their [legal page](https://www.transmedianetwork.com/legal/) - Trans Media Network is ***not responsible*** for any medical and/or medical provider information that is posted on its websites. We do not advocate any particular medical services provider. Trans Media Network does not provide any medical advice or diagnosis to its users. Any process leading to the acceptance of any services is at your own risk.
 
 reddit
 
 * [Update on wound dehiscence. (Surgeon Dr. Kathy Rumer)](https://www.reddit.com/r/Transgender_Surgeries/comments/1c1uuy1/update_on_wound_dehiscence_surgeon_dr_kathy_rumer/) by Babysoots in 2024 - *I've been using promogram as instructed by Dr. Rumer. I thought I did my research checked out surgeons closer to me  (I'm in the north east) and I found her on a website called [trans healthcare.org](https://www.transhealthcare.org/kathy-rumer/) I am very scared but I havent missed a dilation session. I just have no clue what to do right now.*
-
 
 <br />
 ## Doctor Awards
@@ -325,11 +296,9 @@ reddit
 
 * [I know there’s no merit to these “awards” and they can just be purchased, but the average pt doesn’t know that and it’s dangerous. Chiros claiming they’re physicians.](https://np.reddit.com/r/medicine/comments/onjgxz/i_know_theres_no_merit_to_these_awards_and_they/) in 2021
 
-
 ### Consumers Research Council of America
 
 * [ABC News Investigates Top Doctor Awards: Are they Always Well Deserved? ABC News investigates the Consumer's Research Council of America.](https://abcnews.go.com/Health/top-doctor-awards-deserved-abc-news-investigation/story?id=16771628) in 2012 - *"Dr. Silverberg said, "It's a sham. I've practiced zero days of dentistry in my life- and I still received this award for being one of America's Top Dentists. ... But Tenny remains listed as a "Top Surgeon" despite more than a dozen medical malpractice cases against him between 1983 and the time of Maribeth Chase's surgery in 2007.""*
-
 
 <br />
 ## Bias on Review Sites
@@ -375,11 +344,7 @@ Given that, I'd be concerned if there were a large discrepancy between the numbe
 
 I'd also be cautious where surgeons feature in articles in lots of magazines, newspapers and social media. There's a risk that they are really good at marketing and their reputation is influenced by that rather than their skills.
 
-
-
  
-
-
 
 <br />
 
@@ -391,11 +356,6 @@ reddit
 
 * [I will literally do anything to get surgeries. What should I do?](https://www.reddit.com/r/Transgender_Surgeries/comments/kaacvu/i_will_literally_do_anything_to_get_surgeries/) by sara_charleston_ts in 2020
 * [How did y’all save money for SRS?](https://www.reddit.com/r/ask_transgender/comments/9xy2b0/how_did_yall_save_money_for_srs/) in 2018
-
-
-
-
-
 
 <br />
 
@@ -412,7 +372,6 @@ Why doesn't a doctor carry malpractice insurance?
 * http://www.kaplanlegal.com/hidden-danger-uninsured-doctors/ - *"Most attorneys will not take on a medical malpractice case if it is known that the doctor is uninsured because even if the patient is successful, it may be difficult if not impossible to collect."*
 * https://www.realself.com/question/michigan-mi-concern-doctor-medical-malpractice-insurance-red-flag
 * https://www.nbcbayarea.com/news/local/Does-Your-Dr-Have-Malpractice-Insurance-Maybe-Not--382113561.html
-
 
 The huffpost article [Patients, Beware When Doctors 'Go Bare'](https://www.huffpost.com/entry/medical-malpractice-insurance_b_2455946) from 2013 makes some very clear points   
 
@@ -440,20 +399,15 @@ https://www.kktplaw.com/blog/2018/07/plastic-surgery-patient-undergoing-popular-
 
 https://www.charlotteobserver.com/living/health-family/article78343107.html in 2016 - *"The Florida Department of Health has charged doctors who work at Encore Plastic Surgery and two other clinics, Vanity Cosmetic Surgery and Spectrum Aesthetics in Miami, with medical malpractice and employing unlicensed professionals. Yet they continue to operate."*
 
-
 YouTube
 
 * [Inside Miami’s deadly plastic surgery industry | Fault Lines Documentary](https://www.youtube.com/watch?v=QKV7s89vr44) by Al Jazeera English in 2023
-
 
 ## Texas
 
 reddit
 
 * reply to [Sarah Saxon (Austin, Texas) (Student of Spiegel) blocked my phone number when I told her I had post-surgical complications and asked her to call me back.](https://www.reddit.com/r/Transgender_Surgeries/comments/1chiv3t/sarah_saxon_austin_texas_student_of_spiegel/l235jxe/) by thornhawthorne in 2024 - *"I can't get a lawyer to take my case. They're all saying it's not worth it. I have contacted 20+ attorneys in DFW so far... Texas law severely limits how much you can sue for and every lawyer is like "I want more money than that for this""*
-
-
-
 
 <br />
 
@@ -480,15 +434,12 @@ reddit
 * [I have a heavy history of ketamine and benzo abuse and have a permanent tolerance to both. Will these effect my surgery?](https://www.reddit.com/r/anesthesiology/comments/7pyn2n/i_have_a_heavy_history_of_ketamine_and_benzo/) in /r/anesthesiology in 2018
 * [Cocaine, anesthesia and elective plastic surgery.](https://www.reddit.com/r/anesthesiology/comments/6h4m9b/cocaine_anesthesia_and_elective_plastic_surgery/) in /r/anesthesiology in 2017
 
-
 YouTube
 
 * [What they don't tell you about cannabis before surgery- Dr. Kaveh LIVE](https://www.youtube.com/watch?v=2AeTDIyKDUs) by 
 Medical Secrets in 2023
 
-
 https://420intel.com/articles/2018/07/25/can-you-smoke-cannabis-after-plastic-surgery - *"Most well-regarded plastic surgeons recommend refraining from smoking cannabis for six weeks before and after any surgery. Medical experts believe that patients should protect their investment and give their bodies enough time to recover naturally and completely"* ***and*** *"If you get the okay, it is best to avoid smoking any substance and instead take cannabis in other forms."*
-
 
 potguide.com
 
@@ -497,7 +448,6 @@ potguide.com
 New York Times
 
 * [Want a Face-Lift? First, Better Stop Smoking](https://www.nytimes.com/2008/08/14/fashion/14SKIN.html) uin 2008 - *"For the last 5 to 10 years, many plastic and cosmetic surgeons have refused to operate on smokers, especially those seeking a face-lift, tummy tuck, or breast-lift — procedures that require skin to be shifted."* ***and*** *"“Nowadays if a doctor knew a patient was smoking and they did flap surgery,” he said, referring to an operation where shifting skin is required, “many of us would say that’s malpractice.”"*
-
 
 Science News
 
@@ -521,8 +471,6 @@ Papers
 * 2013 - [Plastic surgery and smoking: a prospective analysis of incidence, compliance, and complications.](https://www.ncbi.nlm.nih.gov/pubmed/23358000) - *"active smoking was strongly correlated with complications"*
 * 2011 - [A comprehensive review of opioid-induced hyperalgesia](https://pubmed.ncbi.nlm.nih.gov/21412369/) by Marion Lee, Sanford M Silverman, Hans Hansen, Vikram B Patel, Laxmaiah Manchikanti - *"Opioid-induced hyperalgesia (OIH) is defined as a state of nociceptive sensitization caused by exposure to opioids. The condition is characterized by a paradoxical response whereby a patient receiving opioids for the treatment of pain could actually become more sensitive to certain painful stimuli."*
 
-
-
 ## Nicotine
 
 * 2021 - [Nicotine replacement therapy in surgical patients](https://pubmed.ncbi.nlm.nih.gov/34506094/) by Marcela Kanova , Katerina Tejkalova, Jan Neiser, Roman Kula - *" This study did not confirm the effect of nicotine replacement therapy in reducing the incidence of delirium, it did not shorten the total duration of ICU stay or artificial ventilation and there was no reduced sedation requirement. We therefore saw no beneficial effect in patients receiving nicotine replacement therapy following elective surgery."*
@@ -534,7 +482,6 @@ Papers
 Other
 
 * https://www.sciencedaily.com/releases/2017/11/171115175653.htm
-
 
 <br />
 
@@ -562,12 +509,9 @@ Other
 
 * https://piercinghq.com.au/transgender - *"Rejection risk of piercings in post-op labia is in our experience higher than in the labia of cis-women, and the scrotums of cis-men. Strange but based on our experience. That’s not to say that ALL MTF labia piercings will reject – just that the odds are higher."*
 
-
 Papers
 
 * 2019 - [Microdermal Implants Show No Effect on Surrounding Tissue During Surgery With Electrocautery](https://pubmed.ncbi.nlm.nih.gov/31009888/) by Rowan R Sheldon, Michael J Loughren, Christopher W Marenco, James R Winters, Jason R Bingham, Matthew J Martin, Matthew J Eckert, Richard O Burney
-
-
 
 <br />
 
@@ -594,7 +538,6 @@ Not sure, but I believe FFS can shift the eyebrows so any permanent eyebrow shap
 Facial and body hair removal with laser/electrolysis can be done at any time, including before/after HRT has started. Facial hair removal should generally be started as soon as possible as it takes a very long time to complete (mininum of a year due to hair growth cycle). Facial hair removal after social transition is difficult to deal with as you need to grow the hair out for a few days for electrolysis. Body hair will reduce on HRT, and even further if and when testicles are removed. Body hair removal may not be neessary. Body hair is usually removed with laser, not electrolysis. Facial hair is usually removed with laser first then electrolysis for anything thats's left. Electrolysis is more effective, but its also *very* expensive, slow, and painful.
 
 Don't get face/body piercings soon before surgery as they must be removed due to the electrocautery equipment used. Surgeons will generally insist they be removed. If you do have piecings and cannot remove them for long find an non-metallic keeper for the surgery.
-
 
 reddit
 
@@ -630,11 +573,6 @@ Facial Team
 
 * [WHAT COMES FIRST? AN ADAM’S APPLE REDUCTION OR VOICE FEMINIZATION SURGERY?](https://facialteam.eu/blog/ffs-surgery/adams-apple-reduction-voice-feminization-surgery/) in 2016 - *"In the patient’s best interest, a tracheal shave should be performed first."*
 
-
-
-
-
-
 <br />
 
 ---
@@ -647,11 +585,9 @@ reddit
 
 * [Go as PINK as you can - hard won SRS insights. If only someone had been able to explain to me...](https://www.reddit.com/r/Transgender_Surgeries/comments/10mpqct/go_as_pink_as_you_can_hard_won_srs_insights_if/) by bunnytransgirl in 2023
 
-
 Safety of Tattos
 
 * Wired - [Scientists explore chemistry of tattoo inks amid growing safety concerns](https://arstechnica.com/science/2022/08/whats-in-that-tattoo-ink-labels-are-often-inaccurate-study-finds/) in 2022
-
 
 Papers
 
@@ -695,7 +631,6 @@ YouTube
 * [Silicone Injections: The Ugly Truth](https://www.youtube.com/watch?v=BlrpfzuHWnE) by Randy Simpson in 2016 - trans YouTuber
 * [This Is Your Butt (On Silicone Injections) - Just Say No | Video](https://www.youtube.com/watch?v=Huy0-z9IVkg) by LiveScience in 2015
 
-
 Facebook
 
 * https://www.facebook.com/737692506/videos/10156247825092507/ - Video on silicone removal by Nicole Sanders
@@ -723,8 +658,6 @@ University of California, San Francisco
 
 * [Free silicone and other filler use](http://transhealth.ucsf.edu/tcoe?page=guidelines-silicone-filler) by Barry Zevin and Madeline B. Deutsch
 
-
-
 <br />
 
 ---
@@ -735,12 +668,9 @@ YouTube
 
 * [BIOPOLYMERS REMOVAL FROM MY BODY FOR GOOD](https://www.youtube.com/watch?v=_m4F9wKW6XY) by DreamDoll in 2019
 
-
 Papers
 
 * 2021 - [Clinical and Immunological Characteristics of Patients with Biopolymers and Autoimmune Inflammatory Syndrome Induced by Adjuvants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8517314/) by Jaime Eduardo Pachón S, Marcela C. Salazar, Adriana M. Pores, and Victor Z. Rizo, M
-
-
 
 <br />
 
@@ -749,7 +679,6 @@ Papers
 # Travel
 
 reddit
-
 
 * [British gay man ‘tortured’ in Qatar is almost out of HIV medicine, family says.](https://www.reddit.com/r/gaybros/comments/1c1z0tq/british_gay_man_tortured_in_qatar_is_almost_out/) by 0WishToBeFree0 in 2024 - links to Advocate article [](https://www.advocate.com/news/qatar-gay-airline-torture-hiv) in 2024 - *"Forty-four-year-old Manuel Guerrero, who also holds Mexican citizenship, moved to Qatar, where homosexuality is illegal, seven years ago for his work. He was detained on February 4 after being entrapped by law enforcement through a fake Grindr profile, and was held in jail for nearly two months. During that time, Qatari authorities subjected Guerrero to secret nighttime interrogations where they forced him to name other LGBTQ+ people he had relations with, according to his family. After learning of his HIV status, they locked him in solitary confinement and refused to administer his medication... Younes added that "security officers also inflict verbal abuse, extract forced confessions, and deny detainees access to legal counsel, family, and medical care... "They tortured Manuel in the face of the U.K. embassy, and I believe the U.K. government needs to escalate the situation because it's critical and it's not fair," he said. "They must send a clear message to the state of Qatar that they can't do that to a British citizen. They can't torture a British citizen."*
 * [A catch-all answer to "should I go to (insert Middle East country here)?": No you fucking shouldn't.](https://www.reddit.com/r/asktransgender/comments/14p93kl/a_catchall_answer_to_should_i_go_to_insert_middle/) by JesiDoodli in 2023 - *"It is unsafe. It doesn't matter how well you pass, it's unsafe. Even if you've had bottom surgery, are on HRT, it's unsafe. It doesn't matter how deep into the closet you are, if the only people who know you're queer are online. It's unsafe. You could easily be outed, doesn't matter how well you pass, or if you're closeted. This opens the floodgates to harassment, assault, arrest, torture, abuse, even murder. Here, rainbow toys are banned because it's "spreading homosexuality to kids". Now imagine the reception you'll get as an actual queer person."*
@@ -799,7 +728,6 @@ Marca
 
 * [Mexican woman faces 100 lashes and prison time after she was sexually assaulted in Qatar](https://www.marca.com/en/world-cup/2022/02/18/620fcbc8ca4741602e8b45e0.html) in 2021 - *"An economist and anthropologist faces a sentence of 100 lashes and up to seven years in prison, after she reported sexual abuse whilst working in Qatar... Qatari authorities chose not to look into the complaint or protect Schietekat, instead accusing her of extramarital affairs and giving her this sentence."*
 
-
 <br />
 ## Travel Insurance
 
@@ -808,9 +736,6 @@ Normal travel insurance will not cover you when travelling for medical tourism.
 Companies that provide this insurance.
 
 * https://www.globalprotectivesolutions.com/
-
-
-
 
 <br />
 
@@ -881,8 +806,6 @@ YouTube
 
 * [How to Post Text, Photo and Videos on Reddit](https://www.youtube.com/watch?v=XsKpntKgWqg) by Howfinity in 2021, this is using the offical reddit app
 
-
-
 <br />
 
 ---
@@ -907,15 +830,11 @@ Papers
 
 * 2009 - [Tomophobia, the phobic fear caused by an invasive medical procedure - an emerging anxiety disorder: a case report](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2803803/) by Markus Schmid, Robert C Wolf, Roland W Freudenmann, and Carlos Schönfeldt-Lecuona - *"We present the case of a 69-year-old Caucasian man who refused urgently indicated medical intervention because of severe tomophobia... The patient still refused the invasive procedure, as his fear of the procedure continued to overwhelm his fear of dying from a heart attack."*
 
-
-
-
 ---
 
 # Pre-existing Conditions
 
 See the same entry on the [SRS Introduction](https://www.reddit.com/r/TransSurgeriesWiki/wiki/srs/introduction) page as some of it is relevant to other types of surgery and I don't have the time to reorganize it.
-
 
 ---
 
@@ -927,8 +846,6 @@ reddit subs
 * https://www.reddit.com/r/BotchedSurgeryVictims
 
 There's also lists of complications for each type of surgery in this wiki.
-
-
 
 <br />
 ## Death
@@ -957,9 +874,6 @@ Papers
 
 * 2023 - [Analysis of Mortality Among Transgender and Gender Diverse Adults in England](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9887492/) by Sarah S. Jackson, Jalen Brown, Ruth M. Pfeiffer, Duncan Shrewsbury, Stewart O’Callaghan, Alison M. Berner, Shahinaz M. Gadalla and Meredith S. Shiels - not surgery specific
 
-
-
-
 <br />
 ## Hair Loss
 
@@ -982,11 +896,7 @@ Dr Powers on hair restoration
 
 * https://www.reddit.com/r/DrWillPowers/wiki/hair-restoration
 
-
 https://www.medicalnewstoday.com/articles/321590 - *"* ***Telogen effluvium*** *is a form of temporary hair loss that usually happens after stress, a shock, or a traumatic event. It usually occurs on the top of the scalp. Telogen effluvium is different from the hair loss disorder called alopecia areata. Large amounts of a person’s hair might fall out, but it is often temporary, and the hair usually grows back."*
-
-
-
 
 <br />
 ## Opiate Withdrawl
@@ -996,8 +906,6 @@ reddit
 * [Obsessed with opiates after surgery](https://www.reddit.com/r/opiates/comments/obyev0/obsessed_with_opiates_after_surgery/) in 2021 - this is on r/opiates and not trans related
 * [What opioid withdrawal was like for me](https://www.reddit.com/r/Transgender_Surgeries/comments/img0rg/what_opioid_withdrawal_was_like_for_me/) by notyourdonut in 2020
 
-
-
 <br />
 ## Post-op Depression
 
@@ -1005,7 +913,6 @@ reddit
 
 * [What opioid withdrawal was like for me](https://www.reddit.com/r/Transgender_Surgeries/comments/img0rg/what_opioid_withdrawal_was_like_for_me/) by notyourdonut in 2020
 * [I have post op depression three weeks after surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/ij0hxb/i_have_post_op_depression_three_weeks_after/) by notyourdonut in 2020
-
 
 <br />
 ## Scars
@@ -1047,7 +954,6 @@ Papers
 * 2006 - [Vitamin E for treating children’s scars Does it help reduce scarring?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781083/) by Dipen Khoosal and Ran D. Goldman
 * 1999 - [The effects of topical vitamin E on the cosmetic appearance of scars.](https://www.ncbi.nlm.nih.gov/pubmed/10417589) - *This study shows that there is no benefit to the cosmetic outcome of scars by applying vitamin E after skin surgery and that the application of topical vitamin E may actually be detrimental to the cosmetic appearance of a scar. In 90% of the cases in this study, topical vitamin E either had no effect on, or actually worsened, the cosmetic appearance of scars. Of the patients studied, 33% developed a contact dermatitis to the vitamin E. Therefore we conclude that use of topical vitamin E on surgical wounds should be discouraged.*
 
-
 Articles
 
 * Pediatric Pearls, Clinical Practice, [Vitamin E for treating children’s scars, Does it help reduce scarring?](http://www.cfp.ca/content/cfp/52/7/855.full.pdf) - *"ANSWER. Vitamin E is the main lipid-soluble antioxidant in the skin. Several anecdotal reports have suggested that topical use of vitamin E cream can reduce scar formation. Current evidence from the literature, however, does not support that proposition. In fact, studies report some adverse effects with use of vitamin E. Further research is needed before application of vitamin E cream becomes the standard of care."*
@@ -1063,14 +969,11 @@ Products
 
 ### Bio Oil
 
-
 https://www.bio-oilprofessional.co.uk/resources/section-6-bio-oil-clinical-research - *"Whilst, as a cosmetic product, Bio-Oil is not required to carry out clinical research,* ***a number of studies and trials have been commissioned*** *to test the efficacy of Bio-Oil on stretch mark treatment and scar treatment across different skin types, and to determine its suitability for sensitive skin. Below is summary of the research findings."*
 
 Papers
 
 * 2018 - [Observer-blind randomized controlled study of a cosmetic blend of safflower, olive and other plant oils in the improvement of scar and striae appearance ](https://pubmed.ncbi.nlm.nih.gov/29094366/) by S Bielfeldt, J Blaak, P Staib, I Simon, R Wohlfart, C Manger, K P Wilhelm
-
-
 
 ### Botox
 
@@ -1082,9 +985,6 @@ Papers
 * 2013 - [Botulinum toxin type A: implications in wound healing, facial cutaneous scarring, and cleft lip repair](https://doi.org/10.5144/0256-4947.2013.482) by Mohammad M Al-Qattan, Bisher Nawras Al-Shanawani, Feras Alshomer
 * 2006 - [Botulinum toxin to improve facial wound healing: A prospective, blinded, placebo-controlled study](https://doi.org/10.4065/81.8.1023) by 
 Holger G Gassner, Anthony E Brissett, Clark C Otley, Derek K Boahene, Andy J Boggust, Amy L Weaver, David A Sherris
-
-
-
 
 ### Verteporfin
 
@@ -1105,7 +1005,6 @@ Papers
 * 2021 - [Preventing Engrailed-1 activation in fibroblasts yields wound regeneration without scarring](https://doi.org/10.1126/science.aba2374) by Shamik Mascharak, Heather E. desJardins-Park , Michelle Griffin, Mimi R. Borrelli, Alessandra L. Moore, Kellen Chen, Bryan Duoto, Malini Chinta, Michael T. Longaker
 * 2021 - [Converting fibroblastic fates leads to wound healing without scar](https://www.nature.com/articles/s41392-021-00738-6) by Dongsheng Jiang, Yuval Rinkevich
 
-
 The Standford Daily
 
 * [In groundbreaking discovery, Stanford researchers identify drug that could prevent scarring](https://stanforddaily.com/2021/05/27/in-groundbreaking-discovery-stanford-researchers-identify-drug-that-could-prevent-scarring/) in 2021
@@ -1115,13 +1014,10 @@ Other
 * https://verteporfin.net
 * https://t.me/+2nasLt-OCA04NGQx - Telegram Verteporfin research - *"Find answers for questions using the chat search tool. Persisting with needless questions may lead to message deletion. No personal insults. No false claims. Check research papers + official sources before making claims. Try to show evidence..."*
 
-
 <br />
 ## Stroke
 
 * [I thought FFS would change my life, but not like this... (Dr. Alex Kim)](https://www.reddit.com/r/Transgender_Surgeries/comments/me8umd/i_thought_ffs_would_change_my_life_but_not_like/) by virtualady in 2021 - FFS with Alex Kim in the USA
-
-
 
 <br />
 
@@ -1160,7 +1056,6 @@ Other
 * https://jezebel.com/when-surgeons-fail-their-trans-patients-1844774990 in 2020
 * https://medicaljustice.com/when-doctors-sue-patients-defamation-is-devastating-but-a-lawsuit-could-make-it-worse/
 
-
 **Dr. Barry Eppley Vs Lucille Iacovelli**
 
 This 2010 case is interesting. Dr Eppley appears to have won this lawsuit.
@@ -1172,7 +1067,6 @@ This 2010 case is interesting. Dr Eppley appears to have won this lawsuit.
 > ... For approximately a year following the surgery, Dr. Eppley attempted to address Ms. Iacovelli’s concerns. They communicated by telephone, mail, and e-mail during that time. Ms. Iacovelli sent Dr. E ppley numerous e-mails complaining about her surgery and characterizing him as a butcher or murderer. Sometimes using aliases, she would send him e-mails on a daily basis. Ms. Iacovelli has never filed a medical malpractice lawsuit against Dr. Eppley based on any of these complaints.
     
 > ... Since the surgery, Ms. Iacovelli has published a large volume of postings on various internet sites alleging that Dr . Eppley mishandled her surgery and caused her to suffer severe health problems, parti cularly breathing difficulties. She placed postings on complaint sites, maintained various blogs and websites, and posted videos on internet platforms, all blaming Dr. Eppley for her asserted post-surgical condition. In her internet publications, Ms. Iacovelli has noted that subsequent to the surgery performed by Dr. Eppley she consulted ot her physicians, who have concluded there was nothing physically wrong with her
-
 
 https://www.govinfo.gov/content/pkg/USCOURTS-insd-1_09-cv-00386/pdf/USCOURTS-insd-1_09-cv-00386-15.pdf - Dr. Barry Eppley Vs Lucille Iacovelli
 
@@ -1199,7 +1093,6 @@ Note that in Thailand the truth doesn't appear to be a defense against defamatio
 * [American faces prison in Thailand over bad hotel review](https://www.theguardian.com/world/2020/sep/29/american-wesley-barnes-faces-prison-thailand-bad-hotel-review) in 2020
 * [The Truth About Slander and Libel Laws in Thailand](https://silklegal.com/the-truth-about-slander-and-libel-laws-in-thailand/) by 
 
-
 If you wish to make negative reviews about surgeons read this page that discusses how surgeons can get negative reviews removed from realself
 
 * https://www.minclaw.com/removing-fake-negative-reviews-realself/
@@ -1212,7 +1105,6 @@ If you wish to make negative reviews about surgeons read this page that discusse
 YouTube
 
 * [Washington attorney general announces plastic surgery lawsuit](https://www.youtube.com/watch?v=heJ8LaNPCkc) by KING 5
-
 
 <br />
 
@@ -1245,10 +1137,6 @@ reddit
 YouTube
 
 * [Surgical Recovery | MtF | Transgender | GCS | Post Op | The Rage](https://www.youtube.com/watch?v=x5HOF6Y2B6c) by The Rage in 2021,  *"Calista relays her experience having now completed her gender confirmation surgery (GCS).  While she continues her recovery in the hospital, Jennifer shares her own feelings at seeing her former partner now fully medically transitioned."*
-
-
-
-
 
 <br />
 
@@ -1289,7 +1177,6 @@ Papers
 Other
 
 * PDF [Australian Informed Consent for Gender Affirming Hormone Therapy](https://auspath.org.au/wp-content/uploads/2022/03/AusPATH_Informed-Consent-SoC_A4_2022_FINAL.pdf) by AusPATH in 2022
-
 
 **Minors**
 
@@ -1344,8 +1231,6 @@ https://healthliberationnow.com - *"Health Liberation Now! is a free, trans-run 
 
 * [How to Avoid Anti-Trans Conversion Therapists](https://healthliberationnow.com/avoid-anti-trans-conversion-therapists) - *"A survivor-developed guide to keep you or your loved ones safe."*
 
-
-
 <br />
 ## DSM5
 
@@ -1393,7 +1278,6 @@ The DSM-5 defines ***gender dysphoria in children*** as a marked incongruence be
 
 > As with the diagnostic criteria for adolescents and adults, the condition must also be associated with clinically significant distress or impairment in social, occupational, or other important areas of functioning.
 
-
 ### Differential Diagnosis
 
 Differential diagnosis is a medical term, whicish is [defined by wikipedia](https://en.wikipedia.org/wiki/Differential_diagnosis) as *"In healthcare, a differential diagnosis (abbreviated DDx) is a method of analysis of a patient's history and physical examination to arrive at the correct diagnosis. It involves distinguishing a particular disease or condition from others that present with similar clinical features."*
@@ -1420,7 +1304,6 @@ The International Calssification of Diseases, maintained by the World Health Org
 
 * https://en.wikipedia.org/wiki/International_Classification_of_Diseases
 
-
 The source, but it seems incomplete (as of Jan 2022)
 
 https://icd.who.int/browse11/l-m/en
@@ -1428,7 +1311,6 @@ https://icd.who.int/browse11/l-m/en
 This seems more complete
 
 * https://trans.fyi/resources/quality-information/medicine/medical-diagnosis/icd-11/icd-11-chapter-17-gender-incongruence-text
-
 
 ### ICD 10
 
@@ -1439,11 +1321,6 @@ ICD 10 is the prior version of ICD11
 [F64.0](https://icd.who.int/browse10/2019/en#/F64) has the relevant diagnosis for "Transsexualism"
 
 > A desire to live and be accepted as a member of the opposite sex, usually accompanied by a sense of discomfort with, or inappropriateness of, one's anatomic sex, and a wish to have surgery and hormonal treatment to make one's body as congruent as possible with one's preferred sex.
-
-
-
-
-
 
 <br />
 ## WPATH Standards of Care
@@ -1470,8 +1347,6 @@ Links
 * https://transpolicyreform.wordpress.com/2021/10/09/transgender-affirmation-in-retrograde - this is about Dr Marci Bowers (president elect of WPATH at the time) appaling interview with an anti-trans activist, see also this reddit post [Is Dr Marci Bowers transphobic?](https://www.reddit.com/r/Transgender_Surgeries/comments/q3b5vx/is_dr_marci_bowers_transphobic/) by HiddenStill (me) on 8 October 2021
 * https://transpolicyreform.wordpress.com/2018/07/28/and-then-a-step-to-the-right-the-2018-wpath-officers-election/
 
-
-
 ### Version 7 Psych letters for Chest/Breast Augmentation
 
 From page 105
@@ -1490,7 +1365,6 @@ From page 105
 
 > Hormone therapy is not a prerequisite.
 
-
 > **Breast Augmentation** (Implants/Lipofilling) in MtF Patients:
 
 > 1. Persistent, well-documented gender dysphoria;
@@ -1500,7 +1374,6 @@ From page 105
 > 3. Age of majority in a given country (if younger, follow the SOC for children and adolescents);
 
 > 4. If significant medical or mental health concerns are present, they must be reasonably well controlled. Although not an explicit criterion, it is recommended that MtF patients undergo feminizing hormone therapy (minimum  12  months)  prior to breast augmentation  surgery. The purpose is to maximize breast growth in order to obtain better surgical (aesthetic) results.
-
 
 ### Version 7 Psych letters for Genital Surgery
 
@@ -1539,10 +1412,6 @@ hormones are not clinically indicated for the individual);
 
 > The  criterion  noted  above  for  some  types  of  genital  surgeries—that  is, that patients engage in 12 continuous months of living in a gender role that is congruent with their gender identity—is based on expert clinical consensus that this experience provides ample opportunity for patients to experience and socially adjust in their desired gender role, before undergoing irreversible surgery.
 
-
-
-
-
 <br />
 
 ---
@@ -1552,7 +1421,6 @@ hormones are not clinically indicated for the individual);
 Papers
 
 * 2020 - [Clinical characteristics and outcomes of patients undergoing surgeries during the incubation period of COVID-19 infection](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20\)30075-4/fulltext) - *"In this retrospective cohort study of 34 operative patients with confirmed COVID-19, 15 (44·1%) patients needed ICU care, and the mortality rate was 20·5%."*
-
 
 <br />
 
