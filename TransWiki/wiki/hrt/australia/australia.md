@@ -257,7 +257,7 @@ You may also come across the synthetic progesterone [Medroxyprogesterone Acetate
 
 # Informed Consent
 
-Some doctors now now follow the [informed consent](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#informed_consent) model, meaning you can get HRT prescribed just like anyone else can get medical care. No psych.
+Some doctors now now follow the [informed consent](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#informed-consent) model, meaning you can get HRT prescribed just like anyone else can get medical care. No psych.
 
 You may be asked to sign one or more multi-page documents informing you of the risks of what you are doing.
 

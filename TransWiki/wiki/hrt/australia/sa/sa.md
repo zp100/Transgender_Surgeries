@@ -127,7 +127,7 @@ Key details
 
 * Endocrinologist
 * http://www.endocrineconsultantssa.com.au/dr-anthony-tony-roberts/
-* Among other things he prescribes Ethinyl Estradiol (Microgynon 50 ED), which is [not safe](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md#ethinyl_estradiol).
+* Among other things he prescribes Ethinyl Estradiol (Microgynon 50 ED), which is [not safe](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md#ethinyl-estradiol).
 
 reddit
 

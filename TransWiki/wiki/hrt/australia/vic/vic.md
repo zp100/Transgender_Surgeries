@@ -186,7 +186,7 @@ Key details
 * https://equinox.org.au/
 * 175 Rose Street, Fitzroy, VIC.
 
-Prescribe Microgynon 30/50, containing [Ethinyl Estradiol](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md#ethinyl_estradiol) (bad) and Premarin (also bad).
+Prescribe Microgynon 30/50, containing [Ethinyl Estradiol](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md#ethinyl-estradiol) (bad) and Premarin (also bad).
 
 * https://equinox.org.au/resources/
 * June 2019 [Equinox Prescribing Guide for GPs](https://thorneharbour.org/documents/356/hrt-prescribing-guide-for-gps-june-2019-1.pdf) pdf

@@ -217,13 +217,13 @@ Its difficult to find needles smaller than 30G, although they are available up t
 
 Some doctors suggest/prescibe 18G needles. Try to avoid them, they are very large diameter, tend to hurt, core vial stoppers, and are unnecessary for HRT. Larger than 18G, eg 16G start to go up in price and no one uses them for HRT, I hope.
 
-Ideally the smallest (volume) syringe possible should be used. Smaller syringes are more accurate and generate higher injection pressure, making it easier to perform the injection (drawing pressure is about the same). Luer slip/lok syringes range from 1ml upwards, while insulin syringes are from 0.3ml to 1.0ml. See [Dose Accuracy](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/injections#wiki_dose_accuracy) and [Syringe Pressure](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/injections/injections.md#syringe_pressure) below.
+Ideally the smallest (volume) syringe possible should be used. Smaller syringes are more accurate and generate higher injection pressure, making it easier to perform the injection (drawing pressure is about the same). Luer slip/lok syringes range from 1ml upwards, while insulin syringes are from 0.3ml to 1.0ml. See [Dose Accuracy](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/injections#wiki_dose_accuracy) and [Syringe Pressure](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/injections/injections.md#syringe-pressure) below.
 
 Do you blood tests immediately before your next injection
 
 * [Why drawing your blood for hormone labs any time other than right before your next dose is pointless]( https://www.reddit.com/r/DrWillPowers/comments/f423t7/why_drawing_your_blood_for_hormone_labs_any_time/) by Drwillpowers in 2020
 
-For injections in Australia, see wiki page [Estrogen Injections](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#estrogen_injections).
+For injections in Australia, see wiki page [Estrogen Injections](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#estrogen-injections).
 
 reddit
 

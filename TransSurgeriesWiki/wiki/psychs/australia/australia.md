@@ -58,7 +58,7 @@ Who are the people behind the anti-trans movement in Australia and New Zealand? 
 
 * Roberto D'Angelo, Sydney psychiatrist is a Fellow of the RANZCP and also very active with anti-trans groups both in Australia and abroard.
     * https://transsafety.network/posts/segm-uncovered
-    * wiki entry [below](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md#roberto_d.27angelo)
+    * wiki entry [below](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md#roberto-dangelo)
 * reddit [National Association of Practicing Psychiatrists' (NAPP) webinar with Dr. Hillary Cass](https://www.reddit.com/r/transgenderau/comments/1d6d7pz/national_association_of_practicing_psychiatrists/) in 2024
 * Dr Patrick Clarke
     * https://www.ranzcp.org/college-committees/offices-and-branches/south-australia/contacts - Branch Chair, Dr Patrick Clarke, RANZCP South Australia Branch, PO Box 103, Fullarton SA 5063, Australia. Note this is the [Royal Australian and New Zealand College of Psychiatrists](https://en.wikipedia.org/wiki/Royal_Australian_and_New_Zealand_College_of_Psychiatrists) which is *"the principal organisation representing the medical specialty of psychiatry in Australia and New Zealand and has responsibility for training, examining and awarding the qualification of Fellowship of the College (FRANZCP) to medical practitioners."*
