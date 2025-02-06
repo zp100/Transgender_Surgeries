@@ -47,7 +47,7 @@ app.get('/', (req, res) => {
                     // Replace all GitHub links to instead stay within whatever site is hosting this.
                     'https://github.com/zp100/Transgender_Surgeries/blob/main/',
                     (req.hostname === 'localhost'
-                        ? `http://localhost:${req.socket.localPort}/?page=`
+                        ? `http://localhost:${PORT}/?page=`
                         : `${req.protocol}://${req.hostname}/?page=`
                     )
                 )
