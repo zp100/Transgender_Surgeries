@@ -10,7 +10,7 @@ See also
 * <span class="internal">[Telehealth](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md#telehealth)</span> - Doctors who work on line prescribing across Australia
 * Wiki entry for <span class="internal">[Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)</span>
 * Trans Health Australia [Medical Practitioners in the Northern Territory](http://www.transhealthaustralia.org/index.php/northern-territory/7-medical-practitioners-nt)
-* /r/transgenderau [wiki for Northern Territory<sup>R</sup>](https://www.reddit.com/r/transgenderau/wiki/resources-nt)
+* /r/transgenderau [wiki for Northern Territory](https://www.reddit.com/r/transgenderau/wiki/resources-nt)
 
 ---
 

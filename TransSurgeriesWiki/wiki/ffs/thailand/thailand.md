@@ -6,7 +6,7 @@
 
 reddit
 
-* [Best FFS surgeons in Thailand?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/emv8il/best_ffs_surgeons_in_thailand/) by mahoushoujoojoudojo in 2020
+* [Best FFS surgeons in Thailand?](https://www.reddit.com/r/Transgender_Surgeries/comments/emv8il/best_ffs_surgeons_in_thailand/) by mahoushoujoojoudojo in 2020
 
 ---
 
@@ -26,8 +26,8 @@ Surgeons sites
 
 reddit
 
-* [7 days post-op with dr. Bank<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qf71sf/7_days_postop_with_dr_bank/) by SandboxEscaper in 2021 - Dr Bank did a trachael shave during SRS for an extra 65K baht
-* [Suporn FFS surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/bfwuxz/suporn_ffs_surgery/) by emilycore in 2019, see followup [FFS with jesus baez marquez<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/iapoij/ffs_with_jesus_baez_marquez/) in 2020
+* [7 days post-op with dr. Bank](https://www.reddit.com/r/Transgender_Surgeries/comments/qf71sf/7_days_postop_with_dr_bank/) by SandboxEscaper in 2021 - Dr Bank did a trachael shave during SRS for an extra 65K baht
+* [Suporn FFS surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/bfwuxz/suporn_ffs_surgery/) by emilycore in 2019, see followup [FFS with jesus baez marquez](https://www.reddit.com/r/Transgender_Surgeries/comments/iapoij/ffs_with_jesus_baez_marquez/) in 2020
 
 Susans
 
@@ -53,26 +53,26 @@ Sugeons sites
 
 reddit
 
-* [FFS after 2 weeks / before<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/13w36kg/ffs_after_2_weeks_before/) by  cali-xte in 2023
-* [Experiences with Dr. Chettawut's FFS in Thailand?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ydq8p1/experiences_with_dr_chettawuts_ffs_in_thailand/) by Thanteus in 2022
-* [Chettawut 8mo. postop<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/x19rcm/chettawut_8mo_postop/) by Alexisgerl in 2022
-    * [Chettawut 6.5 m SRS and FFS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/w10md9/chettawut_65_m_srs_and_ffs/) by Alexisgerl in 2022
-    * [Nearly 5mo FFS CHETTAWUT<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/utof6z/nearly_5mo_ffs_chettawut/) by Alexisgerl in 2022
-    * [4mo post op Chettawut FFS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/uc86qp/4mo_post_op_chettawut_ffs/) by Alexisgerl in 2022
-    * [3 months FFS Chettawut<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/tellfs/3_months_ffs_chettawut/) by Alexisgerl in 2022
-    * [1 month FFS recovery, Dr. Chettawut<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/sekodp/1_month_ffs_recovery_dr_chettawut/) by Alexisgerl in 2022
-    * [ffs pre and post op difference Dr Chettawut<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/s3g2bq/ffs_pre_and_post_op_difference_dr_chettawut/) by Alexisgerl in 2022
-    * [Had SRS and FFS with Dr. Chettawut on 28-29 Dec.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rv092x/had_srs_and_ffs_with_dr_chettawut_on_2829_dec/) by Alexisgerl in 2022
-    * [Nsfw Pics of day 1 result from Dr. Chettawut packing removal and stitches<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rvlq05/nsfw_pics_of_day_1_result_from_dr_chettawut/) by Alexisgerl in 2022
-* [5 days post FFS with Dr Chet. Forehead Augmentation and Browbone Bossing type 3<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/wdizxz/5_days_post_ffs_with_dr_chet_forehead/) by aishaaishayoga in 2022
-* [10 days post ffs dr chettawut and 1 month without hrt. Without hrt feeling very low and dysphoric<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/tnex94/10_days_post_ffs_dr_chettawut_and_1_month_without/) by itsmarie22 in 2022
-* [Dr Chettawut FFS result<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pn4uol/dr_chettawut_ffs_result/) by girlontheavenue in 2021
-* reply to [Women who got FFS, who did you go to? How was it?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/k17blz/women_who_got_ffs_who_did_you_go_to_how_was_it/gdn7gam/) by girlontheavenue in 2020 - FFS, SRS, BA in one trip
-* [Request with a query: best forehead+ jaw surgeon in the world<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/iwv8i1/request_with_a_query_best_forehead_jaw_surgeon_in/) by mermaid_mermaid in 2020
-* [Had a Tracheal shave with Dr Chettawut (Post 1 month). Healing well according to the doctor but my voice is kinda bad (hoarse voice) and its hard to tune to a louder voice, is it normal? How long will it take for my voice back to normal? And what food should I avoid?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/fa7lu8/had_a_tracheal_shave_with_dr_chettawut_post_1/) by felixaNg in 2020
-* [Genioplasty or Chin Implant for FFS?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/cpcxam/genioplasty_or_chin_implant_for_ffs/) by felixaNg in 2019
-* [Thrilled about my SRS results so far, but I am unsure if the trachea shave with Chettawut was a good idea<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/cop9n3/thrilled_about_my_srs_results_so_far_but_i_am/) by transgendersquid in 2019
-* [My review for FFS with Dr Chettawut - Success<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ai951z/my_review_for_ffs_with_dr_chettawut_success/) by TruDvine in 2019
+* [FFS after 2 weeks / before](https://www.reddit.com/r/Transgender_Surgeries/comments/13w36kg/ffs_after_2_weeks_before/) by  cali-xte in 2023
+* [Experiences with Dr. Chettawut's FFS in Thailand?](https://www.reddit.com/r/Transgender_Surgeries/comments/ydq8p1/experiences_with_dr_chettawuts_ffs_in_thailand/) by Thanteus in 2022
+* [Chettawut 8mo. postop](https://www.reddit.com/r/Transgender_Surgeries/comments/x19rcm/chettawut_8mo_postop/) by Alexisgerl in 2022
+    * [Chettawut 6.5 m SRS and FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/w10md9/chettawut_65_m_srs_and_ffs/) by Alexisgerl in 2022
+    * [Nearly 5mo FFS CHETTAWUT](https://www.reddit.com/r/Transgender_Surgeries/comments/utof6z/nearly_5mo_ffs_chettawut/) by Alexisgerl in 2022
+    * [4mo post op Chettawut FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/uc86qp/4mo_post_op_chettawut_ffs/) by Alexisgerl in 2022
+    * [3 months FFS Chettawut](https://www.reddit.com/r/Transgender_Surgeries/comments/tellfs/3_months_ffs_chettawut/) by Alexisgerl in 2022
+    * [1 month FFS recovery, Dr. Chettawut](https://www.reddit.com/r/Transgender_Surgeries/comments/sekodp/1_month_ffs_recovery_dr_chettawut/) by Alexisgerl in 2022
+    * [ffs pre and post op difference Dr Chettawut](https://www.reddit.com/r/Transgender_Surgeries/comments/s3g2bq/ffs_pre_and_post_op_difference_dr_chettawut/) by Alexisgerl in 2022
+    * [Had SRS and FFS with Dr. Chettawut on 28-29 Dec.](https://www.reddit.com/r/Transgender_Surgeries/comments/rv092x/had_srs_and_ffs_with_dr_chettawut_on_2829_dec/) by Alexisgerl in 2022
+    * [Nsfw Pics of day 1 result from Dr. Chettawut packing removal and stitches](https://www.reddit.com/r/Transgender_Surgeries/comments/rvlq05/nsfw_pics_of_day_1_result_from_dr_chettawut/) by Alexisgerl in 2022
+* [5 days post FFS with Dr Chet. Forehead Augmentation and Browbone Bossing type 3](https://www.reddit.com/r/Transgender_Surgeries/comments/wdizxz/5_days_post_ffs_with_dr_chet_forehead/) by aishaaishayoga in 2022
+* [10 days post ffs dr chettawut and 1 month without hrt. Without hrt feeling very low and dysphoric](https://www.reddit.com/r/Transgender_Surgeries/comments/tnex94/10_days_post_ffs_dr_chettawut_and_1_month_without/) by itsmarie22 in 2022
+* [Dr Chettawut FFS result](https://www.reddit.com/r/Transgender_Surgeries/comments/pn4uol/dr_chettawut_ffs_result/) by girlontheavenue in 2021
+* reply to [Women who got FFS, who did you go to? How was it?](https://www.reddit.com/r/transgenderau/comments/k17blz/women_who_got_ffs_who_did_you_go_to_how_was_it/gdn7gam/) by girlontheavenue in 2020 - FFS, SRS, BA in one trip
+* [Request with a query: best forehead+ jaw surgeon in the world](https://www.reddit.com/r/Transgender_Surgeries/comments/iwv8i1/request_with_a_query_best_forehead_jaw_surgeon_in/) by mermaid_mermaid in 2020
+* [Had a Tracheal shave with Dr Chettawut (Post 1 month). Healing well according to the doctor but my voice is kinda bad (hoarse voice) and its hard to tune to a louder voice, is it normal? How long will it take for my voice back to normal? And what food should I avoid?](https://www.reddit.com/r/Transgender_Surgeries/comments/fa7lu8/had_a_tracheal_shave_with_dr_chettawut_post_1/) by felixaNg in 2020
+* [Genioplasty or Chin Implant for FFS?](https://www.reddit.com/r/Transgender_Surgeries/comments/cpcxam/genioplasty_or_chin_implant_for_ffs/) by felixaNg in 2019
+* [Thrilled about my SRS results so far, but I am unsure if the trachea shave with Chettawut was a good idea](https://www.reddit.com/r/Transgender_Surgeries/comments/cop9n3/thrilled_about_my_srs_results_so_far_but_i_am/) by transgendersquid in 2019
+* [My review for FFS with Dr Chettawut - Success](https://www.reddit.com/r/Transgender_Surgeries/comments/ai951z/my_review_for_ffs_with_dr_chettawut_success/) by TruDvine in 2019
 
 Susans
 
@@ -99,15 +99,15 @@ Surgeons sites
 
 reddit
 
-* [Breast Augmentation, Facelift and Rhinoplasticy at Kamol Cosmetic Hospital / BKK April 2023<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/139w8n0/breast_augmentation_facelift_and_rhinoplasticy_at/) by Emilia-Ruettinger in 2023
-    * [My experiences of my SRS PPV, FFS and tracheal shave at Kamol Clinic in Bangkok<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/uk31w9/my_experiences_of_my_srs_ppv_ffs_and_tracheal/) by Emilia-Ruettinger in 2022
-* [FFS at Kamol Cosmetic Hospital in Bangkok, Thailand: Third and Final Round<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/wpni7a/ffs_at_kamol_cosmetic_hospital_in_bangkok/) by mbamike2021 in 2022
-    * [FFS at Kamol Cosmetic Hospital in Bangkok, Thailand: Round 2<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vmf62n/ffs_at_kamol_cosmetic_hospital_in_bangkok/) by mbamike2021 in 2022
-    * [FFS at Kamol Cosmetic Hospital<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vf0qf2/ffs_at_kamol_cosmetic_hospital/) by  mbamike2021 in 2022
-* [Type 3 with Dr Kamol was a waste of time, performed incorrectly, still have bossing and now irregularities all over forehead.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/uytmhi/type_3_with_dr_kamol_was_a_waste_of_time/) by shinyfuture in 2022
-* [What kind of forehead type is this? Type 1? FFS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/tg9n58/what_kind_of_forehead_type_is_this_type_1_ffs/) by aWomanLostAtSea in 2022
-* [2014-2020 Bottom row after 2014 FFS with Facialteam in Spain and top row after 2019 jaw and chin refinement with Kamol, Bangkok. (Top left image is from last week and after losing 12kg during COVID lockdown!)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jxpigm/20142020_bottom_row_after_2014_ffs_with/) by DMW2812 in 2020
-* [Dr Kamol. One month Post Op<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/91hs3m/dr_kamol_one_month_post_op/) by MeinGlitter in 2018, and followup [Dr Kamol Surgery. Part 2 tracheal shave/ adams apple removal<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/91hww5/dr_kamol_surgery_part_2_tracheal_shave_adams/).
+* [Breast Augmentation, Facelift and Rhinoplasticy at Kamol Cosmetic Hospital / BKK April 2023](https://www.reddit.com/r/Transgender_Surgeries/comments/139w8n0/breast_augmentation_facelift_and_rhinoplasticy_at/) by Emilia-Ruettinger in 2023
+    * [My experiences of my SRS PPV, FFS and tracheal shave at Kamol Clinic in Bangkok](https://www.reddit.com/r/Transgender_Surgeries/comments/uk31w9/my_experiences_of_my_srs_ppv_ffs_and_tracheal/) by Emilia-Ruettinger in 2022
+* [FFS at Kamol Cosmetic Hospital in Bangkok, Thailand: Third and Final Round](https://www.reddit.com/r/Transgender_Surgeries/comments/wpni7a/ffs_at_kamol_cosmetic_hospital_in_bangkok/) by mbamike2021 in 2022
+    * [FFS at Kamol Cosmetic Hospital in Bangkok, Thailand: Round 2](https://www.reddit.com/r/Transgender_Surgeries/comments/vmf62n/ffs_at_kamol_cosmetic_hospital_in_bangkok/) by mbamike2021 in 2022
+    * [FFS at Kamol Cosmetic Hospital](https://www.reddit.com/r/Transgender_Surgeries/comments/vf0qf2/ffs_at_kamol_cosmetic_hospital/) by  mbamike2021 in 2022
+* [Type 3 with Dr Kamol was a waste of time, performed incorrectly, still have bossing and now irregularities all over forehead.](https://www.reddit.com/r/Transgender_Surgeries/comments/uytmhi/type_3_with_dr_kamol_was_a_waste_of_time/) by shinyfuture in 2022
+* [What kind of forehead type is this? Type 1? FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/tg9n58/what_kind_of_forehead_type_is_this_type_1_ffs/) by aWomanLostAtSea in 2022
+* [2014-2020 Bottom row after 2014 FFS with Facialteam in Spain and top row after 2019 jaw and chin refinement with Kamol, Bangkok. (Top left image is from last week and after losing 12kg during COVID lockdown!)](https://www.reddit.com/r/Transgender_Surgeries/comments/jxpigm/20142020_bottom_row_after_2014_ffs_with/) by DMW2812 in 2020
+* [Dr Kamol. One month Post Op](https://www.reddit.com/r/asktransgender/comments/91hs3m/dr_kamol_one_month_post_op/) by MeinGlitter in 2018, and followup [Dr Kamol Surgery. Part 2 tracheal shave/ adams apple removal](https://www.reddit.com/r/asktransgender/comments/91hww5/dr_kamol_surgery_part_2_tracheal_shave_adams/).
 
 YouTube
 
@@ -170,8 +170,8 @@ See SRS pages for more info on this surgeon.
 
 reddit
 
-* [Finally got some bandages removed . It's end of day 1. I am so happy . It's been so worth it . Doctor did a good job<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ba1055/finally_got_some_bandages_removed_its_end_of_day/) by salithia in 2019
-* [Rhinoplasty and ffs with doctor greechart. Doing it today<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/b9mq0o/rhinoplasty_and_ffs_with_doctor_greechart_doing/) by salithia in 2019
+* [Finally got some bandages removed . It's end of day 1. I am so happy . It's been so worth it . Doctor did a good job](https://www.reddit.com/r/Transgender_Surgeries/comments/ba1055/finally_got_some_bandages_removed_its_end_of_day/) by salithia in 2019
+* [Rhinoplasty and ffs with doctor greechart. Doing it today](https://www.reddit.com/r/Transgender_Surgeries/comments/b9mq0o/rhinoplasty_and_ffs_with_doctor_greechart_doing/) by salithia in 2019
 
 realself
 
@@ -273,7 +273,7 @@ Surgeons sites
 
 reddit
 
-* [FFS in thailand. Niranda clinic<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10ru9wr/ffs_in_thailand_niranda_clinic/) by Miko_0o in 2023
+* [FFS in thailand. Niranda clinic](https://www.reddit.com/r/Transgender_Surgeries/comments/10ru9wr/ffs_in_thailand_niranda_clinic/) by Miko_0o in 2023
 
 <br />
 
@@ -293,7 +293,7 @@ Surgeons sites
 
 reddit
 
-* [FFS in thailand. Niranda clinic<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10ru9wr/ffs_in_thailand_niranda_clinic/) by Miko_0o in 2023
+* [FFS in thailand. Niranda clinic](https://www.reddit.com/r/Transgender_Surgeries/comments/10ru9wr/ffs_in_thailand_niranda_clinic/) by Miko_0o in 2023
 
 <br />
 
@@ -307,8 +307,8 @@ Surgeons sites
 
 reddit
 
-* [CT Scan, Yanhee brutal FFS results.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/18o3txj/ct_scan_yanhee_brutal_ffs_results/) by  by Lost_dreamz in 2023
-    * [The horrific facial feminization surgery by Yanhee hospital<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/112h9rw/the_horrific_facial_feminization_surgery_by/) by Lost_dreamz in 2023
+* [CT Scan, Yanhee brutal FFS results.](https://www.reddit.com/r/Transgender_Surgeries/comments/18o3txj/ct_scan_yanhee_brutal_ffs_results/) by  by Lost_dreamz in 2023
+    * [The horrific facial feminization surgery by Yanhee hospital](https://www.reddit.com/r/Transgender_Surgeries/comments/112h9rw/the_horrific_facial_feminization_surgery_by/) by Lost_dreamz in 2023
 
 <br />
 
@@ -323,7 +323,7 @@ Surgeons sites
 
 reddit
 
-* [Dr Supasid Jirawatnotai in Thailand slayed my nose in 2020! Saved my life FR<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/17ae5jj/dr_supasid_jirawatnotai_in_thailand_slayed_my/) by gracehylandd in 2023
+* [Dr Supasid Jirawatnotai in Thailand slayed my nose in 2020! Saved my life FR](https://www.reddit.com/r/Transgender_Surgeries/comments/17ae5jj/dr_supasid_jirawatnotai_in_thailand_slayed_my/) by gracehylandd in 2023
 
 <br />
 
@@ -346,7 +346,7 @@ Note that Dr Sanguan does SRS.
 
 reddit
 
-* reply to [\[MtF\] Getting the operations you want 101<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9ksfjm/mtf_getting_the_operations_you_want_101/e71ux9k/) by misscolinsxx in 2018
+* reply to [\[MtF\] Getting the operations you want 101](https://www.reddit.com/r/asktransgender/comments/9ksfjm/mtf_getting_the_operations_you_want_101/e71ux9k/) by misscolinsxx in 2018
 
 Susans
 

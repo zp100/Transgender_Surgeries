@@ -22,7 +22,7 @@ See also
 * Wiki entry <span class="internal">[Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)</span>
 * Transcend (for families of transgender children) - https://transcendsupport.com.au/resources/queensland/
 * Trans Health Australia [Medical Practitioners in Queensland](http://www.transhealthaustralia.org/index.php/queensland/2-medical-practitioners-qld)
-* /r/transgenderau [wiki for Queensland<sup>R</sup>](https://www.reddit.com/r/transgenderau/wiki/resources-qld)
+* /r/transgenderau [wiki for Queensland](https://www.reddit.com/r/transgenderau/wiki/resources-qld)
 * https://docdir.org.au - *"DocDir is an Australia-wide directory of LGBTQ+ inclusive clinicians and services."*
 
 <br />
@@ -41,7 +41,7 @@ https://en.wikipedia.org/wiki/Gillick_competence - *"Gillick competence is a ter
 
 reddit
 
-* [Any good websites on informed consent clinics/doctors in Queensland?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/wot3ad/any_good_websites_on_informed_consent/) by camxeli in 2022
+* [Any good websites on informed consent clinics/doctors in Queensland?](https://www.reddit.com/r/transgenderau/comments/wot3ad/any_good_websites_on_informed_consent/) by camxeli in 2022
 
 <br />
 
@@ -77,24 +77,24 @@ Key details
 
 reddit
 
-* [New option for compounded HRT<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/oipzgd/new_option_for_compounded_hrt/) by ashleyevolves in 2021
-* reply to [Swapping endos?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ko8q7u/swapping_endos/ghsadfy/) by AdrianeXX in 2020
-* [Queensland referrals<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/k6fl1n/queensland_referrals/) by Boomerfierce in 2020
-* [Getting started on HRT in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/j2jgbs/getting_started_on_hrt_in_brisbane/) by pizzapanic in 2020
-* [starting hormones in brisbane?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/j05twb/starting_hormones_in_brisbane/) by dorkynoodleman in 2020
-* [My experience with Dr Fiona Bisshop<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/iyqs4d/my_experience_with_dr_fiona_bisshop/) by  qldtransgirl in 2020
-* [QNews (facebook) is hosting Dr Fiona Bisshop (Qld) this Saturday at 2pm. Subject: The Lowdown on Hormone Therapy for Gender Transition<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gwhdpd/qnews_facebook_is_hosting_dr_fiona_bisshop_qld/) by aliciaqld in 2020
-* [Question to anyone who has seen Dr. Fiona Bishop at Holdsworth house in Brisbane.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gmei70/question_to_anyone_who_has_seen_dr_fiona_bishop/) by mads195 in 2020
-* [Any trans-friendly GP in Brisbane? Preferably around Brisbane CBD?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ezmyzs/any_transfriendly_gp_in_brisbane_preferably/) by justineeeee in 2020
-* [Holdsworth House Medical Brisbane Dr Victoria Featherstone<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/etfp6f/holdsworth_house_medical_brisbane_dr_victoria/) by Stephaniegirl97 in 2020
-* [The Dr Powers method<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dq0hkj/the_dr_powers_method/) by shinyfuture in 2019
-* [Qld GP advice. Victoria Featherstone or Fiona Bisshop for NB transition?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ecaelk/qld_gp_advice_victoria_featherstone_or_fiona/) by aliciaqld in 2019
-* [Hey, 19 possible mtf here, how long did it take for you to start HRT?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/du7ztx/hey_19_possible_mtf_here_how_long_did_it_take_for/) by -Wobani- in 2019
-* [The Dr Powers method<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dq0hkj/the_dr_powers_method/) by shinyfuture in 2019
+* [New option for compounded HRT](https://www.reddit.com/r/transgenderau/comments/oipzgd/new_option_for_compounded_hrt/) by ashleyevolves in 2021
+* reply to [Swapping endos?](https://www.reddit.com/r/transgenderau/comments/ko8q7u/swapping_endos/ghsadfy/) by AdrianeXX in 2020
+* [Queensland referrals](https://www.reddit.com/r/transgenderau/comments/k6fl1n/queensland_referrals/) by Boomerfierce in 2020
+* [Getting started on HRT in Brisbane](https://www.reddit.com/r/transgenderau/comments/j2jgbs/getting_started_on_hrt_in_brisbane/) by pizzapanic in 2020
+* [starting hormones in brisbane?](https://www.reddit.com/r/transgenderau/comments/j05twb/starting_hormones_in_brisbane/) by dorkynoodleman in 2020
+* [My experience with Dr Fiona Bisshop](https://www.reddit.com/r/transgenderau/comments/iyqs4d/my_experience_with_dr_fiona_bisshop/) by  qldtransgirl in 2020
+* [QNews (facebook) is hosting Dr Fiona Bisshop (Qld) this Saturday at 2pm. Subject: The Lowdown on Hormone Therapy for Gender Transition](https://www.reddit.com/r/transgenderau/comments/gwhdpd/qnews_facebook_is_hosting_dr_fiona_bisshop_qld/) by aliciaqld in 2020
+* [Question to anyone who has seen Dr. Fiona Bishop at Holdsworth house in Brisbane.](https://www.reddit.com/r/transgenderau/comments/gmei70/question_to_anyone_who_has_seen_dr_fiona_bishop/) by mads195 in 2020
+* [Any trans-friendly GP in Brisbane? Preferably around Brisbane CBD?](https://www.reddit.com/r/transgenderau/comments/ezmyzs/any_transfriendly_gp_in_brisbane_preferably/) by justineeeee in 2020
+* [Holdsworth House Medical Brisbane Dr Victoria Featherstone](https://www.reddit.com/r/transgenderau/comments/etfp6f/holdsworth_house_medical_brisbane_dr_victoria/) by Stephaniegirl97 in 2020
+* [The Dr Powers method](https://www.reddit.com/r/transgenderau/comments/dq0hkj/the_dr_powers_method/) by shinyfuture in 2019
+* [Qld GP advice. Victoria Featherstone or Fiona Bisshop for NB transition?](https://www.reddit.com/r/transgenderau/comments/ecaelk/qld_gp_advice_victoria_featherstone_or_fiona/) by aliciaqld in 2019
+* [Hey, 19 possible mtf here, how long did it take for you to start HRT?](https://www.reddit.com/r/transgenderau/comments/du7ztx/hey_19_possible_mtf_here_how_long_did_it_take_for/) by -Wobani- in 2019
+* [The Dr Powers method](https://www.reddit.com/r/transgenderau/comments/dq0hkj/the_dr_powers_method/) by shinyfuture in 2019
 
 Facebook
 
-* [QNews (facebook) is hosting Dr Fiona Bisshop (Qld) this Saturday at 2pm. Subject: The Lowdown on Hormone Therapy for Gender Transition<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gwhdpd/qnews_facebook_is_hosting_dr_fiona_bisshop_qld/) by 
+* [QNews (facebook) is hosting Dr Fiona Bisshop (Qld) this Saturday at 2pm. Subject: The Lowdown on Hormone Therapy for Gender Transition](https://www.reddit.com/r/transgenderau/comments/gwhdpd/qnews_facebook_is_hosting_dr_fiona_bisshop_qld/) by 
 
 Other links
 
@@ -122,17 +122,17 @@ Key details
 
 reddit
 
-* [First Specialist Appointment at Stonewall Medical<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vxsq1a/first_specialist_appointment_at_stonewall_medical/) by Humble-Foundation-81 in 2022
-* [Experience seeing Dr Victoria Featherstone at holdsworth house Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qv5b83/experience_seeing_dr_victoria_featherstone_at/) by HayleyWinters01 in 2021
-* [MTF Transition Help - BNE-GC<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/oc4cut/mtf_transition_help_bnegc/) by Syvyryn in 2021
-* reply to [Does anyone know about estrogen implants?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/oanpye/does_anyone_know_about_estrogen_implants/h3mav9b/) by ButternutBlumpkin in 2021
-* [Brisbane People<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/nvrqkv/brisbane_people/) by NitroApex7 in 2021
-* [Review of Dr Graham Nielsen - Stonewall Medical Centre (Brisbane) - 29MTF<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/n93nuh/review_of_dr_graham_nielsen_stonewall_medical/) by EuphoriaRyder in 2021
-* [\[Brisbane, QLD\] My recent experience in starting HRT with Dr. Victoria Featherstone, based on informed-consent.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/l99gz9/brisbane_qld_my_recent_experience_in_starting_hrt/) by threwacc in 2021
-* [starting hormones in brisbane?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/j05twb/starting_hormones_in_brisbane/) by dorkynoodleman in 2020
-* [Informed consent HRT in Queensland (QLD)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/g30f24/informed_consent_hrt_in_queensland_qld/) by lunar-dogs in 2020
-* [Holdsworth House Medical Brisbane Dr Victoria Featherstone<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/etfp6f/holdsworth_house_medical_brisbane_dr_victoria/) by Stephaniegirl97 in 2020
-* [Qld GP advice. Victoria Featherstone or Fiona Bisshop for NB transition?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ecaelk/qld_gp_advice_victoria_featherstone_or_fiona/) by aliciaqld in 2019
+* [First Specialist Appointment at Stonewall Medical](https://www.reddit.com/r/transgenderau/comments/vxsq1a/first_specialist_appointment_at_stonewall_medical/) by Humble-Foundation-81 in 2022
+* [Experience seeing Dr Victoria Featherstone at holdsworth house Brisbane](https://www.reddit.com/r/transgenderau/comments/qv5b83/experience_seeing_dr_victoria_featherstone_at/) by HayleyWinters01 in 2021
+* [MTF Transition Help - BNE-GC](https://www.reddit.com/r/transgenderau/comments/oc4cut/mtf_transition_help_bnegc/) by Syvyryn in 2021
+* reply to [Does anyone know about estrogen implants?](https://www.reddit.com/r/transgenderau/comments/oanpye/does_anyone_know_about_estrogen_implants/h3mav9b/) by ButternutBlumpkin in 2021
+* [Brisbane People](https://www.reddit.com/r/transgenderau/comments/nvrqkv/brisbane_people/) by NitroApex7 in 2021
+* [Review of Dr Graham Nielsen - Stonewall Medical Centre (Brisbane) - 29MTF](https://www.reddit.com/r/transgenderau/comments/n93nuh/review_of_dr_graham_nielsen_stonewall_medical/) by EuphoriaRyder in 2021
+* [\[Brisbane, QLD\] My recent experience in starting HRT with Dr. Victoria Featherstone, based on informed-consent.](https://www.reddit.com/r/transgenderau/comments/l99gz9/brisbane_qld_my_recent_experience_in_starting_hrt/) by threwacc in 2021
+* [starting hormones in brisbane?](https://www.reddit.com/r/transgenderau/comments/j05twb/starting_hormones_in_brisbane/) by dorkynoodleman in 2020
+* [Informed consent HRT in Queensland (QLD)](https://www.reddit.com/r/transgenderau/comments/g30f24/informed_consent_hrt_in_queensland_qld/) by lunar-dogs in 2020
+* [Holdsworth House Medical Brisbane Dr Victoria Featherstone](https://www.reddit.com/r/transgenderau/comments/etfp6f/holdsworth_house_medical_brisbane_dr_victoria/) by Stephaniegirl97 in 2020
+* [Qld GP advice. Victoria Featherstone or Fiona Bisshop for NB transition?](https://www.reddit.com/r/transgenderau/comments/ecaelk/qld_gp_advice_victoria_featherstone_or_fiona/) by aliciaqld in 2019
 
 <br />
 
@@ -149,11 +149,11 @@ Key details
 
 reddit
 
-* [Doctor that will implant estrogen pellets in brisbane?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/nqibtg/doctor_that_will_implant_estrogen_pellets_in/) by dys-four-e-uh in 2021
-* [Informed consent HRT in Queensland (QLD)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/g30f24/informed_consent_hrt_in_queensland_qld/) by lunar-dogs in 2020
-* [Any trans-friendly GP in Brisbane? Preferably around Brisbane CBD?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ezmyzs/any_transfriendly_gp_in_brisbane_preferably/) by justineeeee in 2020
-* [HRT in Brisbane - Dr Gale Bearman<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e1d7ul/hrt_in_brisbane_dr_gale_bearman/) by NBlexi69 in 2019
-* [Estrogen pellets<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/b2tv5v/estrogen_pellets/) by shinyfuture in 2019
+* [Doctor that will implant estrogen pellets in brisbane?](https://www.reddit.com/r/transgenderau/comments/nqibtg/doctor_that_will_implant_estrogen_pellets_in/) by dys-four-e-uh in 2021
+* [Informed consent HRT in Queensland (QLD)](https://www.reddit.com/r/transgenderau/comments/g30f24/informed_consent_hrt_in_queensland_qld/) by lunar-dogs in 2020
+* [Any trans-friendly GP in Brisbane? Preferably around Brisbane CBD?](https://www.reddit.com/r/transgenderau/comments/ezmyzs/any_transfriendly_gp_in_brisbane_preferably/) by justineeeee in 2020
+* [HRT in Brisbane - Dr Gale Bearman](https://www.reddit.com/r/transgenderau/comments/e1d7ul/hrt_in_brisbane_dr_gale_bearman/) by NBlexi69 in 2019
+* [Estrogen pellets](https://www.reddit.com/r/transgenderau/comments/b2tv5v/estrogen_pellets/) by shinyfuture in 2019
 
 Other
 
@@ -170,8 +170,8 @@ Dr Sites
 
 reddit
 
-* [Informed consent HRT in Queensland (QLD)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/g30f24/informed_consent_hrt_in_queensland_qld/) by lunar-dogs in 2020
-* [HRT in Brisbane - Dr Gale Bearman<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e1d7ul/hrt_in_brisbane_dr_gale_bearman/) by NBlexi69 in 2019
+* [Informed consent HRT in Queensland (QLD)](https://www.reddit.com/r/transgenderau/comments/g30f24/informed_consent_hrt_in_queensland_qld/) by lunar-dogs in 2020
+* [HRT in Brisbane - Dr Gale Bearman](https://www.reddit.com/r/transgenderau/comments/e1d7ul/hrt_in_brisbane_dr_gale_bearman/) by NBlexi69 in 2019
 
 <br />
 
@@ -186,9 +186,9 @@ Dr Sites
 
 reddit
 
-* [https://www.reddit.com/r/transgenderau/comments/xcbql0/compounding_pharmacy/<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/xcbql0/compounding_pharmacy/) by distructoboy45 in 2022 - prescribed estrogen injections
-* [Informed consent HRT in Queensland (QLD)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/g30f24/informed_consent_hrt_in_queensland_qld/) by lunar-dogs in 2020
-* [HRT in Brisbane - Dr Gale Bearman<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e1d7ul/hrt_in_brisbane_dr_gale_bearman/) by NBlexi69 in 2019
+* [https://www.reddit.com/r/transgenderau/comments/xcbql0/compounding_pharmacy/](https://www.reddit.com/r/transgenderau/comments/xcbql0/compounding_pharmacy/) by distructoboy45 in 2022 - prescribed estrogen injections
+* [Informed consent HRT in Queensland (QLD)](https://www.reddit.com/r/transgenderau/comments/g30f24/informed_consent_hrt_in_queensland_qld/) by lunar-dogs in 2020
+* [HRT in Brisbane - Dr Gale Bearman](https://www.reddit.com/r/transgenderau/comments/e1d7ul/hrt_in_brisbane_dr_gale_bearman/) by NBlexi69 in 2019
 
 Daily Mail
 
@@ -207,9 +207,9 @@ Key details
 
 reddit
 
-* reply to [Informed Consent HRT timeframe in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/wjz276/informed_consent_hrt_timeframe_in_brisbane/ijk6zzv/) by cyronius in 2022
-* [Informed consent HRT in Queensland (QLD)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/g30f24/informed_consent_hrt_in_queensland_qld/) by lunar-dogs in 2020
-* [HRT in Brisbane - Dr Gale Bearman<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e1d7ul/hrt_in_brisbane_dr_gale_bearman/) by NBlexi69 in 2019
+* reply to [Informed Consent HRT timeframe in Brisbane](https://www.reddit.com/r/transgenderau/comments/wjz276/informed_consent_hrt_timeframe_in_brisbane/ijk6zzv/) by cyronius in 2022
+* [Informed consent HRT in Queensland (QLD)](https://www.reddit.com/r/transgenderau/comments/g30f24/informed_consent_hrt_in_queensland_qld/) by lunar-dogs in 2020
+* [HRT in Brisbane - Dr Gale Bearman](https://www.reddit.com/r/transgenderau/comments/e1d7ul/hrt_in_brisbane_dr_gale_bearman/) by NBlexi69 in 2019
 
 <br />
 
@@ -217,7 +217,7 @@ reddit
 
 # Stuart Aitken
 
-* Does implants & [injections<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jzayi4/anyone_know_a_doctor_in_qld_that_prescribes/gdbaq1d/)
+* Does implants & [injections](https://www.reddit.com/r/transgenderau/comments/jzayi4/anyone_know_a_doctor_in_qld_that_prescribes/gdbaq1d/)
 * Informed consent
 * Prescribes estrogen implants
 * Prescribes estrogen implants based on previous doses
@@ -229,17 +229,17 @@ Dr Sites
 
 * http://www.stuartaitken.org/
 * https://www.brisbanegenderclinic.com.au/gps.html
-* [True Relationships & Reproductive Health](https://www.true.org.au/), Building 1, 230 Lutwyche Road, ***Windsor*** QLD 4030 ([source<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ewlzlx/whats_the_process_for_getting_hrt_in_australia/fg3iepf/))
+* [True Relationships & Reproductive Health](https://www.true.org.au/), Building 1, 230 Lutwyche Road, ***Windsor*** QLD 4030 ([source](https://www.reddit.com/r/transgenderau/comments/ewlzlx/whats_the_process_for_getting_hrt_in_australia/fg3iepf/))
 
 reddit
 
-* reply to [As I do more and more pellet implantations, I'm finding lots of people with a really high E2 free percent and low SHBG on pellets. For my pellet fans out there, is this the case for you too?<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/lffx42/as_i_do_more_and_more_pellet_implantations_im/gmp1s3d/) by SerenaMoana in 2021
-* [Swapping endos?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ko8q7u/swapping_endos/) by GhostGlobes in 2020
-* [\[Update #2\] "Do you know an X in location Y who does the Powers method?" Please list them here.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/itlsl9/update_2_do_you_know_an_x_in_location_y_who_does/gg3at1e/?context=3) by bakabakadesu in 2020
-* [What's the process for getting HRT in Australia?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ewlzlx/whats_the_process_for_getting_hrt_in_australia/) by DootDootDiggity in 2020
-* [Implants in Victoria<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ao1oaf/implants_in_victoria/) by Kimmaree1967 in 2019
-* reply to [Questions about WPATH/ANZPATH, MTF levels, and progesterone in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/c3944z/questions_about_wpathanzpath_mtf_levels_and/erpi4wv/?context=3) by theroxyepoch in 2019
-* [How to get started with HRT in Brisbane?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/70vbi9/how_to_get_started_with_hrt_in_brisbane/) by Mara-Katash around 2018
+* reply to [As I do more and more pellet implantations, I'm finding lots of people with a really high E2 free percent and low SHBG on pellets. For my pellet fans out there, is this the case for you too?](https://www.reddit.com/r/DrWillPowers/comments/lffx42/as_i_do_more_and_more_pellet_implantations_im/gmp1s3d/) by SerenaMoana in 2021
+* [Swapping endos?](https://www.reddit.com/r/transgenderau/comments/ko8q7u/swapping_endos/) by GhostGlobes in 2020
+* [\[Update #2\] "Do you know an X in location Y who does the Powers method?" Please list them here.](https://www.reddit.com/r/DrWillPowers/comments/itlsl9/update_2_do_you_know_an_x_in_location_y_who_does/gg3at1e/?context=3) by bakabakadesu in 2020
+* [What's the process for getting HRT in Australia?](https://www.reddit.com/r/transgenderau/comments/ewlzlx/whats_the_process_for_getting_hrt_in_australia/) by DootDootDiggity in 2020
+* [Implants in Victoria](https://www.reddit.com/r/transgenderau/comments/ao1oaf/implants_in_victoria/) by Kimmaree1967 in 2019
+* reply to [Questions about WPATH/ANZPATH, MTF levels, and progesterone in Brisbane](https://www.reddit.com/r/transgenderau/comments/c3944z/questions_about_wpathanzpath_mtf_levels_and/erpi4wv/?context=3) by theroxyepoch in 2019
+* [How to get started with HRT in Brisbane?](https://www.reddit.com/r/transgenderau/comments/70vbi9/how_to_get_started_with_hrt_in_brisbane/) by Mara-Katash around 2018
 
 Other links
 
@@ -253,16 +253,16 @@ Other links
 
 Key details
 
-* Does implants and injections according to [this reddit post<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/mtw0ba/how_to_get_injections_in_brisbane/)
+* Does implants and injections according to [this reddit post](https://www.reddit.com/r/transgenderau/comments/mtw0ba/how_to_get_injections_in_brisbane/)
 * 799 Old Cleveland Rd, ***Carina*** Q 4152
 * http://gatewayspecialist.com.au/Gateway_Specialist_Centre_Carina/Directory.html
 * https://www.healthshare.com.au/profile/professional/261010-dr-naomi-achong/#overview
 
 reddit 
 
-* reply to [Swapping endos?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ko8q7u/swapping_endos/ghsadfy/) by AdrianeXX in 2020
-* [Informed consent HRT in Queensland (QLD)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/g30f24/informed_consent_hrt_in_queensland_qld/) by lunar-dogs in 2020
-* [Trans Woman in Queensland<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/8u6kmn/trans_woman_in_queensland/) by throwaway_queensland around 2018
+* reply to [Swapping endos?](https://www.reddit.com/r/transgenderau/comments/ko8q7u/swapping_endos/ghsadfy/) by AdrianeXX in 2020
+* [Informed consent HRT in Queensland (QLD)](https://www.reddit.com/r/transgenderau/comments/g30f24/informed_consent_hrt_in_queensland_qld/) by lunar-dogs in 2020
+* [Trans Woman in Queensland](https://www.reddit.com/r/transgenderau/comments/8u6kmn/trans_woman_in_queensland/) by throwaway_queensland around 2018
 
 <br />
 
@@ -272,7 +272,7 @@ reddit
 
 reddit
 
-* [Brisbane People<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/nvrqkv/brisbane_people/) by NitroApex7 in 2021
+* [Brisbane People](https://www.reddit.com/r/transgenderau/comments/nvrqkv/brisbane_people/) by NitroApex7 in 2021
 
 ## Graham Neilsen
 
@@ -288,18 +288,18 @@ Key details
 
 reddit
 
-* reply to [New to FTM<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/x0d900/new_to_ftm/im8nlid/) by Astro6104 in 2022 - *"You need a referral from a GP, and for me it was about 2 months before I could get an appointment. I got a prescription for testosterone in the first appointment... only costs $10 out of pocket if you’re a full time student or have a concession card, but otherwise it’s quite expensive..."*
-* [First Specialist Appointment at Stonewall Medical<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vxsq1a/first_specialist_appointment_at_stonewall_medical/) by Humble-Foundation-81 in 2022
-* reply to [What was your wait time between (1) seeking out any kind of medical transition/puberty blocking and (2) actually starting medical transition/puberty blocking (including psych wait times)?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/u5lguk/what_was_your_wait_time_between_1_seeking_out_any/i53csmn/) by Caityface91 in 2022
-* reply [hi there! wanting so start HRT qld!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/tuk553/hi_there_wanting_so_start_hrt_qld/i369ycp/) by Antman1982OG in 2022
-* reply to [So Done<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qd4ott/so_done/hhkecn1/) by BitMaster5582 in 2021
-* [Review of Dr Graham Nielsen - Stonewall Medical Centre (Brisbane) - 29MTF<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/n93nuh/review_of_dr_graham_nielsen_stonewall_medical/) by EuphoriaRyder in 2021
-* [Brisbane HRT recommendation<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kw6y5p/brisbane_hrt_recommendation/) by brisbanesonlytop in 2021
-* [starting hormones in brisbane?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/j05twb/starting_hormones_in_brisbane/) by dorkynoodleman in 2020
-* [I've started creating a map of every HRT prescribing doctor in Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/he6m2o/ive_started_creating_a_map_of_every_hrt/) by amy-simmons in 2020
-* [Any trans-friendly GP in Brisbane? Preferably around Brisbane CBD?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ezmyzs/any_transfriendly_gp_in_brisbane_preferably/) by justineeeee in 2020
-* [Questions about WPATH/ANZPATH, MTF levels, and progesterone in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/c3944z/questions_about_wpathanzpath_mtf_levels_and/) by chloemtf in 2019
-* [Trans Woman in Queensland<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/8u6kmn/trans_woman_in_queensland/) by throwaway_queensland around 2018
+* reply to [New to FTM](https://www.reddit.com/r/transgenderau/comments/x0d900/new_to_ftm/im8nlid/) by Astro6104 in 2022 - *"You need a referral from a GP, and for me it was about 2 months before I could get an appointment. I got a prescription for testosterone in the first appointment... only costs $10 out of pocket if you’re a full time student or have a concession card, but otherwise it’s quite expensive..."*
+* [First Specialist Appointment at Stonewall Medical](https://www.reddit.com/r/transgenderau/comments/vxsq1a/first_specialist_appointment_at_stonewall_medical/) by Humble-Foundation-81 in 2022
+* reply to [What was your wait time between (1) seeking out any kind of medical transition/puberty blocking and (2) actually starting medical transition/puberty blocking (including psych wait times)?](https://www.reddit.com/r/transgenderau/comments/u5lguk/what_was_your_wait_time_between_1_seeking_out_any/i53csmn/) by Caityface91 in 2022
+* reply [hi there! wanting so start HRT qld!](https://www.reddit.com/r/transgenderau/comments/tuk553/hi_there_wanting_so_start_hrt_qld/i369ycp/) by Antman1982OG in 2022
+* reply to [So Done](https://www.reddit.com/r/transgenderau/comments/qd4ott/so_done/hhkecn1/) by BitMaster5582 in 2021
+* [Review of Dr Graham Nielsen - Stonewall Medical Centre (Brisbane) - 29MTF](https://www.reddit.com/r/transgenderau/comments/n93nuh/review_of_dr_graham_nielsen_stonewall_medical/) by EuphoriaRyder in 2021
+* [Brisbane HRT recommendation](https://www.reddit.com/r/transgenderau/comments/kw6y5p/brisbane_hrt_recommendation/) by brisbanesonlytop in 2021
+* [starting hormones in brisbane?](https://www.reddit.com/r/transgenderau/comments/j05twb/starting_hormones_in_brisbane/) by dorkynoodleman in 2020
+* [I've started creating a map of every HRT prescribing doctor in Australia](https://www.reddit.com/r/transgenderau/comments/he6m2o/ive_started_creating_a_map_of_every_hrt/) by amy-simmons in 2020
+* [Any trans-friendly GP in Brisbane? Preferably around Brisbane CBD?](https://www.reddit.com/r/transgenderau/comments/ezmyzs/any_transfriendly_gp_in_brisbane_preferably/) by justineeeee in 2020
+* [Questions about WPATH/ANZPATH, MTF levels, and progesterone in Brisbane](https://www.reddit.com/r/transgenderau/comments/c3944z/questions_about_wpathanzpath_mtf_levels_and/) by chloemtf in 2019
+* [Trans Woman in Queensland](https://www.reddit.com/r/transgenderau/comments/8u6kmn/trans_woman_in_queensland/) by throwaway_queensland around 2018
 
 YouTube
 
@@ -321,7 +321,7 @@ Key details
 
 reddit
 
-* [Informed consent HRT in Queensland (QLD)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/g30f24/informed_consent_hrt_in_queensland_qld/) by lunar-dogs in 2020
+* [Informed consent HRT in Queensland (QLD)](https://www.reddit.com/r/transgenderau/comments/g30f24/informed_consent_hrt_in_queensland_qld/) by lunar-dogs in 2020
 
 <br />
 
@@ -336,12 +336,12 @@ Key details
 
 reddit
 
-* [What's Up with Dr Martin Fabiola?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ycz581/whats_up_with_dr_martin_fabiola/) by  hauntzcasp in 2022 - *"Does anyone have any idea on what her prejudice may be? At first I thought maybe she had issues with transfeminine people, since most negative reviews were from transgirls, but clearly that is not the case. Maybe she has issues with fat people? I am a very average weight, and she was very kind to me. Or perhaps she just enjoys being an asshole from time to time? Either way, I am very sorry to any other people that had to suffer through her on a bad day. We all deserve the same medical care and treatment."*
-* [Don’t waste your time with Dr Fabiola Martin at Stonewall Medical in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/xsg1uy/dont_waste_your_time_with_dr_fabiola_martin_at/) by BroknenUnicrons96 in 2022 - *"Our third session, she fully misgendered and deadnamed me (I had my legal name changed when I got to her) in a call to the pathologist. I stopped seeing her after this (about a year ago) Today, I was going over recommended dosages for hrt to discuss with my gp, and I found out that the dose she had me on for cypro is recommended daily. I knew that my progress in transitioning has been stunted this last year, but I thought I had just reached that stage. It turns out she just screwed me over."*
-* [First Specialist Appointment at Stonewall Medical<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vxsq1a/first_specialist_appointment_at_stonewall_medical/) by Humble-Foundation-81 in 2022
-* reply to [First Specialist Appointment at Stonewall Medical<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vxsq1a/first_specialist_appointment_at_stonewall_medical/ifzp58v/) by beemoboo in 2022 - *"I'm an afab enby and I went to see Dr Fabiola for two appointments. First one was just the general hrt talk about affects and what you want. By the end of the first appointment I felt very invalidated as she condescendingly told me that I shouldn't pursue the path of hrt and to lose weight instead. She didnt seem to understand non binary indentities very well (she misgendered me multiple times and my gf as well). I decided to go for a second appointment to see if she improves and nope. Based on the mental health quizzes that she sent me to do during the first appointment, she deemed me unfit to continue the hrt path. I didnt even score that high lmao. Told me to get an ADHD and autism assessment from a psychiatrist then come back. "*
-* [Anyone out there prescribed the genital atrophy reversal cream?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/svbqki/anyone_out_there_prescribed_the_genital_atrophy/) by  Phenogenesis- in 2022
-* reply to [starting hormones in brisbane?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/j05twb/starting_hormones_in_brisbane/g6solw6/) by dorkynoodleman in 2020
+* [What's Up with Dr Martin Fabiola?](https://www.reddit.com/r/transgenderau/comments/ycz581/whats_up_with_dr_martin_fabiola/) by  hauntzcasp in 2022 - *"Does anyone have any idea on what her prejudice may be? At first I thought maybe she had issues with transfeminine people, since most negative reviews were from transgirls, but clearly that is not the case. Maybe she has issues with fat people? I am a very average weight, and she was very kind to me. Or perhaps she just enjoys being an asshole from time to time? Either way, I am very sorry to any other people that had to suffer through her on a bad day. We all deserve the same medical care and treatment."*
+* [Don’t waste your time with Dr Fabiola Martin at Stonewall Medical in Brisbane](https://www.reddit.com/r/transgenderau/comments/xsg1uy/dont_waste_your_time_with_dr_fabiola_martin_at/) by BroknenUnicrons96 in 2022 - *"Our third session, she fully misgendered and deadnamed me (I had my legal name changed when I got to her) in a call to the pathologist. I stopped seeing her after this (about a year ago) Today, I was going over recommended dosages for hrt to discuss with my gp, and I found out that the dose she had me on for cypro is recommended daily. I knew that my progress in transitioning has been stunted this last year, but I thought I had just reached that stage. It turns out she just screwed me over."*
+* [First Specialist Appointment at Stonewall Medical](https://www.reddit.com/r/transgenderau/comments/vxsq1a/first_specialist_appointment_at_stonewall_medical/) by Humble-Foundation-81 in 2022
+* reply to [First Specialist Appointment at Stonewall Medical](https://www.reddit.com/r/transgenderau/comments/vxsq1a/first_specialist_appointment_at_stonewall_medical/ifzp58v/) by beemoboo in 2022 - *"I'm an afab enby and I went to see Dr Fabiola for two appointments. First one was just the general hrt talk about affects and what you want. By the end of the first appointment I felt very invalidated as she condescendingly told me that I shouldn't pursue the path of hrt and to lose weight instead. She didnt seem to understand non binary indentities very well (she misgendered me multiple times and my gf as well). I decided to go for a second appointment to see if she improves and nope. Based on the mental health quizzes that she sent me to do during the first appointment, she deemed me unfit to continue the hrt path. I didnt even score that high lmao. Told me to get an ADHD and autism assessment from a psychiatrist then come back. "*
+* [Anyone out there prescribed the genital atrophy reversal cream?](https://www.reddit.com/r/transgenderau/comments/svbqki/anyone_out_there_prescribed_the_genital_atrophy/) by  Phenogenesis- in 2022
+* reply to [starting hormones in brisbane?](https://www.reddit.com/r/transgenderau/comments/j05twb/starting_hormones_in_brisbane/g6solw6/) by dorkynoodleman in 2020
 
 Other links
 
@@ -362,7 +362,7 @@ Sites
 
 reddit 
 
-* [Brisbane HRT recommendation<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kw6y5p/brisbane_hrt_recommendation/) by brisbanesonlytop in 2021
+* [Brisbane HRT recommendation](https://www.reddit.com/r/transgenderau/comments/kw6y5p/brisbane_hrt_recommendation/) by brisbanesonlytop in 2021
 
 <br />
 
@@ -379,7 +379,7 @@ Sites
 
 reddit 
 
-* [Brisbane HRT recommendation<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kw6y5p/brisbane_hrt_recommendation/) by brisbanesonlytop in 2021
+* [Brisbane HRT recommendation](https://www.reddit.com/r/transgenderau/comments/kw6y5p/brisbane_hrt_recommendation/) by brisbanesonlytop in 2021
 
 <br />
 
@@ -404,7 +404,7 @@ Key details
 
 reddit
 
-* [Dr Margaret Williamson (Brisbane)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cvvpt1/dr_margaret_williamson_brisbane/) by quesin8 in 2019
+* [Dr Margaret Williamson (Brisbane)](https://www.reddit.com/r/transgenderau/comments/cvvpt1/dr_margaret_williamson_brisbane/) by quesin8 in 2019
 
 <br />
 
@@ -419,8 +419,8 @@ Key details
 
 reddit
 
-* [Dr Margaret Williamson (Brisbane)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cvvpt1/dr_margaret_williamson_brisbane/) by quesin8 in 2019
-* [I'd like to recommend my endocrinologist be added to the wiki for QLD resources.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/7w4432/id_like_to_recommend_my_endocrinologist_be_added/) by xerrofoot around 2018
+* [Dr Margaret Williamson (Brisbane)](https://www.reddit.com/r/transgenderau/comments/cvvpt1/dr_margaret_williamson_brisbane/) by quesin8 in 2019
+* [I'd like to recommend my endocrinologist be added to the wiki for QLD resources.](https://www.reddit.com/r/transgenderau/comments/7w4432/id_like_to_recommend_my_endocrinologist_be_added/) by xerrofoot around 2018
 
 <br />
 
@@ -438,9 +438,9 @@ http://www.transhealthaustralia.org/index.php/queensland/2-medical-practitioners
 
 reddit
 
-* [Informed Consent HRT timeframe in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/wjz276/informed_consent_hrt_timeframe_in_brisbane/ijkbqus/) by JamieRoseCleverly in 2022 - *"... the sexual health clinic can take you as a walk-in. On my first time, it took maybe 30 minutes to go through the informed consent and get my script, then 10-15 minutes at the pharmacy next door to have the script filled."*
-* [So Done<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qd4ott/so_done/) by nd-transfemme in 2021
-* [Any good HRT / Endocrine doctors in the QLD Townsville/Whitsunday area?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e6uafw/any_good_hrt_endocrine_doctors_in_the_qld/) by RateYourHazel in 2019
+* [Informed Consent HRT timeframe in Brisbane](https://www.reddit.com/r/transgenderau/comments/wjz276/informed_consent_hrt_timeframe_in_brisbane/ijkbqus/) by JamieRoseCleverly in 2022 - *"... the sexual health clinic can take you as a walk-in. On my first time, it took maybe 30 minutes to go through the informed consent and get my script, then 10-15 minutes at the pharmacy next door to have the script filled."*
+* [So Done](https://www.reddit.com/r/transgenderau/comments/qd4ott/so_done/) by nd-transfemme in 2021
+* [Any good HRT / Endocrine doctors in the QLD Townsville/Whitsunday area?](https://www.reddit.com/r/transgenderau/comments/e6uafw/any_good_hrt_endocrine_doctors_in_the_qld/) by RateYourHazel in 2019
 
 YouTube
 
@@ -486,8 +486,8 @@ Key Details
 
 reddit
 
-* [How is Dr Rhys Young?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zuguvc/how_is_dr_rhys_young/) by ThatOneHiddenTrans in 2022
-* [Just some praise for my new doctor!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/k2gj0j/just_some_praise_for_my_new_doctor/) by  dys-four-e-uh in 2020
+* [How is Dr Rhys Young?](https://www.reddit.com/r/transgenderau/comments/zuguvc/how_is_dr_rhys_young/) by ThatOneHiddenTrans in 2022
+* [Just some praise for my new doctor!](https://www.reddit.com/r/transgenderau/comments/k2gj0j/just_some_praise_for_my_new_doctor/) by  dys-four-e-uh in 2020
 
 YouTube
 
@@ -516,8 +516,8 @@ Key details
 
 reddit
 
-* [Townsville sexual health clinic<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/u3y2ph/townsville_sexual_health_clinic/) by townsvilletrans_ta in 2022
-* reply to [Waiting for hrt<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/glws2e/waiting_for_hrt/fr3buww/) by Gravityx77 in 2020
+* [Townsville sexual health clinic](https://www.reddit.com/r/transgenderau/comments/u3y2ph/townsville_sexual_health_clinic/) by townsvilletrans_ta in 2022
+* reply to [Waiting for hrt](https://www.reddit.com/r/transgenderau/comments/glws2e/waiting_for_hrt/fr3buww/) by Gravityx77 in 2020
 
 <br />
 
@@ -530,7 +530,7 @@ Key details
 
 reddit
 
-* [Getting started on HRT in Townsville<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hrencu/getting_started_on_hrt_in_townsville/) by Purple-Nightmares in 2020
+* [Getting started on HRT in Townsville](https://www.reddit.com/r/transgenderau/comments/hrencu/getting_started_on_hrt_in_townsville/) by Purple-Nightmares in 2020
 
 OTher
 
@@ -592,8 +592,8 @@ Key details
 
 reddit
 
-* reply to [Bleeding after an estrogen implant<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/pxr4eb/bleeding_after_an_estrogen_implant/hepm1ik/) by SharpHarp52 in 2021
-* [Help finding an endo in Toowoomba.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/m798i7/help_finding_an_endo_in_toowoomba/) by KineticVine488 in 2021
+* reply to [Bleeding after an estrogen implant](https://www.reddit.com/r/transgenderau/comments/pxr4eb/bleeding_after_an_estrogen_implant/hepm1ik/) by SharpHarp52 in 2021
+* [Help finding an endo in Toowoomba.](https://www.reddit.com/r/transgenderau/comments/m798i7/help_finding_an_endo_in_toowoomba/) by KineticVine488 in 2021
 
 YouTube
 
@@ -617,7 +617,7 @@ Key details
 
 reddit
 
-* [Help finding an endo in Toowoomba.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/m798i7/help_finding_an_endo_in_toowoomba/) by KineticVine488 in 2021
+* [Help finding an endo in Toowoomba.](https://www.reddit.com/r/transgenderau/comments/m798i7/help_finding_an_endo_in_toowoomba/) by KineticVine488 in 2021
 
 Other
 
@@ -637,7 +637,7 @@ Key details
 
 reddit
 
-* [Gender Affirming care in Toowoomba<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zxt1nd/gender_affirming_care_in_toowoomba/) by HypotheticallyHi in 2022
+* [Gender Affirming care in Toowoomba](https://www.reddit.com/r/transgenderau/comments/zxt1nd/gender_affirming_care_in_toowoomba/) by HypotheticallyHi in 2022
 
 <br />
 
@@ -653,7 +653,7 @@ Key details
 
 reddit
 
-* [Gender Affirming care in Toowoomba<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zxt1nd/gender_affirming_care_in_toowoomba/) by HypotheticallyHi in 2022
+* [Gender Affirming care in Toowoomba](https://www.reddit.com/r/transgenderau/comments/zxt1nd/gender_affirming_care_in_toowoomba/) by HypotheticallyHi in 2022
 
 <br />
 
@@ -669,7 +669,7 @@ Key details
 
 reddit
 
-* [Gender Affirming care in Toowoomba<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zxt1nd/gender_affirming_care_in_toowoomba/) by HypotheticallyHi in 2022
+* [Gender Affirming care in Toowoomba](https://www.reddit.com/r/transgenderau/comments/zxt1nd/gender_affirming_care_in_toowoomba/) by HypotheticallyHi in 2022
 
 <br />
 
@@ -683,7 +683,7 @@ reddit
 
 reddit
 
-* reply to [Gender Affirming care in Toowoomba<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zxt1nd/gender_affirming_care_in_toowoomba/j281xtu/) by ReasonableBarber9997 in 2022 - *"I was looking around in Toowoomba for months before I started HRT, so completely understand. The only doctor to avoid up here that I am aware of is Dr Andrew Rees from James Neil Medical, kept using trans broken leg syndrome on me and tried to convince me to detransition."*
+* reply to [Gender Affirming care in Toowoomba](https://www.reddit.com/r/transgenderau/comments/zxt1nd/gender_affirming_care_in_toowoomba/j281xtu/) by ReasonableBarber9997 in 2022 - *"I was looking around in Toowoomba for months before I started HRT, so completely understand. The only doctor to avoid up here that I am aware of is Dr Andrew Rees from James Neil Medical, kept using trans broken leg syndrome on me and tried to convince me to detransition."*
 
 <br />
 
@@ -705,7 +705,7 @@ Rockhampton QLD 4700
 
 reddit
 
-* reply to [Is Rockhampton trans-friendly<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/py8q93/is_rockhampton_transfriendly/het7ufg/) by beebird07 in 2021 - *"Doctor Karen Quinn at 92 Bolsover Street (the sexual health clinic) is the local trans specialist"*
+* reply to [Is Rockhampton trans-friendly](https://www.reddit.com/r/transgenderau/comments/py8q93/is_rockhampton_transfriendly/het7ufg/) by beebird07 in 2021 - *"Doctor Karen Quinn at 92 Bolsover Street (the sexual health clinic) is the local trans specialist"*
 
 <br />
 
@@ -715,7 +715,7 @@ reddit
 
 reddit
 
-* [Anyone had experience with Sally Price at the Gender clinic at the RBWH?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qn3z9k/anyone_had_experience_with_sally_price_at_the/) by redsungryphon in 2021
+* [Anyone had experience with Sally Price at the Gender clinic at the RBWH?](https://www.reddit.com/r/transgenderau/comments/qn3z9k/anyone_had_experience_with_sally_price_at_the/) by redsungryphon in 2021
 
 <br />
 
@@ -731,8 +731,8 @@ Key details
 
 reddit
 
-* [Experience with Dr Anna Thomas (Brisbane)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qza5oo/experience_with_dr_anna_thomas_brisbane/) by flamingpixelations in 2021
-* reply to [looking for any advice<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gw8qq3/looking_for_any_advice/fstn3n5/) by Sebirlinem in 2021
+* [Experience with Dr Anna Thomas (Brisbane)](https://www.reddit.com/r/transgenderau/comments/qza5oo/experience_with_dr_anna_thomas_brisbane/) by flamingpixelations in 2021
+* reply to [looking for any advice](https://www.reddit.com/r/transgenderau/comments/gw8qq3/looking_for_any_advice/fstn3n5/) by Sebirlinem in 2021
 
 <br />
 
@@ -748,7 +748,7 @@ Key Details
 
 reddit
 
-* reply to [looking for any advice<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gw8qq3/looking_for_any_advice/fstn3n5/) by Sebirlinem in 2020 - FTM
+* reply to [looking for any advice](https://www.reddit.com/r/transgenderau/comments/gw8qq3/looking_for_any_advice/fstn3n5/) by Sebirlinem in 2020 - FTM
 
 <br />
 
@@ -782,8 +782,8 @@ Key details
 
 reddit
 
-* reply to [Informed Consent HRT timeframe in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/wjz276/informed_consent_hrt_timeframe_in_brisbane/ijkcutf/) by MiriamIsTrans - *"Dr Anwar Seedat at Garden City Family Doctors got me my foot in the door while I was waiting for a more specialist GP. It took a few weeks from when I first saw him to get my prescription but only because I had high blood pressure and he wanted to do some extra tests. No wait time for an appointment at all, and the clinic bulk bills."*
-* reply to [where do I even start?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/v5c2ce/where_do_i_even_start/ibairmv/) by MiriamIsTrans in 2022
+* reply to [Informed Consent HRT timeframe in Brisbane](https://www.reddit.com/r/transgenderau/comments/wjz276/informed_consent_hrt_timeframe_in_brisbane/ijkcutf/) by MiriamIsTrans - *"Dr Anwar Seedat at Garden City Family Doctors got me my foot in the door while I was waiting for a more specialist GP. It took a few weeks from when I first saw him to get my prescription but only because I had high blood pressure and he wanted to do some extra tests. No wait time for an appointment at all, and the clinic bulk bills."*
+* reply to [where do I even start?](https://www.reddit.com/r/transgenderau/comments/v5c2ce/where_do_i_even_start/ibairmv/) by MiriamIsTrans in 2022
 
 Other
 
@@ -809,7 +809,7 @@ Key Details
 
 reddit
 
-* [Violence and Discrimination at the PA Hospital<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gk2ii2/violence_and_discrimination_at_the_pa_hospital/) by yagirlchloeb in 2020
+* [Violence and Discrimination at the PA Hospital](https://www.reddit.com/r/transgenderau/comments/gk2ii2/violence_and_discrimination_at_the_pa_hospital/) by yagirlchloeb in 2020
 
 <br />
 
@@ -823,12 +823,12 @@ Key details
 
 reddit
 
-* reply to [where do I even start?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/v5c2ce/where_do_i_even_start/ib8uw2f/) by An_Unreachable_Dusk in 2022
-* [RBWH gender clinic is reopened!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/spobnb/rbwh_gender_clinic_is_reopened/)  by malwarerosebush in 2022
-* [RBWH Gender Service temporary shut down<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/s87inz/rbwh_gender_service_temporary_shut_down/) by Cellwinn in 2022
-* reply to [Gender Services at the Royal Brisbane and Woman’s Hospital<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kvmijr/gender_services_at_the_royal_brisbane_and_womans/gj3znv4/) by king_wants in 2021
-* [Getting started on HRT in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/j2jgbs/getting_started_on_hrt_in_brisbane/) by pizzapanic in 2020
-* [Hi just a question about the rbwh in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hnzhwn/hi_just_a_question_about_the_rbwh_in_brisbane/) by stephaniewithatea in 2020
+* reply to [where do I even start?](https://www.reddit.com/r/transgenderau/comments/v5c2ce/where_do_i_even_start/ib8uw2f/) by An_Unreachable_Dusk in 2022
+* [RBWH gender clinic is reopened!](https://www.reddit.com/r/transgenderau/comments/spobnb/rbwh_gender_clinic_is_reopened/)  by malwarerosebush in 2022
+* [RBWH Gender Service temporary shut down](https://www.reddit.com/r/transgenderau/comments/s87inz/rbwh_gender_service_temporary_shut_down/) by Cellwinn in 2022
+* reply to [Gender Services at the Royal Brisbane and Woman’s Hospital](https://www.reddit.com/r/transgenderau/comments/kvmijr/gender_services_at_the_royal_brisbane_and_womans/gj3znv4/) by king_wants in 2021
+* [Getting started on HRT in Brisbane](https://www.reddit.com/r/transgenderau/comments/j2jgbs/getting_started_on_hrt_in_brisbane/) by pizzapanic in 2020
+* [Hi just a question about the rbwh in Brisbane](https://www.reddit.com/r/transgenderau/comments/hnzhwn/hi_just_a_question_about_the_rbwh_in_brisbane/) by stephaniewithatea in 2020
 
 Star Observer
 

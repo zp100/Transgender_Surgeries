@@ -10,11 +10,11 @@ There's far more in the wiki than the pages listed here, but its a start.
 
 General reddit resources
 
-* [r/transgenderau<sup>R</sup>](https://www.reddit.com/r/transgenderau) is the Australian trans sub, and look at their [wiki<sup>R</sup>](https://www.reddit.com/r/transgenderau/wiki/index)
-* [r/asktransgender<sup>R</sup>](https://www.reddit.com/r/asktransgender) is a very large trans sub
-* [r/ftm<sup>R</sup>](https://www.reddit.com/r/ftm)
-* [r/mtf<sup>R</sup>](https://www.reddit.com/r/mtf)
-* [r/TransLater<sup>R</sup>](https://www.reddit.com/r/TransLater) for the older trans people
+* [r/transgenderau](https://www.reddit.com/r/transgenderau) is the Australian trans sub, and look at their [wiki](https://www.reddit.com/r/transgenderau/wiki/index)
+* [r/asktransgender](https://www.reddit.com/r/asktransgender) is a very large trans sub
+* [r/ftm](https://www.reddit.com/r/ftm)
+* [r/mtf](https://www.reddit.com/r/mtf)
+* [r/TransLater](https://www.reddit.com/r/TransLater) for the older trans people
 
 Other
 
@@ -80,7 +80,7 @@ Other popular destinations for surgery
 
 reddit
 
-* [Coming out at work...<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jct0z4/coming_out_at_work/) by BecAwakens in 2020
+* [Coming out at work...](https://www.reddit.com/r/transgenderau/comments/jct0z4/coming_out_at_work/) by BecAwakens in 2020
 
 <br />
 
@@ -90,7 +90,7 @@ reddit
 
 reddit
 
-* [Trans kid friendly hairdresser in Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/oy9cpj/trans_kid_friendly_hairdresser_in_sydney/) by crossstitchwizard in 2021
+* [Trans kid friendly hairdresser in Sydney](https://www.reddit.com/r/transgenderau/comments/oy9cpj/trans_kid_friendly_hairdresser_in_sydney/) by crossstitchwizard in 2021
 
 Other
 
@@ -140,7 +140,7 @@ Facebook
 
 reddit
 
-* [Anyone in Sydney looking for new friends?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/uq5rmb/anyone_in_sydney_looking_for_new_friends/) by Yumi_NS in 2022
+* [Anyone in Sydney looking for new friends?](https://www.reddit.com/r/transgenderau/comments/uq5rmb/anyone_in_sydney_looking_for_new_friends/) by Yumi_NS in 2022
 
 <br />
 
@@ -150,11 +150,11 @@ Facebook
 
 * [Trans Brisbane](https://www.facebook.com/groups/1621123244785958/) - *"Trans-Action is a community for Transgender and fellow LGBTQIA+ members. We are based in Brisbane, Australia. We are a collective community of individuals lead by transgender people and made up of a unified body of transgender people and cisgender allies."*
 * [home - queensland young trans and gender diverse people](https://www.facebook.com/groups/381896459571399) - *"home is a support group for trans, gender diverse and questioning individuals aged 16 - 30 years old. We are run by the QUT Guild Queer Collective, and based at QUT Kelvin Grove, C Block. All are welcome, you do not need to be a QUT student to join us."*
-    * reddit post [Brisbane: New support group for young trans people!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kvi4bd/brisbane_new_support_group_for_young_trans_people/) by AntifaCatgirlsRiseUp in 2021
+    * reddit post [Brisbane: New support group for young trans people!](https://www.reddit.com/r/transgenderau/comments/kvi4bd/brisbane_new_support_group_for_young_trans_people/) by AntifaCatgirlsRiseUp in 2021
 
 reddit
 
-* [Need qld resources for ftm tween<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qgkkw8/need_qld_resources_for_ftm_tween/) by lilycamille in 2021
+* [Need qld resources for ftm tween](https://www.reddit.com/r/transgenderau/comments/qgkkw8/need_qld_resources_for_ftm_tween/) by lilycamille in 2021
 
 <br />
 
@@ -172,7 +172,7 @@ https://www.workingitout.org.au - *"Working It Out is Tasmania's sexuality, gend
 
 reddit
 
-* reply to [I feel like I'm losing my teen years to dysphoria<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/wdexvn/i_feel_like_im_losing_my_teen_years_to_dysphoria/iim3h7q/) by calamurri13 in 2022 - *"Working It Out has been really nice in my experience. I'd highly recommend it. They have a gender diverse group once a month in person and a general queer group meet-up too. From there they also have connections with pretty much every queer group in the state. I've been able to meet some lovely people through it. If you also want additional one-on-one support, you can get involved with their Working It Out Together program."*
+* reply to [I feel like I'm losing my teen years to dysphoria](https://www.reddit.com/r/transgenderau/comments/wdexvn/i_feel_like_im_losing_my_teen_years_to_dysphoria/iim3h7q/) by calamurri13 in 2022 - *"Working It Out has been really nice in my experience. I'd highly recommend it. They have a gender diverse group once a month in person and a general queer group meet-up too. From there they also have connections with pretty much every queer group in the state. I've been able to meet some lovely people through it. If you also want additional one-on-one support, you can get involved with their Working It Out Together program."*
 
 <br />
 
@@ -244,7 +244,7 @@ Key details
 
 reddit
 
-* reply to [Do NOT go to headspace in Bendigo<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kcj7pm/do_not_go_to_headspace_in_bendigo/gfrzp6r/) by WinWin369 in 2020
+* reply to [Do NOT go to headspace in Bendigo](https://www.reddit.com/r/transgenderau/comments/kcj7pm/do_not_go_to_headspace_in_bendigo/gfrzp6r/) by WinWin369 in 2020
 
 <br />
 
@@ -257,7 +257,7 @@ Key details
 * 28 Camp Street, Ballarat, Victoria 3350
 * https://headspace.org.au/headspace-centres/ballarat
 
-* reply to [Do NOT go to headspace in Bendigo<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kcj7pm/do_not_go_to_headspace_in_bendigo/gfqykv2/) by jackjwm in 2020
+* reply to [Do NOT go to headspace in Bendigo](https://www.reddit.com/r/transgenderau/comments/kcj7pm/do_not_go_to_headspace_in_bendigo/gfqykv2/) by jackjwm in 2020
 
 <br />
 
@@ -270,7 +270,7 @@ Key details
 
 reddit
 
-* [Do NOT go to headspace in Bendigo<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kcj7pm/do_not_go_to_headspace_in_bendigo/) by gaygender in 2020
+* [Do NOT go to headspace in Bendigo](https://www.reddit.com/r/transgenderau/comments/kcj7pm/do_not_go_to_headspace_in_bendigo/) by gaygender in 2020
 
 <br />
 
@@ -280,12 +280,12 @@ reddit
 
 reddit
 
-* [How hard is it to get HRT in AU?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vwk3kc/how_hard_is_it_to_get_hrt_in_au/) by Complete-Anon in 2022
-* [How long are the wait times and is Australian trans healthcare good?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/u9rk30/how_long_are_the_wait_times_and_is_australian/) by CantDecideANam3 in 2022
-* [Receiving Gender-Affirming Care in Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/tyngjq/receiving_genderaffirming_care_in_australia/) by Daez666 in 2022
-* [How are trans people treated in Australia?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qfq7q8/how_are_trans_people_treated_in_australia/) by ChalcedonyCat in 2021
-* [SOme questions from someone trans who wants to hopefully migrate to Australia.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jhheex/some_questions_from_someone_trans_who_wants_to/) by jfkmathrowaway in 2020
-* [What's it like to transition in Australia?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jgs6r4/whats_it_like_to_transition_in_australia/) by darkangel2881 in 2020
+* [How hard is it to get HRT in AU?](https://www.reddit.com/r/transgenderau/comments/vwk3kc/how_hard_is_it_to_get_hrt_in_au/) by Complete-Anon in 2022
+* [How long are the wait times and is Australian trans healthcare good?](https://www.reddit.com/r/transgenderau/comments/u9rk30/how_long_are_the_wait_times_and_is_australian/) by CantDecideANam3 in 2022
+* [Receiving Gender-Affirming Care in Australia](https://www.reddit.com/r/transgenderau/comments/tyngjq/receiving_genderaffirming_care_in_australia/) by Daez666 in 2022
+* [How are trans people treated in Australia?](https://www.reddit.com/r/transgenderau/comments/qfq7q8/how_are_trans_people_treated_in_australia/) by ChalcedonyCat in 2021
+* [SOme questions from someone trans who wants to hopefully migrate to Australia.](https://www.reddit.com/r/transgenderau/comments/jhheex/some_questions_from_someone_trans_who_wants_to/) by jfkmathrowaway in 2020
+* [What's it like to transition in Australia?](https://www.reddit.com/r/transgenderau/comments/jgs6r4/whats_it_like_to_transition_in_australia/) by darkangel2881 in 2020
  
 Australian Government - Services Australia
 

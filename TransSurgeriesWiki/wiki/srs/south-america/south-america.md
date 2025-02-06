@@ -28,7 +28,7 @@ Location
 
 reddit 
 
-* [Sharing some info on Brazilian and Argentinian surgeons<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/a36vls/sharing_some_info_on_brazilian_and_argentinian/) by BR_SRS in 2018 - *"Urologist. City: La Plata. Pioneer of SRS in Argentina. Very large experience, praised a lot for his results and bedside manners. His old-school style of communication might be offputting for some. Vaginoplasty + hospital fees costs around USD 8k. No website. fidalgocesar@hotmail.com"*
+* [Sharing some info on Brazilian and Argentinian surgeons](https://www.reddit.com/r/Transgender_Surgeries/comments/a36vls/sharing_some_info_on_brazilian_and_argentinian/) by BR_SRS in 2018 - *"Urologist. City: La Plata. Pioneer of SRS in Argentina. Very large experience, praised a lot for his results and bedside manners. His old-school style of communication might be offputting for some. Vaginoplasty + hospital fees costs around USD 8k. No website. fidalgocesar@hotmail.com"*
 
 <br />
 
@@ -46,37 +46,37 @@ Surgeons sites
 
 reddit
 
-* [Month 1 post op, spread. Redness inside normal? Also where's my clit? It's very sensitive but I can't see it :(<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/176bl2u/month_1_post_op_spread_redness_inside_normal_also/) by SoVeryBohemian in 2023
-    * [3 weeks post op. Granulation and dehiscence. Ouch!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/171moev/3_weeks_post_op_granulation_and_dehiscence_ouch/) by SoVeryBohemian in 2023
-    * [Perianal wound dehiscence. How do I keep this clean and dry?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/16ruz3l/perianal_wound_dehiscence_how_do_i_keep_this/) by SoVeryBohemian in 2023
-    * [Colon SRS at discharge from clinic<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/16m99k3/colon_srs_at_discharge_from_clinic/) by SoVeryBohemian in 2023
-* [8 weeks grs<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/16rl8lg/8_weeks_grs/) by SoVeryBohemian in 2023
-* [Vulvoplasty (without vaginal cavity) Results 3.3Y Post-Op (Argentina)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/11gq81v/vulvoplasty_without_vaginal_cavity_results_33y/) by AnonymousFruits in 2023
-    * [Vulvoplasty (without vaginal cavity) Results 2Y+ PostOP (Argentina)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/s91ih4/vulvoplasty_without_vaginal_cavity_results_2y/) by AnonymousFruits in 2022 - *"...the injections were given to me in the Dermatology area of ​​a public hospital, the original surgeon told me that the injections would not work and that it would be best to have another surgery (charging me a lot of money) but in the end the triamcinolone injections were very effective..."*
-    * [Vulvoplasty (without vaginal cavity) Results 2Y+ PostOP (Argentina)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/s91ih4/vulvoplasty_without_vaginal_cavity_results_2y/) by AnonymousFruits in 2022
-    * [Vulvoplasty (without vaginal cavity) Results 1Y+ PostOP (Argentina)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ku2lny/vulvoplasty_without_vaginal_cavity_results_1y/) by AnonymousFruits in 2021
-    * [Vulvoplasty Big Keloid<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ktglxy/vulvoplasty_big_keloid/) by AnonymousFruits in 2021
-* [About surgeon's gaslighting, abandonement of person & abuse of authority on vulnerable people. SRS experience with Javier Belinky in Argentina.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/yy2l1w/about_surgeons_gaslighting_abandonement_of_person/) by Ivanna_is_Musical in 2022
-    * reply to [How big a deal is post-op canal hair growth?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/uvx0gh/how_big_a_deal_is_postop_canal_hair_growth/i9onq9o/) by Ivanna_is_Musical in 2022 - *"It's horrible frustrating. Discovered a bunch of hair at the 5th month. 3 or 4 (of 4, 5 cms long) hairs, are coming out and show up out in the entrance. More deep, i can touch a bunch of them like forming some crusts. Started to bleed in every Dilation session after that. Im using pessaries or ovules. No gynecologist wanted to use speculum to see inside. Went to 4 or 5 in 6 months. Dr Javier Belinky said "this is weird, almost impossible to happen. Put some epilation creme. Or wait some more, let's see if they go away alone"."*
-    * reply to [5 Months Post-Op Zero-Depth with Stiller - Numb and Alone<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rsdqlh/5_months_postop_zerodepth_with_stiller_numb_and/i8nrsw7/) by Ivanna_is_Musical in 2022 - *"... the surgeon Dr Belinky just said ''ah c´mon, now everything that happens to you must have to do with the surgery?'' among other DISGUSTING THINGS. I only asked if it's possible to lost sensation AFTER it was almost completely recovered. Now I'm into a burden of suicidal thoughts and losing money in studies, travels, no sleeping due to breathing changes, diaphragmatic issues, and bowel disfunctions (diarrea and no urge to poop). This talks about medular nerve damage."*
-    * [\[MTF\] After almost 6 months SRS, suddenly growing numbness in perineum, groin.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/u34r42/mtf_after_almost_6_months_srs_suddenly_growing/) by Ivanna_is_Musical in 2022
-    * [Dilation bleeding at 5 months, and still difficult inserting 1st dilator<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/tin7il/dilation_bleeding_at_5_months_and_still_difficult/) by Ivanna_is_Musical in 2022
-    * [A balloon like lump in rectum cavity after mtf srs?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rlsqit/a_balloon_like_lump_in_rectum_cavity_after_mtf_srs/) by Ivanna_is_Musical in 2022
-    * [6 and a half weeks, after candida infection, irritation, dehiscence<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rk8r85/6_and_a_half_weeks_after_candida_infection/) by Ivanna_is_Musical in 2022
-    * reply to [JESS TING AT MOUNT SINAI IS HORRIBLE!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/sc1px5/jess_ting_at_mount_sinai_is_horrible/hu625fr/) by Ivanna_is_Musical in 2022
-* [5 weeks srs belinky<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vt7tbi/5_weeks_srs_belinky/) by pusspuss_throwaway in 2022
-* [SRS in Argentina 4/12 | 8 Months<sup>R</sup>](https://www.reddit.com/user/SRSinARthrowaway/submitted/) by SRSinARthrowaway in 2021
-    * [Loving my post op body! <3<sup>R</sup>](https://www.reddit.com/r/manmadepussy/comments/p85fw9/loving_my_post_op_body_3/) by SRSinARthrowaway in 2021
-    * [SRS in Argentina 4/12 | Week 3-5<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ndeyvz/srs_in_argentina_412_week_35/) by  by SRSinARthrowaway in 2021
-    * [SRS in Argentina 4/12 | Week 2<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/mx8o16/srs_in_argentina_412_week_2/) by SRSinARthrowaway in 2021
-    * [SRS in Argentina 4/12<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/mscda4/srs_in_argentina_412/) by SRSinARthrowaway in 2021
+* [Month 1 post op, spread. Redness inside normal? Also where's my clit? It's very sensitive but I can't see it :(](https://www.reddit.com/r/Transgender_Surgeries/comments/176bl2u/month_1_post_op_spread_redness_inside_normal_also/) by SoVeryBohemian in 2023
+    * [3 weeks post op. Granulation and dehiscence. Ouch!](https://www.reddit.com/r/Transgender_Surgeries/comments/171moev/3_weeks_post_op_granulation_and_dehiscence_ouch/) by SoVeryBohemian in 2023
+    * [Perianal wound dehiscence. How do I keep this clean and dry?](https://www.reddit.com/r/Transgender_Surgeries/comments/16ruz3l/perianal_wound_dehiscence_how_do_i_keep_this/) by SoVeryBohemian in 2023
+    * [Colon SRS at discharge from clinic](https://www.reddit.com/r/Transgender_Surgeries/comments/16m99k3/colon_srs_at_discharge_from_clinic/) by SoVeryBohemian in 2023
+* [8 weeks grs](https://www.reddit.com/r/Transgender_Surgeries/comments/16rl8lg/8_weeks_grs/) by SoVeryBohemian in 2023
+* [Vulvoplasty (without vaginal cavity) Results 3.3Y Post-Op (Argentina)](https://www.reddit.com/r/Transgender_Surgeries/comments/11gq81v/vulvoplasty_without_vaginal_cavity_results_33y/) by AnonymousFruits in 2023
+    * [Vulvoplasty (without vaginal cavity) Results 2Y+ PostOP (Argentina)](https://www.reddit.com/r/Transgender_Surgeries/comments/s91ih4/vulvoplasty_without_vaginal_cavity_results_2y/) by AnonymousFruits in 2022 - *"...the injections were given to me in the Dermatology area of ​​a public hospital, the original surgeon told me that the injections would not work and that it would be best to have another surgery (charging me a lot of money) but in the end the triamcinolone injections were very effective..."*
+    * [Vulvoplasty (without vaginal cavity) Results 2Y+ PostOP (Argentina)](https://www.reddit.com/r/Transgender_Surgeries/comments/s91ih4/vulvoplasty_without_vaginal_cavity_results_2y/) by AnonymousFruits in 2022
+    * [Vulvoplasty (without vaginal cavity) Results 1Y+ PostOP (Argentina)](https://www.reddit.com/r/Transgender_Surgeries/comments/ku2lny/vulvoplasty_without_vaginal_cavity_results_1y/) by AnonymousFruits in 2021
+    * [Vulvoplasty Big Keloid](https://www.reddit.com/r/Transgender_Surgeries/comments/ktglxy/vulvoplasty_big_keloid/) by AnonymousFruits in 2021
+* [About surgeon's gaslighting, abandonement of person & abuse of authority on vulnerable people. SRS experience with Javier Belinky in Argentina.](https://www.reddit.com/r/Transgender_Surgeries/comments/yy2l1w/about_surgeons_gaslighting_abandonement_of_person/) by Ivanna_is_Musical in 2022
+    * reply to [How big a deal is post-op canal hair growth?](https://www.reddit.com/r/Transgender_Surgeries/comments/uvx0gh/how_big_a_deal_is_postop_canal_hair_growth/i9onq9o/) by Ivanna_is_Musical in 2022 - *"It's horrible frustrating. Discovered a bunch of hair at the 5th month. 3 or 4 (of 4, 5 cms long) hairs, are coming out and show up out in the entrance. More deep, i can touch a bunch of them like forming some crusts. Started to bleed in every Dilation session after that. Im using pessaries or ovules. No gynecologist wanted to use speculum to see inside. Went to 4 or 5 in 6 months. Dr Javier Belinky said "this is weird, almost impossible to happen. Put some epilation creme. Or wait some more, let's see if they go away alone"."*
+    * reply to [5 Months Post-Op Zero-Depth with Stiller - Numb and Alone](https://www.reddit.com/r/Transgender_Surgeries/comments/rsdqlh/5_months_postop_zerodepth_with_stiller_numb_and/i8nrsw7/) by Ivanna_is_Musical in 2022 - *"... the surgeon Dr Belinky just said ''ah c´mon, now everything that happens to you must have to do with the surgery?'' among other DISGUSTING THINGS. I only asked if it's possible to lost sensation AFTER it was almost completely recovered. Now I'm into a burden of suicidal thoughts and losing money in studies, travels, no sleeping due to breathing changes, diaphragmatic issues, and bowel disfunctions (diarrea and no urge to poop). This talks about medular nerve damage."*
+    * [\[MTF\] After almost 6 months SRS, suddenly growing numbness in perineum, groin.](https://www.reddit.com/r/Transgender_Surgeries/comments/u34r42/mtf_after_almost_6_months_srs_suddenly_growing/) by Ivanna_is_Musical in 2022
+    * [Dilation bleeding at 5 months, and still difficult inserting 1st dilator](https://www.reddit.com/r/Transgender_Surgeries/comments/tin7il/dilation_bleeding_at_5_months_and_still_difficult/) by Ivanna_is_Musical in 2022
+    * [A balloon like lump in rectum cavity after mtf srs?](https://www.reddit.com/r/Transgender_Surgeries/comments/rlsqit/a_balloon_like_lump_in_rectum_cavity_after_mtf_srs/) by Ivanna_is_Musical in 2022
+    * [6 and a half weeks, after candida infection, irritation, dehiscence](https://www.reddit.com/r/Transgender_Surgeries/comments/rk8r85/6_and_a_half_weeks_after_candida_infection/) by Ivanna_is_Musical in 2022
+    * reply to [JESS TING AT MOUNT SINAI IS HORRIBLE!](https://www.reddit.com/r/Transgender_Surgeries/comments/sc1px5/jess_ting_at_mount_sinai_is_horrible/hu625fr/) by Ivanna_is_Musical in 2022
+* [5 weeks srs belinky](https://www.reddit.com/r/Transgender_Surgeries/comments/vt7tbi/5_weeks_srs_belinky/) by pusspuss_throwaway in 2022
+* [SRS in Argentina 4/12 | 8 Months](https://www.reddit.com/user/SRSinARthrowaway/submitted/) by SRSinARthrowaway in 2021
+    * [Loving my post op body! <3](https://www.reddit.com/r/manmadepussy/comments/p85fw9/loving_my_post_op_body_3/) by SRSinARthrowaway in 2021
+    * [SRS in Argentina 4/12 | Week 3-5](https://www.reddit.com/r/Transgender_Surgeries/comments/ndeyvz/srs_in_argentina_412_week_35/) by  by SRSinARthrowaway in 2021
+    * [SRS in Argentina 4/12 | Week 2](https://www.reddit.com/r/Transgender_Surgeries/comments/mx8o16/srs_in_argentina_412_week_2/) by SRSinARthrowaway in 2021
+    * [SRS in Argentina 4/12](https://www.reddit.com/r/Transgender_Surgeries/comments/mscda4/srs_in_argentina_412/) by SRSinARthrowaway in 2021
 SRSinARthrowaway in 2021
 
 **Non-photo links**
 
 reddit
 
-* [Sharing some info on Brazilian and Argentinian surgeons<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/a36vls/sharing_some_info_on_brazilian_and_argentinian/) by BR_SRS in 2018 - *"Urologist. City: Buenos Aires. Very sweet person but no info floating around about his results. Vaginoplasty + hospital fees costs around USD 10k."*
+* [Sharing some info on Brazilian and Argentinian surgeons](https://www.reddit.com/r/Transgender_Surgeries/comments/a36vls/sharing_some_info_on_brazilian_and_argentinian/) by BR_SRS in 2018 - *"Urologist. City: Buenos Aires. Very sweet person but no info floating around about his results. Vaginoplasty + hospital fees costs around USD 10k."*
 
 <br />
 
@@ -96,7 +96,7 @@ Surgeons sites
 
 reddit
 
-* [So, I'm getting a vagina<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vbe1ro/so_im_getting_a_vagina/) by LongjumpingArgument3 in 2022
+* [So, I'm getting a vagina](https://www.reddit.com/r/Transgender_Surgeries/comments/vbe1ro/so_im_getting_a_vagina/) by LongjumpingArgument3 in 2022
 
 <br />
 
@@ -129,7 +129,7 @@ Location
 
 * Blumenau, Brazil
 
-reddit - [Sharing some info on Brazilian and Argentinian surgeons<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/a36vls/sharing_some_info_on_brazilian_and_argentinian/) by BR_SRS in 2018
+reddit - [Sharing some info on Brazilian and Argentinian surgeons](https://www.reddit.com/r/Transgender_Surgeries/comments/a36vls/sharing_some_info_on_brazilian_and_argentinian/) by BR_SRS in 2018
 > Plastic surgeon. City: Blumenau. Trained under Dr. Leis in Philadelphia. I have no first-hand accounts but from a TV show I watched recently, he's done very few vaginoplasties so far (~30). His clinic has an FFS surgeon as well. Vaginoplasty + hospital fees costs around BRL 35k. http://transgeneros.com.br/
 
 YouTube
@@ -153,37 +153,37 @@ Surgeons sites
 
 reddit
 
-* [My trans body<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/174gr3c/my_trans_body/) by aWallflower-InBloom in 2023
-    * [SRS with Dr Marcio Littleton (2022, revision 2023)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/17309qt/srs_with_dr_marcio_littleton_2022_revision_2023/) by aWallflower-InBloom in 2023
-    * [4 months post GRS revision with Dr Marcio Littleton<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/16ij18h/4_months_post_grs_revision_with_dr_marcio/)  by aWallflower-InBloom in 2023
-* [SRS Dr Littleton Brazil/Portugal/Italy<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/175r3si/srs_dr_littleton_brazilportugalitaly/) by taylort2019 in 2023
-* [Is my vagina cis looking?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/13nfkil/is_my_vagina_cis_looking/) by browneyeddreamgirl in 2023
-    * [My clit and inside look of my vagina.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/13osr0r/my_clit_and_inside_look_of_my_vagina/)  by browneyeddreamgirl in 2023
-    * [Cortisone shot for scar on vagina. What do yall think? This is my first session. I got back next month for another treatment.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1358qag/cortisone_shot_for_scar_on_vagina_what_do_yall/) by browneyeddreamgirl in 2023
-    * [Rubbing in vitamin E oil on while watching Lingo.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10ca4qj/rubbing_in_vitamin_e_oil_on_while_watching_lingo/) by browneyeddreamgirl in 2023
-    * [Almost 3 months post op with Dr Littleton.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/109pd9x/almost_3_months_post_op_with_dr_littleton/) by browneyeddreamgirl in 2023
-    * [Post op sex bleeding.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/107w7if/post_op_sex_bleeding/) by browneyeddreamgirl in 2023
-    * [3 week post op revision update. Stitches are falling out. Dilating is easier<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/yw69za/3_week_post_op_revision_update_stitches_are/) by browneyeddreamgirl in 2022
-    * [1 week post op revision. I’m so happy with my results!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/yirtip/1_week_post_op_revision_im_so_happy_with_my/) by browneyeddreamgirl in 2022
-    * [6 months post op and I’m stuck on #5 and it’s painful while dilating. Any advice? I had the jejunum graft.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/v1bhbj/6_months_post_op_and_im_stuck_on_5_and_its/) by browneyeddreamgirl in 2022
-    * [2 1/2 months post op.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rx67bf/2_12_months_post_op/) by browneyeddreamgirl in 2022
-    * [How bad does this look? 2 months post op short labias<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/rmaa8t/how_bad_does_this_look_2_months_post_op_short/) by browneyeddreamgirl in 2021
-    * [Is this necrosis?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qy524i/is_this_necrosis/) by browneyeddreamgirl in 2021
-* [Is my Entrance a bit High<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/se3fts/is_my_entrance_a_bit_high/) by proser30 in 2022
-* [UPDATE: 7 months post-op GRS with Dr. Littleton, done in Rio de Janeiro. Jejunum technique.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/m1e9xk/update_7_months_postop_grs_with_dr_littleton_done/) by auroritcha in 2021
-    * [UPDATE: 2 months post-op GRS with Dr. Littleton in Rio. Jejunum technique.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jf10wn/update_2_months_postop_grs_with_dr_littleton_in/) by auroritcha in 2020
-    * [I’m 20 days post op. There’s still so much swelling, but it’s recovering quite well. Did the surgery in Brazil and had the jejunum method.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ik5bgr/im_20_days_post_op_theres_still_so_much_swelling/) by auroritcha in 2020
+* [My trans body](https://www.reddit.com/r/Transgender_Surgeries/comments/174gr3c/my_trans_body/) by aWallflower-InBloom in 2023
+    * [SRS with Dr Marcio Littleton (2022, revision 2023)](https://www.reddit.com/r/Transgender_Surgeries/comments/17309qt/srs_with_dr_marcio_littleton_2022_revision_2023/) by aWallflower-InBloom in 2023
+    * [4 months post GRS revision with Dr Marcio Littleton](https://www.reddit.com/r/Transgender_Surgeries/comments/16ij18h/4_months_post_grs_revision_with_dr_marcio/)  by aWallflower-InBloom in 2023
+* [SRS Dr Littleton Brazil/Portugal/Italy](https://www.reddit.com/r/Transgender_Surgeries/comments/175r3si/srs_dr_littleton_brazilportugalitaly/) by taylort2019 in 2023
+* [Is my vagina cis looking?](https://www.reddit.com/r/Transgender_Surgeries/comments/13nfkil/is_my_vagina_cis_looking/) by browneyeddreamgirl in 2023
+    * [My clit and inside look of my vagina.](https://www.reddit.com/r/Transgender_Surgeries/comments/13osr0r/my_clit_and_inside_look_of_my_vagina/)  by browneyeddreamgirl in 2023
+    * [Cortisone shot for scar on vagina. What do yall think? This is my first session. I got back next month for another treatment.](https://www.reddit.com/r/Transgender_Surgeries/comments/1358qag/cortisone_shot_for_scar_on_vagina_what_do_yall/) by browneyeddreamgirl in 2023
+    * [Rubbing in vitamin E oil on while watching Lingo.](https://www.reddit.com/r/Transgender_Surgeries/comments/10ca4qj/rubbing_in_vitamin_e_oil_on_while_watching_lingo/) by browneyeddreamgirl in 2023
+    * [Almost 3 months post op with Dr Littleton.](https://www.reddit.com/r/Transgender_Surgeries/comments/109pd9x/almost_3_months_post_op_with_dr_littleton/) by browneyeddreamgirl in 2023
+    * [Post op sex bleeding.](https://www.reddit.com/r/Transgender_Surgeries/comments/107w7if/post_op_sex_bleeding/) by browneyeddreamgirl in 2023
+    * [3 week post op revision update. Stitches are falling out. Dilating is easier](https://www.reddit.com/r/Transgender_Surgeries/comments/yw69za/3_week_post_op_revision_update_stitches_are/) by browneyeddreamgirl in 2022
+    * [1 week post op revision. I’m so happy with my results!](https://www.reddit.com/r/Transgender_Surgeries/comments/yirtip/1_week_post_op_revision_im_so_happy_with_my/) by browneyeddreamgirl in 2022
+    * [6 months post op and I’m stuck on #5 and it’s painful while dilating. Any advice? I had the jejunum graft.](https://www.reddit.com/r/Transgender_Surgeries/comments/v1bhbj/6_months_post_op_and_im_stuck_on_5_and_its/) by browneyeddreamgirl in 2022
+    * [2 1/2 months post op.](https://www.reddit.com/r/Transgender_Surgeries/comments/rx67bf/2_12_months_post_op/) by browneyeddreamgirl in 2022
+    * [How bad does this look? 2 months post op short labias](https://www.reddit.com/r/Transgender_Surgeries/comments/rmaa8t/how_bad_does_this_look_2_months_post_op_short/) by browneyeddreamgirl in 2021
+    * [Is this necrosis?](https://www.reddit.com/r/Transgender_Surgeries/comments/qy524i/is_this_necrosis/) by browneyeddreamgirl in 2021
+* [Is my Entrance a bit High](https://www.reddit.com/r/Transgender_Surgeries/comments/se3fts/is_my_entrance_a_bit_high/) by proser30 in 2022
+* [UPDATE: 7 months post-op GRS with Dr. Littleton, done in Rio de Janeiro. Jejunum technique.](https://www.reddit.com/r/Transgender_Surgeries/comments/m1e9xk/update_7_months_postop_grs_with_dr_littleton_done/) by auroritcha in 2021
+    * [UPDATE: 2 months post-op GRS with Dr. Littleton in Rio. Jejunum technique.](https://www.reddit.com/r/Transgender_Surgeries/comments/jf10wn/update_2_months_postop_grs_with_dr_littleton_in/) by auroritcha in 2020
+    * [I’m 20 days post op. There’s still so much swelling, but it’s recovering quite well. Did the surgery in Brazil and had the jejunum method.](https://www.reddit.com/r/Transgender_Surgeries/comments/ik5bgr/im_20_days_post_op_theres_still_so_much_swelling/) by auroritcha in 2020
 
 **Non-photo links**
 
 reddit
 
-* [22 days post-op with dr. Marcio Littleton (Brazil/Portugal/apparently Italy too?)<sup>R</sup>](https://www.reddit.com/r/ftmsurgeryexperience/comments/f80h2d/22_days_postop_with_dr_marcio_littleton/) by octosqu1d in 2020 - note this is FTM surgery
-* reply to [trans women who have undergone genital surgery, what was it like? what does it feel like? how was the recovery? is there a possibility of complications? how much did it cost?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/ewb8qb/trans_women_who_have_undergone_genital_surgery/fg0xq71/) by taish in 2020
-    * [4 months post-op, GRS with jejunal mucosa graft<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/e3nuvq/4_months_postop_grs_with_jejunal_mucosa_graft/) by taish in 2019
-    * [Minha experiência com SRS, parte 1: escolher um cirurgião<sup>R</sup>](https://www.reddit.com/r/transbr/comments/d7hjuv/minha_experi%C3%AAncia_com_srs_parte_1_escolher_um/) by taish in 2019 - in Portuguese
+* [22 days post-op with dr. Marcio Littleton (Brazil/Portugal/apparently Italy too?)](https://www.reddit.com/r/ftmsurgeryexperience/comments/f80h2d/22_days_postop_with_dr_marcio_littleton/) by octosqu1d in 2020 - note this is FTM surgery
+* reply to [trans women who have undergone genital surgery, what was it like? what does it feel like? how was the recovery? is there a possibility of complications? how much did it cost?](https://www.reddit.com/r/asktransgender/comments/ewb8qb/trans_women_who_have_undergone_genital_surgery/fg0xq71/) by taish in 2020
+    * [4 months post-op, GRS with jejunal mucosa graft](https://www.reddit.com/r/Transgender_Surgeries/comments/e3nuvq/4_months_postop_grs_with_jejunal_mucosa_graft/) by taish in 2019
+    * [Minha experiência com SRS, parte 1: escolher um cirurgião](https://www.reddit.com/r/transbr/comments/d7hjuv/minha_experi%C3%AAncia_com_srs_parte_1_escolher_um/) by taish in 2019 - in Portuguese
 
-reddit - [Sharing some info on Brazilian and Argentinian surgeons<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/a36vls/sharing_some_info_on_brazilian_and_argentinian/) by BR_SRS in 2018
+reddit - [Sharing some info on Brazilian and Argentinian surgeons](https://www.reddit.com/r/Transgender_Surgeries/comments/a36vls/sharing_some_info_on_brazilian_and_argentinian/) by BR_SRS in 2018
 > Plastic surgeon. City: Rio de Janeiro and Lisbon/Portugal. Trained under Dr. João Décio Ferreira in Lisbon. He's renowned in trans surgeries in Brazil and frequently does reconstruction for botched/unsatisfactory procedures. His vaginoplasty technique uses a jejunum mucosa graft as vaginal lining, which reportedly doesn't smell like colon nor constantly lubricates like peritoneum (his patients confirm this in his facebook group). Another advantage mentioned is a shorter/easier dilation schedule. Does phallo/meto as well. Vaginoplasty + hospital fees costs around BRL 42k. https://www.marciolittleton.com/
 
 Susans
@@ -221,7 +221,7 @@ Papers
 
 **Non-photo links**
 
-reddit - [Sharing some info on Brazilian and Argentinian surgeons<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/a36vls/sharing_some_info_on_brazilian_and_argentinian/) by BR_SRS in 2018
+reddit - [Sharing some info on Brazilian and Argentinian surgeons](https://www.reddit.com/r/Transgender_Surgeries/comments/a36vls/sharing_some_info_on_brazilian_and_argentinian/) by BR_SRS in 2018
 > Plastic Surgeon. City: São Paulo. Trained under Dr. Bowers. Few stories/references available but usually praised for his commitment and bedside manners. Vaginoplasty + hospital fees costs around BRL 38k. https://www.drmatheusmanica.com.br/
 
 <br />
@@ -232,7 +232,7 @@ Location
 
 * Porto Alegre, Brazil
 
-reddit - [Sharing some info on Brazilian and Argentinian surgeons<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/a36vls/sharing_some_info_on_brazilian_and_argentinian/) by BR_SRS in 2018
+reddit - [Sharing some info on Brazilian and Argentinian surgeons](https://www.reddit.com/r/Transgender_Surgeries/comments/a36vls/sharing_some_info_on_brazilian_and_argentinian/) by BR_SRS in 2018
 > Urologist. City: Porto Alegre. Trained under Dr. Walter Koff, one of the pioneers of SRS in Brazil. He's one of the surgeons that do vaginoplasty through the public health system, and has large mileage, claiming to have conducted over 200 surgeries in the past ten years. However his poor technique (no labia minora or clitoral hood) and awful bedside manners are often criticized, and there are a few horror stories confirmed. Unknown if he uses the same technique and manners for paying customers. Not recommended. http://prouro.com.br/home/
 
 <br />
@@ -287,15 +287,15 @@ Surgeons sites
 
 reddit
 
-* [5 months post Op. Its normal this appearance of my vulva, vagina and clit?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/13hldwg/5_months_post_op_its_normal_this_appearance_of_my/) by valszp in 2023
-    * [Is it possible to achieve more depth with dilation, after the first surgery, where the amount of skin was insufficient?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/137vdmn/is_it_possible_to_achieve_more_depth_with/) by valszp in 2023
-    * [5 post Op pussy!<sup>R</sup>](https://www.reddit.com/r/manmadepussy/comments/12yp7wh/5_post_op_pussy/) by valszp in 2023
-    * [Has anyone after you managed to have multiple orgasms with your new clitoris?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/12k89mo/has_anyone_after_you_managed_to_have_multiple/) by valszp in 2023
-    * [Someone that made Srs and get small depth?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/12d5dh6/someone_that_made_srs_and_get_small_depth/) by valszp in 2023
-    * [Its normal, have a clit like this with this Format?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/11yyk7p/its_normal_have_a_clit_like_this_with_this_format/) by valszp in 2023
-    * [even though my doctor said that I would have little depth, can my vaginal canal increase even more in size?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/11h4o5g/even_though_my_doctor_said_that_i_would_have/)  by valszp in 2023
-    * [About 3 months vaginoplasty post op Dr Westin Brazil. PI<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/11bpmpm/about_3_months_vaginoplasty_post_op_dr_westin/) by valszp in 2023
-    * [What is a clit?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/11a45h2/what_is_a_clit/) by valszp in 2023
+* [5 months post Op. Its normal this appearance of my vulva, vagina and clit?](https://www.reddit.com/r/Transgender_Surgeries/comments/13hldwg/5_months_post_op_its_normal_this_appearance_of_my/) by valszp in 2023
+    * [Is it possible to achieve more depth with dilation, after the first surgery, where the amount of skin was insufficient?](https://www.reddit.com/r/Transgender_Surgeries/comments/137vdmn/is_it_possible_to_achieve_more_depth_with/) by valszp in 2023
+    * [5 post Op pussy!](https://www.reddit.com/r/manmadepussy/comments/12yp7wh/5_post_op_pussy/) by valszp in 2023
+    * [Has anyone after you managed to have multiple orgasms with your new clitoris?](https://www.reddit.com/r/Transgender_Surgeries/comments/12k89mo/has_anyone_after_you_managed_to_have_multiple/) by valszp in 2023
+    * [Someone that made Srs and get small depth?](https://www.reddit.com/r/Transgender_Surgeries/comments/12d5dh6/someone_that_made_srs_and_get_small_depth/) by valszp in 2023
+    * [Its normal, have a clit like this with this Format?](https://www.reddit.com/r/Transgender_Surgeries/comments/11yyk7p/its_normal_have_a_clit_like_this_with_this_format/) by valszp in 2023
+    * [even though my doctor said that I would have little depth, can my vaginal canal increase even more in size?](https://www.reddit.com/r/Transgender_Surgeries/comments/11h4o5g/even_though_my_doctor_said_that_i_would_have/)  by valszp in 2023
+    * [About 3 months vaginoplasty post op Dr Westin Brazil. PI](https://www.reddit.com/r/Transgender_Surgeries/comments/11bpmpm/about_3_months_vaginoplasty_post_op_dr_westin/) by valszp in 2023
+    * [What is a clit?](https://www.reddit.com/r/Transgender_Surgeries/comments/11a45h2/what_is_a_clit/) by valszp in 2023
 
 <br />
 
@@ -333,7 +333,7 @@ Surgeons sites
 
 reddit
 
-* [Day 88 post-op, SRS @ 🇨🇱. These are my results so far.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/16fimbe/day_88_postop_srs_these_are_my_results_so_far/) by sofiazapatazavala in 2023
+* [Day 88 post-op, SRS @ 🇨🇱. These are my results so far.](https://www.reddit.com/r/Transgender_Surgeries/comments/16fimbe/day_88_postop_srs_these_are_my_results_so_far/) by sofiazapatazavala in 2023
 
 **Non-photo links**
 
@@ -392,8 +392,8 @@ Surgeons sites
 
 reddit
 
-* [My transition journey - Got SRS 11 months after HRT<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/suupd8/my_transition_journey_got_srs_11_months_after_hrt/) by _almabet in 2022
-* [Tilapia Vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qd0w2v/tilapia_vaginoplasty/) by ayeareeye in 2021 - *"I just had a consult with a doctor in Colombia for FFS. His name is Dr. Alvaro Rodriguez. I also saw that he does Vaginoplasty with the tilapia skin."*
+* [My transition journey - Got SRS 11 months after HRT](https://www.reddit.com/r/asktransgender/comments/suupd8/my_transition_journey_got_srs_11_months_after_hrt/) by _almabet in 2022
+* [Tilapia Vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/qd0w2v/tilapia_vaginoplasty/) by ayeareeye in 2021 - *"I just had a consult with a doctor in Colombia for FFS. His name is Dr. Alvaro Rodriguez. I also saw that he does Vaginoplasty with the tilapia skin."*
 
 Susans
 
@@ -467,7 +467,7 @@ Mexico is in North America, and in the <span class="internal">[Other](https://gi
 
 reddit
 
-* [Orchie results, doubt, question<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kdl8ll/orchie_results_doubt_question/) by  plantasticpub in 2020
+* [Orchie results, doubt, question](https://www.reddit.com/r/Transgender_Surgeries/comments/kdl8ll/orchie_results_doubt_question/) by  plantasticpub in 2020
 
 <br />
 

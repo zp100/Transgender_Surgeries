@@ -37,10 +37,10 @@ Beverly Cosgrove (admin of a major trans HRT group on Facebook) has some very go
 
 reddit
 
-* [I used intramuscular estradiol for a Subcutaneous Injection.<sup>R</sup>](https://www.reddit.com/r/AskMtFHRT/comments/knv5h9/i_used_intramuscular_estradiol_for_a_subcutaneous/) by wondermic2 in 2021
-* [Question about Injections<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/ixmuhf/question_about_injections/) by SamSkelly in 2020 - *"I touch the blood that comes out and if it's not oily, that means that no EV came back out."*
-* [SubQ injections leaking<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/feojhy/subq_injections_leaking/) in 2020
-* [Is it normal to bleed on subq injections ?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/c6rk8n/is_it_normal_to_bleed_on_subq_injections/) by GraySky2018 in 2019
+* [I used intramuscular estradiol for a Subcutaneous Injection.](https://www.reddit.com/r/AskMtFHRT/comments/knv5h9/i_used_intramuscular_estradiol_for_a_subcutaneous/) by wondermic2 in 2021
+* [Question about Injections](https://www.reddit.com/r/TransDIY/comments/ixmuhf/question_about_injections/) by SamSkelly in 2020 - *"I touch the blood that comes out and if it's not oily, that means that no EV came back out."*
+* [SubQ injections leaking](https://www.reddit.com/r/TransDIY/comments/feojhy/subq_injections_leaking/) in 2020
+* [Is it normal to bleed on subq injections ?](https://www.reddit.com/r/TransDIY/comments/c6rk8n/is_it_normal_to_bleed_on_subq_injections/) by GraySky2018 in 2019
 
 Using the wrong length needles
 
@@ -81,7 +81,7 @@ I've seen Nipro 27g 1.25" needles recommended as very sharp and low pain. The le
 
 reddit
 
-* [How can I know if my intramuscular injection was deep enough?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/mgtbl2/how_can_i_know_if_my_intramuscular_injection_was/) by Lintriff_2 in 2021
+* [How can I know if my intramuscular injection was deep enough?](https://www.reddit.com/r/MtF/comments/mgtbl2/how_can_i_know_if_my_intramuscular_injection_was/) by Lintriff_2 in 2021
 
 YouTube
 
@@ -153,7 +153,7 @@ Injecting cold liquid may be more painful than room temperature. However oils ar
 
 reddit
 
-* [Do you get a painful bruise like feeling for a few days after EVERY injection? If so read this.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/llyjkw/do_you_get_a_painful_bruise_like_feeling_for_a/) by Drwillpowers in 2021
+* [Do you get a painful bruise like feeling for a few days after EVERY injection? If so read this.](https://www.reddit.com/r/DrWillPowers/comments/llyjkw/do_you_get_a_painful_bruise_like_feeling_for_a/) by Drwillpowers in 2021
 
 YouTube
 
@@ -167,7 +167,7 @@ https://en.wikipedia.org/wiki/Syncope_(medicine) - *"Syncope, commonly known as 
 
 reddit
 
-* [Jesus Christ, I'll never do IM injections again<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/ut2fjk/jesus_christ_ill_never_do_im_injections_again/) by SmoothGrocery in 2022
+* [Jesus Christ, I'll never do IM injections again](https://www.reddit.com/r/TransDIY/comments/ut2fjk/jesus_christ_ill_never_do_im_injections_again/) by SmoothGrocery in 2022
 
 Other
 
@@ -227,10 +227,10 @@ For injections in Australia, see wiki page <span class="internal">[Estrogen Inje
 
 reddit
 
-* [Sliptip vs Luerlock<sup>R</sup>](https://www.reddit.com/r/Veterinary/comments/gf4pq6/sliptip_vs_luerlock/) around 2020
-* [Spinal kits - why slip tip and not luer lock?<sup>R</sup>](https://www.reddit.com/r/anesthesiology/comments/16ho7zr/spinal_kits_why_slip_tip_and_not_luer_lock/) around 2024
-* [PSA: If you are on injections, you may wish to stockpile needles and syringes before the COVID-19 vaccine comes out<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/ihqrsz/psa_if_you_are_on_injections_you_may_wish_to/) by Katakallai in 2020
-* [Are 27 Gauge Needles too thin to inject EV?<sup>R</sup>](https://www.reddit.com/r/AskMtFHRT/comments/ikvebd/are_27_gauge_needles_too_thin_to_inject_ev/) by wecantmakeabbq in 2020
+* [Sliptip vs Luerlock](https://www.reddit.com/r/Veterinary/comments/gf4pq6/sliptip_vs_luerlock/) around 2020
+* [Spinal kits - why slip tip and not luer lock?](https://www.reddit.com/r/anesthesiology/comments/16ho7zr/spinal_kits_why_slip_tip_and_not_luer_lock/) around 2024
+* [PSA: If you are on injections, you may wish to stockpile needles and syringes before the COVID-19 vaccine comes out](https://www.reddit.com/r/asktransgender/comments/ihqrsz/psa_if_you_are_on_injections_you_may_wish_to/) by Katakallai in 2020
+* [Are 27 Gauge Needles too thin to inject EV?](https://www.reddit.com/r/AskMtFHRT/comments/ikvebd/are_27_gauge_needles_too_thin_to_inject_ev/) by wecantmakeabbq in 2020
 
 Papers
 
@@ -238,7 +238,7 @@ Papers
 
 Other
 
-* [Selecting and Obtaining Supplies for Self-Injection of Oil-Based Hormones](https://moderntranshormones.com/2020/11/07/selecting-and-obtaining-supplies-for-self-injection-of-oil-based-hormones/) by Beverly Cosgrove in 2020, see also reddit post [Article: Selecting and Obtaining Supplies for Self-Injection of Oil-Based Hormones<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/jq1klh/article_selecting_and_obtaining_supplies_for/) by BeverlyCosgrove in 2020
+* [Selecting and Obtaining Supplies for Self-Injection of Oil-Based Hormones](https://moderntranshormones.com/2020/11/07/selecting-and-obtaining-supplies-for-self-injection-of-oil-based-hormones/) by Beverly Cosgrove in 2020, see also reddit post [Article: Selecting and Obtaining Supplies for Self-Injection of Oil-Based Hormones](https://www.reddit.com/r/DrWillPowers/comments/jq1klh/article_selecting_and_obtaining_supplies_for/) by BeverlyCosgrove in 2020
 
 ## Coring
 
@@ -246,13 +246,13 @@ Don't use too large a drawing needle as it can damage the cap of the estrogen vi
 
 reddit
 
-* [Cored my vial on the first injection, am I fucked?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/14kl05c/cored_my_vial_on_the_first_injection_am_i_fucked/) by PsychroDraws in 2023 - *"Cored it with an 18g needle. Which I couldn’t get off the syringe to change to a 25g, so I tossed that one and redrew with a new one. Which I think got another piece of rubber in there. Wasn’t until after my first injection I found out I should have used a 22g. I fought for 2 months to get this shit and if I’ve ruined a $90 vial 20 minutes after getting it I’m gonna be so mad."*
-* [Drawing needle pushing vial lid particles into vial?<sup>R</sup>](https://www.reddit.com/r/AskMtFHRT/comments/127uy2z/drawing_needle_pushing_vial_lid_particles_into/) by nappynate in 2023
-* [black speck on side of estradiol cypionate vial?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/10rj334/black_speck_on_side_of_estradiol_cypionate_vial/) by hahaidkorsomething in 2023
-* [Bits of rubber in my estradiol vial<sup>R</sup>](https://www.reddit.com/r/AskMtFHRT/comments/wyw2zn/bits_of_rubber_in_my_estradiol_vial/) by  ReasonableQuality937 in 2022
-* [Multidose Vial stabbing techniques question<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/shvecz/multidose_vial_stabbing_techniques_question/) by FelicityJemmaCaitlin in 2022
-* [Floaties in my EV?<sup>R</sup>](https://www.reddit.com/r/AskMtFHRT/comments/m2ujpn/floaties_in_my_ev/) by elsiemaep20 in 2021
-* reply to [Part of vial stopper fell into vial<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/jlczst/part_of_vial_stopper_fell_into_vial/gap7isd/) by dodell616 in 2020
+* [Cored my vial on the first injection, am I fucked?](https://www.reddit.com/r/TransDIY/comments/14kl05c/cored_my_vial_on_the_first_injection_am_i_fucked/) by PsychroDraws in 2023 - *"Cored it with an 18g needle. Which I couldn’t get off the syringe to change to a 25g, so I tossed that one and redrew with a new one. Which I think got another piece of rubber in there. Wasn’t until after my first injection I found out I should have used a 22g. I fought for 2 months to get this shit and if I’ve ruined a $90 vial 20 minutes after getting it I’m gonna be so mad."*
+* [Drawing needle pushing vial lid particles into vial?](https://www.reddit.com/r/AskMtFHRT/comments/127uy2z/drawing_needle_pushing_vial_lid_particles_into/) by nappynate in 2023
+* [black speck on side of estradiol cypionate vial?](https://www.reddit.com/r/asktransgender/comments/10rj334/black_speck_on_side_of_estradiol_cypionate_vial/) by hahaidkorsomething in 2023
+* [Bits of rubber in my estradiol vial](https://www.reddit.com/r/AskMtFHRT/comments/wyw2zn/bits_of_rubber_in_my_estradiol_vial/) by  ReasonableQuality937 in 2022
+* [Multidose Vial stabbing techniques question](https://www.reddit.com/r/TransDIY/comments/shvecz/multidose_vial_stabbing_techniques_question/) by FelicityJemmaCaitlin in 2022
+* [Floaties in my EV?](https://www.reddit.com/r/AskMtFHRT/comments/m2ujpn/floaties_in_my_ev/) by elsiemaep20 in 2021
+* reply to [Part of vial stopper fell into vial](https://www.reddit.com/r/TransDIY/comments/jlczst/part_of_vial_stopper_fell_into_vial/gap7isd/) by dodell616 in 2020
 
 Other
 
@@ -302,7 +302,7 @@ Low deadspace syringe with standard needle | 45 µL
 
 reddit
 
-* [I'd highly recommend using insulin syringes when injecting low volumes due to their low dead space<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/146hffv/id_highly_recommend_using_insulin_syringes_when/) by 54702452 in 2023 - *"Since switching to injections a couple months ago I've been weighing my syringes at different points in the injection prep process using a milligram scale (an AWS GEMINI-20 specifically) to figure out the amount of fluid I've been losing to dead space, and from my measurements I gotta say I'd really recommend against using syringes with interchangeable needles if you're injecting low volumes due to the fluid wasted using them"*
+* [I'd highly recommend using insulin syringes when injecting low volumes due to their low dead space](https://www.reddit.com/r/TransDIY/comments/146hffv/id_highly_recommend_using_insulin_syringes_when/) by 54702452 in 2023 - *"Since switching to injections a couple months ago I've been weighing my syringes at different points in the injection prep process using a milligram scale (an AWS GEMINI-20 specifically) to figure out the amount of fluid I've been losing to dead space, and from my measurements I gotta say I'd really recommend against using syringes with interchangeable needles if you're injecting low volumes due to the fluid wasted using them"*
 * [Low Dead Space vs. Standard Syringe and Needle Comparison](https://www.youtube.com/watch?v=cV3s3FfFUTg) by Air-Tite Products in 2023 - note this video doesn't compare to low dead space syringes with built-in needles, i.e. insulin syringes, which I expect are even better
 * [Low dead space needles and syringes (full version)](https://www.youtube.com/watch?v=IHKYoR19rJQ) by NIHR ARC West in 2018
 
@@ -354,7 +354,7 @@ In practice the needle size for thick oils may need to be determined experimenta
 
 reddit
 
-* [suggest small correction to wiki<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/zb6t1y/suggest_small_correction_to_wiki/) by stradivari_strings in 2022
+* [suggest small correction to wiki](https://www.reddit.com/r/Transgender_Surgeries/comments/zb6t1y/suggest_small_correction_to_wiki/) by stradivari_strings in 2022
 
 Papers
 
@@ -413,10 +413,10 @@ Suppliers
 
 reddit
 
-* reply to [Subq form/ plunger question<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/zr3nss/subq_form_plunger_question/j1294sw/) by karasu48 in 2022
-* [\[PSA\] Auto-injectors are the future!!<sup>R</sup>](https://www.reddit.com/r/MtF/comments/zjd8pw/psa_autoinjectors_are_the_future/) by waffled_pancake in 2022 - *"My head would start to spin, I got nauseous, and I would almost pass out. Worst part was that it was making the next week's shot that much worse... Just did my first one using it and MY GOD was it easy!!!! My heart rate was through the roof hitting the button but the action was painless, the needle stayed vertical, and I didn't get nauseous once! If you have problems working up the courage to take your transmission fluid or if you're like me and almost pass out, then I HIGHLY recommend checking these things out!"*
-* [Looking for a fully automatic insulin pen<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/uk87ir/looking_for_a_fully_automatic_insulin_pen/) by lkm030 in 2022
-* [For anyone with fear of self injections, this auto-injector has been a game changer for me.<sup>R</sup>](https://www.reddit.com/r/ask_transgender/comments/e52zbc/for_anyone_with_fear_of_self_injections_this/) by MountainGirl2736 in 2020
+* reply to [Subq form/ plunger question](https://www.reddit.com/r/TransDIY/comments/zr3nss/subq_form_plunger_question/j1294sw/) by karasu48 in 2022
+* [\[PSA\] Auto-injectors are the future!!](https://www.reddit.com/r/MtF/comments/zjd8pw/psa_autoinjectors_are_the_future/) by waffled_pancake in 2022 - *"My head would start to spin, I got nauseous, and I would almost pass out. Worst part was that it was making the next week's shot that much worse... Just did my first one using it and MY GOD was it easy!!!! My heart rate was through the roof hitting the button but the action was painless, the needle stayed vertical, and I didn't get nauseous once! If you have problems working up the courage to take your transmission fluid or if you're like me and almost pass out, then I HIGHLY recommend checking these things out!"*
+* [Looking for a fully automatic insulin pen](https://www.reddit.com/r/TransDIY/comments/uk87ir/looking_for_a_fully_automatic_insulin_pen/) by lkm030 in 2022
+* [For anyone with fear of self injections, this auto-injector has been a game changer for me.](https://www.reddit.com/r/ask_transgender/comments/e52zbc/for_anyone_with_fear_of_self_injections_this/) by MountainGirl2736 in 2020
 
 YouTube
 
@@ -432,8 +432,8 @@ YouTube
 
 reddit
 
-* [Is airlock dangerous?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/10jkr1f/is_airlock_dangerous/) nu  BananaGullible in 2023
-* [accidentally got air in my leg am i screwed<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/xn3aml/accidentally_got_air_in_my_leg_am_i_screwed/) by BeenTo3Rodeos in 2023
+* [Is airlock dangerous?](https://www.reddit.com/r/TransDIY/comments/10jkr1f/is_airlock_dangerous/) nu  BananaGullible in 2023
+* [accidentally got air in my leg am i screwed](https://www.reddit.com/r/TransDIY/comments/xn3aml/accidentally_got_air_in_my_leg_am_i_screwed/) by BeenTo3Rodeos in 2023
 
 YouTube
 
@@ -516,9 +516,9 @@ The HumaPen Savvio is manufactured by Lilly, a subsidiary of Eli Lilly, as an in
 
 reddit
 
-* [Tutorial: How to front-fill 3mL cartridges at home<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/14uhp1w/tutorial_how_to_frontfill_3ml_cartridges_at_home/) by ImSuperDuperSerious in 2023
-* [Where to source 3mL cartridges for insulin pens?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/14htkk3/where_to_source_3ml_cartridges_for_insulin_pens/) by smiba in 2023 - in reply *"I asked Noire from Noirelabs and they recommended me the following: https://aliexpress.com/item/1005003205299022.html This is what they use and front-fill..."*, which is listed as *"20pcs 3ml Individual Packaging Cassette Insulin Bottle for Insulin Injection Pen"*, and *"I've traveled with this before without any additional security checks. Because the needles used for Insulin pens are up to 8mm (I use 5mm), they are not disallowed by most if not all airports."*
-* [OELabs Insulin Pen / Cartridges<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/urnab7/oelabs_insulin_pen_cartridges/) by WaitThisIsReddit in 2022
+* [Tutorial: How to front-fill 3mL cartridges at home](https://www.reddit.com/r/TransDIY/comments/14uhp1w/tutorial_how_to_frontfill_3ml_cartridges_at_home/) by ImSuperDuperSerious in 2023
+* [Where to source 3mL cartridges for insulin pens?](https://www.reddit.com/r/TransDIY/comments/14htkk3/where_to_source_3ml_cartridges_for_insulin_pens/) by smiba in 2023 - in reply *"I asked Noire from Noirelabs and they recommended me the following: https://aliexpress.com/item/1005003205299022.html This is what they use and front-fill..."*, which is listed as *"20pcs 3ml Individual Packaging Cassette Insulin Bottle for Insulin Injection Pen"*, and *"I've traveled with this before without any additional security checks. Because the needles used for Insulin pens are up to 8mm (I use 5mm), they are not disallowed by most if not all airports."*
+* [OELabs Insulin Pen / Cartridges](https://www.reddit.com/r/TransDIY/comments/urnab7/oelabs_insulin_pen_cartridges/) by WaitThisIsReddit in 2022
 
 YouTube
 
@@ -601,8 +601,8 @@ Lots of these from online suppliers like e-bay, Aliexpress, etc. Cheap.
 
 reddit
 
-* [r/HyaluronPen<sup>R</sup>](https://www.reddit.com/r/HyaluronPen)
-* [r/DIYCosmeticProcedures<sup>R</sup>](https://www.reddit.com/r/DIYCosmeticProcedures)
+* [r/HyaluronPen](https://www.reddit.com/r/HyaluronPen)
+* [r/DIYCosmeticProcedures](https://www.reddit.com/r/DIYCosmeticProcedures)
 
 YouTube
 
@@ -674,7 +674,7 @@ Filter needles are more expensive than normal needles. An example is US$10 for t
 
 reddit
 
-* [Glass Found in Syringe and Symptoms of PE APPEARS<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/1fx40oq/glass_found_in_syringe_and_symptoms_of_pe_appears/) by Chay___ in 2024 - *"I had injected my weekly dose of Estrogen as part of my HRT regime as a trans girl. To be honest, I wasn't really aware about the use of filter needle not until I saw glass shards inside the syringe I've used, like 2 or 3 particles? ... from an ampoule"*
+* [Glass Found in Syringe and Symptoms of PE APPEARS](https://www.reddit.com/r/asktransgender/comments/1fx40oq/glass_found_in_syringe_and_symptoms_of_pe_appears/) by Chay___ in 2024 - *"I had injected my weekly dose of Estrogen as part of my HRT regime as a trans girl. To be honest, I wasn't really aware about the use of filter needle not until I saw glass shards inside the syringe I've used, like 2 or 3 particles? ... from an ampoule"*
 
 YouTube
 
@@ -708,9 +708,9 @@ These are for safety. Personally, I don't think these are particulary benificial
 
 reddit
 
-* [retractable needle experience<sup>R</sup>](https://www.reddit.com/r/MtF/comments/1icg9sp/retractable_needle_experience/) by RicoSenju in 2025
-* ["Syringe needle came off inside me - intramuscular"<sup>R</sup>](https://www.reddit.com/r/MtF/comments/1fuzul3/syringe_needle_came_off_inside_me_intramuscular/) by lou_weed1997 in 2024 - *"If you came on Reddit because you're worried that your IM injection has gone horribly wrong, FIRST check if your needle packaging says "retractable." I just used one for the first time and it FREAKED me out. There's a popping sound and the needle appears to have disappeared under your skin. I had a full blown panic attack and had to go to the ER. I just got out. Luckily, I took a picture of the syringe/packaging and they didn't need to do anything. Thanks (pharmacy) for not telling me anything about how the syringe works and also selling me draw needles that don't fit! I hope someone can read this and breathe a sigh of relief that they don't have surgical steel implanted in them. I HATE RETRACTABLE SYRINGES."*
-* [TIFU When the Needle Disappeared.<sup>R</sup>](https://www.reddit.com/r/tifu/comments/g56lag/tifu_when_the_needle_disappeared/) around 2021 - *"... I give the shot- needle goes in and I hear a little suction noise and no needle comes out! Holy fck! In shock, i tell him his body (right butt area) sucked the needle into it! He went white as a sheet- We are both freaking as I’m frantically throwing clothes on telling him he’s going to have to stand upright through the sunroof on the way to the ER (since there is a 2 inch needle in his arse that would surely prevent any bending) my mind was racing with worrying that the needle would get sucked into his heart- after the crying and screaming subsides- standing over the sink, poised to yack he’s looking down at the packs of needles and reads on one of the packets that the needle is retractable and the noise was the needle going into the handle."*
+* [retractable needle experience](https://www.reddit.com/r/MtF/comments/1icg9sp/retractable_needle_experience/) by RicoSenju in 2025
+* ["Syringe needle came off inside me - intramuscular"](https://www.reddit.com/r/MtF/comments/1fuzul3/syringe_needle_came_off_inside_me_intramuscular/) by lou_weed1997 in 2024 - *"If you came on Reddit because you're worried that your IM injection has gone horribly wrong, FIRST check if your needle packaging says "retractable." I just used one for the first time and it FREAKED me out. There's a popping sound and the needle appears to have disappeared under your skin. I had a full blown panic attack and had to go to the ER. I just got out. Luckily, I took a picture of the syringe/packaging and they didn't need to do anything. Thanks (pharmacy) for not telling me anything about how the syringe works and also selling me draw needles that don't fit! I hope someone can read this and breathe a sigh of relief that they don't have surgical steel implanted in them. I HATE RETRACTABLE SYRINGES."*
+* [TIFU When the Needle Disappeared.](https://www.reddit.com/r/tifu/comments/g56lag/tifu_when_the_needle_disappeared/) around 2021 - *"... I give the shot- needle goes in and I hear a little suction noise and no needle comes out! Holy fck! In shock, i tell him his body (right butt area) sucked the needle into it! He went white as a sheet- We are both freaking as I’m frantically throwing clothes on telling him he’s going to have to stand upright through the sunroof on the way to the ER (since there is a 2 inch needle in his arse that would surely prevent any bending) my mind was racing with worrying that the needle would get sucked into his heart- after the crying and screaming subsides- standing over the sink, poised to yack he’s looking down at the packs of needles and reads on one of the packets that the needle is retractable and the noise was the needle going into the handle."*
 
 YouTube
 
@@ -726,7 +726,7 @@ When searching for side hole needles add irrigation into the search. e.g.
 
 reddit
 
-* [Side hole needles? Will those prevent coring?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/1dj2fue/side_hole_needles_will_those_prevent_coring/) by KrasnyHerman in 2024
+* [Side hole needles? Will those prevent coring?](https://www.reddit.com/r/TransDIY/comments/1dj2fue/side_hole_needles_will_those_prevent_coring/) by KrasnyHerman in 2024
 
 Papers
 
@@ -776,7 +776,7 @@ There's a number of safety oriented syringes, desiged to prevent needle stick in
 
 reddit
 
-* [PSA. Injury from HRT injection. Be careful when putting needle cap back on.<sup>R</sup>](https://www.reddit.com/r/trans/comments/rsahes/psa_injury_from_hrt_injection_be_careful_when/) by GwynGetsIt in 2021
+* [PSA. Injury from HRT injection. Be careful when putting needle cap back on.](https://www.reddit.com/r/trans/comments/rsahes/psa_injury_from_hrt_injection_be_careful_when/) by GwynGetsIt in 2021
 
 YouTube
 
@@ -787,7 +787,7 @@ YouTube
 
 reddit
 
-* reply to [reusing needle<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/14vl8yg/reusing_needle/jrdq9o5/) by Andrea_Stars in 2023 - note the part where she says *"... in my 20 years in emergency healthcare ..."*, some key points *"The main reason we have disposable needles is to stop you getting an infection FROM SOMEONE ELSE. If the needle has only been in you, and you handle it aseptically (i.e don't touch it) then its extremely unlikely to get contaminated other than by things that are already in you."* and *"Until about 1960 it was fairly common to sterilise and re-use needles and syringes in healthcare. In some places in the developing world it still is common."*
+* reply to [reusing needle](https://www.reddit.com/r/TransDIY/comments/14vl8yg/reusing_needle/jrdq9o5/) by Andrea_Stars in 2023 - note the part where she says *"... in my 20 years in emergency healthcare ..."*, some key points *"The main reason we have disposable needles is to stop you getting an infection FROM SOMEONE ELSE. If the needle has only been in you, and you handle it aseptically (i.e don't touch it) then its extremely unlikely to get contaminated other than by things that are already in you."* and *"Until about 1960 it was fairly common to sterilise and re-use needles and syringes in healthcare. In some places in the developing world it still is common."*
 
 Papers
 
@@ -797,7 +797,7 @@ Papers
 
 reddit
 
-* reply to [Is it okay to use a 2 ml syringe for a two-needle SubQ injection?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/1e1lf82/is_it_okay_to_use_a_2_ml_syringe_for_a_twoneedle/lcxdgu0/) by  plaintortilla11 in 2024 - *"As far as blunting during use goes... I've found that the brand/quality of insulin syringe matters FAR more than whether they've been used to draw before injecting. Under a microscope, I see no difference between a fresh needle and one that I've used to pierce a stopper, draw, pierce skin and inject... Now, I have a box of brand name Easy Touch insulin syringes that are less pleasant to use. They take more pressure to pierce the skin and they tend to drag on the way back out. The bag of no-name insulin syringes that the pharmacist handed me at the grocery store pharmacy don't do any of that and are great. There can be differences in manufacturing quality, such as whether they bevel the point in one slope, two, or sometimes even three... whether they coat the needle with a lubricant and whether they polish the bevels. I've used two needles, a single needle, and fixed needle insulin syringes. I don't notice any difference between a fresh single needle, and a good insulin syringe that has been used to draw the dose, but I DO notice lower quality needles that have never been used even once. Quality of the needle matters more than drawing with the same needle or swapping them. The bottom line is that I prefer the insulin syringes, I use 1/2 inch long needles, 27 gauge draws and injects more easily than 29 gauge, but 29 gauge is fine, just slower."*
+* reply to [Is it okay to use a 2 ml syringe for a two-needle SubQ injection?](https://www.reddit.com/r/TransDIY/comments/1e1lf82/is_it_okay_to_use_a_2_ml_syringe_for_a_twoneedle/lcxdgu0/) by  plaintortilla11 in 2024 - *"As far as blunting during use goes... I've found that the brand/quality of insulin syringe matters FAR more than whether they've been used to draw before injecting. Under a microscope, I see no difference between a fresh needle and one that I've used to pierce a stopper, draw, pierce skin and inject... Now, I have a box of brand name Easy Touch insulin syringes that are less pleasant to use. They take more pressure to pierce the skin and they tend to drag on the way back out. The bag of no-name insulin syringes that the pharmacist handed me at the grocery store pharmacy don't do any of that and are great. There can be differences in manufacturing quality, such as whether they bevel the point in one slope, two, or sometimes even three... whether they coat the needle with a lubricant and whether they polish the bevels. I've used two needles, a single needle, and fixed needle insulin syringes. I don't notice any difference between a fresh single needle, and a good insulin syringe that has been used to draw the dose, but I DO notice lower quality needles that have never been used even once. Quality of the needle matters more than drawing with the same needle or swapping them. The bottom line is that I prefer the insulin syringes, I use 1/2 inch long needles, 27 gauge draws and injects more easily than 29 gauge, but 29 gauge is fine, just slower."*
 
 ## History
 
@@ -835,7 +835,7 @@ Some examples are
 
 reddit
 
-* [QLD Needle & Syringe exchange program.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/lado6l/qld_needle_syringe_exchange_program/) by AdrianeXX in 2021
+* [QLD Needle & Syringe exchange program.](https://www.reddit.com/r/transgenderau/comments/lado6l/qld_needle_syringe_exchange_program/) by AdrianeXX in 2021
 
 <br />
 
@@ -847,7 +847,7 @@ Suppliers
 
 reddit
 
-* [great experience with ordering T needles from MAX ottawa!<sup>R</sup>](https://www.reddit.com/r/transontario/comments/tvfp7h/great_experience_with_ordering_t_needles_from_max/) by birdscales in 2022
+* [great experience with ordering T needles from MAX ottawa!](https://www.reddit.com/r/transontario/comments/tvfp7h/great_experience_with_ordering_t_needles_from_max/) by birdscales in 2022
 
 <br />
 
@@ -872,7 +872,7 @@ Suppliers
 
 reddit
 
-* [Syringes and needles?<sup>R</sup>](https://www.reddit.com/r/transnord/comments/14zkte6/syringes_and_needles/) by CowHater3000 in 2023
+* [Syringes and needles?](https://www.reddit.com/r/transnord/comments/14zkte6/syringes_and_needles/) by CowHater3000 in 2023
 
 Info sources
 
@@ -894,7 +894,7 @@ Info sources
 
 reddit
 
-* [Needles in EU?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/10p8fp0/needles_in_eu/) by Honest-Possession195 in 2023
+* [Needles in EU?](https://www.reddit.com/r/TransDIY/comments/10p8fp0/needles_in_eu/) by Honest-Possession195 in 2023
 
 <br />
 
@@ -907,7 +907,7 @@ Suppliers
 
 reddit
 
-* [Where to buy needles and what type to use?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/uab6pg/where_to_buy_needles_and_what_type_to_use/) by  softcatboy in 2022
+* [Where to buy needles and what type to use?](https://www.reddit.com/r/TransDIY/comments/uab6pg/where_to_buy_needles_and_what_type_to_use/) by  softcatboy in 2022
 
 Info sources
 
@@ -924,8 +924,8 @@ Suppliers
 
 reddit
 
-* [syringes/needles<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/1eqxjey/syringesneedles/) by throwawayballs776 in 2024
-* reply to [where can one buy injection supplies (everything other than the actual liquid) online for delivery in Germany?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/z1ufra/where_can_one_buy_injection_supplies_everything/ixfbr9l/) by Ryxn18 in 2022 - *"I used UKMEDI to Ireland delivery wasn’t expensive compared to others"*
+* [syringes/needles](https://www.reddit.com/r/TransDIY/comments/1eqxjey/syringesneedles/) by throwawayballs776 in 2024
+* reply to [where can one buy injection supplies (everything other than the actual liquid) online for delivery in Germany?](https://www.reddit.com/r/TransDIY/comments/z1ufra/where_can_one_buy_injection_supplies_everything/ixfbr9l/) by Ryxn18 in 2022 - *"I used UKMEDI to Ireland delivery wasn’t expensive compared to others"*
  
 
 <br />
@@ -1014,10 +1014,10 @@ Suppliers
 
 reddit
 
-* [Does anyone know where to buy syringe for t shots?<sup>R</sup>](https://www.reddit.com/r/transgenderUK/comments/z0zd67/does_anyone_know_where_to_buy_syringe_for_t_shots/) by Karis_T in 2022
-* [I went to a needle exchange for the first time! Here's how it went.<sup>R</sup>](https://www.reddit.com/r/transgenderUK/comments/uqyflb/i_went_to_a_needle_exchange_for_the_first_time/) by odious_odes in 2022 - *"All in all 10/10 would recommend, it was quick and easy to use the service, it was free, and I got SO MANY supplies."*
-* [Sterile supplies<sup>R</sup>](https://www.reddit.com/r/transgenderUK/comments/uon8xq/sterile_supplies/) by LukewarmCryptid in 2022
-* reply to [Those who inject, what kind of needles do you use?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/m5sz9g/those_who_inject_what_kind_of_needles_do_you_use/gr3n8hm/) by ZebedeeGirl in 2021
+* [Does anyone know where to buy syringe for t shots?](https://www.reddit.com/r/transgenderUK/comments/z0zd67/does_anyone_know_where_to_buy_syringe_for_t_shots/) by Karis_T in 2022
+* [I went to a needle exchange for the first time! Here's how it went.](https://www.reddit.com/r/transgenderUK/comments/uqyflb/i_went_to_a_needle_exchange_for_the_first_time/) by odious_odes in 2022 - *"All in all 10/10 would recommend, it was quick and easy to use the service, it was free, and I got SO MANY supplies."*
+* [Sterile supplies](https://www.reddit.com/r/transgenderUK/comments/uon8xq/sterile_supplies/) by LukewarmCryptid in 2022
+* reply to [Those who inject, what kind of needles do you use?](https://www.reddit.com/r/TransDIY/comments/m5sz9g/those_who_inject_what_kind_of_needles_do_you_use/gr3n8hm/) by ZebedeeGirl in 2021
 
 Info sources
 
@@ -1044,7 +1044,7 @@ Charity
 
 * https://transneedles.org - *"We are a non-profit mail-based service providing free HRT needle supplies for trans folk who cannot access or afford their own."*
 
-From the [r/transDIY<sup>R</sup>](https://www.reddit.com/r/transDIY) wiki entry [Buying needles and syringes online<sup>R</sup>](https://www.reddit.com/r/TransDIY/wiki/index#wiki_buying_needles_and_syringes_online) (so prescription should not be required)
+From the [r/transDIY](https://www.reddit.com/r/transDIY) wiki entry [Buying needles and syringes online](https://www.reddit.com/r/TransDIY/wiki/index#wiki_buying_needles_and_syringes_online) (so prescription should not be required)
 
 * https://westendmedicalsupplies.com/
 * https://www.medlabgear.com/
@@ -1057,7 +1057,7 @@ Sites
 
 reddit
 
-* [Where to order syringes and needles online?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/84rk7u/where_to_order_syringes_and_needles_online/) by iotafrogurt around 2018
+* [Where to order syringes and needles online?](https://www.reddit.com/r/asktransgender/comments/84rk7u/where_to_order_syringes_and_needles_online/) by iotafrogurt around 2018
 
 **ADW Diabetes**
 
@@ -1067,7 +1067,7 @@ Sites
 
 reddit
 
-* [Where to order syringes and needles online?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/84rk7u/where_to_order_syringes_and_needles_online/) by iotafrogurt around 2018
+* [Where to order syringes and needles online?](https://www.reddit.com/r/asktransgender/comments/84rk7u/where_to_order_syringes_and_needles_online/) by iotafrogurt around 2018
 
 **GPZ Med Lab**
 
@@ -1077,8 +1077,8 @@ Sites
 
 reddit
 
-* reply to [does anyone know a good website to bulk order needles?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/t4nzyz/does_anyone_know_a_good_website_to_bulk_order/hyzpfbi/) by SyntrophicConsortium in 2022
-* [So, where are you supposed to get syringes?<sup>R</sup>](https://www.reddit.com/r/Nootropics/comments/6sgrgs/so_where_are_you_supposed_to_get_syringes/) around 2017
+* reply to [does anyone know a good website to bulk order needles?](https://www.reddit.com/r/asktransgender/comments/t4nzyz/does_anyone_know_a_good_website_to_bulk_order/hyzpfbi/) by SyntrophicConsortium in 2022
+* [So, where are you supposed to get syringes?](https://www.reddit.com/r/Nootropics/comments/6sgrgs/so_where_are_you_supposed_to_get_syringes/) around 2017
 
 **Health Care Supply Pros**
 
@@ -1088,7 +1088,7 @@ Sites
 
 reddit
 
-* reply to [needle and syringe sources???<sup>R</sup>](https://www.reddit.com/r/PEDs/comments/uogky3/needle_and_syringe_sources/i8fz35e/) in 2022 - *" Prices seemed good and shipping was super fast, talking like 1-3 days."*
+* reply to [needle and syringe sources???](https://www.reddit.com/r/PEDs/comments/uogky3/needle_and_syringe_sources/i8fz35e/) in 2022 - *" Prices seemed good and shipping was super fast, talking like 1-3 days."*
 
 **Healthykin**
 
@@ -1098,11 +1098,11 @@ Sites
 
 reddit
 
-* [Don't use healthykin for supplies<sup>R</sup>](https://www.reddit.com/r/FTMMen/comments/jfh5kw/dont_use_healthykin_for_supplies/) by CrowleyDarkMode in 2020
-* [Seeking recommendations on places to buy needles and syringes online (US/California)<sup>R</sup>](https://www.reddit.com/r/ftm/comments/j2rvpw/seeking_recommendations_on_places_to_buy_needles/) by QuillTheQueer in 2020
-* [Medical Supply Needles<sup>R</sup>](https://www.reddit.com/r/FTMOver30/comments/j47uvu/medical_supply_needles/) by hyacinth_house in 2020
-* [Where to order syringes and needles online?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/84rk7u/where_to_order_syringes_and_needles_online/) by iotafrogurt around 2018
-* [Where to buy needles in bulk online for cheap?<sup>R</sup>](https://www.reddit.com/r/ftm/comments/62gp0y/where_to_buy_needles_in_bulk_online_for_cheap/) by TheLonelyCloud around 2017
+* [Don't use healthykin for supplies](https://www.reddit.com/r/FTMMen/comments/jfh5kw/dont_use_healthykin_for_supplies/) by CrowleyDarkMode in 2020
+* [Seeking recommendations on places to buy needles and syringes online (US/California)](https://www.reddit.com/r/ftm/comments/j2rvpw/seeking_recommendations_on_places_to_buy_needles/) by QuillTheQueer in 2020
+* [Medical Supply Needles](https://www.reddit.com/r/FTMOver30/comments/j47uvu/medical_supply_needles/) by hyacinth_house in 2020
+* [Where to order syringes and needles online?](https://www.reddit.com/r/asktransgender/comments/84rk7u/where_to_order_syringes_and_needles_online/) by iotafrogurt around 2018
+* [Where to buy needles in bulk online for cheap?](https://www.reddit.com/r/ftm/comments/62gp0y/where_to_buy_needles_in_bulk_online_for_cheap/) by TheLonelyCloud around 2017
  
 
 **Mainland Medical Supply**
@@ -1110,14 +1110,14 @@ reddit
 Sites
 
 * http://mainlandmedicalsupply.com/
-* [Where to order syringes and needles online?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/84rk7u/where_to_order_syringes_and_needles_online/) by iotafrogurt around 2018
+* [Where to order syringes and needles online?](https://www.reddit.com/r/asktransgender/comments/84rk7u/where_to_order_syringes_and_needles_online/) by iotafrogurt around 2018
 
 **Med-Vet International**
 
 Sites
 
 * https://www.shopmedvet.com/
-* [Where to order syringes and needles online?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/84rk7u/where_to_order_syringes_and_needles_online/) by iotafrogurt around 2018
+* [Where to order syringes and needles online?](https://www.reddit.com/r/asktransgender/comments/84rk7u/where_to_order_syringes_and_needles_online/) by iotafrogurt around 2018
 
 **Westend Medical Supplies**
 
@@ -1148,7 +1148,7 @@ If you get your HRT in a glass ampule its intended for single use only and the r
 
 reddit
 
-* [Can you store estradiol in syringes?<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/ka1bts/can_you_store_estradiol_in_syringes/) by kalani96746 in 2020
+* [Can you store estradiol in syringes?](https://www.reddit.com/r/DrWillPowers/comments/ka1bts/can_you_store_estradiol_in_syringes/) by kalani96746 in 2020
 
 SJJ Solutions
 
@@ -1174,7 +1174,7 @@ affect filler shelf life. To what extent filler shelf life is affected by the de
 
 reddit
 
-* [How do I get rid of needles if I am self medicating<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/kmpsfn/how_do_i_get_rid_of_needles_if_i_am_self/) by Apicado in 2020
+* [How do I get rid of needles if I am self medicating](https://www.reddit.com/r/TransDIY/comments/kmpsfn/how_do_i_get_rid_of_needles_if_i_am_self/) by Apicado in 2020
 
 YouTube
 
@@ -1188,7 +1188,7 @@ YouTube
 
 reddit
 
-* [Disposing of sharps discreetly?<sup>R</sup>](https://www.reddit.com/r/transgenderUK/comments/u22qsh/disposing_of_sharps_discreetly/) by FutureCookies in 2022
+* [Disposing of sharps discreetly?](https://www.reddit.com/r/transgenderUK/comments/u22qsh/disposing_of_sharps_discreetly/) by FutureCookies in 2022
 
 ## USA
 

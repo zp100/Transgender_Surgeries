@@ -22,7 +22,7 @@ See also
 * <span class="internal">[Telehealth](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md#telehealth)</span> - Doctors who work on line prescribing across Australia
 * Wiki entry <span class="internal">[Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)</span>
 * Trans Health Australia [Medical Practitioners in NSW / ACT](http://www.transhealthaustralia.org/index.php/nsw-act/3-medical-practitioners-nsw-act)
-* /r/transgenderau [wiki for ACT & NSW<sup>R</sup>](https://www.reddit.com/r/transgenderau/wiki/resources-nsw)
+* /r/transgenderau [wiki for ACT & NSW](https://www.reddit.com/r/transgenderau/wiki/resources-nsw)
 * https://genderrights.org.au/aga-event/friday-centre-12/ - *"Friday Centre. Peer navigation service that assists trans and gender diverse communities with information and referrals. "*
 * Skype consults, see Bel Gardon (Telehealth) in NSW.
 * https://docdir.org.au - *"DocDir is an Australia-wide directory of LGBTQ+ inclusive clinicians and services."*
@@ -69,13 +69,13 @@ Key details
 
 reddit
 
-* [HRT in act?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hpk67j/hrt_in_act/) by Emily_Nova847 in 2020
-* [E in Canberra<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gnlcov/e_in_canberra/) by poopybuttholeslol in 2020
-* [Moving to the ACT<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/elkwuq/moving_to_the_act/) by admiralgropes in 2020
-* [Informed consent GPs in Canberra<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cb8sng/informed_consent_gps_in_canberra/) by xersylla in 2019
-* [Informed consent in Canberra?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e93wcb/informed_consent_in_canberra/) by Diana1237473 in 2019
-* [I went to a doctor in Canberra, more details within :)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/bxcxri/i_went_to_a_doctor_in_canberra_more_details_within/) by DEUS_gif in 2019
-* [I need help with steps i should take<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/a54q9v/i_need_help_with_steps_i_should_take/) by DEUS_gif in 2019
+* [HRT in act?](https://www.reddit.com/r/transgenderau/comments/hpk67j/hrt_in_act/) by Emily_Nova847 in 2020
+* [E in Canberra](https://www.reddit.com/r/transgenderau/comments/gnlcov/e_in_canberra/) by poopybuttholeslol in 2020
+* [Moving to the ACT](https://www.reddit.com/r/transgenderau/comments/elkwuq/moving_to_the_act/) by admiralgropes in 2020
+* [Informed consent GPs in Canberra](https://www.reddit.com/r/transgenderau/comments/cb8sng/informed_consent_gps_in_canberra/) by xersylla in 2019
+* [Informed consent in Canberra?](https://www.reddit.com/r/transgenderau/comments/e93wcb/informed_consent_in_canberra/) by Diana1237473 in 2019
+* [I went to a doctor in Canberra, more details within :)](https://www.reddit.com/r/transgenderau/comments/bxcxri/i_went_to_a_doctor_in_canberra_more_details_within/) by DEUS_gif in 2019
+* [I need help with steps i should take](https://www.reddit.com/r/transgenderau/comments/a54q9v/i_need_help_with_steps_i_should_take/) by DEUS_gif in 2019
 
 <br />
 
@@ -91,10 +91,10 @@ Key details
 
 reddit
 
-* [How to start transitioning (live in Canberra)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qqshb5/how_to_start_transitioning_live_in_canberra/) by Silly-Sympathy6900 in 2021
-* reply to [E in Canberra<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gnlcov/e_in_canberra/frbnyh7/) by Ally-SR in 2020 - *"not taking new patients"*
-* [Informed consent GPs in Canberra<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cb8sng/informed_consent_gps_in_canberra/) by xersylla in 2019
-* [I need help with steps i should take<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/a54q9v/i_need_help_with_steps_i_should_take/) by DEUS_gif in 2019
+* [How to start transitioning (live in Canberra)](https://www.reddit.com/r/transgenderau/comments/qqshb5/how_to_start_transitioning_live_in_canberra/) by Silly-Sympathy6900 in 2021
+* reply to [E in Canberra](https://www.reddit.com/r/transgenderau/comments/gnlcov/e_in_canberra/frbnyh7/) by Ally-SR in 2020 - *"not taking new patients"*
+* [Informed consent GPs in Canberra](https://www.reddit.com/r/transgenderau/comments/cb8sng/informed_consent_gps_in_canberra/) by xersylla in 2019
+* [I need help with steps i should take](https://www.reddit.com/r/transgenderau/comments/a54q9v/i_need_help_with_steps_i_should_take/) by DEUS_gif in 2019
 
 Other links
 
@@ -117,9 +117,9 @@ Key details
 
 reddit
 
-* reply to [E in Canberra<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gnlcov/e_in_canberra/frbnyh7/) by Ally-SR in 2020 - *"not taking new patients"*
-* [I need help with steps i should take<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/a54q9v/i_need_help_with_steps_i_should_take/) by DEUS_gif in 2019 - *"Dr Tuck Meng Soo operates on an informed consent basis"*
-* [How fast before approval is given for HRT in Canberra?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/4jpama/how_fast_before_approval_is_given_for_hrt_in/) by cuddle-bubbles around 2017
+* reply to [E in Canberra](https://www.reddit.com/r/transgenderau/comments/gnlcov/e_in_canberra/frbnyh7/) by Ally-SR in 2020 - *"not taking new patients"*
+* [I need help with steps i should take](https://www.reddit.com/r/transgenderau/comments/a54q9v/i_need_help_with_steps_i_should_take/) by DEUS_gif in 2019 - *"Dr Tuck Meng Soo operates on an informed consent basis"*
+* [How fast before approval is given for HRT in Canberra?](https://www.reddit.com/r/transgenderau/comments/4jpama/how_fast_before_approval_is_given_for_hrt_in/) by cuddle-bubbles around 2017
 
 Other links
 
@@ -147,7 +147,7 @@ Key details
 
 reddit
 
-* [Looking for information on doctor in Cenberra. (Dr. Yen Khor)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/107fth1/looking_for_information_on_doctor_in_cenberra_dr/) by Kagebowate23 in 2023
+* [Looking for information on doctor in Cenberra. (Dr. Yen Khor)](https://www.reddit.com/r/transgenderau/comments/107fth1/looking_for_information_on_doctor_in_cenberra_dr/) by Kagebowate23 in 2023
 
 <br />
 
@@ -165,9 +165,9 @@ Key details
 
 reddit
 
-* [\[ACT\] Two big thumbs up for Dr Karan Elliott, East Canberra General Practice<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jjxc4q/act_two_big_thumbs_up_for_dr_karan_elliott_east/) by Im_100_Percent_Cisss in 2020
-* [HRT - informed consent in Canberra<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/iv38s7/hrt_informed_consent_in_canberra/) by ZoeyTheComposer in 2020
-* [HRT in act?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hpk67j/hrt_in_act/) by Emily_Nova847 in 2020
+* [\[ACT\] Two big thumbs up for Dr Karan Elliott, East Canberra General Practice](https://www.reddit.com/r/transgenderau/comments/jjxc4q/act_two_big_thumbs_up_for_dr_karan_elliott_east/) by Im_100_Percent_Cisss in 2020
+* [HRT - informed consent in Canberra](https://www.reddit.com/r/transgenderau/comments/iv38s7/hrt_informed_consent_in_canberra/) by ZoeyTheComposer in 2020
+* [HRT in act?](https://www.reddit.com/r/transgenderau/comments/hpk67j/hrt_in_act/) by Emily_Nova847 in 2020
 
 Was previously at East Canberra General Practice
 
@@ -194,8 +194,8 @@ Key details
 
 reddit
 
-* [Moving to the ACT<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/elkwuq/moving_to_the_act/) by admiralgropes in 2020
-* [Psychologist recs in ACT?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cjktel/psychologist_recs_in_act/) by LanCalimon in 2019
+* [Moving to the ACT](https://www.reddit.com/r/transgenderau/comments/elkwuq/moving_to_the_act/) by admiralgropes in 2020
+* [Psychologist recs in ACT?](https://www.reddit.com/r/transgenderau/comments/cjktel/psychologist_recs_in_act/) by LanCalimon in 2019
 
 Other links
 
@@ -207,7 +207,7 @@ Other links
 
 # Lisa Watson
 
-***[Retired<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gnlcov/e_in_canberra/frbnyh7/)*** - not sure this is correct
+***[Retired](https://www.reddit.com/r/transgenderau/comments/gnlcov/e_in_canberra/frbnyh7/)*** - not sure this is correct
 
 Key details
 
@@ -216,10 +216,10 @@ Key details
 
 reddit
 
-* [Saw a new doctor today<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/x0kdde/saw_a_new_doctor_today/) ototoxicity in 2022 - *"... she brought up my previous struggles with mental health (depression and anxiety, primarily) and said that because of those issues, she wasn't sure that I could give informed consent..."*
-* reply to [E in Canberra<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gnlcov/e_in_canberra/frbnyh7/) by Ally-SR in 2020 - *"I tried to see Lisa Watson, but she retired a couple of weeks ago. She was actually the first transwoman in Australia to graduate as a Dr. Dr Louise Kenyon is taking over from her."*
-* [Dr Karan Elliot, Canberra, informed consent? Need help<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/evhnw7/dr_karan_elliot_canberra_informed_consent_need/) by Diana1237473 in 2020
-* [Informed consent in Canberra?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e93wcb/informed_consent_in_canberra/) by Diana1237473 in 2019
+* [Saw a new doctor today](https://www.reddit.com/r/transgenderau/comments/x0kdde/saw_a_new_doctor_today/) ototoxicity in 2022 - *"... she brought up my previous struggles with mental health (depression and anxiety, primarily) and said that because of those issues, she wasn't sure that I could give informed consent..."*
+* reply to [E in Canberra](https://www.reddit.com/r/transgenderau/comments/gnlcov/e_in_canberra/frbnyh7/) by Ally-SR in 2020 - *"I tried to see Lisa Watson, but she retired a couple of weeks ago. She was actually the first transwoman in Australia to graduate as a Dr. Dr Louise Kenyon is taking over from her."*
+* [Dr Karan Elliot, Canberra, informed consent? Need help](https://www.reddit.com/r/transgenderau/comments/evhnw7/dr_karan_elliot_canberra_informed_consent_need/) by Diana1237473 in 2020
+* [Informed consent in Canberra?](https://www.reddit.com/r/transgenderau/comments/e93wcb/informed_consent_in_canberra/) by Diana1237473 in 2019
 
 Other links
 
@@ -239,8 +239,8 @@ Key details
 
 reddit
 
-* [HRT - informed consent in Canberra<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/iv38s7/hrt_informed_consent_in_canberra/) by ZoeyTheComposer in 2020
-* reply to [E in Canberra<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gnlcov/e_in_canberra/frbnyh7/) by Ally-SR in 2020
+* [HRT - informed consent in Canberra](https://www.reddit.com/r/transgenderau/comments/iv38s7/hrt_informed_consent_in_canberra/) by ZoeyTheComposer in 2020
+* reply to [E in Canberra](https://www.reddit.com/r/transgenderau/comments/gnlcov/e_in_canberra/frbnyh7/) by Ally-SR in 2020
 
 <br />
 
@@ -254,8 +254,8 @@ Key details
 
 reddit
 
-* [Moving to the ACT<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/elkwuq/moving_to_the_act/) by admiralgropes in 2020
-* [Informed consent in Canberra?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e93wcb/informed_consent_in_canberra/) by Diana1237473 in 2019
+* [Moving to the ACT](https://www.reddit.com/r/transgenderau/comments/elkwuq/moving_to_the_act/) by admiralgropes in 2020
+* [Informed consent in Canberra?](https://www.reddit.com/r/transgenderau/comments/e93wcb/informed_consent_in_canberra/) by Diana1237473 in 2019
 
 Other links
 
@@ -314,7 +314,7 @@ Key details
 
 reddit
 
-* [Bulk billing HRT in Canberra?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ich8vq/bulk_billing_hrt_in_canberra/) by poopybuttholeslol in 2020
+* [Bulk billing HRT in Canberra?](https://www.reddit.com/r/transgenderau/comments/ich8vq/bulk_billing_hrt_in_canberra/) by poopybuttholeslol in 2020
 
 <br />
 
@@ -330,8 +330,8 @@ Key details
 
 reddit
 
-* [GP recommendations in Canberra?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/mkmi7s/gp_recommendations_in_canberra/) by Local_Pianist905 in 2021
-* [HRT - informed consent in Canberra<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/iv38s7/hrt_informed_consent_in_canberra/) by ZoeyTheComposer in 2020
+* [GP recommendations in Canberra?](https://www.reddit.com/r/transgenderau/comments/mkmi7s/gp_recommendations_in_canberra/) by Local_Pianist905 in 2021
+* [HRT - informed consent in Canberra](https://www.reddit.com/r/transgenderau/comments/iv38s7/hrt_informed_consent_in_canberra/) by ZoeyTheComposer in 2020
 
 <br />
 
@@ -348,7 +348,7 @@ Key details
 
 reddit
 
-* [Experience:does anyone have experience with dr Andrew crossman<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/n58mnp/experiencedoes_anyone_have_experience_with_dr/) by Redditor-101-101 in 2021
+* [Experience:does anyone have experience with dr Andrew crossman](https://www.reddit.com/r/transgenderau/comments/n58mnp/experiencedoes_anyone_have_experience_with_dr/) by Redditor-101-101 in 2021
 
 Other
 
@@ -368,7 +368,7 @@ Key details
 
 reddit
 
-* [How to start transitioning (live in Canberra)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qqshb5/how_to_start_transitioning_live_in_canberra/hk81e7t/) by Silly-Sympathy6900 in 2021
+* [How to start transitioning (live in Canberra)](https://www.reddit.com/r/transgenderau/comments/qqshb5/how_to_start_transitioning_live_in_canberra/hk81e7t/) by Silly-Sympathy6900 in 2021
 
 <br />
 

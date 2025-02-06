@@ -116,7 +116,7 @@ They have stated they have two patients with with supraphysiological oestradiol 
 
 # reddit
 
-* reply to [Pellet implant for estradiol questions<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/htv5bo/pellet_implant_for_estradiol_questions/fzld2b2/) by glmdl in 2020
+* reply to [Pellet implant for estradiol questions](https://www.reddit.com/r/DrWillPowers/comments/htv5bo/pellet_implant_for_estradiol_questions/fzld2b2/) by glmdl in 2020
 
 ---
 

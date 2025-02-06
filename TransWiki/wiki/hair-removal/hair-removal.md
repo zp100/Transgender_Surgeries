@@ -49,7 +49,7 @@ Papers
 
 reddit
 
-* [Urgent question, where does the beard stop and sideburns begin?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/f3okfi/urgent_question_where_does_the_beard_stop_and/) by Marissa_Calm in 2020
+* [Urgent question, where does the beard stop and sideburns begin?](https://www.reddit.com/r/asktransgender/comments/f3okfi/urgent_question_where_does_the_beard_stop_and/) by Marissa_Calm in 2020
 
 ### Body Hair
 
@@ -57,7 +57,7 @@ The standard approach to removing body hair is laser hair removal. HRT will redu
 
 reddit
 
-* [Questions regarding body hair removal<sup>R</sup>](https://www.reddit.com/r/MtF/comments/eon0o3/questions_regarding_body_hair_removal/) by ClipClapCat in 2020
+* [Questions regarding body hair removal](https://www.reddit.com/r/MtF/comments/eon0o3/questions_regarding_body_hair_removal/) by ClipClapCat in 2020
 
 ---
 
@@ -79,12 +79,12 @@ Electrolysis is guaranteed. At the end of it your hair will be gone and it won't
 
 reddit
 
-* [Has progesterone fucked up my hair removal?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10hbcke/has_progesterone_fucked_up_my_hair_removal/) by  Terminalguidance000 in 2023
-* reply to [I can't handle electrolysis, it hurts so much... I'm crying...<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vf1twk/i_cant_handle_electrolysis_it_hurts_so_much_im/icwd1al/) by charlotte_aurora in 2022
-* [Electrolysis or Laser Hair Removal on Legs??<sup>R</sup>](https://www.reddit.com/r/transontario/comments/gbnie0/electrolysis_or_laser_hair_removal_on_legs/) by galayogeda in 2020
-* [transwomen who went through (facial) laser hair removal years ago, does it actually work?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/ehyyf6/transwomen_who_went_through_facial_laser_hair/) by 7kgs in 2020
-* [The age old question. Electro Vs Laser<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/6edpzq/the_age_old_question_electro_vs_laser/) by Sokolovac in 2017
-* reply to [ELectrolysis AMA by transgender Certified Electrologist ( back to school edition)<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/6x03c0/electrolysis_ama_by_transgender_certified/dmcvf5o/) by SeanaTG
+* [Has progesterone fucked up my hair removal?](https://www.reddit.com/r/Transgender_Surgeries/comments/10hbcke/has_progesterone_fucked_up_my_hair_removal/) by  Terminalguidance000 in 2023
+* reply to [I can't handle electrolysis, it hurts so much... I'm crying...](https://www.reddit.com/r/Transgender_Surgeries/comments/vf1twk/i_cant_handle_electrolysis_it_hurts_so_much_im/icwd1al/) by charlotte_aurora in 2022
+* [Electrolysis or Laser Hair Removal on Legs??](https://www.reddit.com/r/transontario/comments/gbnie0/electrolysis_or_laser_hair_removal_on_legs/) by galayogeda in 2020
+* [transwomen who went through (facial) laser hair removal years ago, does it actually work?](https://www.reddit.com/r/asktransgender/comments/ehyyf6/transwomen_who_went_through_facial_laser_hair/) by 7kgs in 2020
+* [The age old question. Electro Vs Laser](https://www.reddit.com/r/asktransgender/comments/6edpzq/the_age_old_question_electro_vs_laser/) by Sokolovac in 2017
+* reply to [ELectrolysis AMA by transgender Certified Electrologist ( back to school edition)](https://www.reddit.com/r/asktransgender/comments/6x03c0/electrolysis_ama_by_transgender_certified/dmcvf5o/) by SeanaTG
 
 ---
 
@@ -94,12 +94,12 @@ TBA. What laser cannot do.
 
 reddit
 
-* [r/LaserDamageSupport<sup>R</sup>](https://www.reddit.com/r/LaserDamageSupport)
-* [Is this normal after lazer؟<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/109x0p5/is_this_normal_after_lazer/) by Honest-Possession195 in 2023
-* [Laser hair removal results after 12 sessions. Each photo represents about 3-4 days regrowth.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/xvqxnn/laser_hair_removal_results_after_12_sessions_each/) by MarlaRei_Durden48 in 2022
-* [How to avoid scars and burns with laser beard removal?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jbnycr/how_to_avoid_scars_and_burns_with_laser_beard/) by stnkl94 in 2020
-* [3 sessions of laser hair removal<sup>R</sup>](https://www.reddit.com/r/transtimelines/comments/i5p6vb/3_sessions_of_laser_hair_removal/) by leejennifer1990 in 2020
-* [Hair removal before GRS?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/6fstpl/hair_removal_before_grs/) around 2017
+* [r/LaserDamageSupport](https://www.reddit.com/r/LaserDamageSupport)
+* [Is this normal after lazer؟](https://www.reddit.com/r/Transgender_Surgeries/comments/109x0p5/is_this_normal_after_lazer/) by Honest-Possession195 in 2023
+* [Laser hair removal results after 12 sessions. Each photo represents about 3-4 days regrowth.](https://www.reddit.com/r/Transgender_Surgeries/comments/xvqxnn/laser_hair_removal_results_after_12_sessions_each/) by MarlaRei_Durden48 in 2022
+* [How to avoid scars and burns with laser beard removal?](https://www.reddit.com/r/Transgender_Surgeries/comments/jbnycr/how_to_avoid_scars_and_burns_with_laser_beard/) by stnkl94 in 2020
+* [3 sessions of laser hair removal](https://www.reddit.com/r/transtimelines/comments/i5p6vb/3_sessions_of_laser_hair_removal/) by leejennifer1990 in 2020
+* [Hair removal before GRS?](https://www.reddit.com/r/asktransgender/comments/6fstpl/hair_removal_before_grs/) around 2017
 
 YouTube
 
@@ -134,9 +134,9 @@ Also called Paradoxical hypertrichosis
 
 reddit
 
-* [Laser ruined my face and I'm frustrated at my struggle with facial hair<sup>R</sup>](https://www.reddit.com/r/HairRemoval/comments/v1a05y/laser_ruined_my_face_and_im_frustrated_at_my/) in 2022 - cis women *"At 16, I got laser hair removal done for my very thick sideburns. My laser-tech at the time said she's also going to do my chin, jawline and neck. I only had insignificant, light colored peach fuzz in those areas. My dark, thick sideburns completely went away after 5 sessions. But now I have very dark, thick and stubborn hairs growing on my chin, jaw and neck areas."*
-* reply to [Hair removal before GRS?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/6fstpl/hair_removal_before_grs/dilaopo/) by SeanaTG around 2017
-* [Induced Hair Growth?<sup>R</sup>](https://www.reddit.com/r/HairRemoval/comments/6zzay3/induced_hair_growth/) around 2017
+* [Laser ruined my face and I'm frustrated at my struggle with facial hair](https://www.reddit.com/r/HairRemoval/comments/v1a05y/laser_ruined_my_face_and_im_frustrated_at_my/) in 2022 - cis women *"At 16, I got laser hair removal done for my very thick sideburns. My laser-tech at the time said she's also going to do my chin, jawline and neck. I only had insignificant, light colored peach fuzz in those areas. My dark, thick sideburns completely went away after 5 sessions. But now I have very dark, thick and stubborn hairs growing on my chin, jaw and neck areas."*
+* reply to [Hair removal before GRS?](https://www.reddit.com/r/asktransgender/comments/6fstpl/hair_removal_before_grs/dilaopo/) by SeanaTG around 2017
+* [Induced Hair Growth?](https://www.reddit.com/r/HairRemoval/comments/6zzay3/induced_hair_growth/) around 2017
 
 Other
 
@@ -156,7 +156,7 @@ Laser works best with dark hair and light skin. It doesn't work on white or red 
 
 reddit
 
-* [Very unlucky in my surgeries<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ehqni1/very_unlucky_in_my_surgeries/) by g1ng3ral3 in 2019
+* [Very unlucky in my surgeries](https://www.reddit.com/r/Transgender_Surgeries/comments/ehqni1/very_unlucky_in_my_surgeries/) by g1ng3ral3 in 2019
 
 <br />
 
@@ -164,8 +164,8 @@ reddit
 
 reddit
 
-* [Thermolysis disaster (I want my face back)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1eambqd/thermolysis_disaster_i_want_my_face_back/) by No_Way118 in 2024
-* [Professional laser hair removal burns on 3rd & 4th treatment. Technician says it normal. Anyone else experience this?<sup>R</sup>](https://www.reddit.com/r/HairRemoval/comments/niyvi7/professional_laser_hair_removal_burns_on_3rd_4th/)
+* [Thermolysis disaster (I want my face back)](https://www.reddit.com/r/Transgender_Surgeries/comments/1eambqd/thermolysis_disaster_i_want_my_face_back/) by No_Way118 in 2024
+* [Professional laser hair removal burns on 3rd & 4th treatment. Technician says it normal. Anyone else experience this?](https://www.reddit.com/r/HairRemoval/comments/niyvi7/professional_laser_hair_removal_burns_on_3rd_4th/)
 
 <br />
 
@@ -177,7 +177,7 @@ IPL is generally not effective and a waste of time and money, however a few peop
 
 reddit
 
-* [Braun Silk-Expert Pro 5 IPL Review<sup>R</sup>](https://www.reddit.com/r/MtF/comments/gdzvjd/braun_silkexpert_pro_5_ipl_review/) by stellainsecret in 2020
+* [Braun Silk-Expert Pro 5 IPL Review](https://www.reddit.com/r/MtF/comments/gdzvjd/braun_silkexpert_pro_5_ipl_review/) by stellainsecret in 2020
 
 <br />
 
@@ -191,14 +191,14 @@ HairFacts
 
 reddit
 
-* [I had a short session of thermolysis electrolysis almost a week ago. Is this normal healing?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10ew4oa/i_had_a_short_session_of_thermolysis_electrolysis/) by daveydave1987 in 2023
-* [Are these electrolysis effects normal? Yellow discharge and white bumps. I used Bacitracin per electro's recommendation; was careful not to touch. Photos 1 day after treatment, before and after cleaning the area. Thanks!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/t1jtoo/are_these_electrolysis_effects_normal_yellow/) by hemisana in 2022
-* [What they don't tell you about electrolysis<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/mok9n4/what_they_dont_tell_you_about_electrolysis/) by UptownGworl in 2021
-* [help making blonde hair more visible for electrolysis?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jg62sq/help_making_blonde_hair_more_visible_for/) by SeaWatermelonlesson7 in 2020
-* [Electrolysis and seasonal hair growth<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/jag1yt/electrolysis_and_seasonal_hair_growth/) by  ChristieWo in 2020 - *"have had over 450 hours of electrolysis in about the last 3 and a half years"*
-* [Facial Hair Removal without HRT?<sup>R</sup>](https://www.reddit.com/r/AskMtFHRT/comments/epyjjz/facial_hair_removal_without_hrt/) by throwaway14235173 in 2020
-* [Tattoos & Permanent Hair Removal?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/epssto/tattoos_permanent_hair_removal/) by SylviaPearl in 2020
-* [Ingrown hairs on neck after electrolysis....<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/cfvp7x/ingrown_hairs_on_neck_after_electrolysis/) by cavy20199 in 2019
+* [I had a short session of thermolysis electrolysis almost a week ago. Is this normal healing?](https://www.reddit.com/r/Transgender_Surgeries/comments/10ew4oa/i_had_a_short_session_of_thermolysis_electrolysis/) by daveydave1987 in 2023
+* [Are these electrolysis effects normal? Yellow discharge and white bumps. I used Bacitracin per electro's recommendation; was careful not to touch. Photos 1 day after treatment, before and after cleaning the area. Thanks!](https://www.reddit.com/r/Transgender_Surgeries/comments/t1jtoo/are_these_electrolysis_effects_normal_yellow/) by hemisana in 2022
+* [What they don't tell you about electrolysis](https://www.reddit.com/r/Transgender_Surgeries/comments/mok9n4/what_they_dont_tell_you_about_electrolysis/) by UptownGworl in 2021
+* [help making blonde hair more visible for electrolysis?](https://www.reddit.com/r/Transgender_Surgeries/comments/jg62sq/help_making_blonde_hair_more_visible_for/) by SeaWatermelonlesson7 in 2020
+* [Electrolysis and seasonal hair growth](https://www.reddit.com/r/asktransgender/comments/jag1yt/electrolysis_and_seasonal_hair_growth/) by  ChristieWo in 2020 - *"have had over 450 hours of electrolysis in about the last 3 and a half years"*
+* [Facial Hair Removal without HRT?](https://www.reddit.com/r/AskMtFHRT/comments/epyjjz/facial_hair_removal_without_hrt/) by throwaway14235173 in 2020
+* [Tattoos & Permanent Hair Removal?](https://www.reddit.com/r/asktransgender/comments/epssto/tattoos_permanent_hair_removal/) by SylviaPearl in 2020
+* [Ingrown hairs on neck after electrolysis....](https://www.reddit.com/r/asktransgender/comments/cfvp7x/ingrown_hairs_on_neck_after_electrolysis/) by cavy20199 in 2019
 
 YouTube
 
@@ -253,7 +253,7 @@ HairZapper (this is an electrologists site, so not clear if its biased or not)
 
 HairTell
 
-* reply to [Looking for electrolysis <sup>R</sup>](https://www.reddit.com/r/ottawa/comments/8y394e/looking_for_electrolysis/e2bsdqb/) by SeanaTG around 2019
+* reply to [Looking for electrolysis ](https://www.reddit.com/r/ottawa/comments/8y394e/looking_for_electrolysis/e2bsdqb/) by SeanaTG around 2019
 * [Thermolysis vs blend?](https://hairtell.com/forum/t/thermolysis-vs-blend/52383) by freeza in 2015
 * [Thermolysis vs. The blend?](https://hairtell.com/forum/t/thermolysis-vs-the-blend/36098) by desperate18 in 2010
 * [Thermolysis-Not as effective?](https://hairtell.com/forum/t/thermolysis-not-as-effective/14465) in 2002
@@ -264,7 +264,7 @@ HairTell
 
 reddit
 
-* reply to [Depression - Facial hair<sup>R</sup>](https://www.reddit.com/r/transontario/comments/h0ntb2/depression_facial_hair/ftqdffp/) by SeanaTG in 2020 - *"Electrolysis DOES work on vellus hair, but some electrologists are not capable of doing the work because of personal limittions( usually eyesight) and it it VERY tedious and takes a long time. People generally have many many fine vellus hairs , much more than darker hairs that your eyes can see."*
+* reply to [Depression - Facial hair](https://www.reddit.com/r/transontario/comments/h0ntb2/depression_facial_hair/ftqdffp/) by SeanaTG in 2020 - *"Electrolysis DOES work on vellus hair, but some electrologists are not capable of doing the work because of personal limittions( usually eyesight) and it it VERY tedious and takes a long time. People generally have many many fine vellus hairs , much more than darker hairs that your eyes can see."*
 
 <br />
 
@@ -294,15 +294,15 @@ http://hairzapper.com/thermolysis
 
 reddit
 
-* [Is this type of scarring/pitting normal for electrolysis? How can I get it to go away/be less noticable? More context in comments.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/x5mllr/is_this_type_of_scarringpitting_normal_for/) by TieDyeChampagne in 2022
-* [I’m not sure if this is the place for electrolysis. I’m really worried. I just had my first session and I’m not sure if what I experienced is normal. Here’s the aftermath from session 1.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/u8g761/im_not_sure_if_this_is_the_place_for_electrolysis/) by Key_Ad_3179 in 2022
-* [Electrolysis and skin aging<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/q3x8s2/electrolysis_and_skin_aging/) by kath882 in 2021
-* [Scaring from electrolysis?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/l93jyc/scaring_from_electrolysis/) by Mg1821 in 2021
-* [Is this scarring from electrolysis ? Treatment of the area was 16 days ago<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i6caie/is_this_scarring_from_electrolysis_treatment_of/) by ConcernedNconfused22 in 2020
-* [Electrolysis skin damage<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/eurwlq/electrolysis_skin_damage/) by Transthrowaway8472 in 2020
-* [scarred leg by electrolysis?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/ebq2gs/scarred_leg_by_electrolysis/) by rosier2123 in 2019
-* reply to [Looking for electrolysis <sup>R</sup>](https://www.reddit.com/r/ottawa/comments/8y394e/looking_for_electrolysis/e2bsdqb/) by SeanaTG around 2019
-* [Electrolysis on the Face - Pitting on Chin?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/5h7agq/electrolysis_on_the_face_pitting_on_chin/) by LongBeachVero around 2017
+* [Is this type of scarring/pitting normal for electrolysis? How can I get it to go away/be less noticable? More context in comments.](https://www.reddit.com/r/Transgender_Surgeries/comments/x5mllr/is_this_type_of_scarringpitting_normal_for/) by TieDyeChampagne in 2022
+* [I’m not sure if this is the place for electrolysis. I’m really worried. I just had my first session and I’m not sure if what I experienced is normal. Here’s the aftermath from session 1.](https://www.reddit.com/r/Transgender_Surgeries/comments/u8g761/im_not_sure_if_this_is_the_place_for_electrolysis/) by Key_Ad_3179 in 2022
+* [Electrolysis and skin aging](https://www.reddit.com/r/Transgender_Surgeries/comments/q3x8s2/electrolysis_and_skin_aging/) by kath882 in 2021
+* [Scaring from electrolysis?](https://www.reddit.com/r/Transgender_Surgeries/comments/l93jyc/scaring_from_electrolysis/) by Mg1821 in 2021
+* [Is this scarring from electrolysis ? Treatment of the area was 16 days ago](https://www.reddit.com/r/Transgender_Surgeries/comments/i6caie/is_this_scarring_from_electrolysis_treatment_of/) by ConcernedNconfused22 in 2020
+* [Electrolysis skin damage](https://www.reddit.com/r/asktransgender/comments/eurwlq/electrolysis_skin_damage/) by Transthrowaway8472 in 2020
+* [scarred leg by electrolysis?](https://www.reddit.com/r/asktransgender/comments/ebq2gs/scarred_leg_by_electrolysis/) by rosier2123 in 2019
+* reply to [Looking for electrolysis ](https://www.reddit.com/r/ottawa/comments/8y394e/looking_for_electrolysis/e2bsdqb/) by SeanaTG around 2019
+* [Electrolysis on the Face - Pitting on Chin?](https://www.reddit.com/r/asktransgender/comments/5h7agq/electrolysis_on_the_face_pitting_on_chin/) by LongBeachVero around 2017
 
 <br />
 
@@ -320,21 +320,21 @@ HairFacts
 
 reddit
 
-* [I built an electrolysis machine!<sup>R</sup>](https://www.reddit.com/r/MtF/comments/1hjb25m/i_built_an_electrolysis_machine/) by strangetakoyaki in 2024
-* [DIY Electrolysis started!<sup>R</sup>](https://www.reddit.com/r/transtimelines/comments/xvksm8/diy_electrolysis_started/) by pamandersen69 in 2022
-    * [DIY electrolysis hair removal<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/x40qjn/diy_electrolysis_hair_removal/) by pamandersen69 in 2022
-* [Learning electrolysis by your self isn’t easy, but defiantly possible. Anyone interested please it would be greatly appreciated if you share your experiences, and resources. Thank you.<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/lugm3x/learning_electrolysis_by_your_self_isnt_easy_but/) in 2021
-* [What areas do I need electrolysis on? (SRS MTF)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kvh8ww/what_areas_do_i_need_electrolysis_on_srs_mtf/) by Terminalguidance000 in 2021
-    * reply to [What areas do I need electrolysis on? (SRS MTF)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kvh8ww/what_areas_do_i_need_electrolysis_on_srs_mtf/gjed014/) by SeanaTG in 2021
-* [To those that had electrolysis only, was it worth it?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/jf5856/to_those_that_had_electrolysis_only_was_it_worth/) by etoneishayeuisky in 2020
-* [Home laser / electrolysis options?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ja526v/home_laser_electrolysis_options/) by  zynthalay in 2020
-* [Electrolysis Questions. Tell me everything<sup>R</sup>](https://www.reddit.com/r/MtF/comments/hv1flw/electrolysis_questions_tell_me_everything/) by adrinkformebrb693 in 2020
-* [I built an electrolysis machine (epilator)<sup>R</sup>](https://www.reddit.com/r/electronics/comments/8ek9dt/i_built_an_electrolysis_machine_epilator/) by abbxrdy in 2018
-* [Electrolysis Hair Removal at Home: Why It Does Not Work<sup>R</sup>](https://www.reddit.com/r/HairRemoval/comments/92a8y3/electrolysis_hair_removal_at_home_why_it_does_not/) by topelectrolysisnyc in 2018
-* reply to [New years edition Electrolysis AMA by certified electrologist<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/7n35l2/new_years_edition_electrolysis_ama_by_certified/drz52ur/?context=3) by polygonalbeing in 2018
-* [Question regarding self electrolysis<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/5yjq2e/question_regarding_self_electrolysis/) by no474 around 2017
-* reply to [Incredible facial hair<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/65k4dx/incredible_facial_hair/dgbom1v/) by SeanaTG around 2017
-* reply to [ELectrolysis AMA by transgender Certified Electrologist ( back to school edition)<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/6x03c0/electrolysis_ama_by_transgender_certified/dmdqj52/) by Malorie_here around 2017
+* [I built an electrolysis machine!](https://www.reddit.com/r/MtF/comments/1hjb25m/i_built_an_electrolysis_machine/) by strangetakoyaki in 2024
+* [DIY Electrolysis started!](https://www.reddit.com/r/transtimelines/comments/xvksm8/diy_electrolysis_started/) by pamandersen69 in 2022
+    * [DIY electrolysis hair removal](https://www.reddit.com/r/TransDIY/comments/x40qjn/diy_electrolysis_hair_removal/) by pamandersen69 in 2022
+* [Learning electrolysis by your self isn’t easy, but defiantly possible. Anyone interested please it would be greatly appreciated if you share your experiences, and resources. Thank you.](https://www.reddit.com/r/TransDIY/comments/lugm3x/learning_electrolysis_by_your_self_isnt_easy_but/) in 2021
+* [What areas do I need electrolysis on? (SRS MTF)](https://www.reddit.com/r/Transgender_Surgeries/comments/kvh8ww/what_areas_do_i_need_electrolysis_on_srs_mtf/) by Terminalguidance000 in 2021
+    * reply to [What areas do I need electrolysis on? (SRS MTF)](https://www.reddit.com/r/Transgender_Surgeries/comments/kvh8ww/what_areas_do_i_need_electrolysis_on_srs_mtf/gjed014/) by SeanaTG in 2021
+* [To those that had electrolysis only, was it worth it?](https://www.reddit.com/r/asktransgender/comments/jf5856/to_those_that_had_electrolysis_only_was_it_worth/) by etoneishayeuisky in 2020
+* [Home laser / electrolysis options?](https://www.reddit.com/r/Transgender_Surgeries/comments/ja526v/home_laser_electrolysis_options/) by  zynthalay in 2020
+* [Electrolysis Questions. Tell me everything](https://www.reddit.com/r/MtF/comments/hv1flw/electrolysis_questions_tell_me_everything/) by adrinkformebrb693 in 2020
+* [I built an electrolysis machine (epilator)](https://www.reddit.com/r/electronics/comments/8ek9dt/i_built_an_electrolysis_machine_epilator/) by abbxrdy in 2018
+* [Electrolysis Hair Removal at Home: Why It Does Not Work](https://www.reddit.com/r/HairRemoval/comments/92a8y3/electrolysis_hair_removal_at_home_why_it_does_not/) by topelectrolysisnyc in 2018
+* reply to [New years edition Electrolysis AMA by certified electrologist](https://www.reddit.com/r/asktransgender/comments/7n35l2/new_years_edition_electrolysis_ama_by_certified/drz52ur/?context=3) by polygonalbeing in 2018
+* [Question regarding self electrolysis](https://www.reddit.com/r/asktransgender/comments/5yjq2e/question_regarding_self_electrolysis/) by no474 around 2017
+* reply to [Incredible facial hair](https://www.reddit.com/r/asktransgender/comments/65k4dx/incredible_facial_hair/dgbom1v/) by SeanaTG around 2017
+* reply to [ELectrolysis AMA by transgender Certified Electrologist ( back to school edition)](https://www.reddit.com/r/asktransgender/comments/6x03c0/electrolysis_ama_by_transgender_certified/dmdqj52/) by Malorie_here around 2017
 
 HairTell
 
@@ -360,7 +360,7 @@ Equipment
 
 reddit
 
-* [\[Acne\] How I won my 10 year battle with boob acne<sup>R</sup>](https://www.reddit.com/r/SkincareAddiction/comments/5tsfxd/acne_how_i_won_my_10_year_battle_with_boob_acne/) by maggiemaymagoo around 2018 - sebaceous filaments on breasts turn out to be very fine ingrown hairs, and was removed with electrolsysis
+* [\[Acne\] How I won my 10 year battle with boob acne](https://www.reddit.com/r/SkincareAddiction/comments/5tsfxd/acne_how_i_won_my_10_year_battle_with_boob_acne/) by maggiemaymagoo around 2018 - sebaceous filaments on breasts turn out to be very fine ingrown hairs, and was removed with electrolsysis
 
 The pmfa journal
 
@@ -408,7 +408,7 @@ https://en.wikipedia.org/wiki/Eflornithine - *"The topical cream is indicated fo
 
 reddit
 
-* [Eflora Cream - Don't bother.<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/18rkmgl/eflora_cream_dont_bother/) by  MapMother8316 in 2023
+* [Eflora Cream - Don't bother.](https://www.reddit.com/r/TransDIY/comments/18rkmgl/eflora_cream_dont_bother/) by  MapMother8316 in 2023
 
 Transgender Map
 
@@ -441,9 +441,9 @@ Don't use an epilator on your face, and keep them well away from nipples...
 
 reddit
 
-* [Hair removal... epilators??<sup>R</sup>](https://www.reddit.com/r/ask_transgender/comments/f4qgj9/hair_removal_epilators/) by licklemisslola in 2020
-* [Epilator - will my face come off?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/ej8x5g/epilator_will_my_face_come_off/) by discardme_whendone in 2020
-* [Is epilating your face a good or bad idea?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/5xswhm/is_epilating_your_face_a_good_or_bad_idea/) by ProjectAndrea in 2017
+* [Hair removal... epilators??](https://www.reddit.com/r/ask_transgender/comments/f4qgj9/hair_removal_epilators/) by licklemisslola in 2020
+* [Epilator - will my face come off?](https://www.reddit.com/r/MtF/comments/ej8x5g/epilator_will_my_face_come_off/) by discardme_whendone in 2020
+* [Is epilating your face a good or bad idea?](https://www.reddit.com/r/asktransgender/comments/5xswhm/is_epilating_your_face_a_good_or_bad_idea/) by ProjectAndrea in 2017
 
 <br />
 
@@ -453,8 +453,8 @@ reddit
 
 reddit
 
-* [Chemical burn<sup>R</sup>](https://www.reddit.com/r/HairRemoval/comments/n52o3e/chemical_burn/) in 2021
-* [Nair morning of surgery reaction<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/llr6in/nair_morning_of_surgery_reaction/) by MasonMcqueen97 in 2021
+* [Chemical burn](https://www.reddit.com/r/HairRemoval/comments/n52o3e/chemical_burn/) in 2021
+* [Nair morning of surgery reaction](https://www.reddit.com/r/Transgender_Surgeries/comments/llr6in/nair_morning_of_surgery_reaction/) by MasonMcqueen97 in 2021
 
 Susans
 
@@ -476,7 +476,7 @@ There's a few easy things that can help reduce pain.
 * Be rested and relaxed. Get a good nights sleep and don't go in stressed.
 * Be hydrated (drink lots of water) and look after your skin.
 * Some find listening to music helps.
-* Stop taking estrogen before electrolysis (see reddit post [here<sup>R</sup>](https://www.reddit.com/r/MtF/comments/u3ujjy/electrolysis_breakthrough/))
+* Stop taking estrogen before electrolysis (see reddit post [here](https://www.reddit.com/r/MtF/comments/u3ujjy/electrolysis_breakthrough/))
 
 HairTell
 
@@ -484,13 +484,13 @@ HairTell
 
 reddit
 
-* [I can't handle electrolysis, it hurts so much... I'm crying...<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vf1twk/i_cant_handle_electrolysis_it_hurts_so_much_im/) by Cut3LittleBunny in 2022
-* ["Pre-medicating" for electrolysis appointments<sup>R</sup>](https://www.reddit.com/r/MtF/comments/98vq9n/premedicating_for_electrolysis_appointments/) by chilled_potato in 2019
-* [Electrolysis agony?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/czuuhd/electrolysis_agony/) by JasmineTG in 2019
-* [Numbing products for electrolysis?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/c9cwhu/numbing_products_for_electrolysis/) by tgthrwwy in 2019
-* reply to ['Bulk' Electrolysis<sup>R</sup>](https://www.reddit.com/r/transontario/comments/9edgjq/bulk_electrolysis/e77okf8/) by SeanaTG around 2018
-* [How would you describe electrolysis pain?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/6ed1x3/how_would_you_describe_electrolysis_pain/) around 2017
-* reply to [It's that time again....Electrolysis Permanent hair removal Ask Me Anything!<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/6jsqfo/its_that_time_againelectrolysis_permanent_hair/djgyh6l/?context=3) by Joped around 2017
+* [I can't handle electrolysis, it hurts so much... I'm crying...](https://www.reddit.com/r/Transgender_Surgeries/comments/vf1twk/i_cant_handle_electrolysis_it_hurts_so_much_im/) by Cut3LittleBunny in 2022
+* ["Pre-medicating" for electrolysis appointments](https://www.reddit.com/r/MtF/comments/98vq9n/premedicating_for_electrolysis_appointments/) by chilled_potato in 2019
+* [Electrolysis agony?](https://www.reddit.com/r/asktransgender/comments/czuuhd/electrolysis_agony/) by JasmineTG in 2019
+* [Numbing products for electrolysis?](https://www.reddit.com/r/asktransgender/comments/c9cwhu/numbing_products_for_electrolysis/) by tgthrwwy in 2019
+* reply to ['Bulk' Electrolysis](https://www.reddit.com/r/transontario/comments/9edgjq/bulk_electrolysis/e77okf8/) by SeanaTG around 2018
+* [How would you describe electrolysis pain?](https://www.reddit.com/r/asktransgender/comments/6ed1x3/how_would_you_describe_electrolysis_pain/) around 2017
+* reply to [It's that time again....Electrolysis Permanent hair removal Ask Me Anything!](https://www.reddit.com/r/asktransgender/comments/6jsqfo/its_that_time_againelectrolysis_permanent_hair/djgyh6l/?context=3) by Joped around 2017
 
 Susans
 
@@ -508,7 +508,7 @@ Includes topical (creams) and injections
 
 reddit
 
-* reply to [Electrolysis agony?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/czuuhd/electrolysis_agony/) in 2019 - *"Electrolysis is torture, and lidocaine did not help. Don't take this as an endorsement, but the only thing that allowed me to sit still and endure it was Xanax."*
+* reply to [Electrolysis agony?](https://www.reddit.com/r/asktransgender/comments/czuuhd/electrolysis_agony/) in 2019 - *"Electrolysis is torture, and lidocaine did not help. Don't take this as an endorsement, but the only thing that allowed me to sit still and endure it was Xanax."*
 
 <br />
 
@@ -530,7 +530,7 @@ Ice applied to the skin (in a bag) prior to anesthetics can be used to reduce th
 
 reddit
 
-* [PSA for Genital Electrolysis-Ice before lidocaine!!!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hirsbk/psa_for_genital_electrolysisice_before_lidocaine/) by ymmvmia in 2020
+* [PSA for Genital Electrolysis-Ice before lidocaine!!!](https://www.reddit.com/r/Transgender_Surgeries/comments/hirsbk/psa_for_genital_electrolysisice_before_lidocaine/) by ymmvmia in 2020
 
 Papers
 
@@ -578,9 +578,9 @@ Injectable anesthetics
 
 reddit
 
-* reply to [Hair removal before SRS.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/exrt0t/hair_removal_before_srs/fge4tx1/) by darthemofan in 2020 - *"For all you DIY'ers if you can get your hands on injectable lidocaine, you can do a pudendal + genitofemoral block."*
-* [Numbing products for electrolysis?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/c9cwhu/numbing_products_for_electrolysis/) by tgthrwwy in 2019
-* reddit reply to [Do you need to have hair removal in the genital before having the surgery with Chettawut? Extra question inside.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/8o0joz/do_you_need_to_have_hair_removal_in_the_genital/e00armx/) in 2018
+* reply to [Hair removal before SRS.](https://www.reddit.com/r/Transgender_Surgeries/comments/exrt0t/hair_removal_before_srs/fge4tx1/) by darthemofan in 2020 - *"For all you DIY'ers if you can get your hands on injectable lidocaine, you can do a pudendal + genitofemoral block."*
+* [Numbing products for electrolysis?](https://www.reddit.com/r/asktransgender/comments/c9cwhu/numbing_products_for_electrolysis/) by tgthrwwy in 2019
+* reddit reply to [Do you need to have hair removal in the genital before having the surgery with Chettawut? Extra question inside.](https://www.reddit.com/r/Transgender_Surgeries/comments/8o0joz/do_you_need_to_have_hair_removal_in_the_genital/e00armx/) in 2018
 
 Susans
 
@@ -617,7 +617,7 @@ Family Practice Notebook
 
 Other Links
 
-* [Electrology3000](http://www.electrology3000.com/about.html) in the Dallas/USA, also see reply to [Options for pre-srs electro?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/bzutfj/options_for_presrs_electro/eqyddqq/) in 2019
+* [Electrology3000](http://www.electrology3000.com/about.html) in the Dallas/USA, also see reply to [Options for pre-srs electro?](https://www.reddit.com/r/Transgender_Surgeries/comments/bzutfj/options_for_presrs_electro/eqyddqq/) in 2019
 * http://www.drchristinemcginn.com/services/electrolysis.php
 * http://precisionhairremoval.com/electrolysis-permanent-hair-removal/transgender-hair-removal/
 
@@ -645,8 +645,8 @@ Some surgeons say that electrolysis can damage the skin qualiity and reccomend a
 
 These reddit posts are interesting, showing very clearly what grafted skin with hair looks like.
 
-* [The palm of my hand grows hair after a skin graft a few years ago<sup>R</sup>](https://www.reddit.com/r/WTF/comments/b5i4pf/the_palm_of_my_hand_grows_hair_after_a_skin_graft/) in 2019, photo [here](https://imgur.com/4SyVMzW)
-* [This skin graft was taken from my groin when I was a baby. I been WTFing since puberty.<sup>R</sup>](https://www.reddit.com/r/WTF/comments/6kd9v0/this_skin_graft_was_taken_from_my_groin_when_i/) around 2017, photo [here](https://i.redd.it/we5y4hk26p6z.jpg)
+* [The palm of my hand grows hair after a skin graft a few years ago](https://www.reddit.com/r/WTF/comments/b5i4pf/the_palm_of_my_hand_grows_hair_after_a_skin_graft/) in 2019, photo [here](https://imgur.com/4SyVMzW)
+* [This skin graft was taken from my groin when I was a baby. I been WTFing since puberty.](https://www.reddit.com/r/WTF/comments/6kd9v0/this_skin_graft_was_taken_from_my_groin_when_i/) around 2017, photo [here](https://i.redd.it/we5y4hk26p6z.jpg)
 
 The "Hairy Hand" case. 1929 lawsuit about a skin graft.
 
@@ -654,60 +654,60 @@ The "Hairy Hand" case. 1929 lawsuit about a skin graft.
 
 reddit
 
-* [Can internal hair post op really cause micro infections?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/19cou2s/can_internal_hair_post_op_really_cause_micro/) by mililanigirl in 2024 - *"I’m 4 years post op after having grs with Dr. Bowers. Unfortunately, I’ve struggled with some internal hair. I’ve tried everything to get rid of it to no avail. Due to experiencing some chronic illnesses, I’m worried there might be a connection between the two."*
-* reply to [Hair situation before srs<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1gw217x/hair_situation_before_srs/lybv0be/) by ghosthousebabe in 2024 - *"I had a lot of hair removal before surgery but not 100%, surgeon told me it would be fine and I ended up with a lot of internal hair growth. It is WAY harder to get it removed post op, sometimes impossible if it's too deep. If you're going to Marci I wouldn't trust her judgement."*
-* [Hair Inside Canal<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1f9ub4j/hair_inside_canal/) in 2024 - *"I’m a few months postop* ***peritoneal pull through***. *I have a few hairs deep in the canal probably 2” inside, right before the peritoneal tissue. I did laser and electrolysis before my surgery, so please, I don’t need the comment that I should have done it before surgery. I spent two years pre op doing my hair treatments. I’m still confused how any even got there in the first place."*
-* [Post vaginoplasty internal electrolysis on the US East Coast?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1ebt62h/post_vaginoplasty_internal_electrolysis_on_the_us/) by Ellianor10 in 2024 - *"my surgeon recommended not getting hair removal prior surgery, and now I have hair growing inside my vagina, so I'm looking for an electrolysis provider that could help me take care of it "*, surgeon is Chettawut in Thailand
-* reply to [Dr. Chettawut - SRS Results - 2023<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/140b1vw/dr_chettawut_srs_results_2023/khhq81w/) by Cautious-Choice-4010 - *"I did SRS with Dr. Chettawut 1 1/2 years ago and I got a good result, but in the first few cm of my vagina a lot of hair is growing... The WIH said it's normal."*
-* [Concerns with vaginoplasty results<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/18y19oz/concerns_with_vaginoplasty_results/) by DummyDemonPrincess in 2024 - *"My second big issue is, that I have hair growth in my vaginal canal (even though I asked my doctor multiple times regarding hair removal to which the response repeatedly was that it "won't be an issue"... (btw my doctor said it will just fall out from use... which I can't help but doubt)"*
-* [1 year post-op, NYU Langone Vaginoplasty: Good results, disappointing post-op care<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/13spg94/1_year_postop_nyu_langone_vaginoplasty_good/) by NYU_PostOp_Throwaway in 2023 - *"We both got electrolysis for over a year. Each of us got about 1 hour per week a piece. It wasn't too bad. We both had high pain tolerances, numbing cream, and a good electrologist. NYU cleared me at my pre-op about 18 months before the surgery. I still continued getting electrolysis anyway to be safe. They recommended my wife continue electrolysis which she did. We both had similar levels of clearance by the day of our surgery... 6 Month Follow-up and disillusionment with NYU... my wife was confident there was hair in her vaginal canal... the nurses and Dr. Bluebond-Langner insisted they didn't see any hair in her vaginal canal. She thought they were wrong. To reassure my wife there was no hair in there, we bought some speculums and a high-powered flashlight. I looked inside and I immediately saw hair. It was so obvious I don't know how NYU could've possibly missed it... My wife had hair in her vaginal canal and lost her clitoral hood. NYU insisted we were wrong about all of this except the clitoral hood which they did a revision to fix. My wife had to get electrolysis in her vaginal canal to remove the hair NYU claimed she didn't have."*
-* [9 years post-op: PI w/ scrotal grafts with Dr. Bowers<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/14sstun/9_years_postop_pi_w_scrotal_grafts_with_dr_bowers/) by MuffzStuffz in 2023 - *"Unfortunately, things got worse at around the 5 year mark. I did not get a "full clearing" of genital electrolysis beforehand, only lasting 3 sessions due to pain and the hope that the scraping during surgery would leave me with a good result. And I think for awhile it did, but over time I got more hair regrowth, with the biggest jump being a brief period of maybe 4 weeks when I used a* ***topical testosterone gel*** *to help with my very reduced sex drive that was causing problems with my then long-term BF. Months later, I had noticeably more uncomfortable time with sex and my partner could feel the hairs on the inside when fingering me, and at some point I was able to pull a wad of hair out that had maybe 10+ hairs in it... I had like "around 7" hairs growing inside. I tried my best to cope with it for the next year or so, plucking the hairs the best to my ability, but by 7 years post-op, I was just kind of sick of the upkeep of cleaning it, dilating, and trying to deal with the hair. I was going through a rough spot with chronic health conditions, declining mental health, and no partners/sexual desire so I just decided to stop the uncomfortable dilating sessions and deal with the consequences later. It was nice ignoring it for awhile, but by 8 years post-op I was starting to have some pelvic pain near the surgery site even though I wasn't using the neovag canal anymore. I ended up getting new, smaller dilators to see if that would help the pain, and I found out I have about 3 or so inches left in depth... So now I still have to dilate and clean it out to help reduce the pain and discomfort in the area, even though I don't really view it as a viable sexual organ anymore (especially the neovag canal)."*
-* [I (22F) think bottom surgery gave me PTSD<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/14htotz/i_22f_think_bottom_surgery_gave_me_ptsd/) by ehu_girl in 2023 - *"3 years ago I had surgery with Dr. Bowers and I wasn’t prepared for the complications I had (very painful granulation tissue that made dilation extremely difficult as well as a lot of bleeding, more than normal)... I also still have a problem with internal hair growth because Bowers had said I didn’t need to get electrolysis beforehand...."*
-* [Bottom Surgery/Tracheal shave Update: Marci Bowers, Min Jun, Dev Gurjala, Ellie Ley<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/127fxuo/bottom_surgerytracheal_shave_update_marci_bowers/) by AlaynasChoppy in 2023 - Surgery with Bowers, *"I had done about 9 months of hair removal prior to surgery and at my consult she said that everything should be more than adequate in the hair removal department (despite having a few thin stragglers.)... The final update at the moment is that at my last Gyno appointment, my doctor informed me that there were quite a few EXTREMELY thin hairs on the very back wall of my vagina. Im pretty upset about it, especially considering how much electrolysis I went though and how confident bowers was that it should be enough. I wish that she would have been honest with me and told me to delay my surgery and get a bit smoother results from the Electrolysis first... hair in the vagina is a very very very normal Bowers result, because she always insists that she can do the follicle scrape and the in operating room hair removal, and she always says that it's okay with a little bit of hair. A lot of surgeons will just tell you no, or tell you that you will have hair, but she tries to say "almost all of our patients have amazing results with this."*
-* [Question about electrolysis template from Bluebond-Langner<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10szu1c/question_about_electrolysis_template_from/) by ryandunivan in 2023
-* [Has progesterone fucked up my hair removal?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10hbcke/has_progesterone_fucked_up_my_hair_removal/) by Terminalguidance000 in 2023
-* [Bowers SRS Internal Hair Growth<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10h5rez/bowers_srs_internal_hair_growth/) by ghosthousebabe in 2023 - *"I was really worried about hair removal, but I had done 5 laser sessions plus about 8-10 hours of electrolysis and wasn't seeing too much regrowth, so they told me that I should be fine, that hair growth is unlikely after the follicular scrape and intraoperative electrolysis. They were always kinda hedging when they said this, so I never got a clear "you're definitely fine" but they didn't seem concerned about it at all. Unfortunately, I just hit 4 months out and it seems that I have a LOT of hair growth. It's really upsetting and the options for dealing with it seem really limited, so I'm not sure what to do now...  I would guess probably 2+inches, it's pretty deep, so IDK if there's really going to be anything I can do about it."*
-* [Thanks to all who gave me advice on electrolysis on the genitals. I am doing a lot better with and any of the real bad spots I am doing my own lidocaine injections. 2 hour sessions every week for a year or more @ $90 per hour, between the cost and pain we sure do earn that vagina.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/zbzbnr/thanks_to_all_who_gave_me_advice_on_electrolysis/) by Kayla__2021 in 2022
-* [Hair Growing Deep Inside Vaginal Canal<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/yspqto/hair_growing_deep_inside_vaginal_canal/) by DenseRegret6445 in 2022 - *"About 5 years ago, I had bottom surgery at GRS Montreal (Brassard). They don't/or didn't require electrolysis. I've had hair growth inside the canal since, as well as intermittent discharge (infections?) that have been a bother... It's gross and I want this fixed."*
-* [HOW TO: Insurance coverage for Hair Removal<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/wfnktb/how_to_insurance_coverage_for_hair_removal/) by MonetSouffle in 2022
-* [How big a deal is post-op canal hair growth?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/uvx0gh/how_big_a_deal_is_postop_canal_hair_growth/) by AccountThrowaway282 in 2022
-* [Is It OK to Have Laser Hair Removal On Genitals If I'm Having SRS With Dr. Suporn/Bank one day?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/srzx20/is_it_ok_to_have_laser_hair_removal_on_genitals/) by throwawayvomit258 - in the comments *"... meet very briefly with Dr Banks. I immediately asked him if he prefered laser or electrolysis, and if he wants us to have the penis and tests done. He told me to avoid electrolysis because it will scar the skin deep and it also often reduces vaginaldepth. He likes laser because it is more effective and doesn't damage the skin. He told me we can have the tests and penis lasered, but with electrolysis only the perineum area. But he insisted he prefers laser, more effective and modern and without damaging the skin."*
-* [Hair regrowth in canal...help...<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/q8vx1i/hair_regrowth_in_canalhelp/) by aylesther in 2021 - surgeon is Alex Laungani in Canada
-* reply to [Approx 2.5 years post op w/ McGinn. Almost no scarring at all<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pr87nh/approx_25_years_post_op_w_mcginn_almost_no/hdh1lof/) by thatfunnychickyouluv in 2021
-* [Extremely disappointed with McGinn Hair Situation<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pihuj4/extremely_disappointed_with_mcginn_hair_situation/) by jasmine1106 in 2021 - surgeon is Christine McGinn
-* [Hair removal information for MTF SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/nre1km/hair_removal_information_for_mtf_srs/) by 2d4d_data in 2021 - this post is well worth reading
-* reply to [What areas do I need electrolysis on? (SRS MTF)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kvh8ww/what_areas_do_i_need_electrolysis_on_srs_mtf/gj0b9nx/?context=3) in 2021
-* [If you are having botton surgery make sure you get Electrolysis!!! Or a permanent solution for hair!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/m1fp6y/if_you_are_having_botton_surgery_make_sure_you/) by PatienceFuzzy in 2021
-* [Are u thinking about Dr. Bowers for SRS? I had to do a corrective surgery MYSELF (after discharge)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/mgxo2y/are_u_thinking_about_dr_bowers_for_srs_i_had_to/) by charis808 in 2021 - *"And the worst was when I realized that I had hair inside of me! Dr Bowers had said that laser hair removal was unnecessary and I have nothing to worry about. Big mistake!"*
-* [Am I just a wimp? Genital electrolysis....MTF<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lbgjzk/am_i_just_a_wimp_genital_electrolysismtf/) by kaylee-42 in 2021
-* [Just got offered a cancellation date with Marci Bowers for SRS but COVID has prevented me from finishing hair removal! It's less than a month away! What should I do???<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/l9otiq/just_got_offered_a_cancellation_date_with_marci/) by Sufficient-Comment69 in 2021 - *"She [Bowers] claimed that they have never had complaints about internal hair due to their use of scrapping and surgical electrolysis... That's a lie. I've had issues after 18hrs of electrolysis and let them know about it."*
-* reply to [Question i need answered<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/l6lyvf/question_i_need_answered/gl1f5ic/) by Barb_B_notReally in 2021
-* reply to [What areas do I need electrolysis on? (SRS MTF)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kvh8ww/what_areas_do_i_need_electrolysis_on_srs_mtf/giyxwwj/) by jotspot in 2021
-* reply to [Electrolysis before surgery?<sup>R</sup>](https://www.reddit.com/r/transontario/comments/ksj91i/electrolysis_before_surgery/girw9nt/) by SeanaTG in 2021
-* [GCS hair removal<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kqg975/gcs_hair_removal/) by Seanna86 in 2021
-* [When was your last electrolysis appointment before SRS?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kn4apk/when_was_your_last_electrolysis_appointment/) by 2d4d_data in 2020
-* [Electrolysis and Pain<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kk4zws/electrolysis_and_pain/) by proteannomore in 2020
-* [Hair removal information for MTF SRS<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/imbxts/hair_removal_information_for_mtf_srs/) by 2d4d_data in 2020
-* [Dr.’s Bluebond-Langnor & Zhao @ NYU-Langone MtF GRS Genital Hair Removal Template<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/i14rv2/drs_bluebondlangnor_zhao_nyulangone_mtf_grs/) by ashleyjm in 2020
-* [Genital hair removal how long<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/g0rxw6/genital_hair_removal_how_long/) by JulieAnnHope in 2020
-* [Erectile tissue or internal hair removal?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/fu44ty/erectile_tissue_or_internal_hair_removal/) in 2020
-* reply to [To electrolysis or not to electrolysis?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ennd39/to_electrolysis_or_not_to_electrolysis/fekpqi3/) by nilenc22 in 2020
-* [SRS with Dr Suporn PDF 5th Edition<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/fayd3p/srs_with_dr_suporn_pdf_5th_edition/) by Suporn2015SRS in 2020
-* [After vaginoplasty<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/e5rh0o/after_vaginoplasty/) by edani941 in 2019
-* [Laser for hair removal before vaginoplasty?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/emd0am/laser_for_hair_removal_before_vaginoplasty/) by iHRTSega in 2020
-* [Clear acrylic dilators and a flashlight can be used as fiber optics to see inside yourself<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/eko0l9/clear_acrylic_dilators_and_a_flashlight_can_be/) by MayScream in 2020
-* [Perineum electrolysis?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/eec4te/perineum_electrolysis/) by BucketQuarry in 2019
-* [What is it like getting genital laser hair removal?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dwtdx7/what_is_it_like_getting_genital_laser_hair_removal/) by Jamie_GG in 2019
-* [To the Trans gals who have had gender reassignment, what is your experience with hair down there? <sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/d4w6bq/to_the_trans_gals_who_have_had_gender/) by Beedeviled in 2019
-* [Is genital electrolysis supposed to be so painful?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/cmuuws/is_genital_electrolysis_supposed_to_be_so_painful/) by Invanar in 2019
-* reply to [MtF surgery: what they don't tell you<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/bnqfnq/mtf_surgery_what_they_dont_tell_you/enbrsf9/) in 2019
-* reply to [Questions about Dr. Suporn<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/bq1d2y/questions_about_dr_suporn/eo1dg29/) by Thrwway_1985 in 2019
-* [Thai SRS Scraping technique?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/9dyz2v/thai_srs_scraping_technique/) by Stevie_Rae_Pettit in 2018
-* [There's hair in my neo vagina :(<sup>R</sup>](https://www.reddit.com/r/MtF/comments/a5on2v/theres_hair_in_my_neo_vagina/) by Enduromatic in 2018
-* [Hair in vagina, Chet, 6 months post-op<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9259rx/hair_in_vagina_chet_6_months_postop/) in 2018
-* [Hair removal before GRS?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/6fstpl/hair_removal_before_grs/) by katy1989 around 2017. Pay particular attention to /u/SeanaTG as she's an [electrologist in Canada<sup>R</sup>](https://www.reddit.com/r/MtF/comments/7zmka0/vaginal_canal_hair_i_suppose_theres_no_solution/dupcst6/) with experience in these things. Non-genital electrolysis [post of hers<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/7n35l2/new_years_edition_electrolysis_ama_by_certified/).
-* [I'm scared of SRS hairs :(<sup>R</sup>](https://www.reddit.com/r/MtF/comments/6gj8tz/im_scared_of_srs_hairs/) by IrreleventPerson around 2017
-* [SRS one year ago with Dr. Chettawut, I have hair in my vaginal canal. I'm sad and worried, help or advice?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/29a67s/srs_one_year_ago_with_dr_chettawut_i_have_hair_in/) by tmp_0 around 2014
+* [Can internal hair post op really cause micro infections?](https://www.reddit.com/r/Transgender_Surgeries/comments/19cou2s/can_internal_hair_post_op_really_cause_micro/) by mililanigirl in 2024 - *"I’m 4 years post op after having grs with Dr. Bowers. Unfortunately, I’ve struggled with some internal hair. I’ve tried everything to get rid of it to no avail. Due to experiencing some chronic illnesses, I’m worried there might be a connection between the two."*
+* reply to [Hair situation before srs](https://www.reddit.com/r/Transgender_Surgeries/comments/1gw217x/hair_situation_before_srs/lybv0be/) by ghosthousebabe in 2024 - *"I had a lot of hair removal before surgery but not 100%, surgeon told me it would be fine and I ended up with a lot of internal hair growth. It is WAY harder to get it removed post op, sometimes impossible if it's too deep. If you're going to Marci I wouldn't trust her judgement."*
+* [Hair Inside Canal](https://www.reddit.com/r/Transgender_Surgeries/comments/1f9ub4j/hair_inside_canal/) in 2024 - *"I’m a few months postop* ***peritoneal pull through***. *I have a few hairs deep in the canal probably 2” inside, right before the peritoneal tissue. I did laser and electrolysis before my surgery, so please, I don’t need the comment that I should have done it before surgery. I spent two years pre op doing my hair treatments. I’m still confused how any even got there in the first place."*
+* [Post vaginoplasty internal electrolysis on the US East Coast?](https://www.reddit.com/r/Transgender_Surgeries/comments/1ebt62h/post_vaginoplasty_internal_electrolysis_on_the_us/) by Ellianor10 in 2024 - *"my surgeon recommended not getting hair removal prior surgery, and now I have hair growing inside my vagina, so I'm looking for an electrolysis provider that could help me take care of it "*, surgeon is Chettawut in Thailand
+* reply to [Dr. Chettawut - SRS Results - 2023](https://www.reddit.com/r/Transgender_Surgeries/comments/140b1vw/dr_chettawut_srs_results_2023/khhq81w/) by Cautious-Choice-4010 - *"I did SRS with Dr. Chettawut 1 1/2 years ago and I got a good result, but in the first few cm of my vagina a lot of hair is growing... The WIH said it's normal."*
+* [Concerns with vaginoplasty results](https://www.reddit.com/r/Transgender_Surgeries/comments/18y19oz/concerns_with_vaginoplasty_results/) by DummyDemonPrincess in 2024 - *"My second big issue is, that I have hair growth in my vaginal canal (even though I asked my doctor multiple times regarding hair removal to which the response repeatedly was that it "won't be an issue"... (btw my doctor said it will just fall out from use... which I can't help but doubt)"*
+* [1 year post-op, NYU Langone Vaginoplasty: Good results, disappointing post-op care](https://www.reddit.com/r/Transgender_Surgeries/comments/13spg94/1_year_postop_nyu_langone_vaginoplasty_good/) by NYU_PostOp_Throwaway in 2023 - *"We both got electrolysis for over a year. Each of us got about 1 hour per week a piece. It wasn't too bad. We both had high pain tolerances, numbing cream, and a good electrologist. NYU cleared me at my pre-op about 18 months before the surgery. I still continued getting electrolysis anyway to be safe. They recommended my wife continue electrolysis which she did. We both had similar levels of clearance by the day of our surgery... 6 Month Follow-up and disillusionment with NYU... my wife was confident there was hair in her vaginal canal... the nurses and Dr. Bluebond-Langner insisted they didn't see any hair in her vaginal canal. She thought they were wrong. To reassure my wife there was no hair in there, we bought some speculums and a high-powered flashlight. I looked inside and I immediately saw hair. It was so obvious I don't know how NYU could've possibly missed it... My wife had hair in her vaginal canal and lost her clitoral hood. NYU insisted we were wrong about all of this except the clitoral hood which they did a revision to fix. My wife had to get electrolysis in her vaginal canal to remove the hair NYU claimed she didn't have."*
+* [9 years post-op: PI w/ scrotal grafts with Dr. Bowers](https://www.reddit.com/r/Transgender_Surgeries/comments/14sstun/9_years_postop_pi_w_scrotal_grafts_with_dr_bowers/) by MuffzStuffz in 2023 - *"Unfortunately, things got worse at around the 5 year mark. I did not get a "full clearing" of genital electrolysis beforehand, only lasting 3 sessions due to pain and the hope that the scraping during surgery would leave me with a good result. And I think for awhile it did, but over time I got more hair regrowth, with the biggest jump being a brief period of maybe 4 weeks when I used a* ***topical testosterone gel*** *to help with my very reduced sex drive that was causing problems with my then long-term BF. Months later, I had noticeably more uncomfortable time with sex and my partner could feel the hairs on the inside when fingering me, and at some point I was able to pull a wad of hair out that had maybe 10+ hairs in it... I had like "around 7" hairs growing inside. I tried my best to cope with it for the next year or so, plucking the hairs the best to my ability, but by 7 years post-op, I was just kind of sick of the upkeep of cleaning it, dilating, and trying to deal with the hair. I was going through a rough spot with chronic health conditions, declining mental health, and no partners/sexual desire so I just decided to stop the uncomfortable dilating sessions and deal with the consequences later. It was nice ignoring it for awhile, but by 8 years post-op I was starting to have some pelvic pain near the surgery site even though I wasn't using the neovag canal anymore. I ended up getting new, smaller dilators to see if that would help the pain, and I found out I have about 3 or so inches left in depth... So now I still have to dilate and clean it out to help reduce the pain and discomfort in the area, even though I don't really view it as a viable sexual organ anymore (especially the neovag canal)."*
+* [I (22F) think bottom surgery gave me PTSD](https://www.reddit.com/r/Transgender_Surgeries/comments/14htotz/i_22f_think_bottom_surgery_gave_me_ptsd/) by ehu_girl in 2023 - *"3 years ago I had surgery with Dr. Bowers and I wasn’t prepared for the complications I had (very painful granulation tissue that made dilation extremely difficult as well as a lot of bleeding, more than normal)... I also still have a problem with internal hair growth because Bowers had said I didn’t need to get electrolysis beforehand...."*
+* [Bottom Surgery/Tracheal shave Update: Marci Bowers, Min Jun, Dev Gurjala, Ellie Ley](https://www.reddit.com/r/Transgender_Surgeries/comments/127fxuo/bottom_surgerytracheal_shave_update_marci_bowers/) by AlaynasChoppy in 2023 - Surgery with Bowers, *"I had done about 9 months of hair removal prior to surgery and at my consult she said that everything should be more than adequate in the hair removal department (despite having a few thin stragglers.)... The final update at the moment is that at my last Gyno appointment, my doctor informed me that there were quite a few EXTREMELY thin hairs on the very back wall of my vagina. Im pretty upset about it, especially considering how much electrolysis I went though and how confident bowers was that it should be enough. I wish that she would have been honest with me and told me to delay my surgery and get a bit smoother results from the Electrolysis first... hair in the vagina is a very very very normal Bowers result, because she always insists that she can do the follicle scrape and the in operating room hair removal, and she always says that it's okay with a little bit of hair. A lot of surgeons will just tell you no, or tell you that you will have hair, but she tries to say "almost all of our patients have amazing results with this."*
+* [Question about electrolysis template from Bluebond-Langner](https://www.reddit.com/r/Transgender_Surgeries/comments/10szu1c/question_about_electrolysis_template_from/) by ryandunivan in 2023
+* [Has progesterone fucked up my hair removal?](https://www.reddit.com/r/Transgender_Surgeries/comments/10hbcke/has_progesterone_fucked_up_my_hair_removal/) by Terminalguidance000 in 2023
+* [Bowers SRS Internal Hair Growth](https://www.reddit.com/r/Transgender_Surgeries/comments/10h5rez/bowers_srs_internal_hair_growth/) by ghosthousebabe in 2023 - *"I was really worried about hair removal, but I had done 5 laser sessions plus about 8-10 hours of electrolysis and wasn't seeing too much regrowth, so they told me that I should be fine, that hair growth is unlikely after the follicular scrape and intraoperative electrolysis. They were always kinda hedging when they said this, so I never got a clear "you're definitely fine" but they didn't seem concerned about it at all. Unfortunately, I just hit 4 months out and it seems that I have a LOT of hair growth. It's really upsetting and the options for dealing with it seem really limited, so I'm not sure what to do now...  I would guess probably 2+inches, it's pretty deep, so IDK if there's really going to be anything I can do about it."*
+* [Thanks to all who gave me advice on electrolysis on the genitals. I am doing a lot better with and any of the real bad spots I am doing my own lidocaine injections. 2 hour sessions every week for a year or more @ $90 per hour, between the cost and pain we sure do earn that vagina.](https://www.reddit.com/r/Transgender_Surgeries/comments/zbzbnr/thanks_to_all_who_gave_me_advice_on_electrolysis/) by Kayla__2021 in 2022
+* [Hair Growing Deep Inside Vaginal Canal](https://www.reddit.com/r/Transgender_Surgeries/comments/yspqto/hair_growing_deep_inside_vaginal_canal/) by DenseRegret6445 in 2022 - *"About 5 years ago, I had bottom surgery at GRS Montreal (Brassard). They don't/or didn't require electrolysis. I've had hair growth inside the canal since, as well as intermittent discharge (infections?) that have been a bother... It's gross and I want this fixed."*
+* [HOW TO: Insurance coverage for Hair Removal](https://www.reddit.com/r/asktransgender/comments/wfnktb/how_to_insurance_coverage_for_hair_removal/) by MonetSouffle in 2022
+* [How big a deal is post-op canal hair growth?](https://www.reddit.com/r/Transgender_Surgeries/comments/uvx0gh/how_big_a_deal_is_postop_canal_hair_growth/) by AccountThrowaway282 in 2022
+* [Is It OK to Have Laser Hair Removal On Genitals If I'm Having SRS With Dr. Suporn/Bank one day?](https://www.reddit.com/r/Transgender_Surgeries/comments/srzx20/is_it_ok_to_have_laser_hair_removal_on_genitals/) by throwawayvomit258 - in the comments *"... meet very briefly with Dr Banks. I immediately asked him if he prefered laser or electrolysis, and if he wants us to have the penis and tests done. He told me to avoid electrolysis because it will scar the skin deep and it also often reduces vaginaldepth. He likes laser because it is more effective and doesn't damage the skin. He told me we can have the tests and penis lasered, but with electrolysis only the perineum area. But he insisted he prefers laser, more effective and modern and without damaging the skin."*
+* [Hair regrowth in canal...help...](https://www.reddit.com/r/Transgender_Surgeries/comments/q8vx1i/hair_regrowth_in_canalhelp/) by aylesther in 2021 - surgeon is Alex Laungani in Canada
+* reply to [Approx 2.5 years post op w/ McGinn. Almost no scarring at all](https://www.reddit.com/r/Transgender_Surgeries/comments/pr87nh/approx_25_years_post_op_w_mcginn_almost_no/hdh1lof/) by thatfunnychickyouluv in 2021
+* [Extremely disappointed with McGinn Hair Situation](https://www.reddit.com/r/Transgender_Surgeries/comments/pihuj4/extremely_disappointed_with_mcginn_hair_situation/) by jasmine1106 in 2021 - surgeon is Christine McGinn
+* [Hair removal information for MTF SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/nre1km/hair_removal_information_for_mtf_srs/) by 2d4d_data in 2021 - this post is well worth reading
+* reply to [What areas do I need electrolysis on? (SRS MTF)](https://www.reddit.com/r/Transgender_Surgeries/comments/kvh8ww/what_areas_do_i_need_electrolysis_on_srs_mtf/gj0b9nx/?context=3) in 2021
+* [If you are having botton surgery make sure you get Electrolysis!!! Or a permanent solution for hair!](https://www.reddit.com/r/Transgender_Surgeries/comments/m1fp6y/if_you_are_having_botton_surgery_make_sure_you/) by PatienceFuzzy in 2021
+* [Are u thinking about Dr. Bowers for SRS? I had to do a corrective surgery MYSELF (after discharge)](https://www.reddit.com/r/Transgender_Surgeries/comments/mgxo2y/are_u_thinking_about_dr_bowers_for_srs_i_had_to/) by charis808 in 2021 - *"And the worst was when I realized that I had hair inside of me! Dr Bowers had said that laser hair removal was unnecessary and I have nothing to worry about. Big mistake!"*
+* [Am I just a wimp? Genital electrolysis....MTF](https://www.reddit.com/r/Transgender_Surgeries/comments/lbgjzk/am_i_just_a_wimp_genital_electrolysismtf/) by kaylee-42 in 2021
+* [Just got offered a cancellation date with Marci Bowers for SRS but COVID has prevented me from finishing hair removal! It's less than a month away! What should I do???](https://www.reddit.com/r/Transgender_Surgeries/comments/l9otiq/just_got_offered_a_cancellation_date_with_marci/) by Sufficient-Comment69 in 2021 - *"She [Bowers] claimed that they have never had complaints about internal hair due to their use of scrapping and surgical electrolysis... That's a lie. I've had issues after 18hrs of electrolysis and let them know about it."*
+* reply to [Question i need answered](https://www.reddit.com/r/Transgender_Surgeries/comments/l6lyvf/question_i_need_answered/gl1f5ic/) by Barb_B_notReally in 2021
+* reply to [What areas do I need electrolysis on? (SRS MTF)](https://www.reddit.com/r/Transgender_Surgeries/comments/kvh8ww/what_areas_do_i_need_electrolysis_on_srs_mtf/giyxwwj/) by jotspot in 2021
+* reply to [Electrolysis before surgery?](https://www.reddit.com/r/transontario/comments/ksj91i/electrolysis_before_surgery/girw9nt/) by SeanaTG in 2021
+* [GCS hair removal](https://www.reddit.com/r/Transgender_Surgeries/comments/kqg975/gcs_hair_removal/) by Seanna86 in 2021
+* [When was your last electrolysis appointment before SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/kn4apk/when_was_your_last_electrolysis_appointment/) by 2d4d_data in 2020
+* [Electrolysis and Pain](https://www.reddit.com/r/Transgender_Surgeries/comments/kk4zws/electrolysis_and_pain/) by proteannomore in 2020
+* [Hair removal information for MTF SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/imbxts/hair_removal_information_for_mtf_srs/) by 2d4d_data in 2020
+* [Dr.’s Bluebond-Langnor & Zhao @ NYU-Langone MtF GRS Genital Hair Removal Template](https://www.reddit.com/r/Transgender_Surgeries/comments/i14rv2/drs_bluebondlangnor_zhao_nyulangone_mtf_grs/) by ashleyjm in 2020
+* [Genital hair removal how long](https://www.reddit.com/r/Transgender_Surgeries/comments/g0rxw6/genital_hair_removal_how_long/) by JulieAnnHope in 2020
+* [Erectile tissue or internal hair removal?](https://www.reddit.com/r/Transgender_Surgeries/comments/fu44ty/erectile_tissue_or_internal_hair_removal/) in 2020
+* reply to [To electrolysis or not to electrolysis?](https://www.reddit.com/r/Transgender_Surgeries/comments/ennd39/to_electrolysis_or_not_to_electrolysis/fekpqi3/) by nilenc22 in 2020
+* [SRS with Dr Suporn PDF 5th Edition](https://www.reddit.com/r/Transgender_Surgeries/comments/fayd3p/srs_with_dr_suporn_pdf_5th_edition/) by Suporn2015SRS in 2020
+* [After vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/e5rh0o/after_vaginoplasty/) by edani941 in 2019
+* [Laser for hair removal before vaginoplasty?](https://www.reddit.com/r/Transgender_Surgeries/comments/emd0am/laser_for_hair_removal_before_vaginoplasty/) by iHRTSega in 2020
+* [Clear acrylic dilators and a flashlight can be used as fiber optics to see inside yourself](https://www.reddit.com/r/Transgender_Surgeries/comments/eko0l9/clear_acrylic_dilators_and_a_flashlight_can_be/) by MayScream in 2020
+* [Perineum electrolysis?](https://www.reddit.com/r/Transgender_Surgeries/comments/eec4te/perineum_electrolysis/) by BucketQuarry in 2019
+* [What is it like getting genital laser hair removal?](https://www.reddit.com/r/Transgender_Surgeries/comments/dwtdx7/what_is_it_like_getting_genital_laser_hair_removal/) by Jamie_GG in 2019
+* [To the Trans gals who have had gender reassignment, what is your experience with hair down there? ](https://www.reddit.com/r/asktransgender/comments/d4w6bq/to_the_trans_gals_who_have_had_gender/) by Beedeviled in 2019
+* [Is genital electrolysis supposed to be so painful?](https://www.reddit.com/r/asktransgender/comments/cmuuws/is_genital_electrolysis_supposed_to_be_so_painful/) by Invanar in 2019
+* reply to [MtF surgery: what they don't tell you](https://www.reddit.com/r/asktransgender/comments/bnqfnq/mtf_surgery_what_they_dont_tell_you/enbrsf9/) in 2019
+* reply to [Questions about Dr. Suporn](https://www.reddit.com/r/asktransgender/comments/bq1d2y/questions_about_dr_suporn/eo1dg29/) by Thrwway_1985 in 2019
+* [Thai SRS Scraping technique?](https://www.reddit.com/r/MtF/comments/9dyz2v/thai_srs_scraping_technique/) by Stevie_Rae_Pettit in 2018
+* [There's hair in my neo vagina :(](https://www.reddit.com/r/MtF/comments/a5on2v/theres_hair_in_my_neo_vagina/) by Enduromatic in 2018
+* [Hair in vagina, Chet, 6 months post-op](https://www.reddit.com/r/asktransgender/comments/9259rx/hair_in_vagina_chet_6_months_postop/) in 2018
+* [Hair removal before GRS?](https://www.reddit.com/r/asktransgender/comments/6fstpl/hair_removal_before_grs/) by katy1989 around 2017. Pay particular attention to /u/SeanaTG as she's an [electrologist in Canada](https://www.reddit.com/r/MtF/comments/7zmka0/vaginal_canal_hair_i_suppose_theres_no_solution/dupcst6/) with experience in these things. Non-genital electrolysis [post of hers](https://www.reddit.com/r/asktransgender/comments/7n35l2/new_years_edition_electrolysis_ama_by_certified/).
+* [I'm scared of SRS hairs :(](https://www.reddit.com/r/MtF/comments/6gj8tz/im_scared_of_srs_hairs/) by IrreleventPerson around 2017
+* [SRS one year ago with Dr. Chettawut, I have hair in my vaginal canal. I'm sad and worried, help or advice?](https://www.reddit.com/r/asktransgender/comments/29a67s/srs_one_year_ago_with_dr_chettawut_i_have_hair_in/) by tmp_0 around 2014
 
 Susans
 
@@ -755,27 +755,27 @@ Papers
 
 ## Post-op Hair removal
 
-Some of the above links have information on hair removal post-op, in particular those by [u/SeanaTG<sup>R</sup>](https://www.reddit.com/user/SeanaTG) aka [u/ElectrolysisBySeana<sup>R</sup>](https://www.reddit.com/user/ElectrolysisBySeana) (she's a [Canadian electrologist](http://www.electrolysisbyseana.com/)). It sounds very difficult, but not necessarily impossible. I'm not sure, but it may require cauterisation instead of electrolysis.
+Some of the above links have information on hair removal post-op, in particular those by [u/SeanaTG](https://www.reddit.com/user/SeanaTG) aka [u/ElectrolysisBySeana](https://www.reddit.com/user/ElectrolysisBySeana) (she's a [Canadian electrologist](http://www.electrolysisbyseana.com/)). It sounds very difficult, but not necessarily impossible. I'm not sure, but it may require cauterisation instead of electrolysis.
 
 There's a couple of posts on susans by KayXo, who managed to permanently remove deep vaginal hair after using [Nair](https://en.wikipedia.org/wiki/Nair_(hair_removal)) at the suggestion of her surgeon Dr Brassard. See [here](https://www.susans.org/forums/index.php/topic,220964.msg1958452.html#msg1958452), [here](https://www.susans.org/forums/index.php/topic,223149.msg1976373.html#msg1976373), and [here](https://www.susans.org/forums/index.php/topic,223149.msg1976533.html#msg1976533). Be extremely careful if you try that.
 
 reddit
 
-* [PPT Revision for Previous PIV SRS?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1d3ssml/ppt_revision_for_previous_piv_srs/) by TrepidatiousTrans in 2024 - *"I had PIV SRS with Dr. Bowers in 2019... I cannot say I am fully satisfied to live the rest of my life like this... Even though Bowers told me she would scrape hair follicles off in surgery, and that the laser hair removal I had previously would be fine, I have moderate hair growth in the back of the canal from the grafted scrotal skin. This bothers me EXTREMELY."*
-* [Help with GRS Revisions<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1b02v8e/help_with_grs_revisions/) by Konekays in 2024 - *"I had my vaginoplasty with Dr Bowers a little over a year and a half ago... I’ve also noticed alot of hair growth inside the vaginal canal recently. I did have laser hair removal, but I think I missed alot of the hair around the peritoneum and shaft because those areas were so painful. Is there any way to remove the hair now? I've been apprehensive to have a revision consultation with Dr. Bowers because of some dismissiveness in the past."*
-* reply to [So what if you do end up with hair inside?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/14n8s7y/so_what_if_you_do_end_up_with_hair_inside/jqlhdb9/) by bubblegumm00 in 2023 - *"This is happening to me currently despite having multiple Electrolysis sessions (not getting into that) and the options were either go under anesthetic to ‘try’ and remove the hair surgically which even then the hair could grow back or a revision and I’ve opted for the revision to replace the lining inside my vagina... please make sure your hair is completely gone before having the inital vaginoplasty, it will cause you alot less stress and alot less complications in your recovery time... so all the plans I had when I recovered fully from my surgery I have had to push them until next year when this issue will be fully resolved"*
-* [Haare in Vagina<sup>R</sup>](https://www.reddit.com/r/germantrans/comments/10ms9mg/haare_in_vagina/) by EvaBrownie88 in 2023 - post-op hair with Cvetan Taskov in Germany
-* [3 year post op srs, Karolinska Sweden, 2 revision surgeries. Very happy with the results now and all the problems were resolved. Finally last update, more info in comments also AMA.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/wquu15/3_year_post_op_srs_karolinska_sweden_2_revision/) by stupidstories in 2022 - *"My two biggest complaints used to be hair on the inside and pain. Thanks to the revisions I no longer have any hair on the inside and it is possible to do diathermy hair removal on the inside."*
-* [So I had electrolysis done once again on the inside during my revision surgery..<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/uvox1m/so_i_had_electrolysis_done_once_again_on_the/) by crose9310 in 2022 - *"The hairs make it more challenging to keep an odor from developing. When I wasn’t diligent about tweezing, sometimes I’d feel a kind of “internal irritation” that seemed impossible to really relieve."*
-* reply to [How big a deal is post-op canal hair growth?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/uvx0gh/how_big_a_deal_is_postop_canal_hair_growth/i9qm9yk/) by pwngirl24 in 2022 - *"I had it removed under general anesthesia. My hairs were extremely deep and otherwise inaccessible. I was also having other issues fixed at that time, so I asked the surgeon to address that issue while she was in there anyway. To quote my gyno: "She underwent surgery at that time, and several hairs were removed from the vaginal epithelium along the posterior vaginal area. The follicles were gently cauterized in attempt to decrease likelihood of hair regrowth.""*
-* [Silver nitrate for internal hair?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pw4u21/silver_nitrate_for_internal_hair/) by fairies- in 2021
-* [Post-op internal vaginal hair<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/o07hd9/postop_internal_vaginal_hair/) by throwawayhuman234 in 2021 - surgeon Kathy Rumer in USA
-* [Is there any hope for removing internal hair?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/liqw2q/is_there_any_hope_for_removing_internal_hair/) by reallytiredandsad in 2021
-* reply to [Electrolysis before surgery?<sup>R</sup>](https://www.reddit.com/r/transontario/comments/ksj91i/electrolysis_before_surgery/girw9nt/) by SeanaTG in 2021
-* reply to [NSFW devastated with how bad my results are looking<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ibrxke/nsfw_devastated_with_how_bad_my_results_are/g1y6fet/?context=3) by soafafilla in 2020
-* [Nair Nightmare! How do I get gf to go to hospital? Possible 2nd degree chemical burns, is this treatable? Please help!<sup>R</sup>](https://www.reddit.com/r/sex/comments/a2nbkc/nair_nightmare_how_do_i_get_gf_to_go_to_hospital/) by heresjohnny94 in 2018
-* [TIFU by chemically burning my vag [NSFW]<sup>R</sup>](https://www.reddit.com/r/tifu/comments/5pir1m/tifu_by_chemically_burning_my_vag_nsfw/) by partypanic in 2018
-* reply to [Hair removal before GRS?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/6fstpl/hair_removal_before_grs/dikuj90/) by SeanaTG - this explains why its not possible to remove deep internal hair with electrolysis
+* [PPT Revision for Previous PIV SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/1d3ssml/ppt_revision_for_previous_piv_srs/) by TrepidatiousTrans in 2024 - *"I had PIV SRS with Dr. Bowers in 2019... I cannot say I am fully satisfied to live the rest of my life like this... Even though Bowers told me she would scrape hair follicles off in surgery, and that the laser hair removal I had previously would be fine, I have moderate hair growth in the back of the canal from the grafted scrotal skin. This bothers me EXTREMELY."*
+* [Help with GRS Revisions](https://www.reddit.com/r/Transgender_Surgeries/comments/1b02v8e/help_with_grs_revisions/) by Konekays in 2024 - *"I had my vaginoplasty with Dr Bowers a little over a year and a half ago... I’ve also noticed alot of hair growth inside the vaginal canal recently. I did have laser hair removal, but I think I missed alot of the hair around the peritoneum and shaft because those areas were so painful. Is there any way to remove the hair now? I've been apprehensive to have a revision consultation with Dr. Bowers because of some dismissiveness in the past."*
+* reply to [So what if you do end up with hair inside?](https://www.reddit.com/r/Transgender_Surgeries/comments/14n8s7y/so_what_if_you_do_end_up_with_hair_inside/jqlhdb9/) by bubblegumm00 in 2023 - *"This is happening to me currently despite having multiple Electrolysis sessions (not getting into that) and the options were either go under anesthetic to ‘try’ and remove the hair surgically which even then the hair could grow back or a revision and I’ve opted for the revision to replace the lining inside my vagina... please make sure your hair is completely gone before having the inital vaginoplasty, it will cause you alot less stress and alot less complications in your recovery time... so all the plans I had when I recovered fully from my surgery I have had to push them until next year when this issue will be fully resolved"*
+* [Haare in Vagina](https://www.reddit.com/r/germantrans/comments/10ms9mg/haare_in_vagina/) by EvaBrownie88 in 2023 - post-op hair with Cvetan Taskov in Germany
+* [3 year post op srs, Karolinska Sweden, 2 revision surgeries. Very happy with the results now and all the problems were resolved. Finally last update, more info in comments also AMA.](https://www.reddit.com/r/Transgender_Surgeries/comments/wquu15/3_year_post_op_srs_karolinska_sweden_2_revision/) by stupidstories in 2022 - *"My two biggest complaints used to be hair on the inside and pain. Thanks to the revisions I no longer have any hair on the inside and it is possible to do diathermy hair removal on the inside."*
+* [So I had electrolysis done once again on the inside during my revision surgery..](https://www.reddit.com/r/Transgender_Surgeries/comments/uvox1m/so_i_had_electrolysis_done_once_again_on_the/) by crose9310 in 2022 - *"The hairs make it more challenging to keep an odor from developing. When I wasn’t diligent about tweezing, sometimes I’d feel a kind of “internal irritation” that seemed impossible to really relieve."*
+* reply to [How big a deal is post-op canal hair growth?](https://www.reddit.com/r/Transgender_Surgeries/comments/uvx0gh/how_big_a_deal_is_postop_canal_hair_growth/i9qm9yk/) by pwngirl24 in 2022 - *"I had it removed under general anesthesia. My hairs were extremely deep and otherwise inaccessible. I was also having other issues fixed at that time, so I asked the surgeon to address that issue while she was in there anyway. To quote my gyno: "She underwent surgery at that time, and several hairs were removed from the vaginal epithelium along the posterior vaginal area. The follicles were gently cauterized in attempt to decrease likelihood of hair regrowth.""*
+* [Silver nitrate for internal hair?](https://www.reddit.com/r/Transgender_Surgeries/comments/pw4u21/silver_nitrate_for_internal_hair/) by fairies- in 2021
+* [Post-op internal vaginal hair](https://www.reddit.com/r/Transgender_Surgeries/comments/o07hd9/postop_internal_vaginal_hair/) by throwawayhuman234 in 2021 - surgeon Kathy Rumer in USA
+* [Is there any hope for removing internal hair?](https://www.reddit.com/r/Transgender_Surgeries/comments/liqw2q/is_there_any_hope_for_removing_internal_hair/) by reallytiredandsad in 2021
+* reply to [Electrolysis before surgery?](https://www.reddit.com/r/transontario/comments/ksj91i/electrolysis_before_surgery/girw9nt/) by SeanaTG in 2021
+* reply to [NSFW devastated with how bad my results are looking](https://www.reddit.com/r/Transgender_Surgeries/comments/ibrxke/nsfw_devastated_with_how_bad_my_results_are/g1y6fet/?context=3) by soafafilla in 2020
+* [Nair Nightmare! How do I get gf to go to hospital? Possible 2nd degree chemical burns, is this treatable? Please help!](https://www.reddit.com/r/sex/comments/a2nbkc/nair_nightmare_how_do_i_get_gf_to_go_to_hospital/) by heresjohnny94 in 2018
+* [TIFU by chemically burning my vag [NSFW]](https://www.reddit.com/r/tifu/comments/5pir1m/tifu_by_chemically_burning_my_vag_nsfw/) by partypanic in 2018
+* reply to [Hair removal before GRS?](https://www.reddit.com/r/asktransgender/comments/6fstpl/hair_removal_before_grs/dikuj90/) by SeanaTG - this explains why its not possible to remove deep internal hair with electrolysis
 
 Susans
 
@@ -797,8 +797,8 @@ Electrolysis machines can use probes that burn off skin tags, so it may be possi
 
 reddit
 
-* reply to [U OF M OR MAYO??<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10em69h/u_of_m_or_mayo/j53zfqn/) by WVjF2mX5VEmoYqsKL4s8 in 2023, surgeon Jorys Martinez-Jorge in USA  - *Mayo will tell you hair removal is not necessary. This is not true. You must completely clear the area with electrolysis beforehand or risk dealing with hair afterwards... I have had countless silver nitrate treatments and one followup surgery to cauterize what silver nitrate could not. I anticipate at least one more cauterization surgery to eliminate hypergranulated tissue and hair follicles inside my vagina.*
-* [POST-SRS: hair inside vagina. Can it be removed?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hgusuz/postsrs_hair_inside_vagina_can_it_be_removed/) by KaySOS in 2020 - *"Yes. I just had hairs removed from pretty deep inside my vagina as well as just under my urethra. You just need to find a gynecologist that will do it. Mine took forceps, pulled the hair out, and then applied silver nitrate to the follicles to "discourage" (her words) them from coming back. Will they stay gone? I don't know. I just had it done like on Monday."*
+* reply to [U OF M OR MAYO??](https://www.reddit.com/r/Transgender_Surgeries/comments/10em69h/u_of_m_or_mayo/j53zfqn/) by WVjF2mX5VEmoYqsKL4s8 in 2023, surgeon Jorys Martinez-Jorge in USA  - *Mayo will tell you hair removal is not necessary. This is not true. You must completely clear the area with electrolysis beforehand or risk dealing with hair afterwards... I have had countless silver nitrate treatments and one followup surgery to cauterize what silver nitrate could not. I anticipate at least one more cauterization surgery to eliminate hypergranulated tissue and hair follicles inside my vagina.*
+* [POST-SRS: hair inside vagina. Can it be removed?](https://www.reddit.com/r/Transgender_Surgeries/comments/hgusuz/postsrs_hair_inside_vagina_can_it_be_removed/) by KaySOS in 2020 - *"Yes. I just had hairs removed from pretty deep inside my vagina as well as just under my urethra. You just need to find a gynecologist that will do it. Mine took forceps, pulled the hair out, and then applied silver nitrate to the follicles to "discourage" (her words) them from coming back. Will they stay gone? I don't know. I just had it done like on Monday."*
 
 YouTube
 
@@ -858,7 +858,7 @@ HairTell
 
 reddit
 
-* [Hi r/MtF! I made a map of electrolysis clinics that offer lidocaine injections<sup>R</sup>](https://www.reddit.com/r/MtF/comments/u5y7rx/hi_rmtf_i_made_a_map_of_electrolysis_clinics_that/) by prismatic_valkyrie in 2022
+* [Hi r/MtF! I made a map of electrolysis clinics that offer lidocaine injections](https://www.reddit.com/r/MtF/comments/u5y7rx/hi_rmtf_i_made_a_map_of_electrolysis_clinics_that/) by prismatic_valkyrie in 2022
 
 ## Australia
 
@@ -874,8 +874,8 @@ None
 
 reddit
 
-* [Electrolysis in Adelaide?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/uzltmm/electrolysis_in_adelaide/) by Adorable_Egg86 in 2022
-* [Electrolysis recommendations in sa<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/eh0x85/electrolysis_recommendations_in_sa/) by lawrerd1 in 2020
+* [Electrolysis in Adelaide?](https://www.reddit.com/r/transgenderau/comments/uzltmm/electrolysis_in_adelaide/) by Adorable_Egg86 in 2022
+* [Electrolysis recommendations in sa](https://www.reddit.com/r/transgenderau/comments/eh0x85/electrolysis_recommendations_in_sa/) by lawrerd1 in 2020
 
 <br />
 
@@ -890,8 +890,8 @@ Key details
 
 reddit
 
-* reply to [Electrolysis Vic<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/tihklz/electrolysis_vic/i1hke5n/) by niaftaghn in 2022 - *"I'm seeing Grace http://gkhairremoval.com.au/ and pretty happy so far. She's very nice and familiar with the needs of transfemme people."*
-* [Electrolysis for facial hair in Adelaide?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/nxo6ul/electrolysis_for_facial_hair_in_adelaide/) by Inappropriate-Pizza in 2021
+* reply to [Electrolysis Vic](https://www.reddit.com/r/transgenderau/comments/tihklz/electrolysis_vic/i1hke5n/) by niaftaghn in 2022 - *"I'm seeing Grace http://gkhairremoval.com.au/ and pretty happy so far. She's very nice and familiar with the needs of transfemme people."*
+* [Electrolysis for facial hair in Adelaide?](https://www.reddit.com/r/transgenderau/comments/nxo6ul/electrolysis_for_facial_hair_in_adelaide/) by Inappropriate-Pizza in 2021
 
 <br />
 
@@ -904,7 +904,7 @@ Key details
 
 reddit
 
-* reply to [Trans exclusive hair removal in Coburg, Melb. How are they still in business?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kblg7r/trans_exclusive_hair_removal_in_coburg_melb_how/gfigmow/) by HiddenStill in 2020
+* reply to [Trans exclusive hair removal in Coburg, Melb. How are they still in business?](https://www.reddit.com/r/transgenderau/comments/kblg7r/trans_exclusive_hair_removal_in_coburg_melb_how/gfigmow/) by HiddenStill in 2020
 
 <br />
 
@@ -921,7 +921,7 @@ Key details
 
 reddit
 
-* [Trans exclusive hair removal in Coburg, Melb. How are they still in business?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kblg7r/trans_exclusive_hair_removal_in_coburg_melb_how/) by zoetrope_ in 2020
+* [Trans exclusive hair removal in Coburg, Melb. How are they still in business?](https://www.reddit.com/r/transgenderau/comments/kblg7r/trans_exclusive_hair_removal_in_coburg_melb_how/) by zoetrope_ in 2020
 
 <br />
 
@@ -936,10 +936,10 @@ Key details
 
 reddit
 
-* [Are there any Mass Clearing/Large Volume Electrolysis clinics in the country?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1ew8j7n/are_there_any_mass_clearinglarge_volume/) by Quirky-Response in 2024
+* [Are there any Mass Clearing/Large Volume Electrolysis clinics in the country?](https://www.reddit.com/r/transgenderau/comments/1ew8j7n/are_there_any_mass_clearinglarge_volume/) by Quirky-Response in 2024
 * reply to [Best facial hair removal providers in Melbourne](https://old.reddit.com/r/transgenderau/comments/1edzjkw/best_facial_hair_removal_providers_in_melbourne/lfgksuz/?context=3) by Away-Parking-4775 in 2024 - *"I started my electrolysis at Peach Clinic in Prahan but I found the operator to be quite rude and abrupt and I’ve actually heard similar complaints by others."*
-* reply to [Electrolysis Vic<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/tihklz/electrolysis_vic/i1hke5n/) by niaftaghn in 2022 - *"I was previously going to peach clinics in prahran (the 16 needle kind) but wasn't too happy as I had unpleasant scabbing after each session."*
-* reply to [Trans exclusive hair removal in Coburg, Melb. How are they still in business?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kblg7r/trans_exclusive_hair_removal_in_coburg_melb_how/gfrg9kw/) by ltothaz in 2020
+* reply to [Electrolysis Vic](https://www.reddit.com/r/transgenderau/comments/tihklz/electrolysis_vic/i1hke5n/) by niaftaghn in 2022 - *"I was previously going to peach clinics in prahran (the 16 needle kind) but wasn't too happy as I had unpleasant scabbing after each session."*
+* reply to [Trans exclusive hair removal in Coburg, Melb. How are they still in business?](https://www.reddit.com/r/transgenderau/comments/kblg7r/trans_exclusive_hair_removal_in_coburg_melb_how/gfrg9kw/) by ltothaz in 2020
 
 <br />
 
@@ -952,7 +952,7 @@ Key details
 
 reddit
 
-* [Trans friendly electrolysis in Melbourne?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ni2uoj/trans_friendly_electrolysis_in_melbourne/) by  Lia_mtf in 2021
+* [Trans friendly electrolysis in Melbourne?](https://www.reddit.com/r/transgenderau/comments/ni2uoj/trans_friendly_electrolysis_in_melbourne/) by  Lia_mtf in 2021
 
 <br />
 
@@ -970,8 +970,8 @@ Sites
 
 reddit
 
-* [Botched cosmetic tattooing<sup>R</sup>](https://www.reddit.com/r/PlasticSurgery/comments/ape8e3/botched_cosmetic_tattooing/) by pubecube808 around 2020
-* [What are some trans-friendly laser clinics in Melbourne?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/7u7l2o/what_are_some_transfriendly_laser_clinics_in/) by andthenthiscameout around 2018
+* [Botched cosmetic tattooing](https://www.reddit.com/r/PlasticSurgery/comments/ape8e3/botched_cosmetic_tattooing/) by pubecube808 around 2020
+* [What are some trans-friendly laser clinics in Melbourne?](https://www.reddit.com/r/transgenderau/comments/7u7l2o/what_are_some_transfriendly_laser_clinics_in/) by andthenthiscameout around 2018
 
 realself
 
@@ -995,8 +995,8 @@ Key details
 
 reddit
 
-* [Where can I get permanent hair removal in Melbourne?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/wyri34/where_can_i_get_permanent_hair_removal_in/im0gals/) by badxluck - *"Melbourne Electrolysis on Queen st in the city. Sally has many trans clients already ftm & mtf and she’s amazing."*
-* [Phallo RFF - electrolysis (Melbourne, Aus)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vx18wk/phallo_rff_electrolysis_melbourne_aus/) by badxluck in 2022
+* [Where can I get permanent hair removal in Melbourne?](https://www.reddit.com/r/transgenderau/comments/wyri34/where_can_i_get_permanent_hair_removal_in/im0gals/) by badxluck - *"Melbourne Electrolysis on Queen st in the city. Sally has many trans clients already ftm & mtf and she’s amazing."*
+* [Phallo RFF - electrolysis (Melbourne, Aus)](https://www.reddit.com/r/transgenderau/comments/vx18wk/phallo_rff_electrolysis_melbourne_aus/) by badxluck in 2022
 
 <br />
 
@@ -1056,8 +1056,8 @@ Key details
 
 reddit
 
-* [Central NSW<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/lr9o03/central_nsw/) by jasmi79 in 2021
-* [Ash's guide to permanent hair removal via electrolysis for transgender women<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/5qgbtn/ashs_guide_to_permanent_hair_removal_via/) by NocteVulpes in 2019, reviews Jonathan Hayes, Permanence, and Katherine Spiric (Nicolsons Electrolysis)
+* [Central NSW](https://www.reddit.com/r/transgenderau/comments/lr9o03/central_nsw/) by jasmi79 in 2021
+* [Ash's guide to permanent hair removal via electrolysis for transgender women](https://www.reddit.com/r/transgenderau/comments/5qgbtn/ashs_guide_to_permanent_hair_removal_via/) by NocteVulpes in 2019, reviews Jonathan Hayes, Permanence, and Katherine Spiric (Nicolsons Electrolysis)
 
 <br />
 
@@ -1072,9 +1072,9 @@ Key details
 
 reddit
 
-* [Post electrolysis scarring. It’s been 4 weeks post galvanic electrolysis and my face used to be silky smooth, now looks like acne scars. Is this just part of the healing process or is this permanent?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/e39x1c/post_electrolysis_scarring_its_been_4_weeks_post/) by shinyfuture in 2019 - electrolysis with Peach Clinics in Sydney, Australia
-* [22 hours of galvanic electrolysis, 3 days straight.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dp329m/22_hours_of_galvanic_electrolysis_3_days_straight/) by shinyfuture in 2019 - electrolysis with Peach Clinics in Sydney, Australia
-* [Ash's guide to permanent hair removal via electrolysis for transgender women<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/5qgbtn/ashs_guide_to_permanent_hair_removal_via/) by NocteVulpes in 2019, reviews Hayes, Permanence, and Katherine Spiric (Nicolsons Electrolysis)
+* [Post electrolysis scarring. It’s been 4 weeks post galvanic electrolysis and my face used to be silky smooth, now looks like acne scars. Is this just part of the healing process or is this permanent?](https://www.reddit.com/r/Transgender_Surgeries/comments/e39x1c/post_electrolysis_scarring_its_been_4_weeks_post/) by shinyfuture in 2019 - electrolysis with Peach Clinics in Sydney, Australia
+* [22 hours of galvanic electrolysis, 3 days straight.](https://www.reddit.com/r/Transgender_Surgeries/comments/dp329m/22_hours_of_galvanic_electrolysis_3_days_straight/) by shinyfuture in 2019 - electrolysis with Peach Clinics in Sydney, Australia
+* [Ash's guide to permanent hair removal via electrolysis for transgender women](https://www.reddit.com/r/transgenderau/comments/5qgbtn/ashs_guide_to_permanent_hair_removal_via/) by NocteVulpes in 2019, reviews Hayes, Permanence, and Katherine Spiric (Nicolsons Electrolysis)
 
 YouTube
 
@@ -1092,9 +1092,9 @@ Key details
 
 reddit
 
-* [Are there any Mass Clearing/Large Volume Electrolysis clinics in the country?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1ew8j7n/are_there_any_mass_clearinglarge_volume/) by Quirky-Response in 2024
-* [“Permanence Electrolysis” in Sydney CBD?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vq4px5/permanence_electrolysis_in_sydney_cbd/) by Laura_271 in 2022
-* [Permanence Electrolysis Sydney?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/6pn8hc/permanence_electrolysis_sydney/) by maccas196 in 2017
+* [Are there any Mass Clearing/Large Volume Electrolysis clinics in the country?](https://www.reddit.com/r/transgenderau/comments/1ew8j7n/are_there_any_mass_clearinglarge_volume/) by Quirky-Response in 2024
+* [“Permanence Electrolysis” in Sydney CBD?](https://www.reddit.com/r/transgenderau/comments/vq4px5/permanence_electrolysis_in_sydney_cbd/) by Laura_271 in 2022
+* [Permanence Electrolysis Sydney?](https://www.reddit.com/r/transgenderau/comments/6pn8hc/permanence_electrolysis_sydney/) by maccas196 in 2017
 
 #### Forever Hair Removal
 
@@ -1114,7 +1114,7 @@ Key details
 
 reddit
 
-* reply to [Where to get permanent hair removal in Sydney Area? (MTF)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1du6txx/where_to_get_permanent_hair_removal_in_sydney/lbeux9g/) by Logical-Advance-5738 in 2024
+* reply to [Where to get permanent hair removal in Sydney Area? (MTF)](https://www.reddit.com/r/transgenderau/comments/1du6txx/where_to_get_permanent_hair_removal_in_sydney/lbeux9g/) by Logical-Advance-5738 in 2024
 
 ####  South Coast Electrolysis
 
@@ -1125,7 +1125,7 @@ Key details
 
 reddit
 
-* reply to [Are there any Mass Clearing/Large Volume Electrolysis clinics in the country?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1ew8j7n/are_there_any_mass_clearinglarge_volume/lj5s63q/) by secondsculpture in 2024 - *"I'm in Wollongong and found someone down there who is fantastic. She does blend and has been doing it for 25 years and the results speak for themselves."*
+* reply to [Are there any Mass Clearing/Large Volume Electrolysis clinics in the country?](https://www.reddit.com/r/transgenderau/comments/1ew8j7n/are_there_any_mass_clearinglarge_volume/lj5s63q/) by secondsculpture in 2024 - *"I'm in Wollongong and found someone down there who is fantastic. She does blend and has been doing it for 25 years and the results speak for themselves."*
 
 <br />
 
@@ -1140,7 +1140,7 @@ Key details
 
 reddit
 
-* [Electrolysis in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/lpgy9s/electrolysis_in_brisbane/) by shonkshonk in 2021
+* [Electrolysis in Brisbane](https://www.reddit.com/r/transgenderau/comments/lpgy9s/electrolysis_in_brisbane/) by shonkshonk in 2021
 
 <br />
 
@@ -1157,8 +1157,8 @@ Key details
 
 reddit
 
-* [Electrolysis in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/lpgy9s/electrolysis_in_brisbane/) by shonkshonk in 2021
-* reply to [Trans exclusive hair removal in Coburg, Melb. How are they still in business?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kblg7r/trans_exclusive_hair_removal_in_coburg_melb_how/gfiim0h/) by ja53582 - just in case its not clear, this reply is a reccomendation for Ella Baché Upper Mt Gravatt
+* [Electrolysis in Brisbane](https://www.reddit.com/r/transgenderau/comments/lpgy9s/electrolysis_in_brisbane/) by shonkshonk in 2021
+* reply to [Trans exclusive hair removal in Coburg, Melb. How are they still in business?](https://www.reddit.com/r/transgenderau/comments/kblg7r/trans_exclusive_hair_removal_in_coburg_melb_how/gfiim0h/) by ja53582 - just in case its not clear, this reply is a reccomendation for Ella Baché Upper Mt Gravatt
 
 <br />
 
@@ -1173,8 +1173,8 @@ Key details
 
 reddit
 
-* [Electrolysis in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vxykuv/electrolysis_in_brisbane/) by Ms-Gobbledygoo in 2022
-* [If you're in Brisbane and need electrolysis<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/nmvk6y/if_youre_in_brisbane_and_need_electrolysis/) by nd-transfemme in 2021
+* [Electrolysis in Brisbane](https://www.reddit.com/r/transgenderau/comments/vxykuv/electrolysis_in_brisbane/) by Ms-Gobbledygoo in 2022
+* [If you're in Brisbane and need electrolysis](https://www.reddit.com/r/transgenderau/comments/nmvk6y/if_youre_in_brisbane_and_need_electrolysis/) by nd-transfemme in 2021
 
 <br />
 
@@ -1191,8 +1191,8 @@ There seems to be another location with possibly the same owner, Tina Hall, [Cap
 
 reddit
 
-* [Electrolysis in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vxykuv/electrolysis_in_brisbane/) by Ms-Gobbledygoo in 2022
-* reply to [Electrolysis in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/lpgy9s/electrolysis_in_brisbane/gqnhxkq/) in 2021
+* [Electrolysis in Brisbane](https://www.reddit.com/r/transgenderau/comments/vxykuv/electrolysis_in_brisbane/) by Ms-Gobbledygoo in 2022
+* reply to [Electrolysis in Brisbane](https://www.reddit.com/r/transgenderau/comments/lpgy9s/electrolysis_in_brisbane/gqnhxkq/) in 2021
 
 Review sites
 
@@ -1212,7 +1212,7 @@ Key details
 
 reddit
 
-* [Electrolysis in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vxykuv/electrolysis_in_brisbane/) by Ms-Gobbledygoo in 2022
+* [Electrolysis in Brisbane](https://www.reddit.com/r/transgenderau/comments/vxykuv/electrolysis_in_brisbane/) by Ms-Gobbledygoo in 2022
 
 Review sites
 
@@ -1235,7 +1235,7 @@ Key details
 
 reddit
 
-* reply to [Electrolysis in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vxykuv/electrolysis_in_brisbane/ifz1un3/) by SMRDSE in 2022 - *"I haven't had a session yet, but I had a consult at Katrina's skin works in Taigum. The lady was lovely and supportive, but they only offered me electrolysis for my face."*
+* reply to [Electrolysis in Brisbane](https://www.reddit.com/r/transgenderau/comments/vxykuv/electrolysis_in_brisbane/ifz1un3/) by SMRDSE in 2022 - *"I haven't had a session yet, but I had a consult at Katrina's skin works in Taigum. The lady was lovely and supportive, but they only offered me electrolysis for my face."*
 
 Review sites
 
@@ -1256,7 +1256,7 @@ Key details
 
 reddit
 
-* [Electrolysis- Perth<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/wpvncz/electrolysis_perth/) by Jaz-Bun in 2022
+* [Electrolysis- Perth](https://www.reddit.com/r/transgenderau/comments/wpvncz/electrolysis_perth/) by Jaz-Bun in 2022
 
 <br />
 
@@ -1266,7 +1266,7 @@ reddit
 
 reddit
 
-* [Intensive electrolysis sessions in Europe?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/b6u7g5/intensive_electrolysis_sessions_in_europe/) by moonbladewielder in 2019
+* [Intensive electrolysis sessions in Europe?](https://www.reddit.com/r/asktransgender/comments/b6u7g5/intensive_electrolysis_sessions_in_europe/) by moonbladewielder in 2019
 
 <br />
 
@@ -1293,10 +1293,10 @@ O2 Clinic is also owned by Dr Bart. I'm not sure if there's any difference for h
 
 reddit
 
-* [This is my skin 4 days after an intensive 8h long Electroylsis (More Context in comments)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ys79db/this_is_my_skin_4_days_after_an_intensive_8h_long/) by Nikki22_ in 2022
-* [Marathon electrolysis session at 2pass clinic, who did it and what should I know?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ksibt9/marathon_electrolysis_session_at_2pass_clinic_who/) by  onewaytickettola in 2021
-* [Intensive electrolysis sessions in Europe?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/b6u7g5/intensive_electrolysis_sessions_in_europe/) by moonbladewielder in 2019
-* reply to [Options for pre-srs electro?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/bzutfj/options_for_presrs_electro/er4qk4l/) in 2019
+* [This is my skin 4 days after an intensive 8h long Electroylsis (More Context in comments)](https://www.reddit.com/r/Transgender_Surgeries/comments/ys79db/this_is_my_skin_4_days_after_an_intensive_8h_long/) by Nikki22_ in 2022
+* [Marathon electrolysis session at 2pass clinic, who did it and what should I know?](https://www.reddit.com/r/Transgender_Surgeries/comments/ksibt9/marathon_electrolysis_session_at_2pass_clinic_who/) by  onewaytickettola in 2021
+* [Intensive electrolysis sessions in Europe?](https://www.reddit.com/r/asktransgender/comments/b6u7g5/intensive_electrolysis_sessions_in_europe/) by moonbladewielder in 2019
+* reply to [Options for pre-srs electro?](https://www.reddit.com/r/Transgender_Surgeries/comments/bzutfj/options_for_presrs_electro/er4qk4l/) in 2019
 
 Susans
 
@@ -1324,7 +1324,7 @@ YouTube
 
 ### Ontario
 
-* reddit post [Microscopic Electrolysis Hair Removal<sup>R</sup>](https://www.reddit.com/r/transontario/comments/epo0wo/microscopic_electrolysis_hair_removal/) by ChristaRainbow in 2020
+* reddit post [Microscopic Electrolysis Hair Removal](https://www.reddit.com/r/transontario/comments/epo0wo/microscopic_electrolysis_hair_removal/) by ChristaRainbow in 2020
 
 <br />
 
@@ -1341,7 +1341,7 @@ Key details
 
 reddit
 
-* [Electrolysis hair removal in Finland (or perhaps Sweden/Estonia)?<sup>R</sup>](https://www.reddit.com/r/transnord/comments/glx9ld/electrolysis_hair_removal_in_finland_or_perhaps/) by AwfulAtScreenNames in 2020
+* [Electrolysis hair removal in Finland (or perhaps Sweden/Estonia)?](https://www.reddit.com/r/transnord/comments/glx9ld/electrolysis_hair_removal_in_finland_or_perhaps/) by AwfulAtScreenNames in 2020
 
 <br />
 
@@ -1351,7 +1351,7 @@ reddit
 
 reddit
 
-* [Intensive electrolysis sessions in Europe?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/b6u7g5/intensive_electrolysis_sessions_in_europe/) by moonbladewielder in 2019
+* [Intensive electrolysis sessions in Europe?](https://www.reddit.com/r/asktransgender/comments/b6u7g5/intensive_electrolysis_sessions_in_europe/) by moonbladewielder in 2019
 
 <br />
 
@@ -1361,7 +1361,7 @@ reddit
 
 reddit
 
-* [Intensive electrolysis sessions in Europe?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/b6u7g5/intensive_electrolysis_sessions_in_europe/) by moonbladewielder in 2019
+* [Intensive electrolysis sessions in Europe?](https://www.reddit.com/r/asktransgender/comments/b6u7g5/intensive_electrolysis_sessions_in_europe/) by moonbladewielder in 2019
 
 <br />
 
@@ -1371,7 +1371,7 @@ reddit
 
 reddit
 
-* [Intensive electrolysis sessions in Europe?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/b6u7g5/intensive_electrolysis_sessions_in_europe/) by moonbladewielder in 2019
+* [Intensive electrolysis sessions in Europe?](https://www.reddit.com/r/asktransgender/comments/b6u7g5/intensive_electrolysis_sessions_in_europe/) by moonbladewielder in 2019
 
 <br />
 
@@ -1395,8 +1395,8 @@ They are very expensive per hour, but can do anesthetic injections. The use ther
 
 reddit
 
-* reply to [In Thailand Post-Op - Facial Electrolysis Needed While Here<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/y28qaj/in_thailand_postop_facial_electrolysis_needed/is4kkvg/) by Ok-Computer-7001 in 2022
-* [Yanhee Hospital - electrolysis review (it is in northern Bangkok)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/w3is4n/yanhee_hospital_electrolysis_review_it_is_in/) by Ok-Computer-7001 in 2022
+* reply to [In Thailand Post-Op - Facial Electrolysis Needed While Here](https://www.reddit.com/r/Transgender_Surgeries/comments/y28qaj/in_thailand_postop_facial_electrolysis_needed/is4kkvg/) by Ok-Computer-7001 in 2022
+* [Yanhee Hospital - electrolysis review (it is in northern Bangkok)](https://www.reddit.com/r/Transgender_Surgeries/comments/w3is4n/yanhee_hospital_electrolysis_review_it_is_in/) by Ok-Computer-7001 in 2022
 
 HairTell
 
@@ -1409,7 +1409,7 @@ Susans
 
 ### Kamol
 
-* [Kamol Hospital Review<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vr0sx3/kamol_hospital_review/) by cashoob in 2022 - links to [KAMOL HOSPITAL THAILAND REVIEW](https://kamol-review.blogspot.com/2022/07/kamol-hospital-thailand-review.html) on blogspot, they use numbing cream, not injections - *"The electrolysis were not very painful because of good anaesthetics but the job was horrible. 2 months after the procedure and after healing of the skin I am left with holes in my face like after severe acne.  They did not pay attention to the job and left a lot of dead hair inside; this was causing pain and issue for almost 2 months. Entire face was swollen for over 3 weeks. Each of those blood dots on the picture did turn into physical damage on the skin. Some are quite big and deep."*
+* [Kamol Hospital Review](https://www.reddit.com/r/Transgender_Surgeries/comments/vr0sx3/kamol_hospital_review/) by cashoob in 2022 - links to [KAMOL HOSPITAL THAILAND REVIEW](https://kamol-review.blogspot.com/2022/07/kamol-hospital-thailand-review.html) on blogspot, they use numbing cream, not injections - *"The electrolysis were not very painful because of good anaesthetics but the job was horrible. 2 months after the procedure and after healing of the skin I am left with holes in my face like after severe acne.  They did not pay attention to the job and left a lot of dead hair inside; this was causing pain and issue for almost 2 months. Entire face was swollen for over 3 weeks. Each of those blood dots on the picture did turn into physical damage on the skin. Some are quite big and deep."*
 
 <br />
 
@@ -1435,10 +1435,10 @@ Surgeon Marci Bowers has a list of genital hair removal places in the USA
 
 reddit
 
-* [Mass Electrolysis<sup>R</sup>](https://www.reddit.com/r/ask_transgender/comments/ggqboe/mass_electrolysis/) by Hikki07 in 2020
-* [22 hours of galvanic electrolysis, 3 days straight.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dp329m/22_hours_of_galvanic_electrolysis_3_days_straight/) by shinyfuture in 2019 - mentions Senzo Pelo in Scottsdale. 
-* [I Just Did My Second Session of Large Volume (AKA Marathon) Electrolysis -- Write-up and AMA (Repost because I accidentally deleted the first one)<sup>R</sup>](https://www.reddit.com/r/MtF/comments/d3yrf8/i_just_did_my_second_session_of_large_volume_aka/) by emlist in 2019 - this is with Precision Hair Removal in Chicago.
-* [Where in the continental US can you get electrolysis with lidocaine injections?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/6687h2/where_in_the_continental_us_can_you_get/) around 2017
+* [Mass Electrolysis](https://www.reddit.com/r/ask_transgender/comments/ggqboe/mass_electrolysis/) by Hikki07 in 2020
+* [22 hours of galvanic electrolysis, 3 days straight.](https://www.reddit.com/r/Transgender_Surgeries/comments/dp329m/22_hours_of_galvanic_electrolysis_3_days_straight/) by shinyfuture in 2019 - mentions Senzo Pelo in Scottsdale. 
+* [I Just Did My Second Session of Large Volume (AKA Marathon) Electrolysis -- Write-up and AMA (Repost because I accidentally deleted the first one)](https://www.reddit.com/r/MtF/comments/d3yrf8/i_just_did_my_second_session_of_large_volume_aka/) by emlist in 2019 - this is with Precision Hair Removal in Chicago.
+* [Where in the continental US can you get electrolysis with lidocaine injections?](https://www.reddit.com/r/asktransgender/comments/6687h2/where_in_the_continental_us_can_you_get/) around 2017
 
 Susans
 
@@ -1462,7 +1462,7 @@ Does injections/IV. This is some connection with FFS surgeon Dr Zukowski.
 
 reddit
 
-* [My last intensive electrolysis session is done. My face is too numb to move it.<sup>R</sup>](https://www.reddit.com/r/transpositive/comments/f9k5g9/my_last_intensive_electrolysis_session_is_done_my/) by MrsGenevieve in 2020
+* [My last intensive electrolysis session is done. My face is too numb to move it.](https://www.reddit.com/r/transpositive/comments/f9k5g9/my_last_intensive_electrolysis_session_is_done_my/) by MrsGenevieve in 2020
 
 Susans
 
@@ -1477,10 +1477,10 @@ Susans
 
 reddit
 
-* [Frightening experience with Dr. Zukowski<sup>R</sup>](https://www.reddit.com/r/trans/comments/13pwcrs/frightening_experience_with_dr_zukowski/) by birdsandsnakes in 2023 - *Yesterday, I went for high volume hair removal at the Cirine Hair Removal. They're associated with the Zukowski Center, and Dr Zukowski gives medical support — the deal is, he sedates you and gives you lidocaine injections to numb your face, and then they do a very long electrolysis session. I had a really scary experience. Shortly after my third set of lidocaine injections, I'd gone for a bathroom break, when suddenly I found myself disoriented, losing control of my limbs, having a hard time walking, seeing double, and struggling to put sentences together. I made it out of the bathroom and asked an electrologist to call 911 — I could no longer use my phone to do it myself — but they refused. Instead, they called Dr Zukowski back. He tried to convince me I was having a panic attack. (I've had panic attacks. This was not a panic attack.) At this point, my arms and legs were twitching uncontrollably, and I couldn't stand or walk without help. He insisted that this was my fault, and that I'd feel better if I relaxed. Eventually, he gave me some kind of intravenous medication that stopped the attack. I've since learned that those were [symptoms of a lidocaine overdose, which could have progressed to seizures or coma](https://www.medicalnewstoday.com/articles/lidocaine-overdose).*
-* [Large Volume Electrolysis<sup>R</sup>](https://www.reddit.com/r/TransLater/comments/12kzvgt/large_volume_electrolysis/) by Revolutionary-Net-42 in 2023 - *"I think the electro techs do amazing! HOWEVER, Dr. Zukowski made comments that made me never want to go back (he put in iv, gave controlled drugs, and lidocaine injections). We were discussing my weight loss and FFS and he was upset I never got a consult with him. Then he made a comment he could have made me 10x prettier, and I started crying. It was an absolutely horrible experience with him. But the electrolysis staff are on point, friendly, and professional. Dr. Z really disappointed me with his demeanor today, made me feel worthless, ugly, and frankly just put me in a depressed mood. For a Doctor dealing with a population already hypercritical of their physical bodies, the comments he made were….ugh."*
-* [I just had large volume electrolysis<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lqjx4o/i_just_had_large_volume_electrolysis/) by  1EskNineteen in 2021
-* reply to [Looking for experiences / results with Dr. Jess Ting / Dr. Christine McGinn<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ec905f/looking_for_experiences_results_with_dr_jess_ting/fc091av/) by Maybebaby57 in 2019
+* [Frightening experience with Dr. Zukowski](https://www.reddit.com/r/trans/comments/13pwcrs/frightening_experience_with_dr_zukowski/) by birdsandsnakes in 2023 - *Yesterday, I went for high volume hair removal at the Cirine Hair Removal. They're associated with the Zukowski Center, and Dr Zukowski gives medical support — the deal is, he sedates you and gives you lidocaine injections to numb your face, and then they do a very long electrolysis session. I had a really scary experience. Shortly after my third set of lidocaine injections, I'd gone for a bathroom break, when suddenly I found myself disoriented, losing control of my limbs, having a hard time walking, seeing double, and struggling to put sentences together. I made it out of the bathroom and asked an electrologist to call 911 — I could no longer use my phone to do it myself — but they refused. Instead, they called Dr Zukowski back. He tried to convince me I was having a panic attack. (I've had panic attacks. This was not a panic attack.) At this point, my arms and legs were twitching uncontrollably, and I couldn't stand or walk without help. He insisted that this was my fault, and that I'd feel better if I relaxed. Eventually, he gave me some kind of intravenous medication that stopped the attack. I've since learned that those were [symptoms of a lidocaine overdose, which could have progressed to seizures or coma](https://www.medicalnewstoday.com/articles/lidocaine-overdose).*
+* [Large Volume Electrolysis](https://www.reddit.com/r/TransLater/comments/12kzvgt/large_volume_electrolysis/) by Revolutionary-Net-42 in 2023 - *"I think the electro techs do amazing! HOWEVER, Dr. Zukowski made comments that made me never want to go back (he put in iv, gave controlled drugs, and lidocaine injections). We were discussing my weight loss and FFS and he was upset I never got a consult with him. Then he made a comment he could have made me 10x prettier, and I started crying. It was an absolutely horrible experience with him. But the electrolysis staff are on point, friendly, and professional. Dr. Z really disappointed me with his demeanor today, made me feel worthless, ugly, and frankly just put me in a depressed mood. For a Doctor dealing with a population already hypercritical of their physical bodies, the comments he made were….ugh."*
+* [I just had large volume electrolysis](https://www.reddit.com/r/Transgender_Surgeries/comments/lqjx4o/i_just_had_large_volume_electrolysis/) by  1EskNineteen in 2021
+* reply to [Looking for experiences / results with Dr. Jess Ting / Dr. Christine McGinn](https://www.reddit.com/r/Transgender_Surgeries/comments/ec905f/looking_for_experiences_results_with_dr_jess_ting/fc091av/) by Maybebaby57 in 2019
 * [High Volume Electrolysis at the Zukowski Center in Chicago](https://www.susans.org/forums/index.php?topic=210112.0) by Marina325 in 2016 - *"The place is called About Your Permanent Hair Removal and they're affiliated with the Zukowski center for cosmetic surgery."*
 
 <br />
@@ -1495,7 +1495,7 @@ sites
 
 reddit
 
-* [Any recommendations for genital electrolysis in the NYC Metro Area?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/fkaya5/any_recommendations_for_genital_electrolysis_in/) by  Jamie_GG in 2020
+* [Any recommendations for genital electrolysis in the NYC Metro Area?](https://www.reddit.com/r/Transgender_Surgeries/comments/fkaya5/any_recommendations_for_genital_electrolysis_in/) by  Jamie_GG in 2020
 
 <br />
 
@@ -1507,7 +1507,7 @@ Sites
 
 reddit
 
-* [Any recommendations for genital electrolysis in the NYC Metro Area?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/fkaya5/any_recommendations_for_genital_electrolysis_in/) by  Jamie_GG in 2020
+* [Any recommendations for genital electrolysis in the NYC Metro Area?](https://www.reddit.com/r/Transgender_Surgeries/comments/fkaya5/any_recommendations_for_genital_electrolysis_in/) by  Jamie_GG in 2020
 
 <br />
 
@@ -1548,10 +1548,10 @@ Key details
 
 reddit
 
-* [Do not use Beverly Hills Hair Free<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1biv9vd/do_not_use_beverly_hills_hair_free/) by Realistic-Shame4724 in 2024 - *"Went here for four years, can still grow a beard."*
-* reply to [How can I get electrolysis done under anaesthetic (injection not topical)?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10hh4yq/how_can_i_get_electrolysis_done_under_anaesthetic/j5b2tlc/) by ThrowAwayForGCS in 2023 - *"The owner is a tool but the other girl who works there - Jess is fantastic! Anyways used to go for lido injections and the first time I didn’t do any prenumbing! I don’t know what I was thinking Anyways — getting the lido cream and put it on before you get the lido shots It goes much better! Then you don’t feel anything for a good 4-6hrs I’m at the point now at the end it’s not worth it to get the injections so I just use the cream"*
-* [4 days after 3 hours of electrolysis, the black dots fell off but they dots look more intense this time around. it was very painful and she walked away to talk to someone and left them in for a few of them. I've been using Neosporin scar cream. Are these normal results? Never been cleared before.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/xuzfdh/4_days_after_3_hours_of_electrolysis_the_black/) by Big-Entry4149 in 2022
-* reply to [Long Session Electrolysis with Pain Management in Southern California<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pgi1hn/long_session_electrolysis_with_pain_management_in/hbep3wp/) by stacy_girl in 2021 - *"Beverly Hills Hairfree will do 4-8hr sessions with lidocaine injections beforehand. It’s expensive, but she did a great job and it wasn’t painful."*
+* [Do not use Beverly Hills Hair Free](https://www.reddit.com/r/Transgender_Surgeries/comments/1biv9vd/do_not_use_beverly_hills_hair_free/) by Realistic-Shame4724 in 2024 - *"Went here for four years, can still grow a beard."*
+* reply to [How can I get electrolysis done under anaesthetic (injection not topical)?](https://www.reddit.com/r/Transgender_Surgeries/comments/10hh4yq/how_can_i_get_electrolysis_done_under_anaesthetic/j5b2tlc/) by ThrowAwayForGCS in 2023 - *"The owner is a tool but the other girl who works there - Jess is fantastic! Anyways used to go for lido injections and the first time I didn’t do any prenumbing! I don’t know what I was thinking Anyways — getting the lido cream and put it on before you get the lido shots It goes much better! Then you don’t feel anything for a good 4-6hrs I’m at the point now at the end it’s not worth it to get the injections so I just use the cream"*
+* [4 days after 3 hours of electrolysis, the black dots fell off but they dots look more intense this time around. it was very painful and she walked away to talk to someone and left them in for a few of them. I've been using Neosporin scar cream. Are these normal results? Never been cleared before.](https://www.reddit.com/r/Transgender_Surgeries/comments/xuzfdh/4_days_after_3_hours_of_electrolysis_the_black/) by Big-Entry4149 in 2022
+* reply to [Long Session Electrolysis with Pain Management in Southern California](https://www.reddit.com/r/Transgender_Surgeries/comments/pgi1hn/long_session_electrolysis_with_pain_management_in/hbep3wp/) by stacy_girl in 2021 - *"Beverly Hills Hairfree will do 4-8hr sessions with lidocaine injections beforehand. It’s expensive, but she did a great job and it wasn’t painful."*
 
 <br />
 
@@ -1596,7 +1596,7 @@ See also the HRT implant page for more information on Dr. Vierregger
 
 reddit
 
-* [Large-Volume Electrolysis in SoCal<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/126zrob/largevolume_electrolysis_in_socal/) by  BadBettyElectrolysis in 2023 - *"...Metamorphosis Medical Center is now offering multi-hour, large-volume/marathon electrolysis hair removal with sedation or local anesthetic..."*
+* [Large-Volume Electrolysis in SoCal](https://www.reddit.com/r/Transgender_Surgeries/comments/126zrob/largevolume_electrolysis_in_socal/) by  BadBettyElectrolysis in 2023 - *"...Metamorphosis Medical Center is now offering multi-hour, large-volume/marathon electrolysis hair removal with sedation or local anesthetic..."*
 
 <br />
 
@@ -1613,7 +1613,7 @@ This is mixed up with AboutYou Hair Removal. I'm not sure if its the same busine
 
 reddit
 
-* reply to [Sedation Hair Removal Recommendations for GCS; AMAB<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/oqh43p/sedation_hair_removal_recommendations_for_gcs_amab/h6bpcu6/) by therivercass in 2021
+* reply to [Sedation Hair Removal Recommendations for GCS; AMAB](https://www.reddit.com/r/Transgender_Surgeries/comments/oqh43p/sedation_hair_removal_recommendations_for_gcs_amab/h6bpcu6/) by therivercass in 2021
 
 <br />
 
@@ -1642,10 +1642,10 @@ Sites
 
 reddit
 
-* [My Experience with Large Volume Electrolysis<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1f30adk/my_experience_with_large_volume_electrolysis/) by lv-electro-throwaway in 2024
-* [Bulk electrolysis (Cirine): a thread<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/18c6uxz/bulk_electrolysis_cirine_a_thread/) by mcgoverp in 2023
-* [Frightening experience with Dr. Zukowski<sup>R</sup>](https://www.reddit.com/r/trans/comments/13pwcrs/frightening_experience_with_dr_zukowski/) by birdsandsnakes in 2023 - *Yesterday, I went for high volume hair removal at the Cirine Hair Removal. They're associated with the Zukowski Center, and Dr Zukowski gives medical support — the deal is, he sedates you and gives you lidocaine injections to numb your face, and then they do a very long electrolysis session. I had a really scary experience. Shortly after my third set of lidocaine injections, I'd gone for a bathroom break, when suddenly I found myself disoriented, losing control of my limbs, having a hard time walking, seeing double, and struggling to put sentences together. I made it out of the bathroom and asked an electrologist to call 911 — I could no longer use my phone to do it myself — but they refused. Instead, they called Dr Zukowski back. He tried to convince me I was having a panic attack. (I've had panic attacks. This was not a panic attack.) At this point, my arms and legs were twitching uncontrollably, and I couldn't stand or walk without help. He insisted that this was my fault, and that I'd feel better if I relaxed. Eventually, he gave me some kind of intravenous medication that stopped the attack. I've since learned that those were [symptoms of a lidocaine overdose, which could have progressed to seizures or coma](https://www.medicalnewstoday.com/articles/lidocaine-overdose).*
-* [Electrolysis with Sedation in the Mid-Atlantic?<sup>R</sup>](https://www.reddit.com/r/ask_transgender/comments/117dspn/electrolysis_with_sedation_in_the_midatlantic/) by Educational-Scar-559 in 2023
+* [My Experience with Large Volume Electrolysis](https://www.reddit.com/r/Transgender_Surgeries/comments/1f30adk/my_experience_with_large_volume_electrolysis/) by lv-electro-throwaway in 2024
+* [Bulk electrolysis (Cirine): a thread](https://www.reddit.com/r/Transgender_Surgeries/comments/18c6uxz/bulk_electrolysis_cirine_a_thread/) by mcgoverp in 2023
+* [Frightening experience with Dr. Zukowski](https://www.reddit.com/r/trans/comments/13pwcrs/frightening_experience_with_dr_zukowski/) by birdsandsnakes in 2023 - *Yesterday, I went for high volume hair removal at the Cirine Hair Removal. They're associated with the Zukowski Center, and Dr Zukowski gives medical support — the deal is, he sedates you and gives you lidocaine injections to numb your face, and then they do a very long electrolysis session. I had a really scary experience. Shortly after my third set of lidocaine injections, I'd gone for a bathroom break, when suddenly I found myself disoriented, losing control of my limbs, having a hard time walking, seeing double, and struggling to put sentences together. I made it out of the bathroom and asked an electrologist to call 911 — I could no longer use my phone to do it myself — but they refused. Instead, they called Dr Zukowski back. He tried to convince me I was having a panic attack. (I've had panic attacks. This was not a panic attack.) At this point, my arms and legs were twitching uncontrollably, and I couldn't stand or walk without help. He insisted that this was my fault, and that I'd feel better if I relaxed. Eventually, he gave me some kind of intravenous medication that stopped the attack. I've since learned that those were [symptoms of a lidocaine overdose, which could have progressed to seizures or coma](https://www.medicalnewstoday.com/articles/lidocaine-overdose).*
+* [Electrolysis with Sedation in the Mid-Atlantic?](https://www.reddit.com/r/ask_transgender/comments/117dspn/electrolysis_with_sedation_in_the_midatlantic/) by Educational-Scar-559 in 2023
 
 <br />
 
@@ -1664,8 +1664,8 @@ Location
 
 reddit
 
-* [PFM now offers high volume (all day) electrolysis. Call to schedule.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/x2ghum/pfm_now_offers_high_volume_all_day_electrolysis/) by Drwillpowers in 2022
-* [I'm considering offering "all day electrolysis" at the clinic, where people would come, I would do bupivicaine injections to create 100% anesthesia over the treatment zone, and then a practitioner would do 4-8 hours of continuous electrolysis. Would you pay for such a service?<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/k6t8iq/im_considering_offering_all_day_electrolysis_at/) by Drwillpowers in 2020
+* [PFM now offers high volume (all day) electrolysis. Call to schedule.](https://www.reddit.com/r/DrWillPowers/comments/x2ghum/pfm_now_offers_high_volume_all_day_electrolysis/) by Drwillpowers in 2022
+* [I'm considering offering "all day electrolysis" at the clinic, where people would come, I would do bupivicaine injections to create 100% anesthesia over the treatment zone, and then a practitioner would do 4-8 hours of continuous electrolysis. Would you pay for such a service?](https://www.reddit.com/r/DrWillPowers/comments/k6t8iq/im_considering_offering_all_day_electrolysis_at/) by Drwillpowers in 2020
 
 <br />
 
@@ -1681,8 +1681,8 @@ reddit
 
 reddit
 
-* reply to [So is everyone else just deciding on a GCS surgeon before they even book a consultation?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hmiwi9/so_is_everyone_else_just_deciding_on_a_gcs/fx6yqgt/?context=3) by ashleyjm in 2020
-* [1st Session Genital Electrolysis At Papillon Center, New Hope, PA - Preparation for Upcoming GRS - AMA<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/gpc1cu/1st_session_genital_electrolysis_at_papillon/) by ashleyjm in 2020
+* reply to [So is everyone else just deciding on a GCS surgeon before they even book a consultation?](https://www.reddit.com/r/Transgender_Surgeries/comments/hmiwi9/so_is_everyone_else_just_deciding_on_a_gcs/fx6yqgt/?context=3) by ashleyjm in 2020
+* [1st Session Genital Electrolysis At Papillon Center, New Hope, PA - Preparation for Upcoming GRS - AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/gpc1cu/1st_session_genital_electrolysis_at_papillon/) by ashleyjm in 2020
 
 Susans
 
@@ -1716,20 +1716,20 @@ Key details
 
 reddit
 
-* [My electrolysis experience and review of Electrology 3000 in Dallas, TX - AMA<sup>R</sup>](https://www.reddit.com/r/HairRemoval/comments/16t5xra/my_electrolysis_experience_and_review_of/) by JFKcheekkisser in 2023 - this is by a cis women
-* [Electrology 3000 probably cost me my bottom surgery in 2022<sup>R</sup>](https://www.reddit.com/r/MtF/comments/tkvs1m/electrology_3000_probably_cost_me_my_bottom/) by ItWasThenSheKnew in 2022
-* [Electrolysis3000<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/t862x8/electrolysis3000/) by Kristen_MichelleXO in 2022
-* [Electrology 3000 in Texas is absolute trash. AVOID AT ALL COSTS. Here is my Review:<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/t05ijb/electrology_3000_in_texas_is_absolute_trash_avoid/) by E3kAngryLady in 2022
-* [Electrology 3000 cancelled one of my two techs for doubles marathons after I paid my deposit and bought plane tickets<sup>R</sup>](https://www.reddit.com/r/MtF/comments/suyn26/electrology_3000_cancelled_one_of_my_two_techs/) by Ms_Egg in 2022
-* [Just finished 2 hours of electrolysis with E3000 in Dallas. Had the injections , few pictures, I’ve been worrying about this all day driving here.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/msdrsl/just_finished_2_hours_of_electrolysis_with_e3000/) by KateR_H0l1day in 2021
-    * [2 hours electrolysis just finished<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/msdv2c/2_hours_electrolysis_just_finished/) by KateR_H0l1day in 2021
-* [numbing injection electrolysis question<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/g39iz2/numbing_injection_electrolysis_question/) by missyspelled in 2020
-* [Electrology 3000 Dallas, Texas - I just had an 8 hour session on my face.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hpc9ys/electrology_3000_dallas_texas_i_just_had_an_8/) by Skylar654321 in 2020
-* [Electrolysis "down there" at E3K in Dallas<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/foh134/electrolysis_down_there_at_e3k_in_dallas/) by HadMyShareOfDoubt in 2020
+* [My electrolysis experience and review of Electrology 3000 in Dallas, TX - AMA](https://www.reddit.com/r/HairRemoval/comments/16t5xra/my_electrolysis_experience_and_review_of/) by JFKcheekkisser in 2023 - this is by a cis women
+* [Electrology 3000 probably cost me my bottom surgery in 2022](https://www.reddit.com/r/MtF/comments/tkvs1m/electrology_3000_probably_cost_me_my_bottom/) by ItWasThenSheKnew in 2022
+* [Electrolysis3000](https://www.reddit.com/r/asktransgender/comments/t862x8/electrolysis3000/) by Kristen_MichelleXO in 2022
+* [Electrology 3000 in Texas is absolute trash. AVOID AT ALL COSTS. Here is my Review:](https://www.reddit.com/r/asktransgender/comments/t05ijb/electrology_3000_in_texas_is_absolute_trash_avoid/) by E3kAngryLady in 2022
+* [Electrology 3000 cancelled one of my two techs for doubles marathons after I paid my deposit and bought plane tickets](https://www.reddit.com/r/MtF/comments/suyn26/electrology_3000_cancelled_one_of_my_two_techs/) by Ms_Egg in 2022
+* [Just finished 2 hours of electrolysis with E3000 in Dallas. Had the injections , few pictures, I’ve been worrying about this all day driving here.](https://www.reddit.com/r/Transgender_Surgeries/comments/msdrsl/just_finished_2_hours_of_electrolysis_with_e3000/) by KateR_H0l1day in 2021
+    * [2 hours electrolysis just finished](https://www.reddit.com/r/Transgender_Surgeries/comments/msdv2c/2_hours_electrolysis_just_finished/) by KateR_H0l1day in 2021
+* [numbing injection electrolysis question](https://www.reddit.com/r/Transgender_Surgeries/comments/g39iz2/numbing_injection_electrolysis_question/) by missyspelled in 2020
+* [Electrology 3000 Dallas, Texas - I just had an 8 hour session on my face.](https://www.reddit.com/r/Transgender_Surgeries/comments/hpc9ys/electrology_3000_dallas_texas_i_just_had_an_8/) by Skylar654321 in 2020
+* [Electrolysis "down there" at E3K in Dallas](https://www.reddit.com/r/Transgender_Surgeries/comments/foh134/electrolysis_down_there_at_e3k_in_dallas/) by HadMyShareOfDoubt in 2020
 
 Susans
 
-* [E3K in Dallas. Experiences? Results?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/99x4od/e3k_in_dallas_experiences_results/) by ashestowhat in in 2019
+* [E3K in Dallas. Experiences? Results?](https://www.reddit.com/r/MtF/comments/99x4od/e3k_in_dallas_experiences_results/) by ashestowhat in in 2019
 * [Precision Hair Removal VS Electrology 3000](https://www.susans.org/forums/index.php/topic,246145.0.html) by AutumnLeaves in 2019
 * [GRS/SRS/GCS Pre-operative Electrolysis Hair Removal Lidocaine Anaesthetic Inject](https://www.susans.org/forums/index.php/topic,219018.0.html) by kitten_lover in 2017
 

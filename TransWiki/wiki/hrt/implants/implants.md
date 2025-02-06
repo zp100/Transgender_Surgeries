@@ -20,7 +20,7 @@ Resources on implants
 
 reddit
 
-* [Choosing an estrogen implant<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/h04m9t/choosing_an_estrogen_implant/) by HiddenStill in 2020
+* [Choosing an estrogen implant](https://www.reddit.com/r/transgenderau/comments/h04m9t/choosing_an_estrogen_implant/) by HiddenStill in 2020
 
 <br />
 
@@ -34,9 +34,9 @@ Wikipedia
 
 reddit
 
-* [hormone implants. What you get in the mail and the surgery site 4 days later.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/td1h2f/hormone_implants_what_you_get_in_the_mail_and_the/) by BaileyR2480 in 2022
-* [Pellet technique<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/qwgrg5/pellet_technique/) by Drwillpowers in 2021
-* ["Girl Tic-Tacs" implant procedure<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/of1sks/girl_tictacs_implant_procedure/) by kalani96746 in 2021 - this is a video of Dr Will Powers inserting pellets
+* [hormone implants. What you get in the mail and the surgery site 4 days later.](https://www.reddit.com/r/transgenderau/comments/td1h2f/hormone_implants_what_you_get_in_the_mail_and_the/) by BaileyR2480 in 2022
+* [Pellet technique](https://www.reddit.com/r/DrWillPowers/comments/qwgrg5/pellet_technique/) by Drwillpowers in 2021
+* ["Girl Tic-Tacs" implant procedure](https://www.reddit.com/r/DrWillPowers/comments/of1sks/girl_tictacs_implant_procedure/) by kalani96746 in 2021 - this is a video of Dr Will Powers inserting pellets
 
 YouTube
 
@@ -132,7 +132,7 @@ I have heard of doctors inserting an implants without a trocar, just using a sca
 
 reddit
 
-* [Where to get a trocar in Australia for oestrogen implants?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ook4s7/where_to_get_a_trocar_in_australia_for_oestrogen/) by a_chrysalid in 2021
+* [Where to get a trocar in Australia for oestrogen implants?](https://www.reddit.com/r/transgenderau/comments/ook4s7/where_to_get_a_trocar_in_australia_for_oestrogen/) by a_chrysalid in 2021
 
 ## TheraPellet Atraumatic Trocar
 
@@ -216,9 +216,9 @@ Its possible to get implants and still have very low levels. My endo explained t
 
 reddit
 
-* [Someone told me estradiol pellets can become "encapsulated", resulting in very low levels. Is that a "thing"?<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/1b8gvmc/someone_told_me_estradiol_pellets_can_become/) by varys2013 in 2024 - Dr Will Powers responds he's seen it once - *"Once? Stearic acid containing pellets that they were allergic to. That's pretty much it... Well, I didn't know that either. But after doing literally a thousand implants, I can tell you two or three times it happened. What I did for a while was put stearic acid on their arms before implantation to make sure they didn't react. But now I have my pellets made completely without it. Just pure hormones."*
-* [blood results came back after switching to 100MG implants, my E levels are rubbish! :(<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dqhatn/blood_results_came_back_after_switching_to_100mg/) by amy-simmons in 2019
-* [Feeling awful on 100mg implant. HELP!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/8yrzdo/feeling_awful_on_100mg_implant_help/) by shlatz around 2018
+* [Someone told me estradiol pellets can become "encapsulated", resulting in very low levels. Is that a "thing"?](https://www.reddit.com/r/DrWillPowers/comments/1b8gvmc/someone_told_me_estradiol_pellets_can_become/) by varys2013 in 2024 - Dr Will Powers responds he's seen it once - *"Once? Stearic acid containing pellets that they were allergic to. That's pretty much it... Well, I didn't know that either. But after doing literally a thousand implants, I can tell you two or three times it happened. What I did for a while was put stearic acid on their arms before implantation to make sure they didn't react. But now I have my pellets made completely without it. Just pure hormones."*
+* [blood results came back after switching to 100MG implants, my E levels are rubbish! :(](https://www.reddit.com/r/transgenderau/comments/dqhatn/blood_results_came_back_after_switching_to_100mg/) by amy-simmons in 2019
+* [Feeling awful on 100mg implant. HELP!](https://www.reddit.com/r/transgenderau/comments/8yrzdo/feeling_awful_on_100mg_implant_help/) by shlatz around 2018
 
 ---
 
@@ -239,10 +239,10 @@ I find high estrogen levels of interest from a psychological point of view
 
 reddit
 
-* [2 years then, 12 years now… I thought I was done, hang in there! 🙌 (implanted E pellets)<sup>R</sup>](https://www.reddit.com/r/TransBreastTimelines/comments/py745j/2_years_then_12_years_now_i_thought_i_was_done/) by myminxologist in 2021
-    * [FYI, hormone implants are literally the tits 👀<sup>R</sup>](https://www.reddit.com/r/GoneWildTrans/comments/ih7i4t/fyi_hormone_implants_are_literally_the_tits/) by myminxologist in 2020
-* [Pellet implant for estradiol questions<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/htv5bo/pellet_implant_for_estradiol_questions/) by smeeon in 2020
-* [AMA: I've been on estrogen implants for 1 year and progesterone implants for 4 days<sup>R</sup>](https://www.reddit.com/r/trans/comments/gghgl3/ama_ive_been_on_estrogen_implants_for_1_year_and/) by  rand0trans0 in 2020
+* [2 years then, 12 years now… I thought I was done, hang in there! 🙌 (implanted E pellets)](https://www.reddit.com/r/TransBreastTimelines/comments/py745j/2_years_then_12_years_now_i_thought_i_was_done/) by myminxologist in 2021
+    * [FYI, hormone implants are literally the tits 👀](https://www.reddit.com/r/GoneWildTrans/comments/ih7i4t/fyi_hormone_implants_are_literally_the_tits/) by myminxologist in 2020
+* [Pellet implant for estradiol questions](https://www.reddit.com/r/DrWillPowers/comments/htv5bo/pellet_implant_for_estradiol_questions/) by smeeon in 2020
+* [AMA: I've been on estrogen implants for 1 year and progesterone implants for 4 days](https://www.reddit.com/r/trans/comments/gghgl3/ama_ive_been_on_estrogen_implants_for_1_year_and/) by  rand0trans0 in 2020
 
 ---
 
@@ -263,11 +263,11 @@ S Kelleher, L Turner, C Howe, A J Conway, D J Handelsman
 
 ## FTM
 
-Testosterone implants are used trans-men, and [searching /r/ftm<sup>R</sup>](https://www.reddit.com/r/ftm/search?q=pellets&restrict_sr=on&include_over_18=on&sort=relevance&t=all) for pellets will turn up some results.
+Testosterone implants are used trans-men, and [searching /r/ftm](https://www.reddit.com/r/ftm/search?q=pellets&restrict_sr=on&include_over_18=on&sort=relevance&t=all) for pellets will turn up some results.
 
 reddit
 
-* [First Time Testoppel Pellet Insertion<sup>R</sup>](https://www.reddit.com/r/ftm/comments/lvmqsh/first_time_testoppel_pellet_insertion/) by ImGettingaFkinPENIS in 2021
+* [First Time Testoppel Pellet Insertion](https://www.reddit.com/r/ftm/comments/lvmqsh/first_time_testoppel_pellet_insertion/) by ImGettingaFkinPENIS in 2021
  
 
 Very bad experience using testopel - https://k-con.today/post/172598026877/whats-testopel
@@ -280,7 +280,7 @@ Australian endocrinologist <span class="internal">[Dr Jonathan Hayes](https://gi
 
 reddit
 
-* [AMA: I've been on estrogen implants for 1 year and progesterone implants for 4 days<sup>R</sup>](https://www.reddit.com/r/trans/comments/gghgl3/ama_ive_been_on_estrogen_implants_for_1_year_and/) by  rand0trans0 in 2020
+* [AMA: I've been on estrogen implants for 1 year and progesterone implants for 4 days](https://www.reddit.com/r/trans/comments/gghgl3/ama_ive_been_on_estrogen_implants_for_1_year_and/) by  rand0trans0 in 2020
 
 There's a discussion in the 1952 [Ciba Foundation Symposium ‐ Steroid Hormone Administration (Book II of Colloquia on Endocrinology), Volume 3](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470715154) page 279 on progesterone implants
 
@@ -372,7 +372,7 @@ Key details
 
 reddit
 
-* [Permanent HRT?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/1186qp1/permanent_hrt/j9fxa27/) by saturnintaurus in 2023 - *"Mine was right above the butt, under the skin. Lasted 6 months. It’s incredibly convenient compared to any other options, but it was also very expensive... Dra. Silviane Pellegrinello in Cascavel, Paraná. She also does testosterone implants"*
+* [Permanent HRT?](https://www.reddit.com/r/MtF/comments/1186qp1/permanent_hrt/j9fxa27/) by saturnintaurus in 2023 - *"Mine was right above the butt, under the skin. Lasted 6 months. It’s incredibly convenient compared to any other options, but it was also very expensive... Dra. Silviane Pellegrinello in Cascavel, Paraná. She also does testosterone implants"*
 
 ---
 
@@ -428,7 +428,7 @@ YouTube
 
 reddit
 
-* [quite for estradiol pellets in New Zealand, $1100 for a 10 pack, last 6-9 months or so, got quote from unichem Motueka<sup>R</sup>](https://www.reddit.com/r/TransgenderNZ/comments/vsn3l6/quite_for_estradiol_pellets_in_new_zealand_1100/) by Local-Chart in 2022 - this is [Unichem Motueka Pharmacy](https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-motueka-pharmacy/), 162 High Street, Motueka, Nelson Marlborough
+* [quite for estradiol pellets in New Zealand, $1100 for a 10 pack, last 6-9 months or so, got quote from unichem Motueka](https://www.reddit.com/r/TransgenderNZ/comments/vsn3l6/quite_for_estradiol_pellets_in_new_zealand_1100/) by Local-Chart in 2022 - this is [Unichem Motueka Pharmacy](https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-motueka-pharmacy/), 162 High Street, Motueka, Nelson Marlborough
 
 ---
 
@@ -440,7 +440,7 @@ https://mysexualhealth.co.za
 
 reddit
 
-* [Estrogen implant offered as treatment in Germany?<sup>R</sup>](https://www.reddit.com/r/germantrans/comments/uh4zbp/estrogen_implant_offered_as_treatment_in_germany/i77uvjq/?context=3) by KittyBotboop in 2022,  Cape Town and Johannesburg branches do pellets
+* [Estrogen implant offered as treatment in Germany?](https://www.reddit.com/r/germantrans/comments/uh4zbp/estrogen_implant_offered_as_treatment_in_germany/i77uvjq/?context=3) by KittyBotboop in 2022,  Cape Town and Johannesburg branches do pellets
 
 ---
 
@@ -448,7 +448,7 @@ reddit
 
 ### Clinicas Doctor Life
 
-Do not do pellets for trans people, only intersex and cis women, see [this reddit post<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/ztzf5i/pellets/) - *"I called Spain: "Clinicas Doctor Life" but they only accept cis/intersex women."*
+Do not do pellets for trans people, only intersex and cis women, see [this reddit post](https://www.reddit.com/r/DrWillPowers/comments/ztzf5i/pellets/) - *"I called Spain: "Clinicas Doctor Life" but they only accept cis/intersex women."*
 
 Key details
 
@@ -537,9 +537,9 @@ Doctors sites
 
 reddit
 
-* [Got a pellet on Tuesday. What next?<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/rp0w5l/got_a_pellet_on_tuesday_what_next/) by National-Yak-5093 in 2021
-* [Dr. Kristen Vierregger, MD (my experience/opinion)<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/lier50/dr_kristen_vierregger_md_my_experienceopinion/) by Drwillpowers in 2021
-* [Good online mtf hormone doctors in the USA/California?<sup>R</sup>](https://www.reddit.com/r/AskMtFHRT/comments/jw4pj4/good_online_mtf_hormone_doctors_in_the/gco2ilz/) by Alyw234237 in 2020
+* [Got a pellet on Tuesday. What next?](https://www.reddit.com/r/DrWillPowers/comments/rp0w5l/got_a_pellet_on_tuesday_what_next/) by National-Yak-5093 in 2021
+* [Dr. Kristen Vierregger, MD (my experience/opinion)](https://www.reddit.com/r/DrWillPowers/comments/lier50/dr_kristen_vierregger_md_my_experienceopinion/) by Drwillpowers in 2021
+* [Good online mtf hormone doctors in the USA/California?](https://www.reddit.com/r/AskMtFHRT/comments/jw4pj4/good_online_mtf_hormone_doctors_in_the/gco2ilz/) by Alyw234237 in 2020
 
 YouTube
 
@@ -575,7 +575,7 @@ Doctors sites
 
 reddit
 
-* reply to [My 4 year journey in pictures. Transition complete!<sup>R</sup>](https://www.reddit.com/r/transtimelines/comments/7ewelg/my_4_year_journey_in_pictures_transition_complete/dq94qdz/) by Sassssssy in 2018 - *"Unfortunately insurance doesn't cover pellets so I have to pay out of pocket. I was going to Dr. John O'Dea in Marina Del Ray but he wanted $1300 every 4-5 months! Dr. Richard Horowitz in Beverly Hills did mine for $375 last time."*
+* reply to [My 4 year journey in pictures. Transition complete!](https://www.reddit.com/r/transtimelines/comments/7ewelg/my_4_year_journey_in_pictures_transition_complete/dq94qdz/) by Sassssssy in 2018 - *"Unfortunately insurance doesn't cover pellets so I have to pay out of pocket. I was going to Dr. John O'Dea in Marina Del Ray but he wanted $1300 every 4-5 months! Dr. Richard Horowitz in Beverly Hills did mine for $375 last time."*
 
 review sites
 
@@ -619,8 +619,8 @@ Doctors site
 
 reddit
 
-* [John O'Dea, Marina Del Rey - Pellets<sup>R</sup>](https://www.reddit.com/r/MtF/comments/10c1i92/john_odea_marina_del_rey_pellets/) by Hurrpopotamus in 2023
-* reply to [My 4 year journey in pictures. Transition complete!<sup>R</sup>](https://www.reddit.com/r/transtimelines/comments/7ewelg/my_4_year_journey_in_pictures_transition_complete/dq94qdz/) by Sassssssy in 2018 - *"Unfortunately insurance doesn't cover pellets so I have to pay out of pocket. I was going to Dr. John O'Dea in Marina Del Ray but he wanted $1300 every 4-5 months! Dr. Richard Horowitz in Beverly Hills did mine for $375 last time."*
+* [John O'Dea, Marina Del Rey - Pellets](https://www.reddit.com/r/MtF/comments/10c1i92/john_odea_marina_del_rey_pellets/) by Hurrpopotamus in 2023
+* reply to [My 4 year journey in pictures. Transition complete!](https://www.reddit.com/r/transtimelines/comments/7ewelg/my_4_year_journey_in_pictures_transition_complete/dq94qdz/) by Sassssssy in 2018 - *"Unfortunately insurance doesn't cover pellets so I have to pay out of pocket. I was going to Dr. John O'Dea in Marina Del Ray but he wanted $1300 every 4-5 months! Dr. Richard Horowitz in Beverly Hills did mine for $375 last time."*
 
 Review sites
 
@@ -648,7 +648,7 @@ Key details
 
 reddit
 
-* [I found someone who can do pellet insertions in the LA area!<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/12iy8w3/i_found_someone_who_can_do_pellet_insertions_in/) by Mundane-Mycologist-7 in 2023 - *"Dr. Matthew Lew at Lew Medical was kind, prompt, totally willing to communicate with the PFM team, and did the procedure for $350 including the cost of pellets. Can recommend!"*
+* [I found someone who can do pellet insertions in the LA area!](https://www.reddit.com/r/DrWillPowers/comments/12iy8w3/i_found_someone_who_can_do_pellet_insertions_in/) by Mundane-Mycologist-7 in 2023 - *"Dr. Matthew Lew at Lew Medical was kind, prompt, totally willing to communicate with the PFM team, and did the procedure for $350 including the cost of pellets. Can recommend!"*
 
 <br />
 
@@ -700,21 +700,21 @@ Doctors site
 
 reddit
 
-* [Someone told me estradiol pellets can become "encapsulated", resulting in very low levels. Is that a "thing"?<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/1b8gvmc/someone_told_me_estradiol_pellets_can_become/) by varys2013 in 2024 
-* [For those who have switched to pellets. How have things changed for you? (Free E%, more HRT related changes, etc.)<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/1921a3f/for_those_who_have_switched_to_pellets_how_have/) by Zombebe in 2024
-* [Pellet stan reporting in<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/14t88u5/pellet_stan_reporting_in/) by wildbanana782 in 2023
-* [Pellet lifespan (extremely long?)<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/13qqv3d/pellet_lifespan_extremely_long/) by GreatGhostsss in 2023
-* [Dysphoria is eating me alive since I got implanted estrogen. Do I pass? 27, 22 months HRT<sup>R</sup>](https://www.reddit.com/r/trans/comments/uus7qs/dysphoria_is_eating_me_alive_since_i_got/) by kloebby in 2022
-* [Pellet press acquired. May the experimentations into maximum pellet size begin!<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/s8z26t/pellet_press_acquired_may_the_experimentations/) by Drwillpowers in 2022
-* [As a favor to me, Superior Compounding has purchased pellet manufacturing equipment and is going to work with me to research into making larger pellets than are currently available in the USA<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/rw02nw/as_a_favor_to_me_superior_compounding_has/) by Drwillpowers in 2021
-* [Pellet technique<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/qwgrg5/pellet_technique/) by Drwillpowers in 2021
-* [The practice record has been broken, the highest free estradiol percentage on a quest lab in a MtF is now 2.9% free<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/pyxly6/the_practice_record_has_been_broken_the_highest/) by Drwillpowers in 2021
-* [This is what pellet perfection labs look like. SHBG in the dirt despite E2 being locked at 300pg/ml and a free estradiol percentage greater than 2%. This patient got 5x 50mg pellets about 2 months ago. I am seriously loving these things. Still trying to get someone to make me 100mg pellets though.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/oligvx/this_is_what_pellet_perfection_labs_look_like/) by  Drwillpowers in 2021
-* ["Girl Tic-Tacs" implant procedure<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/of1sks/girl_tictacs_implant_procedure/) by kalani96746 in 2021 - this is a video of Dr Will Powers inserting pellets
-* reply to [Estrogen pellets<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/mhtmnb/estrogen_pellets/gt2vbj1/) by Drwillpowers - *"I prefer pellets to injections at this point"*
-* [As I do more and more pellet implantations, I'm finding lots of people with a really high E2 free percent and low SHBG on pellets. For my pellet fans out there, is this the case for you too?<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/lffx42/as_i_do_more_and_more_pellet_implantations_im/) by Drwillpowers in 2021
-* [Is there interest in expensive but ultra long lasting estradiol implants?<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/l1bwfv/is_there_interest_in_expensive_but_ultra_long/) by Drwillpowers in 2021
-* reply to [Bring Powers Method to the UK - and UK Gender Specialists<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/enr4ic/bring_powers_method_to_the_uk_and_uk_gender/fea08dp/?context=3) by EllieTransitionx in 2020
+* [Someone told me estradiol pellets can become "encapsulated", resulting in very low levels. Is that a "thing"?](https://www.reddit.com/r/DrWillPowers/comments/1b8gvmc/someone_told_me_estradiol_pellets_can_become/) by varys2013 in 2024 
+* [For those who have switched to pellets. How have things changed for you? (Free E%, more HRT related changes, etc.)](https://www.reddit.com/r/DrWillPowers/comments/1921a3f/for_those_who_have_switched_to_pellets_how_have/) by Zombebe in 2024
+* [Pellet stan reporting in](https://www.reddit.com/r/DrWillPowers/comments/14t88u5/pellet_stan_reporting_in/) by wildbanana782 in 2023
+* [Pellet lifespan (extremely long?)](https://www.reddit.com/r/DrWillPowers/comments/13qqv3d/pellet_lifespan_extremely_long/) by GreatGhostsss in 2023
+* [Dysphoria is eating me alive since I got implanted estrogen. Do I pass? 27, 22 months HRT](https://www.reddit.com/r/trans/comments/uus7qs/dysphoria_is_eating_me_alive_since_i_got/) by kloebby in 2022
+* [Pellet press acquired. May the experimentations into maximum pellet size begin!](https://www.reddit.com/r/DrWillPowers/comments/s8z26t/pellet_press_acquired_may_the_experimentations/) by Drwillpowers in 2022
+* [As a favor to me, Superior Compounding has purchased pellet manufacturing equipment and is going to work with me to research into making larger pellets than are currently available in the USA](https://www.reddit.com/r/DrWillPowers/comments/rw02nw/as_a_favor_to_me_superior_compounding_has/) by Drwillpowers in 2021
+* [Pellet technique](https://www.reddit.com/r/DrWillPowers/comments/qwgrg5/pellet_technique/) by Drwillpowers in 2021
+* [The practice record has been broken, the highest free estradiol percentage on a quest lab in a MtF is now 2.9% free](https://www.reddit.com/r/DrWillPowers/comments/pyxly6/the_practice_record_has_been_broken_the_highest/) by Drwillpowers in 2021
+* [This is what pellet perfection labs look like. SHBG in the dirt despite E2 being locked at 300pg/ml and a free estradiol percentage greater than 2%. This patient got 5x 50mg pellets about 2 months ago. I am seriously loving these things. Still trying to get someone to make me 100mg pellets though.](https://www.reddit.com/r/DrWillPowers/comments/oligvx/this_is_what_pellet_perfection_labs_look_like/) by  Drwillpowers in 2021
+* ["Girl Tic-Tacs" implant procedure](https://www.reddit.com/r/DrWillPowers/comments/of1sks/girl_tictacs_implant_procedure/) by kalani96746 in 2021 - this is a video of Dr Will Powers inserting pellets
+* reply to [Estrogen pellets](https://www.reddit.com/r/DrWillPowers/comments/mhtmnb/estrogen_pellets/gt2vbj1/) by Drwillpowers - *"I prefer pellets to injections at this point"*
+* [As I do more and more pellet implantations, I'm finding lots of people with a really high E2 free percent and low SHBG on pellets. For my pellet fans out there, is this the case for you too?](https://www.reddit.com/r/DrWillPowers/comments/lffx42/as_i_do_more_and_more_pellet_implantations_im/) by Drwillpowers in 2021
+* [Is there interest in expensive but ultra long lasting estradiol implants?](https://www.reddit.com/r/DrWillPowers/comments/l1bwfv/is_there_interest_in_expensive_but_ultra_long/) by Drwillpowers in 2021
+* reply to [Bring Powers Method to the UK - and UK Gender Specialists](https://www.reddit.com/r/DrWillPowers/comments/enr4ic/bring_powers_method_to_the_uk_and_uk_gender/fea08dp/?context=3) by EllieTransitionx in 2020
 
 <br />
 
@@ -769,8 +769,8 @@ Key details
 
 reddit
 
-* reply to [Dysphoria is eating me alive since I got implanted estrogen. Do I pass? 27, 22 months HRT<sup>R</sup>](https://www.reddit.com/r/trans/comments/uus7qs/dysphoria_is_eating_me_alive_since_i_got/i9hqi17/) by kloebby in 2022
-* [Keep Pride Family Medicine in Austin on your radar, everyone!<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/mm5ujl/keep_pride_family_medicine_in_austin_on_your/) by Acceptable-Tie in 2021
+* reply to [Dysphoria is eating me alive since I got implanted estrogen. Do I pass? 27, 22 months HRT](https://www.reddit.com/r/trans/comments/uus7qs/dysphoria_is_eating_me_alive_since_i_got/i9hqi17/) by kloebby in 2022
+* [Keep Pride Family Medicine in Austin on your radar, everyone!](https://www.reddit.com/r/DrWillPowers/comments/mm5ujl/keep_pride_family_medicine_in_austin_on_your/) by Acceptable-Tie in 2021
 
 <br />
 
@@ -787,8 +787,8 @@ Key details
 
 reddit
 
-* [Pellet implants in Washington State Puget Soound area<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/wq19ec/pellet_implants_in_washington_state_puget_soound/) by MryDaisy in 2022
-* [I've trained another provider in my methods, and I think they're ready to start seeing patients (Woodinville, WA, 30-40 min from central Seattle)<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/tqlvld/ive_trained_another_provider_in_my_methods_and_i/) by Drwillpowers in 2022 - *...ND asked me if she could come learn from me in person for a few weeks just like I train MD/DO students. I felt like she earned it and was clearly not like most of her peers, and I was delighted to allow Dr. Lauren Gresham to shadow me and observe directly from patient visits. Spending the week with her confirmed that not all naturopathic physicians are inept...*
+* [Pellet implants in Washington State Puget Soound area](https://www.reddit.com/r/DrWillPowers/comments/wq19ec/pellet_implants_in_washington_state_puget_soound/) by MryDaisy in 2022
+* [I've trained another provider in my methods, and I think they're ready to start seeing patients (Woodinville, WA, 30-40 min from central Seattle)](https://www.reddit.com/r/DrWillPowers/comments/tqlvld/ive_trained_another_provider_in_my_methods_and_i/) by Drwillpowers in 2022 - *...ND asked me if she could come learn from me in person for a few weeks just like I train MD/DO students. I felt like she earned it and was clearly not like most of her peers, and I was delighted to allow Dr. Lauren Gresham to shadow me and observe directly from patient visits. Spending the week with her confirmed that not all naturopathic physicians are inept...*
 
 <br />
 
@@ -835,7 +835,7 @@ There's a Facebook peer support group working towards getting implants into New 
 
 reddit
 
-* [First implant yesterday<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/qxnogt/first_implant_yesterday/) by AdelineOnAFarm in 2021
+* [First implant yesterday](https://www.reddit.com/r/TransDIY/comments/qxnogt/first_implant_yesterday/) by AdelineOnAFarm in 2021
 
 ### Optimus Healthcare
 
@@ -850,7 +850,7 @@ Key details
 
 reddit
 
-* [I am continually asked "Do you know an X in location Y who does the powers method?" My answer is almost always "no" but this thread is dedicated to listing those people.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/dg8280/i_am_continually_asked_do_you_know_an_x_in/fjugjk0/?context=3) in 2020
+* [I am continually asked "Do you know an X in location Y who does the powers method?" My answer is almost always "no" but this thread is dedicated to listing those people.](https://www.reddit.com/r/DrWillPowers/comments/dg8280/i_am_continually_asked_do_you_know_an_x_in/fjugjk0/?context=3) in 2020
 
 ---
 
@@ -972,7 +972,7 @@ This pdf [Hormone Replacement Therapy Catalog](https://d415b775-c428-4727-8684-8
 
 reddit
 
-* reply to [Pellet implant for estradiol questions<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/htv5bo/pellet_implant_for_estradiol_questions/fzld2b2/) by glmdl in 2020
+* reply to [Pellet implant for estradiol questions](https://www.reddit.com/r/DrWillPowers/comments/htv5bo/pellet_implant_for_estradiol_questions/fzld2b2/) by glmdl in 2020
 
 ---
 
@@ -1010,8 +1010,8 @@ They make up to 50mg estradiol implants, ship to most USA states (but not Michig
 
 reddit
 
-* reply to [Pellet implant for estradiol questions<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/htv5bo/pellet_implant_for_estradiol_questions/fzld2b2/) by glmdl in 2020
-* [AMA: I've been on estrogen implants for 1 year and progesterone implants for 4 days<sup>R</sup>](https://www.reddit.com/r/trans/comments/gghgl3/ama_ive_been_on_estrogen_implants_for_1_year_and/) by  rand0trans0 in 2020
+* reply to [Pellet implant for estradiol questions](https://www.reddit.com/r/DrWillPowers/comments/htv5bo/pellet_implant_for_estradiol_questions/fzld2b2/) by glmdl in 2020
+* [AMA: I've been on estrogen implants for 1 year and progesterone implants for 4 days](https://www.reddit.com/r/trans/comments/gghgl3/ama_ive_been_on_estrogen_implants_for_1_year_and/) by  rand0trans0 in 2020
 
 ---
 
@@ -1155,7 +1155,7 @@ Note that appearaneces to the contrary, SottoPelle do not manufacture pellets. I
 
 reddit
 
-* [Sottopelle estrogen pellets<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/rjbi1s/sottopelle_estrogen_pellets/) by throwmomfromtrain in 2021
+* [Sottopelle estrogen pellets](https://www.reddit.com/r/DrWillPowers/comments/rjbi1s/sottopelle_estrogen_pellets/) by throwmomfromtrain in 2021
 
 Patents
 
@@ -1185,8 +1185,8 @@ Sites
 
 reddit
 
-* [As a favor to me, Superior Compounding has purchased pellet manufacturing equipment and is going to work with me to research into making larger pellets than are currently available in the USA<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/rw02nw/as_a_favor_to_me_superior_compounding_has/) by Drwillpowers in 2022
-* [As a favor to me, Superior Compounding has purchased pellet manufacturing equipment and is going to work with me to research into making larger pellets than are currently available in the USA<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/rw02nw/as_a_favor_to_me_superior_compounding_has/) by Drwillpowers in 2022
+* [As a favor to me, Superior Compounding has purchased pellet manufacturing equipment and is going to work with me to research into making larger pellets than are currently available in the USA](https://www.reddit.com/r/DrWillPowers/comments/rw02nw/as_a_favor_to_me_superior_compounding_has/) by Drwillpowers in 2022
+* [As a favor to me, Superior Compounding has purchased pellet manufacturing equipment and is going to work with me to research into making larger pellets than are currently available in the USA](https://www.reddit.com/r/DrWillPowers/comments/rw02nw/as_a_favor_to_me_superior_compounding_has/) by Drwillpowers in 2022
 
 ---
 

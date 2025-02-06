@@ -21,7 +21,7 @@ See also
 * <span class="internal">[Telehealth](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md#telehealth)</span> - Doctors who work on line prescribing across Australia
 * <span class="internal">[Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)</span>
 * Trans Health Australia [Medical Practitioners in Victoria & Tasmania](http://www.transhealthaustralia.org/index.php/vic-tas/4-medical-practitioners-vic-tas)
-* /r/transgenderau [wiki for Tasmania<sup>R</sup>](https://www.reddit.com/r/transgenderau/wiki/resources-tas)
+* /r/transgenderau [wiki for Tasmania](https://www.reddit.com/r/transgenderau/wiki/resources-tas)
 * https://docdir.org.au - *"DocDir is an Australia-wide directory of LGBTQ+ inclusive clinicians and services."*
 
 Department of Health, Transgender Services
@@ -30,10 +30,10 @@ Department of Health, Transgender Services
 
 reddit
 
-* [Why is it so hard to get hrt in Tasmania<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/nfxk8z/why_is_it_so_hard_to_get_hrt_in_tasmania/) by  Emma__1 in 2021
-* [Poor Tassie<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kxhscn/poor_tassie/) by MemeLoaf69 in 2021
-* [Looking for advice from anyone that has transitioned in Tassie<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/iwblwh/looking_for_advice_from_anyone_that_has/) by jenbobbi in 2020
-* [Services in Tasmania?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/fo28w6/services_in_tasmania/) by FemboyAlt34 in 2020
+* [Why is it so hard to get hrt in Tasmania](https://www.reddit.com/r/transgenderau/comments/nfxk8z/why_is_it_so_hard_to_get_hrt_in_tasmania/) by  Emma__1 in 2021
+* [Poor Tassie](https://www.reddit.com/r/transgenderau/comments/kxhscn/poor_tassie/) by MemeLoaf69 in 2021
+* [Looking for advice from anyone that has transitioned in Tassie](https://www.reddit.com/r/transgenderau/comments/iwblwh/looking_for_advice_from_anyone_that_has/) by jenbobbi in 2020
+* [Services in Tasmania?](https://www.reddit.com/r/transgenderau/comments/fo28w6/services_in_tasmania/) by FemboyAlt34 in 2020
 
 <br />
 
@@ -66,7 +66,7 @@ Holly Inglis wrote the document for clinicians *"GP Management Plan: Feminising 
 
 reddit
 
-* [experiences with holly inglis, east sydney doctors, or holdsworth house in Sydney?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/nfxxk4/experiences_with_holly_inglis_east_sydney_doctors/) by  DimensionalSection in 2021
+* [experiences with holly inglis, east sydney doctors, or holdsworth house in Sydney?](https://www.reddit.com/r/transgenderau/comments/nfxxk4/experiences_with_holly_inglis_east_sydney_doctors/) by  DimensionalSection in 2021
 
 <br />
 
@@ -85,7 +85,7 @@ Sites
 
 reddit
 
-* [Advice for mtf emigrating to Tasmania please<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/avsfzy/advice_for_mtf_emigrating_to_tasmania_please/) by eabhalove in 2019
+* [Advice for mtf emigrating to Tasmania please](https://www.reddit.com/r/transgenderau/comments/avsfzy/advice_for_mtf_emigrating_to_tasmania_please/) by eabhalove in 2019
 
 Other
 
@@ -104,7 +104,7 @@ Key details
 
 reddit
 
-* [Updated my name with the doctors clinic, still got deadnamed<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qb1k2m/updated_my_name_with_the_doctors_clinic_still_got/) by KujatatheFish in 2021
+* [Updated my name with the doctors clinic, still got deadnamed](https://www.reddit.com/r/transgenderau/comments/qb1k2m/updated_my_name_with_the_doctors_clinic_still_got/) by KujatatheFish in 2021
 
 <br />
 
@@ -119,7 +119,7 @@ Key details
 
 reddit
 
-* repply to [So... This is new (New MTF Tasmania)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/tfic3o/so_this_is_new_new_mtf_tasmania/i0xrk0k/) by jenbobbi - *"Clinic 34 are amazing, been with them for almost a year now. All I did was talk to a local doctor for a referral there and was good to go."*
+* repply to [So... This is new (New MTF Tasmania)](https://www.reddit.com/r/transgenderau/comments/tfic3o/so_this_is_new_new_mtf_tasmania/i0xrk0k/) by jenbobbi - *"Clinic 34 are amazing, been with them for almost a year now. All I did was talk to a local doctor for a referral there and was good to go."*
 
 <br />
 
@@ -135,7 +135,7 @@ Key details
 
 reddit
 
-* reply to [I feel like I'm losing my teen years to dysphoria<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/wdexvn/i_feel_like_im_losing_my_teen_years_to_dysphoria/iikmokp/) by calamurri13 in 2022 - *"I'd recommend the Ochre Medical Centre in Hobart. The time to wait for HRT is relatively short. They have a GP that follows the informed consent model, meaning you don't need to go through all the gatekeeping of the clinics... It's literally been the best decision of my life to go there."*
+* reply to [I feel like I'm losing my teen years to dysphoria](https://www.reddit.com/r/transgenderau/comments/wdexvn/i_feel_like_im_losing_my_teen_years_to_dysphoria/iikmokp/) by calamurri13 in 2022 - *"I'd recommend the Ochre Medical Centre in Hobart. The time to wait for HRT is relatively short. They have a GP that follows the informed consent model, meaning you don't need to go through all the gatekeeping of the clinics... It's literally been the best decision of my life to go there."*
 
 Other
 

@@ -34,7 +34,7 @@ Surgeons site
 
 reddit
 
-* [FFS done December 2017. Work done by It’s Dr Paul Gerarchi in Nth Sydney Australia. He had never done FFS before. Highly recommend.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ueakyi/ffs_done_december_2017_work_done_by_its_dr_paul/) by indicaflower1975 in 2022
+* [FFS done December 2017. Work done by It’s Dr Paul Gerarchi in Nth Sydney Australia. He had never done FFS before. Highly recommend.](https://www.reddit.com/r/Transgender_Surgeries/comments/ueakyi/ffs_done_december_2017_work_done_by_its_dr_paul/) by indicaflower1975 in 2022
 
 Susans
 
@@ -121,9 +121,9 @@ Review sites
 
 reddit
 
-* [4 weeks post FFS.<sup>R</sup>](https://www.reddit.com/r/TransLater/comments/10xcgh7/4_weeks_post_ffs/) by Brittany48 in 2023
-    * reply to [Exactly 1 year apart. What a year 2022 was.<sup>R</sup>](https://www.reddit.com/r/TransLater/comments/zzgs07/exactly_1_year_apart_what_a_year_2022_was/j2fhtno/?context=3) by Brittany48 in 2023
-* [FFS with Robert Knight -pureaesthetics Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/er82fn/ffs_with_robert_knight_pureaesthetics_sydney/) by amy-simmons in 2020
+* [4 weeks post FFS.](https://www.reddit.com/r/TransLater/comments/10xcgh7/4_weeks_post_ffs/) by Brittany48 in 2023
+    * reply to [Exactly 1 year apart. What a year 2022 was.](https://www.reddit.com/r/TransLater/comments/zzgs07/exactly_1_year_apart_what_a_year_2022_was/j2fhtno/?context=3) by Brittany48 in 2023
+* [FFS with Robert Knight -pureaesthetics Sydney](https://www.reddit.com/r/transgenderau/comments/er82fn/ffs_with_robert_knight_pureaesthetics_sydney/) by amy-simmons in 2020
 
 <br />
 
@@ -145,7 +145,7 @@ Surgeons sites
 
 reddit
 
-* [Ffs with Dr Zacharia in Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jiq8rs/ffs_with_dr_zacharia_in_sydney/) by Lozibeth in 2020
+* [Ffs with Dr Zacharia in Sydney](https://www.reddit.com/r/transgenderau/comments/jiq8rs/ffs_with_dr_zacharia_in_sydney/) by Lozibeth in 2020
 
 Health Care Complaints Commission
 
@@ -187,18 +187,18 @@ Surgeons sites
 
 reddit
 
-* [Timeline Post : 1 year after FFS with Dr Reddy in Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/184ot4l/timeline_post_1_year_after_ffs_with_dr_reddy_in/) by 8950149 in 2023
-* [FFS Dr Reddy - Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/168v55j/ffs_dr_reddy_sydney/) by Soflynn83 in 2023
-* [DR Reddy brow bone reductions / FFS<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/18f1xuh/dr_reddy_brow_bone_reductions_ffs/) by cicadaskinned in 2023
-* reply to [Brow bone reductions / plastic surgeons in Sydney/AU<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/18488rw/brow_bone_reductions_plastic_surgeons_in_sydneyau/katqihi/) by Soft-Dream-2207 in 2023
-* [Ffs costs. anyone have experience in thailand?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/we2xyx/ffs_costs_anyone_have_experience_in_thailand/) by jhxme1 in 2022
-* [Dr Chaithan Reddy, for FFs, has anyone got bad or good results.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/wkmmlu/dr_chaithan_reddy_for_ffs_has_anyone_got_bad_or/) by kelli-b1971 around 2022
-* [2 Months after FFS - a journal of recovery<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/o5fsjr/2_months_after_ffs_a_journal_of_recovery/) by ltothaz in 2021
-* [Dr Chaithan Reddy in Sydney. Some general info for those interested.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/n54kys/ffs_with_dr_chaithan_reddy_in_sydney_some_general/) by Lozibeth in 2021
+* [Timeline Post : 1 year after FFS with Dr Reddy in Sydney](https://www.reddit.com/r/transgenderau/comments/184ot4l/timeline_post_1_year_after_ffs_with_dr_reddy_in/) by 8950149 in 2023
+* [FFS Dr Reddy - Sydney](https://www.reddit.com/r/transgenderau/comments/168v55j/ffs_dr_reddy_sydney/) by Soflynn83 in 2023
+* [DR Reddy brow bone reductions / FFS](https://www.reddit.com/r/transgenderau/comments/18f1xuh/dr_reddy_brow_bone_reductions_ffs/) by cicadaskinned in 2023
+* reply to [Brow bone reductions / plastic surgeons in Sydney/AU](https://www.reddit.com/r/transgenderau/comments/18488rw/brow_bone_reductions_plastic_surgeons_in_sydneyau/katqihi/) by Soft-Dream-2207 in 2023
+* [Ffs costs. anyone have experience in thailand?](https://www.reddit.com/r/transgenderau/comments/we2xyx/ffs_costs_anyone_have_experience_in_thailand/) by jhxme1 in 2022
+* [Dr Chaithan Reddy, for FFs, has anyone got bad or good results.](https://www.reddit.com/r/transgenderau/comments/wkmmlu/dr_chaithan_reddy_for_ffs_has_anyone_got_bad_or/) by kelli-b1971 around 2022
+* [2 Months after FFS - a journal of recovery](https://www.reddit.com/r/transgenderau/comments/o5fsjr/2_months_after_ffs_a_journal_of_recovery/) by ltothaz in 2021
+* [Dr Chaithan Reddy in Sydney. Some general info for those interested.](https://www.reddit.com/r/transgenderau/comments/n54kys/ffs_with_dr_chaithan_reddy_in_sydney_some_general/) by Lozibeth in 2021
 
 YouTube
 
-* [FFS journal, 2021. Forehead Lift and Shave, Rhinoplasty, Genioplasty](https://www.youtube.com/playlist?list=PLdgXmPCR-suABe7PnCtQr5a7Nd1iFo6Gb) by Tara from the AU in 2021, see also a [comment on reddit<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/wkmmlu/dr_chaithan_reddy_for_ffs_has_anyone_got_bad_or/ijoya2v/)
+* [FFS journal, 2021. Forehead Lift and Shave, Rhinoplasty, Genioplasty](https://www.youtube.com/playlist?list=PLdgXmPCR-suABe7PnCtQr5a7Nd1iFo6Gb) by Tara from the AU in 2021, see also a [comment on reddit](https://www.reddit.com/r/transgenderau/comments/wkmmlu/dr_chaithan_reddy_for_ffs_has_anyone_got_bad_or/ijoya2v/)
     * [Tara's recovery Day 58 - Facial Feminizing Surgery (FFS)](https://www.youtube.com/watch?v=qgTOor7HexE) by Tara from the AU in 2021
 
 Review sites
@@ -225,7 +225,7 @@ Surgeons sites
 
 reddit
 
-* [One week post FFS, happy to answer questions for anyone interested<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/7br5wu/one_week_post_ffs_happy_to_answer_questions_for/) by t2e1992 in 2017, and [x-post<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/7c026w/one_week_post_ffs_happy_to_answer_questions_for/)
+* [One week post FFS, happy to answer questions for anyone interested](https://www.reddit.com/r/asktransgender/comments/7br5wu/one_week_post_ffs_happy_to_answer_questions_for/) by t2e1992 in 2017, and [x-post](https://www.reddit.com/r/transgenderau/comments/7c026w/one_week_post_ffs_happy_to_answer_questions_for/)
 
 <br />
 
@@ -245,8 +245,8 @@ Surgeons sites
 
 reddit
 
-* [Adam's Apple Reduction with Dr Matthew Broadhurst QLD - AMA<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ts2hub/adams_apple_reduction_with_dr_matthew_broadhurst/) by haventa in 2022
-* [Does anyone got removed Adam’s apple removed in Australia?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/di6mh5/does_anyone_got_removed_adams_apple_removed_in/) by Samy3108 in 2019
+* [Adam's Apple Reduction with Dr Matthew Broadhurst QLD - AMA](https://www.reddit.com/r/transgenderau/comments/ts2hub/adams_apple_reduction_with_dr_matthew_broadhurst/) by haventa in 2022
+* [Does anyone got removed Adam’s apple removed in Australia?](https://www.reddit.com/r/transgenderau/comments/di6mh5/does_anyone_got_removed_adams_apple_removed_in/) by Samy3108 in 2019
 
 <br />
 
@@ -266,8 +266,8 @@ Surgeons site
 
 reddit
 
-* reply to [Australian based SRS and FFS surgeons<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/5av1xp/australian_based_srs_and_ffs_surgeons/d9ks0mi/) around 2017
-* [What else does medicare cover?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/61fojr/what_else_does_medicare_cover/) around 2017
+* reply to [Australian based SRS and FFS surgeons](https://www.reddit.com/r/transgenderau/comments/5av1xp/australian_based_srs_and_ffs_surgeons/d9ks0mi/) around 2017
+* [What else does medicare cover?](https://www.reddit.com/r/transgenderau/comments/61fojr/what_else_does_medicare_cover/) around 2017
 
 <br />
 
@@ -287,12 +287,12 @@ Surgeons site
 
 reddit
 
-* [Adelaide Cranio-facial Clinic no longer doing FFS- All appointments cancelled<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1ctvobv/adelaide_craniofacial_clinic_no_longer_doing_ffs/) by Coryymbia in 2024 - *"EDIT: I mean the Cranial Facial part of the Royal Adelaide Hospital, not the cranio-facial clinic"*
-* [Does anyone have any experience with these lip scars from a corner lift? When will I stop looking like the joker?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/po5fls/does_anyone_have_any_experience_with_these_lip/) by MaybeSkyeOneday in 2022 - *"So far I'm happy with the results of my forehead and nose. My nose is still slightly crooked, but that was to be expected as I had a very complicated nose to work on. Outside of the scarring I'm happy with the lips also, though the scarring definitely puts a damper on things"*
-* reply to [Health Insurance for Hair Transplant?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/wzlxkg/health_insurance_for_hair_transplant/im3h2xg/) by gslakes - *"I've been excited to learn recently that apparently some public system surgeons in South Australia now consider Facial Feminisation Surgery as being reconstructive surgery... Just went back and checked, and the surgeon is Dr Flapper"*
-* [8 weeks FFS timeline. Surgery with Dr Flapper in Adelaide, Australia<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/px1x1b/8_weeks_ffs_timeline_surgery_with_dr_flapper_in/) by Lil_Blue_Sky in 2021
-* [12 hours post FFS with Dr Flapper in Adelaide AMA<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/oyrlk2/12_hours_post_ffs_with_dr_flapper_in_adelaide_ama/) by MaybeSkyeOneday in 2021
-* [Great news we have 130 signatures<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ikh9tz/great_news_we_have_130_signatures/g3l8jat/) by mandewrivers in 2021
+* [Adelaide Cranio-facial Clinic no longer doing FFS- All appointments cancelled](https://www.reddit.com/r/transgenderau/comments/1ctvobv/adelaide_craniofacial_clinic_no_longer_doing_ffs/) by Coryymbia in 2024 - *"EDIT: I mean the Cranial Facial part of the Royal Adelaide Hospital, not the cranio-facial clinic"*
+* [Does anyone have any experience with these lip scars from a corner lift? When will I stop looking like the joker?](https://www.reddit.com/r/Transgender_Surgeries/comments/po5fls/does_anyone_have_any_experience_with_these_lip/) by MaybeSkyeOneday in 2022 - *"So far I'm happy with the results of my forehead and nose. My nose is still slightly crooked, but that was to be expected as I had a very complicated nose to work on. Outside of the scarring I'm happy with the lips also, though the scarring definitely puts a damper on things"*
+* reply to [Health Insurance for Hair Transplant?](https://www.reddit.com/r/transgenderau/comments/wzlxkg/health_insurance_for_hair_transplant/im3h2xg/) by gslakes - *"I've been excited to learn recently that apparently some public system surgeons in South Australia now consider Facial Feminisation Surgery as being reconstructive surgery... Just went back and checked, and the surgeon is Dr Flapper"*
+* [8 weeks FFS timeline. Surgery with Dr Flapper in Adelaide, Australia](https://www.reddit.com/r/Transgender_Surgeries/comments/px1x1b/8_weeks_ffs_timeline_surgery_with_dr_flapper_in/) by Lil_Blue_Sky in 2021
+* [12 hours post FFS with Dr Flapper in Adelaide AMA](https://www.reddit.com/r/transgenderau/comments/oyrlk2/12_hours_post_ffs_with_dr_flapper_in_adelaide_ama/) by MaybeSkyeOneday in 2021
+* [Great news we have 130 signatures](https://www.reddit.com/r/transgenderau/comments/ikh9tz/great_news_we_have_130_signatures/g3l8jat/) by mandewrivers in 2021
 
 Review Sites
 
@@ -345,7 +345,7 @@ Location
 
 reddit
 
-* [Trachea shave results (Dr. Stephen Kleid, Melb) ≈6mos post op<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/8javrm/trachea_shave_results_dr_stephen_kleid_melb_6mos/)
+* [Trachea shave results (Dr. Stephen Kleid, Melb) ≈6mos post op](https://www.reddit.com/r/transgenderau/comments/8javrm/trachea_shave_results_dr_stephen_kleid_melb_6mos/)
 
 <br />
 
@@ -366,8 +366,8 @@ Surgeons sites
 
 reddit
 
-* [lip lifts in australia/overseas<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/eczl4b/lip_lifts_in_australiaoverseas/) by mermaidlouise in 2019
-* [Best rhinoplasty options in Australia?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/eax3tf/best_rhinoplasty_options_in_australia/) by tyraimaani in 2019
+* [lip lifts in australia/overseas](https://www.reddit.com/r/transgenderau/comments/eczl4b/lip_lifts_in_australiaoverseas/) by mermaidlouise in 2019
+* [Best rhinoplasty options in Australia?](https://www.reddit.com/r/transgenderau/comments/eax3tf/best_rhinoplasty_options_in_australia/) by tyraimaani in 2019
 
 <br />
 
@@ -383,10 +383,10 @@ Surgeons sites
 
 reddit
 
-* [Review: FFS with Alan Breidahl (+Jaw Surgery with Joseph Gunn)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1ex01qg/review_ffs_with_alan_breidahl_jaw_surgery_with/) by smowse in 2024
-* [4 weeks post op (Rhinoplasty) with Alan Breidahl (VIC)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/16wtfje/4_weeks_post_op_rhinoplasty_with_alan_breidahl_vic/) by Authanatik in 2023
-* [3 days since my FFS. Still a lot of swelling and my chin is huge but I am really hopeful!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/tksrnx/3_days_since_my_ffs_still_a_lot_of_swelling_and/) by LeighSeelie in 2022
-* [Good experience of FFS in Melbourne<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/m7oni0/good_experience_of_ffs_in_melbourne/) by KLea655 in 2021
+* [Review: FFS with Alan Breidahl (+Jaw Surgery with Joseph Gunn)](https://www.reddit.com/r/transgenderau/comments/1ex01qg/review_ffs_with_alan_breidahl_jaw_surgery_with/) by smowse in 2024
+* [4 weeks post op (Rhinoplasty) with Alan Breidahl (VIC)](https://www.reddit.com/r/transgenderau/comments/16wtfje/4_weeks_post_op_rhinoplasty_with_alan_breidahl_vic/) by Authanatik in 2023
+* [3 days since my FFS. Still a lot of swelling and my chin is huge but I am really hopeful!](https://www.reddit.com/r/transgenderau/comments/tksrnx/3_days_since_my_ffs_still_a_lot_of_swelling_and/) by LeighSeelie in 2022
+* [Good experience of FFS in Melbourne](https://www.reddit.com/r/transgenderau/comments/m7oni0/good_experience_of_ffs_in_melbourne/) by KLea655 in 2021
 
 the age
 
@@ -428,7 +428,7 @@ Review Sites
 
 reddit
 
-* [Best rhinoplasty options in Australia?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/eax3tf/best_rhinoplasty_options_in_australia/) by tyraimaani in 2019
+* [Best rhinoplasty options in Australia?](https://www.reddit.com/r/transgenderau/comments/eax3tf/best_rhinoplasty_options_in_australia/) by tyraimaani in 2019
 
 YouTube
 

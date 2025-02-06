@@ -31,7 +31,7 @@ Canadian reddit wiki surgery resources
 
 reddit
 
-* [r/transvancouver/<sup>R</sup>](https://www.reddit.com/r/transvancouver/)
+* [r/transvancouver/](https://www.reddit.com/r/transvancouver/)
 
 Other
 
@@ -67,7 +67,7 @@ Other
 
 reddit
 
-* [r/transontario<sup>R</sup>](https://www.reddit.com/r/transontario)
+* [r/transontario](https://www.reddit.com/r/transontario)
 
 Other
 

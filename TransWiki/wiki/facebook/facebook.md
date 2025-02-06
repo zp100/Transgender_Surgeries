@@ -6,7 +6,7 @@
 
 # Facebook
 
-There's significant resources available on Facebook, especially in these Facebook groups. Note however the Facebook groups are significantly smaller than those on reddit. When I checked in May 2020 [r/Transgender_Surgeries<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries) had 13563 members ([r/asktransgender<sup>R</sup>](https://www.reddit.com/r/asktransgender) had 133k and [r/MtF<sup>R</sup>](https://www.reddit.com/r/MtF) had 79k).
+There's significant resources available on Facebook, especially in these Facebook groups. Note however the Facebook groups are significantly smaller than those on reddit. When I checked in May 2020 [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries) had 13563 members ([r/asktransgender](https://www.reddit.com/r/asktransgender) had 133k and [r/MtF](https://www.reddit.com/r/MtF) had 79k).
 
 There are a few significant issues using Facebook
 

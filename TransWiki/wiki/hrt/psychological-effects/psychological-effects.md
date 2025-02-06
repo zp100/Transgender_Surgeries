@@ -26,7 +26,7 @@ I find high estrogen levels of interest from a psychological point of view
 
 reddit
 
-* [Estrogen Migraines<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/sc5c2k/estrogen_migraines/) by Environmental_Can321 in 2022
+* [Estrogen Migraines](https://www.reddit.com/r/DrWillPowers/comments/sc5c2k/estrogen_migraines/) by Environmental_Can321 in 2022
 
 Papers
 

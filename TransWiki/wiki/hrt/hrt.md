@@ -10,15 +10,15 @@ There's a lot of discussion/argument about the proper HRT protocol, to the point
 
 ## reddit
 
-* [r/AskMtFHRT<sup>R</sup>](https://www.reddit.com/r/AskMtFHRT) - normal discussion of HRT
-* ~~[r/MtFHRT<sup>R</sup>](https://www.reddit.com/r/MtFHRT) - very advanced information on HRT~~ 
-* [r/TransfemScience<sup>R</sup>](https://www.reddit.com/r/TransfemScience)
-* [r/DrWillPowers<sup>R</sup>](https://www.reddit.com/r/DrWillPowers)
-* [r/TransDIY<sup>R</sup>](https://www.reddit.com/r/TransDIY) - HRT without a doctor, this sub has a good [wiki<sup>R</sup>](https://www.reddit.com/r/TransDIY/wiki/index)
-* [r/estrogel<sup>R</sup>](https://www.reddit.com/r/estrogel) - DIY compounding of topical HRT
-* [r/TransDIY_Nonbinary<sup>R</sup>](https://www.reddit.com/r/TransDIY_Nonbinary)
-* [r/MTFHRT_MonoTherapy<sup>R</sup>](https://www.reddit.com/r/MTFHRT_MonoTherapy)
-* [r/HRT<sup>R</sup>](https://www.reddit.com/r/HRT) - looks dead
+* [r/AskMtFHRT](https://www.reddit.com/r/AskMtFHRT) - normal discussion of HRT
+* ~~[r/MtFHRT](https://www.reddit.com/r/MtFHRT) - very advanced information on HRT~~ 
+* [r/TransfemScience](https://www.reddit.com/r/TransfemScience)
+* [r/DrWillPowers](https://www.reddit.com/r/DrWillPowers)
+* [r/TransDIY](https://www.reddit.com/r/TransDIY) - HRT without a doctor, this sub has a good [wiki](https://www.reddit.com/r/TransDIY/wiki/index)
+* [r/estrogel](https://www.reddit.com/r/estrogel) - DIY compounding of topical HRT
+* [r/TransDIY_Nonbinary](https://www.reddit.com/r/TransDIY_Nonbinary)
+* [r/MTFHRT_MonoTherapy](https://www.reddit.com/r/MTFHRT_MonoTherapy)
+* [r/HRT](https://www.reddit.com/r/HRT) - looks dead
 
 ## Facebook
 
@@ -26,20 +26,20 @@ Facebook groups
 
 * [NovaTrue](https://www.facebook.com/groups/NovaTrue/permalink/2130966700533462/) is very active on HRT in Sydney.
 * [HRT Implants/Pellets Info & Support](https://www.facebook.com/groups/2462247927386054/)
-* [MTF Trans HRT Hormone Forum](https://www.facebook.com/groups/TransHRT/) has 11k+ members. One of the admins is Beverly Cosgrove ([r/BeverlyCosgrove<sup>R</sup>](https://www.reddit.com/r/BeverlyCosgrove)) who has the website https://moderntranshormones.com, and there is a critique of this group on reddit [here<sup>R</sup>](https://www.reddit.com/r/MtFHRT/comments/c4v744/induced_lactation_why_a_woman_doesnt_need_to_bear/es9oy6e/).
+* [MTF Trans HRT Hormone Forum](https://www.facebook.com/groups/TransHRT/) has 11k+ members. One of the admins is Beverly Cosgrove ([r/BeverlyCosgrove](https://www.reddit.com/r/BeverlyCosgrove)) who has the website https://moderntranshormones.com, and there is a critique of this group on reddit [here](https://www.reddit.com/r/MtFHRT/comments/c4v744/induced_lactation_why_a_woman_doesnt_need_to_bear/es9oy6e/).
 
 ## Dr Will Powers
 
 Dr William Powers is *very* popular US doctor with 1500+ trans patients who has developed and documented *"The Powers Method of Hormonal Transitioning"*. 
 
 * /u/Drwillpowers - he's also a regular reddit poster
-* https://www.reddit.com/r/DrWillPowers - his reddit sub and a [wiki<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/wiki/index) listing doctors who use the Powers Method
+* https://www.reddit.com/r/DrWillPowers - his reddit sub and a [wiki](https://www.reddit.com/r/DrWillPowers/wiki/index) listing doctors who use the Powers Method
 * https://www.facebook.com/DrWillPowers - his latest PowerPoint presentation can be downloaded here
 * YouTube video of a presentation [Healthcare of the Transgender Patient (5/13/19)](https://www.youtube.com/watch?v=fefu33e8O-0)
 
 ## Discord
 
-* See this reddit post [Join the transgender hormone therapy community on Discord!<sup>R</sup>](https://www.reddit.com/r/MtFHRT/comments/fu8m2l/join_the_transgender_hormone_therapy_community_on/) by Alyw234237 in 2020
+* See this reddit post [Join the transgender hormone therapy community on Discord!](https://www.reddit.com/r/MtFHRT/comments/fu8m2l/join_the_transgender_hormone_therapy_community_on/) by Alyw234237 in 2020
 
 ## Papers
 
@@ -48,7 +48,7 @@ Dr William Powers is *very* popular US doctor with 1500+ trans patients who has 
 ## Other
 
 * https://groups.io/g/MTFHRT
-* https://transfemscience.org - see the announcement on reddit [Announcing Transfeminine Science (transfemscience.org)—the Future of r/MtFHRT<sup>R</sup>](https://www.reddit.com/r/MtFHRT/comments/j5s1dp/announcing_transfeminine_science/) by Alyw234237 in 2020
+* https://transfemscience.org - see the announcement on reddit [Announcing Transfeminine Science (transfemscience.org)—the Future of r/MtFHRT](https://www.reddit.com/r/MtFHRT/comments/j5s1dp/announcing_transfeminine_science/) by Alyw234237 in 2020
 * https://transharmreduction.org/hrt-testing
 
 <br />
@@ -80,7 +80,7 @@ Look here
 
 # Fertility
 
-* reply to [PSA: Treat hormones as if they make you instantly and irreversibly sterile if you want kids.<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/cgbyl7/psa_treat_hormones_as_if_they_make_you_instantly/euif3ak/?context=3) by Drwillpowers in 2019
+* reply to [PSA: Treat hormones as if they make you instantly and irreversibly sterile if you want kids.](https://www.reddit.com/r/TransDIY/comments/cgbyl7/psa_treat_hormones_as_if_they_make_you_instantly/euif3ak/?context=3) by Drwillpowers in 2019
 
 <br />
 
@@ -113,7 +113,7 @@ There are 4 main components
 
 Reactions to the ingredients
 
-* [Site reaction when injecting EV<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/sv7tkd/site_reaction_when_injecting_ev/) by art_usagi in 2022
+* [Site reaction when injecting EV](https://www.reddit.com/r/DrWillPowers/comments/sv7tkd/site_reaction_when_injecting_ev/) by art_usagi in 2022
 
 ### Estradiol Esters
 
@@ -129,7 +129,7 @@ Further information on Transfemscience here
 
 See the reddit post announcing the simulator
 
-* [An Interactive Web Simulator for Estradiol Levels with Injectable Estradiol Esters (Aly W., 2021)<sup>R</sup>](https://www.reddit.com/r/TransfemScience/comments/olwn0l/an_interactive_web_simulator_for_estradiol_levels/) by Alyw234237 in 2021
+* [An Interactive Web Simulator for Estradiol Levels with Injectable Estradiol Esters (Aly W., 2021)](https://www.reddit.com/r/TransfemScience/comments/olwn0l/an_interactive_web_simulator_for_estradiol_levels/) by Alyw234237 in 2021
 
 Beverly Cosgrove describes a number of different injectable estrogens and their properties
 
@@ -144,9 +144,9 @@ TBA. https://www.reddit.com/r/transgenderau/comments/gu9r6j/lenas_shipment_final
 
 reddit
 
-* [EEn from Lena - which oil is best?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/sjfw83/een_from_lena_which_oil_is_best/) by MotherMychaela in 2022
-* [Do you get a painful bruise like feeling for a few days after EVERY injection? If so read this.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/llyjkw/do_you_get_a_painful_bruise_like_feeling_for_a/) by Drwillpowers in 2021
-* [Is there a "best" carrier oil for injections?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/iuerv0/is_there_a_best_carrier_oil_for_injections/) by  ani_3113 in 2020
+* [EEn from Lena - which oil is best?](https://www.reddit.com/r/TransDIY/comments/sjfw83/een_from_lena_which_oil_is_best/) by MotherMychaela in 2022
+* [Do you get a painful bruise like feeling for a few days after EVERY injection? If so read this.](https://www.reddit.com/r/DrWillPowers/comments/llyjkw/do_you_get_a_painful_bruise_like_feeling_for_a/) by Drwillpowers in 2021
+* [Is there a "best" carrier oil for injections?](https://www.reddit.com/r/TransDIY/comments/iuerv0/is_there_a_best_carrier_oil_for_injections/) by  ani_3113 in 2020
 
 Ii is possible to make a aqueous (water) injection rather than using an oil, but its difficult to find out much about it.
 
@@ -156,25 +156,25 @@ Depending on country, injectable estrogen may be available from a pharmaceutical
 
 Subs with information on compounding
 
-* [r/estrogel<sup>R</sup>](https://www.reddit.com/r/estrogel)
-* [r/TransDIY<sup>R</sup>](https://www.reddit.com/r/TransDIY)
-* [r/steroids<sup>R</sup>](https://www.reddit.com/r/steroids) - bodybuilding, but often discusses making injectable medicines
-* [r/SteroidsHomebrewing<sup>R</sup>](https://www.reddit.com/r/SteroidsHomebrewing) - bodybuilding, the wiki contains lots of interesting information
-* The [wiki for r/steroids<sup>R</sup>](https://www.reddit.com/r/steroids/wiki/homebrew/list) provides quite a lot of information on the (home) manufacture of body building steroids, and as far as I understand injectable estrogen uses quite similar processes. One important thing to note is that the various oils used to carry the estrogen have very different properties, and can cause negative reactions in some people - if you have a bad reaction to an injection it may simply to due to the carrier oil rather than the estrogen itself.
+* [r/estrogel](https://www.reddit.com/r/estrogel)
+* [r/TransDIY](https://www.reddit.com/r/TransDIY)
+* [r/steroids](https://www.reddit.com/r/steroids) - bodybuilding, but often discusses making injectable medicines
+* [r/SteroidsHomebrewing](https://www.reddit.com/r/SteroidsHomebrewing) - bodybuilding, the wiki contains lots of interesting information
+* The [wiki for r/steroids](https://www.reddit.com/r/steroids/wiki/homebrew/list) provides quite a lot of information on the (home) manufacture of body building steroids, and as far as I understand injectable estrogen uses quite similar processes. One important thing to note is that the various oils used to carry the estrogen have very different properties, and can cause negative reactions in some people - if you have a bad reaction to an injection it may simply to due to the carrier oil rather than the estrogen itself.
 
 reddit
 
 * [PSA: Do NOT use darkened/discolored HRT](https://old.reddit.com/r/TransDIY/comments/187ud8p/psa_do_not_use_darkeneddiscolored_hrt/) by HRTCat in 2023
-* [How would I make estrogen?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/12o7cif/how_would_i_make_estrogen/) by averageseallover in 2023
-* [estrogel recipe <sup>R</sup>](https://www.reddit.com/r/estrogel/comments/zcardm/estrogel_recipe/) by anotherhuman101 in 2022
-* [My first experience with homemade gel and blood test results.<sup>R</sup>](https://www.reddit.com/r/estrogel/comments/umm6gy/my_first_experience_with_homemade_gel_and_blood/) by Adriana_09283 in 2022
-* reply to [Site reaction when injecting EV<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/sv7tkd/site_reaction_when_injecting_ev/hxgpc40/) by aycharetee in 2022 - *"
+* [How would I make estrogen?](https://www.reddit.com/r/TransDIY/comments/12o7cif/how_would_i_make_estrogen/) by averageseallover in 2023
+* [estrogel recipe ](https://www.reddit.com/r/estrogel/comments/zcardm/estrogel_recipe/) by anotherhuman101 in 2022
+* [My first experience with homemade gel and blood test results.](https://www.reddit.com/r/estrogel/comments/umm6gy/my_first_experience_with_homemade_gel_and_blood/) by Adriana_09283 in 2022
+* reply to [Site reaction when injecting EV](https://www.reddit.com/r/DrWillPowers/comments/sv7tkd/site_reaction_when_injecting_ev/hxgpc40/) by aycharetee in 2022 - *"
 The instructions the initial pharmacy provided: "We used to make batches of 25mL of estradiol valerate 20mg/ml and would filter this into individual 5mL vials. The ingredients we used for 25mL were: Estradiol Valerate USP 0.5g, Chlorobutanol Annhydrous NF 0.125g, Sesame oil 25mL""*
-* [Store a decade worth of estrogen injections?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/nmugpi/store_a_decade_worth_of_estrogen_injections/) by sailee94 in 2021
-* [Homebrewing hormones (MTF), Guide<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/fv86lk/homebrewing_hormones_mtf_guide/) by GC146 in 2020
-* [Capsul Filler Material<sup>R</sup>](https://www.reddit.com/r/SteroidsHomebrewing/comments/fuwp3s/capsul_filler_material/) by RazorsEdge89113 in 2020
-* [Feedback for homebrew HRT procedure?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/g7etaq/feedback_for_homebrew_hrt_procedure/) in 2020
-* [Anyone here homebrewing?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/f3566m/anyone_here_homebrewing/) by GC146 in 2020
+* [Store a decade worth of estrogen injections?](https://www.reddit.com/r/TransDIY/comments/nmugpi/store_a_decade_worth_of_estrogen_injections/) by sailee94 in 2021
+* [Homebrewing hormones (MTF), Guide](https://www.reddit.com/r/TransDIY/comments/fv86lk/homebrewing_hormones_mtf_guide/) by GC146 in 2020
+* [Capsul Filler Material](https://www.reddit.com/r/SteroidsHomebrewing/comments/fuwp3s/capsul_filler_material/) by RazorsEdge89113 in 2020
+* [Feedback for homebrew HRT procedure?](https://www.reddit.com/r/TransDIY/comments/g7etaq/feedback_for_homebrew_hrt_procedure/) in 2020
+* [Anyone here homebrewing?](https://www.reddit.com/r/TransDIY/comments/f3566m/anyone_here_homebrewing/) by GC146 in 2020
 
 YouTube
 
@@ -231,8 +231,8 @@ Some people are prescribed injectable estrogen in a vial that lasts 1 month afte
 
 reddit
 
-* [HRT stockpiling: freezing estrogen vials to extend their shelf life? Other HRT meds too? Would really love feedback from folks with a chemistry or medical background!<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/12mhzhu/hrt_stockpiling_freezing_estrogen_vials_to_extend/) by CastillejaParviflor in 2023
-* reply to [Does estradiol valerate have a time limit after the first time you use your vial?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/7zlpzv/does_estradiol_valerate_have_a_time_limit_after/dupmsjz/) by strawberryfirestorm around 2018
+* [HRT stockpiling: freezing estrogen vials to extend their shelf life? Other HRT meds too? Would really love feedback from folks with a chemistry or medical background!](https://www.reddit.com/r/asktransgender/comments/12mhzhu/hrt_stockpiling_freezing_estrogen_vials_to_extend/) by CastillejaParviflor in 2023
+* reply to [Does estradiol valerate have a time limit after the first time you use your vial?](https://www.reddit.com/r/MtF/comments/7zlpzv/does_estradiol_valerate_have_a_time_limit_after/dupmsjz/) by strawberryfirestorm around 2018
 
 Articles
 
@@ -270,11 +270,11 @@ A few people buy their HRT online without using a doctor. Even fewer compound th
 
 reddit
 
-* [r/TransDIY<sup>R</sup>](https://www.reddit.com/r/TransDIY) - HRT without a doctor, this sub has a good [wiki<sup>R</sup>](https://www.reddit.com/r/TransDIY/wiki/index)
-* [r/DIYHRT<sup>R</sup>](https://www.reddit.com/r/DIYHRT)
-* [r/estrogel<sup>R</sup>](https://www.reddit.com/r/estrogel) - compounding of topical HRT
+* [r/TransDIY](https://www.reddit.com/r/TransDIY) - HRT without a doctor, this sub has a good [wiki](https://www.reddit.com/r/TransDIY/wiki/index)
+* [r/DIYHRT](https://www.reddit.com/r/DIYHRT)
+* [r/estrogel](https://www.reddit.com/r/estrogel) - compounding of topical HRT
 * r diyftm - for trans men, banned for discussing sourcing of testosterone
-* r ftmdiy - for trans men, banned for discussing sourcing of testosterone - see [here<sup>R</sup>](https://www.reddit.com/r/ftm/comments/jl37r4/hey_so_rftmdiy_was_banned_recently/)
+* r ftmdiy - for trans men, banned for discussing sourcing of testosterone - see [here](https://www.reddit.com/r/ftm/comments/jl37r4/hey_so_rftmdiy_was_banned_recently/)
 
 Other info sites
 
@@ -298,7 +298,7 @@ Estradiol suppliers
 
 reddit
 
-* [Pressing own pills from raw powder from China<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/sxo9q7/pressing_own_pills_from_raw_powder_from_china/) in 2022
+* [Pressing own pills from raw powder from China](https://www.reddit.com/r/TransDIY/comments/sxo9q7/pressing_own_pills_from_raw_powder_from_china/) in 2022
 
 The Baffler
 
@@ -320,8 +320,8 @@ Biotin effects the results of blood tests for estrogen (and other things), and i
 
 reddit
 
-* [At home blood analyzer machine?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/134adan/at_home_blood_analyzer_machine/) by blingingjak1 in 2023
-* [Biotin affects estrogen blood test levels<sup>R</sup>](https://www.reddit.com/r/MtF/comments/8zm7b5/biotin_affects_estrogen_blood_test_levels/) by Lauren_North around 2018 - *"... my Dr said my E levels were over 900 which is impossible since I'm only on 4mg estradiol per day. Turns out the biotin in my hair, skin and nail supplements skews the results in the more current labs. I have to stay off biotin for 2 weeks to be retested."*
+* [At home blood analyzer machine?](https://www.reddit.com/r/TransDIY/comments/134adan/at_home_blood_analyzer_machine/) by blingingjak1 in 2023
+* [Biotin affects estrogen blood test levels](https://www.reddit.com/r/MtF/comments/8zm7b5/biotin_affects_estrogen_blood_test_levels/) by Lauren_North around 2018 - *"... my Dr said my E levels were over 900 which is impossible since I'm only on 4mg estradiol per day. Turns out the biotin in my hair, skin and nail supplements skews the results in the more current labs. I have to stay off biotin for 2 weeks to be retested."*
 
 Papers
 
@@ -335,7 +335,7 @@ https://en.wikipedia.org/wiki/Chemical_synthesis - *"As a topic of chemistry, ch
 
 reddit
 
-* [The Insurmountable Risks of Attempting Estradiol Synthesis via Marker Degradation Outside of a Lab<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/11zuerc/the_insurmountable_risks_of_attempting_estradiol/) by g0ldpunisher in 2023
+* [The Insurmountable Risks of Attempting Estradiol Synthesis via Marker Degradation Outside of a Lab](https://www.reddit.com/r/TransDIY/comments/11zuerc/the_insurmountable_risks_of_attempting_estradiol/) by g0ldpunisher in 2023
 
 Papers
 
@@ -444,7 +444,7 @@ The [WPATH Standards Of Care](https://www.wpath.org/publications/soc) state
 
 > Use of oral estrogen, and specifically ethinyl estradiol, appears to increase the risk of VTE. Because of this safety concern, ***ethinyl estradiol is not recommended*** for feminizing hormone therapy.
 
-Dr Will Powers says [I would gouge out my eyes with a rusty spoon before I use ethinyl estradiol for trans HRT<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/dg8280/i_am_continually_asked_do_you_know_an_x_in/f3c8tpc/).
+Dr Will Powers says [I would gouge out my eyes with a rusty spoon before I use ethinyl estradiol for trans HRT](https://www.reddit.com/r/DrWillPowers/comments/dg8280/i_am_continually_asked_do_you_know_an_x_in/f3c8tpc/).
 
 <br />
 
@@ -454,16 +454,16 @@ Dr Will Powers says [I would gouge out my eyes with a rusty spoon before I use e
 
 reddit subs
 
-* [r/FinasterideSyndrome<sup>R</sup>](https://www.reddit.com/r/FinasterideSyndrome) - *"A community dedicated to people suffering effects of 5ar inhibitors, or people who wish to know more about this real constellation of symptoms."*
+* [r/FinasterideSyndrome](https://www.reddit.com/r/FinasterideSyndrome) - *"A community dedicated to people suffering effects of 5ar inhibitors, or people who wish to know more about this real constellation of symptoms."*
 
 reddit
 
-* [A few facts about Post-Finasteride Syndrome<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/19d0mgp/a_few_facts_about_postfinasteride_syndrome/) by  Starlight_171 in 2024
+* [A few facts about Post-Finasteride Syndrome](https://www.reddit.com/r/DrWillPowers/comments/19d0mgp/a_few_facts_about_postfinasteride_syndrome/) by  Starlight_171 in 2024
 * [Post-Finasteride Syndrome](https://old.reddit.com/r/DrWillPowers/comments/15wermf/postfinasteride_syndrome/) by lorax31 in 2023 - *"In May I started taking 1 mg finasteride for hair loss. I only took it for 5 days and then started feeling weird... 3 days later I woke up so dizzy I couldn't sit up in bed... continued to have depression, anxiety, dissociation, brain fog, forgetfulness... This continued for over a month until I contacted Dr. Powers and was prescribed 200 mg progesterone, 100 mg DHEA, and 100 mg pregnenalone, all taken twice a day. Over the next couple of weeks my symptoms got better until I was feeling normal again. I was told to continue this treatment for 3 months and I have 1 more month left to go."*
-* [How many PFS patients has Dr Powers helped?<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/qs1vqm/how_many_pfs_patients_has_dr_powers_helped/) by hailnaux in 2021 - *"I took finasteride for 10 years (2000-2010) with zero side effects, high libido, etc. Then in 2011, a doc recomended I try a slightly higher dose. After one week, my body changed completely. No erections, sexual thoughts, no libido, depression, anxiety, shrinkage, numbness. Has not changed since. That was 10 years ago. I'm still looking for help."*
-* [Has anyone here taken finasteride or dutasteride and gotten post finasteride syndrome (PFS) from them? I have a theory as to why this seems to happen in transgender women more than cis men (which may just be my selection bias anyways).<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/enf843/has_anyone_here_taken_finasteride_or_dutasteride/) by  Drwillpowers in 2021
-* [Finasteride as effective at very low doses, dutasteride not needed<sup>R</sup>](https://www.reddit.com/r/MtFHRT/comments/81zsap/finasteride_as_effective_at_very_low_doses/) by KaySOS around 2018
-* [IAmA male who took Propecia/Finasteride because I was balding...now I don't want to live. AMA<sup>R</sup>](https://www.reddit.com/r/IAmA/comments/teqju/iama_male_who_took_propeciafinasteride_because_i/) by PropeciaSucks around 2012
+* [How many PFS patients has Dr Powers helped?](https://www.reddit.com/r/DrWillPowers/comments/qs1vqm/how_many_pfs_patients_has_dr_powers_helped/) by hailnaux in 2021 - *"I took finasteride for 10 years (2000-2010) with zero side effects, high libido, etc. Then in 2011, a doc recomended I try a slightly higher dose. After one week, my body changed completely. No erections, sexual thoughts, no libido, depression, anxiety, shrinkage, numbness. Has not changed since. That was 10 years ago. I'm still looking for help."*
+* [Has anyone here taken finasteride or dutasteride and gotten post finasteride syndrome (PFS) from them? I have a theory as to why this seems to happen in transgender women more than cis men (which may just be my selection bias anyways).](https://www.reddit.com/r/asktransgender/comments/enf843/has_anyone_here_taken_finasteride_or_dutasteride/) by  Drwillpowers in 2021
+* [Finasteride as effective at very low doses, dutasteride not needed](https://www.reddit.com/r/MtFHRT/comments/81zsap/finasteride_as_effective_at_very_low_doses/) by KaySOS around 2018
+* [IAmA male who took Propecia/Finasteride because I was balding...now I don't want to live. AMA](https://www.reddit.com/r/IAmA/comments/teqju/iama_male_who_took_propeciafinasteride_because_i/) by PropeciaSucks around 2012
 
 Vice
 
@@ -496,7 +496,7 @@ Papers
 
 reddit
 
-* [I'm fairly confident at this point that diet and exercise have been grossly underestimated in regards to impact on breast development and progress when stalled, related to growth hormone mediated mechanisms.<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/z317tl/im_fairly_confident_at_this_point_that_diet_and/) by Drwillpowers in 2022
+* [I'm fairly confident at this point that diet and exercise have been grossly underestimated in regards to impact on breast development and progress when stalled, related to growth hormone mediated mechanisms.](https://www.reddit.com/r/DrWillPowers/comments/z317tl/im_fairly_confident_at_this_point_that_diet_and/) by Drwillpowers in 2022
 
 <br />
 
@@ -530,7 +530,7 @@ As someone who doesn't like needles I'd much rather do a subcutaneous injection 
 
 reddit
 
-* [What's the smallest needle gauge I can use for castor oil injections?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/19cu5ki/whats_the_smallest_needle_gauge_i_can_use_for/) by strategicmagpie in 2024
+* [What's the smallest needle gauge I can use for castor oil injections?](https://www.reddit.com/r/TransDIY/comments/19cu5ki/whats_the_smallest_needle_gauge_i_can_use_for/) by strategicmagpie in 2024
 
 **Preservative**
 
@@ -560,8 +560,8 @@ In this Wiki <span class="internal">[HRT in Australia](https://github.com/zp100/
 
 The Australian transgender sub /r/transgenderau contains information on HRT in Australia
 
-* wiki - [HRT Options<sup>R</sup>](https://www.reddit.com/r/transgenderau/wiki/hrt_options) in 2017
-* post - [Cost of hormones and medications. Comparison.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/4s4pwh/cost_of_hormones_and_medications_comparison/) by NocteVulpes in 2016
+* wiki - [HRT Options](https://www.reddit.com/r/transgenderau/wiki/hrt_options) in 2017
+* post - [Cost of hormones and medications. Comparison.](https://www.reddit.com/r/transgenderau/comments/4s4pwh/cost_of_hormones_and_medications_comparison/) by NocteVulpes in 2016
 
 <br />
 
@@ -583,7 +583,7 @@ Links
 
 reddit
 
-* [I compiled every single informed consent clinic in the country. No therapist letter needed.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/d6p05q/i_compiled_every_single_informed_consent_clinic/) by ErinInTheMorning in 2019
+* [I compiled every single informed consent clinic in the country. No therapist letter needed.](https://www.reddit.com/r/asktransgender/comments/d6p05q/i_compiled_every_single_informed_consent_clinic/) by ErinInTheMorning in 2019
 
 ---
 
