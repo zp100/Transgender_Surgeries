@@ -4,7 +4,7 @@
   "description": "Backup for the [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries) wiki, created by [u/HiddenStill](https://www.reddit.com/user/HiddenStill).",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node api/index.js"
   },
   "author": "u/zachattack6089",
   "dependencies": {
