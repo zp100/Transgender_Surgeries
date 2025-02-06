@@ -9,7 +9,11 @@ app.set('view engine', 'pug')
 app.use('/static', express.static(join(__dirname, 'static')))
 const PORT = 3000
 
-app.get(/.*/, (req, res) => {
+app.get('/', (req, res) => {
+    res.redirect('/TransWiki/wiki/index/index.md')
+})
+
+app.get(/.+/, (req, res) => {
     const filePath = join(__dirname, '..', req.originalUrl)
     stat(filePath, (err) => {
         if (err != null) {
