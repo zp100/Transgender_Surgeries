@@ -7,14 +7,18 @@ const app = express()
 app.set('views', './api/views')
 app.set('view engine', 'pug')
 app.use('/static', express.static(join(__dirname, 'static')))
-const PORT = 3000
+const PORT = 3001
 
 app.get('/', (req, res) => {
-    res.redirect('/TransWiki/wiki/index/index.md')
-})
+    if (!('page' in req.query)) {
+        res.redirect('/?page=TransWiki/wiki/index/index.md')
+        return
+    } else if (![ 'TransWiki', 'TransSurgeriesWiki' ].includes(req.query['page'].split('/')[0])) {
+        res.sendStatus(404)
+        return
+    }
 
-app.get(/(TransSurgeriesWiki|TransWiki)\/.+/, (req, res) => {
-    const filePath = join(__dirname, '..', req.originalUrl)
+    const filePath = join(__dirname, '..', req.query['page'])
     stat(filePath, (err) => {
         if (err != null) {
             res.sendStatus(404)
@@ -29,7 +33,7 @@ app.get(/(TransSurgeriesWiki|TransWiki)\/.+/, (req, res) => {
         
                 const markdownHtml = marked.parse(data, { gfm: true }).replaceAll(
                     'https://github.com/zp100/Transgender_Surgeries/blob/main/',
-                    `${req.protocol}://${req.hostname}:${PORT}/`
+                    `${req.protocol}://${req.hostname}:3000/?page=`
                 )
                 res.render('index', { markdownTitle: filePath.split('/').at(-1), markdownHtml })
             })
@@ -38,7 +42,7 @@ app.get(/(TransSurgeriesWiki|TransWiki)\/.+/, (req, res) => {
 })
 
 app.listen(PORT, () => {
-    console.log('Server started.')
+    console.log(`Server started on port ${PORT}.`)
 })
 
 module.exports = app
