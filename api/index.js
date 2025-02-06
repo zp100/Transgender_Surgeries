@@ -4,10 +4,10 @@ const { readFile, stat } = require('node:fs')
 const { join } = require('path')
 
 const app = express()
-app.set('views', './views')
+app.set('views', './api/views')
 app.set('view engine', 'pug')
 app.use('/static', express.static(join(__dirname, 'static')))
-const PORT = 3001
+const PORT = 3000
 
 app.get('/', (req, res) => {
     res.redirect('/TransWiki/wiki/index/index.md')
