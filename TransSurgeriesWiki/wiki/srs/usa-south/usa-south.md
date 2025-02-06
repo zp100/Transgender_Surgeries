@@ -1,26 +1,26 @@
 **SRS in South USA**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
 SRS in other regions of the USA
 
-* [North East<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md)
-* [Midwest<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md)
-* [South<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md)
-* [West<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md)
+* <span class="internal">[North East](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md)</span>
+* <span class="internal">[Midwest](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md)</span>
+* <span class="internal">[South](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md)</span>
+* <span class="internal">[West](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md)</span>
 
 SRS in other regions
 
-* [Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/australia/australia.md)
-* [Canada<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/canada/canada.md)
-* [Europe<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/europe/europe.md)
-    * [UK<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/uk/uk.md)
-* [South America<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/south-america/south-america.md)
-* [Thailand<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
-* [USA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa/usa.md)
-* [Other<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/other/other.md)
+* <span class="internal">[Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/australia/australia.md)</span>
+* <span class="internal">[Canada](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/canada/canada.md)</span>
+* <span class="internal">[Europe](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/europe/europe.md)</span>
+    * <span class="internal">[UK](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/uk/uk.md)</span>
+* <span class="internal">[South America](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/south-america/south-america.md)</span>
+* <span class="internal">[Thailand](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)</span>
+* <span class="internal">[USA](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa/usa.md)</span>
+* <span class="internal">[Other](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/other/other.md)</span>
 
 <br />
 
@@ -126,7 +126,7 @@ Other
 
 # Florida
 
-Many doctors in Florida do not carry malpractice insurance. See the [wiki introduction<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#malpractice-insurance-in-the-usa) to see what this means.
+Many doctors in Florida do not carry malpractice insurance. See the <span class="internal">[wiki introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#malpractice-insurance-in-the-usa)</span> to see what this means.
 
 ## Ahmed Abdullah
 
@@ -451,7 +451,7 @@ Surgeons sites
 * https://www.vitals.com/doctors/Dr_Christopher_Salgado.html
 * https://www.youtube.com/channel/UCyAe7LCSyCVSJxxEgwCkiaw
 
-Malpractice Insurance - See the [Malpractice Insurance in the USA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#malpractice-insurance-in-the-usa) for what this means
+Malpractice Insurance - See the <span class="internal">[Malpractice Insurance in the USA](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#malpractice-insurance-in-the-usa)</span> for what this means
 
 * https://mqa-internet.doh.state.fl.us/MQASearchServices/HealthCareProviders/Details?LicInd=89179&ProCde=1501 - *"I have elected not to carry medical malpractice insurance however, I agree to satisfy any adverse judgments up to the minimum amounts pursuant to s. 458.320(5) (g)1, F. S. I understand that I must either post notice in a sign prominently displayed in my reception area or provide a written statement to any person to whom medical services are being provided that I have decided not to carry medical malpractice insurance. I understand that such a sign or notice must contain the wording specified in s. 458.320(5) (g), F.S."*
 
@@ -2400,4 +2400,4 @@ YouTube
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**

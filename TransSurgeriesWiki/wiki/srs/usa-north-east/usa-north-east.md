@@ -1,26 +1,26 @@
 **SRS in North East USA**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
 SRS in other regions of the USA
 
-* [North East<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md)
-* [Midwest<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md)
-* [South<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md)
-* [West<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md)
+* <span class="internal">[North East](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md)</span>
+* <span class="internal">[Midwest](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md)</span>
+* <span class="internal">[South](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md)</span>
+* <span class="internal">[West](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md)</span>
 
 SRS in other regions
 
-* [Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/australia/australia.md)
-* [Canada<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/canada/canada.md)
-* [Europe<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/europe/europe.md)
-    * [UK<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/uk/uk.md)
-* [South America<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/south-america/south-america.md)
-* [Thailand<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
-* [USA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa/usa.md)
-* [Other<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/other/other.md)
+* <span class="internal">[Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/australia/australia.md)</span>
+* <span class="internal">[Canada](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/canada/canada.md)</span>
+* <span class="internal">[Europe](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/europe/europe.md)</span>
+    * <span class="internal">[UK](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/uk/uk.md)</span>
+* <span class="internal">[South America](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/south-america/south-america.md)</span>
+* <span class="internal">[Thailand](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)</span>
+* <span class="internal">[USA](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa/usa.md)</span>
+* <span class="internal">[Other](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/other/other.md)</span>
 
 <br />
 
@@ -1054,7 +1054,7 @@ Jazz Jennings
 
 Legal
 
-* "Jess Ting, M.D." acting as Plaintiff's counsel in the lawsuit [THOMPSON v. RUMER](https://www.courtlistener.com/docket/7820076/22/thompson-v-rumer/) filed Feb 1, 2020 (i.e. he is acting for the trans woman suing [Dr Kathy Rumer<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#kathy-lynn-rumer)). 
+* "Jess Ting, M.D." acting as Plaintiff's counsel in the lawsuit [THOMPSON v. RUMER](https://www.courtlistener.com/docket/7820076/22/thompson-v-rumer/) filed Feb 1, 2020 (i.e. he is acting for the trans woman suing <span class="internal">[Dr Kathy Rumer](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#kathy-lynn-rumer)</span>). 
 
 <br />
 
@@ -1806,7 +1806,7 @@ Surgeons sites
 * https://www.healthgrades.com/physician/dr-kathy-rumer-xvx73
 * https://www.hipaaspace.com/medical_billing/coding/national_provider_identifier/codes/npi_1225220478.aspx
 
-Hair removal before surgery, see the wiki entry [Genital Hair Removal<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hair-removal/hair-removal.md#genital-hair-removal) and in particular [A surgeons point of view<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hair-removal/hair-removal.md#a-surgeons-point-of-view).
+Hair removal before surgery, see the wiki entry <span class="internal">[Genital Hair Removal](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hair-removal/hair-removal.md#genital-hair-removal)</span> and in particular <span class="internal">[A surgeons point of view](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hair-removal/hair-removal.md#a-surgeons-point-of-view)</span>.
 
 Kathy Rumer is qualified as a Doctor of Osteopathic medicine (DO) rather than a Doctor of Medicine (MD).
 
@@ -2336,4 +2336,4 @@ YouTube
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**

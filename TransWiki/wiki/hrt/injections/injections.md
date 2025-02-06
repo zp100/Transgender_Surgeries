@@ -1,6 +1,6 @@
 **HRT Injections**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
@@ -198,7 +198,7 @@ Ideally you want to draw and inject quickly, accuratly, and with minimal pain. T
 In practice this means that if you want to inject 0.1ml you'll need to use an insulin syringe. As these have short needles you'll need to perform a subcutaneous injection, and the oil must be thin enough to draw through the fine gauge needle. Conversely, if you want to an intramuscular injection you can't use the short needle on an insulin syringe, so you must use at least a 1ml+ Luer-Lok (or Slip) syringe and can't accurately inject a very small amount. If you want to inject a very thick oil you'll need to use a larger gauge needle, again the 1ml+ Luer-Lok syringe. Given these constraints there are some types of injections that are not practical.
  
 
-Don't use too large a drawing needle as it can damage the cap of the estrogen vial (if you're using one rather than a [glass ampule](https://en.wikipedia.org/wiki/Ampoule)), leading to rubber fragments in the vial and/or leakage. This is referred to as coring, [see below<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/injections/injections.md#coring).
+Don't use too large a drawing needle as it can damage the cap of the estrogen vial (if you're using one rather than a [glass ampule](https://en.wikipedia.org/wiki/Ampoule)), leading to rubber fragments in the vial and/or leakage. This is referred to as coring, <span class="internal">[see below](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/injections/injections.md#coring)</span>.
 
 Wipe the septum (stopper) of a vial clean with a 70% alcohol pad to stealize it before use, both on the first and subsequent uses (or not as there's reccomendations that its not neccessary).
 
@@ -217,13 +217,13 @@ Its difficult to find needles smaller than 30G, although they are available up t
 
 Some doctors suggest/prescibe 18G needles. Try to avoid them, they are very large diameter, tend to hurt, core vial stoppers, and are unnecessary for HRT. Larger than 18G, eg 16G start to go up in price and no one uses them for HRT, I hope.
 
-Ideally the smallest (volume) syringe possible should be used. Smaller syringes are more accurate and generate higher injection pressure, making it easier to perform the injection (drawing pressure is about the same). Luer slip/lok syringes range from 1ml upwards, while insulin syringes are from 0.3ml to 1.0ml. See [Dose Accuracy<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/injections/injections.md#dose-accuracy) and [Syringe Pressure<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/injections/injections.md#syringe-pressure) below.
+Ideally the smallest (volume) syringe possible should be used. Smaller syringes are more accurate and generate higher injection pressure, making it easier to perform the injection (drawing pressure is about the same). Luer slip/lok syringes range from 1ml upwards, while insulin syringes are from 0.3ml to 1.0ml. See <span class="internal">[Dose Accuracy](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/injections/injections.md#dose-accuracy)</span> and <span class="internal">[Syringe Pressure](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/injections/injections.md#syringe-pressure)</span> below.
 
 Do you blood tests immediately before your next injection
 
 * [Why drawing your blood for hormone labs any time other than right before your next dose is pointless]( https://www.reddit.com/r/DrWillPowers/comments/f423t7/why_drawing_your_blood_for_hormone_labs_any_time/) by Drwillpowers in 2020
 
-For injections in Australia, see wiki page [Estrogen Injections<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md#estrogen-injections).
+For injections in Australia, see wiki page <span class="internal">[Estrogen Injections](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md#estrogen-injections)</span>.
 
 reddit
 
@@ -1196,4 +1196,4 @@ reddit
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**

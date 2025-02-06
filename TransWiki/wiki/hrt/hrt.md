@@ -1,6 +1,6 @@
 **HRT Introduction**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
@@ -72,7 +72,7 @@ These are all the same thing. E1, E3, and E4 are different.
 
 Look here
 
-* [r/TransWiki/wiki/hrt/injections<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/injections/injections.md)
+* <span class="internal">[r/TransWiki/wiki/hrt/injections](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/injections/injections.md)</span>
 
 <br />
 
@@ -556,7 +556,7 @@ Papers
 
 # Australia
 
-In this Wiki [HRT in Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md).
+In this Wiki <span class="internal">[HRT in Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md)</span>.
 
 The Australian transgender sub /r/transgenderau contains information on HRT in Australia
 
@@ -587,4 +587,4 @@ reddit
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**

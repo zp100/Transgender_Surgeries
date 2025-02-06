@@ -1,22 +1,22 @@
 **Hormone Implants**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
 
 ---
 This page is mostly focused on MTF estrogen implants, but there is also some information about other uses and types of implants (sometimes called pellets).
 
 Related wiki pages
 
-* [Tachyphylaxis<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/tachyphylaxis/tachyphylaxis.md)
-* [Dependance<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/dependance/dependance.md)
-* [Psychological Effects<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/psychological-effects/psychological-effects.md)
-* [Implant Technology<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implant-technology/implant-technology.md)
+* <span class="internal">[Tachyphylaxis](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/tachyphylaxis/tachyphylaxis.md)</span>
+* <span class="internal">[Dependance](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/dependance/dependance.md)</span>
+* <span class="internal">[Psychological Effects](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/psychological-effects/psychological-effects.md)</span>
+* <span class="internal">[Implant Technology](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implant-technology/implant-technology.md)</span>
 
 Resources on implants
 
 * Facebook group [HRT Implants/Pellets Info & Support](https://www.facebook.com/groups/2462247927386054/)
 * Many important papers on implants are by [Professor John Studd](https://www.studd.co.uk/)
-* This wiki page on [Implant Technology<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implant-technology/implant-technology.md)
+* This wiki page on <span class="internal">[Implant Technology](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implant-technology/implant-technology.md)</span>
 
 reddit
 
@@ -192,7 +192,7 @@ Before inserting the implant a local anesthetic of lidocaine is injected, otherw
 
 See the wiki entry on lidocaine inejections
 
-* [https://www.reddit.com/r/TransWiki/wiki/local_anesthetic#wiki_lidocaine_injections<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/local_anesthetic/local_anesthetic.md#injections)
+* <span class="internal">[https://www.reddit.com/r/TransWiki/wiki/local_anesthetic#wiki_lidocaine_injections](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/local_anesthetic/local_anesthetic.md#injections)</span>
 
 <br />
 
@@ -200,13 +200,13 @@ See the wiki entry on lidocaine inejections
 
 # Tachyphylaxis
 
-Doctors may warn you about tachyphylaxis when using implants. Its essentially a tolerance to estrogen, where you experience symptoms of low estrogen levels while actually having very high levels. Its easily avoided with the correct protocol and occurs if you get new implants based on symptoms (ie when you feel bad) rather than when your levels are actually low (using blood tests). [Read more...<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/tachyphylaxis/tachyphylaxis.md)
+Doctors may warn you about tachyphylaxis when using implants. Its essentially a tolerance to estrogen, where you experience symptoms of low estrogen levels while actually having very high levels. Its easily avoided with the correct protocol and occurs if you get new implants based on symptoms (ie when you feel bad) rather than when your levels are actually low (using blood tests). <span class="internal">[Read more...](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/tachyphylaxis/tachyphylaxis.md)</span>
 
 ---
 
 # Dependance
 
-An occasional argument by doctors against implants and higher levels of estrogen is that its addictive. [Read more...<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/dependance/dependance.md)
+An occasional argument by doctors against implants and higher levels of estrogen is that its addictive. <span class="internal">[Read more...](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/dependance/dependance.md)</span>
 
 ---
 
@@ -229,9 +229,9 @@ I find high estrogen levels of interest from a psychological point of view
 * Depression is very common in the trans community and anything that helps safely alleviate that is valuable.
 * There's people working on high level estrogen for the physical benefits, but I'm not aware of anyone looking into the psychological side.
 * On of the benefits of implants is that its very easy to achieve high and stable estrogen blood levels.
-* When the Sydney endocrinologist [Dr Jon Hayes<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md) retired there were a small but significant number of trans women who were in serious psychological distress caused by the reduction in blood levels that then followed. These numbers and symptoms seem somewhat similar cis-women suffering PMDD.
+* When the Sydney endocrinologist <span class="internal">[Dr Jon Hayes](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md)</span> retired there were a small but significant number of trans women who were in serious psychological distress caused by the reduction in blood levels that then followed. These numbers and symptoms seem somewhat similar cis-women suffering PMDD.
 
-[Read more...<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/psychological-effects/psychological-effects.md)
+<span class="internal">[Read more...](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/psychological-effects/psychological-effects.md)</span>
 
 ---
 
@@ -248,7 +248,7 @@ reddit
 
 # Testosterone Implants
 
-Australian endocrinologist [Dr Jonathan Hayes<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md) has prescribed post-op women with low testosterone 50mg testosterone implants (the amount used in men is far higher). These implants are placed on top of the estrogen implants as they are more likely to extrude and you don't want them pushing the estrogen implants out.
+Australian endocrinologist <span class="internal">[Dr Jonathan Hayes](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md)</span> has prescribed post-op women with low testosterone 50mg testosterone implants (the amount used in men is far higher). These implants are placed on top of the estrogen implants as they are more likely to extrude and you don't want them pushing the estrogen implants out.
 
 Note that testosterone implants don't last as long as estrogen, so there's likely to be a shortfall in levels before the estrogen implant needs renewing.
 
@@ -276,7 +276,7 @@ Very bad experience using testopel - https://k-con.today/post/172598026877/whats
 
 # Progesterone Implants
 
-Australian endocrinologist [Dr Jonathan Hayes<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md) has prescribed progesterone implants, but they are prone to extrusion (about 10% at one point).
+Australian endocrinologist <span class="internal">[Dr Jonathan Hayes](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md)</span> has prescribed progesterone implants, but they are prone to extrusion (about 10% at one point).
 
 reddit
 
@@ -357,7 +357,7 @@ Some doctors can be found by looking on the manufacturer's websites.
 
 ## Australia
 
-This is [here<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md).
+This is <span class="internal">[here](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md)</span>.
 
 ---
 
@@ -798,12 +798,12 @@ reddit
 
 ## Australia
 
-There are two main manufacturers of estrogen implants in Australia, Complementary Compounding Services (CCS) in Ballina and Stenlake in Sydney, plus a couple of others. CCS do make both 3mm and 4.5mm implants, and while Stenlake are known of the 4.5mm implants I believe they can also make the 3mm implants. The reason for either size are discussed above in [Implant Technology<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implant-technology/implant-technology.md).
+There are two main manufacturers of estrogen implants in Australia, Complementary Compounding Services (CCS) in Ballina and Stenlake in Sydney, plus a couple of others. CCS do make both 3mm and 4.5mm implants, and while Stenlake are known of the 4.5mm implants I believe they can also make the 3mm implants. The reason for either size are discussed above in <span class="internal">[Implant Technology](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implant-technology/implant-technology.md)</span>.
 
 * https://custommedicine.com.au/
 * https://www.stenlake.com.au/
 
-See [Compounding Pharmacies in Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/compounding-pharmacies/australia/australia.md) for more.
+See <span class="internal">[Compounding Pharmacies in Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/compounding-pharmacies/australia/australia.md)</span> for more.
 
 The 4.5mm implant size is a legacy of the international pharmaceutical company manufacturer (Organon Laboratories Limited) that stopped production in 2011. Stenlake produced compatible implants and the endo Dr Jonathan Hayes made a special smaller size for unknown reasons.
 
@@ -1212,4 +1212,4 @@ YouTube
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
