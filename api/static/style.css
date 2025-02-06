@@ -8,15 +8,33 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-a {
-    color: #88e;
+div.markdown {
+    a {
+        color: #88e;
+    }
+    
+    :not(.internal) > a {
+        /* Copied from Wikipedia. */
+        background-image: url(https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?fb64d);
+        background-position: center right;
+        background-repeat: no-repeat;
+        background-size: 0.857em;
+        padding-right: 1em;
+    }
 }
 
-:not(.internal) > a {
-    /* Copied from Wikipedia. */
-    background-image: url(https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?fb64d);
-    background-position: center right;
-    background-repeat: no-repeat;
-    background-size: 0.857em;
-    padding-right: 1em;
+div.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 4px;
+
+    display: flex;
+    flex-flow: column nowrap;
+    row-gap: 4px;
+
+    a {
+        width: 32px;
+        height: 32px;
+    }
 }
