@@ -1,15 +1,15 @@
 **Australian Psychiatrists & Therapists**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
 If you're new to this I recommend reading though the links in this section.
 
 * [DSM5](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria)  - Gender Dysphoria (Transgender) Diagnostic Criteria
-    * [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_dsm5<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#dsm5)
+    * <span class="internal">[https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_dsm5](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#dsm5)</span>
 * The [WPATH Standards of Care](https://www.wpath.org/publications/soc) are guidelines used my most medical providers for trans people
-    * [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_wpath_standards_of_care<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wpath-standards-of-care)
+    * <span class="internal">[https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_wpath_standards_of_care](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#wpath-standards-of-care)</span>
 * PDF [Australian Informed Consent for Gender Affirming Hormone Therapy](https://auspath.org.au/wp-content/uploads/2022/03/AusPATH_Informed-Consent-SoC_A4_2022_FINAL.pdf) by AusPATH in 2022
 
 Gatekeeping (bad)
@@ -33,7 +33,7 @@ https://auspath.org.au/providers - lists providers in Australia, but it doesn't 
 
 You should be very careful when choosing a therapist or psychiatrist, read reviews and look for red flags. There's a number of people who should be avoided, and they are not all listed here.
 
-2024-04-02 - reddit [PETITION: Stop Promoting Transphobic Rhetoric at Psychiatrist Conference<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1btqtwm/petition_stop_promoting_transphobic_rhetoric_at/) by orangebasket5 - *"The RANZCP is an organisation which sets the standard for quality psychiatric care in Australia and New Zealand. They run conferences, training, etc. Their annual congress (the big conference) includes a workshop on "Transgender mental health". The focus of this workshop is detransition and dissatisfaction after gender affirming care. Three of the speakers have written papers which stand for all the generic medical transphobia things - gender affirming care doesn't help people, most people regret transitioning, kids shouldn't be allowed to transition, etc etc. The speakers also (unsurprisingly) have ties to transphobic and anti-queer groups."*
+2024-04-02 - reddit [PETITION: Stop Promoting Transphobic Rhetoric at Psychiatrist Conference](https://www.reddit.com/r/transgenderau/comments/1btqtwm/petition_stop_promoting_transphobic_rhetoric_at/) by orangebasket5 - *"The RANZCP is an organisation which sets the standard for quality psychiatric care in Australia and New Zealand. They run conferences, training, etc. Their annual congress (the big conference) includes a workshop on "Transgender mental health". The focus of this workshop is detransition and dissatisfaction after gender affirming care. Three of the speakers have written papers which stand for all the generic medical transphobia things - gender affirming care doesn't help people, most people regret transitioning, kids shouldn't be allowed to transition, etc etc. The speakers also (unsurprisingly) have ties to transphobic and anti-queer groups."*
 
 In October 2021 the Royal Australian and New Zealand College of Psychiatrists (RANZCP) came out with a postion statement supporting [coversion therapy](https://en.wikipedia.org/wiki/Conversion_therapy). It's apalling that such a thing can still happen in Australia and a very bad sign of things to come.
 
@@ -58,8 +58,8 @@ Who are the people behind the anti-trans movement in Australia and New Zealand? 
 
 * Roberto D'Angelo, Sydney psychiatrist is a Fellow of the RANZCP and also very active with anti-trans groups both in Australia and abroard.
     * https://transsafety.network/posts/segm-uncovered
-    * wiki entry [below<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md#roberto-dangelo)
-* reddit [National Association of Practicing Psychiatrists' (NAPP) webinar with Dr. Hillary Cass<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1d6d7pz/national_association_of_practicing_psychiatrists/) in 2024
+    * wiki entry <span class="internal">[below](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md#roberto-dangelo)</span>
+* reddit [National Association of Practicing Psychiatrists' (NAPP) webinar with Dr. Hillary Cass](https://www.reddit.com/r/transgenderau/comments/1d6d7pz/national_association_of_practicing_psychiatrists/) in 2024
 * Dr Patrick Clarke
     * https://www.ranzcp.org/college-committees/offices-and-branches/south-australia/contacts - Branch Chair, Dr Patrick Clarke, RANZCP South Australia Branch, PO Box 103, Fullarton SA 5063, Australia. Note this is the [Royal Australian and New Zealand College of Psychiatrists](https://en.wikipedia.org/wiki/Royal_Australian_and_New_Zealand_College_of_Psychiatrists) which is *"the principal organisation representing the medical specialty of psychiatry in Australia and New Zealand and has responsibility for training, examining and awarding the qualification of Fellowship of the College (FRANZCP) to medical practitioners."*
     * https://genspect.org/meet-the-team/advisory-board - *"Dr Patrick Clarke has been a Consultant Psychiatrist for 26 years... He has been actively involved in the Australian and New Zealand College of Psychiatrists at both the state and binational level, sitting on a number of Committees and taking on leadership positions. He has experience in setting up services and systems for the College, and in both the private and public sector. He has been affiliated with Society for Evidence Based Gender Medicine since 2020."*, archive [here](https://archive.is/Lj36Y#selection-1073.0-1073.17)
@@ -71,7 +71,7 @@ https://www.procaregroup.com.au
 
 reddit
 
-* [Need a vibe check on the work trans consultant!!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/11127zs/need_a_vibe_check_on_the_work_trans_consultant/) by Kamakazeozzy in 2023 - this is mainly about psychologist Mechelen D’Souza (listed below) who appears to support conversion therapy, but she also apparently consults for Procare Group.
+* [Need a vibe check on the work trans consultant!!](https://www.reddit.com/r/transgenderau/comments/11127zs/need_a_vibe_check_on_the_work_trans_consultant/) by Kamakazeozzy in 2023 - this is mainly about psychologist Mechelen D’Souza (listed below) who appears to support conversion therapy, but she also apparently consults for Procare Group.
 
 ## Christian Medical and Dental Fellowship of Australia
 
@@ -114,11 +114,11 @@ Key details
 
 reddit
 
-* [WPATH Letter for SRS with Suporn Clinic<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1hw2r50/wpath_letter_for_srs_with_suporn_clinic/) by Twinky_Winky69 in 2025 - *"So I have a date with the Suporn Clinic this year reserved, I got in contact with a highly recommended Australian psychiatrist to provide a WPATH letter, but as of yet today he has informed me he no longer wants does it for Suporn due to the difficulty in working with the Clinic."*
-    * [WPATH Letter from Psychiatrist for SRS (Suporn)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1hw2m3e/wpath_letter_from_psychiatrist_for_srs_suporn/)  by Twinky_Winky69 in 2025
-* [Help with wpath letter<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1gwrssd/help_with_wpath_letter/) by 8ottomBB in 2024
-* [Psych Brought Up Issue Regarding Reputation of Thai Surgeons for GRS<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/pedjgs/psych_brought_up_issue_regarding_reputation_of/) by frostypls in 2021 - *"One thing he brought up immediately is that he *strongly* recommended that I consider local surgeons over going to Thailand. Thankfully he wont stop me or not provide a referral, but just wanted to voice his concerns about his. His exact words: I am afraid all of us working in this field are aware of very poor outcomes for people having GRS in Thailand, then ending up back in Australia with either a poor functional outcome, pain or other complications and finding it very difficult to access post-op surgical care or support."*
-* [Psychiatrist WPATH letters for regional/rural Australians - Prof. Richard Harvey<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ir1our/psychiatrist_wpath_letters_for_regionalrural/) by demon-daddy in 2020
+* [WPATH Letter for SRS with Suporn Clinic](https://www.reddit.com/r/Transgender_Surgeries/comments/1hw2r50/wpath_letter_for_srs_with_suporn_clinic/) by Twinky_Winky69 in 2025 - *"So I have a date with the Suporn Clinic this year reserved, I got in contact with a highly recommended Australian psychiatrist to provide a WPATH letter, but as of yet today he has informed me he no longer wants does it for Suporn due to the difficulty in working with the Clinic."*
+    * [WPATH Letter from Psychiatrist for SRS (Suporn)](https://www.reddit.com/r/transgenderau/comments/1hw2m3e/wpath_letter_from_psychiatrist_for_srs_suporn/)  by Twinky_Winky69 in 2025
+* [Help with wpath letter](https://www.reddit.com/r/transgenderau/comments/1gwrssd/help_with_wpath_letter/) by 8ottomBB in 2024
+* [Psych Brought Up Issue Regarding Reputation of Thai Surgeons for GRS](https://www.reddit.com/r/asktransgender/comments/pedjgs/psych_brought_up_issue_regarding_reputation_of/) by frostypls in 2021 - *"One thing he brought up immediately is that he *strongly* recommended that I consider local surgeons over going to Thailand. Thankfully he wont stop me or not provide a referral, but just wanted to voice his concerns about his. His exact words: I am afraid all of us working in this field are aware of very poor outcomes for people having GRS in Thailand, then ending up back in Australia with either a poor functional outcome, pain or other complications and finding it very difficult to access post-op surgical care or support."*
+* [Psychiatrist WPATH letters for regional/rural Australians - Prof. Richard Harvey](https://www.reddit.com/r/transgenderau/comments/ir1our/psychiatrist_wpath_letters_for_regionalrural/) by demon-daddy in 2020
 
 <br />
 
@@ -130,7 +130,7 @@ Psych's who will work over Skype.
 
 reddit
 
-* [Does my psych need to send my scripts to my GP?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dj30bp/does_my_psych_need_to_send_my_scripts_to_my_gp/) by Due_Link in 2019 - *"I saw Dr Michael Scott today over skype because I live in a rural town"*
+* [Does my psych need to send my scripts to my GP?](https://www.reddit.com/r/transgenderau/comments/dj30bp/does_my_psych_need_to_send_my_scripts_to_my_gp/) by Due_Link in 2019 - *"I saw Dr Michael Scott today over skype because I live in a rural town"*
 
 <br />
 
@@ -158,9 +158,9 @@ Sites
 
 reddit
 
-* [Psychiatrists in Canberra?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hv3mr6/psychiatrists_in_canberra/) by ceta in 2020
-* [Moving to the ACT<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/elkwuq/moving_to_the_act/) by admiralgropes in 2020
-* [Psychologist recs in ACT?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cjktel/psychologist_recs_in_act/) by LanCalimon in 2019
+* [Psychiatrists in Canberra?](https://www.reddit.com/r/transgenderau/comments/hv3mr6/psychiatrists_in_canberra/) by ceta in 2020
+* [Moving to the ACT](https://www.reddit.com/r/transgenderau/comments/elkwuq/moving_to_the_act/) by admiralgropes in 2020
+* [Psychologist recs in ACT?](https://www.reddit.com/r/transgenderau/comments/cjktel/psychologist_recs_in_act/) by LanCalimon in 2019
 
 <br />
 
@@ -170,7 +170,7 @@ reddit
 
 reddit
 
-* [My experiences with Lisa Bell - Clinical Psychologist in ACT<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/63c1c0/my_experiences_with_lisa_bell_clinical/) by thegirlyourmumwarned around 2017
+* [My experiences with Lisa Bell - Clinical Psychologist in ACT](https://www.reddit.com/r/transgenderau/comments/63c1c0/my_experiences_with_lisa_bell_clinical/) by thegirlyourmumwarned around 2017
 
 <br />
 
@@ -184,8 +184,8 @@ Sites
 
 reddit
 
-* [Moving to the ACT<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/elkwuq/moving_to_the_act/) by admiralgropes in 2020
-* [Psychologist recs in ACT?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cjktel/psychologist_recs_in_act/) by LanCalimon in 2019
+* [Moving to the ACT](https://www.reddit.com/r/transgenderau/comments/elkwuq/moving_to_the_act/) by admiralgropes in 2020
+* [Psychologist recs in ACT?](https://www.reddit.com/r/transgenderau/comments/cjktel/psychologist_recs_in_act/) by LanCalimon in 2019
 
 <br />
 
@@ -231,7 +231,7 @@ Sites
 
 reddit
 
-* [My experience with Tabitha Frew<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/mwqnpc/my_experience_with_tabitha_frew/) by cbr-throwaway in 2021
+* [My experience with Tabitha Frew](https://www.reddit.com/r/transgenderau/comments/mwqnpc/my_experience_with_tabitha_frew/) by cbr-throwaway in 2021
 
 <br />
 
@@ -265,20 +265,20 @@ Sites
 
 reddit
 
-* [Psychiatrist who specialises in trans treatment in Sydney.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zx5u0t/psychiatrist_who_specialises_in_trans_treatment/) by  Bailos_1 in 2022 - *"... i was referred to Dr Micheal Scott by my gp and found out when trying to book an appointment that he is* ***leaving his practice*** *and was no longer taking any new patients."*
-* [Need help finding a clinical psychologist in Sydney for ftm trans<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/j59x0t/need_help_finding_a_clinical_psychologist_in/) by thepatten in around 2020
-* [Saw a Psych Today<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jf8dus/saw_a_psych_today/) by rvpaa27 in 2020
-* [psychiatrist in Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/fe9k50/psychiatrist_in_sydney/) by jadefafare in 2020
-* [Need help with what my Psych has requested.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dm6p9i/need_help_with_what_my_psych_has_requested/) by Due_Link in 2019
-* [Free(ish) orchi under Medicare - my experience <sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dltgp7/freeish_orchi_under_medicare_my_experience/) by AlpacaActually in 2019
-* [Does my psych need to send my scripts to my GP?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dj30bp/does_my_psych_need_to_send_my_scripts_to_my_gp/) by Due_Link in 2019
-* [Worried about my psychiatrist appointment next month..<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/bnnh9r/worried_about_my_psychiatrist_appointment_next/) by my_name_rules in 2019
-* [Psychs in Newcastle<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/aoqxuj/psychs_in_newcastle/) by Aussie_Claire in 2019
-* [Help for getting my life started<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cerg63/help_for_getting_my_life_started/) by Spare_Cuddles around 2019
-* [Michael Scott HRT appointment cost?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/7hptcs/michael_scott_hrt_appointment_cost/) by  throwaway8482636 in 2018
-* [Psychiatrist experiences in Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/5mvaay/psychiatrist_experiences_in_sydney/) by likeanovigradwhore in 2017
-* [How long is it to wait to start HRT.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/8e8r5u/how_long_is_it_to_wait_to_start_hrt/) by Zoey-Stuart around 2018
-* [Sidebar/etc, Possible support info and the like?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/2cl2p8/sidebaretc_possible_support_info_and_the_like/) by eriniki around 2014
+* [Psychiatrist who specialises in trans treatment in Sydney.](https://www.reddit.com/r/transgenderau/comments/zx5u0t/psychiatrist_who_specialises_in_trans_treatment/) by  Bailos_1 in 2022 - *"... i was referred to Dr Micheal Scott by my gp and found out when trying to book an appointment that he is* ***leaving his practice*** *and was no longer taking any new patients."*
+* [Need help finding a clinical psychologist in Sydney for ftm trans](https://www.reddit.com/r/transgenderau/comments/j59x0t/need_help_finding_a_clinical_psychologist_in/) by thepatten in around 2020
+* [Saw a Psych Today](https://www.reddit.com/r/transgenderau/comments/jf8dus/saw_a_psych_today/) by rvpaa27 in 2020
+* [psychiatrist in Sydney](https://www.reddit.com/r/transgenderau/comments/fe9k50/psychiatrist_in_sydney/) by jadefafare in 2020
+* [Need help with what my Psych has requested.](https://www.reddit.com/r/transgenderau/comments/dm6p9i/need_help_with_what_my_psych_has_requested/) by Due_Link in 2019
+* [Free(ish) orchi under Medicare - my experience ](https://www.reddit.com/r/transgenderau/comments/dltgp7/freeish_orchi_under_medicare_my_experience/) by AlpacaActually in 2019
+* [Does my psych need to send my scripts to my GP?](https://www.reddit.com/r/transgenderau/comments/dj30bp/does_my_psych_need_to_send_my_scripts_to_my_gp/) by Due_Link in 2019
+* [Worried about my psychiatrist appointment next month..](https://www.reddit.com/r/transgenderau/comments/bnnh9r/worried_about_my_psychiatrist_appointment_next/) by my_name_rules in 2019
+* [Psychs in Newcastle](https://www.reddit.com/r/transgenderau/comments/aoqxuj/psychs_in_newcastle/) by Aussie_Claire in 2019
+* [Help for getting my life started](https://www.reddit.com/r/transgenderau/comments/cerg63/help_for_getting_my_life_started/) by Spare_Cuddles around 2019
+* [Michael Scott HRT appointment cost?](https://www.reddit.com/r/transgenderau/comments/7hptcs/michael_scott_hrt_appointment_cost/) by  throwaway8482636 in 2018
+* [Psychiatrist experiences in Sydney](https://www.reddit.com/r/transgenderau/comments/5mvaay/psychiatrist_experiences_in_sydney/) by likeanovigradwhore in 2017
+* [How long is it to wait to start HRT.](https://www.reddit.com/r/transgenderau/comments/8e8r5u/how_long_is_it_to_wait_to_start_hrt/) by Zoey-Stuart around 2018
+* [Sidebar/etc, Possible support info and the like?](https://www.reddit.com/r/transgenderau/comments/2cl2p8/sidebaretc_possible_support_info_and_the_like/) by eriniki around 2014
 
 Other
 
@@ -299,9 +299,9 @@ Anthony has a number of articles in the Sydney Gender Center's Polare magazines.
 
 reddit
 
-* [\[Sydney\] Anthony Carlino<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/n952mm/sydney_anthony_carlino/) by thatrandomoverthere in 2021
-* [Trans therapists in Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/l8vdq0/trans_therapists_in_sydney/) by Jay-with-a-G in 2021
-* [Recent Counseling/Psychiatry/etc experiences in Sydney?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ecaazp/recent_counselingpsychiatryetc_experiences_in/) by Linda_Jay88 in 2019
+* [\[Sydney\] Anthony Carlino](https://www.reddit.com/r/transgenderau/comments/n952mm/sydney_anthony_carlino/) by thatrandomoverthere in 2021
+* [Trans therapists in Sydney](https://www.reddit.com/r/transgenderau/comments/l8vdq0/trans_therapists_in_sydney/) by Jay-with-a-G in 2021
+* [Recent Counseling/Psychiatry/etc experiences in Sydney?](https://www.reddit.com/r/transgenderau/comments/ecaazp/recent_counselingpsychiatryetc_experiences_in/) by Linda_Jay88 in 2019
 
 Sydney Morning Herald
 
@@ -325,10 +325,10 @@ Sites
 
 reddit
 
-* [psychiatrist in Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/fe9k50/psychiatrist_in_sydney/) by jadefafare in 2020
-* [Any therapists you'd recommend in Sydney?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/exl26n/any_therapists_youd_recommend_in_sydney/) by bagelcatt in 2020
-* [Psychiatrist experiences in Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/5mvaay/psychiatrist_experiences_in_sydney/) by likeanovigradwhore around 2016
-* [Anyone able to recommend which of these psychiatrists i should go to?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/4eqmoy/anyone_able_to_recommend_which_of_these/)
+* [psychiatrist in Sydney](https://www.reddit.com/r/transgenderau/comments/fe9k50/psychiatrist_in_sydney/) by jadefafare in 2020
+* [Any therapists you'd recommend in Sydney?](https://www.reddit.com/r/transgenderau/comments/exl26n/any_therapists_youd_recommend_in_sydney/) by bagelcatt in 2020
+* [Psychiatrist experiences in Sydney](https://www.reddit.com/r/transgenderau/comments/5mvaay/psychiatrist_experiences_in_sydney/) by likeanovigradwhore around 2016
+* [Anyone able to recommend which of these psychiatrists i should go to?](https://www.reddit.com/r/transgenderau/comments/4eqmoy/anyone_able_to_recommend_which_of_these/)
 * https://www.reddit.com/r/transgenderau/wiki/resources-nsw - *"He is a clinical psychologist who helps with depression, stress, anxiety, gender dysphoria, transgender support and transitioning assistance, sexuality and sexual identity concerns, LGBITQI well being, adjustment disorders, drug and alcohol issues, medical concerns, issues across the lifespan, minority stress (due to diversity in sexuality, gender, culture). He has an in depth understanding of gender identity."*
 
 <br />
@@ -357,14 +357,14 @@ Also works at the Sydney Gender Center.
 
 **reddit**
 
-* [u/DrJamesMorandini<sup>R</sup>](https://www.reddit.com/user/DrJamesMorandini)
-* [Concord Hospital / King Street Psychology Clinic, NSW<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1eryckb/concord_hospital_king_street_psychology_clinic_nsw/) by ToaxtyLive in 2024
-    * [King Street Psychology Clinic Appointment & Update<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1dnw9xw/king_street_psychology_clinic_appointment_update/) by ToaxtyLive in 2024
-    * [Psychologist, King Street Clinic<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1dbokpc/psychologist_king_street_clinic/) by ToaxtyLive in 2024
-* [Video— Autogynephilic Sexual Orientation & Gender Dysphoria, An Introduction for Clinicians: Dr. Anne Lawrence interviews Dr. Morandini<sup>R</sup>](https://www.reddit.com/r/askAGP/comments/193gxjg/video_autogynephilic_sexual_orientation_gender/) by  gockstar in 2024
-* [In desperate need of a good mental health professional | sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/rxxrqb/in_desperate_need_of_a_good_mental_health/) by EndlessEden2015 in 2022
-* reply to [I'm looking for a really good psychologist in NSW<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/p7a14b/im_looking_for_a_really_good_psychologist_in_nsw/h9ixysh/) by crossstitchwizard in 2021
-* reply to [Bulk billing GP's in sydney/nsw?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/o8v5yi/bulk_billing_gps_in_sydneynsw/h3jls3a/) by TheWolfBoi02 in 2021
+* [u/DrJamesMorandini](https://www.reddit.com/user/DrJamesMorandini)
+* [Concord Hospital / King Street Psychology Clinic, NSW](https://www.reddit.com/r/transgenderau/comments/1eryckb/concord_hospital_king_street_psychology_clinic_nsw/) by ToaxtyLive in 2024
+    * [King Street Psychology Clinic Appointment & Update](https://www.reddit.com/r/transgenderau/comments/1dnw9xw/king_street_psychology_clinic_appointment_update/) by ToaxtyLive in 2024
+    * [Psychologist, King Street Clinic](https://www.reddit.com/r/transgenderau/comments/1dbokpc/psychologist_king_street_clinic/) by ToaxtyLive in 2024
+* [Video— Autogynephilic Sexual Orientation & Gender Dysphoria, An Introduction for Clinicians: Dr. Anne Lawrence interviews Dr. Morandini](https://www.reddit.com/r/askAGP/comments/193gxjg/video_autogynephilic_sexual_orientation_gender/) by  gockstar in 2024
+* [In desperate need of a good mental health professional | sydney](https://www.reddit.com/r/transgenderau/comments/rxxrqb/in_desperate_need_of_a_good_mental_health/) by EndlessEden2015 in 2022
+* reply to [I'm looking for a really good psychologist in NSW](https://www.reddit.com/r/transgenderau/comments/p7a14b/im_looking_for_a_really_good_psychologist_in_nsw/h9ixysh/) by crossstitchwizard in 2021
+* reply to [Bulk billing GP's in sydney/nsw?](https://www.reddit.com/r/transgenderau/comments/o8v5yi/bulk_billing_gps_in_sydneynsw/h3jls3a/) by TheWolfBoi02 in 2021
 
 **YouTube - Gender Wars Podcast**
 
@@ -382,15 +382,15 @@ Google search results for Anne Lawrence, in order in which they appear
 AGP
 
 * https://en.wikipedia.org/wiki/Blanchard%27s_transsexualism_typology
-* [r/askAGP<sup>R</sup>](https://www.reddit.com/r/askAGP) - *"A support group for people dealing with autogynephilia."*
-* [search results<sup>R</sup>](https://www.reddit.com/r/asktransgender/search?q=agp&restrict_sr=on&include_over_18=on&sort=relevance&t=all) for AGP on [r/asktransgender<sup>R</sup>](https://www.reddit.com/r/asktransgender), which is probably the largest trans sub on reddit
-* [search resutls<sup>R</sup>](https://www.reddit.com/r/asktransgender/search?q=anne+Lawrence&restrict_sr=on&include_over_18=on&sort=relevance&t=all) for Anne Lawrence on [r/asktransgender<sup>R</sup>](https://www.reddit.com/r/asktransgender)
-* [If anyone TG is still clinging bitterly to AGP as any sort of relevant theory, let go of your inherent self hate.<sup>R</sup>](https://www.reddit.com/r/honesttransgender/comments/16lwo8r/if_anyone_tg_is_still_clinging_bitterly_to_agp_as) around 2023 - this is a long discussion on the topic, and Morandi is mentioned [here<sup>R</sup>](https://www.reddit.com/r/honesttransgender/comments/16lwo8r/if_anyone_tg_is_still_clinging_bitterly_to_agp_as/k14y18r/)
+* [r/askAGP](https://www.reddit.com/r/askAGP) - *"A support group for people dealing with autogynephilia."*
+* [search results](https://www.reddit.com/r/asktransgender/search?q=agp&restrict_sr=on&include_over_18=on&sort=relevance&t=all) for AGP on [r/asktransgender](https://www.reddit.com/r/asktransgender), which is probably the largest trans sub on reddit
+* [search resutls](https://www.reddit.com/r/asktransgender/search?q=anne+Lawrence&restrict_sr=on&include_over_18=on&sort=relevance&t=all) for Anne Lawrence on [r/asktransgender](https://www.reddit.com/r/asktransgender)
+* [If anyone TG is still clinging bitterly to AGP as any sort of relevant theory, let go of your inherent self hate.](https://www.reddit.com/r/honesttransgender/comments/16lwo8r/if_anyone_tg_is_still_clinging_bitterly_to_agp_as) around 2023 - this is a long discussion on the topic, and Morandi is mentioned [here](https://www.reddit.com/r/honesttransgender/comments/16lwo8r/if_anyone_tg_is_still_clinging_bitterly_to_agp_as/k14y18r/)
 
 Reddit posts related to the video's
 
-* [Dr. James Morandini Discusses Gender-Affirming Healthcare for TGD Youth<sup>R</sup>](https://www.reddit.com/r/askAGP/comments/1ckd8oy/dr_james_morandini_discusses_genderaffirming/) in 2024
-* [AGP interview with Psychologist James Morandini, one of the best videos i've seen discussing AGP<sup>R</sup>](https://www.reddit.com/r/askAGP/comments/15f3hjf/agp_interview_with_psychologist_james_morandini/) around 2023 - the linked YouTube video is gone, but it looks to be the same
+* [Dr. James Morandini Discusses Gender-Affirming Healthcare for TGD Youth](https://www.reddit.com/r/askAGP/comments/1ckd8oy/dr_james_morandini_discusses_genderaffirming/) in 2024
+* [AGP interview with Psychologist James Morandini, one of the best videos i've seen discussing AGP](https://www.reddit.com/r/askAGP/comments/15f3hjf/agp_interview_with_psychologist_james_morandini/) around 2023 - the linked YouTube video is gone, but it looks to be the same
 
 **Vimeo**
 
@@ -406,7 +406,7 @@ Reddit posts related to the video's
 * Dr James Morandi is a speaker at the [ACPA National Conference](https://mers.cventevents.com/event/e28cd0d9-2e92-4eb9-8949-9a7d27005e07/websitePage:4a9f1ae7-fd5e-40ea-a47b-8748de11f650) in 2024 (this is the Australian Clinical Psychology Conference)
 * The AGE Newspaper - [Easy as visiting the GP: Doctors push for accessible hormone treatment as children’s waitlist swells](https://www.theage.com.au/national/victoria/as-easy-as-going-to-the-gp-doctors-push-for-accessible-hormone-treatment-as-children-s-waitlist-swells-20231219-p5esis.html)  by Michael Bachelard in 2023
 * Brisbane Times - [Easy as visiting the GP: Doctors push for accessible hormone treatment as children’s waitlist swells](https://www.brisbanetimes.com.au/national/victoria/as-easy-as-going-to-the-gp-doctors-push-for-accessible-hormone-treatment-as-children-s-waitlist-swells-20231219-p5esis.html) by Michael Bachelard in 2023
-    * [Transgender healthcare: Doctors push for more accessible gender-affirming hormone treatment<sup>R</sup>](https://www.reddit.com/r/AustralianPolitics/comments/18u91na/transgender_healthcare_doctors_push_for_more/) in 2023 - reddit post on [r/AustralianPolitics<sup>R</sup>](https://www.reddit.com/r/AustralianPolitics) about the above article
+    * [Transgender healthcare: Doctors push for more accessible gender-affirming hormone treatment](https://www.reddit.com/r/AustralianPolitics/comments/18u91na/transgender_healthcare_doctors_push_for_more/) in 2023 - reddit post on [r/AustralianPolitics](https://www.reddit.com/r/AustralianPolitics) about the above article
 * https://www.transgendermap.com/issues/psychology/james-morandini - this site ranks highly on google, see complaints about the site below
     * https://the-orbit.net/zinniajones/2014/04/open-letter-100-trans-women-stand-against-calpernia-addams-and-andrea-james - the transgender map above is by Andrea James
     * https://jokestress.com/2018/09/26/269
@@ -427,7 +427,7 @@ Dr's Sites
 
 reddit
 
-* [Psychs in Newcastle<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/aoqxuj/psychs_in_newcastle/) by Aussie_Claire in 2019
+* [Psychs in Newcastle](https://www.reddit.com/r/transgenderau/comments/aoqxuj/psychs_in_newcastle/) by Aussie_Claire in 2019
 
 <br />
 
@@ -447,9 +447,9 @@ Sites
 
 reddit
 
-* [ftm top surgery letter/referral (sydney)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/es8mpl/ftm_top_surgery_letterreferral_sydney/) by magnum-nopus in 2020
-* [Anyone here has experience with Dr. Stephen Koder? Trans friendly GP recommendation? HRT?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/8bf9ng/anyone_here_has_experience_with_dr_stephen_koder/) by shininbahn around 2018
-* [Psychiatrists who can write letters for surgery (Sydney)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/4x0l9l/psychiatrists_who_can_write_letters_for_surgery/) by throwaway1b918abc around 2016
+* [ftm top surgery letter/referral (sydney)](https://www.reddit.com/r/transgenderau/comments/es8mpl/ftm_top_surgery_letterreferral_sydney/) by magnum-nopus in 2020
+* [Anyone here has experience with Dr. Stephen Koder? Trans friendly GP recommendation? HRT?](https://www.reddit.com/r/transgenderau/comments/8bf9ng/anyone_here_has_experience_with_dr_stephen_koder/) by shininbahn around 2018
+* [Psychiatrists who can write letters for surgery (Sydney)](https://www.reddit.com/r/transgenderau/comments/4x0l9l/psychiatrists_who_can_write_letters_for_surgery/) by throwaway1b918abc around 2016
 
 https://www.ygender.org.au/trans-healthcare-reviews?tag=Stephen+Koder
 
@@ -467,7 +467,7 @@ Review sites
 
 ## Larry Brash
 
-Appears to be [deceased<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gre8ph/ensuring_uptodate_information/fs23ap2/).
+Appears to be [deceased](https://www.reddit.com/r/transgenderau/comments/gre8ph/ensuring_uptodate_information/fs23ap2/).
 
 Location
 
@@ -506,7 +506,7 @@ Sites
 * http://www.draganzanwright.com
 * https://auspath.org/providers/
 
-* [In desperate need of a good mental health professional | sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/rxxrqb/in_desperate_need_of_a_good_mental_health/) by EndlessEden2015 in 2022
+* [In desperate need of a good mental health professional | sydney](https://www.reddit.com/r/transgenderau/comments/rxxrqb/in_desperate_need_of_a_good_mental_health/) by EndlessEden2015 in 2022
 
 <br />
 
@@ -525,7 +525,7 @@ Sites
 
 reddit
 
-* [Any therapists you'd recommend in Sydney?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/exl26n/any_therapists_youd_recommend_in_sydney/) by bagelcatt in 2020
+* [Any therapists you'd recommend in Sydney?](https://www.reddit.com/r/transgenderau/comments/exl26n/any_therapists_youd_recommend_in_sydney/) by bagelcatt in 2020
 
 <br />
 
@@ -541,7 +541,7 @@ Sites
 
 * https://auspath.org/providers/
 
-* [In desperate need of a good mental health professional | sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/rxxrqb/in_desperate_need_of_a_good_mental_health/) by EndlessEden2015 in 2022
+* [In desperate need of a good mental health professional | sydney](https://www.reddit.com/r/transgenderau/comments/rxxrqb/in_desperate_need_of_a_good_mental_health/) by EndlessEden2015 in 2022
 
 <br />
 
@@ -559,7 +559,7 @@ Key details
 
 reddit
 
-* reply to [Psychologist/Psychiatrist Medical Exemption for Travel<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/krmt1y/psychologistpsychiatrist_medical_exemption_for/giym979/) by Pale_Level in 2021
+* reply to [Psychologist/Psychiatrist Medical Exemption for Travel](https://www.reddit.com/r/transgenderau/comments/krmt1y/psychologistpsychiatrist_medical_exemption_for/giym979/) by Pale_Level in 2021
 
 <br />
 
@@ -573,8 +573,8 @@ Key details
 
 reddit
 
-* [Trans therapists in Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/l8vdq0/trans_therapists_in_sydney/) by Jay-with-a-G in 2021
-* reply to [Psychologist/Psychiatrist Medical Exemption for Travel<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/krmt1y/psychologistpsychiatrist_medical_exemption_for/giym979/) by Pale_Level in 2021
+* [Trans therapists in Sydney](https://www.reddit.com/r/transgenderau/comments/l8vdq0/trans_therapists_in_sydney/) by Jay-with-a-G in 2021
+* reply to [Psychologist/Psychiatrist Medical Exemption for Travel](https://www.reddit.com/r/transgenderau/comments/krmt1y/psychologistpsychiatrist_medical_exemption_for/giym979/) by Pale_Level in 2021
 
 <br />
 
@@ -592,7 +592,7 @@ Sites
 
 reddit
 
-* [my progress getting started in Newcastle, NSW. Australia.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/sk4crg/my_progress_getting_started_in_newcastle_nsw/) by Jaydee_O in 2022
+* [my progress getting started in Newcastle, NSW. Australia.](https://www.reddit.com/r/transgenderau/comments/sk4crg/my_progress_getting_started_in_newcastle_nsw/) by Jaydee_O in 2022
 
 ---
 
@@ -615,11 +615,11 @@ Location
 
 reddit
 
-* [Sydney woman who identified as a transgender man for 10 years is suing Dr Patrick Toohey for professional negligence over gender transition<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ww0hcp/sydney_woman_who_identified_as_a_transgender_man/) by Mel1764 in 2022 - refers to newspaper article [‘Absolutely devastating’: woman sues psychiatrist over gender transition](https://www.theage.com.au/national/absolutely-devastating-woman-sues-psychiatrist-over-gender-transition-20220823-p5bbyr.html) - *"The first time Sydney woman Jay Langadinos saw psychiatrist Dr Patrick Toohey she was 19, living at home and identifying as male..."*
-* [Psychiatrist experiences in Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/5mvaay/psychiatrist_experiences_in_sydney/) by likeanovigradwhore in 2017
-* [Psychiatrists who can write letters for surgery (Sydney)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/4x0l9l/psychiatrists_who_can_write_letters_for_surgery/) by throwaway1b918abc around 2016
-* [Sidebar/etc, Possible support info and the like?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/2cl2p8/sidebaretc_possible_support_info_and_the_like/) by eriniki around 2014
-* reply to [Starting off in Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/2da0sm/starting_off_in_sydney/cjnm7y8/) by SodaPony in 2014
+* [Sydney woman who identified as a transgender man for 10 years is suing Dr Patrick Toohey for professional negligence over gender transition](https://www.reddit.com/r/transgenderau/comments/ww0hcp/sydney_woman_who_identified_as_a_transgender_man/) by Mel1764 in 2022 - refers to newspaper article [‘Absolutely devastating’: woman sues psychiatrist over gender transition](https://www.theage.com.au/national/absolutely-devastating-woman-sues-psychiatrist-over-gender-transition-20220823-p5bbyr.html) - *"The first time Sydney woman Jay Langadinos saw psychiatrist Dr Patrick Toohey she was 19, living at home and identifying as male..."*
+* [Psychiatrist experiences in Sydney](https://www.reddit.com/r/transgenderau/comments/5mvaay/psychiatrist_experiences_in_sydney/) by likeanovigradwhore in 2017
+* [Psychiatrists who can write letters for surgery (Sydney)](https://www.reddit.com/r/transgenderau/comments/4x0l9l/psychiatrists_who_can_write_letters_for_surgery/) by throwaway1b918abc around 2016
+* [Sidebar/etc, Possible support info and the like?](https://www.reddit.com/r/transgenderau/comments/2cl2p8/sidebaretc_possible_support_info_and_the_like/) by eriniki around 2014
+* reply to [Starting off in Sydney](https://www.reddit.com/r/transgenderau/comments/2da0sm/starting_off_in_sydney/cjnm7y8/) by SodaPony in 2014
 
 Susans
 
@@ -640,7 +640,7 @@ Key details
 
 reddit
 
-* [Hello. Anyone else experience this when trying to get HRT?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/o3gz6r/hello_anyone_else_experience_this_when_trying_to/) by Marshmallow_Amy in 2021
+* [Hello. Anyone else experience this when trying to get HRT?](https://www.reddit.com/r/transgenderau/comments/o3gz6r/hello_anyone_else_experience_this_when_trying_to/) by Marshmallow_Amy in 2021
 
 <br />
 
@@ -656,7 +656,7 @@ Key details
 
 reddit
 
-* [In desperate need of a good mental health professional | sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/rxxrqb/in_desperate_need_of_a_good_mental_health/) by EndlessEden2015 in 2022
+* [In desperate need of a good mental health professional | sydney](https://www.reddit.com/r/transgenderau/comments/rxxrqb/in_desperate_need_of_a_good_mental_health/) by EndlessEden2015 in 2022
  
 
 <br />
@@ -673,7 +673,7 @@ Key details
 
 reddit
 
-* [In desperate need of a good mental health professional | sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/rxxrqb/in_desperate_need_of_a_good_mental_health/) by EndlessEden2015 in 2022
+* [In desperate need of a good mental health professional | sydney](https://www.reddit.com/r/transgenderau/comments/rxxrqb/in_desperate_need_of_a_good_mental_health/) by EndlessEden2015 in 2022
 
 <br />
 
@@ -718,12 +718,12 @@ Sites
 
 reddit
 
-* [have you been treated by Roberto D'Angelo?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/13xzanq/have_you_been_treated_by_roberto_dangelo/) by Gray_58 in 2023 - *"for context he traumatised me, so I guess I'm looking for people in similar situations... I would never wish what I went through on another person but it does feel good that I'm not alone... when I saw him I was 15, and he has a policy of never affirming trans kids' gender identity. he misgendered me, he let my mum sit in every session spouting her transphobia and basically agreeing with everything she said about like social contagion, just a phase etc. told me I thought I was trans because I didn't like gender roles. then he told me not to talk about dysphoria essentially so we could find the 'real problem'. I started self harming and dissociating and he showed no signs that he cared and he didn't give me any skills/techniques to help with that. as soon as I started presenting femme he told me I didn't need therapy anymore. really messed me up and made me feel like I needed to be cis to be loveable, especially to be loveable to my parents."*
+* [have you been treated by Roberto D'Angelo?](https://www.reddit.com/r/transgenderau/comments/13xzanq/have_you_been_treated_by_roberto_dangelo/) by Gray_58 in 2023 - *"for context he traumatised me, so I guess I'm looking for people in similar situations... I would never wish what I went through on another person but it does feel good that I'm not alone... when I saw him I was 15, and he has a policy of never affirming trans kids' gender identity. he misgendered me, he let my mum sit in every session spouting her transphobia and basically agreeing with everything she said about like social contagion, just a phase etc. told me I thought I was trans because I didn't like gender roles. then he told me not to talk about dysphoria essentially so we could find the 'real problem'. I started self harming and dissociating and he showed no signs that he cared and he didn't give me any skills/techniques to help with that. as soon as I started presenting femme he told me I didn't need therapy anymore. really messed me up and made me feel like I needed to be cis to be loveable, especially to be loveable to my parents."*
     * see reply *"Traumatic, it's been a year since i stopped going and am only just at the point where i can start trusting therapists again.
 I was coerced in to seeing him through my parents asking me to get an ADHD diagnosis (not through him). He was the only ADHD prescribing psychiatrist available without an 18 month waitlist. Outside of writing my ADHD prescription, not once did he ask about my struggles related to ADHD. I found out later that he had a few sessions with my parents before ever taking to me."* by wet_rhinarium
-    * see [reply<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/13xzanq/have_you_been_treated_by_roberto_dangelo/jumbgar/) *"I have. He manipulated me when I was 17 into seeing him every week whilst charging an exorbitant fee. He didn't properly address my problems (ADHD, drug abuse and bipolar-like symptoms) through therapy. He instead prescribed medication very frequently and even prescribed addictive stimulants whilst I was highly prone to addiction. In hindsight he had a very shallow personality and was very manipulative over all"* by not_eets
-    * see [reply<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/13xzanq/have_you_been_treated_by_roberto_dangelo/k7iil0t/) *"...three years ago I was a patient of his for almost a year. I was isolated from my entire family and convinced that I wasn't supposed to be trans even though i was and that I was being abused which caused it. He gave me false statistics and used scare tactics that left me crying after every session. Seeing these comments I have never felt so heard. Thank you people of reddit for sharing this. :) I've fully transitioned now and I've never ever been happier. I'm so glad he was wrong"*
-* [Are you considering detransition? Need support?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/fok8n9/are_you_considering_detransition_need_support/) by LostInTransitionSyd in 2020
+    * see [reply](https://www.reddit.com/r/transgenderau/comments/13xzanq/have_you_been_treated_by_roberto_dangelo/jumbgar/) *"I have. He manipulated me when I was 17 into seeing him every week whilst charging an exorbitant fee. He didn't properly address my problems (ADHD, drug abuse and bipolar-like symptoms) through therapy. He instead prescribed medication very frequently and even prescribed addictive stimulants whilst I was highly prone to addiction. In hindsight he had a very shallow personality and was very manipulative over all"* by not_eets
+    * see [reply](https://www.reddit.com/r/transgenderau/comments/13xzanq/have_you_been_treated_by_roberto_dangelo/k7iil0t/) *"...three years ago I was a patient of his for almost a year. I was isolated from my entire family and convinced that I wasn't supposed to be trans even though i was and that I was being abused which caused it. He gave me false statistics and used scare tactics that left me crying after every session. Seeing these comments I have never felt so heard. Thank you people of reddit for sharing this. :) I've fully transitioned now and I've never ever been happier. I'm so glad he was wrong"*
+* [Are you considering detransition? Need support?](https://www.reddit.com/r/transgenderau/comments/fok8n9/are_you_considering_detransition_need_support/) by LostInTransitionSyd in 2020
 
 Papers
 
@@ -747,7 +747,7 @@ and refers to an earlier aticle in the Australian
 
 reddit
 
-* [Sydney woman who identified as a transgender man for 10 years is suing Dr Patrick Toohey for professional negligence over gender transition<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ww0hcp/sydney_woman_who_identified_as_a_transgender_man/) by Mel1764 in 2022
+* [Sydney woman who identified as a transgender man for 10 years is suing Dr Patrick Toohey for professional negligence over gender transition](https://www.reddit.com/r/transgenderau/comments/ww0hcp/sydney_woman_who_identified_as_a_transgender_man/) by Mel1764 in 2022
 
 The AGE newspaper
 
@@ -797,10 +797,10 @@ Genspect Team, https://genspect.org/team/
     * 2022 - [Leaked audio confirms Genspect director as anti-trans conversion therapist targeting youth](https://healthliberationnow.com/2022/04/02/leaked-audio-confirms-genspect-director-as-anti-trans-conversion-therapist-targeting-youth/#The_recordings_detailing_intent_and_strategy_in_her_own_words) - *"Recorded audio of a Twitter Space from 2021 was released on YouTube last week as part of an ongoing feud between Genspect affiliates and self-proclaimed “gender industry abolitionists” who aim to eliminate all forms of gender affirming care. Within the Space Stella O’Malley, a prominent psychotherapist in Ireland facing allegations of conversion therapy and the director of Genspect (among other groups), reveals that she has made it her life mission to prevent trans youth from accessing any form of gender affirming care. In doing so, she inadvertently confesses to seeking to suppress or change trans youth’s gender identity, the very definition of gender identity change efforts (GICE, i.e. conversion therapy/practices),[1] despite her past denials."*
     * 2021 - YouTube ['Conversion therapy' bill: Stella O'Malley - Psychotherapist](https://www.youtube.com/watch?v=vjqsYVeDL2w) by 
 familyfirstnz (right wing religous lobby group) - *"She is an expert on Rapid Onset Gender Dysphoria - the epidemic of youth coming out as trans 'out of the blue' due to social contagion and mental illness."* - See ROGD under Lisa Littman
-        * reddit - [Supreme Court of New Zealand rules "Family First" (a Conservative Christian Lobby group that advocates for a ban on abortion and gay marriage) does not qualify for charity status.<sup>R</sup>](https://www.reddit.com/r/worldnews/comments/vm9bz0/supreme_court_of_new_zealand_rules_family_first_a/) in 2022
+        * reddit - [Supreme Court of New Zealand rules "Family First" (a Conservative Christian Lobby group that advocates for a ban on abortion and gay marriage) does not qualify for charity status.](https://www.reddit.com/r/worldnews/comments/vm9bz0/supreme_court_of_new_zealand_rules_family_first_a/) in 2022
     * 2020 - [Graham Linehan calls for list of Irish 'gender critical' therapists for trans children](https://gcn.ie/graham-linehan-trans-conversion-therapy/) in gcn, *"Psychotherapist and public speaker, Stella O’Malley, aims to create a list of therapists for parents with transgender children. She has previously written a chapter for the anti-trans book Inventing Transgender Children, which portrays  transgender people as an ideology and ‘dangerous’. After Linehan showed his support, she posted, “I hate the phrase gender critical but I am making a list!"*, [according to wikipedia](https://en.wikipedia.org/wiki/Graham_Linehan) *"Graham Linehan is an Irish television writer and anti-transgender activist."*
 * Abigail Shrier
-    * reddit post [Is Dr Marci Bowers transphobic?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/q3b5vx/is_dr_marci_bowers_transphobic/) in 2021
+    * reddit post [Is Dr Marci Bowers transphobic?](https://www.reddit.com/r/Transgender_Surgeries/comments/q3b5vx/is_dr_marci_bowers_transphobic/) in 2021
 * Lisa Littman - inventor of the discredited Rapid-Onset Gender Dysphoria (ROGD)
     * 2020 - [A critical commentary on ‘rapid-onset gender dysphoria’](https://journals.sagepub.com/doi/abs/10.1177/0038026120934693?journalCode=sora) by Florence Ashley in The Sociological Review
     * 2019 - [AusPATH Position Statement on “Rapid-Onset Gender Dysphoria (ROGD)”](https://auspath.org.au/2019/09/30/auspath-position-statement-on-rapid-onset-gender-dysphoria-rogd/) by AusPATH
@@ -831,15 +831,15 @@ https://genderminorities.com/2024/04/22/concerns-about-canberra-conference-conve
 
 reddit
 
-* [SEGM and Genspect - active in Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1d8w5ly/segm_and_genspect_active_in_australia/) by NoisyCorella in 2024 - *"In an important new development, the Southern Poverty Law Centre in the U.S. has just added the Society for Gender Based Medicine (SEGM) and Genspect to their current list of anti-LGBTQ hate groups."*
+* [SEGM and Genspect - active in Australia](https://www.reddit.com/r/transgenderau/comments/1d8w5ly/segm_and_genspect_active_in_australia/) by NoisyCorella in 2024 - *"In an important new development, the Southern Poverty Law Centre in the U.S. has just added the Society for Gender Based Medicine (SEGM) and Genspect to their current list of anti-LGBTQ hate groups."*
     * https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-lgbtq - *"The conferences were sponsored by the Idaho-based Society for Evidence-Based Gender Medicine (SEGM) and Genspect – key hubs of anti-LGBTQ+ pseudoscience identified in the SPLC’s CAPTAIN report. SEGM’s New York meeting, held Oct. 10-11, 2023, featured appearances by some researchers employed as “expert witnesses” by the anti-LGBTQ hate group Alliance Defending Freedom. Some of these “expert witnesses” have been key to crafting anti-trans legal narratives. Genspect’s Denver meeting, held Nov. 4-5, 2023, featured many of the same participants, but included members of more anti-LGBTQ+ groups including Do No Harm and Child & Parental Rights Campaign as well as notable voices of the far right including James Lindsay. Both conferences represent an attempt by the groups to position themselves as legitimate alternatives to the World Professional Organization for Transgender Health (WPATH) – which represents the global consensus around the benefits of gender-affirming health care – despite their anti-LGBTQ+ extremism."*
 
 ### SEGM
 
 Roberto D’Angelo is an advisor to SEGM, another group similar to Genspect.
 
-* [Cofounder of the anti-trans group SEGM is an executive at the fifth largest Catholic healthcare system in the US; SEGM members have worked with other conversion therapists, and infiltrated the Florida Board of Medicine, Cochrane Collaboration, and an NHS England working group on gender dysphoria<sup>R</sup>](https://www.reddit.com/r/transgender/comments/109jbl3/cofounder_of_the_antitrans_group_segm_is_an/) by zinniajones in 2023
-* [Documenting substantial irregularities of process in the Florida Board of Medicine’s youth transition treatment ban, including undisclosed conflicts of interest and coordination with outside influence groups SEGM and the Catholic Medical Association<sup>R</sup>](https://www.reddit.com/r/transgender/comments/zbvqxd/documenting_substantial_irregularities_of_process/) by zinniajones in 2023
+* [Cofounder of the anti-trans group SEGM is an executive at the fifth largest Catholic healthcare system in the US; SEGM members have worked with other conversion therapists, and infiltrated the Florida Board of Medicine, Cochrane Collaboration, and an NHS England working group on gender dysphoria](https://www.reddit.com/r/transgender/comments/109jbl3/cofounder_of_the_antitrans_group_segm_is_an/) by zinniajones in 2023
+* [Documenting substantial irregularities of process in the Florida Board of Medicine’s youth transition treatment ban, including undisclosed conflicts of interest and coordination with outside influence groups SEGM and the Catholic Medical Association](https://www.reddit.com/r/transgender/comments/zbvqxd/documenting_substantial_irregularities_of_process/) by zinniajones in 2023
 
 Gender Analysis provides info on this group and what they are doing
 
@@ -853,8 +853,8 @@ OHealth Liberation Now!
 
 reddit
 
-* [SEGM and Genspect - active in Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1d8w5ly/segm_and_genspect_active_in_australia/) by NoisyCorella in 2024 - *"In an important new development, the Southern Poverty Law Centre in the U.S. has just added the Society for Gender Based Medicine (SEGM) and Genspect to their current list of anti-LGBTQ hate groups."*
-* [Multiple members of the Cass review part of anti-trans lobbying group SEGM<sup>R</sup>](https://www.reddit.com/r/LabourUK/comments/1cjiz46/multiple_members_of_the_cass_review_part_of/) in 2024 - refers to a twitter post by Erin Reed
+* [SEGM and Genspect - active in Australia](https://www.reddit.com/r/transgenderau/comments/1d8w5ly/segm_and_genspect_active_in_australia/) by NoisyCorella in 2024 - *"In an important new development, the Southern Poverty Law Centre in the U.S. has just added the Society for Gender Based Medicine (SEGM) and Genspect to their current list of anti-LGBTQ hate groups."*
+* [Multiple members of the Cass review part of anti-trans lobbying group SEGM](https://www.reddit.com/r/LabourUK/comments/1cjiz46/multiple_members_of_the_cass_review_part_of/) in 2024 - refers to a twitter post by Erin Reed
 
 ### Beyond Trans
 
@@ -875,7 +875,7 @@ Avoid
 
 reddit
 
-* [Need a vibe check on the work trans consultant!!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/11127zs/need_a_vibe_check_on_the_work_trans_consultant/) in 2023 - *"So I've come out to my bosses and they've engaged the help of a consultant psych to help make a plan for my coming out more fully at work... So I was given two articles to consider: Detransition: a Real and Growing Phenomenon..."* this is from anti-trans hate group SEMG, and *"The man I am trying to be is not me Roberto D'Angelo... "*, D'Angelo is anti-trans activist psychiatrist who is part of genspect, another anti trans thate group. More details elsewhere on this page.
+* [Need a vibe check on the work trans consultant!!](https://www.reddit.com/r/transgenderau/comments/11127zs/need_a_vibe_check_on_the_work_trans_consultant/) in 2023 - *"So I've come out to my bosses and they've engaged the help of a consultant psych to help make a plan for my coming out more fully at work... So I was given two articles to consider: Detransition: a Real and Growing Phenomenon..."* this is from anti-trans hate group SEMG, and *"The man I am trying to be is not me Roberto D'Angelo... "*, D'Angelo is anti-trans activist psychiatrist who is part of genspect, another anti trans thate group. More details elsewhere on this page.
 
 <br />
 
@@ -908,7 +908,7 @@ Key details
 
 reddit
 
-* [This pic of shit is still practices psychology after what she said<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1cuqdyu/this_pic_of_shit_is_still_practices_psychology/) by Shouko_dessert in 2024
+* [This pic of shit is still practices psychology after what she said](https://www.reddit.com/r/transgenderau/comments/1cuqdyu/this_pic_of_shit_is_still_practices_psychology/) by Shouko_dessert in 2024
 
 Other
 
@@ -960,7 +960,7 @@ Key details
 
 reddit
 
-* [Violence and Discrimination at the PA Hospital<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gk2ii2/violence_and_discrimination_at_the_pa_hospital/) by yagirlchloeb in 2020
+* [Violence and Discrimination at the PA Hospital](https://www.reddit.com/r/transgenderau/comments/gk2ii2/violence_and_discrimination_at_the_pa_hospital/) by yagirlchloeb in 2020
 
 ---
 
@@ -979,7 +979,7 @@ https://transcendsupport.com.au/resources/queensland/
 
 reddit
 
-* [Any Recommendations for Gender Therapists in the Brisbane QLD Australia area?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ac3gy4/any_recommendations_for_gender_therapists_in_the/) by j1mmy_neutr0n in 2019
+* [Any Recommendations for Gender Therapists in the Brisbane QLD Australia area?](https://www.reddit.com/r/transgenderau/comments/ac3gy4/any_recommendations_for_gender_therapists_in_the/) by j1mmy_neutr0n in 2019
 
 <br />
 
@@ -1069,8 +1069,8 @@ Key details
 
 reddit
 
-* reply to [Clinical psychiatrist in qld specialising in gender services.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zn2haa/clinical_psychiatrist_in_qld_specialising_in/j0frtsj/) by EnbyShivvy in 2022 - *"I know a few people who have seen him prior to SRS."*
-* [First Psych Appointment Tomorrow<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jv4t6n/first_psych_appointment_tomorrow/) by  HijinxEnsues in 2020
+* reply to [Clinical psychiatrist in qld specialising in gender services.](https://www.reddit.com/r/transgenderau/comments/zn2haa/clinical_psychiatrist_in_qld_specialising_in/j0frtsj/) by EnbyShivvy in 2022 - *"I know a few people who have seen him prior to SRS."*
+* [First Psych Appointment Tomorrow](https://www.reddit.com/r/transgenderau/comments/jv4t6n/first_psych_appointment_tomorrow/) by  HijinxEnsues in 2020
 
 Other
 
@@ -1092,7 +1092,7 @@ Key details
 
 reddit
 
-* reply to [Clinical psychiatrist in qld specialising in gender services.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zn2haa/clinical_psychiatrist_in_qld_specialising_in/j0frtsj/) by EnbyShivvy in 2022 - *"Alternatively, Dr. Mahsa Davari is an ally and is also at the same practice."*
+* reply to [Clinical psychiatrist in qld specialising in gender services.](https://www.reddit.com/r/transgenderau/comments/zn2haa/clinical_psychiatrist_in_qld_specialising_in/j0frtsj/) by EnbyShivvy in 2022 - *"Alternatively, Dr. Mahsa Davari is an ally and is also at the same practice."*
 
 Other
 
@@ -1132,7 +1132,7 @@ Sites
 
 reddit
 
-* [psychiatrist<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/x8a0vk/psychiatrist/) by Just_Me2895 in 2022
+* [psychiatrist](https://www.reddit.com/r/transgenderau/comments/x8a0vk/psychiatrist/) by Just_Me2895 in 2022
 
 Review sites
 
@@ -1178,8 +1178,8 @@ Key details
 
 reddit
 
-* [Brisbane psychiatrists - Rodney, Theodoros, others?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/o3u6wi/brisbane_psychiatrists_rodney_theodoros_others/h2hlrfj/) by KassType2 in 2021
-* [Therapists Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/4e5jud/therapists_brisbane/) by _CKS_ around 2016
+* [Brisbane psychiatrists - Rodney, Theodoros, others?](https://www.reddit.com/r/transgenderau/comments/o3u6wi/brisbane_psychiatrists_rodney_theodoros_others/h2hlrfj/) by KassType2 in 2021
+* [Therapists Brisbane](https://www.reddit.com/r/transgenderau/comments/4e5jud/therapists_brisbane/) by _CKS_ around 2016
 
 Other
 
@@ -1220,8 +1220,8 @@ Key details
 
 reddit
 
-* [LGBTQI friendly psychiatrists/ psychologists<sup>R</sup>](https://www.reddit.com/r/brisbane/comments/4fv7ni/lgbtqi_friendly_psychiatrists_psychologists/) by Maham24 around 2017
-* [Psychologist suggestions in CBD/New Farm/Valley<sup>R</sup>](https://www.reddit.com/r/brisbane/comments/3gnq3o/psychologist_suggestions_in_cbdnew_farmvalley/) around 2016 - not trans related
+* [LGBTQI friendly psychiatrists/ psychologists](https://www.reddit.com/r/brisbane/comments/4fv7ni/lgbtqi_friendly_psychiatrists_psychologists/) by Maham24 around 2017
+* [Psychologist suggestions in CBD/New Farm/Valley](https://www.reddit.com/r/brisbane/comments/3gnq3o/psychologist_suggestions_in_cbdnew_farmvalley/) around 2016 - not trans related
 
 Review sites
 
@@ -1241,7 +1241,7 @@ Key details
 
 reddit
 
-* [Help finding an endo in Toowoomba.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/m798i7/help_finding_an_endo_in_toowoomba/) by KineticVine488 in 2021
+* [Help finding an endo in Toowoomba.](https://www.reddit.com/r/transgenderau/comments/m798i7/help_finding_an_endo_in_toowoomba/) by KineticVine488 in 2021
 
 Other
 
@@ -1262,9 +1262,9 @@ Key details
 
 reddit
 
-* reply to [Clinical psychiatrist in qld specialising in gender services.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zn2haa/clinical_psychiatrist_in_qld_specialising_in/j0tium7/) by ashleystanley84 in 2022
-* [Brisbane psychiatrists - Rodney, Theodoros, others?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/o3u6wi/brisbane_psychiatrists_rodney_theodoros_others/h2hlrfj/) by KassType2 in 2021
-* reply to [LGBTQI friendly psychiatrists/ psychologists<sup>R</sup>](https://www.reddit.com/r/brisbane/comments/4fv7ni/lgbtqi_friendly_psychiatrists_psychologists/d2cxem5/) by Maham24 around 2017
+* reply to [Clinical psychiatrist in qld specialising in gender services.](https://www.reddit.com/r/transgenderau/comments/zn2haa/clinical_psychiatrist_in_qld_specialising_in/j0tium7/) by ashleystanley84 in 2022
+* [Brisbane psychiatrists - Rodney, Theodoros, others?](https://www.reddit.com/r/transgenderau/comments/o3u6wi/brisbane_psychiatrists_rodney_theodoros_others/h2hlrfj/) by KassType2 in 2021
+* reply to [LGBTQI friendly psychiatrists/ psychologists](https://www.reddit.com/r/brisbane/comments/4fv7ni/lgbtqi_friendly_psychiatrists_psychologists/d2cxem5/) by Maham24 around 2017
 
 YouTube
 
@@ -1300,7 +1300,7 @@ Key details
 
 reddit
 
-* [(TW: transphobia) I just discovered the existence of psychotherapist Tania Marshall, and that she pushes the debunked ROGD hypothesis<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/u5l67u/tw_transphobia_i_just_discovered_the_existence_of/) by ChaoticMutual in 2022 
+* [(TW: transphobia) I just discovered the existence of psychotherapist Tania Marshall, and that she pushes the debunked ROGD hypothesis](https://www.reddit.com/r/transgenderau/comments/u5l67u/tw_transphobia_i_just_discovered_the_existence_of/) by ChaoticMutual in 2022 
     * *"Yeah, she's been known as problematic for a long time in the autistic community. She's also been put on probation by the AHPRA for unprofessional practice, barred from discussing rapid onset gender dysphoria and I think possibly had restrictions on treating trans patients."*
 
 <br />
@@ -1317,7 +1317,7 @@ Key details
 
 reddit
 
-* [(TW: transphobia) I just discovered the existence of psychotherapist Tania Marshall, and that she pushes the debunked ROGD hypothesis<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/u5l67u/tw_transphobia_i_just_discovered_the_existence_of/) by ChaoticMutual in 2022
+* [(TW: transphobia) I just discovered the existence of psychotherapist Tania Marshall, and that she pushes the debunked ROGD hypothesis](https://www.reddit.com/r/transgenderau/comments/u5l67u/tw_transphobia_i_just_discovered_the_existence_of/) by ChaoticMutual in 2022
 
 Binary Australia
 
@@ -1343,7 +1343,7 @@ Key details
 
 reddit
 
-* [Good therapist in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/v8gjv5/good_therapist_in_brisbane/) by evie_kitty in 2022 - *"Avoid Benchmark Psychology, especially Dr Jennifer Wilson. The moment I came out as Trans femme she kept insisting that I was going through a phase and proceeded to hand wave my suicidal ideation related to my gender dysphoria... I'm a psychology student so I know what the psychologist did was wrong and exceptionally dangerous. Despite most practices openly advertising as LGBTQ friendly, it's unfortunately only for aesthetic purposes."*
+* [Good therapist in Brisbane](https://www.reddit.com/r/transgenderau/comments/v8gjv5/good_therapist_in_brisbane/) by evie_kitty in 2022 - *"Avoid Benchmark Psychology, especially Dr Jennifer Wilson. The moment I came out as Trans femme she kept insisting that I was going through a phase and proceeded to hand wave my suicidal ideation related to my gender dysphoria... I'm a psychology student so I know what the psychologist did was wrong and exceptionally dangerous. Despite most practices openly advertising as LGBTQ friendly, it's unfortunately only for aesthetic purposes."*
 
 <br />
 
@@ -1361,7 +1361,7 @@ Key details
 
 reddit
 
-* reply to [Clinical psychiatrist in qld specialising in gender services.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zn2haa/clinical_psychiatrist_in_qld_specialising_in/j0tium7/) by ashleystanley84 in 2022 - *"I can highly recommend Dr. Elenor Tan at CFHP, Woolloongabba. She is lovely and It only took me two sessions with her for my letter."*
+* reply to [Clinical psychiatrist in qld specialising in gender services.](https://www.reddit.com/r/transgenderau/comments/zn2haa/clinical_psychiatrist_in_qld_specialising_in/j0tium7/) by ashleystanley84 in 2022 - *"I can highly recommend Dr. Elenor Tan at CFHP, Woolloongabba. She is lovely and It only took me two sessions with her for my letter."*
 
 <br />
 
@@ -1377,7 +1377,7 @@ Key details
 
 reddit
 
-* [My experience getting on HRT.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/10bp43c/my_experience_getting_on_hrt/) by zorbyte in 2023 - *"I had 2 appointments with my psychiatrist, a month apart. They consisted of her interrogating me, asking me how I figured out I had incongruencies with my body and gender identity, in which she even took the opportunities to gaslight me and say they were gender stereotypes I was striving for and it is an invalid material measure on the matter of gender dysphoria (ie shaving my legs or wearing feminine clothes). She was insistent I should social transition for at least a year before getting HRT. She wrote back to Dr. Rhys saying that my desire to medically transition was an autistic hyperfixation and it should not be indulged. She also put me on a waiting list for a gender specialising psychiatrist, which has a waiting list until August."*
+* [My experience getting on HRT.](https://www.reddit.com/r/transgenderau/comments/10bp43c/my_experience_getting_on_hrt/) by zorbyte in 2023 - *"I had 2 appointments with my psychiatrist, a month apart. They consisted of her interrogating me, asking me how I figured out I had incongruencies with my body and gender identity, in which she even took the opportunities to gaslight me and say they were gender stereotypes I was striving for and it is an invalid material measure on the matter of gender dysphoria (ie shaving my legs or wearing feminine clothes). She was insistent I should social transition for at least a year before getting HRT. She wrote back to Dr. Rhys saying that my desire to medically transition was an autistic hyperfixation and it should not be indulged. She also put me on a waiting list for a gender specialising psychiatrist, which has a waiting list until August."*
 
 Review sites
 
@@ -1398,7 +1398,7 @@ Key details
 
 reddit
 
-* [Complaint about psychiatrist Dr. Steven Stankevicius<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/11kp7ba/complaint_about_psychiatrist_dr_steven/) by whererosegoes in 2023 - *"'m here to write about my experiences with Dr. Steven Stankevicius who I believe to be promoting thinly veiled transphobia. I've been sitting on this for a while. They present themselves as a reasonable 'classical liberal' in their own words. I noticed they had other transgender patients too. They set back my journey several months through transphobia.I'm going to leaving a Google review on the clinic they work at: Dr Steven Stankevicius promotes thinly veiled transphobia. When I first brought up wanting to explore my gender, they recommended me the book 'The End of Gender' by Debra Soh, a TERF. In the past, they had professed themself to dislike "wokeness". Most recently when I saw them, I brought up the safety and low risk of transition, and they seriously disagreed, bringing up regret rates. This is a transphobic talking point, regret rates are incredibly low."*
+* [Complaint about psychiatrist Dr. Steven Stankevicius](https://www.reddit.com/r/transgenderau/comments/11kp7ba/complaint_about_psychiatrist_dr_steven/) by whererosegoes in 2023 - *"'m here to write about my experiences with Dr. Steven Stankevicius who I believe to be promoting thinly veiled transphobia. I've been sitting on this for a while. They present themselves as a reasonable 'classical liberal' in their own words. I noticed they had other transgender patients too. They set back my journey several months through transphobia.I'm going to leaving a Google review on the clinic they work at: Dr Steven Stankevicius promotes thinly veiled transphobia. When I first brought up wanting to explore my gender, they recommended me the book 'The End of Gender' by Debra Soh, a TERF. In the past, they had professed themself to dislike "wokeness". Most recently when I saw them, I brought up the safety and low risk of transition, and they seriously disagreed, bringing up regret rates. This is a transphobic talking point, regret rates are incredibly low."*
 
 <br />
 
@@ -1416,14 +1416,14 @@ Dr Sites
 
 reddit
 
-* [\[SA\] Getting a diagnosis and starting HRT from rural South Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/h8pd0o/sa_getting_a_diagnosis_and_starting_hrt_from/) by snartibartfast in 2020
-* reply to [Ensuring up-to-date information<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gre8ph/ensuring_uptodate_information/fsu65kk/) by bronzederse in 2020
-* [\[SA\] My experience getting a diagnosis and accessing HRT in Adelaide<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/fp9zwq/sa_my_experience_getting_a_diagnosis_and/) by emmadaboutlife in 2020
-* [Any recommended transgender psychotherapist in Adelaide?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/el8cpt/any_recommended_transgender_psychotherapist_in/) by maniac026 in 2020
-* [MTF starting transition help.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/a30ek2/mtf_starting_transition_help/) by Kiteal in 2019
-* [Desperate help needed. (SA)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/9hsyfa/desperate_help_needed_sa/) around 2018
-* [Coming out to starting HRT. A 6 Month Journey<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/8ik6de/coming_out_to_starting_hrt_a_6_month_journey/) by  Kindraer around 2018 - *"The huge benefit to Cheng is that she is amazingly supportive and will do a one off diagnosis of gender dysphoria."*
-* [(MTF) Where in Adelaide can I get HRT approved<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/6jiyrb/mtf_where_in_adelaide_can_i_get_hrt_approved/) by  AmyElegantress around 2017
+* [\[SA\] Getting a diagnosis and starting HRT from rural South Australia](https://www.reddit.com/r/transgenderau/comments/h8pd0o/sa_getting_a_diagnosis_and_starting_hrt_from/) by snartibartfast in 2020
+* reply to [Ensuring up-to-date information](https://www.reddit.com/r/transgenderau/comments/gre8ph/ensuring_uptodate_information/fsu65kk/) by bronzederse in 2020
+* [\[SA\] My experience getting a diagnosis and accessing HRT in Adelaide](https://www.reddit.com/r/transgenderau/comments/fp9zwq/sa_my_experience_getting_a_diagnosis_and/) by emmadaboutlife in 2020
+* [Any recommended transgender psychotherapist in Adelaide?](https://www.reddit.com/r/transgenderau/comments/el8cpt/any_recommended_transgender_psychotherapist_in/) by maniac026 in 2020
+* [MTF starting transition help.](https://www.reddit.com/r/transgenderau/comments/a30ek2/mtf_starting_transition_help/) by Kiteal in 2019
+* [Desperate help needed. (SA)](https://www.reddit.com/r/transgenderau/comments/9hsyfa/desperate_help_needed_sa/) around 2018
+* [Coming out to starting HRT. A 6 Month Journey](https://www.reddit.com/r/transgenderau/comments/8ik6de/coming_out_to_starting_hrt_a_6_month_journey/) by  Kindraer around 2018 - *"The huge benefit to Cheng is that she is amazingly supportive and will do a one off diagnosis of gender dysphoria."*
+* [(MTF) Where in Adelaide can I get HRT approved](https://www.reddit.com/r/transgenderau/comments/6jiyrb/mtf_where_in_adelaide_can_i_get_hrt_approved/) by  AmyElegantress around 2017
 
 <br />
 
@@ -1433,8 +1433,8 @@ reddit
 
 reddit
 
-* reply to [Ensuring up-to-date information<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gre8ph/ensuring_uptodate_information/fsu65kk/) by bronzederse in 2020
-* [MTF starting transition help.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/a30ek2/mtf_starting_transition_help/) by Kiteal in 2019
+* reply to [Ensuring up-to-date information](https://www.reddit.com/r/transgenderau/comments/gre8ph/ensuring_uptodate_information/fsu65kk/) by bronzederse in 2020
+* [MTF starting transition help.](https://www.reddit.com/r/transgenderau/comments/a30ek2/mtf_starting_transition_help/) by Kiteal in 2019
 
 <br />
 
@@ -1450,11 +1450,11 @@ Sites
 
 reddit
 
-* [Transitioning in Adelaide<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/mqiodo/transitioning_in_adelaide/) by okbuddy88s in 2021
-* [My bad experience with Sorel (adelaide)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ivohe4/my_bad_experience_with_sorel_adelaide/) by  Rabbit538 in 2020
-* [Moving to Adelaide soon, and I have some questions.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/irnai1/moving_to_adelaide_soon_and_i_have_some_questions/) by vastroll1 in 2020
-* reply to [Ensuring up-to-date information<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gre8ph/ensuring_uptodate_information/fsvgkuv/) by godhelpeve in 2020
-* [Any recommended transgender psychotherapist in Adelaide?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/el8cpt/any_recommended_transgender_psychotherapist_in/) by maniac026 in 2020
+* [Transitioning in Adelaide](https://www.reddit.com/r/transgenderau/comments/mqiodo/transitioning_in_adelaide/) by okbuddy88s in 2021
+* [My bad experience with Sorel (adelaide)](https://www.reddit.com/r/transgenderau/comments/ivohe4/my_bad_experience_with_sorel_adelaide/) by  Rabbit538 in 2020
+* [Moving to Adelaide soon, and I have some questions.](https://www.reddit.com/r/transgenderau/comments/irnai1/moving_to_adelaide_soon_and_i_have_some_questions/) by vastroll1 in 2020
+* reply to [Ensuring up-to-date information](https://www.reddit.com/r/transgenderau/comments/gre8ph/ensuring_uptodate_information/fsvgkuv/) by godhelpeve in 2020
+* [Any recommended transgender psychotherapist in Adelaide?](https://www.reddit.com/r/transgenderau/comments/el8cpt/any_recommended_transgender_psychotherapist_in/) by maniac026 in 2020
 
 <br />
 
@@ -1472,7 +1472,7 @@ Sites
 
 reddit
 
-* [Need some help with getting HRT in South Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kms7zw/need_some_help_with_getting_hrt_in_south_australia/) by whyarebeards in 2020
+* [Need some help with getting HRT in South Australia](https://www.reddit.com/r/transgenderau/comments/kms7zw/need_some_help_with_getting_hrt_in_south_australia/) by whyarebeards in 2020
 
 <br />
 
@@ -1505,7 +1505,7 @@ Sites
 
 reddit
 
-* [How should I go about starting the transition process in SA?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/bpqfz8/how_should_i_go_about_starting_the_transition/) by yttriqolson in 2019
+* [How should I go about starting the transition process in SA?](https://www.reddit.com/r/transgenderau/comments/bpqfz8/how_should_i_go_about_starting_the_transition/) by yttriqolson in 2019
 
 <br />
 
@@ -1521,13 +1521,13 @@ Key details
 
 reddit
 
-* [Dr Robert Lyons - Hewitt House (SA) Retiring in July<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/s6kfa2/dr_robert_lyons_hewitt_house_sa_retiring_in_july/) by  DasWeissKanin in 2022
-* reply to [Living in Adelaide, unsure where to start<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qb7yl3/living_in_adelaide_unsure_where_to_start/hh7w47h/) by tossaside907 in 2021
-* [Finally had my first appointment with Dr Robert Lyons after 3½ months of waiting... It did not go how I expected.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/pox3h9/finally_had_my_first_appointment_with_dr_robert/) by mpolishthorsef in 2021
-* [Finally on HRT (SA)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/mtbr83/finally_on_hrt_sa/) by Adorable_Egg86 in 2021
-* [(South Australia) Has anyone gone through Dr. Lyons recently? What's the process like?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/fmbyey/south_australia_has_anyone_gone_through_dr_lyons/) by squishyemotions in 2020
-* [Desperate help needed. (SA)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/9hsyfa/desperate_help_needed_sa/) around 2019
-* [How I got my hormones in SA (wall of text right here)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/4hu5fh/how_i_got_my_hormones_in_sa_wall_of_text_right/) by Toby-John around 2017
+* [Dr Robert Lyons - Hewitt House (SA) Retiring in July](https://www.reddit.com/r/transgenderau/comments/s6kfa2/dr_robert_lyons_hewitt_house_sa_retiring_in_july/) by  DasWeissKanin in 2022
+* reply to [Living in Adelaide, unsure where to start](https://www.reddit.com/r/transgenderau/comments/qb7yl3/living_in_adelaide_unsure_where_to_start/hh7w47h/) by tossaside907 in 2021
+* [Finally had my first appointment with Dr Robert Lyons after 3½ months of waiting... It did not go how I expected.](https://www.reddit.com/r/transgenderau/comments/pox3h9/finally_had_my_first_appointment_with_dr_robert/) by mpolishthorsef in 2021
+* [Finally on HRT (SA)](https://www.reddit.com/r/transgenderau/comments/mtbr83/finally_on_hrt_sa/) by Adorable_Egg86 in 2021
+* [(South Australia) Has anyone gone through Dr. Lyons recently? What's the process like?](https://www.reddit.com/r/transgenderau/comments/fmbyey/south_australia_has_anyone_gone_through_dr_lyons/) by squishyemotions in 2020
+* [Desperate help needed. (SA)](https://www.reddit.com/r/transgenderau/comments/9hsyfa/desperate_help_needed_sa/) around 2019
+* [How I got my hormones in SA (wall of text right here)](https://www.reddit.com/r/transgenderau/comments/4hu5fh/how_i_got_my_hormones_in_sa_wall_of_text_right/) by Toby-John around 2017
 
 https://www.reddit.com/r/transgenderau/wiki/resources-sa
 
@@ -1549,7 +1549,7 @@ Key details
 
 reddit
 
-* reply to [Ensuring up-to-date information<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gre8ph/ensuring_uptodate_information/fsu65kk/) by bronzederse in 2020
+* reply to [Ensuring up-to-date information](https://www.reddit.com/r/transgenderau/comments/gre8ph/ensuring_uptodate_information/fsu65kk/) by bronzederse in 2020
 
 Other
 
@@ -1568,7 +1568,7 @@ Key details
 
 reddit
 
-* reply to [Ensuring up-to-date information<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gre8ph/ensuring_uptodate_information/fsu65kk/) by bronzederse in 2020
+* reply to [Ensuring up-to-date information](https://www.reddit.com/r/transgenderau/comments/gre8ph/ensuring_uptodate_information/fsu65kk/) by bronzederse in 2020
 
 <br />
 
@@ -1582,8 +1582,8 @@ Key details
 
 reddit
 
-* [Need Recommendations for Psychiatrist for Autism/Social Anxiety Assessment<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/m45ltw/need_recommendations_for_psychiatrist_for/) by yourhyperjo in 2021
-* reply to [Ensuring up-to-date information<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gre8ph/ensuring_uptodate_information/fsu65kk/) by bronzederse in 2020
+* [Need Recommendations for Psychiatrist for Autism/Social Anxiety Assessment](https://www.reddit.com/r/transgenderau/comments/m45ltw/need_recommendations_for_psychiatrist_for/) by yourhyperjo in 2021
+* reply to [Ensuring up-to-date information](https://www.reddit.com/r/transgenderau/comments/gre8ph/ensuring_uptodate_information/fsu65kk/) by bronzederse in 2020
 
 <br />
 
@@ -1599,7 +1599,7 @@ Key details
 
 reddit
 
-* [Once off psychiatrist appointment tips for next week?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/lbuzjs/once_off_psychiatrist_appointment_tips_for_next/) by PlayNearby427 in 2021
+* [Once off psychiatrist appointment tips for next week?](https://www.reddit.com/r/transgenderau/comments/lbuzjs/once_off_psychiatrist_appointment_tips_for_next/) by PlayNearby427 in 2021
 
 Other
 
@@ -1621,7 +1621,7 @@ Key details
 
 reddit
 
-* reply to [Pyschologist to avoid Madeline Rowell in SA<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ln8845/pyschologist_to_avoid_madeline_rowell_in_sa/go0dn73/?context=3) by fishboy1 in 2021
+* reply to [Pyschologist to avoid Madeline Rowell in SA](https://www.reddit.com/r/transgenderau/comments/ln8845/pyschologist_to_avoid_madeline_rowell_in_sa/go0dn73/?context=3) by fishboy1 in 2021
 
 Other
 
@@ -1640,7 +1640,7 @@ Key details
 
 reddit
 
-* [Pyschologist to avoid Madeline Rowell in SA<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ln8845/pyschologist_to_avoid_madeline_rowell_in_sa/) by Ok-Marionberry1046 in 2021
+* [Pyschologist to avoid Madeline Rowell in SA](https://www.reddit.com/r/transgenderau/comments/ln8845/pyschologist_to_avoid_madeline_rowell_in_sa/) by Ok-Marionberry1046 in 2021
 
 <br />
 
@@ -1656,7 +1656,7 @@ Key details
 
 reddit
 
-* [Don’t see Bridget Warnes in CAMHS<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qqpjqd/dont_see_bridget_warnes_in_camhs/) by throwaway93284638 in 2021
+* [Don’t see Bridget Warnes in CAMHS](https://www.reddit.com/r/transgenderau/comments/qqpjqd/dont_see_bridget_warnes_in_camhs/) by throwaway93284638 in 2021
 
 <br />
 
@@ -1672,7 +1672,7 @@ Key details
 
 reddit
 
-* [Warning about a psychologist in Adelaide<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/r1p49d/warning_about_a_psychologist_in_adelaide/) by ThatPleb101 in 2021
+* [Warning about a psychologist in Adelaide](https://www.reddit.com/r/transgenderau/comments/r1p49d/warning_about_a_psychologist_in_adelaide/) by ThatPleb101 in 2021
 
 Other
 
@@ -1699,7 +1699,7 @@ Key details
 
 reddit
 
-* [Psychologists in Hobart area?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/k4ftj0/psychologists_in_hobart_area/) by lucysesoterica in 2020
+* [Psychologists in Hobart area?](https://www.reddit.com/r/transgenderau/comments/k4ftj0/psychologists_in_hobart_area/) by lucysesoterica in 2020
  
 
 <br />
@@ -1715,7 +1715,7 @@ Key details
 
 reddit
 
-* [Psychologists in Hobart area?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/k4ftj0/psychologists_in_hobart_area/) by lucysesoterica in 2020
+* [Psychologists in Hobart area?](https://www.reddit.com/r/transgenderau/comments/k4ftj0/psychologists_in_hobart_area/) by lucysesoterica in 2020
 
 <br />
 
@@ -1729,9 +1729,9 @@ Location
 
 reddit
 
-* reply to [Is it harder to transition if you are diagnosed with autism?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vc5gr8/is_it_harder_to_transition_if_you_are_diagnosed/icef4g7/) by Iybraesil in 2022 - *"I did end up getting on HRT in tasmania, but Dr Jason Westwater was quite determined to only talk about my autism in our sessions."*
-* [Services in Tasmania?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/fo28w6/services_in_tasmania/) by FemboyAlt34 in 2020
-* [Advice for mtf emigrating to Tasmania please<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/avsfzy/advice_for_mtf_emigrating_to_tasmania_please/) by eabhalove in 2019
+* reply to [Is it harder to transition if you are diagnosed with autism?](https://www.reddit.com/r/transgenderau/comments/vc5gr8/is_it_harder_to_transition_if_you_are_diagnosed/icef4g7/) by Iybraesil in 2022 - *"I did end up getting on HRT in tasmania, but Dr Jason Westwater was quite determined to only talk about my autism in our sessions."*
+* [Services in Tasmania?](https://www.reddit.com/r/transgenderau/comments/fo28w6/services_in_tasmania/) by FemboyAlt34 in 2020
+* [Advice for mtf emigrating to Tasmania please](https://www.reddit.com/r/transgenderau/comments/avsfzy/advice_for_mtf_emigrating_to_tasmania_please/) by eabhalove in 2019
 
 Other
 
@@ -1751,11 +1751,11 @@ https://www.vicinclusivepractitioners.com - *"This is a list of therapists and h
 
 reddit
 
-* [<18 gender therapists??<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/mfiszb/18_gender_therapists/) by Wureka in 2021
+* [<18 gender therapists??](https://www.reddit.com/r/transgenderau/comments/mfiszb/18_gender_therapists/) by Wureka in 2021
 
 ## Monash
 
-There's more information on Monash on the [HRT page<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md).
+There's more information on Monash on the <span class="internal">[HRT page](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md)</span>.
 
 <br />
 
@@ -1779,7 +1779,7 @@ Sites
 
 reddit
 
-* [To all future transgenders and diverse genders please stay away from Monash Gender Clinic...<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/im9b8e/to_all_future_transgenders_and_diverse_genders/) by Routine_Caregiver527 in 2020
+* [To all future transgenders and diverse genders please stay away from Monash Gender Clinic...](https://www.reddit.com/r/transgenderau/comments/im9b8e/to_all_future_transgenders_and_diverse_genders/) by Routine_Caregiver527 in 2020
 
 <br />
 
@@ -1798,11 +1798,11 @@ Sites
 
 reddit
 
-* [Psychiatrists/Clinical Psychologists who provide SRS Approval - Melbourne<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/shi2dr/psychiatristsclinical_psychologists_who_provide/hv3eal3/) by bazo0ka22 in 2022
-* [Experiences with Your Community Health<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/n4gqph/experiences_with_your_community_health/) by  zhakhlyvyy in 2021
-* [Psych in Melbourne recommendations?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/i1p1rs/psych_in_melbourne_recommendations/) by startrakey in 2020
-* [Considering ordering t online<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/enywpg/considering_ordering_t_online/) by throwitawayiguess_ in 2020
-* [How I got T in just under two weeks.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/enldhv/how_i_got_t_in_just_under_two_weeks/) by TygettLannister in 2020
+* [Psychiatrists/Clinical Psychologists who provide SRS Approval - Melbourne](https://www.reddit.com/r/transgenderau/comments/shi2dr/psychiatristsclinical_psychologists_who_provide/hv3eal3/) by bazo0ka22 in 2022
+* [Experiences with Your Community Health](https://www.reddit.com/r/transgenderau/comments/n4gqph/experiences_with_your_community_health/) by  zhakhlyvyy in 2021
+* [Psych in Melbourne recommendations?](https://www.reddit.com/r/transgenderau/comments/i1p1rs/psych_in_melbourne_recommendations/) by startrakey in 2020
+* [Considering ordering t online](https://www.reddit.com/r/transgenderau/comments/enywpg/considering_ordering_t_online/) by throwitawayiguess_ in 2020
+* [How I got T in just under two weeks.](https://www.reddit.com/r/transgenderau/comments/enldhv/how_i_got_t_in_just_under_two_weeks/) by TygettLannister in 2020
 
 <br />
 
@@ -1823,13 +1823,13 @@ Sites
 
 reddit
 
-* reply to [Any recommendations for Psychologists and Endocrinologists in Melbourne?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qczc7p/any_recommendations_for_psychologists_and/hhj7kl0/) by Herenzu in 2021 - *"Stay away from Beata Geddes if you have poor mental health or an atypical presentation. She doesn't get it."*
-* [Good experience at Centre Clinic, st Kilda (Melbourne). Recommending for others!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/9s7d1m/good_experience_at_centre_clinic_st_kilda/) by ExhaustedOwl around 2019
-* reply to [Psychologists in Melbourne for gender identity? Help!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dqdajw/psychologists_in_melbourne_for_gender_identity/f63m476/) by Niarodelle in 2019
-* [Recommendations for trans competent psychologists in Melbourne?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cobqbo/recommendations_for_trans_competent_psychologists/) by kaimala in 2019
-* [Gender therapists<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/abd542/gender_therapists/) by genderquestion1ng in 2019
-* [Trans Friendly Gender Therapist Recommendations in Melbourne ?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/amdype/trans_friendly_gender_therapist_recommendations/) by alexpistols in 2019
-* reply to [First steps, who should I see? MtF Victoria<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/94cutw/first_steps_who_should_i_see_mtf_victoria/e3k4crr/) by darklordofyu around 2018
+* reply to [Any recommendations for Psychologists and Endocrinologists in Melbourne?](https://www.reddit.com/r/transgenderau/comments/qczc7p/any_recommendations_for_psychologists_and/hhj7kl0/) by Herenzu in 2021 - *"Stay away from Beata Geddes if you have poor mental health or an atypical presentation. She doesn't get it."*
+* [Good experience at Centre Clinic, st Kilda (Melbourne). Recommending for others!](https://www.reddit.com/r/transgenderau/comments/9s7d1m/good_experience_at_centre_clinic_st_kilda/) by ExhaustedOwl around 2019
+* reply to [Psychologists in Melbourne for gender identity? Help!](https://www.reddit.com/r/transgenderau/comments/dqdajw/psychologists_in_melbourne_for_gender_identity/f63m476/) by Niarodelle in 2019
+* [Recommendations for trans competent psychologists in Melbourne?](https://www.reddit.com/r/transgenderau/comments/cobqbo/recommendations_for_trans_competent_psychologists/) by kaimala in 2019
+* [Gender therapists](https://www.reddit.com/r/transgenderau/comments/abd542/gender_therapists/) by genderquestion1ng in 2019
+* [Trans Friendly Gender Therapist Recommendations in Melbourne ?](https://www.reddit.com/r/transgenderau/comments/amdype/trans_friendly_gender_therapist_recommendations/) by alexpistols in 2019
+* reply to [First steps, who should I see? MtF Victoria](https://www.reddit.com/r/transgenderau/comments/94cutw/first_steps_who_should_i_see_mtf_victoria/e3k4crr/) by darklordofyu around 2018
 
 <br />
 
@@ -1849,8 +1849,8 @@ Sites
 
 reddit
 
-* [Recommendations for trans competent psychologists in Melbourne?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cobqbo/recommendations_for_trans_competent_psychologists/) by kaimala in 2019
-* [Advice for mtf emigrating to Tasmania please<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/avsfzy/advice_for_mtf_emigrating_to_tasmania_please/) by eabhalove in 2019
+* [Recommendations for trans competent psychologists in Melbourne?](https://www.reddit.com/r/transgenderau/comments/cobqbo/recommendations_for_trans_competent_psychologists/) by kaimala in 2019
+* [Advice for mtf emigrating to Tasmania please](https://www.reddit.com/r/transgenderau/comments/avsfzy/advice_for_mtf_emigrating_to_tasmania_please/) by eabhalove in 2019
 
 ABC News
 
@@ -1877,11 +1877,11 @@ Sites
 
 reddit
 
-* [APPOINTMENT W/ Ben Callegari... Any experiences?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/arvu1x/appointment_w_ben_callegari_any_experiences/) in 2019
-* [Questions for people who have gone to Northside<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/buc32h/questions_for_people_who_have_gone_to_northside/) by Electricstorm252 in 2019
-* [Hey I’m a non-binary bab in Melbourne, Australia. I just had top surgery- nipple on pedicle procedure with high placing scars with Andy Ives. I put together a YouTube for this kind of surgery cause I can’t find any on YouTube (but plz link me if u can!) I’m also not on T and I’m 14 days post op :) x<sup>R</sup>](https://www.reddit.com/r/NonBinary/comments/7mdxpd/hey_im_a_nonbinary_bab_in_melbourne_australia_i/) by devtie around 2018
-* [Time to get on HRT in Melbourne<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/6henft/time_to_get_on_hrt_in_melbourne/) by Pennylanestroll around 2017
-* [Has anyone seen Ben Callegari?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/3ts4i5/has_anyone_seen_ben_callegari/) by dancing-on-my-own around 2016
+* [APPOINTMENT W/ Ben Callegari... Any experiences?](https://www.reddit.com/r/transgenderau/comments/arvu1x/appointment_w_ben_callegari_any_experiences/) in 2019
+* [Questions for people who have gone to Northside](https://www.reddit.com/r/transgenderau/comments/buc32h/questions_for_people_who_have_gone_to_northside/) by Electricstorm252 in 2019
+* [Hey I’m a non-binary bab in Melbourne, Australia. I just had top surgery- nipple on pedicle procedure with high placing scars with Andy Ives. I put together a YouTube for this kind of surgery cause I can’t find any on YouTube (but plz link me if u can!) I’m also not on T and I’m 14 days post op :) x](https://www.reddit.com/r/NonBinary/comments/7mdxpd/hey_im_a_nonbinary_bab_in_melbourne_australia_i/) by devtie around 2018
+* [Time to get on HRT in Melbourne](https://www.reddit.com/r/transgenderau/comments/6henft/time_to_get_on_hrt_in_melbourne/) by Pennylanestroll around 2017
+* [Has anyone seen Ben Callegari?](https://www.reddit.com/r/transgenderau/comments/3ts4i5/has_anyone_seen_ben_callegari/) by dancing-on-my-own around 2016
 
 <br />
 
@@ -1893,7 +1893,7 @@ Northside Clinic?
 
 reddit
 
-* [Psychologists in Melbourne<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/89034i/psychologists_in_melbourne/) by Ohbalgruuf around 2018
+* [Psychologists in Melbourne](https://www.reddit.com/r/transgenderau/comments/89034i/psychologists_in_melbourne/) by Ohbalgruuf around 2018
 
 <br />
 
@@ -1912,12 +1912,12 @@ Sites
 
 reddit
 
-* [Trans experiences within the Mental Health system!!!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ga5zxw/trans_experiences_within_the_mental_health_system/foyldyq/) by ttywzl
+* [Trans experiences within the Mental Health system!!!](https://www.reddit.com/r/transgenderau/comments/ga5zxw/trans_experiences_within_the_mental_health_system/foyldyq/) by ttywzl
 in 2020
-* [\[Melbourne\] anyone recommend Jonathan Tandos the psych? I am trying to pick a second psych for grs<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e5uyun/melbourne_anyone_recommend_jonathan_tandos_the/) by cosmicrisp in 2019
-* [Psychologists in Melbourne<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/89034i/psychologists_in_melbourne/) by Ohbalgruuf around 2018
-* [Good gender therapists in/around Melbourne?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/6zeg7k/good_gender_therapists_inaround_melbourne/) by ItsTheOtherMeMaybe in 2017
-* [first psychology appointment<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/6b9kr8/first_psychology_appointment/) by Homewarfare around 2017
+* [\[Melbourne\] anyone recommend Jonathan Tandos the psych? I am trying to pick a second psych for grs](https://www.reddit.com/r/transgenderau/comments/e5uyun/melbourne_anyone_recommend_jonathan_tandos_the/) by cosmicrisp in 2019
+* [Psychologists in Melbourne](https://www.reddit.com/r/transgenderau/comments/89034i/psychologists_in_melbourne/) by Ohbalgruuf around 2018
+* [Good gender therapists in/around Melbourne?](https://www.reddit.com/r/transgenderau/comments/6zeg7k/good_gender_therapists_inaround_melbourne/) by ItsTheOtherMeMaybe in 2017
+* [first psychology appointment](https://www.reddit.com/r/transgenderau/comments/6b9kr8/first_psychology_appointment/) by Homewarfare around 2017
 
 Papers
 
@@ -1940,14 +1940,14 @@ Location
 
 reddit
 
-* [Monash Gender Clinic - Melbourne<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/lfx2c9/monash_gender_clinic_melbourne/) by translucentsquidy in 2021
-* [Jaco Erasmus experiences?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/l4gt9f/jaco_erasmus_experiences/) by SohRadon in 2021
-* [Psychologists in Melbourne for gender identity? Help!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dqdajw/psychologists_in_melbourne_for_gender_identity/) by gewdgerty in 2019
-* [An update, filled with terrible news...<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/85x1ol/an_update_filled_with_terrible_news/) by mortiis37 in 2018
-* [Has anyone had any experience with Dr Fintan Harte in Melbourne?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/5z7wd1/has_anyone_had_any_experience_with_dr_fintan/) by PoiGoddess around 2017
-* [Anyone else been through the Monash gender clinic in Melbourne?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/64wnw9/anyone_else_been_through_the_monash_gender_clinic/) by snapcracklesnap around 2017
-* Reply to [Anyone ever used a Thai psychiatrist for GRS approval?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/2uii9d/anyone_ever_used_a_thai_psychiatrist_for_grs/co974hd/) by ZoeyNoseRubs around 2015
-* [Transwomen of Melbourne, how did you start your transition and what specialists did you see?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/20azx6/transwomen_of_melbourne_how_did_you_start_your/) by SoonToBeChanged around 2014
+* [Monash Gender Clinic - Melbourne](https://www.reddit.com/r/transgenderau/comments/lfx2c9/monash_gender_clinic_melbourne/) by translucentsquidy in 2021
+* [Jaco Erasmus experiences?](https://www.reddit.com/r/transgenderau/comments/l4gt9f/jaco_erasmus_experiences/) by SohRadon in 2021
+* [Psychologists in Melbourne for gender identity? Help!](https://www.reddit.com/r/transgenderau/comments/dqdajw/psychologists_in_melbourne_for_gender_identity/) by gewdgerty in 2019
+* [An update, filled with terrible news...](https://www.reddit.com/r/transgenderau/comments/85x1ol/an_update_filled_with_terrible_news/) by mortiis37 in 2018
+* [Has anyone had any experience with Dr Fintan Harte in Melbourne?](https://www.reddit.com/r/transgenderau/comments/5z7wd1/has_anyone_had_any_experience_with_dr_fintan/) by PoiGoddess around 2017
+* [Anyone else been through the Monash gender clinic in Melbourne?](https://www.reddit.com/r/transgenderau/comments/64wnw9/anyone_else_been_through_the_monash_gender_clinic/) by snapcracklesnap around 2017
+* Reply to [Anyone ever used a Thai psychiatrist for GRS approval?](https://www.reddit.com/r/asktransgender/comments/2uii9d/anyone_ever_used_a_thai_psychiatrist_for_grs/co974hd/) by ZoeyNoseRubs around 2015
+* [Transwomen of Melbourne, how did you start your transition and what specialists did you see?](https://www.reddit.com/r/asktransgender/comments/20azx6/transwomen_of_melbourne_how_did_you_start_your/) by SoonToBeChanged around 2014
 
 <br />
 
@@ -1961,7 +1961,7 @@ Location
 
 reddit
 
-* [Has anyone had any experience with Dr Fintan Harte in Melbourne?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/5z7wd1/has_anyone_had_any_experience_with_dr_fintan/) by PoiGoddess around 2017
+* [Has anyone had any experience with Dr Fintan Harte in Melbourne?](https://www.reddit.com/r/transgenderau/comments/5z7wd1/has_anyone_had_any_experience_with_dr_fintan/) by PoiGoddess around 2017
 
 Other
 
@@ -1982,8 +1982,8 @@ Key details
 
 reddit
 
-* [Psych in central vic<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ixqhpk/psych_in_central_vic/) by TealPercentage in 2020
-* [Psych in Melbourne recommendations?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/i1p1rs/psych_in_melbourne_recommendations/) by startrakey in 2020
+* [Psych in central vic](https://www.reddit.com/r/transgenderau/comments/ixqhpk/psych_in_central_vic/) by TealPercentage in 2020
+* [Psych in Melbourne recommendations?](https://www.reddit.com/r/transgenderau/comments/i1p1rs/psych_in_melbourne_recommendations/) by startrakey in 2020
 
 <br />
 
@@ -1999,8 +1999,8 @@ Key details
 
 reddit
 
-* [Dr Alicia Allanson<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/iwah45/dr_alicia_allanson/) by faceinthecrowd112 in 2020
-* [Psych in Melbourne recommendations?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/i1p1rs/psych_in_melbourne_recommendations/) by startrakey in 2020
+* [Dr Alicia Allanson](https://www.reddit.com/r/transgenderau/comments/iwah45/dr_alicia_allanson/) by faceinthecrowd112 in 2020
+* [Psych in Melbourne recommendations?](https://www.reddit.com/r/transgenderau/comments/i1p1rs/psych_in_melbourne_recommendations/) by startrakey in 2020
 
 <br />
 
@@ -2016,7 +2016,7 @@ Key details
 
 reddit
 
-* [Psych in Melbourne recommendations?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/i1p1rs/psych_in_melbourne_recommendations/) by startrakey in 2020
+* [Psych in Melbourne recommendations?](https://www.reddit.com/r/transgenderau/comments/i1p1rs/psych_in_melbourne_recommendations/) by startrakey in 2020
 
 <br />
 
@@ -2061,7 +2061,7 @@ Sites
 
 reddit
 
-* reply to [How long is it to wait to start HRT.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/8e8r5u/how_long_is_it_to_wait_to_start_hrt/dxtivav/) by maido21 around 2019
+* reply to [How long is it to wait to start HRT.](https://www.reddit.com/r/transgenderau/comments/8e8r5u/how_long_is_it_to_wait_to_start_hrt/dxtivav/) by maido21 around 2019
 
 Other links
 
@@ -2109,7 +2109,7 @@ Key details
 
 reddit
 
-* [belinda jude<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/i2uxeo/belinda_jude/) by goblinkidz in 2020
+* [belinda jude](https://www.reddit.com/r/transgenderau/comments/i2uxeo/belinda_jude/) by goblinkidz in 2020
 
 Other links
 
@@ -2129,7 +2129,7 @@ Key details
 
 reddit
 
-* reply to [Finding a therapist/getting started (VIC)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jtz9l5/finding_a_therapistgetting_started_vic/gc8v58o/) by Jessica_-_ in 2020
+* reply to [Finding a therapist/getting started (VIC)](https://www.reddit.com/r/transgenderau/comments/jtz9l5/finding_a_therapistgetting_started_vic/gc8v58o/) by Jessica_-_ in 2020
 
 Other
 
@@ -2149,7 +2149,7 @@ Key details
 
 reddit
 
-* [Trans youth friendly GPs in Geelong<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/7idsbj/trans_youth_friendly_gps_in_geelong/) by memlins around 2018
+* [Trans youth friendly GPs in Geelong](https://www.reddit.com/r/transgenderau/comments/7idsbj/trans_youth_friendly_gps_in_geelong/) by memlins around 2018
 
 <br />
 
@@ -2165,7 +2165,7 @@ Key details
 
 reddit
 
-* reply to [Any recommendations for Psychologists and Endocrinologists in Melbourne?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qczc7p/any_recommendations_for_psychologists_and/hhkgqqp/) by ServeAlone in 2021
+* reply to [Any recommendations for Psychologists and Endocrinologists in Melbourne?](https://www.reddit.com/r/transgenderau/comments/qczc7p/any_recommendations_for_psychologists_and/hhkgqqp/) by ServeAlone in 2021
 
 <br />
 
@@ -2181,7 +2181,7 @@ Key details
 
 reddit
 
-* [Transphobic & misogynistic psychiatrist @ Albert Road Clinic<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/rx9y0t/transphobic_misogynistic_psychiatrist_albert_road/) by insect-enthusiast29 in 2021
+* [Transphobic & misogynistic psychiatrist @ Albert Road Clinic](https://www.reddit.com/r/transgenderau/comments/rx9y0t/transphobic_misogynistic_psychiatrist_albert_road/) by insect-enthusiast29 in 2021
 
 Other
 
@@ -2202,7 +2202,7 @@ Key details
 
 reddit
 
-* reply to [Anyone know any good counsellors in Melbourne?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zpm6pw/anyone_know_any_good_counsellors_in_melbourne/j0tq5u4/) by TangibleNuisance in 2022 - *"... highly recommend!"*
+* reply to [Anyone know any good counsellors in Melbourne?](https://www.reddit.com/r/transgenderau/comments/zpm6pw/anyone_know_any_good_counsellors_in_melbourne/j0tq5u4/) by TangibleNuisance in 2022 - *"... highly recommend!"*
 
 <br />
 
@@ -2218,7 +2218,7 @@ Key details
 
 reddit
 
-* reply to [Anyone know any good counsellors in Melbourne?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zpm6pw/anyone_know_any_good_counsellors_in_melbourne/j0tlj91/) by Designer_Lead_8696 in 2022
+* reply to [Anyone know any good counsellors in Melbourne?](https://www.reddit.com/r/transgenderau/comments/zpm6pw/anyone_know_any_good_counsellors_in_melbourne/j0tlj91/) by Designer_Lead_8696 in 2022
 
 <br />
 
@@ -2275,7 +2275,7 @@ Key details
 
 reddit
 
-* [Any good gender therapists in Perth?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/7abhfr/any_good_gender_therapists_in_perth/) by ggzoidberg in 2018
+* [Any good gender therapists in Perth?](https://www.reddit.com/r/transgenderau/comments/7abhfr/any_good_gender_therapists_in_perth/) by ggzoidberg in 2018
 
 <br />
 
@@ -2382,7 +2382,7 @@ Sites
 
 reddit
 
-* reply to [Bad Perth Therapist<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/fsunwv2/) by newuseronhere in 2020
+* reply to [Bad Perth Therapist](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/fsunwv2/) by newuseronhere in 2020
 
 <br />
 
@@ -2422,7 +2422,7 @@ Key details
 
 reddit
 
-* reply to [Bad Perth Therapist<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/fsunwv2/) by newuseronhere in 2020
+* reply to [Bad Perth Therapist](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/fsunwv2/) by newuseronhere in 2020
 
 <br />
 
@@ -2435,7 +2435,7 @@ Location
 
 reddit
 
-* [Terrible experience with Dr Raileen Merlino (Perth)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/id8mus/terrible_experience_with_dr_raileen_merlino_perth/) by wren4777 in 2020
+* [Terrible experience with Dr Raileen Merlino (Perth)](https://www.reddit.com/r/transgenderau/comments/id8mus/terrible_experience_with_dr_raileen_merlino_perth/) by wren4777 in 2020
 
 Other
 
@@ -2503,7 +2503,7 @@ Key details
 
 reddit
 
-* [Trans experiences within the Mental Health system!!!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ga5zxw/trans_experiences_within_the_mental_health_system/foyldyq/) by ttywzl
+* [Trans experiences within the Mental Health system!!!](https://www.reddit.com/r/transgenderau/comments/ga5zxw/trans_experiences_within_the_mental_health_system/foyldyq/) by ttywzl
 in 2020
 
 <br />
@@ -2519,7 +2519,7 @@ Key details
 
 reddit
 
-* [Bad Perth Therapist<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/) in 2020
+* [Bad Perth Therapist](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/) in 2020
 
 <br />
 
@@ -2531,7 +2531,7 @@ Key details
 
 reddit
 
-* [Bad Perth Therapist<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/) in 2020
+* [Bad Perth Therapist](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/) in 2020
 
 <br />
 
@@ -2544,7 +2544,7 @@ Key details
 
 reddit
 
-* reply to [Bad Perth Therapist<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/fsuq293/) by dylan-pickle in 2020
+* reply to [Bad Perth Therapist](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/fsuq293/) by dylan-pickle in 2020
 
 <br />
 
@@ -2558,11 +2558,11 @@ Key details
 
 reddit
 
-* reply to [Terrible experience with Dr Raileen Merlino (Perth)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/id8mus/terrible_experience_with_dr_raileen_merlino_perth/g2a6egs/) by bipolarSamanth0r in 2020
-* reply to [Bad Perth Therapist<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/fsusboh/) by bipolarSamanth0r in 2020
-* [Anyone been to Vanessa Watson in Subiaco<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cdpc9l/anyone_been_to_vanessa_watson_in_subiaco/) by newuseronhere in 2019
-* [Any good gender therapists in Perth?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/7abhfr/any_good_gender_therapists_in_perth/) by ggzoidberg in 2018
-* reply to [Can anyone recommend a doctor in Perth to go to for depression?<sup>R</sup>](https://www.reddit.com/r/perth/comments/5sekks/can_anyone_recommend_a_doctor_in_perth_to_go_to/ddfeq2i/) by blackcats666 in 2017 - this is not trans related
+* reply to [Terrible experience with Dr Raileen Merlino (Perth)](https://www.reddit.com/r/transgenderau/comments/id8mus/terrible_experience_with_dr_raileen_merlino_perth/g2a6egs/) by bipolarSamanth0r in 2020
+* reply to [Bad Perth Therapist](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/fsusboh/) by bipolarSamanth0r in 2020
+* [Anyone been to Vanessa Watson in Subiaco](https://www.reddit.com/r/transgenderau/comments/cdpc9l/anyone_been_to_vanessa_watson_in_subiaco/) by newuseronhere in 2019
+* [Any good gender therapists in Perth?](https://www.reddit.com/r/transgenderau/comments/7abhfr/any_good_gender_therapists_in_perth/) by ggzoidberg in 2018
+* reply to [Can anyone recommend a doctor in Perth to go to for depression?](https://www.reddit.com/r/perth/comments/5sekks/can_anyone_recommend_a_doctor_in_perth_to_go_to/ddfeq2i/) by blackcats666 in 2017 - this is not trans related
 
 <br />
 
@@ -2575,8 +2575,8 @@ Key details
 
 reddit
 
-* reply to [Terrible experience with Dr Raileen Merlino (Perth)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/id8mus/terrible_experience_with_dr_raileen_merlino_perth/g2bee2u/) by SalemWishes in 2020
-* reply to [Bad Perth Therapist<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/fsuztuj/) by gososer in 2020
+* reply to [Terrible experience with Dr Raileen Merlino (Perth)](https://www.reddit.com/r/transgenderau/comments/id8mus/terrible_experience_with_dr_raileen_merlino_perth/g2bee2u/) by SalemWishes in 2020
+* reply to [Bad Perth Therapist](https://www.reddit.com/r/transgenderau/comments/gwer19/bad_perth_therapist/fsuztuj/) by gososer in 2020
 
 <br />
 
@@ -2602,7 +2602,7 @@ Key details
 
 reddit
 
-* [Terrible experience with Dr Raileen Merlino (Perth)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/id8mus/terrible_experience_with_dr_raileen_merlino_perth/) by wren4777 in 2020
+* [Terrible experience with Dr Raileen Merlino (Perth)](https://www.reddit.com/r/transgenderau/comments/id8mus/terrible_experience_with_dr_raileen_merlino_perth/) by wren4777 in 2020
 
 <br />
 
@@ -2628,7 +2628,7 @@ Key details
 
 reddit
 
-* [(Perth psychologist recommendation) Dr Shenooka Nanthakumar<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ngr7tn/perth_psychologist_recommendation_dr_shenooka/) by Iranaway14 in 2021
+* [(Perth psychologist recommendation) Dr Shenooka Nanthakumar](https://www.reddit.com/r/transgenderau/comments/ngr7tn/perth_psychologist_recommendation_dr_shenooka/) by Iranaway14 in 2021
 
 <br />
 
@@ -2641,7 +2641,7 @@ Key details
 
 reddit
 
-* [Trans experiences within the Mental Health system!!!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ga5zxw/trans_experiences_within_the_mental_health_system/foyldyq/) by ttywzl
+* [Trans experiences within the Mental Health system!!!](https://www.reddit.com/r/transgenderau/comments/ga5zxw/trans_experiences_within_the_mental_health_system/foyldyq/) by ttywzl
 in 2020
 
 <br />
@@ -2656,7 +2656,7 @@ Key details
 
 reddit
 
-* reply to [do i have to worry about "conversion therapy"?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/xh56pp/do_i_have_to_worry_about_conversion_therapy/iovxgj8/) by owonekowo - *"My mum isn’t religiously but she is very conservative(?) I guess? She found this psychologist and he was the most damaging psychologist I ever had the unpleasant experience of meeting. I was barely 18 and he basically convinced me to discuss my sexual fantasies with him even though I was uncomfortable with this. He told me, “you should be seeing yourself in the female position” in sex fantasies. He’d have this creepy smirk on his face when he would listen to me… he complimented me on how feminine I looked (after I expressed suicidal tendencies and begged to me voluntarily admitted to a psych ward as I was worried I’d take my own life, he looked at me as if “oh man, that’s too much paperwork” and told me, “hang in there”) and he was confused when I got upset. Mum thought YT was “good for me” because of the fact I’d be inconsolably crying under my computer desk after the sessions, she thought it meant “he was getting to the root of the issue” instead of just “agreeing with me and giving me what I want.” Parents just don’t get it. I dropped him after that."*
+* reply to [do i have to worry about "conversion therapy"?](https://www.reddit.com/r/transgenderau/comments/xh56pp/do_i_have_to_worry_about_conversion_therapy/iovxgj8/) by owonekowo - *"My mum isn’t religiously but she is very conservative(?) I guess? She found this psychologist and he was the most damaging psychologist I ever had the unpleasant experience of meeting. I was barely 18 and he basically convinced me to discuss my sexual fantasies with him even though I was uncomfortable with this. He told me, “you should be seeing yourself in the female position” in sex fantasies. He’d have this creepy smirk on his face when he would listen to me… he complimented me on how feminine I looked (after I expressed suicidal tendencies and begged to me voluntarily admitted to a psych ward as I was worried I’d take my own life, he looked at me as if “oh man, that’s too much paperwork” and told me, “hang in there”) and he was confused when I got upset. Mum thought YT was “good for me” because of the fact I’d be inconsolably crying under my computer desk after the sessions, she thought it meant “he was getting to the root of the issue” instead of just “agreeing with me and giving me what I want.” Parents just don’t get it. I dropped him after that."*
 
 <br />
 
@@ -2671,7 +2671,7 @@ Key details
 
 reddit
 
-* reply to [do i have to worry about "conversion therapy"?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/xh56pp/do_i_have_to_worry_about_conversion_therapy/iovxgj8/) by owonekowo - *"When I was 20, I found a psychiatrist who pushed the narrative that “brain studies show the decision-making part of the brain doesn’t mature until 25, so therefore I am not comfortable signing you off on medically transitioning”... She instead decided to treat my “symptoms” of gender dysphoria as if it were depression and prescribed me anti-depressants... I decided to take the anti-depressants anyway to see if they’d work and it was horrible, if anything, it made my suicidal ideation even worse."*
+* reply to [do i have to worry about "conversion therapy"?](https://www.reddit.com/r/transgenderau/comments/xh56pp/do_i_have_to_worry_about_conversion_therapy/iovxgj8/) by owonekowo - *"When I was 20, I found a psychiatrist who pushed the narrative that “brain studies show the decision-making part of the brain doesn’t mature until 25, so therefore I am not comfortable signing you off on medically transitioning”... She instead decided to treat my “symptoms” of gender dysphoria as if it were depression and prescribed me anti-depressants... I decided to take the anti-depressants anyway to see if they’d work and it was horrible, if anything, it made my suicidal ideation even worse."*
 
 The Australian
 
@@ -2683,7 +2683,7 @@ The Australian
 
 reddit
 
-* [Trans experiences within the Mental Health system!!!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ga5zxw/trans_experiences_within_the_mental_health_system/foyldyq/) by ttywzl
+* [Trans experiences within the Mental Health system!!!](https://www.reddit.com/r/transgenderau/comments/ga5zxw/trans_experiences_within_the_mental_health_system/foyldyq/) by ttywzl
 in 2020
 
 Review sites
@@ -2696,7 +2696,7 @@ Review sites
 
 reddit
 
-* [Question about 'Sandra Basham' and 'Hot Potatoes Concultancy'<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/y0a2j9/question_about_sandra_basham_and_hot_potatoes/) by Skhgdyktg in 2022
+* [Question about 'Sandra Basham' and 'Hot Potatoes Concultancy'](https://www.reddit.com/r/transgenderau/comments/y0a2j9/question_about_sandra_basham_and_hot_potatoes/) by Skhgdyktg in 2022
 
 <br />
 
@@ -2709,10 +2709,10 @@ Key details
 
 reddit
 
-* reply to [Places to start HRT in Perth?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/xokzd1/places_to_start_hrt_in_perth/iq1yk8x/) by LeUpboatLeFedora in 2022 - *"Whatever you do avoid Emma Briggs as, despite a few places listing her as a trans ally, she tried to diagnose me with autogynephilia and asked me to get 3 psychologist referrals (who then said they can't tell me who I am, understandably)"*
+* reply to [Places to start HRT in Perth?](https://www.reddit.com/r/transgenderau/comments/xokzd1/places_to_start_hrt_in_perth/iq1yk8x/) by LeUpboatLeFedora in 2022 - *"Whatever you do avoid Emma Briggs as, despite a few places listing her as a trans ally, she tried to diagnose me with autogynephilia and asked me to get 3 psychologist referrals (who then said they can't tell me who I am, understandably)"*
 
 https://www.ratemds.com/doctor-ratings/dr-emma-briggs-perth-wau-au - *"Emma Briggs is suggested as a trans ally however when I saw her 4 years ago she permanently delayed my transition through a year of "maybe next appointment"ing me, made me come out to my family before I was ready, repeatedly insisted that I present female full-time before I was comfortable - all before revealing that she still operates off the outdated method of needing multiple psychologist referrals before she'd pass me onto a endocrinologist. Luckily since I've found a better psychiatrist and am fully comfortable with who I am and am living a much happier life. I just wish I never bothered spending so much money and time seeing Emma."* in 2021
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**

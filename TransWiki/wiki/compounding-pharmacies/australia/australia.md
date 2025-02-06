@@ -1,6 +1,6 @@
 **Compounding Pharmacies in Australia**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
@@ -38,7 +38,7 @@ People often say one supplier is better than another, but I think its usually du
 
 All Australian made implants made by compressing a powder in a press/die. Since Organon left in 2011 there are none that use the heat fused technique (unfortunatly). The powder is pure estradiol, and there may be a small percentage of an excipient used to help in the manufacture (I think its only stearic in Australia). I don't believe the excipient makes any noticable difference in use.
 
-The doctor will need a trocar to insert the pellets, and there are some suppliers listed [here<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md#trocars).
+The doctor will need a trocar to insert the pellets, and there are some suppliers listed <span class="internal">[here](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implants/implants.md#trocars)</span>.
 
 There's a limited number of doctors in Australia who will do implants (look in the Dr page of this wiki). Assuming you can find one, they also vary in what dose and levels they are prepared to offer. In Sydney its mostly a maximum of 100mg. I've heard of a few women getting 200mg (2x100mg), but if very difficult to access these days. I started on 200mg many years ago, and the first set last 6 months. As is normal subsequent implants lasted longer, 9 months in my case, except for two occasions of 15 months. I suspect the increase was due to weight loss, but its hard to be sure.  You should be getting new implants when your levels drop to a specific level, which for my doctor was around 800 or 900 pmol/L. Some doctors won't do new implants until 400 pmol/L, which causes seriously negative effects for some women (me), and personally I'd avoid them. As the lifetime of my implants is mostly the same and I can feel when I need new ones I try to do a single blood test when I think I new need ones, and it usually works. I ask for multiple test scripts from the doctor and a copy of the test results sent to my home so I can do a few tests if necessary and without wasting my time going back to the doctor, but some doctors refuse - I assume they want the money from pointless visits and I avoid unethical doctors, plus I dislike wasting my time, so I avoid them also. Scripts only last a year, so that may not work anyway if your implants last longer than that. There's a lot of new doctors doing implants asking for regular blood tests - as far as I'm concerned this is for their benifit not mine and as I don't like needles I refuse.
 
@@ -46,8 +46,8 @@ There's a limited number of doctors in Australia who will do implants (look in t
 
 **Related wiki pages**
 
-* [HRT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md)
-* [Implants<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md)
+* <span class="internal">[HRT](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/hrt.md)</span>
+* <span class="internal">[Implants](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implants/implants.md)</span>
 
 **Suppliers**
 
@@ -84,8 +84,8 @@ Injections are available in Australia from compounding pharmacies, but *very* fe
 
 Related wiki pages
 
-* [HRT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md)
-* [Injections<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/injections/injections.md)
+* <span class="internal">[HRT](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/hrt.md)</span>
+* <span class="internal">[Injections](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/injections/injections.md)</span>
 
 ## Vitamin D3
 
@@ -132,7 +132,7 @@ Implant Cost
 * 100mg are ~~$95~~ $100each, postage ~~$12.50~~ $19 express with insurance (ie $219 for 200mg). They take about 3 days, 2 of which are testing. There's a form on their website you fill in to place the order (with a scan of prescription), post the original prescption to them, then they call you to confirm.
 * There are no larger implants. If you get 150mg or 200mg it's comprised of multiple smaller implants.
 
-CCS can make both 3mm and 4.5mm (ie 5mm) implants. The reason for either size are discussed in [Implant Technology<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implant-technology/implant-technology.md). As of 2020 their manufacturing process has not changed in years.
+CCS can make both 3mm and 4.5mm (ie 5mm) implants. The reason for either size are discussed in <span class="internal">[Implant Technology](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implant-technology/implant-technology.md)</span>. As of 2020 their manufacturing process has not changed in years.
 
 **Estrogen Injections**
 
@@ -146,7 +146,7 @@ Estradiol Valerate needs to be injected quite frequently and while there other t
 
 **Testosterone Implants**
 
-I don't know much about this, but [Dr Hayes<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md) used 50mg on occasion.
+I don't know much about this, but <span class="internal">[Dr Hayes](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md)</span> used 50mg on occasion.
 
 **Testosterone Injections**
 
@@ -176,7 +176,7 @@ Key details
 
 **Implants**
 
-Stenlake are known for producing 4.5mm implants, but I believe they can also make 3mm implants. The reason for either size are discussed in [Implant Technology<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implant-technology/implant-technology.md).
+Stenlake are known for producing 4.5mm implants, but I believe they can also make 3mm implants. The reason for either size are discussed in <span class="internal">[Implant Technology](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implant-technology/implant-technology.md)</span>.
 
 50mg implants are $126 each, 100mg implants are $131 each, postage is $10.95 or you can pick them up yourself in Bondi/Sydney.
 
@@ -186,11 +186,11 @@ From April-May 2021 Stenlake were not able to supply implants as their manufactu
 
 reddit
 
-* [Stenlake no longer do injectables<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zwsr0h/stenlake_no_longer_do_injectables/) by CafeCodeBunny in 2022
-* [Review of picking up Estradiol Pellet Implants from Stenlake at Bondi Junction in Person<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/t1kkuw/review_of_picking_up_estradiol_pellet_implants/) by Laura_271 in 2022
-* [Update on oestrogen pellets from Stenlake Pharmacy<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/n5wqbc/update_on_oestrogen_pellets_from_stenlake_pharmacy/) by ashleighthepeach in 2021
-* [Stenlake no longer produces oestrogen pellets anymore<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/n0dbjg/stenlake_no_longer_produces_oestrogen_pellets/)
-* [Oestrogen Estradiol IM Injection<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/8jjmvz/oestrogen_estradiol_im_injection/) by madame_lulu around 2018 - note she doesn't say Stenlake, but they are in Bondi and do have a 1 day expiry date.
+* [Stenlake no longer do injectables](https://www.reddit.com/r/transgenderau/comments/zwsr0h/stenlake_no_longer_do_injectables/) by CafeCodeBunny in 2022
+* [Review of picking up Estradiol Pellet Implants from Stenlake at Bondi Junction in Person](https://www.reddit.com/r/transgenderau/comments/t1kkuw/review_of_picking_up_estradiol_pellet_implants/) by Laura_271 in 2022
+* [Update on oestrogen pellets from Stenlake Pharmacy](https://www.reddit.com/r/transgenderau/comments/n5wqbc/update_on_oestrogen_pellets_from_stenlake_pharmacy/) by ashleighthepeach in 2021
+* [Stenlake no longer produces oestrogen pellets anymore](https://www.reddit.com/r/transgenderau/comments/n0dbjg/stenlake_no_longer_produces_oestrogen_pellets/)
+* [Oestrogen Estradiol IM Injection](https://www.reddit.com/r/transgenderau/comments/8jjmvz/oestrogen_estradiol_im_injection/) by madame_lulu around 2018 - note she doesn't say Stenlake, but they are in Bondi and do have a 1 day expiry date.
 
 <br />
 
@@ -205,9 +205,9 @@ Key details
 
 reddit
 
-* [Bicalutimide in Australia as an AA<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/em6yin/bicalutimide_in_australia_as_an_aa/) by amy-simmons in 2020
-* reply to [Getting a method closer to Dr Powers' in Brisbane, Australia<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/dqmgzy/getting_a_method_closer_to_dr_powers_in_brisbane/f6aavpe/) by Abath-her in 2019
-* reply to [Oestrogen Estradiol IM Injection<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/8jjmvz/oestrogen_estradiol_im_injection/dz09na3/) by madame_lulu around 2018 - *"I also contacted Custom Care Compounding In Dural and they said they could make injections."*
+* [Bicalutimide in Australia as an AA](https://www.reddit.com/r/transgenderau/comments/em6yin/bicalutimide_in_australia_as_an_aa/) by amy-simmons in 2020
+* reply to [Getting a method closer to Dr Powers' in Brisbane, Australia](https://www.reddit.com/r/DrWillPowers/comments/dqmgzy/getting_a_method_closer_to_dr_powers_in_brisbane/f6aavpe/) by Abath-her in 2019
+* reply to [Oestrogen Estradiol IM Injection](https://www.reddit.com/r/transgenderau/comments/8jjmvz/oestrogen_estradiol_im_injection/dz09na3/) by madame_lulu around 2018 - *"I also contacted Custom Care Compounding In Dural and they said they could make injections."*
 
 <br />
 
@@ -222,7 +222,7 @@ Key details
 
 reddit
 
-* [Progesterone<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qy0b29/progesterone/hlg0i0o/) by Allysond2000 in 2021 - *"$115.50 for 200 capsules"*
+* [Progesterone](https://www.reddit.com/r/transgenderau/comments/qy0b29/progesterone/hlg0i0o/) by Allysond2000 in 2021 - *"$115.50 for 200 capsules"*
 
 <br />
 
@@ -243,8 +243,8 @@ NUGen do not (and cannot) supply implants.
 
 reddit
 
-* [Nugen Pharmacy<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/oj3x2p/nugen_pharmacy/) by Deannetg in 2021
-* [NUGEN and Progesterone<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/mhoyxa/nugen_and_progesterone/) by concenations in 2021
+* [Nugen Pharmacy](https://www.reddit.com/r/transgenderau/comments/oj3x2p/nugen_pharmacy/) by Deannetg in 2021
+* [NUGEN and Progesterone](https://www.reddit.com/r/transgenderau/comments/mhoyxa/nugen_and_progesterone/) by concenations in 2021
 
 <br />
 
@@ -274,7 +274,7 @@ Strong topical anesthetics
 
 reddit
 
-* reply to [Obtaining oesatradiol pellet<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/p59ex1/obtaining_oesatradiol_pellet/h98n3hw/) by Taracia in 2021
+* reply to [Obtaining oesatradiol pellet](https://www.reddit.com/r/transgenderau/comments/p59ex1/obtaining_oesatradiol_pellet/h98n3hw/) by Taracia in 2021
 
 <br />
 
@@ -288,7 +288,7 @@ Key details
 
 reddit
 
-* [Progesterone<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qy0b29/progesterone/) by No-Sherbert5979 in 2021 - *"It looks like SuperPharmacy is selling one hundred 200mg Progesterone capsules for $70"*
+* [Progesterone](https://www.reddit.com/r/transgenderau/comments/qy0b29/progesterone/) by No-Sherbert5979 in 2021 - *"It looks like SuperPharmacy is selling one hundred 200mg Progesterone capsules for $70"*
 
 <br />
 
@@ -305,7 +305,7 @@ Key details
 
 reddit
 
-* [New option for compounded HRT<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/oipzgd/new_option_for_compounded_hrt/) by ashleyevolves in 2021
+* [New option for compounded HRT](https://www.reddit.com/r/transgenderau/comments/oipzgd/new_option_for_compounded_hrt/) by ashleyevolves in 2021
 
 ## Your Solution Compounding Pharmacy
 
@@ -317,7 +317,7 @@ Key details
 
 reddit
 
-* reply to [compounding pharmacy<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/xcbql0/compounding_pharmacy/io6c5ws/) by Sathari3l17 in 2022
+* reply to [compounding pharmacy](https://www.reddit.com/r/transgenderau/comments/xcbql0/compounding_pharmacy/io6c5ws/) by Sathari3l17 in 2022
 
 Other links
 
@@ -353,9 +353,9 @@ Implant Cost
 
 reddit
 
-* [Stenlake no longer do injectables<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/zwsr0h/stenlake_no_longer_do_injectables/) by CafeCodeBunny in 2022
-* reply to [Between Melbourne, Brisbane and Sydney where is the best option for me to move being trans and all?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ecmuc4/between_melbourne_brisbane_and_sydney_where_is/fbd3vgs/) by dana2185 in 2019
-* [Estrogen Pellet/Implant in Melbourne?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/97mgre/estrogen_pelletimplant_in_melbourne/) by pingarella around 2018
+* [Stenlake no longer do injectables](https://www.reddit.com/r/transgenderau/comments/zwsr0h/stenlake_no_longer_do_injectables/) by CafeCodeBunny in 2022
+* reply to [Between Melbourne, Brisbane and Sydney where is the best option for me to move being trans and all?](https://www.reddit.com/r/transgenderau/comments/ecmuc4/between_melbourne_brisbane_and_sydney_where_is/fbd3vgs/) by dana2185 in 2019
+* [Estrogen Pellet/Implant in Melbourne?](https://www.reddit.com/r/transgenderau/comments/97mgre/estrogen_pelletimplant_in_melbourne/) by pingarella around 2018
 
 ---
 
@@ -377,7 +377,7 @@ Key details
 
 reddit
 
-* [Hair reGrowth Serum<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/vwc6sn/hair_regrowth_serum/) by TammyJess in 2022 - *"I've finally have a doctor happy to prescribe the v5.1 HairGrowth serum, and got a script filled! The compounding pharmacy here had trouble with the 8% Minoxidil, it was not fully dissolving, or was precipitating out (may be a winter-related temperature thing?) .. ventually they had success with replacing the Ethyl Alcohol with Benzyl Alcohol, and dropping the Minoxidil down to 7%... LifeCare Compounding Pharmacy down in Cranbourne. I did the initial dropping off of the script over the counter, and talked them through the background of the 'recipe'. They were happy to ExpressPost the bottle ... so I expect, now they've made it up once, that subsequent orders will be easier for them (and all of us!)"*
+* [Hair reGrowth Serum](https://www.reddit.com/r/DrWillPowers/comments/vwc6sn/hair_regrowth_serum/) by TammyJess in 2022 - *"I've finally have a doctor happy to prescribe the v5.1 HairGrowth serum, and got a script filled! The compounding pharmacy here had trouble with the 8% Minoxidil, it was not fully dissolving, or was precipitating out (may be a winter-related temperature thing?) .. ventually they had success with replacing the Ethyl Alcohol with Benzyl Alcohol, and dropping the Minoxidil down to 7%... LifeCare Compounding Pharmacy down in Cranbourne. I did the initial dropping off of the script over the counter, and talked them through the background of the 'recipe'. They were happy to ExpressPost the bottle ... so I expect, now they've made it up once, that subsequent orders will be easier for them (and all of us!)"*
 
 ## Biological Therapies
 
@@ -409,7 +409,7 @@ Imports implants from the UK.
 
 reddit
 
-* reply to [Injections in Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/9qvsyr/injections_in_australia/e8isi5b/)
+* reply to [Injections in Australia](https://www.reddit.com/r/transgenderau/comments/9qvsyr/injections_in_australia/e8isi5b/)
 
 ---
 
@@ -424,7 +424,7 @@ Does injections. $85 for 4ml of 20mg/ml Estradiol Valerate (EV). Can also compou
 
 reddit
 
-* [Is anyone else in Australia on Estradiol Cypionate injections? Which compounding pharmacy do you use? My supplier has been out of stock since March, down to my last vial<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ilngio/is_anyone_else_in_australia_on_estradiol/) by odessav in 2020
+* [Is anyone else in Australia on Estradiol Cypionate injections? Which compounding pharmacy do you use? My supplier has been out of stock since March, down to my last vial](https://www.reddit.com/r/transgenderau/comments/ilngio/is_anyone_else_in_australia_on_estradiol/) by odessav in 2020
 
 ---
 
@@ -440,8 +440,8 @@ Key details
 
 reddit
 
-* reply to [Switching to injections<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/eivd89/switching_to_injections/ff2eyed/?context=3) by AdrianeXX in 2020
+* reply to [Switching to injections](https://www.reddit.com/r/transgenderau/comments/eivd89/switching_to_injections/ff2eyed/?context=3) by AdrianeXX in 2020
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**

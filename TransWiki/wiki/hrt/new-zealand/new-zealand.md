@@ -1,16 +1,16 @@
 **HRT in New Zealand**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
 reddit
 
-* [r/TransgenderNZ<sup>R</sup>](https://www.reddit.com/r/TransgenderNZ)
-* [Starting T in Christchurch<sup>R</sup>](https://www.reddit.com/r/TransgenderNZ/comments/ptlhud/starting_t_in_christchurch/) by qquig in 2021
-* [Disheartened by Wellington Endocrinology department (rant, and in need of advice)<sup>R</sup>](https://www.reddit.com/r/TransgenderNZ/comments/pcilg1/disheartened_by_wellington_endocrinology/) by noot_noot_s in 2021
-* [Not a question, this is a write-up for any trans girls living in Auckland, New Zealand since when I was looking online last year I couldn't find any info<sup>R</sup>](https://www.reddit.com/r/AskMtFHRT/comments/f3mqh2/not_a_question_this_is_a_writeup_for_any_trans/) by slogancontagion in 2020
-* [Anyone DIY'd in New Zealand?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/f4i0yc/anyone_diyd_in_new_zealand/) by NZDIY_throwaway in 2020
+* [r/TransgenderNZ](https://www.reddit.com/r/TransgenderNZ)
+* [Starting T in Christchurch](https://www.reddit.com/r/TransgenderNZ/comments/ptlhud/starting_t_in_christchurch/) by qquig in 2021
+* [Disheartened by Wellington Endocrinology department (rant, and in need of advice)](https://www.reddit.com/r/TransgenderNZ/comments/pcilg1/disheartened_by_wellington_endocrinology/) by noot_noot_s in 2021
+* [Not a question, this is a write-up for any trans girls living in Auckland, New Zealand since when I was looking online last year I couldn't find any info](https://www.reddit.com/r/AskMtFHRT/comments/f3mqh2/not_a_question_this_is_a_writeup_for_any_trans/) by slogancontagion in 2020
+* [Anyone DIY'd in New Zealand?](https://www.reddit.com/r/TransDIY/comments/f4i0yc/anyone_diyd_in_new_zealand/) by NZDIY_throwaway in 2020
 
 **Injections**
 
@@ -18,7 +18,7 @@ reddit
 
 **Pellets/Implants**
 
-* [https://www.reddit.com/r/TransWiki/wiki/hrt/implants#wiki_new_zealand<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md#new-zealand)
+* <span class="internal">[https://www.reddit.com/r/TransWiki/wiki/hrt/implants#wiki_new_zealand](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implants/implants.md#new-zealand)</span>
 
 **Visiting New Zealand from Overseas**
 
@@ -26,7 +26,7 @@ reddit
 
 reddit
 
-* [Questions about medication availability for trans person with unusual hormone regimen considering coming to NZ for a job.<sup>R</sup>](https://www.reddit.com/r/TransgenderNZ/comments/hrg82t/questions_about_medication_availability_for_trans/) by ExcellentTraffic123 in 2020
+* [Questions about medication availability for trans person with unusual hormone regimen considering coming to NZ for a job.](https://www.reddit.com/r/TransgenderNZ/comments/hrg82t/questions_about_medication_availability_for_trans/) by ExcellentTraffic123 in 2020
 
 **field guide to being a transwoman in aotearoa** by [Madeleine Ostoja](https://madeleineostoja.com/about)
 
@@ -107,12 +107,12 @@ http://www.tranzform.org.nz/
 
 reddit
 
-* [HRT insurance?????<sup>R</sup>](https://www.reddit.com/r/TransgenderNZ/comments/pud1w7/hrt_insurance/) by qquig in 2021
-* [Delestrogen 10mg/5mL<sup>R</sup>](https://www.reddit.com/r/TransgenderNZ/comments/orso6z/delestrogen_10mg5ml/) by e_M_M9 in 2021
-* [Wondering about people's experiences with Endocrinologists in NZ, especially relating to their knowledge and expertise?<sup>R</sup>](https://www.reddit.com/r/TransgenderNZ/comments/oola5n/wondering_about_peoples_experiences_with/) by e_M_M9 in 2021
-* [got my injections prescription for optimus, does this look sound?<sup>R</sup>](https://www.reddit.com/r/TransgenderNZ/comments/obbc5b/got_my_injections_prescription_for_optimus_does/) by leann-crimes in 2021
-* [HRT Auckland<sup>R</sup>](https://www.reddit.com/r/TransgenderNZ/comments/nrrh15/hrt_auckland/) by kieraDavidson in 2021
-* [Injections / Estradiol Oil<sup>R</sup>](https://www.reddit.com/r/TransgenderNZ/comments/hmsz3i/injections_estradiol_oil/) by HeyCakes in 2020
+* [HRT insurance?????](https://www.reddit.com/r/TransgenderNZ/comments/pud1w7/hrt_insurance/) by qquig in 2021
+* [Delestrogen 10mg/5mL](https://www.reddit.com/r/TransgenderNZ/comments/orso6z/delestrogen_10mg5ml/) by e_M_M9 in 2021
+* [Wondering about people's experiences with Endocrinologists in NZ, especially relating to their knowledge and expertise?](https://www.reddit.com/r/TransgenderNZ/comments/oola5n/wondering_about_peoples_experiences_with/) by e_M_M9 in 2021
+* [got my injections prescription for optimus, does this look sound?](https://www.reddit.com/r/TransgenderNZ/comments/obbc5b/got_my_injections_prescription_for_optimus_does/) by leann-crimes in 2021
+* [HRT Auckland](https://www.reddit.com/r/TransgenderNZ/comments/nrrh15/hrt_auckland/) by kieraDavidson in 2021
+* [Injections / Estradiol Oil](https://www.reddit.com/r/TransgenderNZ/comments/hmsz3i/injections_estradiol_oil/) by HeyCakes in 2020
 
 <br />
 
@@ -127,4 +127,4 @@ Facebook
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**

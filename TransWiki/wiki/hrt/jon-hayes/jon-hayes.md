@@ -1,6 +1,6 @@
 **Dr Jonathan Hayes**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
@@ -12,8 +12,8 @@ Facebook is the primary source for a lot of this information, and in particular 
 
 These are must reads to explain the background
 
-* Part 1 - [Report - What is the "dispute" Dr Hayes has with the Medical Council? Part One: The Mindless Pursuit<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cahwhf/report_what_is_the_dispute_dr_hayes_has_with_the/) by CadyGirl in 2019
-* Part 2 - [How Transjenga Sparked a Revolution (updates to Australian trans care following resignation of Jon Hayes)<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/cdsdjk/how_transjenga_sparked_a_revolution_updates_to/) by CadyGirl in 2019
+* Part 1 - [Report - What is the "dispute" Dr Hayes has with the Medical Council? Part One: The Mindless Pursuit](https://www.reddit.com/r/transgenderau/comments/cahwhf/report_what_is_the_dispute_dr_hayes_has_with_the/) by CadyGirl in 2019
+* Part 2 - [How Transjenga Sparked a Revolution (updates to Australian trans care following resignation of Jon Hayes)](https://www.reddit.com/r/asktransgender/comments/cdsdjk/how_transjenga_sparked_a_revolution_updates_to/) by CadyGirl in 2019
 
 From part 2, some key points are
 
@@ -40,7 +40,7 @@ If you don't have your history from Dr Hayes, and need it, follow these instruct
 
 If some of your estrogen implant history is missing and you want it for some reason Stenlake may have it.
 
-If shouldn't be necessary, but there's a good post on this [Getting your past pathology results<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cbcvcn/getting_your_past_pathology_results/) by AlpacaActually.
+If shouldn't be necessary, but there's a good post on this [Getting your past pathology results](https://www.reddit.com/r/transgenderau/comments/cbcvcn/getting_your_past_pathology_results/) by AlpacaActually.
 
 I think its a good idea to always keep copies of all medical test results. I already had at least the last 10 years of mine. I didn't think of the implants prescriptions though, or the vitamin D injections I was getting.
 
@@ -60,4 +60,4 @@ Please note that you won't hear anything until at least the week starting Monday
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**

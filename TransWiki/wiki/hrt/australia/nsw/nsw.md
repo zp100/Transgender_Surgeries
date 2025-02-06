@@ -1,29 +1,29 @@
 **HRT in New South Wales (NSW)**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
 HRT in other states of Australia
 
-* [ACT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/act/act.md)
+* <span class="internal">[ACT](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/act/act.md)</span>
 * NSW
-* [QLD<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/qld/qld.md)
-* [SA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/sa/sa.md)
-* [TAS<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/tas/tas.md)
-* [VIC<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/vic/vic.md)
-* [WA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/wa/wa.md)
-* [NT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nt/nt.md)
+* <span class="internal">[QLD](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/qld/qld.md)</span>
+* <span class="internal">[SA](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/sa/sa.md)</span>
+* <span class="internal">[TAS](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/tas/tas.md)</span>
+* <span class="internal">[VIC](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/vic/vic.md)</span>
+* <span class="internal">[WA](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/wa/wa.md)</span>
+* <span class="internal">[NT](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/nt/nt.md)</span>
 
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia, 
 * transhub [Gender Affirming Doctor List](https://www.transhub.org.au/doctors) - the best list of HRT prescribing doctors in NSW and there's a map showing where they all are
-* [Telehealth<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#telehealth) - Doctors who work on line prescribing across Australia
-* Wiki page [HRT Introduction<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md)
-* Wiki page [Australian Psychiatrists & Therapists<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
+* <span class="internal">[Telehealth](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md#telehealth)</span> - Doctors who work on line prescribing across Australia
+* Wiki page <span class="internal">[HRT Introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/hrt.md)</span>
+* Wiki page <span class="internal">[Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)</span>
 * Trans Health Australia [Medical Practitioners in NSW / ACT](http://www.transhealthaustralia.org/index.php/nsw-act/3-medical-practitioners-nsw-act)
-* /r/transgenderau [wiki for ACT & NSW<sup>R</sup>](https://www.reddit.com/r/transgenderau/wiki/resources-nsw)
+* /r/transgenderau [wiki for ACT & NSW](https://www.reddit.com/r/transgenderau/wiki/resources-nsw)
 * [Hunter Gender Alliance](https://www.huntergenderalliance.org/) - *"The Hunter Gender Alliance (HGA) is a network of trans and gender diverse (TGD) people, health professionals, family members, and allies. HGA works to make life better for TGD people in the Hunter and surrounding areas, including Newcastle."*
 * https://docdir.org.au - *"DocDir is an Australia-wide directory of LGBTQ+ inclusive clinicians and services."*
 
@@ -52,7 +52,7 @@ Dr Hayes started practicing again in 2021.
 
 **Estrogen Implants**
 
-Unlike Dr Hayes our current doctors are extremely reluctant to prescribe 200mg implants, and its not clear who does (see Dr Michelle Guttman-Jones). If they do then it would be on a case by case basis and if you hear of someone getting them it doesn't mean you will. There's some further information on implants [here<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md).
+Unlike Dr Hayes our current doctors are extremely reluctant to prescribe 200mg implants, and its not clear who does (see Dr Michelle Guttman-Jones). If they do then it would be on a case by case basis and if you hear of someone getting them it doesn't mean you will. There's some further information on implants <span class="internal">[here](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implants/implants.md)</span>.
  
 Some of the doctors on the transhub list say
 
@@ -78,7 +78,7 @@ This is informed consent for both starting an continuing HRT.
 # Injections
 
 * Jonathan Hayes
-    * reply to [Anyone in NSW that knows of any GPs that prescribe E injections? Really desperate.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1ba1kkt/anyone_in_nsw_that_knows_of_any_gps_that/ku0ns68/) by Katja80888 in 2024 - *"I asked Hayes a few months ago. He said he will write a script but to be warned that they're not covered by healthcare then he got out his calculator and demonstrated the price difference between implants and injections with implants being 4x cheaper and less annoying to administer."*
+    * reply to [Anyone in NSW that knows of any GPs that prescribe E injections? Really desperate.](https://www.reddit.com/r/transgenderau/comments/1ba1kkt/anyone_in_nsw_that_knows_of_any_gps_that/ku0ns68/) by Katja80888 in 2024 - *"I asked Hayes a few months ago. He said he will write a script but to be warned that they're not covered by healthcare then he got out his calculator and demonstrated the price difference between implants and injections with implants being 4x cheaper and less annoying to administer."*
 
 <br />
 
@@ -100,7 +100,7 @@ Doctors's listed here
 
 reddit
 
-* [A question about HRT in Australia.<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/el9vb2/a_question_about_hrt_in_australia/) by  Odi_Mouse555 in 2020
+* [A question about HRT in Australia.](https://www.reddit.com/r/asktransgender/comments/el9vb2/a_question_about_hrt_in_australia/) by  Odi_Mouse555 in 2020
 
 <br />
 
@@ -122,7 +122,7 @@ See telehealth.
 
 reddit
 
-* [Some tips to help you get on T<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/oaud8f/some_tips_to_help_you_get_on_t/) by TheWolfBoi02 in 2021
+* [Some tips to help you get on T](https://www.reddit.com/r/transgenderau/comments/oaud8f/some_tips_to_help_you_get_on_t/) by TheWolfBoi02 in 2021
 
 <br />
 
@@ -141,7 +141,7 @@ Key details
 * Does Telehealth, but as a specialist (not GP) its not covered by medicare so around $130 for standard cases (2022)
 * North Shore Medical Centre, Suite 10-11 Level 5, 66 Pacific Highway, ***St Leonards***, NSW 2065, Tel: 04567 62 984
 * ~~Suite 3, 20 Bungan Road, Mona Vale, NSW 2103~~
-* [r/TransWiki/wiki/hrt/jon-hayes<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md)
+* <span class="internal">[r/TransWiki/wiki/hrt/jon-hayes](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md)</span>
 
 Retired in 2019 and back in April 2021. Same email and phone number. As he's a specialist you need a referral from a GP (you can go without a referral, but it will be expensive), and if you had an [indefintite referral](https://www.servicesaustralia.gov.au/referring-and-requesting-medicare-services) from before he retired you'll need to get a new referral - you can't continue to use the old one.
 
@@ -153,19 +153,19 @@ He doesn't have an issues with neurodivergence people.
 
 reddit
 
-* [I cannot recommend Dr Alison Rutherford or Dr Jennifer Peattie for HRT (Illawarra area)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1bn6y48/i_cannot_recommend_dr_alison_rutherford_or_dr/) by Mic_hell_e in 2024 = *"When I first started HRT almost 3 years ago, I went to Dr Alison Rutherford. She misinformed me about what my expectations from HRT should be and my levels were extremely low for over 2 years to the point where I've had little to no physical changes... I've had pretty much no feminisation for the first 2.5 years because of how low my levels were and she would refuse to go any higher than what she was already prescribing me... Dr Jennifer Peattie was more or less the same when I transferred to her... I'm now seeing Dr Jonathan Hayes and for once in my transition, I'm actually seeing changes !!! He's based in North Sydney which is a long drive away compared to the Illawarra but he is most definitely worth the drive. He switched me to 2 implants (now on 3 implants) a few months ago and ever since, I've noticed that my boobs are growing, I'm looking more feminine and I feel amazing."*
-* [Implant Consultation (Hayes)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/11r1qz6/implant_consultation_hayes/) by Hikki07 in 2023
-* [Dr Jon Hayes<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/10829l1/dr_jon_hayes/) by HunterDean25 in 2023
-* [Does Dr Jon Hayes Bulk Bill?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/10fu6mz/does_dr_jon_hayes_bulk_bill/) by weaknessx100 in 2023
-* reply to [Progesterone<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/100uab5/progesterone/j31cvkf/) by Taracia in 2023 - *"I'm getting some arousal cream (scream cream)... I sent the prescription from Gosford to East Coast Compounding"* - this is Dr Will Powers [Scream Cream<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/wiki/compounded-medicines)
-* [Dr Jon Hayes<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/10829l1/dr_jon_hayes/) by HunterDean25 in 2023
-* [Does dr. Hayes require a psych letter to start T?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/wpiewj/does_dr_hayes_require_a_psych_letter_to_start_t/) by SJ_I_Guess in 2022
-* [Dr Jon Hayes in Sydney is back<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/mtu5kj/dr_jon_hayes_in_sydney_is_back/) by  HiddenStill in 2021
-* [Does anyone know a GP/endo willing to prescribe Bica in Sydney?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/n9ut2i/does_anyone_know_a_gpendo_willing_to_prescribe/) by SpreadInteresting618 in 2021
-* [Previous Dr Hayes Patients, what were your levels on x2 100ng implants?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/n319w1/previous_dr_hayes_patients_what_were_your_levels/) by Bitchimsolo in 2021
-* [Had my appointment with Dr Jon Hayes , ask me anything<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/n2hllw/had_my_appointment_with_dr_jon_hayes_ask_me/) by Bitchimsolo in 2021
-* [Dr Jon Hayes just told me (5th May 2021) that he is re-opening his Clinic in St Leonards in one week.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/n57bmz/dr_jon_hayes_just_told_me_5th_may_2021_that_he_is/) by Allysond2000 in 2021
-* [Dr Jon Hayes in Sydney is back<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/mtu5kj/dr_jon_hayes_in_sydney_is_back/) by HiddenStill in 2021
+* [I cannot recommend Dr Alison Rutherford or Dr Jennifer Peattie for HRT (Illawarra area)](https://www.reddit.com/r/transgenderau/comments/1bn6y48/i_cannot_recommend_dr_alison_rutherford_or_dr/) by Mic_hell_e in 2024 = *"When I first started HRT almost 3 years ago, I went to Dr Alison Rutherford. She misinformed me about what my expectations from HRT should be and my levels were extremely low for over 2 years to the point where I've had little to no physical changes... I've had pretty much no feminisation for the first 2.5 years because of how low my levels were and she would refuse to go any higher than what she was already prescribing me... Dr Jennifer Peattie was more or less the same when I transferred to her... I'm now seeing Dr Jonathan Hayes and for once in my transition, I'm actually seeing changes !!! He's based in North Sydney which is a long drive away compared to the Illawarra but he is most definitely worth the drive. He switched me to 2 implants (now on 3 implants) a few months ago and ever since, I've noticed that my boobs are growing, I'm looking more feminine and I feel amazing."*
+* [Implant Consultation (Hayes)](https://www.reddit.com/r/transgenderau/comments/11r1qz6/implant_consultation_hayes/) by Hikki07 in 2023
+* [Dr Jon Hayes](https://www.reddit.com/r/transgenderau/comments/10829l1/dr_jon_hayes/) by HunterDean25 in 2023
+* [Does Dr Jon Hayes Bulk Bill?](https://www.reddit.com/r/transgenderau/comments/10fu6mz/does_dr_jon_hayes_bulk_bill/) by weaknessx100 in 2023
+* reply to [Progesterone](https://www.reddit.com/r/transgenderau/comments/100uab5/progesterone/j31cvkf/) by Taracia in 2023 - *"I'm getting some arousal cream (scream cream)... I sent the prescription from Gosford to East Coast Compounding"* - this is Dr Will Powers [Scream Cream](https://www.reddit.com/r/DrWillPowers/wiki/compounded-medicines)
+* [Dr Jon Hayes](https://www.reddit.com/r/transgenderau/comments/10829l1/dr_jon_hayes/) by HunterDean25 in 2023
+* [Does dr. Hayes require a psych letter to start T?](https://www.reddit.com/r/transgenderau/comments/wpiewj/does_dr_hayes_require_a_psych_letter_to_start_t/) by SJ_I_Guess in 2022
+* [Dr Jon Hayes in Sydney is back](https://www.reddit.com/r/transgenderau/comments/mtu5kj/dr_jon_hayes_in_sydney_is_back/) by  HiddenStill in 2021
+* [Does anyone know a GP/endo willing to prescribe Bica in Sydney?](https://www.reddit.com/r/transgenderau/comments/n9ut2i/does_anyone_know_a_gpendo_willing_to_prescribe/) by SpreadInteresting618 in 2021
+* [Previous Dr Hayes Patients, what were your levels on x2 100ng implants?](https://www.reddit.com/r/transgenderau/comments/n319w1/previous_dr_hayes_patients_what_were_your_levels/) by Bitchimsolo in 2021
+* [Had my appointment with Dr Jon Hayes , ask me anything](https://www.reddit.com/r/transgenderau/comments/n2hllw/had_my_appointment_with_dr_jon_hayes_ask_me/) by Bitchimsolo in 2021
+* [Dr Jon Hayes just told me (5th May 2021) that he is re-opening his Clinic in St Leonards in one week.](https://www.reddit.com/r/transgenderau/comments/n57bmz/dr_jon_hayes_just_told_me_5th_may_2021_that_he_is/) by Allysond2000 in 2021
+* [Dr Jon Hayes in Sydney is back](https://www.reddit.com/r/transgenderau/comments/mtu5kj/dr_jon_hayes_in_sydney_is_back/) by HiddenStill in 2021
 
 Star Observer
 
@@ -201,15 +201,15 @@ Implants are in the butt into the same locations as Hayes did. I believe she wil
 
 reddit
 
-* [Appointment with Michelle Guttman-Jones<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e7btd4/appointment_with_michelle_guttmanjones/) by EndlessEden2015 in 2019
-* [Question for those that see Dr Portia Predny in Rozelle/Birkinhead point.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e86nft/question_for_those_that_see_dr_portia_predny_in/) by amy-simmons in 2019
-* [Sydney HRT GP anyone? Running low on the progynova. Hayes still not practicing. Who could I turn to for reliable treatment with HRT (mtf).<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e0v7hl/sydney_hrt_gp_anyone_running_low_on_the_progynova/) by  Enceladuus
+* [Appointment with Michelle Guttman-Jones](https://www.reddit.com/r/transgenderau/comments/e7btd4/appointment_with_michelle_guttmanjones/) by EndlessEden2015 in 2019
+* [Question for those that see Dr Portia Predny in Rozelle/Birkinhead point.](https://www.reddit.com/r/transgenderau/comments/e86nft/question_for_those_that_see_dr_portia_predny_in/) by amy-simmons in 2019
+* [Sydney HRT GP anyone? Running low on the progynova. Hayes still not practicing. Who could I turn to for reliable treatment with HRT (mtf).](https://www.reddit.com/r/transgenderau/comments/e0v7hl/sydney_hrt_gp_anyone_running_low_on_the_progynova/) by  Enceladuus
  in 2019
-* [Help with Estrogen implant<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cqo2nu/help_with_estrogen_implant/) by NothAU in 2019
-* [What do i say to my GP?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dsu2j2/what_do_i_say_to_my_gp/) by keiithira in 2019
-* [PSA to anyone wondering about Informed Consent HRT in Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dfengn/psa_to_anyone_wondering_about_informed_consent/) by serious_mullet in 2019
-* [Following Dr Jon Hayes close, I went to ACON listed trans-friendly GP at Birkenhead Point, Sydney. Dr Portia Predny prescribes, does implants, and is prepared to vary dosages to suit individual. I had my first implant today. She was just so kind, gentle, professional and it didn’t hurt. Excellent!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dboe61/following_dr_jon_hayes_close_i_went_to_acon/) by Allysond2000 in 2019
-* 16 August 2019 - [Getting a pescription for estrogen implants from a standard GP?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cq4s0d/getting_a_pescription_for_estrogen_implants_from/ewy0oar/) - *"Dr Predny is having some sort of issues getting insurance to let her do implants, so is not inserting them at the moment."*
+* [Help with Estrogen implant](https://www.reddit.com/r/transgenderau/comments/cqo2nu/help_with_estrogen_implant/) by NothAU in 2019
+* [What do i say to my GP?](https://www.reddit.com/r/transgenderau/comments/dsu2j2/what_do_i_say_to_my_gp/) by keiithira in 2019
+* [PSA to anyone wondering about Informed Consent HRT in Sydney](https://www.reddit.com/r/transgenderau/comments/dfengn/psa_to_anyone_wondering_about_informed_consent/) by serious_mullet in 2019
+* [Following Dr Jon Hayes close, I went to ACON listed trans-friendly GP at Birkenhead Point, Sydney. Dr Portia Predny prescribes, does implants, and is prepared to vary dosages to suit individual. I had my first implant today. She was just so kind, gentle, professional and it didn’t hurt. Excellent!](https://www.reddit.com/r/transgenderau/comments/dboe61/following_dr_jon_hayes_close_i_went_to_acon/) by Allysond2000 in 2019
+* 16 August 2019 - [Getting a pescription for estrogen implants from a standard GP?](https://www.reddit.com/r/transgenderau/comments/cq4s0d/getting_a_pescription_for_estrogen_implants_from/ewy0oar/) - *"Dr Predny is having some sort of issues getting insurance to let her do implants, so is not inserting them at the moment."*
 
 Facebook
 
@@ -258,25 +258,25 @@ Dr Mihal Guttman-Jones wrote the document for clinicians *"Informed consent: Fem
 
 reddit
 
-* [anyone got experience with dr guttman-jones in newtown?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/13z5vb8/anyone_got_experience_with_dr_guttmanjones_in/) by awildjord in 2023
-* [Dr Guttman-Jones is back at Alice St GP Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/wgr0kw/dr_guttmanjones_is_back_at_alice_st_gp_sydney/) by CrazyGolfer in 2022
-* [Dr Michelle Guttman-Jones is leaving Alice St general practice<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jn4znw/dr_michelle_guttmanjones_is_leaving_alice_st/) by ObjetErotique in 2020
-* [Alice St GP - Dr Mitch Squire instead of Dr Michelle Guttman-Jones? \[Sydney\]<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/j1a8lt/alice_st_gp_dr_mitch_squire_instead_of_dr/) by  CanDoIt99999 in 2020
-* [Difference in doing implants<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gs28bg/difference_in_doing_implants/) by TheDaxSymbiote in 2020 - this discusses 200mg implants
-* [Is there a way to change dosages during self isolation?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/fvxjv1/is_there_a_way_to_change_dosages_during_self/) by Bookie_Belle in 2020
-* [Australians !<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/fkow2l/australians/) by Bitchimsolo in 2020
-* [Dr Jon Hayes? What to do?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/f6ot06/dr_jon_hayes_what_to_do/) by Paige712 in 2020
-* [Appointment with Michelle Guttman-Jones<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e7btd4/appointment_with_michelle_guttmanjones/) by EndlessEden2015 in 2019
-* [Sydney HRT GP anyone? Running low on the progynova. Hayes still not practicing. Who could I turn to for reliable treatment with HRT (mtf).<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e0v7hl/sydney_hrt_gp_anyone_running_low_on_the_progynova/) by  Enceladuus
+* [anyone got experience with dr guttman-jones in newtown?](https://www.reddit.com/r/transgenderau/comments/13z5vb8/anyone_got_experience_with_dr_guttmanjones_in/) by awildjord in 2023
+* [Dr Guttman-Jones is back at Alice St GP Sydney](https://www.reddit.com/r/transgenderau/comments/wgr0kw/dr_guttmanjones_is_back_at_alice_st_gp_sydney/) by CrazyGolfer in 2022
+* [Dr Michelle Guttman-Jones is leaving Alice St general practice](https://www.reddit.com/r/transgenderau/comments/jn4znw/dr_michelle_guttmanjones_is_leaving_alice_st/) by ObjetErotique in 2020
+* [Alice St GP - Dr Mitch Squire instead of Dr Michelle Guttman-Jones? \[Sydney\]](https://www.reddit.com/r/transgenderau/comments/j1a8lt/alice_st_gp_dr_mitch_squire_instead_of_dr/) by  CanDoIt99999 in 2020
+* [Difference in doing implants](https://www.reddit.com/r/transgenderau/comments/gs28bg/difference_in_doing_implants/) by TheDaxSymbiote in 2020 - this discusses 200mg implants
+* [Is there a way to change dosages during self isolation?](https://www.reddit.com/r/transgenderau/comments/fvxjv1/is_there_a_way_to_change_dosages_during_self/) by Bookie_Belle in 2020
+* [Australians !](https://www.reddit.com/r/TransDIY/comments/fkow2l/australians/) by Bitchimsolo in 2020
+* [Dr Jon Hayes? What to do?](https://www.reddit.com/r/transgenderau/comments/f6ot06/dr_jon_hayes_what_to_do/) by Paige712 in 2020
+* [Appointment with Michelle Guttman-Jones](https://www.reddit.com/r/transgenderau/comments/e7btd4/appointment_with_michelle_guttmanjones/) by EndlessEden2015 in 2019
+* [Sydney HRT GP anyone? Running low on the progynova. Hayes still not practicing. Who could I turn to for reliable treatment with HRT (mtf).](https://www.reddit.com/r/transgenderau/comments/e0v7hl/sydney_hrt_gp_anyone_running_low_on_the_progynova/) by  Enceladuus
  in 2019
-* [Dr Michelle<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/du7k4y/dr_michelle/) by sparksilldrive in 2019
-* [Help<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dt6xms/help/) by sparksilldrive in 2019
-* [Is there anyone on the central coast who can do blood work for measuring hormones?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dt6876/is_there_anyone_on_the_central_coast_who_can_do/) by Bookie_Belle in 2019
-* [What do i say to my GP?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dsu2j2/what_do_i_say_to_my_gp/) by keiithira in 2019
-* [blood results came back after switching to 100MG implants, my E levels are rubbish! :(<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dqhatn/blood_results_came_back_after_switching_to_100mg/) by amy-simmons in 2019
-* [taylor square + minors?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dh5hvf/taylor_square_minors/) by magnum-nopus in 2019
-* [PSA to anyone wondering about Informed Consent HRT in Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dfengn/psa_to_anyone_wondering_about_informed_consent/) by serious_mullet in 2019
-* [Following Dr Jon Hayes close, I went to ACON listed trans-friendly GP at Birkenhead Point, Sydney. Dr Portia Predny prescribes, does implants, and is prepared to vary dosages to suit individual. I had my first implant today. She was just so kind, gentle, professional and it didn’t hurt. Excellent!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dboe61/following_dr_jon_hayes_close_i_went_to_acon/) by Allysond2000 in 2019
+* [Dr Michelle](https://www.reddit.com/r/transgenderau/comments/du7k4y/dr_michelle/) by sparksilldrive in 2019
+* [Help](https://www.reddit.com/r/transgenderau/comments/dt6xms/help/) by sparksilldrive in 2019
+* [Is there anyone on the central coast who can do blood work for measuring hormones?](https://www.reddit.com/r/transgenderau/comments/dt6876/is_there_anyone_on_the_central_coast_who_can_do/) by Bookie_Belle in 2019
+* [What do i say to my GP?](https://www.reddit.com/r/transgenderau/comments/dsu2j2/what_do_i_say_to_my_gp/) by keiithira in 2019
+* [blood results came back after switching to 100MG implants, my E levels are rubbish! :(](https://www.reddit.com/r/transgenderau/comments/dqhatn/blood_results_came_back_after_switching_to_100mg/) by amy-simmons in 2019
+* [taylor square + minors?](https://www.reddit.com/r/transgenderau/comments/dh5hvf/taylor_square_minors/) by magnum-nopus in 2019
+* [PSA to anyone wondering about Informed Consent HRT in Sydney](https://www.reddit.com/r/transgenderau/comments/dfengn/psa_to_anyone_wondering_about_informed_consent/) by serious_mullet in 2019
+* [Following Dr Jon Hayes close, I went to ACON listed trans-friendly GP at Birkenhead Point, Sydney. Dr Portia Predny prescribes, does implants, and is prepared to vary dosages to suit individual. I had my first implant today. She was just so kind, gentle, professional and it didn’t hurt. Excellent!](https://www.reddit.com/r/transgenderau/comments/dboe61/following_dr_jon_hayes_close_i_went_to_acon/) by Allysond2000 in 2019
 
 RollingStone Australia
 
@@ -338,14 +338,14 @@ Key details
 
 reddit
 
-* [Alice St Clinic, does Dr Mitch Squire do 2x100mg implants yet?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/14cykjt/alice_st_clinic_does_dr_mitch_squire_do_2x100mg/) by  ic4ru5575 in 2023
-* [Questions about informed consent in NSW<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/uiryn4/questions_about_informed_consent_in_nsw/) by Positive-Pipe-4455 in 2022
-* [Dr Mitch Squire, St Alice General Practice, Newtown, Sydney... any good??<sup>R</sup>](https://www.reddit.com/r/trans/comments/n5f38e/dr_mitch_squire_st_alice_general_practice_newtown/) by Em_2001 in 2021
-    * [Dr Mitch Squire<sup>R</sup>](https://www.reddit.com/r/trans/comments/n9q26v/dr_mitch_squire/) by Em_2001 in 2021
-* [HRT with Dr Mitch Squire at Alice Street GP (Sydney)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/lhiuan/hrt_with_dr_mitch_squire_at_alice_street_gp_sydney/) by CephlapodicOverlords in 2021
-* [\[Follow up\] Sydney: Doctor quitting without warning, need new Doctor for continuation of care asap<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/kdddp9/follow_up_sydney_doctor_quitting_without_warning/) by NocteVulpes in 2020
-* [Experience with Dr Mitch Squire, Alice Street GP<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jp2rd8/experience_with_dr_mitch_squire_alice_street_gp/) by valbianc in 2020
-* [Dr Mitch Squire at Alice St GP first consult review<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/j3qjdb/dr_mitch_squire_at_alice_st_gp_first_consult/) by CanDoIt99999 in 2020
+* [Alice St Clinic, does Dr Mitch Squire do 2x100mg implants yet?](https://www.reddit.com/r/transgenderau/comments/14cykjt/alice_st_clinic_does_dr_mitch_squire_do_2x100mg/) by  ic4ru5575 in 2023
+* [Questions about informed consent in NSW](https://www.reddit.com/r/transgenderau/comments/uiryn4/questions_about_informed_consent_in_nsw/) by Positive-Pipe-4455 in 2022
+* [Dr Mitch Squire, St Alice General Practice, Newtown, Sydney... any good??](https://www.reddit.com/r/trans/comments/n5f38e/dr_mitch_squire_st_alice_general_practice_newtown/) by Em_2001 in 2021
+    * [Dr Mitch Squire](https://www.reddit.com/r/trans/comments/n9q26v/dr_mitch_squire/) by Em_2001 in 2021
+* [HRT with Dr Mitch Squire at Alice Street GP (Sydney)](https://www.reddit.com/r/transgenderau/comments/lhiuan/hrt_with_dr_mitch_squire_at_alice_street_gp_sydney/) by CephlapodicOverlords in 2021
+* [\[Follow up\] Sydney: Doctor quitting without warning, need new Doctor for continuation of care asap](https://www.reddit.com/r/transgenderau/comments/kdddp9/follow_up_sydney_doctor_quitting_without_warning/) by NocteVulpes in 2020
+* [Experience with Dr Mitch Squire, Alice Street GP](https://www.reddit.com/r/transgenderau/comments/jp2rd8/experience_with_dr_mitch_squire_alice_street_gp/) by valbianc in 2020
+* [Dr Mitch Squire at Alice St GP first consult review](https://www.reddit.com/r/transgenderau/comments/j3qjdb/dr_mitch_squire_at_alice_st_gp_first_consult/) by CanDoIt99999 in 2020
 
 <br />
 
@@ -392,7 +392,7 @@ Holly Inglis wrote the document for clinicians *"GP Management Plan: Feminising 
 
 reddit
 
-* [experiences with holly inglis, east sydney doctors, or holdsworth house in Sydney?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/nfxxk4/experiences_with_holly_inglis_east_sydney_doctors/) by  DimensionalSection in 2021
+* [experiences with holly inglis, east sydney doctors, or holdsworth house in Sydney?](https://www.reddit.com/r/transgenderau/comments/nfxxk4/experiences_with_holly_inglis_east_sydney_doctors/) by  DimensionalSection in 2021
 
 <br />
 
@@ -444,8 +444,8 @@ Key details
 
 reddit
 
-* reply to [My experience getting on HRT.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/10bp43c/my_experience_getting_on_hrt/j4d6lcm/) by girl_from_ceres in 2023 - *"If it helps I can’t recommend my hrt doctor enough: Dr Farr at East Sydney doctors. She gave me a prescription on the second appointment and was so informative and helpful. She referred me to a psychologist but didn’t require that I go or anything, and she’s always been fully on my side."*
-* [GP suggestion in Sydney?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/i3hshe/gp_suggestion_in_sydney/) by corn_dad in 2020
+* reply to [My experience getting on HRT.](https://www.reddit.com/r/transgenderau/comments/10bp43c/my_experience_getting_on_hrt/j4d6lcm/) by girl_from_ceres in 2023 - *"If it helps I can’t recommend my hrt doctor enough: Dr Farr at East Sydney doctors. She gave me a prescription on the second appointment and was so informative and helpful. She referred me to a psychologist but didn’t require that I go or anything, and she’s always been fully on my side."*
+* [GP suggestion in Sydney?](https://www.reddit.com/r/transgenderau/comments/i3hshe/gp_suggestion_in_sydney/) by corn_dad in 2020
 
 Other links
 
@@ -492,7 +492,7 @@ Key details
 
 * https://www.eastsydneydoctors.com.au/lindadayan 
 
-* reply to [Where is the best place for Aussie tgirls to buy injections?<sup>R</sup>](https://www.reddit.com/r/TransDIY/comments/1cl73kk/where_is_the_best_place_for_aussie_tgirls_to_buy/l2rwiy0/) by WQLFY in 2024 - *"You can't get injections in Australia...or at least my specialist Dr Linda Dayan says I can't. I've been on tablets, gel, and patches. But no changes after the initial 6 months. Now I'm 3.5 years into HRT and my boobs have stopped growing and their sensitivity is non-existent. As for implants...Dr Dayan keeps delaying it, and tbh injections are more effective from what people are saying. I'd rather diy inject and have changes finally."* - note, you can get injections in Australia
+* reply to [Where is the best place for Aussie tgirls to buy injections?](https://www.reddit.com/r/TransDIY/comments/1cl73kk/where_is_the_best_place_for_aussie_tgirls_to_buy/l2rwiy0/) by WQLFY in 2024 - *"You can't get injections in Australia...or at least my specialist Dr Linda Dayan says I can't. I've been on tablets, gel, and patches. But no changes after the initial 6 months. Now I'm 3.5 years into HRT and my boobs have stopped growing and their sensitivity is non-existent. As for implants...Dr Dayan keeps delaying it, and tbh injections are more effective from what people are saying. I'd rather diy inject and have changes finally."* - note, you can get injections in Australia
 
 <br />
 
@@ -537,22 +537,22 @@ There's no room for negotiating with Taylor Square. Take it or leave it.
 
 It appears that Dr Catherine Pell won't perform the implants herself, referring you to another doctor to do it.
 
-Read more in this post [How Transjenga Sparked a Revolution (updates to Australian trans care following resignation of Jon Hayes)<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/cdsdjk/how_transjenga_sparked_a_revolution_updates_to/) by CadyGirl.
+Read more in this post [How Transjenga Sparked a Revolution (updates to Australian trans care following resignation of Jon Hayes)](https://www.reddit.com/r/asktransgender/comments/cdsdjk/how_transjenga_sparked_a_revolution_updates_to/) by CadyGirl.
 
 My personal opinion is that Taylor Square should be avoided. Apart from the treatment itself I believe they have a negative influence on trans medicine in Sydney. While there are women happy with Taylor Square, it appears to be mainly those who have never been elsewhere. There are a *lot* of complaints about Taylor Square on the Facebook group. There are many better options.
 
 reddit
 
-* [Looking for trans friendly gp, NSW<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vtawug/looking_for_trans_friendly_gp_nsw/) by  Far_Put49 in 2022
-* reply to [Need to vent about HRT consultation<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/m1r62n/need_to_vent_about_hrt_consultation/gqkbx62/) by vitomadness in 2021
-* [just hit my first obstacle on the road to HRT. mood: deflated. rant mode: engaged<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9owxit/just_hit_my_first_obstacle_on_the_road_to_hrt/) by pm_me_ur_headpats in 2018, see later post referencing this [here<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ib8qwj/rick_franklin_not_a_good_experience/gb7rnre/)
-* reply to [Implants vs IM Injections<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/gv4t19/implants_vs_im_injections/fsqgbbz/?context=3) by Ally-SR in 2020
-* [Am I being gatekept?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gno80a/am_i_being_gatekept/) by pink_april in 2020
-* [Dr Jon Hayes? What to do?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/f6ot06/dr_jon_hayes_what_to_do/) by Paige712 in 2020
-* [How is holdworth house in Sydney?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ekyxh5/how_is_holdworth_house_in_sydney/) by Bookie_Belle in 2020
-* [What is the process to change doctors?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dysese/what_is_the_process_to_change_doctors/) by Bookie_Belle in 2019
-* [Is there anyone on the central coast who can do blood work for measuring hormones?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dt6876/is_there_anyone_on_the_central_coast_who_can_do/) by Bookie_Belle in 2019
-* [taylor square + minors?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dh5hvf/taylor_square_minors/) by magnum-nopus in 2019
+* [Looking for trans friendly gp, NSW](https://www.reddit.com/r/transgenderau/comments/vtawug/looking_for_trans_friendly_gp_nsw/) by  Far_Put49 in 2022
+* reply to [Need to vent about HRT consultation](https://www.reddit.com/r/transgenderau/comments/m1r62n/need_to_vent_about_hrt_consultation/gqkbx62/) by vitomadness in 2021
+* [just hit my first obstacle on the road to HRT. mood: deflated. rant mode: engaged](https://www.reddit.com/r/asktransgender/comments/9owxit/just_hit_my_first_obstacle_on_the_road_to_hrt/) by pm_me_ur_headpats in 2018, see later post referencing this [here](https://www.reddit.com/r/transgenderau/comments/ib8qwj/rick_franklin_not_a_good_experience/gb7rnre/)
+* reply to [Implants vs IM Injections](https://www.reddit.com/r/DrWillPowers/comments/gv4t19/implants_vs_im_injections/fsqgbbz/?context=3) by Ally-SR in 2020
+* [Am I being gatekept?](https://www.reddit.com/r/transgenderau/comments/gno80a/am_i_being_gatekept/) by pink_april in 2020
+* [Dr Jon Hayes? What to do?](https://www.reddit.com/r/transgenderau/comments/f6ot06/dr_jon_hayes_what_to_do/) by Paige712 in 2020
+* [How is holdworth house in Sydney?](https://www.reddit.com/r/transgenderau/comments/ekyxh5/how_is_holdworth_house_in_sydney/) by Bookie_Belle in 2020
+* [What is the process to change doctors?](https://www.reddit.com/r/transgenderau/comments/dysese/what_is_the_process_to_change_doctors/) by Bookie_Belle in 2019
+* [Is there anyone on the central coast who can do blood work for measuring hormones?](https://www.reddit.com/r/transgenderau/comments/dt6876/is_there_anyone_on_the_central_coast_who_can_do/) by Bookie_Belle in 2019
+* [taylor square + minors?](https://www.reddit.com/r/transgenderau/comments/dh5hvf/taylor_square_minors/) by magnum-nopus in 2019
 
 There's apost on Facebook saying Cathy Pell is (has) retiring at the end of March 2021.
 
@@ -575,8 +575,8 @@ Key details
 
 reddit
 
-* [Rick Franklin - not a good experience<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ib8qwj/rick_franklin_not_a_good_experience/) by tonyam12 in 2020
-* [just hit my first obstacle on the road to HRT. mood: deflated. rant mode: engaged<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9owxit/just_hit_my_first_obstacle_on_the_road_to_hrt/) by pm_me_ur_headpats in 2018, see later post referencing this [here<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ib8qwj/rick_franklin_not_a_good_experience/gb7rnre/)
+* [Rick Franklin - not a good experience](https://www.reddit.com/r/transgenderau/comments/ib8qwj/rick_franklin_not_a_good_experience/) by tonyam12 in 2020
+* [just hit my first obstacle on the road to HRT. mood: deflated. rant mode: engaged](https://www.reddit.com/r/asktransgender/comments/9owxit/just_hit_my_first_obstacle_on_the_road_to_hrt/) by pm_me_ur_headpats in 2018, see later post referencing this [here](https://www.reddit.com/r/transgenderau/comments/ib8qwj/rick_franklin_not_a_good_experience/gb7rnre/)
 
 <br />
 
@@ -611,9 +611,9 @@ Key details
 
 reddit
 
-* [Dr Christopher Muir?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1077ml5/dr_christopher_muir/) by soleseya in 2023
-* reply to [Advice on moving to Brisbane from UK<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/vdb2uc/advice_on_moving_to_brisbane_from_uk/ictg2ct/) by Nix-Tempesedo in 2022 - *"I'd highly recommend the endocrinologist Dr Christopher Muir at Holdsworth House/College Street Specialists (same place, different names as they're split across two levels of the same building) in Sydney CBD. He's extremely competent, very pro-trans rights, does informed consent (i.e., won't make you get assessed by a psychiatrist, just outlines the potential risks of treatment and lets you start if you're aware of them and agree) and is decently priced."*
-* [Michelle Guttman-Jones leaving GP practice (Syd, NSW)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/job70i/michelle_guttmanjones_leaving_gp_practice_syd_nsw/) by Enceladuus in 2020
+* [Dr Christopher Muir?](https://www.reddit.com/r/transgenderau/comments/1077ml5/dr_christopher_muir/) by soleseya in 2023
+* reply to [Advice on moving to Brisbane from UK](https://www.reddit.com/r/transgenderau/comments/vdb2uc/advice_on_moving_to_brisbane_from_uk/ictg2ct/) by Nix-Tempesedo in 2022 - *"I'd highly recommend the endocrinologist Dr Christopher Muir at Holdsworth House/College Street Specialists (same place, different names as they're split across two levels of the same building) in Sydney CBD. He's extremely competent, very pro-trans rights, does informed consent (i.e., won't make you get assessed by a psychiatrist, just outlines the potential risks of treatment and lets you start if you're aware of them and agree) and is decently priced."*
+* [Michelle Guttman-Jones leaving GP practice (Syd, NSW)](https://www.reddit.com/r/transgenderau/comments/job70i/michelle_guttmanjones_leaving_gp_practice_syd_nsw/) by Enceladuus in 2020
 
 <br />
 
@@ -649,7 +649,7 @@ Key details
 
 YouTube
 
-* reply to [International student continuing HRT<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/so2e4z/international_student_continuing_hrt/hwl2ceb/) by hobgoblinfruit in 2022 - *"the Albion Centre's T150 program isn't currently accepting new patients"*
+* reply to [International student continuing HRT](https://www.reddit.com/r/transgenderau/comments/so2e4z/international_student_continuing_hrt/hwl2ceb/) by hobgoblinfruit in 2022 - *"the Albion Centre's T150 program isn't currently accepting new patients"*
 * [PART 2 - DOCTOR of TRANSGENDER CARE Answers HRT FAQS | Destiny Maylas](https://www.youtube.com/watch?v=q71aMNHJONc) by Destiny Maylas in 2021
 * [Doctor of Transgender Care Answers HRT FAQ | Destiny Maylas](https://www.youtube.com/watch?v=9nJufqhbq5Q) by Destiny Maylas in 2021
 * [Transgender HRT Consultation at The Albion Centre - T150 in Sydney | Destiny Maylas](https://www.youtube.com/watch?v=GPin0Hg4Bc0) by Destiny Maylas in 2020 - talks with Dr Melissa Kelly
@@ -719,7 +719,7 @@ Key details
 
 reddit
 
-* reply to [Australian Gender Diverse Healthcare Guide and Physician Database - Please Contribute!!<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/wiy09v/australian_gender_diverse_healthcare_guide_and/ijirwzq/?context=3) by littletransseal in 2022 - *"... i was repeatedly misgendered and deadnamed by a doctor who guessed i was transitioning, wrote a referral in my deadname and misgendered me in it, put it in my file that i was transgender and did not even bother to do me the courtesy of asking if i was, in fact, transgender and/or transitioning, as well as failing to ask if i was on HRT which is very medically relevant. at the same practice a receptionist refused to continue serving me, interacting with me or even look at me after finding out i was trans."*
+* reply to [Australian Gender Diverse Healthcare Guide and Physician Database - Please Contribute!!](https://www.reddit.com/r/transgenderau/comments/wiy09v/australian_gender_diverse_healthcare_guide_and/ijirwzq/?context=3) by littletransseal in 2022 - *"... i was repeatedly misgendered and deadnamed by a doctor who guessed i was transitioning, wrote a referral in my deadname and misgendered me in it, put it in my file that i was transgender and did not even bother to do me the courtesy of asking if i was, in fact, transgender and/or transitioning, as well as failing to ask if i was on HRT which is very medically relevant. at the same practice a receptionist refused to continue serving me, interacting with me or even look at me after finding out i was trans."*
 
 <br />
 
@@ -735,8 +735,8 @@ reddit
 
 reddit
 
-* [HRT with Dr Caran Cheung<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/xz897n/hrt_with_dr_caran_cheung/) by Soraya-Soy-Queen in 2022
-* [Informed consent: Dr Caran Cheung, Mascot, NSW<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ejbmcu/informed_consent_dr_caran_cheung_mascot_nsw/) by fulrex in 2019 - this is FTM
+* [HRT with Dr Caran Cheung](https://www.reddit.com/r/transgenderau/comments/xz897n/hrt_with_dr_caran_cheung/) by Soraya-Soy-Queen in 2022
+* [Informed consent: Dr Caran Cheung, Mascot, NSW](https://www.reddit.com/r/transgenderau/comments/ejbmcu/informed_consent_dr_caran_cheung_mascot_nsw/) by fulrex in 2019 - this is FTM
 
 <br />
 
@@ -755,8 +755,8 @@ Key details
 
 reddit
 
-* [any experiences with Dr Nele Lenders<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/om19l5/any_experiences_with_dr_nele_lenders/) by  dylwitz in 2021nders
-* [dr nele lenders<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/mnoxrp/dr_nele_lenders/) by ChizzleMyDizzle in 2021
+* [any experiences with Dr Nele Lenders](https://www.reddit.com/r/transgenderau/comments/om19l5/any_experiences_with_dr_nele_lenders/) by  dylwitz in 2021nders
+* [dr nele lenders](https://www.reddit.com/r/transgenderau/comments/mnoxrp/dr_nele_lenders/) by ChizzleMyDizzle in 2021
 
 YouTube
 
@@ -778,8 +778,8 @@ Key details
 
 reddit
 
-* [Dr Catriona Ooi and Dr Joeseph Cotter<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/lxeshw/dr_catriona_ooi_and_dr_joeseph_cotter/) by  helladandy in 2021
-* reply to [Getting a pescription for estrogen implants from a standard GP?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/cq4s0d/getting_a_pescription_for_estrogen_implants_from/eww6o17/) by amy-simmons in 2019
+* [Dr Catriona Ooi and Dr Joeseph Cotter](https://www.reddit.com/r/transgenderau/comments/lxeshw/dr_catriona_ooi_and_dr_joeseph_cotter/) by  helladandy in 2021
+* reply to [Getting a pescription for estrogen implants from a standard GP?](https://www.reddit.com/r/transgenderau/comments/cq4s0d/getting_a_pescription_for_estrogen_implants_from/eww6o17/) by amy-simmons in 2019
 
 <br />
 
@@ -852,14 +852,14 @@ Key details
 
 reddit
 
-* reply to [Quickest way to get onto HRT in Sydney (MTF)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/yzxg8g/quickest_way_to_get_onto_hrt_in_sydney_mtf/ix2ohjq/) by theshyalternative in 2022 - *"Make an appointment to see dr Simone Dombroski at Alpha Medical centre in seven hills, tell her you wish to start HRT, she will have you see Dr Michael Scott in Waverly-ish area for a consult to confirm HRT is a good fit (it's more to protect her career if some time in the future you change your mind, this way there is a 2nd opinion before you start)"*
-* [Progesterone Question and Good experience with new GP in Sydney Hills District<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/oc1t2e/progesterone_question_and_good_experience_with/) by 8950149 in 2021
-* [GP update<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/i8ayed/gp_update/) by rvpaa27 in 2020
-* [GP suggestion in Sydney?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/i3hshe/gp_suggestion_in_sydney/) by corn_dad in 2020
-* [Any MtF HRT prescribing doctors in Hills Disctrict NSW?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/hdm5ab/any_mtf_hrt_prescribing_doctors_in_hills/) by Lydia_Halesurge in 2020
-* [Sydney based GPs - and an offer to update the wiki<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/gnqqhj/sydney_based_gps_and_an_offer_to_update_the_wiki/) by SeekingDragonsWisdom in 2020
-* [Any trans friendly GPs in the Blacktown area?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/fi07ja/any_trans_friendly_gps_in_the_blacktown_area/) by Flutterkin in 2020
-* [Anyone know a trans friendly GP in North Western Sydney?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ejkttm/anyone_know_a_trans_friendly_gp_in_north_western/) by KlaraTi in 2020
+* reply to [Quickest way to get onto HRT in Sydney (MTF)](https://www.reddit.com/r/transgenderau/comments/yzxg8g/quickest_way_to_get_onto_hrt_in_sydney_mtf/ix2ohjq/) by theshyalternative in 2022 - *"Make an appointment to see dr Simone Dombroski at Alpha Medical centre in seven hills, tell her you wish to start HRT, she will have you see Dr Michael Scott in Waverly-ish area for a consult to confirm HRT is a good fit (it's more to protect her career if some time in the future you change your mind, this way there is a 2nd opinion before you start)"*
+* [Progesterone Question and Good experience with new GP in Sydney Hills District](https://www.reddit.com/r/transgenderau/comments/oc1t2e/progesterone_question_and_good_experience_with/) by 8950149 in 2021
+* [GP update](https://www.reddit.com/r/transgenderau/comments/i8ayed/gp_update/) by rvpaa27 in 2020
+* [GP suggestion in Sydney?](https://www.reddit.com/r/transgenderau/comments/i3hshe/gp_suggestion_in_sydney/) by corn_dad in 2020
+* [Any MtF HRT prescribing doctors in Hills Disctrict NSW?](https://www.reddit.com/r/transgenderau/comments/hdm5ab/any_mtf_hrt_prescribing_doctors_in_hills/) by Lydia_Halesurge in 2020
+* [Sydney based GPs - and an offer to update the wiki](https://www.reddit.com/r/transgenderau/comments/gnqqhj/sydney_based_gps_and_an_offer_to_update_the_wiki/) by SeekingDragonsWisdom in 2020
+* [Any trans friendly GPs in the Blacktown area?](https://www.reddit.com/r/transgenderau/comments/fi07ja/any_trans_friendly_gps_in_the_blacktown_area/) by Flutterkin in 2020
+* [Anyone know a trans friendly GP in North Western Sydney?](https://www.reddit.com/r/transgenderau/comments/ejkttm/anyone_know_a_trans_friendly_gp_in_north_western/) by KlaraTi in 2020
 
 <br />
 
@@ -888,7 +888,7 @@ Key details
 
 reddit
 
-* reply to [Sydney: Doctor quitting without warning, need new Doctor for continuation of care asap<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/k13ltv/sydney_doctor_quitting_without_warning_need_new/gdm4pb8/) by RegretfullyFastSperm in 2020
+* reply to [Sydney: Doctor quitting without warning, need new Doctor for continuation of care asap](https://www.reddit.com/r/transgenderau/comments/k13ltv/sydney_doctor_quitting_without_warning_need_new/gdm4pb8/) by RegretfullyFastSperm in 2020
 
 <br />
 
@@ -909,7 +909,7 @@ Key details
 
 reddit
 
-* reply to [Hormone/sex health specialist in South West Sydney? ftm<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/p1d14m/hormonesex_health_specialist_in_south_west_sydney/h8d53ik/) by Amazing-Experience-2 in 2021
+* reply to [Hormone/sex health specialist in South West Sydney? ftm](https://www.reddit.com/r/transgenderau/comments/p1d14m/hormonesex_health_specialist_in_south_west_sydney/h8d53ik/) by Amazing-Experience-2 in 2021
 
 <br />
 
@@ -925,7 +925,7 @@ reddit
 
 reddit
 
-* [Prolactin = stopping meds?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/uwlvmr/prolactin_stopping_meds/) by mlemzi in 2022
+* [Prolactin = stopping meds?](https://www.reddit.com/r/transgenderau/comments/uwlvmr/prolactin_stopping_meds/) by mlemzi in 2022
 
 Other
 
@@ -947,7 +947,7 @@ Key details
 
 reddit
 
-* [Endocrinologist & Pronouns<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/rhfjpe/endocrinologist_pronouns/) by ConArtist12 in 2021
+* [Endocrinologist & Pronouns](https://www.reddit.com/r/transgenderau/comments/rhfjpe/endocrinologist_pronouns/) by ConArtist12 in 2021
 
 <br />
 
@@ -962,7 +962,7 @@ Key details
 
 reddit
 
-* [International student continuing HRT<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/so2e4z/international_student_continuing_hrt/) by hobgoblinfruit in 2022
+* [International student continuing HRT](https://www.reddit.com/r/transgenderau/comments/so2e4z/international_student_continuing_hrt/) by hobgoblinfruit in 2022
 
 <br />
 
@@ -992,9 +992,9 @@ Key details
 
 reddit
 
-* [Private endocrinologist in Sydney for a 11 yo trans boy?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/yxib0j/private_endocrinologist_in_sydney_for_a_11_yo/iwtfd3n/) by terefah in 2022 - *""I had a really bad experience with her... she examined my genitals without explanation or adequate communication / opportunity to consent. It felt as though she would have denied me care if I refused... she even expressed surprise that I was wearing men’s underwear… as a trans guy...  Sarina Lim is a massive creep*
-* [Is my dosage normal?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ivr3ks/is_my_dosage_normal/) by ohgodohfuckwhatami in 2020
-* [PSA to anyone wondering about Informed Consent HRT in Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dfengn/psa_to_anyone_wondering_about_informed_consent/) by serious_mullet in 2019
+* [Private endocrinologist in Sydney for a 11 yo trans boy?](https://www.reddit.com/r/transgenderau/comments/yxib0j/private_endocrinologist_in_sydney_for_a_11_yo/iwtfd3n/) by terefah in 2022 - *""I had a really bad experience with her... she examined my genitals without explanation or adequate communication / opportunity to consent. It felt as though she would have denied me care if I refused... she even expressed surprise that I was wearing men’s underwear… as a trans guy...  Sarina Lim is a massive creep*
+* [Is my dosage normal?](https://www.reddit.com/r/transgenderau/comments/ivr3ks/is_my_dosage_normal/) by ohgodohfuckwhatami in 2020
+* [PSA to anyone wondering about Informed Consent HRT in Sydney](https://www.reddit.com/r/transgenderau/comments/dfengn/psa_to_anyone_wondering_about_informed_consent/) by serious_mullet in 2019
 
 Other links
 
@@ -1044,8 +1044,8 @@ Key Details
 
 reddit
 
-* [Private endocrinologist in Sydney for a 11 yo trans boy?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/yxib0j/private_endocrinologist_in_sydney_for_a_11_yo/iwtfd3n/) by terefah in 2022 - *" I see Dr Veena Jayadev at Concord and she is hands down one of the best doctors I’ve ever had. Cannot recommend her highly enough!"*
-* [I've started creating a map of every HRT prescribing doctor in Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/he6m2o/ive_started_creating_a_map_of_every_hrt/fvtqteo/) by amy-simmons in 2020
+* [Private endocrinologist in Sydney for a 11 yo trans boy?](https://www.reddit.com/r/transgenderau/comments/yxib0j/private_endocrinologist_in_sydney_for_a_11_yo/iwtfd3n/) by terefah in 2022 - *" I see Dr Veena Jayadev at Concord and she is hands down one of the best doctors I’ve ever had. Cannot recommend her highly enough!"*
+* [I've started creating a map of every HRT prescribing doctor in Australia](https://www.reddit.com/r/transgenderau/comments/he6m2o/ive_started_creating_a_map_of_every_hrt/fvtqteo/) by amy-simmons in 2020
 
 ---
 
@@ -1094,10 +1094,10 @@ Key details
 
 reddit
 
-* [my progress getting started in Newcastle, NSW. Australia.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/sk4crg/my_progress_getting_started_in_newcastle_nsw/) by Jaydee_O in 2022
-* [Has anyone here seen Katie Wynne?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/meugin/has_anyone_here_seen_katie_wynne/) by MissLashley in 2021
-* [Informed consent Newcastle area<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/l4bz2m/informed_consent_newcastle_area/) by VioletOlbricht in 2021
-* [NSW patients who have seen Dr Nele Lenders, Dr Christopher Muir, or Dr Katie Wynne<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dmpay0/nsw_patients_who_have_seen_dr_nele_lenders_dr/) by -Owlette- in 2019
+* [my progress getting started in Newcastle, NSW. Australia.](https://www.reddit.com/r/transgenderau/comments/sk4crg/my_progress_getting_started_in_newcastle_nsw/) by Jaydee_O in 2022
+* [Has anyone here seen Katie Wynne?](https://www.reddit.com/r/transgenderau/comments/meugin/has_anyone_here_seen_katie_wynne/) by MissLashley in 2021
+* [Informed consent Newcastle area](https://www.reddit.com/r/transgenderau/comments/l4bz2m/informed_consent_newcastle_area/) by VioletOlbricht in 2021
+* [NSW patients who have seen Dr Nele Lenders, Dr Christopher Muir, or Dr Katie Wynne](https://www.reddit.com/r/transgenderau/comments/dmpay0/nsw_patients_who_have_seen_dr_nele_lenders_dr/) by -Owlette- in 2019
 
 Papers
 
@@ -1118,9 +1118,9 @@ Key details
 
 reddit
 
-* [Informed consent Newcastle area<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/l4bz2m/informed_consent_newcastle_area/) by VioletOlbricht in 2021
-* [I've started creating a map of every HRT prescribing doctor in Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/he6m2o/ive_started_creating_a_map_of_every_hrt/) by amy-simmons in 2020
-* [Newcastle NSW Endocrinologist<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/5edaki/newcastle_nsw_endocrinologist/) by GreenGreenThrowaway in 2017
+* [Informed consent Newcastle area](https://www.reddit.com/r/transgenderau/comments/l4bz2m/informed_consent_newcastle_area/) by VioletOlbricht in 2021
+* [I've started creating a map of every HRT prescribing doctor in Australia](https://www.reddit.com/r/transgenderau/comments/he6m2o/ive_started_creating_a_map_of_every_hrt/) by amy-simmons in 2020
+* [Newcastle NSW Endocrinologist](https://www.reddit.com/r/transgenderau/comments/5edaki/newcastle_nsw_endocrinologist/) by GreenGreenThrowaway in 2017
 
 Papers
 
@@ -1159,8 +1159,8 @@ Key details
 
 reddit
 
-* reply to [my progress getting started in Newcastle, NSW. Australia.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/sk4crg/my_progress_getting_started_in_newcastle_nsw/hvit8bn/) peekaylove
-* [HRT MTF Doctors in Newcastle?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/rgnpfk/hrt_mtf_doctors_in_newcastle/) by Kassie-Alt in 2021
+* reply to [my progress getting started in Newcastle, NSW. Australia.](https://www.reddit.com/r/transgenderau/comments/sk4crg/my_progress_getting_started_in_newcastle_nsw/hvit8bn/) peekaylove
+* [HRT MTF Doctors in Newcastle?](https://www.reddit.com/r/transgenderau/comments/rgnpfk/hrt_mtf_doctors_in_newcastle/) by Kassie-Alt in 2021
 
 Papers
 
@@ -1179,8 +1179,8 @@ Key details
 
 reddit
 
-* [Experiences with Dr tyler schofield in Newcastle.<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1aj9pmw/experiences_with_dr_tyler_schofield_in_newcastle/) by noa_ng in 2024
-* [GP that will do my injections?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/alzdwf/gp_that_will_do_my_injections/) by kastoravi around 2019 - *"So I'm 6 months on testosterone in a few weeks and due for my next shot then, but I've been having a lot of trouble finding a bulk billed GP in Newcastle that is willing to do my shot (it's a big one so I can't do it myself), anyone have any suggestions? Tyler Schofield at Headspace has refused on multiple occasions and he's been my usual GP before this."*
+* [Experiences with Dr tyler schofield in Newcastle.](https://www.reddit.com/r/transgenderau/comments/1aj9pmw/experiences_with_dr_tyler_schofield_in_newcastle/) by noa_ng in 2024
+* [GP that will do my injections?](https://www.reddit.com/r/transgenderau/comments/alzdwf/gp_that_will_do_my_injections/) by kastoravi around 2019 - *"So I'm 6 months on testosterone in a few weeks and due for my next shot then, but I've been having a lot of trouble finding a bulk billed GP in Newcastle that is willing to do my shot (it's a big one so I can't do it myself), anyone have any suggestions? Tyler Schofield at Headspace has refused on multiple occasions and he's been my usual GP before this."*
 
 Other
 
@@ -1228,8 +1228,8 @@ Key Details
 
 reddit
 
-* reply to [Dr Katie wynne<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/jrzy4e/dr_katie_wynne/gbwniwg/) by Reviax- in 2020
-* [Gender doctors in Newcastle<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/j7pl11/gender_doctors_in_newcastle/) by Cammyss14 in 2020
+* reply to [Dr Katie wynne](https://www.reddit.com/r/transgenderau/comments/jrzy4e/dr_katie_wynne/gbwniwg/) by Reviax- in 2020
+* [Gender doctors in Newcastle](https://www.reddit.com/r/transgenderau/comments/j7pl11/gender_doctors_in_newcastle/) by Cammyss14 in 2020
 
 <br />
 
@@ -1243,7 +1243,7 @@ Key details
 
 reddit
 
-* [Trans friendly gps in the Newcastle area?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/i58tlk/trans_friendly_gps_in_the_newcastle_area/) by Zackyboi44 in 2020
+* [Trans friendly gps in the Newcastle area?](https://www.reddit.com/r/transgenderau/comments/i58tlk/trans_friendly_gps_in_the_newcastle_area/) by Zackyboi44 in 2020
 
 https://healthengine.com.au/doctor/nsw/charlestown/dr-tullio-savio/p13821
 
@@ -1260,7 +1260,7 @@ Key details
 
 reddit
 
-* reply to [Trans friendly gps in the Newcastle area?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/i58tlk/trans_friendly_gps_in_the_newcastle_area/g0ygcrt/) by FB91KW in 2020 - *"Avoid Shaun McGrath at all costs. He is a garbage endo and an even more garbage human being."*
+* reply to [Trans friendly gps in the Newcastle area?](https://www.reddit.com/r/transgenderau/comments/i58tlk/trans_friendly_gps_in_the_newcastle_area/g0ygcrt/) by FB91KW in 2020 - *"Avoid Shaun McGrath at all costs. He is a garbage endo and an even more garbage human being."*
 
 <br />
 
@@ -1275,7 +1275,7 @@ Key details
 
 reddit
 
-* reply to [Trans friendly gps in the Newcastle area?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/i58tlk/trans_friendly_gps_in_the_newcastle_area/g0ygcrt/) by FB91KW in 2020
+* reply to [Trans friendly gps in the Newcastle area?](https://www.reddit.com/r/transgenderau/comments/i58tlk/trans_friendly_gps_in_the_newcastle_area/g0ygcrt/) by FB91KW in 2020
 
 <br />
 
@@ -1328,7 +1328,7 @@ Key details
 
 ## Emanuel Vlahakis (Port Macquarie, Coffs Harbour, Lismore)
 
-As of 2021 he [seems to be retired<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/oktu3z/requirement_for_inperson_appointment_for_first/h5agqgy/), at least in Coffs Harbour.
+As of 2021 he [seems to be retired](https://www.reddit.com/r/transgenderau/comments/oktu3z/requirement_for_inperson_appointment_for_first/h5agqgy/), at least in Coffs Harbour.
 
 Key details
 
@@ -1346,8 +1346,8 @@ Key details
  
 reddit
 
-* [Requirement for in-person appointment for first consult with HRT specialist?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/oktu3z/requirement_for_inperson_appointment_for_first/) by natj910 in 2021
-* [GP in Hastings area?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/e83rrp/gp_in_hastings_area/) by FuriouslyBlazingLion in 2019
+* [Requirement for in-person appointment for first consult with HRT specialist?](https://www.reddit.com/r/transgenderau/comments/oktu3z/requirement_for_inperson_appointment_for_first/) by natj910 in 2021
+* [GP in Hastings area?](https://www.reddit.com/r/transgenderau/comments/e83rrp/gp_in_hastings_area/) by FuriouslyBlazingLion in 2019
 
 Other links
 
@@ -1369,8 +1369,8 @@ Key details
 
 reddit
 
-* [Requirement for in-person appointment for first consult with HRT specialist?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/oktu3z/requirement_for_inperson_appointment_for_first/) by natj910 in 2021
-* [Getting HRT<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/oipznc/getting_hrt/) by Marshmallow_Amy in 2021 - this post says he doesn't do informed consent
+* [Requirement for in-person appointment for first consult with HRT specialist?](https://www.reddit.com/r/transgenderau/comments/oktu3z/requirement_for_inperson_appointment_for_first/) by natj910 in 2021
+* [Getting HRT](https://www.reddit.com/r/transgenderau/comments/oipznc/getting_hrt/) by Marshmallow_Amy in 2021 - this post says he doesn't do informed consent
 
 <br />
 
@@ -1400,9 +1400,9 @@ Key details
 
 reddit
 
-* [Informed consent Newcastle area<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/l4bz2m/informed_consent_newcastle_area/) by VioletOlbricht in 2021
-* [Experiences with Dr Katie Wynne @ John Hunter Newcastle<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/imj7ta/experiences_with_dr_katie_wynne_john_hunter/) by Axiryth in 2020
-* [Trans Friendly GPs Central Coast<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/eoz1ez/trans_friendly_gps_central_coast/) by PizzaLawyers in 2020
+* [Informed consent Newcastle area](https://www.reddit.com/r/transgenderau/comments/l4bz2m/informed_consent_newcastle_area/) by VioletOlbricht in 2021
+* [Experiences with Dr Katie Wynne @ John Hunter Newcastle](https://www.reddit.com/r/transgenderau/comments/imj7ta/experiences_with_dr_katie_wynne_john_hunter/) by Axiryth in 2020
+* [Trans Friendly GPs Central Coast](https://www.reddit.com/r/transgenderau/comments/eoz1ez/trans_friendly_gps_central_coast/) by PizzaLawyers in 2020
 
 Other links
 
@@ -1446,12 +1446,12 @@ Key details
 
 reddit
 
-* [So Done<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/qd4ott/so_done/) by nd-transfemme in 2021
-* reply to [As I do more and more pellet implantations, I'm finding lots of people with a really high E2 free percent and low SHBG on pellets. For my pellet fans out there, is this the case for you too?<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/lffx42/as_i_do_more_and_more_pellet_implantations_im/gmp1s3d/) by SerenaMoana in 2021
-* [Swapping endos?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ko8q7u/swapping_endos/) by GhostGlobes in 2020
-* [Questions about WPATH/ANZPATH, MTF levels, and progesterone in Brisbane<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/c3944z/questions_about_wpathanzpath_mtf_levels_and/) by chloemtf in 2019
-* [Implants in Victoria<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/ao1oaf/implants_in_victoria/) by Kimmaree1967 in 2019
-* [How to get started with HRT in Brisbane?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/70vbi9/how_to_get_started_with_hrt_in_brisbane/) by Mara-Katash around 2018
+* [So Done](https://www.reddit.com/r/transgenderau/comments/qd4ott/so_done/) by nd-transfemme in 2021
+* reply to [As I do more and more pellet implantations, I'm finding lots of people with a really high E2 free percent and low SHBG on pellets. For my pellet fans out there, is this the case for you too?](https://www.reddit.com/r/DrWillPowers/comments/lffx42/as_i_do_more_and_more_pellet_implantations_im/gmp1s3d/) by SerenaMoana in 2021
+* [Swapping endos?](https://www.reddit.com/r/transgenderau/comments/ko8q7u/swapping_endos/) by GhostGlobes in 2020
+* [Questions about WPATH/ANZPATH, MTF levels, and progesterone in Brisbane](https://www.reddit.com/r/transgenderau/comments/c3944z/questions_about_wpathanzpath_mtf_levels_and/) by chloemtf in 2019
+* [Implants in Victoria](https://www.reddit.com/r/transgenderau/comments/ao1oaf/implants_in_victoria/) by Kimmaree1967 in 2019
+* [How to get started with HRT in Brisbane?](https://www.reddit.com/r/transgenderau/comments/70vbi9/how_to_get_started_with_hrt_in_brisbane/) by Mara-Katash around 2018
 
 <br />
 
@@ -1552,7 +1552,7 @@ Key details
 
 reddit
 
-* [MtF Injectable Oestrogen?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dvlefv/mtf_injectable_oestrogen/) by islvroze in 2019
+* [MtF Injectable Oestrogen?](https://www.reddit.com/r/transgenderau/comments/dvlefv/mtf_injectable_oestrogen/) by islvroze in 2019
 
 <br />
 
@@ -1570,7 +1570,7 @@ Key details
 
 reddit
 
-* [MtF Injectable Oestrogen?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/dvlefv/mtf_injectable_oestrogen/) by islvroze in 2019
+* [MtF Injectable Oestrogen?](https://www.reddit.com/r/transgenderau/comments/dvlefv/mtf_injectable_oestrogen/) by islvroze in 2019
 
 <br />
 
@@ -1606,7 +1606,7 @@ Key details
 
 reddit
 
-* [I cannot recommend Dr Alison Rutherford or Dr Jennifer Peattie for HRT (Illawarra area)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1bn6y48/i_cannot_recommend_dr_alison_rutherford_or_dr/) by Mic_hell_e in 2024 - *"When I first started HRT almost 3 years ago, I went to Dr Alison Rutherford. She misinformed me about what my expectations from HRT should be and my levels were extremely low for over 2 years to the point where I've had little to no physical changes... I've had pretty much no feminisation for the first 2.5 years because of how low my levels were and she would refuse to go any higher than what she was already prescribing me... Dr Jennifer Peattie was more or less the same when I transferred to her... I'm now seeing Dr Jonathan Hayes and for once in my transition, I'm actually seeing changes..."*
+* [I cannot recommend Dr Alison Rutherford or Dr Jennifer Peattie for HRT (Illawarra area)](https://www.reddit.com/r/transgenderau/comments/1bn6y48/i_cannot_recommend_dr_alison_rutherford_or_dr/) by Mic_hell_e in 2024 - *"When I first started HRT almost 3 years ago, I went to Dr Alison Rutherford. She misinformed me about what my expectations from HRT should be and my levels were extremely low for over 2 years to the point where I've had little to no physical changes... I've had pretty much no feminisation for the first 2.5 years because of how low my levels were and she would refuse to go any higher than what she was already prescribing me... Dr Jennifer Peattie was more or less the same when I transferred to her... I'm now seeing Dr Jonathan Hayes and for once in my transition, I'm actually seeing changes..."*
 
 Other
 
@@ -1626,7 +1626,7 @@ Key details
 
 reddit
 
-* [I cannot recommend Dr Alison Rutherford or Dr Jennifer Peattie for HRT (Illawarra area)<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1bn6y48/i_cannot_recommend_dr_alison_rutherford_or_dr/) by Mic_hell_e in 2024 = *"When I first started HRT almost 3 years ago, I went to Dr Alison Rutherford. She misinformed me about what my expectations from HRT should be and my levels were extremely low for over 2 years to the point where I've had little to no physical changes... I've had pretty much no feminisation for the first 2.5 years because of how low my levels were and she would refuse to go any higher than what she was already prescribing me... Dr Jennifer Peattie was more or less the same when I transferred to her... I'm now seeing Dr Jonathan Hayes and for once in my transition, I'm actually seeing changes..."*
+* [I cannot recommend Dr Alison Rutherford or Dr Jennifer Peattie for HRT (Illawarra area)](https://www.reddit.com/r/transgenderau/comments/1bn6y48/i_cannot_recommend_dr_alison_rutherford_or_dr/) by Mic_hell_e in 2024 = *"When I first started HRT almost 3 years ago, I went to Dr Alison Rutherford. She misinformed me about what my expectations from HRT should be and my levels were extremely low for over 2 years to the point where I've had little to no physical changes... I've had pretty much no feminisation for the first 2.5 years because of how low my levels were and she would refuse to go any higher than what she was already prescribing me... Dr Jennifer Peattie was more or less the same when I transferred to her... I'm now seeing Dr Jonathan Hayes and for once in my transition, I'm actually seeing changes..."*
 
 <br />
 
@@ -1661,7 +1661,7 @@ Key details
 
 reddit
 
-* [GP's in Rural NSW<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/nexcqi/gps_in_rural_nsw/) by ruke11 in 2021
+* [GP's in Rural NSW](https://www.reddit.com/r/transgenderau/comments/nexcqi/gps_in_rural_nsw/) by ruke11 in 2021
 
 <br />
 
@@ -1696,7 +1696,7 @@ Key details
 
 reddit
 
-* reply [I've started creating a map of every HRT prescribing doctor in Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/he6m2o/ive_started_creating_a_map_of_every_hrt/fvxtiqa/) by HappyShadowBurrito in 2020
+* reply [I've started creating a map of every HRT prescribing doctor in Australia](https://www.reddit.com/r/transgenderau/comments/he6m2o/ive_started_creating_a_map_of_every_hrt/fvxtiqa/) by HappyShadowBurrito in 2020
 
 Other
 
@@ -1814,7 +1814,7 @@ Key details
 
 reddit
 
-* [GP's in Rural NSW<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/nexcqi/gps_in_rural_nsw/) by ruke11 in 2021
+* [GP's in Rural NSW](https://www.reddit.com/r/transgenderau/comments/nexcqi/gps_in_rural_nsw/) by ruke11 in 2021
 
 Other
 
@@ -1838,7 +1838,7 @@ Key details
 
 reddit
 
-* [GP recommendation<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/y8i1j7/gp_recommendation/) by SunshineOnJupiter in 2022 - *"She is incredibly kind, understanding and supportive and helpful. I cannot recommend her enough to anyone starting their journey and looking for a practitioner."*
+* [GP recommendation](https://www.reddit.com/r/transgenderau/comments/y8i1j7/gp_recommendation/) by SunshineOnJupiter in 2022 - *"She is incredibly kind, understanding and supportive and helpful. I cannot recommend her enough to anyone starting their journey and looking for a practitioner."*
 
 Other
 
@@ -1859,7 +1859,7 @@ He does [circumcision on children](https://circumcisionsnsw.com.au/), so persona
 
 reddit
 
-* [Has anybody had any experience with Dr Adrian Sheen or Dr Eva Jackson to start HRT?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/l3rddc/has_anybody_had_any_experience_with_dr_adrian/) by Laura_271 in 2021
+* [Has anybody had any experience with Dr Adrian Sheen or Dr Eva Jackson to start HRT?](https://www.reddit.com/r/transgenderau/comments/l3rddc/has_anybody_had_any_experience_with_dr_adrian/) by Laura_271 in 2021
 
 Other
 
@@ -1906,9 +1906,9 @@ Key details
 
 reddit
 
-* [Thoughts On Dr Eva Jackson & Katoomba Sexual Health Clinic<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/shqrxm/thoughts_on_dr_eva_jackson_katoomba_sexual_health/) by TransAlterEgoJD in 2022
-* [Dr Eva Jackson<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/m62ggz/dr_eva_jackson/) by babyfacebuoy in 2021
-* [Anyone seen eva jackson before?<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/k522yn/anyone_seen_eva_jackson_before/) by my_name_rules in 2020
+* [Thoughts On Dr Eva Jackson & Katoomba Sexual Health Clinic](https://www.reddit.com/r/transgenderau/comments/shqrxm/thoughts_on_dr_eva_jackson_katoomba_sexual_health/) by TransAlterEgoJD in 2022
+* [Dr Eva Jackson](https://www.reddit.com/r/transgenderau/comments/m62ggz/dr_eva_jackson/) by babyfacebuoy in 2021
+* [Anyone seen eva jackson before?](https://www.reddit.com/r/transgenderau/comments/k522yn/anyone_seen_eva_jackson_before/) by my_name_rules in 2020
 
 <br />
 
@@ -1966,10 +1966,10 @@ Key details
 
 reddit
 
-* [Some tips to help you get on T<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/oaud8f/some_tips_to_help_you_get_on_t/) by TheWolfBoi02 in 2021
+* [Some tips to help you get on T](https://www.reddit.com/r/transgenderau/comments/oaud8f/some_tips_to_help_you_get_on_t/) by TheWolfBoi02 in 2021
 
 <br />
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**

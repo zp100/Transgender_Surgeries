@@ -1,6 +1,6 @@
 **Other Surgeries**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
@@ -8,7 +8,7 @@
 
 reddit
 
-* [Is getting a Ear size reduction possible?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pjvs92/is_getting_a_ear_size_reduction_possible/) by doorway999 in 2021
+* [Is getting a Ear size reduction possible?](https://www.reddit.com/r/Transgender_Surgeries/comments/pjvs92/is_getting_a_ear_size_reduction_possible/) by doorway999 in 2021
 
 Other
 
@@ -22,8 +22,8 @@ Other
 
 reddit
 
-* [Foot shortening surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10tguyd/foot_shortening_surgery/) by plastic_dani in 2023 - surgeon in Düsseldorf, Germany
-* [Shoe Width Surgery (This Really Exists)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pzqdg3/shoe_width_surgery_this_really_exists/) by Barb_B_notReally in 2021
+* [Foot shortening surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/10tguyd/foot_shortening_surgery/) by plastic_dani in 2023 - surgeon in Düsseldorf, Germany
+* [Shoe Width Surgery (This Really Exists)](https://www.reddit.com/r/Transgender_Surgeries/comments/pzqdg3/shoe_width_surgery_this_really_exists/) by Barb_B_notReally in 2021
 
 Gendertreff Forum (in German)
 
@@ -52,7 +52,7 @@ Lawsuits
 
 Other
 
-* [Transgender Women Feminize Their Feet Through Surgery](https://www.edgemedianetwork.com/story.php?178410) by Dr. Suzanne Levine in 2015 - *"Dr. Suzanne Levine is a Board-Certified Podiatric Surgeon who has been named one of "America's Top Podiatrists" by the Consumers' Research Council of America and is among the most acclaimed podiatrists internationally."* - see wiki entry for [Consumers Research Council of America<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#consumers-research-council-of-america)
+* [Transgender Women Feminize Their Feet Through Surgery](https://www.edgemedianetwork.com/story.php?178410) by Dr. Suzanne Levine in 2015 - *"Dr. Suzanne Levine is a Board-Certified Podiatric Surgeon who has been named one of "America's Top Podiatrists" by the Consumers' Research Council of America and is among the most acclaimed podiatrists internationally."* - see wiki entry for <span class="internal">[Consumers Research Council of America](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#consumers-research-council-of-america)</span>
 * [Time for Toetox? Park Avenue Podiatrist Tends to Tortured Soles](https://observer.com/2009/04/time-for-toetox-park-avenue-podiatrist-tends-to-tortured-soles/) by Irina Aleksander in 2009 - *"Dr. Levine said her male clients are usually either in the entertainment industry, transgender males trying to fit into women’s shoes or ..."*
 
 ## Gabriel Rodriguez
@@ -67,8 +67,8 @@ Surgeon sites
 
 reddit
 
-* [Foot Shortening Update<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vo9fz3/foot_shortening_update/) by Its_Katie_ in 2022
-    * [Foot Shortening Surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/v9n10k/foot_shortening_surgery/) by Its_Katie_ in 2022
+* [Foot Shortening Update](https://www.reddit.com/r/Transgender_Surgeries/comments/vo9fz3/foot_shortening_update/) by Its_Katie_ in 2022
+    * [Foot Shortening Surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/v9n10k/foot_shortening_surgery/) by Its_Katie_ in 2022
 
 ## Adem Erdogan
 
@@ -85,8 +85,8 @@ Surgeons sites
 
 reddit
 
-* [Foot shortening and narrowing surgery with Dr. Adem Erdogan, Düsseldorf, Germany<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10vyfeo/foot_shortening_and_narrowing_surgery_with_dr/) by plastic_dani in 2023
-    * [Foot shortening surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10tguyd/foot_shortening_surgery/) by plastic_dani in 2023
+* [Foot shortening and narrowing surgery with Dr. Adem Erdogan, Düsseldorf, Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/10vyfeo/foot_shortening_and_narrowing_surgery_with_dr/) by plastic_dani in 2023
+    * [Foot shortening surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/10tguyd/foot_shortening_surgery/) by plastic_dani in 2023
 
 <br />
 
@@ -96,7 +96,7 @@ reddit
 
 reddit
 
-* [Waist narrowing without removal of the ribs<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vqle0b/waist_narrowing_without_removal_of_the_ribs/) by rarespib in 2022 - *"After doing some research I've found that rib reduction without removal of the ribs is practiced by multiple surgeons in Russia. The surgery was patented by Dr. Kazbek Kudzaev in 2018 and a search for "метод Кудзаєва" ("Kudzaev's Method") yields multiple results. Prices seem to be around €3000. This surgery is also practiced by at least one Ukrainian surgeon, [Dr. Oleksandr Bebykh](https://www.bebykh.com/en-GB/body_plastic/umenshenie-talii-bez-udaleniya-reber/)."*
+* [Waist narrowing without removal of the ribs](https://www.reddit.com/r/Transgender_Surgeries/comments/vqle0b/waist_narrowing_without_removal_of_the_ribs/) by rarespib in 2022 - *"After doing some research I've found that rib reduction without removal of the ribs is practiced by multiple surgeons in Russia. The surgery was patented by Dr. Kazbek Kudzaev in 2018 and a search for "метод Кудзаєва" ("Kudzaev's Method") yields multiple results. Prices seem to be around €3000. This surgery is also practiced by at least one Ukrainian surgeon, [Dr. Oleksandr Bebykh](https://www.bebykh.com/en-GB/body_plastic/umenshenie-talii-bez-udaleniya-reber/)."*
 
 Facebook
 
@@ -114,8 +114,8 @@ Papers
 
 reddit
 
-* [Rib cage narrowing - what do we think about this procedure?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/18tu29p/rib_cage_narrowing_what_do_we_think_about_this/) by girlnamepending in 2023
-* [Rib Removal: Yes, I did it. Ask me anything.<sup>R</sup>](https://www.reddit.com/r/PlasticSurgery/comments/ic5p3n/rib_removal_yes_i_did_it_ask_me_anything/) by sweetlittlesugarsnap in 2020 - this is not trans related
+* [Rib cage narrowing - what do we think about this procedure?](https://www.reddit.com/r/Transgender_Surgeries/comments/18tu29p/rib_cage_narrowing_what_do_we_think_about_this/) by girlnamepending in 2023
+* [Rib Removal: Yes, I did it. Ask me anything.](https://www.reddit.com/r/PlasticSurgery/comments/ic5p3n/rib_removal_yes_i_did_it_ask_me_anything/) by sweetlittlesugarsnap in 2020 - this is not trans related
 
 Susans
 
@@ -149,7 +149,7 @@ Breaking the ribs and reshaping using a corset.
 
 reddit
 
-* [Waist narrowing surgery<sup>R</sup>](https://www.reddit.com/r/MtF/comments/g36qn0/waist_narrowing_surgery/) by AnyaAnn in 2020
+* [Waist narrowing surgery](https://www.reddit.com/r/MtF/comments/g36qn0/waist_narrowing_surgery/) by AnyaAnn in 2020
 
 According to Dr. Barry Eppley in [Is Rib Reshaping Better Than Rib Removal For Waistline Narrowing?](https://www.eppleyplasticsurgery.com/is-rib-reshaping-better-than-rib-removal-for-waistline-narrowing/) 
 
@@ -242,10 +242,10 @@ Surgeons sites
 
 reddit
 
-* [Shoulder Reduction/Rib Removal Dr. Eppley almost 1 year post-op<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vnjk7c/shoulder_reductionrib_removal_dr_eppley_almost_1/) by theydystardust in 2022
-    * [Shoulder reduction and rib/tissue removal with Dr. Eppley, 12 weeks post-op!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/q9mco6/shoulder_reduction_and_ribtissue_removal_with_dr/) by theydystardust in 2021
-    * [My consult with Dr. Eppley regarding shoulder reduction/rib removal<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lmdvn3/my_consult_with_dr_eppley_regarding_shoulder/) by theydystardust in 2021
-* [Shoulder Width Reduction Surgeons<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ittyjn/shoulder_width_reduction_surgeons/) by ThrowingMyFaceAway in 2020
+* [Shoulder Reduction/Rib Removal Dr. Eppley almost 1 year post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/vnjk7c/shoulder_reductionrib_removal_dr_eppley_almost_1/) by theydystardust in 2022
+    * [Shoulder reduction and rib/tissue removal with Dr. Eppley, 12 weeks post-op!](https://www.reddit.com/r/Transgender_Surgeries/comments/q9mco6/shoulder_reduction_and_ribtissue_removal_with_dr/) by theydystardust in 2021
+    * [My consult with Dr. Eppley regarding shoulder reduction/rib removal](https://www.reddit.com/r/Transgender_Surgeries/comments/lmdvn3/my_consult_with_dr_eppley_regarding_shoulder/) by theydystardust in 2021
+* [Shoulder Width Reduction Surgeons](https://www.reddit.com/r/Transgender_Surgeries/comments/ittyjn/shoulder_width_reduction_surgeons/) by ThrowingMyFaceAway in 2020
 
 YouTube
 
@@ -334,7 +334,7 @@ Surgeons sites
 
 reddit
 
-* [4.5 mo update on my 360 tummy tuck/lipo/ribs 11/12 removed at RGV cosmetic In Edinburg TX. (Yes I chose to have no belly button)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/101ob5w/45_mo_update_on_my_360_tummy_tuckliporibs_1112/) by MTFThrowaway512 in 2023
+* [4.5 mo update on my 360 tummy tuck/lipo/ribs 11/12 removed at RGV cosmetic In Edinburg TX. (Yes I chose to have no belly button)](https://www.reddit.com/r/Transgender_Surgeries/comments/101ob5w/45_mo_update_on_my_360_tummy_tuckliporibs_1112/) by MTFThrowaway512 in 2023
 
 Review sites
 
@@ -365,7 +365,7 @@ Surgeons sites
 
 reddit
 
-* [Rib Repositioning 2 months post op<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1dkga0a/rib_repositioning_2_months_post_op/) by  tattooboogaloo in 2024 - *"I had rib repositioning with Dr. Arredondo at Austin Plastic Surgeon in Texas. For anyone who doesn't know, this is a newer option in the US and alternative to rib removal that is safer in the long run, results vary pretty significantly from person to person. I am down about 2" in my waist to the tune of just under $8k"*
+* [Rib Repositioning 2 months post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1dkga0a/rib_repositioning_2_months_post_op/) by  tattooboogaloo in 2024 - *"I had rib repositioning with Dr. Arredondo at Austin Plastic Surgeon in Texas. For anyone who doesn't know, this is a newer option in the US and alternative to rib removal that is safer in the long run, results vary pretty significantly from person to person. I am down about 2" in my waist to the tune of just under $8k"*
 
 Review sites
 
@@ -379,18 +379,18 @@ Review sites
 
 reddit subs
 
-* [r/cosmeticclaviclefix<sup>R</sup>](https://www.reddit.com/r/cosmeticclaviclefix) - *"Interested in getting clavicle surgery for cosmetic reasons? We're getting in contact with orthopedic surgeons to bring the price down, and also to get a safer treatment than with a cosmetic surgeon. For privacy reasons, as we may all end up going to the same surgeon, this is a private sub. If you are interested in clavicle surgery and can take the time to contact orthopedic surgeons in your country, please contact any one of us by PM to ask to join."*
+* [r/cosmeticclaviclefix](https://www.reddit.com/r/cosmeticclaviclefix) - *"Interested in getting clavicle surgery for cosmetic reasons? We're getting in contact with orthopedic surgeons to bring the price down, and also to get a safer treatment than with a cosmetic surgeon. For privacy reasons, as we may all end up going to the same surgeon, this is a private sub. If you are interested in clavicle surgery and can take the time to contact orthopedic surgeons in your country, please contact any one of us by PM to ask to join."*
 
 reddit
 
-* [Shoulder width reduction actually reducing?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qtqp1i/shoulder_width_reduction_actually_reducing/) by NatureisaCute around 2022
-* [There is now a private sub for clavicle surgery (shoulder reduction for mtf, augmentation for ftm)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ixrj28/there_is_now_a_private_sub_for_clavicle_surgery/) by darthemofan in 2020
-* [Shoulder Width Reduction Surgeons<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ittyjn/shoulder_width_reduction_surgeons/) by ThrowingMyFaceAway in 2020
-* [Shoulder width reduction<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hit177/shoulder_width_reduction/) by Thatblondegirl1999 in 2020
-* [I had shoulder width reduction with Dr Eppley a couple of weeks ago.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dxpkbb/i_had_shoulder_width_reduction_with_dr_eppley_a/) by Feandra in 2019
-* [Are there surgical options for large shoulders?<sup>R</sup>](https://www.reddit.com/r/MtF/comments/a921o5/are_there_surgical_options_for_large_shoulders/) by AnnaR31 in 2018
-* [I had clavicle shortening/shoulder narrowing surgery <sup>R</sup>](https://www.reddit.com/r/MtF/comments/9attd5/i_had_clavicle_shorteningshoulder_narrowing/) by transalt418 in 2018
-* [Shoulder Width Reduction Surgery -- apparently, this might be a thing soon. Anyone have more information?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/8u1q9o/shoulder_width_reduction_surgery_apparently_this/) in 2018
+* [Shoulder width reduction actually reducing?](https://www.reddit.com/r/Transgender_Surgeries/comments/qtqp1i/shoulder_width_reduction_actually_reducing/) by NatureisaCute around 2022
+* [There is now a private sub for clavicle surgery (shoulder reduction for mtf, augmentation for ftm)](https://www.reddit.com/r/Transgender_Surgeries/comments/ixrj28/there_is_now_a_private_sub_for_clavicle_surgery/) by darthemofan in 2020
+* [Shoulder Width Reduction Surgeons](https://www.reddit.com/r/Transgender_Surgeries/comments/ittyjn/shoulder_width_reduction_surgeons/) by ThrowingMyFaceAway in 2020
+* [Shoulder width reduction](https://www.reddit.com/r/Transgender_Surgeries/comments/hit177/shoulder_width_reduction/) by Thatblondegirl1999 in 2020
+* [I had shoulder width reduction with Dr Eppley a couple of weeks ago.](https://www.reddit.com/r/Transgender_Surgeries/comments/dxpkbb/i_had_shoulder_width_reduction_with_dr_eppley_a/) by Feandra in 2019
+* [Are there surgical options for large shoulders?](https://www.reddit.com/r/MtF/comments/a921o5/are_there_surgical_options_for_large_shoulders/) by AnnaR31 in 2018
+* [I had clavicle shortening/shoulder narrowing surgery ](https://www.reddit.com/r/MtF/comments/9attd5/i_had_clavicle_shorteningshoulder_narrowing/) by transalt418 in 2018
+* [Shoulder Width Reduction Surgery -- apparently, this might be a thing soon. Anyone have more information?](https://www.reddit.com/r/asktransgender/comments/8u1q9o/shoulder_width_reduction_surgery_apparently_this/) in 2018
 
 Susans
 
@@ -420,9 +420,9 @@ Surgeons sites
 
 reddit
 
-* [I had Clavical shortening a few days ago. AMA<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10tnb42/i_had_clavical_shortening_a_few_days_ago_ama/) by  helloworld1989 in 2023
-* [Consultation with Leif Rogers and new news about clavicle shortening, etc.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/zfme0u/consultation_with_leif_rogers_and_new_news_about/) by wyrecharm in 2022
-* [Shoulder Width Reduction Consultation<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hx65xm/shoulder_width_reduction_consultation/) by DRain64 in 2020
+* [I had Clavical shortening a few days ago. AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/10tnb42/i_had_clavical_shortening_a_few_days_ago_ama/) by  helloworld1989 in 2023
+* [Consultation with Leif Rogers and new news about clavicle shortening, etc.](https://www.reddit.com/r/Transgender_Surgeries/comments/zfme0u/consultation_with_leif_rogers_and_new_news_about/) by wyrecharm in 2022
+* [Shoulder Width Reduction Consultation](https://www.reddit.com/r/Transgender_Surgeries/comments/hx65xm/shoulder_width_reduction_consultation/) by DRain64 in 2020
 
 YouTube
 
@@ -448,11 +448,11 @@ Surgeons sites
 
 reddit
 
-* [Shoulder narrowing/clavicle reduction consultation with Dr. Eppley (more in comments)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vyx709/shoulder_narrowingclavicle_reduction_consultation/) by Sad111Suit in 2022
-* [1 day post-op with Dr. Eppley- shoulders and rib removal (imgur link with step-by-step in comments shortly)!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/oqgb3y/1_day_postop_with_dr_eppley_shoulders_and_rib/) by theydystardust in 2021, photos [here](https://imgur.com/gallery/ATc1NOl)
-* [My consult with Dr. Eppley regarding shoulder reduction/rib removal<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lmdvn3/my_consult_with_dr_eppley_regarding_shoulder/) by theydystardust in 2021
-* [Shoulder Width Reduction Surgeons<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/ittyjn/shoulder_width_reduction_surgeons/) by ThrowingMyFaceAway in 2020
-* [I had shoulder width reduction with Dr Eppley a couple of weeks ago.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dxpkbb/i_had_shoulder_width_reduction_with_dr_eppley_a/) by Feandra in 2019
+* [Shoulder narrowing/clavicle reduction consultation with Dr. Eppley (more in comments)](https://www.reddit.com/r/Transgender_Surgeries/comments/vyx709/shoulder_narrowingclavicle_reduction_consultation/) by Sad111Suit in 2022
+* [1 day post-op with Dr. Eppley- shoulders and rib removal (imgur link with step-by-step in comments shortly)!](https://www.reddit.com/r/Transgender_Surgeries/comments/oqgb3y/1_day_postop_with_dr_eppley_shoulders_and_rib/) by theydystardust in 2021, photos [here](https://imgur.com/gallery/ATc1NOl)
+* [My consult with Dr. Eppley regarding shoulder reduction/rib removal](https://www.reddit.com/r/Transgender_Surgeries/comments/lmdvn3/my_consult_with_dr_eppley_regarding_shoulder/) by theydystardust in 2021
+* [Shoulder Width Reduction Surgeons](https://www.reddit.com/r/Transgender_Surgeries/comments/ittyjn/shoulder_width_reduction_surgeons/) by ThrowingMyFaceAway in 2020
+* [I had shoulder width reduction with Dr Eppley a couple of weeks ago.](https://www.reddit.com/r/Transgender_Surgeries/comments/dxpkbb/i_had_shoulder_width_reduction_with_dr_eppley_a/) by Feandra in 2019
 
 Papers
 
@@ -476,10 +476,10 @@ Surgeons sites
 
 reddit
 
-* [For anybody who is curious of how titan plates for broken/shortened/lengthened clavicles look like<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/qb8xpl/for_anybody_who_is_curious_of_how_titan_plates/) by ButINeedThatUsername in 2021
-    * [One year post clavicle shortening surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/jb535o/one_year_post_clavicle_shortening_surgery/) by ButINeedThatUsername in 2020
-    * [Clavicular pseudarthrosis. What now?<sup>R</sup>](https://www.reddit.com/r/medical/comments/j0njyt/clavicular_pseudarthrosis_what_now/)  by  ButINeedThatUsername in 2020, cross posted to [Clavicular pseudarthrosis from shoulder narrowing surgery. What now?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/j0no0m/clavicular_pseudarthrosis_from_shoulder_narrowing/)
-    * [\[Information\] Shoulder width reduction surgery does exist. (Clavicle shortening | shoulder narrowing)<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/dpkkws/information_shoulder_width_reduction_surgery_does/) by ButINeedThatUsername in 2019
+* [For anybody who is curious of how titan plates for broken/shortened/lengthened clavicles look like](https://www.reddit.com/r/Transgender_Surgeries/comments/qb8xpl/for_anybody_who_is_curious_of_how_titan_plates/) by ButINeedThatUsername in 2021
+    * [One year post clavicle shortening surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/jb535o/one_year_post_clavicle_shortening_surgery/) by ButINeedThatUsername in 2020
+    * [Clavicular pseudarthrosis. What now?](https://www.reddit.com/r/medical/comments/j0njyt/clavicular_pseudarthrosis_what_now/)  by  ButINeedThatUsername in 2020, cross posted to [Clavicular pseudarthrosis from shoulder narrowing surgery. What now?](https://www.reddit.com/r/Transgender_Surgeries/comments/j0no0m/clavicular_pseudarthrosis_from_shoulder_narrowing/)
+    * [\[Information\] Shoulder width reduction surgery does exist. (Clavicle shortening | shoulder narrowing)](https://www.reddit.com/r/asktransgender/comments/dpkkws/information_shoulder_width_reduction_surgery_does/) by ButINeedThatUsername in 2019
 
 <br />
 
@@ -509,7 +509,7 @@ Location
 
 reddit
 
-* [CLAVICLE REDUCTION/ Shoulder width reduction with FACEMAKER team- Dr Sluzky and Dr Baveyan - YEREVAN, ARMENIA- AMAZING EXPERIENCE!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1fvxqcj/clavicle_reduction_shoulder_width_reduction_with/) by Affectionate-Cod7953 in 2024
+* [CLAVICLE REDUCTION/ Shoulder width reduction with FACEMAKER team- Dr Sluzky and Dr Baveyan - YEREVAN, ARMENIA- AMAZING EXPERIENCE!](https://www.reddit.com/r/Transgender_Surgeries/comments/1fvxqcj/clavicle_reduction_shoulder_width_reduction_with/) by Affectionate-Cod7953 in 2024
 
 <br />
 
@@ -519,10 +519,10 @@ reddit
 
 reddit
 
-* [Yearly height reduction surgery thread! December 2022 (MtF)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/zaldzu/yearly_height_reduction_surgery_thread_december/) by zante2033 in 2022
-* [\[SERIOUS\] Why is femoral shortening overlooked?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hkptk8/serious_why_is_femoral_shortening_overlooked/) by awhirlwindofideas in 2020
-* [Femoral shortening, or height reduction surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/e2s6ew/femoral_shortening_or_height_reduction_surgery/) by throwaway_95_95 in 2019
-* [Height reduction surgery is a thing?<sup>R</sup>](https://www.reddit.com/r/todayifoundout/comments/bk5de7/height_reduction_surgery_is_a_thing/) by Azure_depths in 2019
+* [Yearly height reduction surgery thread! December 2022 (MtF)](https://www.reddit.com/r/Transgender_Surgeries/comments/zaldzu/yearly_height_reduction_surgery_thread_december/) by zante2033 in 2022
+* [\[SERIOUS\] Why is femoral shortening overlooked?](https://www.reddit.com/r/Transgender_Surgeries/comments/hkptk8/serious_why_is_femoral_shortening_overlooked/) by awhirlwindofideas in 2020
+* [Femoral shortening, or height reduction surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/e2s6ew/femoral_shortening_or_height_reduction_surgery/) by throwaway_95_95 in 2019
+* [Height reduction surgery is a thing?](https://www.reddit.com/r/todayifoundout/comments/bk5de7/height_reduction_surgery_is_a_thing/) by Azure_depths in 2019
 
 Papers
 
@@ -565,8 +565,8 @@ Surgeons sites
 
 reddit
 
-* [I just had surgery to make me shorter!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/1cnnzxg/i_just_had_surgery_to_make_me_shorter/) by ultaviolet9 in 2024 - *"Overall it’s been a challenging surgery to recover from but I’m thrilled to be shorter. It’s so cool seeing people I know and not feeling like I’m towering over them in the way I used to... I ended up with a reduction of 1 3/4"... less than I hoped but still enough to make a significant difference... The surgery went very smoothly and there were no complications... I was 5’11 3/4” before surgery, and so far measured myself at 5’10” after... Tomorrow marks 5 weeks since surgery and so I thought I'd add an update to this post... I can now do a lot more than I could, but not nearly as much as I want. Standing up and sitting down remain the hardest and most painful things to do. I can't do them without using my hands to help me, but I can do them much more easily than earlier in recovery... Walking is getting a lot better, but I am still completely unstable without the walker... 8 week update! Over the last two weeks things improved considerably. The pain dropped a lot so that now I don’t have much pain except after doing a lot of exercise. I can sleep on my side again, which has been really nice. A week ago I even started walking a bit without a cane or walker! It’s still very slow wobbly walking, but it’s walking. I managed to take a trip by air and have been driving again recently too."*
-* [Femoral shortening, or height reduction surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/e2s6ew/femoral_shortening_or_height_reduction_surgery/) by throwaway_95_95 in 2019
+* [I just had surgery to make me shorter!](https://www.reddit.com/r/Transgender_Surgeries/comments/1cnnzxg/i_just_had_surgery_to_make_me_shorter/) by ultaviolet9 in 2024 - *"Overall it’s been a challenging surgery to recover from but I’m thrilled to be shorter. It’s so cool seeing people I know and not feeling like I’m towering over them in the way I used to... I ended up with a reduction of 1 3/4"... less than I hoped but still enough to make a significant difference... The surgery went very smoothly and there were no complications... I was 5’11 3/4” before surgery, and so far measured myself at 5’10” after... Tomorrow marks 5 weeks since surgery and so I thought I'd add an update to this post... I can now do a lot more than I could, but not nearly as much as I want. Standing up and sitting down remain the hardest and most painful things to do. I can't do them without using my hands to help me, but I can do them much more easily than earlier in recovery... Walking is getting a lot better, but I am still completely unstable without the walker... 8 week update! Over the last two weeks things improved considerably. The pain dropped a lot so that now I don’t have much pain except after doing a lot of exercise. I can sleep on my side again, which has been really nice. A week ago I even started walking a bit without a cane or walker! It’s still very slow wobbly walking, but it’s walking. I managed to take a trip by air and have been driving again recently too."*
+* [Femoral shortening, or height reduction surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/e2s6ew/femoral_shortening_or_height_reduction_surgery/) by throwaway_95_95 in 2019
 
 <br />
 
@@ -582,7 +582,7 @@ Surgeons sites
 
 reddit
 
-* [Femoral shortening, or height reduction surgery<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/e2s6ew/femoral_shortening_or_height_reduction_surgery/) by throwaway_95_95 in 2019
+* [Femoral shortening, or height reduction surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/e2s6ew/femoral_shortening_or_height_reduction_surgery/) by throwaway_95_95 in 2019
 
 <br />
 
@@ -604,7 +604,7 @@ Surgeons sites
 
 reddit
 
-* ["Height Reduction Surgery" or Limb Shortening Surgery IS a real thing and CAN be done for both legs<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/r7jl11/height_reduction_surgery_or_limb_shortening/) by Dyingsparks in 2021 - *"Dr. Hüseyin Kayak regularly performs limb-lengthening procedures in Istanbul, Turkey. However he and his team also performs bow-leg correction, and limb-shortening procedures."*
+* ["Height Reduction Surgery" or Limb Shortening Surgery IS a real thing and CAN be done for both legs](https://www.reddit.com/r/Transgender_Surgeries/comments/r7jl11/height_reduction_surgery_or_limb_shortening/) by Dyingsparks in 2021 - *"Dr. Hüseyin Kayak regularly performs limb-lengthening procedures in Istanbul, Turkey. However he and his team also performs bow-leg correction, and limb-shortening procedures."*
 
 Other
 
@@ -634,8 +634,8 @@ Surgeons sites
 
 reddit
 
-* [German model got a surgery to boost her height from 163cm to 180cm.<sup>R</sup>](https://www.reddit.com/r/WTF/comments/13iqbng/german_model_got_a_surgery_to_boost_her_height/) in 2023 - not trans related, see also [Theresia Fischer: The Model Who Spent Rs 1 Crore To Increase The Length Of Her Legs](https://www.indiatimes.com/amp/trending/human-interest/the-model-who-spent-rs-1-crore-to-increase-the-length-of-her-legs-601696.html)
-* [Thoughts on the ethics of performing 'purely cosmetic' limb lengthening for patients without functional deficit?](https://np.reddit.com/r/medicine/comments/12j9byo/thoughts_on_the_ethics_of_performing_purely/) in 2023 - this is in [r/medicine<sup>R</sup>](https://www.reddit.com/r/medicine), which is for medical professionals. Be careful about commenting there.
+* [German model got a surgery to boost her height from 163cm to 180cm.](https://www.reddit.com/r/WTF/comments/13iqbng/german_model_got_a_surgery_to_boost_her_height/) in 2023 - not trans related, see also [Theresia Fischer: The Model Who Spent Rs 1 Crore To Increase The Length Of Her Legs](https://www.indiatimes.com/amp/trending/human-interest/the-model-who-spent-rs-1-crore-to-increase-the-length-of-her-legs-601696.html)
+* [Thoughts on the ethics of performing 'purely cosmetic' limb lengthening for patients without functional deficit?](https://np.reddit.com/r/medicine/comments/12j9byo/thoughts_on_the_ethics_of_performing_purely/) in 2023 - this is in [r/medicine](https://www.reddit.com/r/medicine), which is for medical professionals. Be careful about commenting there.
 
 Papers
 
@@ -683,7 +683,7 @@ Surgeons sites
 
 reddit
 
-* [Is teeth feminization a thing?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/q09x19/is_teeth_feminization_a_thing/) by TheProverbialsunrise in 2021
+* [Is teeth feminization a thing?](https://www.reddit.com/r/Transgender_Surgeries/comments/q09x19/is_teeth_feminization_a_thing/) by TheProverbialsunrise in 2021
 
 Susans
 
@@ -701,7 +701,7 @@ https://pagesix.com/2015/05/04/bruce-jenner-needs-dental-reassignment-surgery/ -
 
 reddit
 
-* [Is there any sort of hand feminization surgery out there?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/hg2ulv/is_there_any_sort_of_hand_feminization_surgery/) by NerdyGuy97 in 2020
+* [Is there any sort of hand feminization surgery out there?](https://www.reddit.com/r/Transgender_Surgeries/comments/hg2ulv/is_there_any_sort_of_hand_feminization_surgery/) by NerdyGuy97 in 2020
 
 <br />
 
@@ -719,8 +719,8 @@ reddit
 
 reddit
 
-* [Trans-friendly Piercing studios in Sydney<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/9uxpk9/transfriendly_piercing_studios_in_sydney/) by shatteredtruth in 2019
+* [Trans-friendly Piercing studios in Sydney](https://www.reddit.com/r/transgenderau/comments/9uxpk9/transfriendly_piercing_studios_in_sydney/) by shatteredtruth in 2019
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**

@@ -1,6 +1,6 @@
 **Hair Restoration**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
@@ -11,7 +11,7 @@ reddit
 * /r/tressless - *"Tressless (tress·less, without hair) is a support community for males and females coping with hair loss. "*
 * /r/HairTransplants
 * /r/DrWillPowers/wiki/hair-restoration - this is really good
-* [Hair Transplant Before or After FFS?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9ufa31/hair_transplant_before_or_after_ffs/) by grunkalunka2 in 2018
+* [Hair Transplant Before or After FFS?](https://www.reddit.com/r/asktransgender/comments/9ufa31/hair_transplant_before_or_after_ffs/) by grunkalunka2 in 2018
 
 Other forums
 
@@ -44,7 +44,7 @@ YouTube
 
 reddit
 
-* [Scalp micro pigmentation<sup>R</sup>](https://www.reddit.com/r/ask_transgender/comments/eb4yt7/scalp_micro_pigmentation/)
+* [Scalp micro pigmentation](https://www.reddit.com/r/ask_transgender/comments/eb4yt7/scalp_micro_pigmentation/)
 
 ---
 
@@ -70,7 +70,7 @@ Surgeons sites
 
 reddit
 
-* [Had hair transplant surgery 2 days ago. AMA<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/7h5pm4/had_hair_transplant_surgery_2_days_ago_ama/) by LadyLauraTheSmelly around 2017
+* [Had hair transplant surgery 2 days ago. AMA](https://www.reddit.com/r/asktransgender/comments/7h5pm4/had_hair_transplant_surgery_2_days_ago_ama/) by LadyLauraTheSmelly around 2017
 
 https://www.styleicons.com.au/news/hair-robot/
 
@@ -100,7 +100,7 @@ Surgeons sites
 
 reddit
 
-* [\[WA\] Experience with Dr Martenick hairline lowering/feminization<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/xj3jof/wa_experience_with_dr_martenick_hairline/) by LeUpboatLeFedora in 2022
+* [\[WA\] Experience with Dr Martenick hairline lowering/feminization](https://www.reddit.com/r/transgenderau/comments/xj3jof/wa_experience_with_dr_martenick_hairline/) by LeUpboatLeFedora in 2022
 
 YouTUbe
 
@@ -122,7 +122,7 @@ Other
 
 reddit
 
-* [Anyone have experience with a hair transplant doctor/location?<sup>R</sup>](https://www.reddit.com/r/transontario/comments/bdzkkq/anyone_have_experience_with_a_hair_transplant/) by SequenceGuest in 2019
+* [Anyone have experience with a hair transplant doctor/location?](https://www.reddit.com/r/transontario/comments/bdzkkq/anyone_have_experience_with_a_hair_transplant/) by SequenceGuest in 2019
 
 ---
 
@@ -153,9 +153,9 @@ Doctors sites
 
 reddit
 
-* [Kamol Hospital Review<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/vr0sx3/kamol_hospital_review/) by cashoob in 2022 - links to [KAMOL HOSPITAL THAILAND REVIEW](https://kamol-review.blogspot.com/2022/07/kamol-hospital-thailand-review.html) on blogspot - *"DHT clinic is great, my friend had procedure there too and is as happy as I am."*
-* [Can hair transplants really create a natural looking feminine hairline?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/9s9qoz/can_hair_transplants_really_create_a_natural/) by sadandconfusedx in 2018
-* reply to [Had hair transplant surgery 2 days ago. AMA<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/7h5pm4/had_hair_transplant_surgery_2_days_ago_ama/dqoeijq/) by LadyLauraTheSmelly around 2017
+* [Kamol Hospital Review](https://www.reddit.com/r/Transgender_Surgeries/comments/vr0sx3/kamol_hospital_review/) by cashoob in 2022 - links to [KAMOL HOSPITAL THAILAND REVIEW](https://kamol-review.blogspot.com/2022/07/kamol-hospital-thailand-review.html) on blogspot - *"DHT clinic is great, my friend had procedure there too and is as happy as I am."*
+* [Can hair transplants really create a natural looking feminine hairline?](https://www.reddit.com/r/Transgender_Surgeries/comments/9s9qoz/can_hair_transplants_really_create_a_natural/) by sadandconfusedx in 2018
+* reply to [Had hair transplant surgery 2 days ago. AMA](https://www.reddit.com/r/asktransgender/comments/7h5pm4/had_hair_transplant_surgery_2_days_ago_ama/dqoeijq/) by LadyLauraTheSmelly around 2017
 
 Susans
 
@@ -220,7 +220,7 @@ Surgeons sites
 
 reddit
 
-* [Hair transplant London UK.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/10b98sp/hair_transplant_london_uk/) by kristyheel83 in 2023
+* [Hair transplant London UK.](https://www.reddit.com/r/Transgender_Surgeries/comments/10b98sp/hair_transplant_london_uk/) by kristyheel83 in 2023
 
 <br />
 
@@ -246,8 +246,8 @@ Surgeons sites
 
 reddit
 
-* [Looking for hair transplant surgeons<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9kt5av/looking_for_hair_transplant_surgeons/) in 2018
-* [Not quite the usual, but here's a timeline of my hair. <sup>R</sup>](https://www.reddit.com/r/transtimelines/comments/8smtbl/not_quite_the_usual_but_heres_a_timeline_of_my/) by GrilledTuna in 2018 - surgeon named [here<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/9kt5av/looking_for_hair_transplant_surgeons/e71kily/)
+* [Looking for hair transplant surgeons](https://www.reddit.com/r/asktransgender/comments/9kt5av/looking_for_hair_transplant_surgeons/) in 2018
+* [Not quite the usual, but here's a timeline of my hair. ](https://www.reddit.com/r/transtimelines/comments/8smtbl/not_quite_the_usual_but_heres_a_timeline_of_my/) by GrilledTuna in 2018 - surgeon named [here](https://www.reddit.com/r/asktransgender/comments/9kt5av/looking_for_hair_transplant_surgeons/e71kily/)
 
 Susans
 
@@ -270,7 +270,7 @@ Review Sites
 
 reddit
 
-* [Not Technically TS surgeries, but I just got my eyebrows Microbladed, and I got Bosley FUT hair transplant (1540 grafts) for my widow's peak.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/dc90kv/not_technically_ts_surgeries_but_i_just_got_my/) by Katiari in 2019
+* [Not Technically TS surgeries, but I just got my eyebrows Microbladed, and I got Bosley FUT hair transplant (1540 grafts) for my widow's peak.](https://www.reddit.com/r/Transgender_Surgeries/comments/dc90kv/not_technically_ts_surgeries_but_i_just_got_my/) by Katiari in 2019
  
 
 <br />
@@ -330,7 +330,7 @@ Surgeons sites
 
 reddit
 
-* [I had FUE hair transplants. 800 grafts were extracted and 722 were implanted. I’ll be posting updates on my YouTube channel probably in a week or two.<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/kwo8j1/i_had_fue_hair_transplants_800_grafts_were/) by AnitaNoelleGreen in 2021
+* [I had FUE hair transplants. 800 grafts were extracted and 722 were implanted. I’ll be posting updates on my YouTube channel probably in a week or two.](https://www.reddit.com/r/Transgender_Surgeries/comments/kwo8j1/i_had_fue_hair_transplants_800_grafts_were/) by AnitaNoelleGreen in 2021
 
 Review sites
 
@@ -355,7 +355,7 @@ Surgeons sites
 
 reddit
 
-* [Hair transplant (strip method, 2000 grafts) with Dr. Houssock in Baltimore. Great experience with the staff, looking forward to seeing the results in a few months and I'm so, so excited to finally be able to grow my hair out!<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/lcx3ea/hair_transplant_strip_method_2000_grafts_with_dr/) by Adora_Borealis in 2021
+* [Hair transplant (strip method, 2000 grafts) with Dr. Houssock in Baltimore. Great experience with the staff, looking forward to seeing the results in a few months and I'm so, so excited to finally be able to grow my hair out!](https://www.reddit.com/r/Transgender_Surgeries/comments/lcx3ea/hair_transplant_strip_method_2000_grafts_with_dr/) by Adora_Borealis in 2021
 
 Review sites
 
@@ -393,7 +393,7 @@ https://hairsite.com/doctor/page/22/
 
 reddit
 
-* reply to [Anyone (MtF) have experience with hair transplants?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/aigwlk/anyone_mtf_have_experience_with_hair_transplants/eeo1cfh/) by estraNicole in 2019
+* reply to [Anyone (MtF) have experience with hair transplants?](https://www.reddit.com/r/asktransgender/comments/aigwlk/anyone_mtf_have_experience_with_hair_transplants/eeo1cfh/) by estraNicole in 2019
 
 YouTube
 
@@ -427,7 +427,7 @@ Location
 
 reddit
 
-* [hair transplant, hairline feminization (3 weeks ago) (before/after)<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/uj5c5f/hair_transplant_hairline_feminization_3_weeks_ago/) by ooisee in 2022
+* [hair transplant, hairline feminization (3 weeks ago) (before/after)](https://www.reddit.com/r/Transgender_Surgeries/comments/uj5c5f/hair_transplant_hairline_feminization_3_weeks_ago/) by ooisee in 2022
 
 <br />
 
@@ -445,8 +445,8 @@ Dr Sites
 
 reddit
 
-* reply to [Hair feminisation surgery, Hairline lowering and Hair transplant in Europe?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/egicvb/hair_feminisation_surgery_hairline_lowering_and/fcfegho/) by veganblonde777 in 2019
+* reply to [Hair feminisation surgery, Hairline lowering and Hair transplant in Europe?](https://www.reddit.com/r/Transgender_Surgeries/comments/egicvb/hair_feminisation_surgery_hairline_lowering_and/fcfegho/) by veganblonde777 in 2019
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**

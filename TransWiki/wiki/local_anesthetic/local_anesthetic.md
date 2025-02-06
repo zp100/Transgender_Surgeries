@@ -1,6 +1,6 @@
 **Local Anesthetic**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
@@ -10,8 +10,8 @@ https://en.wikipedia.org/wiki/Local_anesthetic - *"A local anesthetic (LA) is a 
 
 Related wiki pages
 
-* [Injections<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/injections/injections.md)
-* [Implants/Pellets<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implants/implants.md)
+* <span class="internal">[Injections](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/injections/injections.md)</span>
+* <span class="internal">[Implants/Pellets](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implants/implants.md)</span>
 
 <br />
 
@@ -39,7 +39,7 @@ Apart from safety lidocaine is often mixed with other topical anesthetics as its
 
 An ingredient sometimes seen in topical anesthetics is [Dimethyl sulfoxide (DMSO)](https://en.wikipedia.org/wiki/Dimethyl_sulfoxide) at around 10%. This chemical transports anesthetics through though the skin, plus whatever else happens to be on your skin, so make sure everything is very clean (and no soap residue). Its also a strong solvent, dissolving many plastics and rubber, which you don't want to transported through your skin. Note that because DMSO increases the concentration of lignocaine in your body it also increases the risk. Higher concentrations of DMSO are presumably more effective, but can/will cause severe skin irritation/burns. You may get away with 20%, but maybe not. Not too surprising when you realise that DMSO is also used as [paint stripper](https://www.gaylordchemical.com/literature/dmso-for-paint-stripping/).
 
-Dr Powers topical anesthetic (see [here<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/fibnrj/the_current_compendium_of_my_compounded_topical/)). Its unknown how effective this is compared to other strong topical anesthetics.  He keeps changing it so the below will be out of date
+Dr Powers topical anesthetic (see [here](https://www.reddit.com/r/DrWillPowers/comments/fibnrj/the_current_compendium_of_my_compounded_topical/)). Its unknown how effective this is compared to other strong topical anesthetics.  He keeps changing it so the below will be out of date
 
 > Ketamine 10%+DMSO 10%+Gaba 6%+Amitriptyline 2%+Baclofen 1%+Cyclo 1%+Diclo 1%+Lido7% +Tetra2%+Benzo5%
 
@@ -57,14 +57,14 @@ reddit
 
 * https://old.reddit.com/r/DIYCosmeticProcedures/wiki/index
 * https://www.unitedpharmacies-uk.md/Anawin-Injection-Bupivacaine-5mg-20mL-p-1541.html - Anawin 0.5% Injection (Bupivacaine), £6.23 per 20ml vial
-* [I need REAL rx grade lidocaine. Can anyone assist me?<sup>R</sup>](https://old.reddit.com/r/DIYCosmeticProcedures/comments/175qnee/i_need_real_rx_grade_lidocaine_can_anyone_assist/) in 2023, mentions suppliers [gloface](https://glowface.store/product/lidocaine-hcl-2-1-vial/) and [acecosm](https://acecosm.com/categories/numbing-creams/lidocaine_hcl_2_)
-* [Fell Asleep During Electrolysis<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/qr3p8m/fell_asleep_during_electrolysis/) by alisonchiou
+* [I need REAL rx grade lidocaine. Can anyone assist me?](https://old.reddit.com/r/DIYCosmeticProcedures/comments/175qnee/i_need_real_rx_grade_lidocaine_can_anyone_assist/) in 2023, mentions suppliers [gloface](https://glowface.store/product/lidocaine-hcl-2-1-vial/) and [acecosm](https://acecosm.com/categories/numbing-creams/lidocaine_hcl_2_)
+* [Fell Asleep During Electrolysis](https://www.reddit.com/r/DrWillPowers/comments/qr3p8m/fell_asleep_during_electrolysis/) by alisonchiou
 in 2021 - *"That Dr.P's custom pain cream is epic. I took 300mg of Pregabalin 2 hours before the procedure and drank some coffee to activate it, then I used the pain cream as directed."*
-* [Long Session Electrolysis with Pain Management in Southern California<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/pgi1hn/long_session_electrolysis_with_pain_management_in/) by stacy_girl in 2021
-* [What is the best numbing cream for hair electrolysis (facial)?<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/gkvtsk/what_is_the_best_numbing_cream_for_hair/) by qtips2019
+* [Long Session Electrolysis with Pain Management in Southern California](https://www.reddit.com/r/Transgender_Surgeries/comments/pgi1hn/long_session_electrolysis_with_pain_management_in/) by stacy_girl in 2021
+* [What is the best numbing cream for hair electrolysis (facial)?](https://www.reddit.com/r/Transgender_Surgeries/comments/gkvtsk/what_is_the_best_numbing_cream_for_hair/) by qtips2019
 in 2020
-* [The Current Compendium of My Compounded Topical Creams as of 3/13/2020<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/fibnrj/the_current_compendium_of_my_compounded_topical/) by Drwillpowers in 2020
-* [Numbing products for electrolysis?<sup>R</sup>](https://www.reddit.com/r/asktransgender/comments/c9cwhu/numbing_products_for_electrolysis/) by tgthrwwy in 2019
+* [The Current Compendium of My Compounded Topical Creams as of 3/13/2020](https://www.reddit.com/r/DrWillPowers/comments/fibnrj/the_current_compendium_of_my_compounded_topical/) by Drwillpowers in 2020
+* [Numbing products for electrolysis?](https://www.reddit.com/r/asktransgender/comments/c9cwhu/numbing_products_for_electrolysis/) by tgthrwwy in 2019
 
 Prep School Daily
 
@@ -172,7 +172,7 @@ https://en.wikipedia.org/wiki/Pregabalin - *"Pregabalin, sold under the brand na
 
 reddit
 
-* [Fell Asleep During Electrolysis<sup>R</sup>](https://www.reddit.com/r/DrWillPowers/comments/qr3p8m/fell_asleep_during_electrolysis/) by alisonchiou
+* [Fell Asleep During Electrolysis](https://www.reddit.com/r/DrWillPowers/comments/qr3p8m/fell_asleep_during_electrolysis/) by alisonchiou
 in 2021 - *"That Dr.P's custom pain cream is epic. I took 300mg of Pregabalin 2 hours before the procedure and drank some coffee to activate it, then I used the pain cream as directed. ... Pregablin is used to treat nerve and muscle pain. I used it when I got shingles and it works so much better then oxycodone for that specific type of pain. Dr. P's pain cream contains Gabapentin, which is the same class of drug as Pregabalin, so I experimented with it. I tried a session with Dr.P's cream with Hydrocodone, and a second session with cream with Pregablin. It seems Pregablin works better personally for me. I drink 6-7 cups of coffee per day, and when I was on Pregablin I accidentally discovered coffee somehow activates the drug and modifies its effect and it introduces a state of calmness and disassociation. Basically I am attacking the pain from both inside and outside. Not too sure it will work without the typical cream. The cream is doing most of the heavy lifting, I think Pregablin orally simply made the pain slightly less and introduce calmness for the session. I was super relaxed and comfortable. lease be careful. You can get addicted to Pregablin and withdraw symptom allegedly is pretty awful. When I was using it for shingles I made sure I taper off it slowly and I was okay."*
 
 <br />
@@ -193,7 +193,7 @@ Lidocaine is normally safe (not always, hence the doctor) up to 0.3 mg per kg of
 
 Lidocaine can be diluted with [saline](https://en.wikipedia.org/wiki/Saline_\(medicine\)) for electrolysis. This has the advantage that larger areas can be safely anaesthetised (due to the lower dosage of lidocaine). Presumably the chance of having an adverse reaction would also be reduced.
 
-Lidocaine can to at diluted (to at least 1 part of 2% lidocaine to 7 parts saline) for electrolysis. When buffering with sodium bicarbonate to reduce injection pain (see [implants/pellets<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implants/implants.md)) it is mixed according to the volume of lidocaine used, not the total volume including saline.
+Lidocaine can to at diluted (to at least 1 part of 2% lidocaine to 7 parts saline) for electrolysis. When buffering with sodium bicarbonate to reduce injection pain (see <span class="internal">[implants/pellets](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implants/implants.md)</span>) it is mixed according to the volume of lidocaine used, not the total volume including saline.
 
 The ratio of sodium bicarbonate to lidocaine recommended in papers is usually 1:10, but it varies down to about 3:1. Perhaps the acidity of the lidocaine used varies? It its dangerous to inject too much sodium bicarbonate, but I don't currently know what the limit is.
 
@@ -208,7 +208,7 @@ HairTell has an interesting post with a [video of anasthetic injection for elect
 
 reddit
 
-* [Frightening experience with Dr. Zukowski<sup>R</sup>](https://www.reddit.com/r/trans/comments/13pwcrs/frightening_experience_with_dr_zukowski/) by birdsandsnakes in 2023 - *Yesterday, I went for high volume hair removal at the Cirine Hair Removal. They're associated with the Zukowski Center, and Dr Zukowski gives medical support — the deal is, he sedates you and gives you lidocaine injections to numb your face, and then they do a very long electrolysis session. I had a really scary experience. Shortly after my third set of lidocaine injections, I'd gone for a bathroom break, when suddenly I found myself disoriented, losing control of my limbs, having a hard time walking, seeing double, and struggling to put sentences together. I made it out of the bathroom and asked an electrologist to call 911 — I could no longer use my phone to do it myself — but they refused. Instead, they called Dr Zukowski back. He tried to convince me I was having a panic attack. (I've had panic attacks. This was not a panic attack.) At this point, my arms and legs were twitching uncontrollably, and I couldn't stand or walk without help. He insisted that this was my fault, and that I'd feel better if I relaxed. Eventually, he gave me some kind of intravenous medication that stopped the attack. I've since learned that those were [symptoms of a lidocaine overdose, which could have progressed to seizures or coma](https://www.medicalnewstoday.com/articles/lidocaine-overdose).*
+* [Frightening experience with Dr. Zukowski](https://www.reddit.com/r/trans/comments/13pwcrs/frightening_experience_with_dr_zukowski/) by birdsandsnakes in 2023 - *Yesterday, I went for high volume hair removal at the Cirine Hair Removal. They're associated with the Zukowski Center, and Dr Zukowski gives medical support — the deal is, he sedates you and gives you lidocaine injections to numb your face, and then they do a very long electrolysis session. I had a really scary experience. Shortly after my third set of lidocaine injections, I'd gone for a bathroom break, when suddenly I found myself disoriented, losing control of my limbs, having a hard time walking, seeing double, and struggling to put sentences together. I made it out of the bathroom and asked an electrologist to call 911 — I could no longer use my phone to do it myself — but they refused. Instead, they called Dr Zukowski back. He tried to convince me I was having a panic attack. (I've had panic attacks. This was not a panic attack.) At this point, my arms and legs were twitching uncontrollably, and I couldn't stand or walk without help. He insisted that this was my fault, and that I'd feel better if I relaxed. Eventually, he gave me some kind of intravenous medication that stopped the attack. I've since learned that those were [symptoms of a lidocaine overdose, which could have progressed to seizures or coma](https://www.medicalnewstoday.com/articles/lidocaine-overdose).*
 
 <br />
 
@@ -256,7 +256,7 @@ Some people are allergic to lidocaine and/or other anesthetics, and it can be ve
 
 reddit
 
-* reply to [Electrolysis and beyond<sup>R</sup>](https://www.reddit.com/r/Transgender_Surgeries/comments/mj8cpo/electrolysis_and_beyond/gt96l4z/?context=3) by Ubikscube in 2021
+* reply to [Electrolysis and beyond](https://www.reddit.com/r/Transgender_Surgeries/comments/mj8cpo/electrolysis_and_beyond/gt96l4z/?context=3) by Ubikscube in 2021
  
 Papers
 
@@ -363,8 +363,8 @@ https://en.wikipedia.org/wiki/Nerve_block
 
 reddit
 
-* reply to [How to buy medical supplies<sup>R</sup>](https://www.reddit.com/r/medicine/comments/kk14sq/how_to_buy_medical_supplies/gh0r9v0/?context=3) - *"Local anesthetics are used for nerve blocks by* ***people who know what they’re doing.*** *You never inject into the nerve you’re trying to block, but rather in the general area such that the anesthetic spreads locally through the subcutaneous tissues to bathe the target nerve. As you said, much like injecting an epidural anesthetic directly into the spinal cord, injecting anesthetic into a peripheral nerve will cause permanent damage to the affected nerve.* ***Source: Neurology resident*** *who has performed a number of peripheral nerve blocks and gotten many talks from pain specialists about the ramifications of fucking up"*
+* reply to [How to buy medical supplies](https://www.reddit.com/r/medicine/comments/kk14sq/how_to_buy_medical_supplies/gh0r9v0/?context=3) - *"Local anesthetics are used for nerve blocks by* ***people who know what they’re doing.*** *You never inject into the nerve you’re trying to block, but rather in the general area such that the anesthetic spreads locally through the subcutaneous tissues to bathe the target nerve. As you said, much like injecting an epidural anesthetic directly into the spinal cord, injecting anesthetic into a peripheral nerve will cause permanent damage to the affected nerve.* ***Source: Neurology resident*** *who has performed a number of peripheral nerve blocks and gotten many talks from pain specialists about the ramifications of fucking up"*
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
