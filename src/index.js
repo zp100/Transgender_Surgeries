@@ -7,6 +7,7 @@ const app = express()
 app.set('views', './views')
 app.set('view engine', 'pug')
 app.use('/static', express.static(join(__dirname, 'static')))
+const PORT = 3000
 
 app.get(/.*/, (req, res) => {
     const filePath = join(__dirname, '..', req.originalUrl)
@@ -24,7 +25,7 @@ app.get(/.*/, (req, res) => {
         
                 const markdownHtml = marked.parse(data, { gfm: true }).replaceAll(
                     'https://github.com/zp100/Transgender_Surgeries/blob/main/',
-                    'http://localhost:3000/'
+                    `${req.protocol}://${req.hostname}:${PORT}/`
                 )
                 res.render('index', { markdownTitle: filePath.split('/').at(-1), markdownHtml })
             })
@@ -32,6 +33,6 @@ app.get(/.*/, (req, res) => {
     })
 })
 
-app.listen(3000, () => {
+app.listen(PORT, () => {
     console.log('Server started.')
 })
