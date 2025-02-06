@@ -8,8 +8,8 @@ I'm not affiliated with any of the people or businesses discussed/linked in this
 
 - Main index: https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md
 - Subreddit wiki's starting point: https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md
-- Original wiki: https://old.reddit.com/r/TransSurgeriesWiki/wiki/index
 - Live backup: https://transgender-surgeries.vercel.app/
+- Original wiki: https://old.reddit.com/r/TransSurgeriesWiki/wiki/index
 
 ## Link Organization
 
