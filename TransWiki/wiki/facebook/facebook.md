@@ -22,7 +22,7 @@ I have not linked any posts on Facebook, except in a very few cases where they h
 Facebook Group | Members
 :--|--:
 [Transgender SRS](https://www.facebook.com/groups/510007819413331)                                                             | 2900
-[Voice Feminization Surgery](https://www.facebook.com/groups/1332887563555093/)                                                | 500 
+[Voice Feminization Surgery](https://www.facebook.com/groups/1332887563555093/)                                                | 500
 [SRS & Feminisation/Masculinisation Globally★](https://www.facebook.com/groups/282802085096528/)                               | 1800
 [FFS Facial Feminization Surgery / Transgender](https://www.facebook.com/groups/FacialFeminizationSurgery/)                    | 7800
 [FFS Facial And Body Feminization Surgery / TS TG](https://www.facebook.com/groups/TransitionSurgery/)                         | 4400
@@ -51,7 +51,7 @@ Facebook Group | Members
 [WHAT-Womanhood As Transgender](https://www.facebook.com/transwomen) - Thai language |
 [Non-Binary Bottom Surgery](https://www.facebook.com/groups/556645608442475/) - *"This is a non-judgmental, inclusive group for non binary people of all sorts to discuss bottom surgery! AMAB/AFAB/Intersex/whatevah! The intention of this group is conversational, informational and supportive. All gender identities that fall under a non-binary umbrella are welcome. There's no pre-requisite for being trans enough, so please feel welcome and comfortable here."* |
 [Metoidioplasty & Phalloplasty without Vaginectomy](https://www.facebook.com/groups/2236282629830862) - *"This group is a safe space for transmasculine, transsexual, transgender, agender, and non binary identifying people who have had genital reconstructive surgery (metoidioplasty and/or phalloplasty) and opted out of having a vaginectomy."*   |
-[Non-Binary Surgery](https://www.facebook.com/groups/nonbinarysurgery) - *"This group is for discussing genital surgery that falls outside the sex binary. You don't have to be non-binary to join, in fact many binary transgender people desire non-binary surgical options."* | 
+[Non-Binary Surgery](https://www.facebook.com/groups/nonbinarysurgery) - *"This group is for discussing genital surgery that falls outside the sex binary. You don't have to be non-binary to join, in fact many binary transgender people desire non-binary surgical options."* |
 [Tijuana Bellabodiez Botched & Plastic Surgery Research in Mexico ONLY](https://www.facebook.com/groups/1906818416027694) - *"This group is to make others aware about Bella Bodiez and other Tijuana ,Mx doctors unsanitary practices including infections , botched and deaths due to cosmetic surgery 🌸🌸🌸Women Only🌼🌼🌼 Please share your experience or research 😃😃😃"*
 
 ---

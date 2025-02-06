@@ -12,7 +12,7 @@ According to wikipedia
 
 > In pharmacology, compounding (done in compounding pharmacies) is the creation of a particular pharmaceutical product to fit the unique need of a patient. To do this, compounding pharmacists combine or process appropriate ingredients using various tools.
 
-> This may be done for medically necessary reasons, such as to change the form of the medication from a solid pill to a liquid, to avoid a non-essential ingredient that the patient is allergic to, or to obtain the exact dose(s) needed or deemed best of particular active pharmaceutical ingredient(s). It may also be done for more optional reasons, such as adding flavors to a medication or otherwise altering taste or texture. 
+> This may be done for medically necessary reasons, such as to change the form of the medication from a solid pill to a liquid, to avoid a non-essential ingredient that the patient is allergic to, or to obtain the exact dose(s) needed or deemed best of particular active pharmaceutical ingredient(s). It may also be done for more optional reasons, such as adding flavors to a medication or otherwise altering taste or texture.
 
 Although I've listed various medicines for each pharmacy they would make many more that that - I've only listed the ones I've heard of.
 
@@ -62,7 +62,7 @@ Date | Pharmacy | Price for 100mg, ex postage
 
 ## Testosterone Implants
 
-I don't know much about these in Australia, but they are available. I've heard that the endo Dr Jon Hayes has prescribed 50mg implants for post-op trans women with low testosterone levels. 
+I don't know much about these in Australia, but they are available. I've heard that the endo Dr Jon Hayes has prescribed 50mg implants for post-op trans women with low testosterone levels.
 
 Note that testosterone implants don't last as long as estrogen implants, so would need replacing well before the estrogen implants, which is not overly practical. Testosterone (and progesterone) implants also have much higher rates of extrusion than estrogen.
 
@@ -96,7 +96,7 @@ You'll need a prescription to get this and personally I'd not use it without blo
 Suppliers
 
 * Biological Therapies, Victoria
-* Complementary Compounding Services, 
+* Complementary Compounding Services,
 * Green Compounding Pharmacy, South Australia
 
 Papers on Vitamin D3
@@ -395,7 +395,7 @@ Endo Dr Jon Hayes in Sydney uses Biological Therapies *"Vitamin D3 Forte 600,000
 
 ## Hollywood Pharmacy
 
-Key details 
+Key details
 
 * 29 Hampden Road, ***Nedlands***, Western Australia, 6009
 * https://hollywoodpharmacynedlands.com.au/
@@ -415,7 +415,7 @@ reddit
 
 ## Oxford Compounding
 
-Key details 
+Key details
 
 * 73 Angove Street ***North Perth*** WA 6006
 * https://www.oxfordcompounding.com.au/

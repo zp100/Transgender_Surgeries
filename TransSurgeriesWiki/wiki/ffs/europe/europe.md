@@ -28,7 +28,7 @@ reddit
 
 ### Facial Team
 
-Location 
+Location
 
 * Marbella & Barcelona, Spain
 * São Paulo, Brazil.
@@ -235,9 +235,9 @@ YouTube
 * [Dani's FFS Journey](https://www.youtube.com/watch?v=AwbO9vFW78U) by Kayle Grace in 2023 - see post reddit [My FFS journey](https://www.reddit.com/r/transvancouver/comments/159vua4/my_ffs_journey/) in 2023
 * [I had Facial Feminisation Surgery, One year ago.](https://www.youtube.com/watch?v=TAheR7-SGBw) by Luxeria in 2023
     * [I had Facial Feminisation Surgery (with Facialteam)](https://www.youtube.com/watch?v=J-9c9tWASt8) by Luxeria in 2022
-* [Facial Feminization Surgery Facial Team VS. Dr. James P. Bradley](https://www.youtube.com/watch?v=dXtRNmq0SeE) by 
+* [Facial Feminization Surgery Facial Team VS. Dr. James P. Bradley](https://www.youtube.com/watch?v=dXtRNmq0SeE) by
 Soraya's Fierce Cooking Show in 2022
-* [Gender-Affirming Lower Jaw Surgery —Video Discussion by Jens Berli, MD](https://www.youtube.com/watch?v=uSSKoFzYYGQ) by  PRSJournal in 2022 - discusses a paper by Facial Team 
+* [Gender-Affirming Lower Jaw Surgery —Video Discussion by Jens Berli, MD](https://www.youtube.com/watch?v=uSSKoFzYYGQ) by  PRSJournal in 2022 - discusses a paper by Facial Team
 * [Reviewing pre and post CT pictures - 2 weeks after surgery](https://www.youtube.com/watch?v=xx3cWBvUi5U) by Lunaera Ruth in 2021
     * [First day after surgery! - September 29th 2021](https://www.youtube.com/watch?v=GtjzZOVprDk) by Lunaera Ruth in 2021
     * [Pre FFS Vlog September 27th 2021](https://www.youtube.com/watch?v=hcv4GYa5rJw) by Lunaera Ruth in 2021
@@ -284,7 +284,7 @@ HolaSoyYo.com
 
 Papers
 
-* 2020 - [Facial Gender Confirmation Surgery: A Protocol for Diagnosis, Surgical Planning, and Postoperative Management](https://pubmed.ncbi.nlm.nih.gov/32221232/) by Luis Capitán, Javier Gutiérrez Santamaría, Daniel Simon, Devin Coon, Carlos Bailón, Raúl J Bellinga, Thiago Tenório, Fermín Capitán-Cañadas  
+* 2020 - [Facial Gender Confirmation Surgery: A Protocol for Diagnosis, Surgical Planning, and Postoperative Management](https://pubmed.ncbi.nlm.nih.gov/32221232/) by Luis Capitán, Javier Gutiérrez Santamaría, Daniel Simon, Devin Coon, Carlos Bailón, Raúl J Bellinga, Thiago Tenório, Fermín Capitán-Cañadas
 * 2017 - [Technical and Clinical Considerations for Facial Feminization Surgery With Rhinoplasty and Related Procedures.](https://www.ncbi.nlm.nih.gov/pubmed/27978554) by Bellinga R, Capitán L, Simon D, Tenório T
 
 Books
@@ -327,7 +327,7 @@ Surgeons sites
 * https://www.youtube.com/channel/UCPDhYqoaDajlcNDatE2PLKQ
 * https://twitter.com/oceancli
 
-Ocean Clinic has some kind of connection with Facial Team according to their website. 
+Ocean Clinic has some kind of connection with Facial Team according to their website.
 
 https://www.oceanclinic.net/chirurgie-plastique/feminisation-visage-centre.php - translated to English *"People are often surprised to learn that one of the leading surgical centers specializing in facial feminization around the world is based here in Marbella. Dr. Luis Capitán, Oral & Maxillofacial Specialist, is the Director and Founder of FACIALTEAM, while Dr. Kaye, Medical Director of Ocean Clinic is the unit's plastic surgeon. Dr. Luis Capitán is known for his transgender interventions."*
 
@@ -433,8 +433,8 @@ reddit
 * [Bart Van de Ven botched my face, damaged my nerves & made me look older](https://www.reddit.com/r/Transgender_Surgeries/comments/k64elp/bart_van_de_ven_botched_my_face_damaged_my_nerves/) by BartBotchedMarta in 2020
 * [1 year followup on FFS with Bart van de Ven - extremely cosmetically good result, but probably cut like 80% of the nerves in my forehead](https://www.reddit.com/r/Transgender_Surgeries/comments/k01axa/1_year_followup_on_ffs_with_bart_van_de_ven/) by apricotmessage in 2020
 * [Bart van de Ven says that leaving a hole in the bone of a patient's forehead after forehead recontouring "happens regularly with all FFS surgeons". Has anyone else experienced this? See photos of my forehead after FFS with Bart van de Ven for reference.](https://www.reddit.com/r/Transgender_Surgeries/comments/k0pplu/bart_van_de_ven_says_that_leaving_a_hole_in_the/) by solitary_kidney in 2020
-* [MY FFS RECOVERY: DILEMMA](https://www.reddit.com/r/asktransgender/comments/jlfat6/my_ffs_recovery_dilemma/) by riccimilano in 2020 
-* [MY FFS RECOVERY: TIME TO HEAL AND MOVE ON](https://www.reddit.com/r/asktransgender/comments/jk6gqr/my_ffs_recovery_time_to_heal_and_move_on/) by riccimilano in 2020 
+* [MY FFS RECOVERY: DILEMMA](https://www.reddit.com/r/asktransgender/comments/jlfat6/my_ffs_recovery_dilemma/) by riccimilano in 2020
+* [MY FFS RECOVERY: TIME TO HEAL AND MOVE ON](https://www.reddit.com/r/asktransgender/comments/jk6gqr/my_ffs_recovery_time_to_heal_and_move_on/) by riccimilano in 2020
 * [MY FFS RECOVERY: THE MOMENT OF TRUTH](https://www.reddit.com/r/asktransgender/comments/jj69g2/my_ffs_recovery_the_moment_of_truth/) by riccimilano in 2020 - also see prior post 10 months earlier [MY FFS RECOVERY: LET’S FACE IT](https://www.reddit.com/r/asktransgender/comments/e82zxo/my_ffs_recovery_lets_face_it/) by riccimilano
 * [I'm feeling suicidal 6 months post botched surgery](https://www.reddit.com/r/asktransgender/comments/ia9341/im_feeling_suicidal_6_months_post_botched_surgery/) by Federal-Tension around 2020
     * [2 Pass Clinic giving false information in public about their practices. They now claim they NEVER perform ANY surgeries without asking for CT scans. Beware people!](https://www.reddit.com/r/Transgender_Surgeries/comments/jgonzc/2_pass_clinic_giving_false_information_in_public/) by  Federal-Tension in 2020
@@ -488,7 +488,7 @@ realself
 * [Hole in Forehead https://youtu.be/BbMN7cftaMM](https://www.realself.com/review/facial-feminization-surgery-hole-forehead) by Inventive1331 in 2021 *"Very bad they aftercare. He does not acknowledge any mistakes..."* - links to YouTube [my experience with Dr Bart Van de Ven](https://www.youtube.com/watch?v=BbMN7cftaMM) by Janna De Miguel in 2021 - see [YouTube channel](https://www.youtube.com/channel/UCkxV4rVUOm0vWBCj7D5Vdsw)
 * [Never Again, Pain from the Hell](https://www.realself.com/review/orthognathic-surgery-pain) by Exciting69642 in 2021 - its in German, but the google chrome browser can translate this
 * [I would never-ever-never appreciate or recommend this doctor ...](https://www.realself.com/review/orthognathic-surgery-beaware-doctor) by Charming762754 in 2020
-* [Good Results, Correction May Be Needed.](https://www.realself.com/review/facial-feminization-surgery-good-results-correction-needed) by 
+* [Good Results, Correction May Be Needed.](https://www.realself.com/review/facial-feminization-surgery-good-results-correction-needed) by
 * [It Could Have Been Great —I'm now left with a huge debt, a masculine face.](https://www.realself.com/review/facial-feminization-surgery-great-now-left-huge-debt-masculine-face) by "It could have been great" in 2020
 * [Stay Away](https://www.realself.com/review/facial-feminization-surgery-stay) by patata_domata in 2019 - *"Well guess what. Shortly after this review was posted, Bart's lawyers sent an official letter threatening with legal action unless the review was taken down."*
 * [Female Feminisation Surgery](https://www.realself.com/review/2pass-mtf-facial-feminization-surgery-female-feminisation-surgery) by cherylmck in 2018
@@ -579,7 +579,7 @@ Travestie.org (in Dutch)
 
 * [Operatie aan die mannelijke kaak; de mogelijkheden & kos](http://www.travestie.org/forum/viewtopic.php?t=6985&start=15) in 2011
 
-Black list Doctors: http://www.zwartelijstartsen.nl/zwartelijst_arts/noorman-van-der-dussen-m-f/ 
+Black list Doctors: http://www.zwartelijstartsen.nl/zwartelijst_arts/noorman-van-der-dussen-m-f/
 
 * Google translate says *"The registration in the register of physicians has been conditionally suspended by the 4th of October 2016 duration of three months with a probationary period of two years... "*, Discussion of this was in the t-nederland post [here](https://t-nederland.nl/forum/viewtopic.php?f=28&t=5436).
 
@@ -867,7 +867,7 @@ reddit
 reddit
 
 * [FFS with dr. Jammet in France](https://www.reddit.com/r/Transgender_Surgeries/comments/13uu3x8/ffs_with_dr_jammet_in_france/) by melanie_mntl in 2023
- 
+
 
 <br />
 
@@ -1405,7 +1405,7 @@ Angels Forum
 
 YouTube
 
-* [Transgender Drew-Ashlyn 1 year before and after ffs surgery](https://www.youtube.com/watch?v=-ibbKpz0Aw4) by DrewAshlynMua in 2017 
+* [Transgender Drew-Ashlyn 1 year before and after ffs surgery](https://www.youtube.com/watch?v=-ibbKpz0Aw4) by DrewAshlynMua in 2017
 
 realself
 
@@ -1486,7 +1486,7 @@ reddit
 The Guardian
 
 * ['I just want to see the person I always saw in my head': the story of a face](https://www.theguardian.com/society/2020/nov/10/female-feminisation-surgery-trans-woman-story-of-a-face) by Jenny Kleeman in 2020 - story about Sophia Drake, see also https://twitter.com/sophiaadrake
- 
+
 Research
 
 * https://www.researchgate.net/profile/Nikhil-Maini-2
@@ -1517,7 +1517,7 @@ Papers
 
 ---
 
-## Moorthy Halsnad 
+## Moorthy Halsnad
 
 Location
 

@@ -55,7 +55,7 @@ reddit
 
 ---
 
-### Kurt Angel 
+### Kurt Angel
 
 Retiring soon,to be replaced by Pfilip Klumpen.
 
@@ -111,7 +111,7 @@ reddit
 
 ---
 
-## Veith Moser 
+## Veith Moser
 
 Surgeons sites
 
@@ -833,7 +833,7 @@ reddit
 
 reddit
 
-* 
+*
 * [Vaginoplasty, 3 weeks post op, PIV Method, Dr Delchet](https://www.reddit.com/r/Transgender_Surgeries/comments/1gxak59/vaginoplasty_3_weeks_post_op_piv_method_dr_delchet/)
 * [Day 11, bottom surgery, PIV Method, Dr Delchet](https://www.reddit.com/user/EmilyRetcherNSFW/comments/1gp0du4/day_11_bottom_surgery_piv_method_dr_delchet/)
 * [Day 7, Vaginoplasty with PIV Method, Dr Delchet](https://www.reddit.com/r/Transgender_Surgeries/comments/1gm17fg/day_7_vaginoplasty_with_piv_method_dr_delchet/)
@@ -874,7 +874,7 @@ Susans
 
 * reply to [My experience with Dr Kamol and Thailand](https://www.susans.org/forums/index.php/topic,206123.msg1840029.html#msg1840029) by monamtb in 2016 - *"I do know of girls who walked out on their GRS the night before surgery here in Germany - and it was the best decision they ever made they say themselves in retrospect."*. Note that monamtb provides support services to trans women having surgery, so she would have quite a bit of experience.
 
-YouTube 
+YouTube
 
 * [SRS almost killed me / Full Story of my surgery](https://www.youtube.com/watch?v=4fLsHMHUKHg) by Mademoiselle Nicolette in 2017 (don't know who the surgeon is)
 
@@ -888,7 +888,7 @@ Int Braz J urol. 2012; 38: 97-107 *"Gender reassignment surgery - a 13 year revi
 
 * http://brazjurol.com.br/january_february_2012/Rossi_97_107.htm
 * http://www.scielo.br/scielo.php?pid=S1677-55382012000100014&script=sci_arttext&tlng=es
-* http://dx.doi.org/10.1590/S1677-55382012000100014 
+* http://dx.doi.org/10.1590/S1677-55382012000100014
 
 Hindawi
 
@@ -1099,7 +1099,7 @@ reddit
     * [1 month post op srs by Dr Morath, Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/185jndu/1_month_post_op_srs_by_dr_morath_munich/) by TheeVillain in 2023
 * [2 years postop srs | minimal depth | combined method | Dr. Morath | Munich , Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/15cysl5/2_years_postop_srs_minimal_depth_combined_method/) by Superbestrogen in 2023
     * [3 months postop srs | minimal depth | combined method | Dr. Morath | Munich , Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/srohli/3_months_postop_srs_minimal_depth_combined_method/) by Superbestrogen in 2022
-    * [6 weeks postop srs AMA | minimal depth | combined method | Dr. Morath | Munich , Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/r8q6hq/6_weeks_postop_srs_ama_minimal_depth_combined/) by Superbestrogen in 2021 
+    * [6 weeks postop srs AMA | minimal depth | combined method | Dr. Morath | Munich , Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/r8q6hq/6_weeks_postop_srs_ama_minimal_depth_combined/) by Superbestrogen in 2021
 * [GCS with Dr. Morath (2 months update).](https://www.reddit.com/r/Transgender_Surgeries/comments/z61p1p/gcs_with_dr_morath_2_months_update/) by -Bad-Potato- in 2022
     * [GCS with Dr. Morath (days 12 and 13).](https://www.reddit.com/r/Transgender_Surgeries/comments/y94x4j/gcs_with_dr_morath_days_12_and_13/) by -Bad-Potato- in 2022
     * [GCS with Dr. Morath (days 10 and 11).](https://www.reddit.com/r/Transgender_Surgeries/comments/y668gl/gcs_with_dr_morath_days_10_and_11/) by -Bad-Potato- in 2022
@@ -1488,7 +1488,7 @@ reddit
 
 Location
 
-* München 
+* München
 
 Surgeon sites
 
@@ -1945,7 +1945,7 @@ Location
 
 * Szeged
 
- (has 10+ years of experience, ex-student of the late prof. Pajor who was the first to perform it in hungary) 
+ (has 10+ years of experience, ex-student of the late prof. Pajor who was the first to perform it in hungary)
 
 <br />
 
@@ -2067,7 +2067,7 @@ Surgeons sites
 
 There's photo's of his work on this book (chapter 11)
 
-* [Management of gender dysphoria : a multidisciplinary approach](https://trove.nla.gov.au/work/199509859?q&versionId=218655499+222094601) by Carlo Trombetta, Giovanni Liguori, Michele Bertolotto, 
+* [Management of gender dysphoria : a multidisciplinary approach](https://trove.nla.gov.au/work/199509859?q&versionId=218655499+222094601) by Carlo Trombetta, Giovanni Liguori, Michele Bertolotto,
 
 Susans
 
@@ -2175,7 +2175,7 @@ Onderzoek Transgenderzorg, Nederland, https://www.transvisie.nl/wp-content/uploa
 
 Facebook group limited to trans people in Netherlands - https://www.facebook.com/groups/GeheimeZone/
 
-YouTube 
+YouTube
 
 * [one year post op (honest opinion)](https://www.youtube.com/watch?v=vGdLyLIPpJw) by robin jaspers in 2023
     * [gender reassignment surgery: my experience (1 month post op)](https://www.youtube.com/watch?v=v4u4ipCjh_c) by robin jaspers in 2022 - surgery at VUMC
@@ -2207,7 +2207,7 @@ reddit
 
 reddit
 
-* [SRS with Dr. Kanhai, Netherlands - Day 1](https://www.reddit.com/r/Transgender_Surgeries/comments/vgvv0d/srs_with_dr_kanhai_netherlands_day_1/) by MissUnderstood___ in 2022 
+* [SRS with Dr. Kanhai, Netherlands - Day 1](https://www.reddit.com/r/Transgender_Surgeries/comments/vgvv0d/srs_with_dr_kanhai_netherlands_day_1/) by MissUnderstood___ in 2022
     * [SRS June 20th with Dr. Kanhai (Netherlands)](https://www.reddit.com/r/Transgender_Surgeries/comments/vfrb98/srs_june_20th_with_dr_kanhai_netherlands/) by MissUnderstood___ in 2022
 * [Had SRS about a month ago at Mk Velsen with doctor Kanhai](https://www.reddit.com/r/Transgender_Surgeries/comments/lkdgrj/had_srs_about_a_month_ago_at_mk_velsen_with/) by Girlydian in 2021
 
@@ -2611,7 +2611,7 @@ blogka
 
 YouTube
 
-* [MY FACE FEMINIZATION OPERATION! ( ffs )](https://www.youtube.com/watch?v=FJ_Q5lhx67c) by nati in 2022 
+* [MY FACE FEMINIZATION OPERATION! ( ffs )](https://www.youtube.com/watch?v=FJ_Q5lhx67c) by nati in 2022
 * [Doktor Janusz Jaworowski : SRS PRZESTROGA](https://www.youtube.com/watch?v=kNW-J_Z0-GU) by Emi ElEmi in 2018. The text translates as *"Doctor Janusz Jaworowski: SRS CAUTION"* and *"Why I DO NOT RECOMMEND SRS for this surgeon."*, and it links to http://drjaworowski.pl/, the site of surgeon Janusz Robert Jaworowski.
 
 [Blog Ka](http://ka.one.pl/tag/srs/) in 2018, SRS in Warsaw
@@ -2972,7 +2972,7 @@ reddit
     * reply to [Dr jesús lago bottom surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/1gtmebt/dr_jes%C3%BAs_lago_bottom_surgery/) by SadReception4730 in 2024 - *"Don’t. I almost died from post surgical complications. It’s been 7 months since my operation and he has not reached out once (surely he knows he’s liable). Truly the absolute worst customer service. The hospital he operates out of is also extremely bad."*
     * [SRS scars](https://old.reddit.com/r/Transgender_Surgeries/comments/1dxo1m8/srs_scars/) by SadReception4730 in 2024 - *"I can’t even wear underwear or a bikini without the scars poking out😣 My surgeon really fucked and made them so long and didn’t place them in the right position. For some reason these scars have also become hypertrophic which has never happened to any other scar on my body."*
     * reply to [Who was your srs surgeon, do you regret going to him and which surgeon/ method would you go for instead.](https://old.reddit.com/r/Transgender_Surgeries/comments/1dwzt7t/who_was_your_srs_surgeon_do_you_regret_going_to/lbybq3l/) by SadReception4730 in 2024 - *"I went with Dr.Lago in Madrid. Worst decision I’ve ever made. It’s been 3 months and my mental health is in the gutter. I opted for the colon method (regret choosing that method), he punctured my colon then misdiagnosed me which led me to have an emergency laparotomy performed by another surgeon. The anatomy of my vulva is also incorrect and he made the scars huge and placed them in the wrong position. The administration is also trash, they haven’t checked in on me once."*
-    * [Colon Vaginoplasty: Not Worth It](https://old.reddit.com/r/Transgender_Surgeries/comments/1d9gz7h/colon_vaginoplasty_not_worth_it/) by SadReception4730 in 2024 
+    * [Colon Vaginoplasty: Not Worth It](https://old.reddit.com/r/Transgender_Surgeries/comments/1d9gz7h/colon_vaginoplasty_not_worth_it/) by SadReception4730 in 2024
 * reply to [MtF SRS with private surgeon in Ireland?](https://www.reddit.com/r/TransIreland/comments/19cw33g/mtf_srs_with_private_surgeon_in_ireland/kj1thfk/) by Ash___________ in 2024 - this is about FFS
 * [Dr Lago (Madrid/Spain) - Be very careful/wary is my advice based on the following experiences](https://www.reddit.com/r/Transgender_Surgeries/comments/16o6uck/dr_lago_madridspain_be_very_carefulwary_is_my/) by HaydeeMercedes in 2023
 * [Why is my surgeon avoiding to treat my granulation tissue and won't even name it?](https://www.reddit.com/r/Transgender_Surgeries/comments/14j0ail/why_is_my_surgeon_avoiding_to_treat_my/) by Novalara in 2023
@@ -3062,7 +3062,7 @@ reddit
 * [Vaginoplasty PI Spain + fistula](https://www.reddit.com/r/Transgender_Surgeries/comments/oooume/vaginoplasty_pi_spain_fistula/) by lqlalia in 2021
 * [Looking for experiences/info on dr fakin (madrid/zurich)](https://www.reddit.com/r/Transgender_Surgeries/comments/mmxoiz/looking_for_experiencesinfo_on_dr_fakin/) by wolfpack3d in 2021
 * reply to [I need help with the wiki](https://www.reddit.com/r/Transgender_Surgeries/comments/iq5ykf/i_need_help_with_the_wiki/g9uqgtp/) by blueberryk1tty in 2020
-* [Just got approval for surgery with Dr. Richard Fakin in Madrid](https://www.reddit.com/r/Transgender_Surgeries/comments/i5jr7x/just_got_approval_for_surgery_with_dr_richard/) by keevalilith in 2020 
+* [Just got approval for surgery with Dr. Richard Fakin in Madrid](https://www.reddit.com/r/Transgender_Surgeries/comments/i5jr7x/just_got_approval_for_surgery_with_dr_richard/) by keevalilith in 2020
 
 Gendertreff Forum (in German)
 
@@ -3100,21 +3100,21 @@ reddit
 
 * [Day 48 post SRS (I think). I'm still alive... I loosing hope for my vagina to look like one... I'm not posting because there is not much changes... The only thing is that now I'm using the big dilatator and it hurts so damn much.](https://www.reddit.com/r/Transgender_Surgeries/comments/xwcqad/day_48_post_srs_i_think_im_still_alive_i_loosing/) by Cut3LittleBunny in 2022
     * [Day 40 post SRS. I don't know when the clitoris area will stop being so swollen...](https://www.reddit.com/r/Transgender_Surgeries/comments/xoxumd/day_40_post_srs_i_dont_know_when_the_clitoris/) by Cut3LittleBunny in 2022
-    * [Day 36 post SRS. It's normal to bleed trough the vagina?](https://www.reddit.com/r/Transgender_Surgeries/comments/xlhtej/day_36_post_srs_its_normal_to_bleed_trough_the/) by Cut3LittleBunny in 2022 
-    * [Day 33 post SRS. Finally... No more catheter... No more black things...](https://www.reddit.com/r/Transgender_Surgeries/comments/ximypp/day_33_post_srs_finally_no_more_catheter_no_more/) by Cut3LittleBunny in 2022 
-    * [1 month post SRS. Today nothing new... So let's make a comparation between day 8 and day 30.](https://www.reddit.com/r/Transgender_Surgeries/comments/xh1xzj/1_month_post_srs_today_nothing_new_so_lets_make_a/) by Cut3LittleBunny in 2022 
-    * [Day 30 post SRS. Nothing new... 3 days to the revision with the surgeon.](https://www.reddit.com/r/Transgender_Surgeries/comments/xg42gz/day_30_post_srs_nothing_new_3_days_to_the/) by Cut3LittleBunny in 2022 
-    * [Day 29 post SRS. Looks like the necrosis on top is starting to fell off too](https://www.reddit.com/r/Transgender_Surgeries/comments/xf9r01/day_29_post_srs_looks_like_the_necrosis_on_top_is/) by Cut3LittleBunny in 2022 
-    * [Day 28 post SRS. Well today I could shave my legs, it was hard but finally I have more flexibility.](https://www.reddit.com/r/Transgender_Surgeries/comments/xe8s0v/day_28_post_srs_well_today_i_could_shave_my_legs/) by Cut3LittleBunny in 2022 
-    * [Day 27 post SRS. Today I noticed something brown growing on my clit. Does someone know what it's?](https://www.reddit.com/r/Transgender_Surgeries/comments/xdacgo/day_27_post_srs_today_i_noticed_something_brown/) by Cut3LittleBunny in 2022 
-    * [Day 26 Post SRS part 2... Omg I'm crying of happiness and I'm so fucking relieved](https://www.reddit.com/r/Transgender_Surgeries/comments/xcaadg/day_26_post_srs_part_2_omg_im_crying_of_happiness/) by Cut3LittleBunny in 2022 
-    * [Day 26 Post SRS... Part 1. I have an appointment with a surgeon on 1 hour and 20 minutes...](https://www.reddit.com/r/Transgender_Surgeries/comments/xc6epa/day_26_post_srs_part_1_i_have_an_appointment_with/) by Cut3LittleBunny in 2022 
-    * [Day 25.2 post SRS... Losing hope... The necrosis didn't fall... But under it there's more black tissue.](https://www.reddit.com/r/Transgender_Surgeries/comments/xbtr8e/day_252_post_srs_losing_hope_the_necrosis_didnt/) by Cut3LittleBunny in 2022 
-    * [Day 25 post SRS. While doing this photo my phone fell from my hands and hitted my vagina](https://www.reddit.com/r/Transgender_Surgeries/comments/xbj4cw/day_25_post_srs_while_doing_this_photo_my_phone/) by Cut3LittleBunny in 2022 
-    * [Day 24 post SRS. The necrosis still there](https://www.reddit.com/r/Transgender_Surgeries/comments/xaqire/day_24_post_srs_the_necrosis_still_there/) by Cut3LittleBunny in 2022 
-    * [Day 23 post SRS... The pain it's real... Today is one of the worst days. I don't know how many time I have to wait until the necrosis fells off...](https://www.reddit.com/r/Transgender_Surgeries/comments/x9xult/day_23_post_srs_the_pain_its_real_today_is_one_of/) by Cut3LittleBunny in 2022 
-    * [Day 22 post SRS... Well it hurts. But looks like the necrosis is peeling off.](https://www.reddit.com/r/Transgender_Surgeries/comments/x91rm9/day_22_post_srs_well_it_hurts_but_looks_like_the/) by Cut3LittleBunny in 2022 
-    * [I'm scared right now... I have this yellow color on my necrosis and idk if it's good or bad](https://www.reddit.com/r/Transgender_Surgeries/comments/x8fupu/im_scared_right_now_i_have_this_yellow_color_on/) by Cut3LittleBunny in 2022 
+    * [Day 36 post SRS. It's normal to bleed trough the vagina?](https://www.reddit.com/r/Transgender_Surgeries/comments/xlhtej/day_36_post_srs_its_normal_to_bleed_trough_the/) by Cut3LittleBunny in 2022
+    * [Day 33 post SRS. Finally... No more catheter... No more black things...](https://www.reddit.com/r/Transgender_Surgeries/comments/ximypp/day_33_post_srs_finally_no_more_catheter_no_more/) by Cut3LittleBunny in 2022
+    * [1 month post SRS. Today nothing new... So let's make a comparation between day 8 and day 30.](https://www.reddit.com/r/Transgender_Surgeries/comments/xh1xzj/1_month_post_srs_today_nothing_new_so_lets_make_a/) by Cut3LittleBunny in 2022
+    * [Day 30 post SRS. Nothing new... 3 days to the revision with the surgeon.](https://www.reddit.com/r/Transgender_Surgeries/comments/xg42gz/day_30_post_srs_nothing_new_3_days_to_the/) by Cut3LittleBunny in 2022
+    * [Day 29 post SRS. Looks like the necrosis on top is starting to fell off too](https://www.reddit.com/r/Transgender_Surgeries/comments/xf9r01/day_29_post_srs_looks_like_the_necrosis_on_top_is/) by Cut3LittleBunny in 2022
+    * [Day 28 post SRS. Well today I could shave my legs, it was hard but finally I have more flexibility.](https://www.reddit.com/r/Transgender_Surgeries/comments/xe8s0v/day_28_post_srs_well_today_i_could_shave_my_legs/) by Cut3LittleBunny in 2022
+    * [Day 27 post SRS. Today I noticed something brown growing on my clit. Does someone know what it's?](https://www.reddit.com/r/Transgender_Surgeries/comments/xdacgo/day_27_post_srs_today_i_noticed_something_brown/) by Cut3LittleBunny in 2022
+    * [Day 26 Post SRS part 2... Omg I'm crying of happiness and I'm so fucking relieved](https://www.reddit.com/r/Transgender_Surgeries/comments/xcaadg/day_26_post_srs_part_2_omg_im_crying_of_happiness/) by Cut3LittleBunny in 2022
+    * [Day 26 Post SRS... Part 1. I have an appointment with a surgeon on 1 hour and 20 minutes...](https://www.reddit.com/r/Transgender_Surgeries/comments/xc6epa/day_26_post_srs_part_1_i_have_an_appointment_with/) by Cut3LittleBunny in 2022
+    * [Day 25.2 post SRS... Losing hope... The necrosis didn't fall... But under it there's more black tissue.](https://www.reddit.com/r/Transgender_Surgeries/comments/xbtr8e/day_252_post_srs_losing_hope_the_necrosis_didnt/) by Cut3LittleBunny in 2022
+    * [Day 25 post SRS. While doing this photo my phone fell from my hands and hitted my vagina](https://www.reddit.com/r/Transgender_Surgeries/comments/xbj4cw/day_25_post_srs_while_doing_this_photo_my_phone/) by Cut3LittleBunny in 2022
+    * [Day 24 post SRS. The necrosis still there](https://www.reddit.com/r/Transgender_Surgeries/comments/xaqire/day_24_post_srs_the_necrosis_still_there/) by Cut3LittleBunny in 2022
+    * [Day 23 post SRS... The pain it's real... Today is one of the worst days. I don't know how many time I have to wait until the necrosis fells off...](https://www.reddit.com/r/Transgender_Surgeries/comments/x9xult/day_23_post_srs_the_pain_its_real_today_is_one_of/) by Cut3LittleBunny in 2022
+    * [Day 22 post SRS... Well it hurts. But looks like the necrosis is peeling off.](https://www.reddit.com/r/Transgender_Surgeries/comments/x91rm9/day_22_post_srs_well_it_hurts_but_looks_like_the/) by Cut3LittleBunny in 2022
+    * [I'm scared right now... I have this yellow color on my necrosis and idk if it's good or bad](https://www.reddit.com/r/Transgender_Surgeries/comments/x8fupu/im_scared_right_now_i_have_this_yellow_color_on/) by Cut3LittleBunny in 2022
     * [Day 21 post SRS... Tired from walking.](https://www.reddit.com/r/Transgender_Surgeries/comments/x87oa3/day_21_post_srs_tired_from_walking/) by Cut3LittleBunny in 2022
     * [Day 20 post SRS. This is really hard...](https://www.reddit.com/r/Transgender_Surgeries/comments/x7k3iu/day_20_post_srs_this_is_really_hard/) by Cut3LittleBunny in 2022
     * [Day 19 post SRS. Seeing the light at the end of the tunnel.](https://www.reddit.com/r/Transgender_Surgeries/comments/x6ible/day_19_post_srs_seeing_the_light_at_the_end_of/) by  Cut3LittleBunny in 2022
@@ -3277,7 +3277,7 @@ Surgeons sites
 
 reddit
 
-* reply to [8 weeks post op colo-vaginoplasty with minor dehisence. Getting 22cm depth. Still a little swollen due to the dehisence complication, but very happy with the result. By IM GENDER Clinic, Ivan Manero, Barcelona.](https://www.reddit.com/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/htbv6iq/) by Pancake-san in 2022 - *"Yes, I can confirm it is a regional law here in Catalonia, were you don't need any psychological documentation, if you have the money you can book surgeries pretty quickly. In some places they ask you some evidence that you're on HRT, but that's really it."* 
+* reply to [8 weeks post op colo-vaginoplasty with minor dehisence. Getting 22cm depth. Still a little swollen due to the dehisence complication, but very happy with the result. By IM GENDER Clinic, Ivan Manero, Barcelona.](https://www.reddit.com/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/htbv6iq/) by Pancake-san in 2022 - *"Yes, I can confirm it is a regional law here in Catalonia, were you don't need any psychological documentation, if you have the money you can book surgeries pretty quickly. In some places they ask you some evidence that you're on HRT, but that's really it."*
     * [Orchiectomy 2 weeks post](https://www.reddit.com/r/Transgender_Surgeries/comments/nvuym9/orchiectomy_2_weeks_post/) by Pancake-san in 2021
     * [I just had my orchiectomy!!](https://www.reddit.com/r/MtF/comments/nig9tg/i_just_had_my_orchiectomy/) by Pancake-san in 2021
 
@@ -3355,9 +3355,9 @@ Location
 reddit
 
 * [Excess erectile tissue. Can this be fixed with a superficial intervention instead of having to have a full-on revision and going under general anesthesia?](https://www.reddit.com/r/Transgender_Surgeries/comments/1i8xw8f/excess_erectile_tissue_can_this_be_fixed_with_a/) by Agreeable_Stomach432 in 2025
-* [4 months Post-Op PI (Bellvitge, Spain)](https://www.reddit.com/r/Transgender_Surgeries/comments/1hsaqum/4_months_postop_pi_bellvitge_spain/) by Agreeable_Stomach432 in 2024 
-    * [3.5 months SRS PI update (Bellvitge, Spain)](https://www.reddit.com/r/Transgender_Surgeries/comments/1hh6y5h/35_months_srs_pi_update_bellvitge_spain/) by Agreeable_Stomach432 in 2024 
-    * [Almost 3 months Post-Op PI, Is it normal for my lips and clit to swell up this much after masturbating? (warning sexual themes)](https://www.reddit.com/r/Transgender_Surgeries/comments/1h1a51k/almost_3_months_postop_pi_is_it_normal_for_my/) by Agreeable_Stomach432 in 2024 
+* [4 months Post-Op PI (Bellvitge, Spain)](https://www.reddit.com/r/Transgender_Surgeries/comments/1hsaqum/4_months_postop_pi_bellvitge_spain/) by Agreeable_Stomach432 in 2024
+    * [3.5 months SRS PI update (Bellvitge, Spain)](https://www.reddit.com/r/Transgender_Surgeries/comments/1hh6y5h/35_months_srs_pi_update_bellvitge_spain/) by Agreeable_Stomach432 in 2024
+    * [Almost 3 months Post-Op PI, Is it normal for my lips and clit to swell up this much after masturbating? (warning sexual themes)](https://www.reddit.com/r/Transgender_Surgeries/comments/1h1a51k/almost_3_months_postop_pi_is_it_normal_for_my/) by Agreeable_Stomach432 in 2024
     * [2 months SRS Post-Op (PI), Bellvitge Hospital](https://www.reddit.com/r/Transgender_Surgeries/comments/1gjhkqi/2_months_srs_postop_pi_bellvitge_hospital/) by Agreeable_Stomach432 in 2024 - *"I've been saying my surgeon was Begoña Etcheverry, but I checked my surgical team the other day and apparently she's only one of the bunch of surgeons that were involved in the surgery, each one with specific specialties"*
     * [Have any of you experienced this too after SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/1gd9hhm/have_any_of_you_experienced_this_too_after_srs/) by Agreeable_Stomach432 in 2024
     * [Almost 2 months Post-Op PI, do y'all still think these saggy labia will be fixed with time lol](https://www.reddit.com/r/Transgender_Surgeries/comments/1gc6l22/almost_2_months_postop_pi_do_yall_still_think/) by Agreeable_Stomach432 in 2024

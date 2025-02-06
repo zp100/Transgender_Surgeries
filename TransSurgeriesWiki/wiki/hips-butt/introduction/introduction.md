@@ -14,8 +14,8 @@
 
 This 2018 article in New Beauty is a good introduction to the recently realised dangers of the Brazilian Butt Life. The death rate is around 1 in 3000, vastly higher than other aesthetic surgeries. Surgeons are adopting new techniques in an attempt to reduce the risk.
 
- * [Why One of the Hottest Plastic Surgery Procedures Is Also the Deadliest](https://www.newbeauty.com/blog/dailybeauty/12376-brazilian-butt-lift-bbl-risks-danger/) 
- 
+ * [Why One of the Hottest Plastic Surgery Procedures Is Also the Deadliest](https://www.newbeauty.com/blog/dailybeauty/12376-brazilian-butt-lift-bbl-risks-danger/)
+
 Similarly in the Huffington Post
 
 * [Brazilian Butt Lifts Are Resulting In An Alarmingly High Mortality Rate](https://www.huffingtonpost.com.au/entry/brazilian-butt-lift-risks_us_5b6c39c1e4b0530743c77cf6) in 2018
@@ -113,7 +113,7 @@ Susans
 
 Papers
 
-* 2022 - [Evolving Clinical Experiences in Aesthetic Hip Implant Body Contouring](https://pubmed.ncbi.nlm.nih.gov/35381058/) by 
+* 2022 - [Evolving Clinical Experiences in Aesthetic Hip Implant Body Contouring](https://pubmed.ncbi.nlm.nih.gov/35381058/) by
 Robert J Troell, Barry Eppley, Shahin Javaheri = *" The overall patient satisfaction rate (87%, 47 of 54 patients) was favorable. There was a total of 29 (54%) medical complications and 20 (37%) cosmetic complications (implant show). A total of 17 patients (31.5%) requested revision surgery secondary to implant show (n = 10) and an infected implant (n = 6). No patient experienced an acute implant infection, incisional scar hypertrophy, wound dehiscence, implant extrusion, parasthesias, muscle dysfunction, or hip joint injury."*
 
 # Korean Hip Implant
@@ -132,7 +132,7 @@ reddit
 * [\[Update: After Revision\] Pelvic Plasty Experience with Dr Won Yugon at Yonsei Baro Chuk Hospital](https://www.reddit.com/r/Transgender_Surgeries/comments/16pgmxg/update_after_revision_pelvic_plasty_experience/) by starrytouch_ in 2023
     * reply to [Hip implants?](https://www.reddit.com/r/Transgender_Surgeries/comments/10in445/hip_implants/j5i0umh/) by starrytouch_ in 2023 - *" I had hip implants or "pelvic plasty" to be precise in Seoul, South Korea at Yonsei Baro Chuk hospital with Dr Won. The result turned out to be really amazing and natural... However, I'm feeling excruciating "stretching" pain 3-month post op from the silicone implant on one side - which might be a nerve or muscle issue I guess. It comes and goes"* AND *" they adjusted (lowered the price) to 14,500 USD"*
     * [Pelvic Plasty Experience with Dr Won Yugon at Yonsei Baro Chuk Hospital](https://www.reddit.com/r/Transgender_Surgeries/comments/121k2px/pelvic_plasty_experience_with_dr_won_yugon_at/) by starrytouch_ in 2023
-* [Pelvicplasty full revision results. Surgery was performed 3rd August by Dr Won at Yonsei Baro Chuk Hospital, Seoul.](https://www.reddit.com/r/Transgender_Surgeries/comments/x767r2/pelvicplasty_full_revision_results_surgery_was/) by MejaFoss in 2022 
+* [Pelvicplasty full revision results. Surgery was performed 3rd August by Dr Won at Yonsei Baro Chuk Hospital, Seoul.](https://www.reddit.com/r/Transgender_Surgeries/comments/x767r2/pelvicplasty_full_revision_results_surgery_was/) by MejaFoss in 2022
     * [I had a pelvic plasty with Dr You gun Won at Yonsei Baro Chuk hospital in Seoul](https://www.reddit.com/r/Transgender_Surgeries/comments/uznza6/i_had_a_pelvic_plasty_with_dr_you_gun_won_at/) by MejaFoss in 2022
 * [Anyone had one of these new Korean "pelvic plasty" surgeries done, or waiting in the wings for one? What are your thoughts on the procedure?](https://www.reddit.com/r/Transgender_Surgeries/comments/q7nj6z/anyone_had_one_of_these_new_korean_pelvic_plasty/) by in_narnia in 2021 - *"the surgery is USD $19.9K + tax which includes the price of the plate, hospital fees, X-ray/CT etc. We offer a 20% discount to patients who agree to let us use their before & after photos for promotional purposes."*, photos on a trans patient [here](https://drive.google.com/file/d/1e19jtmEHj57_TmN0LMTfE3MtmwSmTqYS/view), also *"We already have the renowned ***US plastic surgeon Dr. Eppley*** *as one of our advisors and we hope to expand the network and let more people know about the surgery. "*
 anyone_had_one_of_these_new_korean_pelvic_plasty/hhk10u4/) by jasminecupcakes in 2021 - **
@@ -480,9 +480,9 @@ The PMFA Journal - *"The PMFA Journal is a bimonthly review for the plastic, max
 Dr Aslani has an entry on the GMC site, [Alexander ASLANI GMC reference no: 6156042](https://www.gmc-uk.org/doctors/6156042). In the history tab it says "This doctor has undertakings".
 
  An [undertaking](https://www.gmc-uk.org/concerns/information-for-doctors-under-investigation/our-sanctions/undertakings) is a sanction  against a doctor *"We can take action to make sure we protect patients, maintain confidence in the medical profession and uphold the standards we expect of doctors. We can give doctors a warning. Or we can agree undertakings with them in certain cases."*
- 
+
 * https://www.gmc-uk.org/concerns/information-for-doctors-under-investigation/our-sanctions
- 
+
 On the undertakings page it says *"When are undertakings appropriate? We will only offer undertakings to a doctor when we decide they are enough to protect patients and the public, and address the concerns about the doctor."*
 
 * https://www.gmc-uk.org/concerns/information-for-doctors-under-investigation/our-sanctions/undertakings
@@ -598,7 +598,7 @@ reddit
 
 * [Pretty stoked about how butt augmentation turned out](https://www.reddit.com/r/transpositive/comments/9w0mzd/pretty_stoked_about_how_butt_augmentation_turned/) by always-autumn in 2018
 
-GQ 
+GQ
 
 * not trans related - [https://www.gq.com/story/calf-implants-plastic-surgery](https://www.gq.com/story/calf-implants-plastic-surgery) in 2018
 
@@ -629,7 +629,7 @@ Susans
 
 ## California
 
-### Steven Teitelbaum 
+### Steven Teitelbaum
 
 Location
 
@@ -672,9 +672,9 @@ Yelp
 
 realself
 
-* [What complications/risks can be associated with BBL surgery? What steps can I take to better prepare for surgery?](https://www.realself.com/question/miami-fl-complications-risks-bbl-surgery) by  brantford23 
-* [Are the risks for BBL lower if not much fat is being grafted?](https://www.realself.com/question/los-angeles-ca-bbl-complications) by M_Corona11 
-* [Complications & Death from a BBL?](https://www.realself.com/question/maryland-md-complications-amp-bbl) by  TBean21  in 2017 
+* [What complications/risks can be associated with BBL surgery? What steps can I take to better prepare for surgery?](https://www.realself.com/question/miami-fl-complications-risks-bbl-surgery) by  brantford23
+* [Are the risks for BBL lower if not much fat is being grafted?](https://www.realself.com/question/los-angeles-ca-bbl-complications) by M_Corona11
+* [Complications & Death from a BBL?](https://www.realself.com/question/maryland-md-complications-amp-bbl) by  TBean21  in 2017
 * [Fat Transfer to Hips and Buttocks for Thinner Trans Woman ~ in Love with New Hips and Curves! - Culver City, CA ](https://www.realself.com/review/culver-city-ca-brazilian-butt-lift-fat-transfer-hips-buttocks-thinner-trans) and a had a second round [Fat Transfer to Hips Only with Dr. Hughes \(round 2 bbl\).. Beverly Hills, CA](https://www.realself.com/review/beverly-hills-ca-brazilian-butt-lift-revision-dr-hughes-wider) by  jennygirlinla in 2015.
 
 http://4patientsafety.org/mdb/showdr.php?mainID=1000
@@ -984,7 +984,7 @@ https://newsblaze.com/usnews/health/cosmetic-surgery-proves-deadly-florida-woman
 
 <br />
 
-### Michael Salzhauer 
+### Michael Salzhauer
 
 Location
 
@@ -1226,7 +1226,7 @@ YouTube
 
 Yelp
 
-* https://www.yelp.com/biz/avana-plastic-surgery-miami 
+* https://www.yelp.com/biz/avana-plastic-surgery-miami
     * *I did mommy makeover in 8-12-2021 with Dr Scurlock and my whole body developed keloids. Avana charged me $7,7250 for the mommy makeover when I was initially told $3,500. Avana lied and said the original doctor was not able to do my surgery so they are putting me with an older, overweight Dr Scurlock who charged double and messed up my body. Avana wanted me to pay $4,000 xtra to do a revision.*
     * *"I only used this place because I wanted to see Dr Scurlock this is the first time I have ever been through a clinic type of practice and definitely my last. This was like a meat market. From being over priced the hidden fees the Deposit, to the 2 hour wait time for blood work. I got a Tummy Tuck with Dr Scurlock. Waking up out of recovery was the most horrific experience I've ever had..."*
 
@@ -1306,7 +1306,7 @@ Other
 
 ## Pennsylvania
 
-### Kathy Rumer 
+### Kathy Rumer
 
 Location
 

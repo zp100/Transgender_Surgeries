@@ -32,7 +32,7 @@ symptoms and depression.
 
 > *... Tachyphylaxis was defined as continuing menopausal symptoms in the presence of a supraphysiological oestradiol level (>1,750 pmoVL)*
 
-John Studd says [on his website](https://www.studd.co.uk/implants.php) in 2020 of Tachyphylaxis 
+John Studd says [on his website](https://www.studd.co.uk/implants.php) in 2020 of Tachyphylaxis
 
 > Too frequent implantation or too high doses of oestrogen leads to supra-physiological oestradiol levels ***and*** the recurrence of symptoms even at these high levels...
 
@@ -60,7 +60,7 @@ Tachyphylaxis is supraphysiological oestradiol levels ***and*** symptoms of low 
 
 * Studd [on his website](https://www.studd.co.uk/implants.php) *"supra-physiological oestradiol levels* ***and*** *the recurrence of symptoms even at these high levels"*
 * [Templeman 1998](https://www.ncbi.nlm.nih.gov/pubmed/9890234) - *"Tachyphylaxis was defined as continuing menopausal symptoms* ***in the presence*** *of a supraphysiological oestradiol level (>1,750 pmol/L)"*
- 
+
 
 **The initial proposal of tachyphylaxis**
 
@@ -80,11 +80,11 @@ And the authors of [Garnett 1990](https://www.ncbi.nlm.nih.gov/pubmed/2223683) r
 
 > ...There remains  some debate about the true prevalence of this finding but an estimation from our large database from a busy specialist practice is more helpful than a ‘show of hands’ at a menopause meeting (Gangar et  al. 1990).
 
-> ...There is no doubt that depressed patients are referred selectively to our clinic. These end up with high oestradiol levels because in the first place, we treat patients with resistant or cyclical depression with higher doses of oestradiol  than  those with  only  vasomotor symptoms or the problems of atrophy. 
+> ...There is no doubt that depressed patients are referred selectively to our clinic. These end up with high oestradiol levels because in the first place, we treat patients with resistant or cyclical depression with higher doses of oestradiol  than  those with  only  vasomotor symptoms or the problems of atrophy.
 
 > Similarly we treat patients with severe pre-menstrual  depression with 200 mg Estraderm patches (Watson et al. 1989) or 100 mg oestradiol implants with the sole objective of elevating the plasma oestradiol levels from  normal to high constant levels and have reported significant improvements of severe  premenstrual symptoms with these regimens. Of our 38 patients with supraphysiological oestradiol levels 15 were suffering from premenstrual  tension which had failed to respond to other treatments.
 
-> ...Although we reported two  women with  high oestradiol levels after receiving 50 mg at their  last implant,  both  had been treated for 8 years with regular larger doses (never more than 100 mg) for their depression. Both had been able to discontinue antidepressants for the first time after 10 years of previous use. 
+> ...Although we reported two  women with  high oestradiol levels after receiving 50 mg at their  last implant,  both  had been treated for 8 years with regular larger doses (never more than 100 mg) for their depression. Both had been able to discontinue antidepressants for the first time after 10 years of previous use.
 
 **Templeman 1998**
 

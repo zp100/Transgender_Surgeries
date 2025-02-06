@@ -12,7 +12,7 @@ I've tried to avoid expressing my personal opinions on these pages but there is 
 
 Note that there's a fair number of negative posts about surgeons here as its one of the things I'm most interested in. All experienced surgeons have negative reviews and its not something that should rule automatically one out. I like to consider the number of negative vs positive reviews. There's also more links for some surgeons than others, partly due to my personal focus. I'll continue to edit and add to these pages over time and if anyone knows of any results, links, corrections, or improvements please let me know.
 
-I generally only list posts or video's where I can identify the surgeon. Unfortunately a lot of YouTuber's don't mention their surgeons, or bury the information in their video's where I'm not inclined to find it. 
+I generally only list posts or video's where I can identify the surgeon. Unfortunately a lot of YouTuber's don't mention their surgeons, or bury the information in their video's where I'm not inclined to find it.
 
 I normally add links in the wiki without asking permission, but if the original poster wants links removed from these pages please let me know. There was a complaint/discussion on this here on reddit, [My issue with the Transgender_Surgeries Wiki - and how I propose to solve this issue](https://www.reddit.com/r/Transgender_Surgeries/comments/lvh35w/my_issue_with_the_transgender_surgeries_wiki_and/) in 2021
 
@@ -350,7 +350,7 @@ Given that, I'd be concerned if there were a large discrepancy between the numbe
 
 I'd also be cautious where surgeons feature in articles in lots of magazines, newspapers and social media. There's a risk that they are really good at marketing and their reputation is influenced by that rather than their skills.
 
- 
+
 
 <br />
 
@@ -379,7 +379,7 @@ Why doesn't a doctor carry malpractice insurance?
 * https://www.realself.com/question/michigan-mi-concern-doctor-medical-malpractice-insurance-red-flag
 * https://www.nbcbayarea.com/news/local/Does-Your-Dr-Have-Malpractice-Insurance-Maybe-Not--382113561.html
 
-The huffpost article [Patients, Beware When Doctors 'Go Bare'](https://www.huffpost.com/entry/medical-malpractice-insurance_b_2455946) from 2013 makes some very clear points   
+The huffpost article [Patients, Beware When Doctors 'Go Bare'](https://www.huffpost.com/entry/medical-malpractice-insurance_b_2455946) from 2013 makes some very clear points
 
 * *Often, this means that a patient killed or injured by a careless, uninsured physician could potentially be left with little or no compensation for their damages, medical bills and lost wages.*
 
@@ -391,7 +391,7 @@ The huffpost article [Patients, Beware When Doctors 'Go Bare'](https://www.huffp
 
 Many doctors in Florida do not carry malpractice insurance. Doctors that do not have malpractice insurance must legally display this notice
 
-> I have elected not to carry medical malpractice insurance however, I agree to satisfy any adverse judgments up to the minimum amounts pursuant to s. 458.320(5) (g)1, F. S. I understand that I must either post notice in a sign prominently displayed in my reception area or provide a written statement to any person to whom medical services are being provided that I have decided not to carry medical malpractice insurance. I understand that such a sign or notice must contain the wording specified in s. 458.320(5) (g), F.S. 
+> I have elected not to carry medical malpractice insurance however, I agree to satisfy any adverse judgments up to the minimum amounts pursuant to s. 458.320(5) (g)1, F. S. I understand that I must either post notice in a sign prominently displayed in my reception area or provide a written statement to any person to whom medical services are being provided that I have decided not to carry medical malpractice insurance. I understand that such a sign or notice must contain the wording specified in s. 458.320(5) (g), F.S.
 
 A quick way to find if a surgeon does not have malpractice insurance is to search for their name and in quotes "DECIDED NOT TO CARRY MEDICAL MALPRACTICE INSURANCE", or search this site and look under the "Financial Responsibility" tab of the doctors "Practitioner Profile".
 
@@ -442,7 +442,7 @@ reddit
 
 YouTube
 
-* [What they don't tell you about cannabis before surgery- Dr. Kaveh LIVE](https://www.youtube.com/watch?v=2AeTDIyKDUs) by 
+* [What they don't tell you about cannabis before surgery- Dr. Kaveh LIVE](https://www.youtube.com/watch?v=2AeTDIyKDUs) by
 Medical Secrets in 2023
 
 https://420intel.com/articles/2018/07/25/can-you-smoke-cannabis-after-plastic-surgery - *"Most well-regarded plastic surgeons recommend refraining from smoking cannabis for six weeks before and after any surgery. Medical experts believe that patients should protect their investment and give their bodies enough time to recover naturally and completely"* ***and*** *"If you get the okay, it is best to avoid smoking any substance and instead take cannabis in other forms."*
@@ -648,7 +648,7 @@ Papers
 * [Local complications after industrial liquid silicone injection - case series](http://www.scielo.br/scielo.php?pid=S0100-69912013000100007&script=sci_arttext&tlng=en) in 2013
 * [Silicone Injections](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3483578/) by Uwe Wollina in 2012
 
-CBS News 
+CBS News
 
 * [Deadly Silicone Injections: One Woman's Final Hours](https://www.cbsnews.com/news/deadly-silicone-injections-one-womans-final-hours/) in 2010
 
@@ -689,7 +689,7 @@ reddit
 * [British gay man ‘tortured’ in Qatar is almost out of HIV medicine, family says.](https://www.reddit.com/r/gaybros/comments/1c1z0tq/british_gay_man_tortured_in_qatar_is_almost_out/) by 0WishToBeFree0 in 2024 - links to Advocate article [](https://www.advocate.com/news/qatar-gay-airline-torture-hiv) in 2024 - *"Forty-four-year-old Manuel Guerrero, who also holds Mexican citizenship, moved to Qatar, where homosexuality is illegal, seven years ago for his work. He was detained on February 4 after being entrapped by law enforcement through a fake Grindr profile, and was held in jail for nearly two months. During that time, Qatari authorities subjected Guerrero to secret nighttime interrogations where they forced him to name other LGBTQ+ people he had relations with, according to his family. After learning of his HIV status, they locked him in solitary confinement and refused to administer his medication... Younes added that "security officers also inflict verbal abuse, extract forced confessions, and deny detainees access to legal counsel, family, and medical care... "They tortured Manuel in the face of the U.K. embassy, and I believe the U.K. government needs to escalate the situation because it's critical and it's not fair," he said. "They must send a clear message to the state of Qatar that they can't do that to a British citizen. They can't torture a British citizen."*
 * [A catch-all answer to "should I go to (insert Middle East country here)?": No you fucking shouldn't.](https://www.reddit.com/r/asktransgender/comments/14p93kl/a_catchall_answer_to_should_i_go_to_insert_middle/) by JesiDoodli in 2023 - *"It is unsafe. It doesn't matter how well you pass, it's unsafe. Even if you've had bottom surgery, are on HRT, it's unsafe. It doesn't matter how deep into the closet you are, if the only people who know you're queer are online. It's unsafe. You could easily be outed, doesn't matter how well you pass, or if you're closeted. This opens the floodgates to harassment, assault, arrest, torture, abuse, even murder. Here, rainbow toys are banned because it's "spreading homosexuality to kids". Now imagine the reception you'll get as an actual queer person."*
 * [On today’s episode of reasons people want us to be bombed and killed.](https://www.reddit.com/r/qatar/comments/yc3nic/on_todays_episode_of_reasons_people_want_us_to_be/) in 24 October 2022 - post in [r/qatar](https://www.reddit.com/r/qatar) about the forced vaginal examination of a australian women transititing thought Qatar, lots of defending what happened
-* [Australian women sue over Qatar airport strip-searches](https://www.bbc.com/news/world-australia-59288177), BBC News in 2021 - *"The women said they did not consent to the examinations and were not given explanations for what was happening to them. One of the women, who did not want to be named, told the BBC she was "subjected to the most horrifically invasive physical exam". "I was certain that I was either going to be killed by one of the many men that had a gun, or that my husband on the plane was going to be killed," she said in a statement from her lawyer."* 
+* [Australian women sue over Qatar airport strip-searches](https://www.bbc.com/news/world-australia-59288177), BBC News in 2021 - *"The women said they did not consent to the examinations and were not given explanations for what was happening to them. One of the women, who did not want to be named, told the BBC she was "subjected to the most horrifically invasive physical exam". "I was certain that I was either going to be killed by one of the many men that had a gun, or that my husband on the plane was going to be killed," she said in a statement from her lawyer."*
 * [Australian women invasively examined on Qatar flight set to sue after ‘being ignored’](https://www.smh.com.au/national/australian-women-invasively-examined-on-qatar-flight-are-suing-after-being-ignored-20211114-p598qe.html) in 2021 - *"Seven of the 13 Australian women hauled off a Qatar Airways flight last year and forced to undergo invasive examinations at Doha airport are threatening legal action after more that a year of being ignored by the wealthy gulf state."*
 * ['Some were upset, angry, one was crying': significant concerns over invasive Doha searches](https://www.smh.com.au/politics/federal/some-were-upset-angry-one-was-crying-significant-concerns-over-invasive-doha-searches-20201026-p568lk.html) in 2020
 * [UK, New Zealand say citizens also tested invasively in Qatar | Australia](https://www.reddit.com/r/worldnews/comments/jkqlx1/uk_new_zealand_say_citizens_also_tested/) in 2020
@@ -871,7 +871,7 @@ SRS
 
 FFS
 
-* Mark Zukowski in USA 
+* Mark Zukowski in USA
 * Bart van de Ven - https://rachelwomanofherdreams.blogspot.com/2015/04/death-from-ffs-facial-feminization.html
 
 * 2020 - [In Vietnam, old hand at transgender service opens up about job](https://tuoitrenews.vn/news/features/20200618/in-vietnam-old-hand-at-transgender-service-opens-up-about-job/55146.html) - *"In her career, she witnessed one case of fatality following a gender affirmation surgery due to postoperative mishandling. It was a Filippino who came to Thailand for the operation. She died several days after getting back home. According to the ill-fated lady’s companions, she was mishandling the vaginal dilator. Her family members were not aware of her excessive bleeding, which caused her death."*
@@ -901,7 +901,7 @@ reddit
 * [Surgery and hair loss](https://www.reddit.com/r/curlyhair/comments/7adjwv/surgery_and_hair_loss/) by MuppetManiac in 2018
 * [FFS scar hairloss?](https://www.reddit.com/r/asktransgender/comments/49sk4p/ffs_scar_hairloss/) by throwmeaway4782 in 2016
 
-Dr Powers on hair restoration 
+Dr Powers on hair restoration
 
 * https://www.reddit.com/r/DrWillPowers/wiki/hair-restoration
 
@@ -995,7 +995,7 @@ Papers
 * 2020 - [Effect of botulinum toxin type A for treating hypertrophic scars: A split-scar, double-blind randomized controlled trial](https://doi.org/10.1111/jocd.13627) by Ahmad R. Elshahed, Khaled S. Elmanzalawy, Hany Shehata, Mohamed L. ElSaie - *"Clinical and cosmetic improvement was demonstrated significantly among the BTA-treated group. BTA can be an additional and useful tool for improving scar outcomes."*
 * 2019 - [Clinical trial to evaluate the efficacy of botulinum toxin type A injection for reducing scars in patients with forehead laceration: A double-blinded, randomized controlled study](https://pubmed.ncbi.nlm.nih.gov/31441893/) by Seong Hwan Kim, Seong Joo Lee, Jun Won Lee, Hii Sun Jeong, In Suck Suh - *" Improvement of aesthetic, functional, and emotional aspect of the scar formation in the groups treated with BoNTA was illustrated. The application of BoNTA may be expanded to prevent hypertrophic scar after trauma, burns, or operations."*
 * 2013 - [Botulinum toxin type A: implications in wound healing, facial cutaneous scarring, and cleft lip repair](https://doi.org/10.5144/0256-4947.2013.482) by Mohammad M Al-Qattan, Bisher Nawras Al-Shanawani, Feras Alshomer
-* 2006 - [Botulinum toxin to improve facial wound healing: A prospective, blinded, placebo-controlled study](https://doi.org/10.4065/81.8.1023) by 
+* 2006 - [Botulinum toxin to improve facial wound healing: A prospective, blinded, placebo-controlled study](https://doi.org/10.4065/81.8.1023) by
 Holger G Gassner, Anthony E Brissett, Clark C Otley, Derek K Boahene, Andy J Boggust, Amy L Weaver, David A Sherris
 
 ### Verteporfin
@@ -1073,12 +1073,12 @@ Other
 
 This 2010 case is interesting. Dr Eppley appears to have won this lawsuit.
 
-> ... Dr. Barry Eppley is a citizen of Indiana who has a medical practice in central Indiana. Lucille Iacovelli is a former patient of Dr. Eppley’s and a citizen of the Commonwealth of Massachusetts. Invoking both the court’s diversity and federal question jurisdiction, and seeking both injunctive relief and damages, Dr. Eppley has sued Ms. Iacovelli for defamation, tr ade disparagement, harassment, false-light publicity, and violation of § 43 of t he Lanham Act, 15 U.S.C. § 1125, through her allegedly false designation and description of fact. 
+> ... Dr. Barry Eppley is a citizen of Indiana who has a medical practice in central Indiana. Lucille Iacovelli is a former patient of Dr. Eppley’s and a citizen of the Commonwealth of Massachusetts. Invoking both the court’s diversity and federal question jurisdiction, and seeking both injunctive relief and damages, Dr. Eppley has sued Ms. Iacovelli for defamation, tr ade disparagement, harassment, false-light publicity, and violation of § 43 of t he Lanham Act, 15 U.S.C. § 1125, through her allegedly false designation and description of fact.
 
 > In 2001, Dr. Eppley performed a revisional facelift procedure on Ms. Iacovelli, a Massachusetts resident.
 
 > ... For approximately a year following the surgery, Dr. Eppley attempted to address Ms. Iacovelli’s concerns. They communicated by telephone, mail, and e-mail during that time. Ms. Iacovelli sent Dr. E ppley numerous e-mails complaining about her surgery and characterizing him as a butcher or murderer. Sometimes using aliases, she would send him e-mails on a daily basis. Ms. Iacovelli has never filed a medical malpractice lawsuit against Dr. Eppley based on any of these complaints.
-    
+
 > ... Since the surgery, Ms. Iacovelli has published a large volume of postings on various internet sites alleging that Dr . Eppley mishandled her surgery and caused her to suffer severe health problems, parti cularly breathing difficulties. She placed postings on complaint sites, maintained various blogs and websites, and posted videos on internet platforms, all blaming Dr. Eppley for her asserted post-surgical condition. In her internet publications, Ms. Iacovelli has noted that subsequent to the surgery performed by Dr. Eppley she consulted ot her physicians, who have concluded there was nothing physically wrong with her
 
 https://www.govinfo.gov/content/pkg/USCOURTS-insd-1_09-cv-00386/pdf/USCOURTS-insd-1_09-cv-00386-15.pdf - Dr. Barry Eppley Vs Lucille Iacovelli
@@ -1104,7 +1104,7 @@ Note that in Thailand the truth doesn't appear to be a defense against defamatio
 
 * [TripAdvisor warns users over Thai hotel that legally pursued reviewer](https://www.bbc.com/news/world-asia-54914768) in 2020
 * [American faces prison in Thailand over bad hotel review](https://www.theguardian.com/world/2020/sep/29/american-wesley-barnes-faces-prison-thailand-bad-hotel-review) in 2020
-* [The Truth About Slander and Libel Laws in Thailand](https://silklegal.com/the-truth-about-slander-and-libel-laws-in-thailand/) by 
+* [The Truth About Slander and Libel Laws in Thailand](https://silklegal.com/the-truth-about-slander-and-libel-laws-in-thailand/) by
 
 If you wish to make negative reviews about surgeons read this page that discusses how surgeons can get negative reviews removed from realself
 
@@ -1398,7 +1398,7 @@ From page 105-106
 
 > **Criteria for Genital Surgery (Two Referrals)**
 
-> **Hysterectomy and Salpingo-Oophorectomy** in FtM Patients and **Orchiectomy** in MtF Patients: 
+> **Hysterectomy and Salpingo-Oophorectomy** in FtM Patients and **Orchiectomy** in MtF Patients:
 
 > 1. Persistent, well documented gender dysphoria;
 
@@ -1418,11 +1418,11 @@ From page 105-106
 
 > 2. Capacity to make a fully informed decision and to give consent for treatment;
 
-> 3. Age of majority in a given country; 
+> 3. Age of majority in a given country;
 
 > 4. If significant medical or mental health concerns are present, they must be well controlled;
 
-> 5. 12 continuous months of hormone therapy as appropriate to the patient’s gender goals (unless 
+> 5. 12 continuous months of hormone therapy as appropriate to the patient’s gender goals (unless
 hormones are not clinically indicated for the individual);
 
 > 6. 12 continuous months of living in a gender role that is congruent with their gender identity. Although not an explicit criterion, it is recommended that these patients also have regular visits with a mental health or other medical professional.

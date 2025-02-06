@@ -27,7 +27,7 @@ reddit
 * [Rice Test vs Actual Results](https://www.reddit.com/r/Transgender_Surgeries/comments/igxxhn/rice_test_vs_actual_results/) by Rememberthispw in 2020
 * [Should I search for a surgeon with experience with trans patients for a breast implant?](https://www.reddit.com/r/Transgender_Surgeries/comments/i3g2q0/should_i_search_for_a_surgeon_with_experience/) by misses_tumblr in 2020
 * [After getting a Breast Augmentation and going from a A/B cup to a full sized D/DD.. here’s my thoughts.](https://www.reddit.com/r/MtF/comments/huwfwo/after_getting_a_breast_augmentation_and_going/) by throwiway88 in 2020
-* [Check out the 350,000+ Breast Implant Files that the FDA didn't want you to see...](https://www.reddit.com/r/PlasticSurgery/comments/bdvo57/check_out_the_350000_breast_implant_files_that/) by BobbiBillard in 2019, referring to [FDA Kept Hundreds of Thousands of Breast Implant Incidents Hidden From Public](https://www.icij.org/investigations/implant-files/fda-kept-hundreds-of-thousands-of-breast-implant-incidents-hidden-from-public/) by the 
+* [Check out the 350,000+ Breast Implant Files that the FDA didn't want you to see...](https://www.reddit.com/r/PlasticSurgery/comments/bdvo57/check_out_the_350000_breast_implant_files_that/) by BobbiBillard in 2019, referring to [FDA Kept Hundreds of Thousands of Breast Implant Incidents Hidden From Public](https://www.icij.org/investigations/implant-files/fda-kept-hundreds-of-thousands-of-breast-implant-incidents-hidden-from-public/) by the
 International Consortium of Investigative Journalists in 2019
 * [Areolas becoming oval after implants?](https://www.reddit.com/r/PlasticSurgery/comments/b473b8/areolas_becoming_oval_after_implants/) in 2019
 * [Protip: If you want breast implants, get them done in the Winter.](https://www.reddit.com/r/PlasticSurgery/comments/9bw6gy/protip_if_you_want_breast_implants_get_them_done/) by 369onoby
@@ -315,7 +315,7 @@ It looks like BRAVA is no longer sold
 ---
 
 # Suction Devices
- 
+
 These work by having suction cups over the breasts and have the appearance of being a scam. You'd think if they actually worked they would be very popular and well known instead of some fringe treatment. However I'm uncertain as there are medical research papers on these devices, some surgeons use the BRAVA device prior to fat transfer (which is a somewhat different application), and there are some seemingly credible posts/videos. It appears that it can work, but you have to be very dedicated to stick with it long enough and most women will give up first.
 
 Cheryl's Breast Talk Forum
@@ -748,7 +748,7 @@ YouTube
 
 ### COSMOS Clinic
 
-Dr Joseph Ajaka is the founder of Cosmos Clinic. 
+Dr Joseph Ajaka is the founder of Cosmos Clinic.
 
 Location
 
@@ -1099,7 +1099,7 @@ CosmeticJourney
 * [60 minutes coverage TCI](https://cosmeticjourney.com/forum/topic/20379-60-minutes-coverage-tci/) in 2015
 * [Cosmetic Institute - Dr Victor Lee - Recent Reviews](https://cosmeticjourney.com/forum/topic/31338-cosmetic-institute-dr-victor-lee-recent-reviews/) in 2014 - *"Were my boobs disgusting afterward? Absolutely. My implants were placed so high up on my chest I essentially had four boobs with my implants & natural tissue."*
 
-YouTube 
+YouTube
 
 * [The Cosmetic Institute on 60 Minutes](https://www.youtube.com/watch?v=6J5jgt07pFo) by Cosmetic Surgery Media in 2015
 * [Botched Operations by The Cosmetic Institute](https://www.youtube.com/watch?v=QAgjpcv9hss) by Cosmetic Surgery Media in 2015
@@ -1190,7 +1190,7 @@ Cosmetic Journey
 * [Had my first consult and trying to choose implants, anyone with similar stats? 163cm 48kg 10A](https://cosmeticjourney.com/forum/topic/16876-had-my-first-consult-and-trying-to-choose-implants-anyone-with-similar-stats-163cm-48kg-10a/?tab=comments#comment-205799) by MissS in 2015
 * [Any feedback on Dr David Topchian???](https://cosmeticjourney.com/forum/topic/3408-any-feedback-on-dr-david-topchian/) in 2012
 
-Research 
+Research
 
 * https://www.researchgate.net/scientific-contributions/2132101966_David_Topchian
 
@@ -1303,7 +1303,7 @@ YouTube
 
 ### Ronald Levine
 
-Location 
+Location
 
 * 56 Aberfoyle Crescent #650, Toronto, ON M8X 2X1
 
@@ -1495,7 +1495,7 @@ YouTube
 
 ---
 
-## Korea 
+## Korea
 
 See the FFS page for more on surgery in Korea.
 
@@ -1991,7 +1991,7 @@ https://www.canadianbreastfeedingfoundation.org/induced/induced.shtml#toc_protoc
 
 ---
 *
-#### Daniel Barrett 
+#### Daniel Barrett
 
 Location
 
@@ -2202,7 +2202,7 @@ reddit
 
 * [Terrible communication with Dr. Mort Rizvi and Assistants](https://www.reddit.com/r/Transgender_Surgeries/comments/12xyp2c/terrible_communication_with_dr_mort_rizvi_and/) by Own_Razzmatazz54 in 2023
 * [day 4. 360 lipo & fat grafting to hips & breasts](https://www.reddit.com/r/Transgender_Surgeries/comments/wcq143/day_4_360_lipo_fat_grafting_to_hips_breasts/) by yourlocaltransexual in 2022
- 
+
 
 Other
 
@@ -2542,7 +2542,7 @@ reddit
 
 * [I feel botched. (The University of Kansas Hospital) surgery was 5/25/2022 with Dr Satish Ponnuru.](https://www.reddit.com/r/Transgender_Surgeries/comments/w1imo2/i_feel_botched_the_university_of_kansas_hospital/) by Temporary_Ear_5722 in 2022
 
- 
+
 
 <br />
 
@@ -2600,7 +2600,7 @@ Other
 
 ---
 
-#### Jaromir Slama 
+#### Jaromir Slama
 
 Also does SRS.
 
@@ -2633,7 +2633,7 @@ reddit
 
 ### Maryland
 
-#### Gabriel Del Corral 
+#### Gabriel Del Corral
 
 Also does SRS. More details on thaty page.
 
@@ -2846,7 +2846,7 @@ Other
 
 ---
 
-#### Alexes Hazen 
+#### Alexes Hazen
 
 Surgeons sites
 
@@ -3129,7 +3129,7 @@ Location
 realself
 
 * [i will need a surgery again..... - Bala Cynwyd, PA](https://www.realself.com/review/bala-cynwyd-pa-breast-reduction-surgery) by  ineedanothersugery in 2018
- 
+
 YouTube
 
 * [TransLife - Breast Augmentation- my story](https://www.youtube.com/watch?v=yC1uZ9fogs4) by Tiff Taco in 2020
@@ -3177,7 +3177,7 @@ Lawsuits
 
 ### Texas
 
-#### Nayif Alnaif 
+#### Nayif Alnaif
 
 Location
 
@@ -3299,7 +3299,7 @@ reddit
     * [Before & After. 3 days post op for breast augmentation. 295cc over the muscle. Measured as a 36C before, currently measure as a 36F with swelling. Surgeon was Dr. Salam Al Kassis at Vanderbilt.](https://www.reddit.com/r/Transgender_Surgeries/comments/qdr6iz/before_after_3_days_post_op_for_breast/) by Rotang-Klan in 2021
 * [7 weeks post op breast augmentation with Dr Kassis at Vanderbilt University in Nashville. 415cc over the muscle](https://www.reddit.com/r/Transgender_Surgeries/comments/m0gwcc/7_weeks_post_op_breast_augmentation_with_dr/) by Ravishing_Rachel in 2021
     * [Officially 4 weeks post-op! Dr Alkassis out of Nashville is literally amazing!!](https://www.reddit.com/r/Transgender_Surgeries/comments/linyuh/officially_4_weeks_postop_dr_alkassis_out_of/) by Ravishing_Rachel in 2021
-    * [5 days post op breast augmentation with Dr Salem AlKassiss, Nashville TN](https://www.reddit.com/r/Transgender_Surgeries/comments/l3cybs/5_days_post_op_breast_augmentation_with_dr_salem/) by Ravishing_Rachel in 2021 
+    * [5 days post op breast augmentation with Dr Salem AlKassiss, Nashville TN](https://www.reddit.com/r/Transgender_Surgeries/comments/l3cybs/5_days_post_op_breast_augmentation_with_dr_salem/) by Ravishing_Rachel in 2021
     * [Just had a Breast Augmentation with Dr Salem Alkassiss out of Vanderbilt University in Nashville yesterday. AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/l0i0pc/just_had_a_breast_augmentation_with_dr_salem/) by Ravishing_Rachel in 2021
 * [Post-OP BA at Vanderbilt. Here’s them in a bra :,)](https://www.reddit.com/r/Transgender_Surgeries/comments/l4wsjc/postop_ba_at_vanderbilt_heres_them_in_a_bra/) by shovellove in 2021
 * [Post-Op Breast Augmentation Dr. Salam Alkassis, Nashville TN at Vanderbilt](https://www.reddit.com/r/Transgender_Surgeries/comments/l3sds7/postop_breast_augmentation_dr_salam_alkassis/) by shovellove in 2021
@@ -3322,7 +3322,7 @@ Location
 
 reddit
 
-* [2.5 weeks post top surgery with Julian Winocour](https://www.reddit.com/r/Transgender_Surgeries/comments/lkjsn0/25_weeks_post_top_surgery_with_julian_winocour/) by RainbowsCrash in 2021 - 
+* [2.5 weeks post top surgery with Julian Winocour](https://www.reddit.com/r/Transgender_Surgeries/comments/lkjsn0/25_weeks_post_top_surgery_with_julian_winocour/) by RainbowsCrash in 2021 -
 
 <br />
 
@@ -3444,7 +3444,7 @@ See FFS page also.
 
 Location
 
-* Washington 
+* Washington
 
 Surgeons sites
 

@@ -26,7 +26,7 @@ Location
 
 * Argentina
 
-reddit 
+reddit
 
 * [Sharing some info on Brazilian and Argentinian surgeons](https://www.reddit.com/r/Transgender_Surgeries/comments/a36vls/sharing_some_info_on_brazilian_and_argentinian/) by BR_SRS in 2018 - *"Urologist. City: La Plata. Pioneer of SRS in Argentina. Very large experience, praised a lot for his results and bedside manners. His old-school style of communication might be offputting for some. Vaginoplasty + hospital fees costs around USD 8k. No website. fidalgocesar@hotmail.com"*
 
@@ -267,7 +267,7 @@ Papers
 
 ## Transgender Center Brazil
 
-Don't know who the surgeons is for SRS. Maybe Cláudio Eduardo de Souza. 
+Don't know who the surgeons is for SRS. Maybe Cláudio Eduardo de Souza.
 
 * http://www.transgeneros.com.br
 * YouTube [TRANSGENDER CENTER BRAZIL Dr Martins Jr](https://www.youtube.com/channel/UCPV5qOAAFFxwE2P0jYtF5wQ)

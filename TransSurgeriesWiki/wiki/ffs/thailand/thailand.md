@@ -84,7 +84,7 @@ Susans
 
 ---
 
-## Kamol Pansritum 
+## Kamol Pansritum
 
 See also the SRS page where there's a lot more information.
 
@@ -94,7 +94,7 @@ Location
 
 Surgeons sites
 
-* http://www.kamolhospital.com/en/ 
+* http://www.kamolhospital.com/en/
 * [YouTube Channel](https://www.youtube.com/channel/UCrcU_LDew8t659gUTYCxQoQ)
 
 reddit
@@ -117,11 +117,11 @@ Instagram
 
 * Dayana Polansky Roberto - https://www.instagram.com/dayanaroberto92/reel/C_MPJlLOXJM in 2024
 
- > *"hicos cómo están estoy triste como ven antes de destruirme con @kamolhospital la nariz vine con mi doctor @doctorhoficial para reconstrucción como ven y saben les e estado subiendo todo el proceso de mi operación antes de eso platiqué con mi doctor @doctorhoficial y hablamos de lo bueno y lo malo que podía pasar en mi reconstrucción y bueno de malas me dio necrosis No es por el mal procedimiento de mi doctor @doctorhoficial si no que es porque ya estaba mal destruída por la cirugía anterior en Thailandia así que estoy ateniéndome a las consecuencias mi doctor @doctorhoficial me está ayudando mucho en este proceso triste pero no me derrumbo estamos fuertes el y yo ya que los dos lo hablamos como equipo así que el me da esperanzas de que todo se solucionara toca esperar en el proceso y entrar a cámara de oxígeno para que reviva mi nariz y no se me pudra y no tengan que hacer otra operación de quitarme piel de mi frente y recostruirla nuevamente no queremos eso queremos que mi piel reviva así que tomare todas las indicaciones que mi doctor me diga los quiero mucho y que dios me los bendiga Deséenme suerte y oren por mi que a todos nos puede suceder tengo fe en mi doctor y se que esto pasará chispas cuidado con @kamolhospital no se operen hay no saben operar y te dejan mal todos los procedimientos si no investiguen con otras trans y verán"* 
+ > *"hicos cómo están estoy triste como ven antes de destruirme con @kamolhospital la nariz vine con mi doctor @doctorhoficial para reconstrucción como ven y saben les e estado subiendo todo el proceso de mi operación antes de eso platiqué con mi doctor @doctorhoficial y hablamos de lo bueno y lo malo que podía pasar en mi reconstrucción y bueno de malas me dio necrosis No es por el mal procedimiento de mi doctor @doctorhoficial si no que es porque ya estaba mal destruída por la cirugía anterior en Thailandia así que estoy ateniéndome a las consecuencias mi doctor @doctorhoficial me está ayudando mucho en este proceso triste pero no me derrumbo estamos fuertes el y yo ya que los dos lo hablamos como equipo así que el me da esperanzas de que todo se solucionara toca esperar en el proceso y entrar a cámara de oxígeno para que reviva mi nariz y no se me pudra y no tengan que hacer otra operación de quitarme piel de mi frente y recostruirla nuevamente no queremos eso queremos que mi piel reviva así que tomare todas las indicaciones que mi doctor me diga los quiero mucho y que dios me los bendiga Deséenme suerte y oren por mi que a todos nos puede suceder tengo fe en mi doctor y se que esto pasará chispas cuidado con @kamolhospital no se operen hay no saben operar y te dejan mal todos los procedimientos si no investiguen con otras trans y verán"*
 
   google translated to English reads
 
- > *"Guys how are you I'm sad as you see before destroying me with@kamolhospital the nose I came with my doctor@doctorhoficial For reconstruction, as you see and know, I have been uploading the entire process of my operation. Before that, I spoke with my doctor.@doctorhoficial and we talked about the good and the bad that could happen in my reconstruction and well, badly I got necrosis. It's not because of my doctor's bad procedure.@doctorhoficial If not, it is because it was already badly destroyed by the previous surgery in Thailand, so I am dealing with the consequences, my doctor@doctorhoficial he is helping me a lot in this sad process but I am not breaking down, he and I are strong since we both talked about it as a team so he gives me hope that everything will be solved, it is time to wait in the process and enter the oxygen chamber so that my nose revives and does not rot and they do not have to do another operation to remove skin from my forehead and reconstruct it again we do not want that we want my skin to revive so I will take all the instructions that my doctor tells me I love you very much and may God bless you Wish me luck and pray for me that it can happen to all of us I have faith in my doctor and I know that this will pass sparks be careful with@kamolhospital Don't have surgery there, they don't know how to operate and they leave you with all the procedures wrong, if you don't investigate with other trans and you will see"* 
+ > *"Guys how are you I'm sad as you see before destroying me with@kamolhospital the nose I came with my doctor@doctorhoficial For reconstruction, as you see and know, I have been uploading the entire process of my operation. Before that, I spoke with my doctor.@doctorhoficial and we talked about the good and the bad that could happen in my reconstruction and well, badly I got necrosis. It's not because of my doctor's bad procedure.@doctorhoficial If not, it is because it was already badly destroyed by the previous surgery in Thailand, so I am dealing with the consequences, my doctor@doctorhoficial he is helping me a lot in this sad process but I am not breaking down, he and I are strong since we both talked about it as a team so he gives me hope that everything will be solved, it is time to wait in the process and enter the oxygen chamber so that my nose revives and does not rot and they do not have to do another operation to remove skin from my forehead and reconstruct it again we do not want that we want my skin to revive so I will take all the instructions that my doctor tells me I love you very much and may God bless you Wish me luck and pray for me that it can happen to all of us I have faith in my doctor and I know that this will pass sparks be careful with@kamolhospital Don't have surgery there, they don't know how to operate and they leave you with all the procedures wrong, if you don't investigate with other trans and you will see"*
 
 Papers
 
@@ -160,7 +160,7 @@ transbucket
 
 ---
 
-## Greechart Pornsinsirisak 
+## Greechart Pornsinsirisak
 
 Location
 

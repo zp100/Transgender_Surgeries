@@ -17,7 +17,7 @@ HRT in other states of Australia
 
 See also
 
-* [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia, 
+* [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia,
 reddit post [here](https://www.reddit.com/r/transgenderau/comments/he6m2o/ive_started_creating_a_map_of_every_hrt/) by amy-simmons in 2020
 * <span class="internal">[Telehealth](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md#telehealth)</span> - Doctors who work on line prescribing across Australia
 * Wiki entry for <span class="internal">[Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)</span>
@@ -173,7 +173,7 @@ Key details
 
 reddit
 
-* [Being denied Progesterone](https://www.reddit.com/r/transgenderau/comments/j2b7yc/being_denied_progesterone/) by kelly_AU in 2020 
+* [Being denied Progesterone](https://www.reddit.com/r/transgenderau/comments/j2b7yc/being_denied_progesterone/) by kelly_AU in 2020
 
 <br />
 
@@ -227,7 +227,7 @@ Key details
     * Shop 1, 161 Greville Street, ***Prahran***
 * https://equinox.org.au/
     * 175 Rose Street, ***Fitzroy***, VIC.
-   
+
 reddit
 
 * [doctor selling a hormone supplement](https://www.reddit.com/r/transgenderau/comments/1dpk107/doctor_selling_a_hormone_supplement/) in 2024
@@ -297,7 +297,7 @@ Extracted from my comments on a previously deleted post about these suppliments
 
 > > AUST L numbers are for low-risk listed medicines, such as most vitamin products, that the TGA regulates for safety and quality only.
 
-> And 
+> And
 
 > >For low-risk medicines, the TGA does not evaluate the commercial sponsor's evidence of product efficacy before the product goes on the market, nor do we examine the final product and its label.
 
@@ -319,11 +319,11 @@ And on another post...
 
 > I only skimmed it as its so long, but it appears there's no evidence it does anything useful and the studies are poor.
 
-> https://en.wikipedia.org/wiki/Cochrane_Library 
+> https://en.wikipedia.org/wiki/Cochrane_Library
 
 > I also found this FTC complaint regarding a supplement containing pycnogenol.
 
-> https://www.ftc.gov/sites/default/files/documents/cases/2000/07/ftc.gov-pycnogenolcmp.htm 
+> https://www.ftc.gov/sites/default/files/documents/cases/2000/07/ftc.gov-pycnogenolcmp.htm
 
 > And an FDA complaint
 
@@ -357,7 +357,7 @@ Key details
 reddit
 
 * [Dr. James Sell - Centre Clinic](https://www.reddit.com/r/transgenderau/comments/lfou6o/dr_james_sell_centre_clinic/) by Sapien_Oddity in 2021
-* [Being denied Progesterone](https://www.reddit.com/r/transgenderau/comments/j2b7yc/being_denied_progesterone/) by kelly_AU in 2020 
+* [Being denied Progesterone](https://www.reddit.com/r/transgenderau/comments/j2b7yc/being_denied_progesterone/) by kelly_AU in 2020
 
 <br />
 
@@ -480,7 +480,7 @@ Key details
 reddit
 
 * [Trans/Gender Diverse Clinic Melb Northern Suburbs](https://www.reddit.com/r/transgenderau/comments/jb2bgx/transgender_diverse_clinic_melb_northern_suburbs/) by RayneAleka in 2020
-* [Being denied Progesterone](https://www.reddit.com/r/transgenderau/comments/j2b7yc/being_denied_progesterone/) by kelly_AU in 2020 
+* [Being denied Progesterone](https://www.reddit.com/r/transgenderau/comments/j2b7yc/being_denied_progesterone/) by kelly_AU in 2020
 * [Need opinions on Informed Consent GPs in Vic/Melbourne](https://www.reddit.com/r/transgenderau/comments/hpqvmc/need_opinions_on_informed_consent_gps_in/) by SUPER_KAMI_ALEX in 2020
 * [Non-binary feminising hormone questions.](https://www.reddit.com/r/transgenderau/comments/ekfvgc/nonbinary_feminising_hormone_questions/) by Dianatica in 2020
 * [Informed Consent Victoria.](https://www.reddit.com/r/transgenderau/comments/drfcfx/informed_consent_victoria/) by Michaela1xo in 2019
@@ -564,7 +564,7 @@ Key details
 reddit
 
 * [Who do YOU go to for hrt in Melbourne, and would you recommend them?](https://www.reddit.com/r/transgenderau/comments/52t175/who_do_you_go_to_for_hrt_in_melbourne_and_would/) by cuddlegoop in 2017
- 
+
 
 <br />
 
@@ -591,14 +591,14 @@ Other
 
 reddit
 
-* [Being denied Progesterone](https://www.reddit.com/r/transgenderau/comments/j2b7yc/being_denied_progesterone/) by kelly_AU in 2020 
+* [Being denied Progesterone](https://www.reddit.com/r/transgenderau/comments/j2b7yc/being_denied_progesterone/) by kelly_AU in 2020
 * [Who do YOU go to for hrt in Melbourne, and would you recommend them?](https://www.reddit.com/r/transgenderau/comments/52t175/who_do_you_go_to_for_hrt_in_melbourne_and_would/) by cuddlegoop around 2017
 
 <br />
 
 ---
 
-# Nick Silberstein 
+# Nick Silberstein
 
 Melbourne
 
@@ -687,7 +687,7 @@ Does implants according to a post on Facebook. I can't figure out where he works
 
 Key Details
 
-* Center Clinic, 77 Fitzroy Street, ***St Kilda***, VIC 3182 
+* Center Clinic, 77 Fitzroy Street, ***St Kilda***, VIC 3182
 * https://thorneharbour.org/lgbti-health/centre-clinic/
 
 Sites
@@ -736,7 +736,7 @@ reddit
 
 Key details
 
-* Center Clinic, 77 Fitzroy Street, ***St Kilda***, VIC 3182 
+* Center Clinic, 77 Fitzroy Street, ***St Kilda***, VIC 3182
 * https://healthengine.com.au/doctor/vic/st-kilda/dr-sophie-carter/p67281
 
 reddit
@@ -758,7 +758,7 @@ Other links
 Key details
 
 * Informed consent
-* Center Clinic, 77 Fitzroy Street, ***St Kilda***, VIC 3182 
+* Center Clinic, 77 Fitzroy Street, ***St Kilda***, VIC 3182
 * https://healthengine.com.au/doctor/vic/st-kilda/dr-james-sell/p84944
 
 reddit
@@ -777,7 +777,7 @@ reddit
 
 Weekdays
 
-* Center Clinic, 77 Fitzroy Street, ***St Kilda***, VIC 3182 
+* Center Clinic, 77 Fitzroy Street, ***St Kilda***, VIC 3182
 * https://healthengine.com.au/doctor/vic/st-kilda/dr-kay-htaik/p75400
 * But not listed on the Center Clinic's website https://thorneharbour.org/lgbti-health/centre-clinic/
 

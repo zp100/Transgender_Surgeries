@@ -41,7 +41,7 @@ app.get('/', (req, res) => {
                     res.sendStatus(500)
                     return
                 }
-        
+
                 // Convert the markdown to HTML.
                 const markdownHtml = marked.parse(data, { gfm: true }).replaceAll(
                     // Replace all GitHub links to instead stay within whatever site is hosting this.

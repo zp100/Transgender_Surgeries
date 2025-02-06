@@ -406,7 +406,7 @@ reddit
     * [View from behind](https://www.reddit.com/r/manmadepussy/comments/124ufek/view_from_behind/) by Princess_Cyana in 2023
     * [Love how my pussy looks from behind](https://www.reddit.com/r/manmadepussy/comments/11wl7zf/love_how_my_pussy_looks_from_behind/) by Princess_Cyana in 2023
     * [Here is my little kitty (7.5 months post-op)](https://www.reddit.com/r/manmadepussy/comments/111l5zi/here_is_my_little_kitty_75_months_postop/) by Princess_Cyana in 2023
-    * [6 Months Post-op | SRS with Dr. Bank](https://www.reddit.com/r/Transgender_Surgeries/comments/101s492/6_months_postop_srs_with_dr_bank/) by Princess_Cyana in 2023 
+    * [6 Months Post-op | SRS with Dr. Bank](https://www.reddit.com/r/Transgender_Surgeries/comments/101s492/6_months_postop_srs_with_dr_bank/) by Princess_Cyana in 2023
     * [Wanna play togheter?](https://www.reddit.com/r/TransGoneWild/comments/zmrmc8/wanna_play_togheter/)
     * [SRS Update - 137 days post op || Dr. Bank](https://www.reddit.com/r/Transgender_Surgeries/comments/ystc04/srs_update_137_days_post_op_dr_bank/) by Princess_Cyana in 2022
     * [100 Days Post-Op | Dr. Bank](https://www.reddit.com/r/Transgender_Surgeries/comments/xyhi0f/100_days_postop_dr_bank/) by Princess_Cyana in 2022
@@ -621,7 +621,7 @@ reddit
     * [Tried to pee from my post-op pussy standing up but it went down my leg!](https://www.reddit.com/r/tspee/comments/y4fngm/tried_to_pee_from_my_postop_pussy_standing_up_but/) by BelleDavenport in 2022
     * [Met this guy on tinder, he doesn't know i'm post-op trans. You taking the other hole?](https://www.reddit.com/r/GoneWildTrans/comments/wzngta/met_this_guy_on_tinder_he_doesnt_know_im_postop/) by BelleDavenport in 2022
     * [First time taking BBC in my post-op pussy. I need more!](https://www.reddit.com/r/transporn/comments/wyxy58/first_time_taking_bbc_in_my_postop_pussy_i_need/) by BelleDavenport in 2022
-    * [Squirting semen from my post-op pussy, (I used to have a cock) - watch in HD.](https://www.reddit.com/r/Tgirls/comments/wyy1fd/squirting_semen_from_my_postop_pussy_i_used_to/) by BelleDavenport in 2022 
+    * [Squirting semen from my post-op pussy, (I used to have a cock) - watch in HD.](https://www.reddit.com/r/Tgirls/comments/wyy1fd/squirting_semen_from_my_postop_pussy_i_used_to/) by BelleDavenport in 2022
     * [I'm away to make my pussy squirt all over this mirror.](https://www.reddit.com/r/manmadepussy/comments/x1qxl1/im_away_to_make_my_pussy_squirt_all_over_this/) by BelleDavenport in 2022
     * [I love using my vibrator in my man made pussy](https://www.reddit.com/r/manmadepussy/comments/we4epo/i_love_using_my_vibrator_in_my_man_made_pussy/) by BelleDavenport in 2022
     * [Did my surgeon do a good job?](https://www.reddit.com/r/manmadepussy/comments/w4mssz/did_my_surgeon_do_a_good_job/) by BelleDavenport in 2022
@@ -723,7 +723,7 @@ Veronica Carol Blades @missxronix http://www.pictame.com/user/missxronix/5817641
 
 Other
 
-* https://imgur.com/a/ 
+* https://imgur.com/a/
 
 **Non-photo links**
 
@@ -985,7 +985,7 @@ Chinese
 
 The 2018 book "Mobile Subjects: Transnational Imaginaries of Gender Reassignment" by Aren Z. Aizura talks about surgery in Thailand. [Amazon link](https://www.amazon.com/dp/B07JWD3L6M/).
 
-> A small number of surgeons gained a reputation outside Thailand and began to attract a large non-Thai customer base. Dr. Suporn reported that in 1996 he was performing around twenty to thirty grs procedures per year, mainly on Thai patients. By 2006 he was operating on around 220 patients per year and was only performing grs, breast augmentation, and facial feminization procedures. These 220 patients were almost exclusively non-Thai, traveling from Europe, North America, and other locales outside Asia. 
+> A small number of surgeons gained a reputation outside Thailand and began to attract a large non-Thai customer base. Dr. Suporn reported that in 1996 he was performing around twenty to thirty grs procedures per year, mainly on Thai patients. By 2006 he was operating on around 220 patients per year and was only performing grs, breast augmentation, and facial feminization procedures. These 220 patients were almost exclusively non-Thai, traveling from Europe, North America, and other locales outside Asia.
 
 <br />
 
@@ -993,7 +993,7 @@ The 2018 book "Mobile Subjects: Transnational Imaginaries of Gender Reassignment
 
 # Bangkok
 
-## Chettawut Tulayaphanich 
+## Chettawut Tulayaphanich
 
 Name in Thai - นายแพทย์เชฏวุฒิ ตุลพานิช
 
@@ -1446,7 +1446,7 @@ Surgeons sites
 
 * http://doctorsaran.com
 
-YouTube 
+YouTube
 
 * [post-op unpacking srs/grs// operation was Jan 26/2013](https://www.youtube.com/watch?v=WSSEvdGRyak) by Gabreiella Janice Wissell in 2013
 
@@ -1461,7 +1461,7 @@ reddit
 
 YouTube
 
-* 
+*
 
 <br />
 
@@ -1731,7 +1731,7 @@ susans
 * [GCS with Dr. Sutin at PAI](https://www.susans.org/forums/index.php/topic,244869.0.html) by Mallory in 2019
 * [I had Secondary Sigmoid Colon SRS with PAI](https://www.susans.org/forums/index.php/topic,242348.0.html) by SpiralCream in 2018 - revision
 * [Post-op for 1 day, Dr.Sutin, PAI](https://www.susans.org/forums/index.php/topic,239115.0.html) by Mendi in 2018
-* [Srs with Dr sutin PAI CLINIC 18 03 2017](https://www.susans.org/forums/index.php/topic,221541.msg) by Bird in 2017, previously [My experience with Dr Kamol and Thailand](https://www.susans.org/forums/index.php/topic,206123.0.html) in 2016 
+* [Srs with Dr sutin PAI CLINIC 18 03 2017](https://www.susans.org/forums/index.php/topic,221541.msg) by Bird in 2017, previously [My experience with Dr Kamol and Thailand](https://www.susans.org/forums/index.php/topic,206123.0.html) in 2016
 * [Go under the knife tomorrow: Stage 1 GRS :) ](https://www.susans.org/forums/index.php/topic,212657.0.html) by Richenda in 2016 (this is an orchiectomy)
 
 YouTube
@@ -1772,7 +1772,7 @@ YouTube
 * [#Documentary STORY Of LADYBOYS](https://www.youtube.com/watch?v=gNmKQm59iE4) by Eclectic Videos - see 28:37
 * [SRS | Arrival In Bangkok | PAI](https://www.youtube.com/watch?v=NJlA8ifhbtc) by Natalie in 2018, [SRS Six Week Post Op Update](https://www.youtube.com/watch?v=SxGPRzD_F90).
 
-transpulse 
+transpulse
 
 * [colon SRS](https://www.transgenderpulse.com/forums/topic/44874-colon-srs/) in 2012
 
@@ -1873,9 +1873,9 @@ reddit
 * [Got rid of Kamol’s 2019 SRS Scrotal PI mess !! - Went to Dr. Theerapong 2022 - Complete redo SRS Sigmoid Colon and aesthetics .](https://www.reddit.com/r/Transgender_Surgeries/comments/1055vfh/got_rid_of_kamols_2019_srs_scrotal_pi_mess_went/) by Krystal-Garven-2 in 2023
     * [From a 2019 Kamol Scrotal PI Mess to an Entire SRS Redo by Dr. Theerapong of Sigmoid Colon Nov. 22/2022- 11 hours and one transfusion to fix Kamol’s mess - what can I say post op 14 days - totally different when a surgeon cares to make things right !](https://www.reddit.com/r/Transgender_Surgeries/comments/zcxa2k/from_a_2019_kamol_scrotal_pi_mess_to_an_entire/) by Krystal-Garven-2 in 2022
     * [Voice and facial features are Critical for M to F acceptance in Society - your dream can be destroyed having SRS surgery and being under General Anesthesia too long - My Vocal box was damaged by the inflatable intubation cuff inside my throat at the Kamol Hospital that affects the micro blood supply](https://www.reddit.com/r/Transgender_Surgeries/comments/s4nrb2/voice_and_facial_features_are_critical_for_m_to_f/) by Krystal-Garven-2 in 2022
-    * [You can see why I want revisions after 2 years 5 months from Dr. Kamol in Bangkok - what a mess to fix !!!! and why other doctors won't touch my issues OMG ! A clitoris that still looks like a male penis and urethan opening still visible WTF ! kind of surgery is this from a so called pro WTF !](https://www.reddit.com/r/Transgender_Surgeries/comments/r9clez/you_can_see_why_i_want_revisions_after_2_years_5/) 
+    * [You can see why I want revisions after 2 years 5 months from Dr. Kamol in Bangkok - what a mess to fix !!!! and why other doctors won't touch my issues OMG ! A clitoris that still looks like a male penis and urethan opening still visible WTF ! kind of surgery is this from a so called pro WTF !](https://www.reddit.com/r/Transgender_Surgeries/comments/r9clez/you_can_see_why_i_want_revisions_after_2_years_5/)
     * reply to [Dr Kamol results, 6inches PPV sorry about the hair 🥴😅 3 weeks and 4days post op. Ask any questions I did a previous review but didn’t add pictures.](https://www.reddit.com/r/Transgender_Surgeries/comments/qqq3cr/dr_kamol_results_6inches_ppv_sorry_about_the_hair/hk6nwi2/?context=3) by Krystal-Garven-2 in 2021
-    * reply to [MTF Bottom surgery with Kamol](https://www.reddit.com/r/Transgender_Surgeries/comments/qpa147/mtf_bottom_surgery_with_kamol/hk9ir8z/?context=3) by Krystal-Garven-2 in 2021 - see the photos she's [posted elsewhere](https://www.reddit.com/r/Transgender_Surgeries/comments/qqq3cr/dr_kamol_results_6inches_ppv_sorry_about_the_hair/hk6nwi2/) and the [reply by Darcie_KamolHospital](https://www.reddit.com/r/Transgender_Surgeries/comments/qpa147/mtf_bottom_surgery_with_kamol/hkadafu/) (who works for Kamol) - *"I know you have social issues as you've told me but this trolling isn't good and is bordering slander. Your vagina looks good."* 
+    * reply to [MTF Bottom surgery with Kamol](https://www.reddit.com/r/Transgender_Surgeries/comments/qpa147/mtf_bottom_surgery_with_kamol/hk9ir8z/?context=3) by Krystal-Garven-2 in 2021 - see the photos she's [posted elsewhere](https://www.reddit.com/r/Transgender_Surgeries/comments/qqq3cr/dr_kamol_results_6inches_ppv_sorry_about_the_hair/hk6nwi2/) and the [reply by Darcie_KamolHospital](https://www.reddit.com/r/Transgender_Surgeries/comments/qpa147/mtf_bottom_surgery_with_kamol/hkadafu/) (who works for Kamol) - *"I know you have social issues as you've told me but this trolling isn't good and is bordering slander. Your vagina looks good."*
     * [Doctors on YouTube Promoting they care VS. an indifferent toward a potential patient in consultation and refusal of professional skills wanted/desired post-op from a previous SRS !](https://www.reddit.com/r/Transgender_Surgeries/comments/q4rssd/doctors_on_youtube_promoting_they_care_vs_an/) by Krystal-Garven-2 in 2021
     * [Dr. Kamols SRS-2B Surgery June 29/2019 ( Revisions needed ) Still have a large Clitoris Penis look with the old ureatha still noticeable , No Clitoris Hood , best I can get in is the Blue Soul Source dilator - 20 min to get it in and cannot slide it back and forth after 2 plus years.](https://www.reddit.com/r/Transgender_Surgeries/comments/pqi8fu/dr_kamols_srs2b_surgery_june_292019_revisions/) by Krystal-Garven-2 in 2021
 * [Kamol Review](https://www.reddit.com/r/Transgender_Surgeries/comments/zon4b5/kamol_review/) by ~~deleted~~ in 2022 - she deleted her account shortly after making this post
@@ -2022,7 +2022,7 @@ TheLadyboyForums
 
 * [Beware of Dr. Kamol Pansritum of Bangkok](https://theladyboyforums.com/asiaboard/forum/members-section-talk-news-gossip-events-pics-and-more/academia-non-pornographic-issues/12675-beware-of-dr-kamol-pansritum-of-bangkok) in 2008
 
-[Korean language YouTube channel](https://www.youtube.com/user/yanheehospital/videos) - not really sure what this is about, but there's some video's about SRS in Thailand, and Kamol. Yanhee is a large public hospital in Bangkok. 
+[Korean language YouTube channel](https://www.youtube.com/user/yanheehospital/videos) - not really sure what this is about, but there's some video's about SRS in Thailand, and Kamol. Yanhee is a large public hospital in Bangkok.
 
 Jessica Alves, former 'Human Ken Doll'
 
@@ -2136,7 +2136,7 @@ Susans
 * [SRS by dr. Thiti and other surgeries in Thailand](https://www.susans.org/forums/index.php/topic,250385.0.html) by Anfisa in 2019
 * [SRS with Dr. Thiti in Thailand](https://www.susans.org/forums/index.php?topic=212499.0) by Selina8402 in 2016
 
-YouTube 
+YouTube
 
 * [Dr Thiti explains his SRS procedure](https://www.youtube.com/watch?v=ozRu1FlhRZ8) by NAS Medical Travel in 2016
 * [Dr Thiti](https://www.youtube.com/watch?v=t7mN9xvVRIk) by Sarahjane Coffey in 2015
@@ -2251,8 +2251,8 @@ reddit
 * [Siamtransformation.com | Siam Transformation - Cosmetic surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/1aok8aq/siamtransformationcom_siam_transformation/) by TimeTravelor1 around 2024
     * [My 2022 Fall time Experience with Theerapong Colon Vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/18k1nen/my_2022_fall_time_experience_with_theerapong/) by TimeTravelor1 around 2024
     * [Theerapong Revisions almost 1 year to the day Nov.23](https://www.reddit.com/r/Transgender_Surgeries/comments/181jylo/theerapong_revisions_almost_1_year_to_the_day/) by TimeTravelor1 around 2024
-    * [I’ve lost a lot of Trust in Surgeons , they don’t listen to the patient damnit !](https://www.reddit.com/r/Transgender_Surgeries/comments/15onklz/ive_lost_a_lot_of_trust_in_surgeons_they_dont/) by TimeTravelor1 around 2023 
-    * [4 years and still a mess from so called Plastic Surgeon Pro’s](https://www.reddit.com/r/Transgender_Surgeries/comments/15ou088/4_years_and_still_a_mess_from_so_called_plastic/) by TimeTravelor1 around 2023 
+    * [I’ve lost a lot of Trust in Surgeons , they don’t listen to the patient damnit !](https://www.reddit.com/r/Transgender_Surgeries/comments/15onklz/ive_lost_a_lot_of_trust_in_surgeons_they_dont/) by TimeTravelor1 around 2023
+    * [4 years and still a mess from so called Plastic Surgeon Pro’s](https://www.reddit.com/r/Transgender_Surgeries/comments/15ou088/4_years_and_still_a_mess_from_so_called_plastic/) by TimeTravelor1 around 2023
 * [My experience with Dr. Theerapong](https://www.reddit.com/r/Transgender_Surgeries/comments/1amygh2/my_experience_with_dr_theerapong/) by CremeDeLaMeowMeow69 in 2024
 * [Becky and Cherry from Siam Transformative, Thailand. *Trigger Warning](https://www.reddit.com/r/Transgender_Surgeries/comments/1amgw0t/becky_and_cherry_from_siam_transformative/) by Firm_Ninja8952 in 2024
     * [SRS 9.5 months post-op opinions & AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/whq6n0/srs_95_months_postop_opinions_ama/) by Firm_Ninja8952 in 2022
@@ -2429,7 +2429,7 @@ YouTube
 * [Dr Thep’s Plastic Surgery Clinic](https://www.youtube.com/watch?v=PhiCb5p2-d8) by Bangkok XL in 2018
 * [Beautiful Transpinay Dyosa James Runn iN Her Journey to Bangkok Thailand | Fiona Solis](https://www.youtube.com/watch?v=-99Q4xBP9C0) by Fiona Solis n 2017 (breast augmentation)
 * [THEP | Is About to Perform His 753rd Gender Reassignment Surgery](https://www.youtube.com/watch?v=a3VYrApKyfg) by STATELESS in 2016
-* [Lady boys S02E02](https://www.youtube.com/watch?v=akkZU9vOZPk) by Goondoo Samy at 23:22 
+* [Lady boys S02E02](https://www.youtube.com/watch?v=akkZU9vOZPk) by Goondoo Samy at 23:22
 
 BBC
 

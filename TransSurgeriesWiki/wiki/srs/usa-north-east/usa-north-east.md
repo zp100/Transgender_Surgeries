@@ -94,7 +94,7 @@ Other
 
 # Massachusetts
 
-## Boston Medical Center 
+## Boston Medical Center
 
 SRS surgeons are Jaromir Slama and Robert D Oates, FFS is Jeffrey H Spiegel.
 
@@ -165,7 +165,7 @@ Vimeo
 
 ---
 
-### Jaromir Slama 
+### Jaromir Slama
 
 See also the entry for Boston Medical Center.
 
@@ -521,7 +521,7 @@ http://tworivertimes.com/allure-plastic-surgery-center-opens-in-mtown/
 
 ## Rutgers New Jersey Medical School
 
-Center for Transgender Health 
+Center for Transgender Health
 
 * http://njms.rutgers.edu/centers_institutes/trans_health/index.cfm
 
@@ -749,7 +749,7 @@ reddit
     * [\[NSFW\] 4 days post op with Dr Zhao and Dr Bluebond-Langner's team at NYU just took the external bandages and wound vac off.](https://www.reddit.com/r/Transgender_Surgeries/comments/t8o0z1/nsfw_4_days_post_op_with_dr_zhao_and_dr/) by derbengirl in 2022
 * [GCS Timeline w/ Dr. BBL](https://www.reddit.com/r/Transgender_Surgeries/comments/uz5pnk/gcs_timeline_w_dr_bbl/) by Abby2k18 in 2022
 * [Post-op day 19. SRS with Dr. Bluebond-Langner & Dr. Zhao at NYU Langone. 2nd post op visit. AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/umtm9g/postop_day_19_srs_with_dr_bluebondlangner_dr_zhao/) by lianamtf in 2022
-    * [8 day update, SRS with Dr. Bluebond-Langner & Dr. Zhao @ NYU Langone on 4/21/22 AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/ueqjps/8_day_update_srs_with_dr_bluebondlangner_dr_zhao/) by lianamtf in 2022 
+    * [8 day update, SRS with Dr. Bluebond-Langner & Dr. Zhao @ NYU Langone on 4/21/22 AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/ueqjps/8_day_update_srs_with_dr_bluebondlangner_dr_zhao/) by lianamtf in 2022
     * [Omg omg 😳 first look! Vaginoplasty with Dr. Bluebond & Dr. Zhao April 21.](https://www.reddit.com/r/Transgender_Surgeries/comments/ubiopf/omg_omg_first_look_vaginoplasty_with_dr_bluebond/) by lianamtf in 2022
 * [3 months post-op vaginoplasty with Dr. Bluebond-Langner and Dr. Zhao](https://www.reddit.com/r/Transgender_Surgeries/comments/u6r24r/3_months_postop_vaginoplasty_with_dr/) by tisEvelynZ in 2022
     * [2 months post op vaginoplasty with Dr. Bluebond-Langner](https://www.reddit.com/r/Transgender_Surgeries/comments/tdm8at/2_months_post_op_vaginoplasty_with_dr/) by tisEvelynZ in 2022
@@ -828,7 +828,7 @@ reddit
 * [BLUEBOND-Langner Srs Post Op Girls . Questions](https://www.reddit.com/r/Transgender_Surgeries/comments/g38xhl/bluebondlangner_srs_post_op_girls_questions/) by Lp973 in 2020
 * [~1 Month Post Op - AMA - Vaginoplasty w/ Rachel Bluebond-Langner](https://www.reddit.com/r/Transgender_Surgeries/comments/fdagiv/1_month_post_op_ama_vaginoplasty_w_rachel/) by GCSThrowaway2020 in 2020
 * reply to [Revisions](https://www.reddit.com/r/Transgender_Surgeries/comments/er85e8/revisions/ff2f2no/) by DummyPlugRei in 2020
-* [Post-OP SRS with Dr. Bluebond-Langner @ NYU](https://www.reddit.com/r/asktransgender/comments/e7fk4c/postop_srs_with_dr_bluebondlangner_nyu/) by tgsouthernbelle in 2019 
+* [Post-OP SRS with Dr. Bluebond-Langner @ NYU](https://www.reddit.com/r/asktransgender/comments/e7fk4c/postop_srs_with_dr_bluebondlangner_nyu/) by tgsouthernbelle in 2019
 * [12 weeks post bottom surgery today! AMA!](https://www.reddit.com/r/Transgender_Surgeries/comments/dg01wo/12_weeks_post_bottom_surgery_today_ama/) by randomactsoffork in 2019
     * [Today I am 2 weeks post op Vaginoplasty with Rachael Bluebond-Langner! AMA!](https://www.reddit.com/r/Transgender_Surgeries/comments/ckry49/today_i_am_2_weeks_post_op_vaginoplasty_with/) by randomactsoffork in 2019
 * [1 week Post-Op w/ Dr. Bluebond-Langner, AMA!!](https://www.reddit.com/r/Transgender_Surgeries/comments/avw9tg/1_week_postop_w_dr_bluebondlangner_ama/) by CashCache in 2019
@@ -844,9 +844,9 @@ Susans
 YouTube
 
 * [What to Expect: Robotic Peritoneal Flap Vaginoplasty at NYU Langone](https://www.youtube.com/watch?v=Kz6hXSQMkCI) by NYU Langone Health in 2024 - Animation of PPT vaginoplasty procedure done by Dr. Rachel Bluebond-Langner and Dr. Lee C. Zhao at NYU
-* [My Gender Reassignment Surgery M To F./ Post -OP Recovery](https://www.youtube.com/watch?v=uo4zV4LSd3s) by 
+* [My Gender Reassignment Surgery M To F./ Post -OP Recovery](https://www.youtube.com/watch?v=uo4zV4LSd3s) by
 Jacquee in 2023
-* [Starting a Gender Affirming Surgery Program by Rachel Bluebond-Langner](https://www.youtube.com/watch?v=cuFixroqtq4) by 
+* [Starting a Gender Affirming Surgery Program by Rachel Bluebond-Langner](https://www.youtube.com/watch?v=cuFixroqtq4) by
 Stanford Surgery in 2023
 * [Reflections & Thoughts after 4 Months Recovery from Bottom Surgery GCS (Gender Confirmation Surgery)](https://www.youtube.com/watch?v=5npJNvIVH3A) by Jessica Potak in 2022
     * [The Journey To Make Myself Whole: A Documentary of my Gender Confirmation Surgery By Jessica Potak](https://www.youtube.com/watch?v=nIXiPheIkRY) by Jessica Potak in 2022, see also reddit post [Ive created a hour long documentary about my bottom surgery hospital experience](https://www.reddit.com/r/Transgender_Surgeries/comments/skes4i/ive_created_a_hour_long_documentary_about_my/) by cutejessli in 2022
@@ -1054,7 +1054,7 @@ Jazz Jennings
 
 Legal
 
-* "Jess Ting, M.D." acting as Plaintiff's counsel in the lawsuit [THOMPSON v. RUMER](https://www.courtlistener.com/docket/7820076/22/thompson-v-rumer/) filed Feb 1, 2020 (i.e. he is acting for the trans woman suing <span class="internal">[Dr Kathy Rumer](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#kathy-lynn-rumer)</span>). 
+* "Jess Ting, M.D." acting as Plaintiff's counsel in the lawsuit [THOMPSON v. RUMER](https://www.courtlistener.com/docket/7820076/22/thompson-v-rumer/) filed Feb 1, 2020 (i.e. he is acting for the trans woman suing <span class="internal">[Dr Kathy Rumer](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#kathy-lynn-rumer)</span>).
 
 <br />
 
@@ -1332,7 +1332,7 @@ reddit
     * [Dr Pang Mt Sinai 6 Weeks Post Op](https://www.reddit.com/r/Transgender_Surgeries/comments/m0re1q/dr_pang_mt_sinai_6_weeks_post_op/) by Leeper90 in 2021
     * [Bleeding Update](https://www.reddit.com/r/Transgender_Surgeries/comments/lm47h4/bleeding_update/) by Leeper90 in 2021, see also [here](https://www.reddit.com/r/Transgender_Surgeries/comments/leo7vi/genderaffirming_surgery_vaginoplasty_bella/gmtys8s/)
 * [3 months and hating dilation](https://www.reddit.com/r/Transgender_Surgeries/comments/s5nqp6/3_months_and_hating_dilation/) by ggrlbby in 2022
-* [discharge update -- halfway fixed !](https://www.reddit.com/r/Transgender_Surgeries/comments/qsanvi/discharge_update_halfway_fixed/) by florecida in 2021 
+* [discharge update -- halfway fixed !](https://www.reddit.com/r/Transgender_Surgeries/comments/qsanvi/discharge_update_halfway_fixed/) by florecida in 2021
     * [11w post revision, 36w/9mo post s.r.s. with dr pang at mount sinai in nyc](https://www.reddit.com/r/Transgender_Surgeries/comments/q42too/11w_post_revision_36w9mo_post_srs_with_dr_pang_at/) by florecida in 2021
 * [Bottom Surgery Results ~6 Months Mt. Sinai MTF, because reddit is stupid and wont let me post text and a photo the text post will come after as a comment](https://www.reddit.com/r/Transgender_Surgeries/comments/k2vdzi/bottom_surgery_results_6_months_mt_sinai_mtf/) by Valuable_Action1035 in 2020
 * [First ORGASM since GCS](https://www.reddit.com/r/Transgender_Surgeries/comments/fy0apl/first_orgasm_since_gcs/) by mermaid_coochie in 2020
@@ -1833,7 +1833,7 @@ reddit
 * [Update 2 on Wound Dehiscence (Surgeon: Dr.Kathy Rumer) CW:Graphic Images](https://www.reddit.com/r/Transgender_Surgeries/comments/1c5l4ej/update_2_on_wound_dehiscence_surgeon_drkathy/) by Babysoots in 2024
 * [2 Years Post Op Kathy Rumer Nightmare](https://www.reddit.com/r/Transgender_Surgeries/comments/1cgclny/2_years_post_op_kathy_rumer_nightmare/) by bohoqueen363 in 2024 - *"I went to Dr. Kathy Rumer in 2022 for PIV Vaginoplasty. I ended up having major complications, she ghosted me, and in August of 2023 I had a major revision surgery. This time I went to Dr. Geoffrey Stiller in Spokane, WA to do a full sigmoid colon vaginoplasty... Dr Rumer and her team did absolutely nothing to help me and I was left alone to suffer for over a year. Luckily, I discovered Dr. Stiller in 2023 and he literally saved me life.  Before I went to Dr. Stiller my vaginal stenosis caused my vagina to close up. I only had 2 inches of depth. After Dr. Stiller worked his magic on me, my vagina is now over 8 inches deep & self lubricates..."*
     * [Nearly 1 year post op Dr. Kathy Rumer, revision is next month](https://www.reddit.com/r/Transgender_Surgeries/comments/11o6etj/nearly_1_year_post_op_dr_kathy_rumer_revision_is/) by bohoqueen363 in 2023
-    * [9 months post op & freshly shaved 😊🎉 I’m obsessed with my pussy](https://www.reddit.com/r/Transgender_Surgeries/comments/zqynxh/9_months_post_op_freshly_shaved_im_obsessed_with/) by bohoqueen363 in 2022 
+    * [9 months post op & freshly shaved 😊🎉 I’m obsessed with my pussy](https://www.reddit.com/r/Transgender_Surgeries/comments/zqynxh/9_months_post_op_freshly_shaved_im_obsessed_with/) by bohoqueen363 in 2022
     * [Almost 9 months post op ❤️ I love my pussy LOL](https://www.reddit.com/r/Transgender_Surgeries/comments/zl9275/almost_9_months_post_op_i_love_my_pussy_lol/) by bohoqueen363 in 2022
     * [Tips to get rid of scars like these? 😩8 months post op](https://www.reddit.com/r/Transgender_Surgeries/comments/z6ixqr/tips_to_get_rid_of_scars_like_these_8_months_post/) by bohoqueen363 in 2022
     * [Another angle- 8 months post op PIV Dr. Kathy Rumer](https://www.reddit.com/r/Transgender_Surgeries/comments/z5hvpa/another_angle_8_months_post_op_piv_dr_kathy_rumer/) by bohoqueen363 in 2022
@@ -2023,11 +2023,11 @@ Autobiography "It Never Goes Away: Gender Transition at a Mature Age" by Anne La
 
 Out Front Magazine
 
-* [Dr. Kathy Rumer Accused of Abusing Transgender Patients](https://www.outfrontmagazine.com/dr-kathy-rumer-accused-of-abusing-transgender-patients/), August 19, 2022 
+* [Dr. Kathy Rumer Accused of Abusing Transgender Patients](https://www.outfrontmagazine.com/dr-kathy-rumer-accused-of-abusing-transgender-patients/), August 19, 2022
 
 Dr Marci Bowers
 
-* https://www.instagram.com/p/CmN8WFQuqh6 - 
+* https://www.instagram.com/p/CmN8WFQuqh6 -
     * chasingchaucer *"Kathy Rumer and her abuses towards the trans community by NOT revoking her WPATH endorsement? Shame on you."*
         * marcibowers76 *"@chasingchaucer she is a huge problem. i have lobbied those with potential to address this through pennsylvania medical board but, as WPATH president, not in my jurisdiction. buyer beware"*
     * https://www.reddit.com/r/Transgender_Surgeries/comments/122mn92/grs_dr/jdyetpg/
@@ -2290,8 +2290,8 @@ Also does FFS.
 
 Location
 
-* Bala Cynwd, Pennsylvania 
-* Feasterville, Pennsylvania 
+* Bala Cynwd, Pennsylvania
+* Feasterville, Pennsylvania
 
 Surgeons sites
 

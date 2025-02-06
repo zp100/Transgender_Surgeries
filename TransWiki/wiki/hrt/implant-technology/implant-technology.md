@@ -138,7 +138,7 @@ In the 1990 paper [Pharmacokinetics and pharmacodynamics of testosterone pellets
 In the 2004 paper/book [Pharmacology of testosterone preparations](https://doi.org/10.1017/CBO9780511545221.015) by Behre, H. M., Wang, C., Handelsman, D. J., Nieschlag, E., & Nieschlag, S., page 430
 
 > The original testosterone implants were manufactured by high-pressure tableting of crystalline steroid with a cholesterol excipient. These proved brittle, hard to standardize or sterilize and exhibited surface unevenness and fragmentation during
-in-vivo absorption to produce an uneven late release rate. These limitations were overcome in the 1950s by switching to high-temperature moulding whereby molten testosterone was cast into cylindrical moulds to produce more robust implants. These have more uniform composition, resulting in a more steady and prolonged release and reduced tissue reaction. 
+in-vivo absorption to produce an uneven late release rate. These limitations were overcome in the 1950s by switching to high-temperature moulding whereby molten testosterone was cast into cylindrical moulds to produce more robust implants. These have more uniform composition, resulting in a more steady and prolonged release and reduced tissue reaction.
 
 ## Pellet Press
 
@@ -229,7 +229,7 @@ Bisop 1952, page 280
 Papers
 
 * 2014 - [A Review of Testosterone Pellets in the Treatment of Hypogonadism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4431706/) by Andrew McCullough
-* 1952 - Book [Ciba Foundation Symposium ‐ Steroid Hormone Administration (Book II of Colloquia on Endocrinology), Volume 3](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470715154), page 265 "Studies on the absorption of pellets of steroid hormones and related substances in man" by P.M.F Bishop and Sj.J.Folley 
+* 1952 - Book [Ciba Foundation Symposium ‐ Steroid Hormone Administration (Book II of Colloquia on Endocrinology), Volume 3](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470715154), page 265 "Studies on the absorption of pellets of steroid hormones and related substances in man" by P.M.F Bishop and Sj.J.Folley
 
 <br />
 
@@ -434,7 +434,7 @@ It appears that approximately 200-300mg of estradiol is used the body per year (
 
 [Fuenzalida 1950](https://doi.org/10.1210/jcem-10-11-1511) shows that mixing hormones (not estradiol) with cholesterol has a very large effect on absorption rates
 
-> Absorption from tablets containing 40 per cent of the steroid hormone and 60 per cent of cholesterol dropped to one fifth and even to one twentieth of that of the pure hormone tablets, although a diminution of only two and one half times would be expected according to the reduction of the surface of the steroid hormone in the mixture. 
+> Absorption from tablets containing 40 per cent of the steroid hormone and 60 per cent of cholesterol dropped to one fifth and even to one twentieth of that of the pure hormone tablets, although a diminution of only two and one half times would be expected according to the reduction of the surface of the steroid hormone in the mixture.
 
 > Cholesterol in some way counteracts absorption of steroid hormones.
 

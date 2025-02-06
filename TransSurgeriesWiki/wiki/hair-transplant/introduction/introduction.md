@@ -104,7 +104,7 @@ reddit
 
 YouTUbe
 
-* [Looking for a cheap hair transplant? Know the risks! - Dr. Jennifer Martinick Weighs In](https://www.youtube.com/watch?v=-2bRguz62Z4) by TheISHRS in 2019 - 
+* [Looking for a cheap hair transplant? Know the risks! - Dr. Jennifer Martinick Weighs In](https://www.youtube.com/watch?v=-2bRguz62Z4) by TheISHRS in 2019 -
 
 Review sites
 
@@ -271,7 +271,7 @@ Review Sites
 reddit
 
 * [Not Technically TS surgeries, but I just got my eyebrows Microbladed, and I got Bosley FUT hair transplant (1540 grafts) for my widow's peak.](https://www.reddit.com/r/Transgender_Surgeries/comments/dc90kv/not_technically_ts_surgeries_but_i_just_got_my/) by Katiari in 2019
- 
+
 
 <br />
 
@@ -401,7 +401,7 @@ YouTube
 
 Hairloss Talk
 
-* [Dr. Hakan 
+* [Dr. Hakan
 ---
 **** 2835 Grafts FUE](https://www.hairlosstalk.com/interact/threads/dr-hakan-2835-grafts-fue.90705/) by Swoop in 2015
 

@@ -17,7 +17,7 @@ HRT in other states of Australia
 
 See also
 
-* [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia, 
+* [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia,
 * transhub [Gender Affirming Doctor List](https://www.transhub.org.au/doctors) - the best list of HRT prescribing doctors in NSW and there's a map showing where they all are
 * <span class="internal">[Telehealth](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md#telehealth)</span> - Doctors who work on line prescribing across Australia
 * Wiki page <span class="internal">[HRT Introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/hrt.md)</span>
@@ -53,7 +53,7 @@ Dr Hayes started practicing again in 2021.
 **Estrogen Implants**
 
 Unlike Dr Hayes our current doctors are extremely reluctant to prescribe 200mg implants, and its not clear who does (see Dr Michelle Guttman-Jones). If they do then it would be on a case by case basis and if you hear of someone getting them it doesn't mean you will. There's some further information on implants <span class="internal">[here](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implants/implants.md)</span>.
- 
+
 Some of the doctors on the transhub list say
 
 * Prescribes estrogen implants
@@ -284,7 +284,7 @@ RollingStone Australia
 
 Research
 
-* 2024 - [Effects of gender affirming hormone treatment in transgender individuals – a retrospective cohort study](https://link.springer.com/article/10.1007/s12020-024-03736-0) by Christopher A. Muir, Mihal Guttman-Jones & Elspeth J. Man 
+* 2024 - [Effects of gender affirming hormone treatment in transgender individuals – a retrospective cohort study](https://link.springer.com/article/10.1007/s12020-024-03736-0) by Christopher A. Muir, Mihal Guttman-Jones & Elspeth J. Man
 * 2021 - [Hyperprolactinemia and association with prolactinoma in transwomen receiving gender affirming hormone treatment](https://www.researchgate.net/publication/348224492_Hyperprolactinemia_and_association_with_prolactinoma_in_transwomen_receiving_gender_affirming_hormone_treatment) by Lisa Raven, Michelle Guttman-Jones, Christopher A. Muir
 
 Other
@@ -358,7 +358,7 @@ Key details
 * GP
 * Implants, max 100mg
 * Informed consent
-* Practice works with a Justice of the Peace to witness birth certificate gender marker change applications 
+* Practice works with a Justice of the Peace to witness birth certificate gender marker change applications
 * Church Street Medical Practice, 280 Church St, ***Newtown*** NSW 2042
 * https://www.churchstreetmedical.com.au/
 * https://www.transhub.org.au/tgd-doc-list/dr-elspeth-man
@@ -490,7 +490,7 @@ Key details
 
 Key details
 
-* https://www.eastsydneydoctors.com.au/lindadayan 
+* https://www.eastsydneydoctors.com.au/lindadayan
 
 * reply to [Where is the best place for Aussie tgirls to buy injections?](https://www.reddit.com/r/TransDIY/comments/1cl73kk/where_is_the_best_place_for_aussie_tgirls_to_buy/l2rwiy0/) by WQLFY in 2024 - *"You can't get injections in Australia...or at least my specialist Dr Linda Dayan says I can't. I've been on tablets, gel, and patches. But no changes after the initial 6 months. Now I'm 3.5 years into HRT and my boobs have stopped growing and their sensitivity is non-existent. As for implants...Dr Dayan keeps delaying it, and tbh injections are more effective from what people are saying. I'd rather diy inject and have changes finally."* - note, you can get injections in Australia
 
@@ -824,7 +824,7 @@ reddit
 
 ---
 
-## Catherine Insley (Bondi Junction) 
+## Catherine Insley (Bondi Junction)
 
 Also works in Darlinghurst.
 
@@ -1018,7 +1018,7 @@ Key details
 
 ---
 
-### Anne Conway 
+### Anne Conway
 
 This is/was an andrology center, but apparently they treat MTF as well.
 
@@ -1196,9 +1196,9 @@ Luke’s Journal, published by the Christian Medical and Dental Fellowship of Au
 ---
 
 John Whitehall
- 
+
 Key details
- 
+
 * Professor of Paediatrics and Child Health at Western Sydney University
 
 Lukes Journal
@@ -1343,7 +1343,7 @@ Key details
 * North Coast Sexual Health, 4 Shepherd Lane, ***Lismore***
   * https://www.transhub.org.au/tgd-doc-list/dr-emanuel-vlahakis
 
- 
+
 reddit
 
 * [Requirement for in-person appointment for first consult with HRT specialist?](https://www.reddit.com/r/transgenderau/comments/oktu3z/requirement_for_inperson_appointment_for_first/) by natj910 in 2021
@@ -1421,7 +1421,7 @@ Key details
 * GP
 * Informed consent
 * Does implants
-* Mingara Medical, 7 Mingara Dr, ***Tumbi Umbi*** NSW 2261 
+* Mingara Medical, 7 Mingara Dr, ***Tumbi Umbi*** NSW 2261
   * https://www.mingaramed.com.au/team_members/dr-jocelyn-rikard-bell/
 * Google [maps](https://goo.gl/maps/k9ZqNgJUE8A9SPyr6)
 * https://www.transhub.org.au/tgd-doc-list/dr-n6j8j
@@ -1786,7 +1786,7 @@ Key details
 
 * Paediatrician
 * Bulk bills
-* Does not yet commence puberty blockers or gender affirming hormones but can support trans children (up to 16) with general health needs and will refer for gender affirmation care  
+* Does not yet commence puberty blockers or gender affirming hormones but can support trans children (up to 16) with general health needs and will refer for gender affirmation care
 * Shoalhaven and Milton Paediatric Clinic, Shoalhaven Hospital, Scenic Drive, ***Nowra***
 
 Other
@@ -1852,7 +1852,7 @@ Key details
 * Informed consent
 * Prescribes estrogen ***implants***
 * Prescribes estrogen implants based on previous doses
-* The Village Centre, Fairlight Road and Mulgoa Road, ***Mulgoa*** NSW 2745 
+* The Village Centre, Fairlight Road and Mulgoa Road, ***Mulgoa*** NSW 2745
 * https://www.transhub.org.au/tgd-doc-list/dr-adrian-sheen
 
 He does [circumcision on children](https://circumcisionsnsw.com.au/), so personally I'd avoid him. Genital mutilation of childern is immoral, and for trans women this non-consenting procedure results can result in worse aesthetics for SRS
@@ -1888,7 +1888,7 @@ Key details
 Key details
 
 * Informed consent
-* Prescribes estrogen ***implants*** (doesn’t yet insert implants) 
+* Prescribes estrogen ***implants*** (doesn’t yet insert implants)
 * Prescribes estrogen implants based on previous doses (doesn’t yet insert implants)
 * Doctor signs-off on gender marker change applications without requiring examination
 * Blue Mountains Sexual Health Clinic, Staff Accommodation Block, Blue Mountains Hospital, Great Western Highway, ***Katoomba***
@@ -1898,7 +1898,7 @@ Key details
   *	Bulk bills all patients
   * https://www.nbmlhd.health.nsw.gov.au/sexual-health
   * https://www.transhub.org.au/tgd-doc-list/dr-eva-jackson-2
-* 1 Hope Street, ***Penrith*** NSW 2750 
+* 1 Hope Street, ***Penrith*** NSW 2750
   * http://www.doctoreva.com.au/
   * https://www.transhub.org.au/tgd-doc-list/dr-eva-jackson
 * The Male Clinic, Suite 2, Level 6, 75 Crown Street, ***Woolloomooloo*** NSW 2010

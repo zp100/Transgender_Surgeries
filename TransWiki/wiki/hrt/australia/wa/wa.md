@@ -183,7 +183,7 @@ Other links
 ---
 
 ## Karen Rothacker
- 
+
 Key details
 
 * Endocrinologist
@@ -261,7 +261,7 @@ Other links
 
 Key details
 
-* Sonic HealthPlus Hay Street Perth,  1st Floor, ***847 Hay St***, Perth 6000 
+* Sonic HealthPlus Hay Street Perth,  1st Floor, ***847 Hay St***, Perth 6000
 * https://www.sonichealthplus.com.au/locations/haystreetperth/our-team
 
 reddit
@@ -277,7 +277,7 @@ reddit
 
 Key details
 
-* Bassendean Family Practice, 39 Old Perth Rd, ***Bassendean***, WA 6054 
+* Bassendean Family Practice, 39 Old Perth Rd, ***Bassendean***, WA 6054
 * https://www.doctor360.com.au/gp/bassendean-wa-6054/dr-warren-saint-physician
 
 reddit
@@ -336,7 +336,7 @@ reddit
 
 Key details
 
-* Perth Medical Center, 713 Hay St, Perth, WA, 6000 
+* Perth Medical Center, 713 Hay St, Perth, WA, 6000
 * https://www.perthmedicalcentre.com.au/doctor/dr-bede-rogers/
 * https://healthengine.com.au/doctor/wa/perth/dr-bede-rogers/p2761
 * https://www.facebook.com/perthmedicalcentre/

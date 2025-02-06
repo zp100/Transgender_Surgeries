@@ -68,7 +68,7 @@ Fiona Bishop will not do the levels Dr Jonathan Hayes in Sydney did.
 Key details
 
 * Does estrogen implants
-* 116 Robertson St, ***Fortitude Valley*** QLD 4006 
+* 116 Robertson St, ***Fortitude Valley*** QLD 4006
 * https://drfionabisshop.com/
 * https://www.holdsworthhouse.com.au/doctors-practitioners/dr-fiona-bisshop/
 * [President of AusPATH](https://auspath.org/board-of-directors-and-subcommittees/) as of July 2020
@@ -94,7 +94,7 @@ reddit
 
 Facebook
 
-* [QNews (facebook) is hosting Dr Fiona Bisshop (Qld) this Saturday at 2pm. Subject: The Lowdown on Hormone Therapy for Gender Transition](https://www.reddit.com/r/transgenderau/comments/gwhdpd/qnews_facebook_is_hosting_dr_fiona_bisshop_qld/) by 
+* [QNews (facebook) is hosting Dr Fiona Bisshop (Qld) this Saturday at 2pm. Subject: The Lowdown on Hormone Therapy for Gender Transition](https://www.reddit.com/r/transgenderau/comments/gwhdpd/qnews_facebook_is_hosting_dr_fiona_bisshop_qld/) by
 
 Other links
 
@@ -258,7 +258,7 @@ Key details
 * http://gatewayspecialist.com.au/Gateway_Specialist_Centre_Carina/Directory.html
 * https://www.healthshare.com.au/profile/professional/261010-dr-naomi-achong/#overview
 
-reddit 
+reddit
 
 * reply to [Swapping endos?](https://www.reddit.com/r/transgenderau/comments/ko8q7u/swapping_endos/ghsadfy/) by AdrianeXX in 2020
 * [Informed consent HRT in Queensland (QLD)](https://www.reddit.com/r/transgenderau/comments/g30f24/informed_consent_hrt_in_queensland_qld/) by lunar-dogs in 2020
@@ -360,7 +360,7 @@ Sites
 * https://www.stonewall.com.au/dr-hemming-luu/
 * https://www.facebook.com/stonewallmedical
 
-reddit 
+reddit
 
 * [Brisbane HRT recommendation](https://www.reddit.com/r/transgenderau/comments/kw6y5p/brisbane_hrt_recommendation/) by brisbanesonlytop in 2021
 
@@ -377,7 +377,7 @@ Sites
 * https://www.stonewall.com.au/dr-james-allen/
 * https://www.facebook.com/stonewallmedical
 
-reddit 
+reddit
 
 * [Brisbane HRT recommendation](https://www.reddit.com/r/transgenderau/comments/kw6y5p/brisbane_hrt_recommendation/) by brisbanesonlytop in 2021
 
@@ -678,7 +678,7 @@ reddit
 # Andrew Rees
 
 * GP
-* James Neil Medical Centre, 11 James Street, The Range Shopping Centre, ***East Toowoomba*** Q 4350 
+* James Neil Medical Centre, 11 James Street, The Range Shopping Centre, ***East Toowoomba*** Q 4350
     * https://peoplefirsthealthgroup.com.au/practices/james-neil-medical-centre
 
 reddit

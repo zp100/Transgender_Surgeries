@@ -141,7 +141,7 @@ reddit
 
 See also
 
-* [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia, 
+* [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia,
 * Wiki entry <span class="internal">[HRT Introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/hrt.md)</span>
 * Wiki entry on <span class="internal">[Implants](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implants/implants.md)</span>
 * Wiki entry on <span class="internal">[Compounding Pharmacies](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/compounding-pharmacies/australia/australia.md)</span> - implants, injections, topical anesthetics, etc

@@ -67,8 +67,8 @@ reddit
     * [Need help identifying things.](https://www.reddit.com/r/Transgender_Surgeries/comments/152osdi/need_help_identifying_things/) by SignificantSport5771 in 2023
     * [4 weeks post op penile inversion](https://www.reddit.com/r/Transgender_Surgeries/comments/14smgty/4_weeks_post_op_penile_inversion/)  by SignificantSport5771 in 2023
     * [Two Weeks Post Op](https://www.reddit.com/r/Transgender_Surgeries/comments/14gh7io/two_weeks_post_op/) by SignificantSport5771 in 2023
-* [Dilation - does it get easier?!!](https://www.reddit.com/r/Transgender_Surgeries/comments/10pzdxc/dilation_does_it_get_easier/) by tgirlsurgerywarrior in 2023 
-    * [Granulation tissue and bleeding, what is your experience?](https://www.reddit.com/r/Transgender_Surgeries/comments/10fz1vl/granulation_tissue_and_bleeding_what_is_your/) by tgirlsurgerywarrior in 2023 
+* [Dilation - does it get easier?!!](https://www.reddit.com/r/Transgender_Surgeries/comments/10pzdxc/dilation_does_it_get_easier/) by tgirlsurgerywarrior in 2023
+    * [Granulation tissue and bleeding, what is your experience?](https://www.reddit.com/r/Transgender_Surgeries/comments/10fz1vl/granulation_tissue_and_bleeding_what_is_your/) by tgirlsurgerywarrior in 2023
     * [6 weeks post op gender confirmation surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/101tgbo/6_weeks_post_op_gender_confirmation_surgery/) by tgirlsurgerywarrior in 2023
     * [Week 4 - Vaginoplasty - Wound Dehiscence complication - Upgraded to larger dilator per instructions - mentally drained - I’m not sure it’s looking right anymore. I just think I’ve hit a 🤷🏼‍♀️ period.](https://www.reddit.com/r/Transgender_Surgeries/comments/zs0hwf/week_4_vaginoplasty_wound_dehiscence_complication/) by tgirlsurgerywarrior in 2022
     * [Week 4 - PI w/Dr. Loren Schechter - still swollen, but feeling better day by day. Will attempt a better pic while dilating tonight. AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/zquxv9/week_4_pi_wdr_loren_schechter_still_swollen_but/) by tgirlsurgerywarrior in 2022
@@ -208,7 +208,7 @@ reddit
 
 * [Has anyone went with Ervin Kocjancic for Gender Confirmation Surgery?](https://www.reddit.com/r/asktransgender/comments/ass61u/has_anyone_went_with_ervin_kocjancic_for_gender/) by Melissa7d in 2019
 
-See also Loren Schechter for SRS - https://chicago.medicine.uic.edu/departments/academic-departments/urology/clinical-services/pelvic-health-and-reconstructive-urology/ - *"Coordinated by Dr. Kocjancic and Loren Schechter, M.D. at Chicago’s Weiss Memorial Hospital, the Division sponsors a special fellowship in genital reconstruction and uro-genital dysfunction, with an emphasis on transgender health relative to gender confirmation surgery."* 
+See also Loren Schechter for SRS - https://chicago.medicine.uic.edu/departments/academic-departments/urology/clinical-services/pelvic-health-and-reconstructive-urology/ - *"Coordinated by Dr. Kocjancic and Loren Schechter, M.D. at Chicago’s Weiss Memorial Hospital, the Division sponsors a special fellowship in genital reconstruction and uro-genital dysfunction, with an emphasis on transgender health relative to gender confirmation surgery."*
 
 <br />
 
@@ -291,7 +291,7 @@ Review sites
 * https://www.vitals.com/doctors/Dr_Traci_Beck.html
 * https://www.healthgrades.com/physician/dr-traci-beck-y4x5t
 
-NPI # 1710963749 
+NPI # 1710963749
 
 * https://npidb.org/doctors/allopathic_osteopathic_physicians/urology_208800000x/1710963749.aspx
 
@@ -363,7 +363,7 @@ Susans
 
 YouTube
 
-* [The Shocking Truth About Trans Surgery: Briana Ivy’s Story](https://www.youtube.com/watch?v=Qhc4hIbLXlM&t=2855s) by 
+* [The Shocking Truth About Trans Surgery: Briana Ivy’s Story](https://www.youtube.com/watch?v=Qhc4hIbLXlM&t=2855s) by
 Candace Owens Podcast in 2023 - note the Candace Owens is right wing commentator promoting anti-trans hate
 
 Other
@@ -480,7 +480,7 @@ reddit
     * [10 days post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1729fj7/10_days_post_op/) by Steph1976w_5214 in 2023
     * [One week post op](https://www.reddit.com/r/Transgender_Surgeries/comments/16zdtag/one_week_post_op/) by Steph1976w_5214 in 2023 - *"Dr grey Kansas health system with Dr. farmer and dr broghammer"*
     * [Post op surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/16vobls/post_op_surgery/) by Steph1976w_5214 in 2023
-* [One day post-op, zero depth NSFW](https://www.reddit.com/r/Transgender_Surgeries/comments/z3ug8a/one_day_postop_zero_depth_nsfw/) by ReadyReddit12 in 2022 - surgeons Meredith Gray, Satish Ponnuru, Joshua Broghammer 
+* [One day post-op, zero depth NSFW](https://www.reddit.com/r/Transgender_Surgeries/comments/z3ug8a/one_day_postop_zero_depth_nsfw/) by ReadyReddit12 in 2022 - surgeons Meredith Gray, Satish Ponnuru, Joshua Broghammer
 * [6 Months Post-Op (Dr Gray, University of Kansas)](https://www.reddit.com/r/Transgender_Surgeries/comments/r4jv8d/6_months_postop_dr_gray_university_of_kansas/) by LisaFaith83 in 2021
 * [More pics from my May 26th zero depth bottom surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/qm36ny/more_pics_from_my_may_26th_zero_depth_bottom/) by Baronessofbacon in 2021
     * [First few days after zero depth bottom surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/qljk1m/first_few_days_after_zero_depth_bottom_surgery/) by Baronessofbacon in 2021
@@ -541,7 +541,7 @@ See also the BA page.
 
 **Photo links**
 
-* [One day post-op, zero depth NSFW](https://www.reddit.com/r/Transgender_Surgeries/comments/z3ug8a/one_day_postop_zero_depth_nsfw/) by ReadyReddit12 in 2022 - surgeons Meredith Gray, Satish Ponnuru, Joshua Broghammer 
+* [One day post-op, zero depth NSFW](https://www.reddit.com/r/Transgender_Surgeries/comments/z3ug8a/one_day_postop_zero_depth_nsfw/) by ReadyReddit12 in 2022 - surgeons Meredith Gray, Satish Ponnuru, Joshua Broghammer
 
 **Non-photo links**
 
@@ -568,7 +568,7 @@ Surgeons sites
 reddit
 
 * [One week post op](https://www.reddit.com/r/Transgender_Surgeries/comments/16zdtag/one_week_post_op/) by Steph1976w_5214 in 2023 - *"Dr grey Kansas health system with Dr. farmer and dr broghammer"*
-* [One day post-op, zero depth NSFW](https://www.reddit.com/r/Transgender_Surgeries/comments/z3ug8a/one_day_postop_zero_depth_nsfw/) by ReadyReddit12 in 2022 - surgeons Meredith Gray, Satish Ponnuru, Joshua Broghammer 
+* [One day post-op, zero depth NSFW](https://www.reddit.com/r/Transgender_Surgeries/comments/z3ug8a/one_day_postop_zero_depth_nsfw/) by ReadyReddit12 in 2022 - surgeons Meredith Gray, Satish Ponnuru, Joshua Broghammer
 * [Vaginoplasty and Breast Augmentation Experience with the University of Kansas Health System (Drs. Grey, Ponnuru, and Broghammer)](https://www.reddit.com/r/Transgender_Surgeries/comments/qd2zr9/vaginoplasty_and_breast_augmentation_experience/) by  Box_of_Ramen in 2021
 * [GCS University of Kansas Health System, 8/25/2020](https://www.reddit.com/r/Transgender_Surgeries/comments/ilpvqu/gcs_university_of_kansas_health_system_8252020/) by Snowypinkrose in 2020
 
@@ -908,18 +908,18 @@ reddit
     * [Loving my front bum](https://www.reddit.com/r/manmadepussy/comments/vxz1qy/loving_my_front_bum/) by BoyandNavage in 2022
     * [Stretching my pussy](https://www.reddit.com/r/manmadepussy/comments/w49jkt/stretching_my_pussy/) by BoyandNavage in 2022
     * [Ready to spill, Q&A time!](https://www.reddit.com/r/Transgender_Surgeries/comments/vapvau/ready_to_spill_qa_time/) by BoyandNavage in 2022
-    * [Car pussy](https://www.reddit.com/r/manmadepussy/comments/v82sqx/car_pussy/)  by BoyandNavage in 2022 
-    * [The best view in my house 🍑](https://www.reddit.com/r/manmadepussy/comments/v5foz1/the_best_view_in_my_house/)  by BoyandNavage in 2022 
-    * [Sunbathing 🥰](https://www.reddit.com/r/BoyandNavage/comments/u77qjx/sunbathing/) by BoyandNavage in 2022 
-    * [Ridin' Dirty! 👙](https://www.reddit.com/r/manmadepussy/comments/uemgmj/ridin_dirty/) by BoyandNavage in 2022 
+    * [Car pussy](https://www.reddit.com/r/manmadepussy/comments/v82sqx/car_pussy/)  by BoyandNavage in 2022
+    * [The best view in my house 🍑](https://www.reddit.com/r/manmadepussy/comments/v5foz1/the_best_view_in_my_house/)  by BoyandNavage in 2022
+    * [Sunbathing 🥰](https://www.reddit.com/r/BoyandNavage/comments/u77qjx/sunbathing/) by BoyandNavage in 2022
+    * [Ridin' Dirty! 👙](https://www.reddit.com/r/manmadepussy/comments/uemgmj/ridin_dirty/) by BoyandNavage in 2022
     * [Ready for fun!💄](https://www.reddit.com/r/manmadepussy/comments/tzsygh/ready_for_fun/) by BoyandNavage in 2022
     * [Take me from behind 🤎](https://www.reddit.com/r/manmadepussy/comments/u77pvk/take_me_from_behind/) by BoyandNavage in 2022
-    * [Get up close and personal 😝](https://www.reddit.com/r/manmadepussy/comments/u0j1cm/get_up_close_and_personal/)  by BoyandNavage in 2022 
-    * [First orgasm! This toy is amazing. Feels like the real thing. Veiny and good girth. Had my clit swole and wet!](https://www.reddit.com/r/BoyandNavage/comments/tztpu2/first_orgasm_this_toy_is_amazing_feels_like_the/) by BoyandNavage in 2022 
-    * [New vulva, her name is Lucille!](https://www.reddit.com/r/BoyandNavage/comments/txi73w/new_vulva_her_name_is_lucille/) by BoyandNavage in 2022 
-    * [Ready to eat!OC](https://www.reddit.com/r/GoneWildTrans/comments/s7c8uh/ready_to_eat/) by BoyandNavage in 2022 
-    * [Can’t wait for me tits to jiggle when my girl gets fucked](https://www.reddit.com/r/TransTits/comments/rikrjq/cant_wait_for_me_tits_to_jiggle_when_my_girl_gets/) by BoyandNavage in 2022 
-    * [Transformation December](https://www.reddit.com/r/BoyandNavage/comments/rhwb9f/transformation_december/)  by BoyandNavage in 2022 
+    * [Get up close and personal 😝](https://www.reddit.com/r/manmadepussy/comments/u0j1cm/get_up_close_and_personal/)  by BoyandNavage in 2022
+    * [First orgasm! This toy is amazing. Feels like the real thing. Veiny and good girth. Had my clit swole and wet!](https://www.reddit.com/r/BoyandNavage/comments/tztpu2/first_orgasm_this_toy_is_amazing_feels_like_the/) by BoyandNavage in 2022
+    * [New vulva, her name is Lucille!](https://www.reddit.com/r/BoyandNavage/comments/txi73w/new_vulva_her_name_is_lucille/) by BoyandNavage in 2022
+    * [Ready to eat!OC](https://www.reddit.com/r/GoneWildTrans/comments/s7c8uh/ready_to_eat/) by BoyandNavage in 2022
+    * [Can’t wait for me tits to jiggle when my girl gets fucked](https://www.reddit.com/r/TransTits/comments/rikrjq/cant_wait_for_me_tits_to_jiggle_when_my_girl_gets/) by BoyandNavage in 2022
+    * [Transformation December](https://www.reddit.com/r/BoyandNavage/comments/rhwb9f/transformation_december/)  by BoyandNavage in 2022
 
 **Non-photo links**
 
@@ -969,7 +969,7 @@ Surgeons sites
 reddit
 
 * [Mayor clinic Rochester, mn 6 months post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1flqnid/mayor_clinic_rochester_mn_6_months_post_op/) by Emsanartist in 2024
-* [Surgery was april 7th so however long ago that was. Surgeon was Dr fahradyan. I’ll be going for internal revisions for issues with depth sometime in 2023. Love the way it looks though. I can try and eventually answer any questions of what experiences post op are like.](https://www.reddit.com/r/Transgender_Surgeries/comments/zfnscz/surgery_was_april_7th_so_however_long_ago_that/) by bellabrewing in 12/2022 
+* [Surgery was april 7th so however long ago that was. Surgeon was Dr fahradyan. I’ll be going for internal revisions for issues with depth sometime in 2023. Love the way it looks though. I can try and eventually answer any questions of what experiences post op are like.](https://www.reddit.com/r/Transgender_Surgeries/comments/zfnscz/surgery_was_april_7th_so_however_long_ago_that/) by bellabrewing in 12/2022
     * [5 months laterscarring minimum (despite the dehiscence having been so large) self lubes excessively when I’m turn on (welcome interaction obv) looks esthetically pleasing as well. dr fahradyan at the Mayo Clinic. 8/10 work but 2/10 experience. Orgasm is achievable, in numerous quantities as well.](https://www.reddit.com/r/Transgender_Surgeries/comments/x6wrj7/5_months_laterscarring_minimum_despite_the/) by bellabrewing in 2022
     * [5 months post op, things are looking pretty okay I think. (ignore my estrogen patch residue I’m lazy)](https://www.reddit.com/r/Transgender_Surgeries/comments/whojeq/5_months_post_op_things_are_looking_pretty_okay_i/) by bellabrewing
     * [Post op / post dehiscence ~2 and a half months. Still kinda annoyed with the results.](https://www.reddit.com/r/Transgender_Surgeries/comments/vhs1qt/post_op_post_dehiscence_2_and_a_half_months_still/) by bellabrewing in 2022

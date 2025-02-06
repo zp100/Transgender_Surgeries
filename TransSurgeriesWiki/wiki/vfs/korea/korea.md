@@ -11,7 +11,7 @@ Korean trans sites -  google chrome can translate these
 
 https://en.wikipedia.org/wiki/LGBT_rights_in_South_Korea
 
-## Hyung-Tae Kim (Yeson) 
+## Hyung-Tae Kim (Yeson)
 
 Location
 

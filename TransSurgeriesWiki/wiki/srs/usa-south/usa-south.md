@@ -50,7 +50,7 @@ reddit
     * [Happy Friday the 13th! Time for my 6 month recovery update from my PPT SRS from Dr. John Selph](https://www.reddit.com/r/Transgender_Surgeries/comments/up1l33/happy_friday_the_13th_time_for_my_6_month/) by hellagaybitch in 2022
     * [I had PPT SRS one month ago with Dr. John Selph at UAB! AMA (also, will continue to post as healing continues)](https://www.reddit.com/r/Transgender_Surgeries/comments/s41y1f/i_had_ppt_srs_one_month_ago_with_dr_john_selph_at/) by hellagaybitch in 2022
 * [GCS with Dr. Selph at UAB-Birmingham](https://www.reddit.com/r/Transgender_Surgeries/comments/slhmto/gcs_with_dr_selph_at_uabbirmingham/) by ThrowAwayGCSPics in 2022
-* [12-month Post Op, Penile Inversion + PPT, Dr. J. Patrick Selph, UAB, Birmingham, Alabama](https://www.reddit.com/r/Transgender_Surgeries/comments/o2cujp/12month_post_op_penile_inversion_ppt_dr_j_patrick/) by TransSurgeryAlt4728 in 2021 
+* [12-month Post Op, Penile Inversion + PPT, Dr. J. Patrick Selph, UAB, Birmingham, Alabama](https://www.reddit.com/r/Transgender_Surgeries/comments/o2cujp/12month_post_op_penile_inversion_ppt_dr_j_patrick/) by TransSurgeryAlt4728 in 2021
     * [6-month Post Op, Penile Inversion + PPT, Dr. J. Patrick Selph, UAB, Birmingham, Alabama](https://www.reddit.com/r/Transgender_Surgeries/comments/kbirbt/6month_post_op_penile_inversion_ppt_dr_j_patrick/) by TransSurgeryAlt4728 in 2020
 
 **Non-photo links**
@@ -212,7 +212,7 @@ YouTube
 realself
 
 * [Wonderful MTF Surgery in Miami! ](https://www.realself.com/review/maercks-wonderful-mtf-surgery-miami) by SashaXofia67 in 2018
-* [I had an horrible experience with DR Rian Maercks ](https://www.realself.com/review/miami-horrible-experience-dr-rian-maercks) by Jes1212 in 2017 
+* [I had an horrible experience with DR Rian Maercks ](https://www.realself.com/review/miami-horrible-experience-dr-rian-maercks) by Jes1212 in 2017
 
 Susans
 
@@ -421,7 +421,7 @@ reddit
 * [First orgasm after GCS](https://www.reddit.com/r/Transgender_Surgeries/comments/q4p2mx/first_orgasm_after_gcs/) by jamihershey in 2021
 * [Any reviews of Dr. John Whitehead in Miami, FL?](https://www.reddit.com/r/Transgender_Surgeries/comments/gkgnsj/any_reviews_of_dr_john_whitehead_in_miami_fl/) by sailor_kit_kat in 2020
 * [Had my first consultation with Dr Whitehead in Miami](https://www.reddit.com/r/Transgender_Surgeries/comments/hbg80p/had_my_first_consultation_with_dr_whitehead_in/) VollmetalDragon in 2020
- 
+
 YouTube
 
 * [Easy Passing Tips for Trans Girls, Surgery Update](https://www.youtube.com/watch?v=flu_UjLWaYg) by Shay Rose in 2022
@@ -559,7 +559,7 @@ Surgeons sites
 
 https://micheleomara.com/mtf-vaginoplasty-before-and-after-photos-dr-gallagher/
 
-reddit 
+reddit
 
 * [My botched and revision results of my srs](https://www.reddit.com/r/Transgender_Surgeries/comments/10suz2e/my_botched_and_revision_results_of_my_srs/) by Jas_Sinclair in 2023 - *"Dr Del Corral did my revision. Dr Sibh Gallagher botched me."*
     * [Better not go to Dr. Gallagher for srs!](https://www.reddit.com/r/Transgender_Surgeries/comments/10suwss/better_not_go_to_dr_gallagher_for_srs/) by Jas_Sinclair in 2023 - *"Just recently had to have a revision from the illustrious Dr. Del Corral who performed the Sigmond colon srs technique on me. Dr. Gallagher completely destroyed my confidence and gave me a 😺 that looked like something that came out of a horror story. I was left with no depth, and I don't even know what my clitoris was doing, And worse of all...my revision doctor was shocked that pee was coming from a different cavity of my botched 😺 because my urethra had completely closed. I wanted to sue so bad, but I'm discovering that Dr. Sibh Gallagher opted out of mal practice insurance so no attorney will pick up the case. Here's my botched and after revision results."*
@@ -612,7 +612,7 @@ Susans
 
 YouTube
 
-* [Jazz's First Day At Her College Internship: "Amazing And Crazy At The Same Time!" | I Am Jazz](https://www.youtube.com/watch?v=RmYDhNrebLs) by 
+* [Jazz's First Day At Her College Internship: "Amazing And Crazy At The Same Time!" | I Am Jazz](https://www.youtube.com/watch?v=RmYDhNrebLs) by
 TLC Australia in 2022
 * [EVERYTHING you need to know about Surgery 🏳️‍🌈](https://www.youtube.com/watch?v=_rihEoVz8Tk) by Jamie O Herlihy in 2019
 * [0556 - Surgery: Day 7 - Unpacking & Dilation](https://www.youtube.com/watch?v=ab-2IRq5Oiw) by One Trans at Middle Age in 2018
@@ -624,7 +624,7 @@ Other
 
 **Tiktok**
 
-Fair warning, there's a number of links here to anti-trans hate sites and extreme right wing news outlets. This looks like it may be used to do a great deal of harm to trans youth in in a number of states in the USA. 
+Fair warning, there's a number of links here to anti-trans hate sites and extreme right wing news outlets. This looks like it may be used to do a great deal of harm to trans youth in in a number of states in the USA.
 
 * on a anti-trans hate site - [EXCLUSIVE: Florida Lawyer Seeking Information From “Gender Surgeon” Patients](https://reduxx.info/exclusive-florida-lawyer-seeking-information-from-gender-surgeon-patients/) in April 11, 2022 - *"A Florida lawyer is seeking information from past patients of a TikTok-infamous gender surgeon in her effort to file a formal complaint with the Florida Attorney General about her deceptive and unfair practices."* Searching the lawyers name, *"Kendra Parris of Parris Law in Orlando, Florida"* finds more references so I would assume its true.
 * Washington Examiner - [Trans youth’s TikTok surgeon heads for clash with lawmakers](https://www.washingtonexaminer.com/restoring-america/community-family/trans-youths-tiktok-surgeon-heads-for-clash-with-lawmakers), 24 March 2022 - *"Florida, fresh off a high-profile battle to ban what critics call gay and transgender grooming of young children in public schools, may be ready for the next legal fight: barring sex reassignment surgeries on teenagers by doctors, including one who boasts on TikTok that it is "easier than wisdom teeth removal.""*
@@ -821,7 +821,7 @@ Location
 
 Surgeons sites
 
-* https://find-a-doctor.health.usf.edu/provider/Ross+Everett/2358388 
+* https://find-a-doctor.health.usf.edu/provider/Ross+Everett/2358388
 
 Insurance
 
@@ -932,7 +932,7 @@ reddit
 
 YouTube
 
-* [Erin Everett hosts AU's own Dr. Chirag Dave on Exclusively Inclusive about Transgender Orchiectomy](https://www.youtube.com/watch?v=mSWl4Y3V_Gs) by 
+* [Erin Everett hosts AU's own Dr. Chirag Dave on Exclusively Inclusive about Transgender Orchiectomy](https://www.youtube.com/watch?v=mSWl4Y3V_Gs) by
 Advanced Urology in 2022
 
 Review sites
@@ -959,7 +959,7 @@ reddit
 
 * [worried about labiaplasty 5 days post op](https://www.reddit.com/r/Transgender_Surgeries/comments/11cx6n3/worried_about_labiaplasty_5_days_post_op/) by Kara_Fox in 2023 - primary by Witten, revision by Huber (Kaiser in Atlanta), Ehler Danlos
 
-NPI# 1225329899 
+NPI# 1225329899
 
 * https://npiprofile.com/npi/1225329899
 * https://npino.com/npi/1225329899-dr.-sarah-anne-huber/
@@ -1112,7 +1112,7 @@ reddit
 * [My recovery period is over](https://www.reddit.com/r/PostOpTrans/comments/mqcnj7/my_recovery_period_is_over/)
 * [If you've enjoyed what you've seen you should consider checking out my onlyfans😘 i have tons of photos an a few vids there](https://www.reddit.com/user/aliciathgreat/comments/mk2vt9/if_youve_enjoyed_what_youve_seen_you_should/)
 * [Just wanted to say hi](https://www.reddit.com/r/GoneWildTrans/comments/mk2pa7/just_wanted_to_say_hi/)
-* [I just really enjoy taking nudes(post op mtf)](https://www.reddit.com/r/LGBTGoneWild/comments/m64atb/i_just_really_enjoy_taking_nudespost_op_mtf/) 
+* [I just really enjoy taking nudes(post op mtf)](https://www.reddit.com/r/LGBTGoneWild/comments/m64atb/i_just_really_enjoy_taking_nudespost_op_mtf/)
 * [My pussy turns 7 weeks old in a couple](https://www.reddit.com/r/manmadepussy/comments/lq7b0l/my_pussy_turns_7_weeks_old_in_a_couple/) by aliciathgreat in 2021
 
 **Non-photo links**
@@ -1142,7 +1142,7 @@ YouTube
 * [Baltimore Doctor Saves Trans Lives With Cutting-Edge Gender Reassignment Surgery](https://www.youtube.com/watch?v=vmRu6_wnpVM) by WJZ in 2021
 * [2 Months Post-Op | Gender Reassignment Surgery](https://www.youtube.com/watch?v=bpVoifHwvcY) by Erica Burns in 2021
 * [New Treatment Provides Hope for Breast Cancer Lymphedema Sufferers](https://www.youtube.com/watch?v=aZBMLBA1DRc) by MedStar Health in 2019
-* [MedStar Health Surgeon Discusses Advancements in Breast Reconstruction for Cancer Patients](https://www.youtube.com/watch?v=-ZJ4qxipeMs) by 
+* [MedStar Health Surgeon Discusses Advancements in Breast Reconstruction for Cancer Patients](https://www.youtube.com/watch?v=-ZJ4qxipeMs) by
 MedStar Health in 2018
 
 realself
@@ -1308,7 +1308,7 @@ Location
 
 Surgeons sites
 
-* 
+*
 
 **Photo links**
 
@@ -1331,7 +1331,7 @@ Other
 
 # Mississippi
 
-## Gordon M. Castleberry 
+## Gordon M. Castleberry
 
 Location
 
@@ -1779,7 +1779,7 @@ Texas Medical Board
 On June 8,  2005,  the Board ordered that Dr.  Raphael's Texas  medical  license be immediately suspended. The action was based on Dr. Raphael's failure  to comply with all  of the terms and conditions of an Order  Dr. Raphael  entered into ith the Board on December  12,  2003. Subsequently, and also on June 8,  the District  Court of the 353rd  Judicial  District in Travis County, Texas, entered an Order denying Dr. Raphael's application for a temporary restraining order against the enforcement of the Board's Order.*
 
 * [2003 Press Releases](http://www.tmb.state.tx.us/dl/FB642150-D8B3-A8F6-F5D3-E5832892E381) - *RAPHAEL,  PETER,  M.D.,  PLANO,  TX,  Lic. #G8361
-On  12-12-03 the Board  and Dr.  Raphael  entered into an Agreed  Order  that included  a 45-day suspension,  public  reprimand,  and  probation  for  10 years. The action was based on a determination  of substandard  care that resulted  in 
+On  12-12-03 the Board  and Dr.  Raphael  entered into an Agreed  Order  that included  a 45-day suspension,  public  reprimand,  and  probation  for  10 years. The action was based on a determination  of substandard  care that resulted  in
 the death of a patient receiving  multiple  plastic surgery  procedures.  The findings  of substandard  care included  issues with anesthesiology,  inadequate staffing, length of surgery  and  the high  volume  of liposuction  performed  in  an
 unaccredited outpatient surgical  center.*
 

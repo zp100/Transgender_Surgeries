@@ -145,13 +145,13 @@ Papers
 
 ## Rib Reshaping
 
-Breaking the ribs and reshaping using a corset. 
+Breaking the ribs and reshaping using a corset.
 
 reddit
 
 * [Waist narrowing surgery](https://www.reddit.com/r/MtF/comments/g36qn0/waist_narrowing_surgery/) by AnyaAnn in 2020
 
-According to Dr. Barry Eppley in [Is Rib Reshaping Better Than Rib Removal For Waistline Narrowing?](https://www.eppleyplasticsurgery.com/is-rib-reshaping-better-than-rib-removal-for-waistline-narrowing/) 
+According to Dr. Barry Eppley in [Is Rib Reshaping Better Than Rib Removal For Waistline Narrowing?](https://www.eppleyplasticsurgery.com/is-rib-reshaping-better-than-rib-removal-for-waistline-narrowing/)
 
 > What you are referring to would be known as rib reshaping by osteotomies as opposed to the more traditional rib removal procedure to make a more narrow rib cage. The rib as it extends from the spine and around the side of the body is composed of bone (from the spine out to about halfway around the side of the body) and then becomes softer cartilage as it extends to join the sternum. (ribs 10 through 12, also known as the ‘free floaters’ do not extend to the sternum…which turns out to be a very important point in this discussion) If the rib is osteotomized (cut) at the bone-cartilage junction, the cartilaginous end would be more bendable and theoretically could be molded inward as it heals for a more narrow waistline with after surgery binding. This would only apply to the free floating ribs which do not have an attached end. It would not work for any higher ribs because they have a complete arc around the body with a fixed point to the sternum.
 >
@@ -161,7 +161,7 @@ According to Dr. Barry Eppley in [Is Rib Reshaping Better Than Rib Removal For W
 
 ## Mexico
 
-### Felix Omar Marquez Villalobos 
+### Felix Omar Marquez Villalobos
 
 Also known as "Dr. Guadalajara"
 
@@ -483,7 +483,7 @@ reddit
 
 <br />
 
-## Kimura 
+## Kimura
 
 Location
 
@@ -596,7 +596,7 @@ https://ladisten.com/en/services/operatsiya-po-umensheniyu-rosta/
 
 Location
 
-* Istanbul, Turkey 
+* Istanbul, Turkey
 
 Surgeons sites
 
@@ -639,7 +639,7 @@ reddit
 
 Papers
 
-* 2020 - [Cosmetic stature lengthening](https://online.boneandjoint.org.uk/doi/full/10.1302/2046-3758.97.BJR-2019-0379.R1) by 
+* 2020 - [Cosmetic stature lengthening](https://online.boneandjoint.org.uk/doi/full/10.1302/2046-3758.97.BJR-2019-0379.R1) by
 Yousef Marwan, Dan Cohen, Mohammed Alotaibi, Abdullah Addar, Mitchell Bernstein, Reggie Hamdy
 
 Other
@@ -687,7 +687,7 @@ reddit
 
 Susans
 
-* [feminizing enameloplasty](https://www.susans.org/forums/index.php/topic,191473.0.html) by ainsley in 2015 
+* [feminizing enameloplasty](https://www.susans.org/forums/index.php/topic,191473.0.html) by ainsley in 2015
 
 https://pagesix.com/2015/05/04/bruce-jenner-needs-dental-reassignment-surgery/ - *"Dr. Gerry Curatola, the Park Avenue cosmetic dentist, said the two genders are as dissimilar in their smiles as they are below the belt."*  and *"“I often have female patients come in with masculine teeth, and male patients who have feminine teeth,” Curatola said. “I do dental reassignment without the surgery.”"*
 

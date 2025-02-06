@@ -96,7 +96,7 @@ Other
 
 * https://www.strandsfortrans.com
 * https://www.welcomehere.org.au
- 
+
 
 <br />
 
@@ -207,7 +207,7 @@ Australian Facebook groups
 
 * [Transgender/Gender Diverse Neurodiversity Squad Australia](https://www.facebook.com/groups/transneurodiversitysquadaus/) - *"This is a place for transgender and gender diverse people who are autistic, have ADHD or other neurodiverse conditions AND live in the country known as Australia."*
 * [TransFolk of Western Australia](https://www.facebook.com/TransFolkofWA) - *"TransFolk of WA is a support service for trans and gender diverse people and their loved ones in Western Australia."*
-* [Transgender Surgery Australia NZ - FFS Facial Feminisation Surgery, GCS](https://www.facebook.com/groups/TransSurgeryANZ/)  
+* [Transgender Surgery Australia NZ - FFS Facial Feminisation Surgery, GCS](https://www.facebook.com/groups/TransSurgeryANZ/)
 * [Aussie FTM 🇦🇺](https://www.facebook.com/groups/304230233317557/)
 * [NovaTrue - Trans and Gender Diverse Health and Social Advocacy](https://www.facebook.com/groups/NovaTrue/) - *"Born from the mysterious resignation of prominent endocrinologist Dr Jon Hayes, a pioneer of transgender medicine, NovaTrue seeks to advocate for better healthcare and social progress for trans and gender diverse peeps"*
 * https://www.facebook.com/TransgenderTasmania - *"Transgender Tasmania's mission is to provide events, forums and resources for the transgender community and their friends and family."*
@@ -286,11 +286,11 @@ reddit
 * [How are trans people treated in Australia?](https://www.reddit.com/r/transgenderau/comments/qfq7q8/how_are_trans_people_treated_in_australia/) by ChalcedonyCat in 2021
 * [SOme questions from someone trans who wants to hopefully migrate to Australia.](https://www.reddit.com/r/transgenderau/comments/jhheex/some_questions_from_someone_trans_who_wants_to/) by jfkmathrowaway in 2020
 * [What's it like to transition in Australia?](https://www.reddit.com/r/transgenderau/comments/jgs6r4/whats_it_like_to_transition_in_australia/) by darkangel2881 in 2020
- 
+
 Australian Government - Services Australia
 
 * [Visiting from the United Kingdom](https://www.servicesaustralia.gov.au/reciprocal-health-care-agreements-visiting-from-united-kingdom?context=22481) - If you’re visiting Australia from the United Kingdom you may be eligible for medical care under Medicare while you’re here.
- 
+
 
 <br />
 

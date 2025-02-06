@@ -66,7 +66,7 @@ reddit
     * [3 Years post op with Dr Ley, the journey of wound dehiscence, Ehlers-Danlos and acceptance](https://www.reddit.com/r/Transgender_Surgeries/comments/drv16a/3_years_post_op_with_dr_ley_the_journey_of_wound/) by Throwsawayfortacos in 2019
     * [Dr. Ley, 8 weeks post op, stage 2 recovery pics](https://www.reddit.com/r/Transgender_Surgeries/comments/hoz50c/dr_ley_8_weeks_post_op_stage_2_recovery_pics/) by Throwsawayfortacos in 2020
     * [3 Years post op with Dr Ley, the journey of wound dehiscence, Ehlers-Danlos and acceptance](https://www.reddit.com/r/Transgender_Surgeries/comments/drv16a/3_years_post_op_with_dr_ley_the_journey_of_wound/) by Throwsawayfortacos in 2019
-    * [NSFW Post op 6.5 months, final update](https://www.reddit.com/r/MtF/comments/6f8k63/nsfw_post_op_65_months_final_update/) by Throwsawayfortacos around 2017, photo's [here](http://imgur.com/0WGApXZ) and [here](https://imgur.com/a/d33Dz). 
+    * [NSFW Post op 6.5 months, final update](https://www.reddit.com/r/MtF/comments/6f8k63/nsfw_post_op_65_months_final_update/) by Throwsawayfortacos around 2017, photo's [here](http://imgur.com/0WGApXZ) and [here](https://imgur.com/a/d33Dz).
 * [Is the yellowing normal? This looks like it's falling apart in a bad way and I'm scared 😰](https://www.reddit.com/r/Transgender_Surgeries/comments/u7pui4/is_the_yellowing_normal_this_looks_like_its/) by jagans444 in 2022
 * [Loving my new pussy! I've already gotten through all my dilators. This is my biggest dildo- 1.75" thick!](https://www.reddit.com/r/PostOpTrans/comments/parn4m/loving_my_new_pussy_ive_already_gotten_through/) by TOTALLYNOTJUSTP0RN in 2021
 * [4 year post op penile inversion Meltzer/Ley in Arizona. NSFW PHOTO](https://www.reddit.com/r/Transgender_Surgeries/comments/lsavox/4_year_post_op_penile_inversion_meltzerley_in/) by TemporarilyEG in 2021
@@ -292,12 +292,12 @@ reddit
     * [Post Op 3 9/2 Wittenberg 23 days post op](https://www.reddit.com/r/Transgender_Surgeries/comments/iljhgx/post_op_3_92_wittenberg_23_days_post_op/) by notyourdonut in 2020
     * [Post Op 2 Wittenberg 8/26, 16 days post op](https://www.reddit.com/r/Transgender_Surgeries/comments/ih88y7/post_op_2_wittenberg_826_16_days_post_op/) by notyourdonut in 2020
     * [What is this ooze and will I end up with scars or holes in my vulva?](https://www.reddit.com/r/Transgender_Surgeries/comments/iel4rc/what_is_this_ooze_and_will_i_end_up_with_scars_or/) by notyourdonut in 2020
-    * [After SRS, when did swelling peak for you?](https://www.reddit.com/r/Transgender_Surgeries/comments/ic8bl3/after_srs_when_did_swelling_peak_for_you/) by notyourdonut in 2020 
+    * [After SRS, when did swelling peak for you?](https://www.reddit.com/r/Transgender_Surgeries/comments/ic8bl3/after_srs_when_did_swelling_peak_for_you/) by notyourdonut in 2020
     * [SRS with Wittenberg first post op update](https://www.reddit.com/r/Transgender_Surgeries/comments/iblwz4/srs_with_wittenberg_first_post_op_update/) by notyourdonut in 2020
     * [SRS Wittenberg 8/10/20 with updates and AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/i6qu4b/srs_wittenberg_81020_with_updates_and_ama/) by notyourdonut in 2020
 * [Dr. Wittenberg, 5mo](https://www.reddit.com/r/Transgender_Surgeries/comments/hpmf1u/dr_wittenberg_5mo/) by TranThrowawayy in 2020
     * [PPT with Dr. Wittenberg, 4mo](https://www.reddit.com/r/Transgender_Surgeries/comments/gzrqvc/ppt_with_dr_wittenberg_4mo/) by TranThrowawayy in 2020
-    * [So happy to see this between my legs every day](https://www.reddit.com/r/manmadepussy/comments/go3sil/so_happy_to_see_this_between_my_legs_every_day/) by TranThrowawayy in 2020 
+    * [So happy to see this between my legs every day](https://www.reddit.com/r/manmadepussy/comments/go3sil/so_happy_to_see_this_between_my_legs_every_day/) by TranThrowawayy in 2020
     * [Dr. Wittenberg Peritoneal Pull-through, 3.5 weeks](https://www.reddit.com/r/Transgender_Surgeries/comments/ff7r2x/dr_wittenberg_peritoneal_pullthrough_35_weeks/) by TranThrowawayy in 2020
 * [Dr. Wittenberg 6 months](https://www.reddit.com/r/Transgender_Surgeries/comments/hszu24/dr_wittenberg_6_months/) by anon64992 in 2020
     * [Dr. Wittenberg 13 weeks/3 months](https://www.reddit.com/r/Transgender_Surgeries/comments/fxhjmt/dr_wittenberg_13_weeks3_months/) by anon64992 in 2020
@@ -307,7 +307,7 @@ reddit
     * [Dr. Wittenberg 3 weeks post-op: graduation day!](https://www.reddit.com/r/Transgender_Surgeries/comments/evr29j/dr_wittenberg_3_weeks_postop_graduation_day/) by  anon64992 in 2020
     * [Dr. Wittenberg 2nd post-op: some swelling, but she was happy with my healing and minimal separation.](https://www.reddit.com/r/Transgender_Surgeries/comments/esgv8e/dr_wittenberg_2nd_postop_some_swelling_but_she/) by anon64992 in 2020
     * [Dr. Wittenberg 1 week post-op. Posting here since it's not as pretty of a picture as last week.](https://www.reddit.com/r/Transgender_Surgeries/comments/epfykb/dr_wittenberg_1_week_postop_posting_here_since/) by anon64992 in 2020
-    * [Just had surgery on Tuesday with Dr. Heidi Wittenberg in Sam Francisco, California. Here's a pic immediately following the operation. Will share future ones as well.](https://www.reddit.com/r/manmadepussy/comments/emlq9p/just_had_surgery_on_tuesday_with_dr_heidi/) by anon64992 in 2020  
+    * [Just had surgery on Tuesday with Dr. Heidi Wittenberg in Sam Francisco, California. Here's a pic immediately following the operation. Will share future ones as well.](https://www.reddit.com/r/manmadepussy/comments/emlq9p/just_had_surgery_on_tuesday_with_dr_heidi/) by anon64992 in 2020
 * [Do any of y’all feel uncomfortable with signing an arbitration agreement for SRS (Wittenberg/MoZaic) even before consultation?](https://www.reddit.com/r/Transgender_Surgeries/comments/k410wp/do_any_of_yall_feel_uncomfortable_with_signing_an/) by mfgoose in 2020
 * [Dr. McGinn Consult Write-Up and Why I'm Planning on Switching (Warning: Long)](https://www.reddit.com/r/Transgender_Surgeries/comments/jlio53/dr_mcginn_consult_writeup_and_why_im_planning_on/) by Forgetwhatitoldyou in 2020
 * [OptionalJoystick Penile Preservation Vaginoplasty 10/13/2020 - post op pics & discussion](https://www.reddit.com/r/salmacian/comments/jl97in/optionaljoystick_penile_preservation_vaginoplasty/) by Optional_Joystick in 2020
@@ -385,7 +385,7 @@ reddit posts by the_weird_stuff
     * [Penile-Preserving, Laproscopic Peritoneal-Pullthrough GCS with Dr. Heidi Wittenberg, Post-Op Week 6](https://www.reddit.com/r/Transgender_Surgeries/comments/dh72yg/penilepreserving_laproscopic/) by the_weird_stuff in 2019
     * [Penile-Preserving, Laproscopic Peritoneal-Pullthrough GCS with Dr. Heidi Wittenberg, Post-Op Week 5](https://www.reddit.com/r/Transgender_Surgeries/comments/dd3f84/penilepreserving_laproscopic/) by the_weird_stuff in 2019
     * [Penile-Preserving, Laproscopic Peritoneal-Pullthrough GCS with Dr. Heidi Wittenberg, Post-Op Week 4/Month 1](https://www.reddit.com/r/Transgender_Surgeries/comments/d9w8cl/penilepreserving_laproscopic/) by the_weird_stuff in 2019
-    * [Penile-Preserving, Laproscopic Peritoneal-Pullthrough GCS with Dr. Heidi Wittenberg, Post-Op Week 3](https://www.reddit.com/r/Transgender_Surgeries/comments/d736js/penilepreserving_laproscopic/) by the_weird_stuff in 2019 
+    * [Penile-Preserving, Laproscopic Peritoneal-Pullthrough GCS with Dr. Heidi Wittenberg, Post-Op Week 3](https://www.reddit.com/r/Transgender_Surgeries/comments/d736js/penilepreserving_laproscopic/) by the_weird_stuff in 2019
     * [Penile-Preserving, Laproscopic Peritoneal-Pullthrough GCS with Dr. Heidi Wittenberg, Post-Op Week 2](https://www.reddit.com/r/Transgender_Surgeries/comments/d3coww/penilepreserving_laproscopic/) by the_weird_stuff in 2019
     * [AMA! Penile-Preserving, Laproscopic Peritoneal-Pullthrough GCS with Dr. Heidi Wittenberg, Post-Op Week 1](https://www.reddit.com/r/Transgender_Surgeries/comments/d04clz/ama_penilepreserving_laproscopic/) by the_weird_stuff in 2019
     * [FYI: Penile-Preserving, Laproscopic Peritoneal-Pullthrough GCS with Dr. Heidi Wittenberg in a month-ish](https://www.reddit.com/r/Transgender_Surgeries/comments/chxntq/fyi_penilepreserving_laproscopic/) by the_weird_stuff in 2019
@@ -431,7 +431,7 @@ reddit
 * [After my first pre-op](https://www.reddit.com/r/Transgender_Surgeries/comments/1cc8vdx/after_my_first_preop/) by ejectafteruse in 2024
     * [Today was surgery day](https://www.reddit.com/r/Transgender_Surgeries/comments/1c5y03f/today_was_surgery_day/) by ejectafteruse in 2024
 * [5 days post op and im obsessed with the result!!!](https://www.reddit.com/r/Transgender_Surgeries/comments/1epewul/5_days_post_op_and_im_obsessed_with_the_result/) by Unlikely-Cook9494 in 2024
-    * [Peritoneal pull-through vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/1emmhpn/peritoneal_pullthrough_vaginoplasty/) by Unlikely-Cook9494 in 2024 - surgeons Adam Bonnington and Heidi Wittenberg 
+    * [Peritoneal pull-through vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/1emmhpn/peritoneal_pullthrough_vaginoplasty/) by Unlikely-Cook9494 in 2024 - surgeons Adam Bonnington and Heidi Wittenberg
 * [Bonnington PPT Minimal Depth Vaginoplasty - 6 months](https://www.reddit.com/r/Transgender_Surgeries/comments/18dthmj/bonnington_ppt_minimal_depth_vaginoplasty_6_months/) by Kuroi_yasha in 2023
     * [Minimal Depth PPT Vaginoplasty (8 weeks post op)](https://www.reddit.com/r/Transgender_Surgeries/comments/15jwljq/minimal_depth_ppt_vaginoplasty_8_weeks_post_op/) by Kuroi_yasha in 2023
     * [Dr. Bonnington PPT (minimal Depth) 5 weeks post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/14yt0vn/dr_bonnington_ppt_minimal_depth_5_weeks_postop/) by Kuroi_yasha in 2023
@@ -508,7 +508,7 @@ reddit
 * [Nearly 8 weeks out from my SRS with Dr. Marci Bowers. What do ya think?](https://www.reddit.com/r/Transgender_Surgeries/comments/pvwvoz/nearly_8_weeks_out_from_my_srs_with_dr_marci/) by AKsandfire in 2021
 * [⚠️Marci Bowers and her ghosting/medical neglect tendencies (big ol trigger warning)](https://www.reddit.com/r/Transgender_Surgeries/comments/16opvts/marci_bowers_and_her_ghostingmedical_neglect/) by AlaynasChoppy in 2023
     * [3 weeks post op labiaplasty revision with Ellie Zara Ley (Super long post with lots of information/timeline photos coming soon™)](https://www.reddit.com/r/Transgender_Surgeries/comments/16f90oi/3_weeks_post_op_labiaplasty_revision_with_ellie/) by AlaynasChoppy in 2023 - *"This last year has been a nightmare and the only thing that kept me going was trying to get to the other side of things so I could share my story with other people someday. It's really surreal finally having my bits look the way I imagined"*
-    * [Looking for advice regarding surgeons for a revision (McGinn, Min Jun, Bowers, Whittenberg, Gurjala, ect...)](https://www.reddit.com/r/Transgender_Surgeries/comments/vsce4u/looking_for_advice_regarding_surgeons_for_a/) by AlaynasChoppy in 2022 - *"This isn't supposed to be a "fuck Bowers" post, but after being told that my revision would be 2 and a half years out because they are booked, I decided that I want to at least consult with other surgeons."* 
+    * [Looking for advice regarding surgeons for a revision (McGinn, Min Jun, Bowers, Whittenberg, Gurjala, ect...)](https://www.reddit.com/r/Transgender_Surgeries/comments/vsce4u/looking_for_advice_regarding_surgeons_for_a/) by AlaynasChoppy in 2022 - *"This isn't supposed to be a "fuck Bowers" post, but after being told that my revision would be 2 and a half years out because they are booked, I decided that I want to at least consult with other surgeons."*
     * [looking for advice regarding surgeons for a revision, more info in comments](https://www.reddit.com/r/Transgender_Surgeries/comments/v3jcjm/looking_for_advice_regarding_surgeons_for_a/) by AlaynasChoppy in 2022
     * [little under 72 hours post op with Marci Bowers, swelling and bruising seem under control!](https://www.reddit.com/r/Transgender_Surgeries/comments/u0tme4/little_under_72_hours_post_op_with_marci_bowers/) by AlaynasChoppy in 2022
     * [Quick Summary my first few days after GAV with Marci Bowers](https://www.reddit.com/r/Transgender_Surgeries/comments/u0vm6l/quick_summary_my_first_few_days_after_gav_with/) by AlaynasChoppy in 2022
@@ -530,7 +530,7 @@ reddit
 * [Photo at 11 weeks post OP Vaginoplasty with Marci Bowers. Very happy with my results so far! Feel free to ask me anything <3](https://www.reddit.com/r/Transgender_Surgeries/comments/gwjj0g/photo_at_11_weeks_post_op_vaginoplasty_with_marci/) by lucimadonna in 2020
 * [She’s having fun with hers](https://www.reddit.com/r/manmadepussy/comments/dtwukn/shes_having_fun_with_hers/) by Gwen543 in 2019 - porn star Reesa Noi, and apparently she was on MTV's "I Changed my Sex" with Marci Bowers. I don't know if this is correct.
 * [2 days post op](https://www.reddit.com/r/Transgender_Surgeries/comments/djxrs9/2_days_post_op/) by \_LGBLT\_ in 2019, photos [here](https://i.redd.it/klsz1se9set31.jpg)
-* [GRS/SRS (vaginoplasty) with Bowers several weeks ago, AMA; results/pictures included](https://www.reddit.com/r/asktransgender/comments/bfj62o/grssrs_vaginoplasty_with_bowers_several_weeks_ago/) by Aesrielle in 2019, photos [here](https://imgur.com/a/C6e2DJG), 
+* [GRS/SRS (vaginoplasty) with Bowers several weeks ago, AMA; results/pictures included](https://www.reddit.com/r/asktransgender/comments/bfj62o/grssrs_vaginoplasty_with_bowers_several_weeks_ago/) by Aesrielle in 2019, photos [here](https://imgur.com/a/C6e2DJG),
 * [1 Year GRS Recovery Timeline (CW: The first few pics are pretty gnarly) (NSFW)](https://www.reddit.com/r/transtimelines/comments/8evjds/1_year_grs_recovery_timeline_cw_the_first_few/) by MountainOfNight in 2018, photo's [here](https://imgur.com/a/iAY7G)
     * [Recently post-op trans girl- how'd I turn out? ](https://www.reddit.com/r/dykesgonewild/comments/6cbl4i/recently_postop_trans_girl_howd_i_turn_out/) by MountainOfNight around 2017
 * [\[NSFW\] Vaginoplasty Healing Progression GIF - 81 days](https://www.reddit.com/r/transtimelines/comments/78xarq/nsfw_vaginoplasty_healing_progression_gif_81_days/) in 2017, photo's [here](https://www.aliceferox.com/vaginoplasty-gallery), and her [vaginoplasty project](https://www.aliceferox.com/vaginoplasty-documentation-project/).
@@ -677,7 +677,7 @@ Sydney Morning Herald: [Natalie's new world: how gender reassignment is moving i
 
 Chapter 17, "Complications of MTF Vaginoplasty" by Allison S. Glass and Marci L. Bowers
 
-* [Management of gender dysphoria : a multidisciplinary approach](https://trove.nla.gov.au/work/199509859?q&versionId=218655499+222094601) by Carlo Trombetta, Giovanni Liguori, Michele Bertolotto, 
+* [Management of gender dysphoria : a multidisciplinary approach](https://trove.nla.gov.au/work/199509859?q&versionId=218655499+222094601) by Carlo Trombetta, Giovanni Liguori, Michele Bertolotto,
 
 Healio Endocrine Today
 
@@ -690,7 +690,7 @@ Marci Bowers does free consults in November each year (prior to covid) in Austra
 
 Dr Marci Bowers on Dr Kathy Rumer
 
-* https://www.instagram.com/p/CmN8WFQuqh6 - 
+* https://www.instagram.com/p/CmN8WFQuqh6 -
     * chasingchaucer *"Kathy Rumer and her abuses towards the trans community by NOT revoking her WPATH endorsement? Shame on you."*
         * marcibowers76 *"@chasingchaucer she is a huge problem. i have lobbied those with potential to address this through pennsylvania medical board but, as WPATH president, not in my jurisdiction. buyer beware"*
     * https://www.reddit.com/r/Transgender_Surgeries/comments/122mn92/grs_dr/jdyetpg/
@@ -999,7 +999,7 @@ reddit
 
 * [Many folks rely on Dr. Alexander Sinclair for gender-affirming care. His office assistant wants to leave him, and 12 other problems with the surgeon and staffer](https://www.reddit.com/r/TransSpace/comments/1d5g6xa/many_folks_rely_on_dr_alexander_sinclair_for/) by womancc in 2024 - refers to [medium article](https://medium.com/keep-fighting/dr-alexander-sinclairs-office-assistant-wants-to-leave-him-and-his-office-dealt-me-12-problems-5d14e2d5347a)
 * reply to [Colon vaginoplasty.](https://www.reddit.com/r/Transgender_Surgeries/comments/172q2tb/colon_vaginoplasty/k3ygfhq/) by Alternative-Body5491 in 2023 - *"I did mine with Alex Sinclaire. Please stay away from him... he is just god damn awful! He doesn’t know how to construct labia, both minora and majora. He destroyed my ability to orgasm and aesthetically, my vagina is not pleasing at all...  Sinclaire does not know how to construct labia for vaginas. He even has my facial feminization pictures on his website but they are completely photoshopped. My actual surgery does not look like that... I have not orgasmed in four years and I am on antidepressants for this loss."*
-* [Sexual Satisfaction After Gender Affirmation Surgery in Transgender Individuals](https://www.reddit.com/r/Transgender_Surgeries/comments/wafs9n/sexual_satisfaction_after_gender_affirmation/) by CureusJournal in 2022 
+* [Sexual Satisfaction After Gender Affirmation Surgery in Transgender Individuals](https://www.reddit.com/r/Transgender_Surgeries/comments/wafs9n/sexual_satisfaction_after_gender_affirmation/) by CureusJournal in 2022
 * [STUDY: Sexual Satisfaction After Gender Affirmation Surgery in Transgender Individuals](https://www.reddit.com/r/Transgender_Surgeries/comments/wacb0v/study_sexual_satisfaction_after_gender/) by PoolBubbly9271 in 2022
 * [some information about Alexander Sinclair, LA Care, & the LGBT Center](https://www.reddit.com/r/Transgender_Surgeries/comments/v31h8k/some_information_about_alexander_sinclair_la_care/) by yourlocaltransexual in 2022
 * [Orchiectomy with Dr. Kowalczyk (September 2021)](https://www.reddit.com/r/Transgender_Surgeries/comments/ruha6g/orchiectomy_with_dr_kowalczyk_september_2021/) by NoNutSeptember in 2022
@@ -1099,7 +1099,7 @@ In his 2016 paper [Men’s health and transgender surgery: a urologist’s persp
 Susans
 
 * [best personal lubrication for colon vagina. How many months to diolate?](https://www.susans.org/forums/index.php/topic,241954.0.html) by Lana E in 2018
-* [Dr. Maurice Garcia Results?](https://www.susans.org/forums/index.php/topic,236081.0.html) in 2018. On of the replies 
+* [Dr. Maurice Garcia Results?](https://www.susans.org/forums/index.php/topic,236081.0.html) in 2018. On of the replies
 
 YouTube
 
@@ -1319,7 +1319,7 @@ Surgeons sites
 reddit
 
 * [Dr. Virginia Lee](https://www.reddit.com/r/Transgender_Surgeries/comments/17zuuox/dr_virginia_lee/) by spidermonkeyfight in 2024
- 
+
 
 ### Daniel Rosenstein
 
@@ -1435,7 +1435,7 @@ The Globe and Mail
 
 See also the FFS page.
 
-There's a message on [their site](https://www.alignsurgical.com/) 
+There's a message on [their site](https://www.alignsurgical.com/)
 
 > The Align Surgical Team is thrilled to announce that Dr. Angela Rodriguez is joining our practice on May 3rd 2021!
 
@@ -1502,7 +1502,7 @@ reddit
     * [Do you want to fuck my ass or my pussy first?](https://www.reddit.com/r/GoneWildTrans/comments/14pfhpy/do_you_want_to_fuck_my_ass_or_my_pussy_first/) by Mundane-Winter-8935 in 2023
     * [So happy with my results. I can’t believe it’s been 2 months since I had my surgery with Dr Min Jun.](https://www.reddit.com/r/Transgender_Surgeries/comments/14o9qqu/so_happy_with_my_results_i_cant_believe_its_been/) by Mundane-Winter-8935 in 2023
     * [My pussy is 2 months old. PPT with Dr Min Jun.](https://www.reddit.com/r/Transgender_Surgeries/comments/14jr27h/my_pussy_is_2_months_old_ppt_with_dr_min_jun/) by Mundane-Winter-8935 in 2023
-    * [Almost 2 months. PPT with Dr Min Jun in San Francisco.](https://www.reddit.com/r/Transgender_Surgeries/comments/14hdg8v/almost_2_months_ppt_with_dr_min_jun_in_san/) by Mundane-Winter-8935 in 2023 
+    * [Almost 2 months. PPT with Dr Min Jun in San Francisco.](https://www.reddit.com/r/Transgender_Surgeries/comments/14hdg8v/almost_2_months_ppt_with_dr_min_jun_in_san/) by Mundane-Winter-8935 in 2023
     * [6 weeks post op, PPT with Dr Min Jun in San Francisco.](https://www.reddit.com/r/Transgender_Surgeries/comments/147ce3r/6_weeks_post_op_ppt_with_dr_min_jun_in_san/) by Mundane-Winter-8935 in 2023
     * [4 weeks post op. I had PPT with Dr Min Jun. I love how everything is looking and how healing has been going, I’ve had no pain or complications from surgery. I’m just waiting for these stitches to come out now.](https://www.reddit.com/r/Transgender_Surgeries/comments/13wgam5/4_weeks_post_op_i_had_ppt_with_dr_min_jun_i_love/) by Mundane-Winter-8935 in 2023
     * [17 days post op with Dr Min Jun, sorry I need to shave, but otherwise extremely happy with everything and how great healing has been going. I have my last post op on Tuesday, and then I get to finally head back home to Oregon after being away for a whole month.](https://www.reddit.com/r/Transgender_Surgeries/comments/13o4g6y/17_days_post_op_with_dr_min_jun_sorry_i_need_to/) by Mundane-Winter-8935 in 2023
@@ -1578,8 +1578,8 @@ in 2022
 * [Dr Min Jun 9 months post op today](https://www.reddit.com/r/Transgender_Surgeries/comments/uipue5/dr_min_jun_9_months_post_op_today/) by vfintero64 in 2022
     * [So hello 💕 today is 6 months post op](https://www.reddit.com/r/Transgender_Surgeries/comments/sl0pka/so_hello_today_is_6_months_post_op/) by vfintero64 in 2022
 * [12 Weeks - PPT w/ Dr. Min Jun](https://www.reddit.com/r/Transgender_Surgeries/comments/u2fwne/12_weeks_ppt_w_dr_min_jun/) by  Peritoneal-scratch in 2022
-    * [Dr. Min Jun, 6-7 Weeks](https://www.reddit.com/r/Transgender_Surgeries/comments/t91bv8/dr_min_jun_67_weeks/) Peritoneal-scratch in 2022 
-    * [15 Days - PPT w/Dr. Min Jun](https://www.reddit.com/r/Transgender_Surgeries/comments/sjqt24/15_days_ppt_wdr_min_jun/) Peritoneal-scratch in 2022 
+    * [Dr. Min Jun, 6-7 Weeks](https://www.reddit.com/r/Transgender_Surgeries/comments/t91bv8/dr_min_jun_67_weeks/) Peritoneal-scratch in 2022
+    * [15 Days - PPT w/Dr. Min Jun](https://www.reddit.com/r/Transgender_Surgeries/comments/sjqt24/15_days_ppt_wdr_min_jun/) Peritoneal-scratch in 2022
     * [7 Days - PPT Dr. Min Jun](https://www.reddit.com/r/Transgender_Surgeries/comments/scw5s3/7_days_ppt_dr_min_jun/) by Peritoneal-scratch in 2022
     * [PPT Dr. Jun, Day 1 & 2](https://www.reddit.com/r/Transgender_Surgeries/comments/s9dtp4/ppt_dr_jun_day_1_2/) by Peritoneal-scratch in 2022
 * [119 days post op from robotic assisted peritoneal flap vaginoplasty with Dr. Min Jun at the Crane Center in San Francisco… AMA!](https://www.reddit.com/r/Transgender_Surgeries/comments/t0qzg4/119_days_post_op_from_robotic_assisted_peritoneal/) by itsmischadee in 2022
@@ -1596,7 +1596,7 @@ in 2022
 reddit
 
 * [Dr. Min Jun leaving Crane Center](https://www.reddit.com/r/Transgender_Surgeries/comments/14vygm8/dr_min_jun_leaving_crane_center/) by usrbinkat in 2023
-* [Dr. Min Jun Under Investigation By California Medical Board](https://www.reddit.com/r/MtF/comments/13pvnde/dr_min_jun_under_investigation_by_california/) by april6055 in 2023 
+* [Dr. Min Jun Under Investigation By California Medical Board](https://www.reddit.com/r/MtF/comments/13pvnde/dr_min_jun_under_investigation_by_california/) by april6055 in 2023
     * [Dr. Min Jun Under Investigation By California Medical Board](https://www.reddit.com/r/Transgender_Surgeries/comments/13psilp/dr_min_jun_under_investigation_by_california/) by april6055 in 2023
     * [Dr. Min Jun Made Me Feel Ashamed of My Body](https://www.reddit.com/r/MtF/comments/131b7dx/dr_min_jun_made_me_feel_ashamed_of_my_body/) by april6055 in 2023
     * [Dr. Min Jun Made Me Feel Ashamed of My Body](https://www.reddit.com/r/Transgender_Surgeries/comments/12zhtft/dr_min_jun_made_me_feel_ashamed_of_my_body/) by april6055 in 2023
@@ -1641,7 +1641,7 @@ Vice
 
 YouTube
 
-* [Genital Gender Affirmation Surgery w/ Dr. Richard Santucci | BackTable Urology Podcast Ep. 75](https://www.youtube.com/watch?v=dl122PG0HJo) by 
+* [Genital Gender Affirmation Surgery w/ Dr. Richard Santucci | BackTable Urology Podcast Ep. 75](https://www.youtube.com/watch?v=dl122PG0HJo) by
 BackTable Urology Podcast in 2023
 
 <br />
@@ -2106,7 +2106,7 @@ https://murderpedia.org/male.B/b/brown-john-ronald.htm
 
 YouTube
 
-* [DR. BUTCHER BROWN | Makeup and Queerstory | WORST Transgender SRS Surgeon in QUEER HISTORY](https://www.youtube.com/watch?v=5_72Z-xIAfY) by 
+* [DR. BUTCHER BROWN | Makeup and Queerstory | WORST Transgender SRS Surgeon in QUEER HISTORY](https://www.youtube.com/watch?v=5_72Z-xIAfY) by
 Victoria Rose in 2020 (note, the discussion about about Suporn and Brown having similar methods is completely wrong)
 
 <br />
@@ -2199,8 +2199,8 @@ Surgeons sites
 
 reddit
 
-* [PI Vaginoplasty - Dr. Hyer (Denver Health). 6 Weeks Post-Op](https://www.reddit.com/r/Transgender_Surgeries/comments/1dat4uv/pi_vaginoplasty_dr_hyer_denver_health_6_weeks/) by bottomsurgery2024 in 2024 
-    * [PI Vaginoplasty - Dr. Hyer (Denver Health). 5 Weeks Post-Op](https://www.reddit.com/r/Transgender_Surgeries/comments/1dat3tt/pi_vaginoplasty_dr_hyer_denver_health_5_weeks/) by bottomsurgery2024 in 2024 
+* [PI Vaginoplasty - Dr. Hyer (Denver Health). 6 Weeks Post-Op](https://www.reddit.com/r/Transgender_Surgeries/comments/1dat4uv/pi_vaginoplasty_dr_hyer_denver_health_6_weeks/) by bottomsurgery2024 in 2024
+    * [PI Vaginoplasty - Dr. Hyer (Denver Health). 5 Weeks Post-Op](https://www.reddit.com/r/Transgender_Surgeries/comments/1dat3tt/pi_vaginoplasty_dr_hyer_denver_health_5_weeks/) by bottomsurgery2024 in 2024
     * [PI Vaginoplasty - Dr. Hyer (Denver Health). 4 Weeks Post-Op](https://www.reddit.com/r/Transgender_Surgeries/comments/1dasp26/pi_vaginoplasty_dr_hyer_denver_health_4_weeks/) by bottomsurgery2024 in 2024
     * [PI Vaginoplasty - Dr. Hyer (Denver Health). 3 Weeks Post-Op](https://www.reddit.com/r/Transgender_Surgeries/comments/1d7nv59/pi_vaginoplasty_dr_hyer_denver_health_3_weeks/) by bottomsurgery2024 in 2024
     * [PI Vaginoplasty - Dr. Hyer (Denver Health). Week 2 Post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1d7nsh7/pi_vaginoplasty_dr_hyer_denver_health_week_2_post/) by bottomsurgery2024 in 2024
@@ -2295,7 +2295,7 @@ reddit
     * [I Had GRS at Denver Health Hospital Last Week, AMA!](https://www.reddit.com/r/MtF/comments/bdc44f/i_had_grs_at_denver_health_hospital_last_week_ama/) by ZestyChinchilla in 2019
 * [2 weeks post op for GRS at Denver health *OFF PAIN MEDS* AMA](https://www.reddit.com/r/asktransgender/comments/b7frrq/2_weeks_post_op_for_grs_at_denver_health_off_pain/) by Cleritic in 2019
 
-Denver Health 
+Denver Health
 
 * [Comfortable in My Own Skin](https://www.denverhealth.org/services/lgbt-services/patient-stories/comfortable-in-my-own-skin) in 2019
 * [Dr. Marci Bowers Returns to Denver Health to Expand Female to Male and Male to Female Transgender Surgery](https://www.denverhealth.org/news/2019/02/gender-confirmation-surgeon-marci-bowers-returns-to-denver-health) in 2019
@@ -2310,7 +2310,7 @@ Surgeons sites
 
 * https://www.denverhealth.org/provider-directory/d/donalisio-da-silva-rodrigo
 
-Denver Health 
+Denver Health
 
 * [Dr. Marci Bowers Returns to Denver Health to Expand Female to Male and Male to Female Transgender Surgery](https://www.denverhealth.org/news/2019/02/gender-confirmation-surgeon-marci-bowers-returns-to-denver-health) in 2019
 
@@ -2623,7 +2623,7 @@ reddit
 * [Vaginoplasty (penile inversion) with Dr. John Brosious in Las Vegas, Nevada (recovery).](https://www.reddit.com/r/Transgender_Surgeries/comments/1528w9o/vaginoplasty_penile_inversion_with_dr_john/) by Logical_Boss_1310 in 2023
     * [Vaginoplasty (penile inversion) with Dr. John Brosious in Las Vegas, Nevada.](https://www.reddit.com/r/Transgender_Surgeries/comments/1528m8s/vaginoplasty_penile_inversion_with_dr_john/) by Logical_Boss_1310 in 2023
 * [3 weeks post op , have some painful dehiscence that heals soon hopefully, but how to deal with post-op depression?](https://www.reddit.com/r/Transgender_Surgeries/comments/zm0t11/3_weeks_post_op_have_some_painful_dehiscence_that/) by Real_Lychee4987 in 2022
-    * [Dilators](https://www.reddit.com/r/Transgender_Surgeries/comments/z6c2po/dilators/) by Real_Lychee4987 in 2022 - *"I don’t have the regular plastic dilators that most girls have , I have pink ones which don’t seem that big in my opinion"* 
+    * [Dilators](https://www.reddit.com/r/Transgender_Surgeries/comments/z6c2po/dilators/) by Real_Lychee4987 in 2022 - *"I don’t have the regular plastic dilators that most girls have , I have pink ones which don’t seem that big in my opinion"*
     * [Day 3 of recovery](https://www.reddit.com/r/Transgender_Surgeries/comments/z0aa2z/day_3_of_recovery/) by Real_Lychee4987 in 2022
 
 YouTube
@@ -2765,7 +2765,7 @@ reddit
 
 ## Geolani Widjaja Dy
 
-Location 
+Location
 
 * Portland, Oregon
 
@@ -2954,7 +2954,7 @@ reddit
     * [Muscle Spasms around the vulva 3-4 weeks after SRS MTF](https://www.reddit.com/r/Transgender_Surgeries/comments/uggguc/muscle_spasms_around_the_vulva_34_weeks_after_srs/) by womanofkemay in 2022
 * [Dr. Esmonde Portland BA and Orchi](https://www.reddit.com/r/Transgender_Surgeries/comments/qnzv1l/dr_esmonde_portland_ba_and_orchi/) by eavalos15 in 2021
 * [Vulvoplasty (Dr. Nick Esmonde - Meltzer Clinic)](https://www.reddit.com/r/Transgender_Surgeries/comments/qb8n6c/vulvoplasty_dr_nick_esmonde_meltzer_clinic/) by zoeysaurusrex in 2021
- 
+
 Other
 
 * https://www.npinumberlookup.org/nick-esmonde-portland-or-1477973386
@@ -3032,7 +3032,7 @@ reddit
 
 * [Bladder problems after vaginoplasty, need advice](https://www.reddit.com/r/Transgender_Surgeries/comments/1btd3vc/bladder_problems_after_vaginoplasty_need_advice/) by MyDishwasherLasagna - *"I had my vaginoplasty in 2022. Ever since, I am constantly leaking urine. It's only a small leak but overtime it adds up, and I'm tired of smelling like piss. The hospital I had my surgery at are not at all helpful. I go in for one thing, and they focus on something else. I have to wait months between appointments, and still not get any answers. When they told me they'd have me scheduled for a revision surgery last summer, they didn't get around to doing so until January, and told me it wouldn't be until next year because by the time they got around to scheduling me, the 2024 OR calendar was booked."*
 * [Thoughts on this vaginoplasty consultation?](https://old.reddit.com/r/Transgender_Surgeries/comments/18qilz0/thoughts_on_this_vaginoplasty_consultation/) by Estellabella2 in 2023 - surgeons Isak Goodwin & Cori Agarwal
- 
+
 
 YouTube
 
@@ -3078,7 +3078,7 @@ Susans
 
 YouTube
 
-* [BiCities! #274 Ejay Jack and Dr. Nicholas Kim: U of M Health Comprehensive Gender Care](https://www.youtube.com/watch?v=BeRaQeqfMyQ) by 
+* [BiCities! #274 Ejay Jack and Dr. Nicholas Kim: U of M Health Comprehensive Gender Care](https://www.youtube.com/watch?v=BeRaQeqfMyQ) by
 Bi Cities! in 2019
 
 Other
@@ -3137,7 +3137,7 @@ reddit
 
 ## University of Utah
 
-## Isak Aaron Goodwin, James Hotaling, and Jeremy Myers 
+## Isak Aaron Goodwin, James Hotaling, and Jeremy Myers
 
 See the entry for James Hotaling.
 

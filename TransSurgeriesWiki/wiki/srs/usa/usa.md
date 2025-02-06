@@ -227,7 +227,7 @@ Using [this map](https://www.50states.com/city/regions.htm).
 * <span class="internal">[Montana](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md#montana)</span>
     * Jeffrey Devin Redshaw
 * <span class="internal">[Nebraska](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-midwest/usa-midwest.md#nebraska)</span>
-    * John Habib Bishay  
+    * John Habib Bishay
 * <span class="internal">[Nevada](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-west/usa-west.md#nevada)</span>
     * John Brosious
     * Casey McCraw
@@ -319,7 +319,7 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Nicholas Kim
     * Jeremy Myers
     * Benjamin J. McCormick
-    * Cori A. Agarwal 
+    * Cori A. Agarwal
 * <span class="internal">[Vermont](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#vermont)</span>
     * *none*
 * <span class="internal">[Virginia](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#virginia)</span>

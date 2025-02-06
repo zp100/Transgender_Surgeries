@@ -202,7 +202,7 @@ YouTube
 
 See also the FFS page.
 
-Location 
+Location
 
 * Detroit
 
@@ -311,9 +311,9 @@ YouTube
 
 ---
 
-## Mark Sam Courey 
+## Mark Sam Courey
 
-Location 
+Location
 
 * NYC
 
@@ -447,7 +447,7 @@ reddit
 * [So I am going to try this again, hopefully this is more helpful for anyone considering VFS. 5 weeks post op with Dr. Thomas. Before and After.](https://www.reddit.com/r/transvoice/comments/9shkt9/so_i_am_going_to_try_this_again_hopefully_this_is/) by letmepickthisusernam in 2018
 * [Before/After VFS](https://www.reddit.com/r/MtF/comments/9l2hkw/beforeafter_vfs/) by transanita in 2018
 * [The 6 woman-affirming surgeries I have had, their pain levels & obstacles](https://www.reddit.com/r/Transgender_Surgeries/comments/94nn1e/the_6_womanaffirming_surgeries_i_have_had_their/) by truetrans in 2018
-* [10 weeks Post Op with Dr. Thomas (lanyngoplasty aka voice box reconstruction).](https://www.reddit.com/r/transvoice/comments/83k0y0/10_weeks_post_op_with_dr_thomas_lanyngoplasty_aka/) by truetrans in 2018 
+* [10 weeks Post Op with Dr. Thomas (lanyngoplasty aka voice box reconstruction).](https://www.reddit.com/r/transvoice/comments/83k0y0/10_weeks_post_op_with_dr_thomas_lanyngoplasty_aka/) by truetrans in 2018
 * [6 Month Post Op - Voice Surgery Dr. Thomas, Portland](https://www.reddit.com/r/transvoice/comments/8vx4rj/6_month_post_op_voice_surgery_dr_thomas_portland/) by truetrans in 2018
 * [Can anyone provide an overview of Voice Feminization Surgeons?](https://www.reddit.com/r/asktransgender/comments/4kbrai/can_anyone_provide_an_overview_of_voice/)
 * [10 weeks Post Op with Dr. Thomas (lanyngoplasty aka voice box reconstruction).](https://www.reddit.com/r/transvoice/comments/83k0y0/10_weeks_post_op_with_dr_thomas_lanyngoplasty_aka/)

@@ -89,7 +89,7 @@ The authors of [Garnett 1990](https://www.ncbi.nlm.nih.gov/pubmed/2223683) follo
 
 John Studd says [on his website](https://www.studd.co.uk/implants.php) in 2020 of in relation to high levels and tachyphylaxis
 
-> ... There would rarely be an indication for repeat implant if the oestradiol levels are above 1000 pmol but sometimes women with convincing oestrogen responsive depression need even higher oestradiol levels and a repeat implant should not, after very careful consideration, be prohibited. *It is wrong to deny women further oestrogen therapy thus making them suffer many months or years of symptoms, particularly depression, anxiety and loss of energy.* 
+> ... There would rarely be an indication for repeat implant if the oestradiol levels are above 1000 pmol but sometimes women with convincing oestrogen responsive depression need even higher oestradiol levels and a repeat implant should not, after very careful consideration, be prohibited. *It is wrong to deny women further oestrogen therapy thus making them suffer many months or years of symptoms, particularly depression, anxiety and loss of energy.*
 
 [Klaiber 1979](https://www.ncbi.nlm.nih.gov/pubmed/219802) is an early study on the effects of estrogen using very high doses of [Premarin](https://en.wikipedia.org/wiki/Conjugated_estrogens). Note that Premarin is far more dangerous than modern bio-identical estrogens and has not been recommended for transition for many years due to the significant risks it carries.
 
@@ -166,7 +166,7 @@ Articles on antidepressant risks in Psychology Today ([wikipedia entry](https://
 
 Riskx
 
-* [Post-SSRI Sexual Dysfunction](https://rxisk.org/post-ssri-sexual-dysfunction-pssd/) in 2021 - *"Commonly used SSRIs include paroxetine (Paxil, Seroxat), fluoxetine (Prozac), sertraline (Zoloft), citalopram (Celexa), escitalopram (Lexapro), and vortioxetine (Trintellix). Common SNRIs include venlafaxine (Effexor), desvenlafaxine (Pristiq) and duloxetine (Cymbalta). 
+* [Post-SSRI Sexual Dysfunction](https://rxisk.org/post-ssri-sexual-dysfunction-pssd/) in 2021 - *"Commonly used SSRIs include paroxetine (Paxil, Seroxat), fluoxetine (Prozac), sertraline (Zoloft), citalopram (Celexa), escitalopram (Lexapro), and vortioxetine (Trintellix). Common SNRIs include venlafaxine (Effexor), desvenlafaxine (Pristiq) and duloxetine (Cymbalta).
 Post-SSRI sexual dysfunction (PSSD) is an iatrogenic condition which can arise following antidepressant use, in which sexual function does not completely return to normal after the discontinuation of SSRIs, SNRIs and some tricyclic antidepressants. Some patients develop sexual side effects on antidepressants which either remain in full or don’t resolve completely when the drug is stopped. For others, the condition only appears when they stop the medication or begin to reduce the dosage. PSSD affects both men and women. It can happen after only a few days exposure to an antidepressant and can persist for months, years, or indefinitely. There is no known cure."*
 
 References

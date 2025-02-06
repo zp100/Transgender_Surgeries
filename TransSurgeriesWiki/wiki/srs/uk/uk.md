@@ -77,9 +77,9 @@ reddit
 * [Scar revision of James Bellringer appaling surgery by Ms Rashid](https://www.reddit.com/r/Transgender_Surgeries/comments/12xs69j/scar_revision_of_james_bellringer_appaling/) by Unhappy_Bunny893 in 2023
     * [James Bellringer 1 year post op. NHS patient, Parkside Hospital UK November 2021.](https://www.reddit.com/r/Transgender_Surgeries/comments/z31lce/james_bellringer_1_year_post_op_nhs_patient/) by Unhappy_Bunny893 in 2022
     * [Bellringer comparison stitches NHS patient NOV 2021](https://www.reddit.com/r/Transgender_Surgeries/comments/wzrlbl/bellringer_comparison_stitches_nhs_patient_nov/) by Unhappy_Bunny893 in 2022
-    * [8 months post op Bellringer Parkside UK, advice please.](https://www.reddit.com/r/Transgender_Surgeries/comments/w6sdn4/8_months_post_op_bellringer_parkside_uk_advice/) by Unhappy_Bunny893 in 2022 
+    * [8 months post op Bellringer Parkside UK, advice please.](https://www.reddit.com/r/Transgender_Surgeries/comments/w6sdn4/8_months_post_op_bellringer_parkside_uk_advice/) by Unhappy_Bunny893 in 2022
     * [8 months post op.](https://www.reddit.com/r/Transgender_Surgeries/comments/w36xgj/8_months_post_op/) by Unhappy_Bunny893 in 2022
-    * [7 months post op Bellringer Parkside. Silicone scar strips not helping.](https://www.reddit.com/r/Transgender_Surgeries/comments/vl0n2t/7_months_post_op_bellringer_parkside_silicone/) by Unhappy_Bunny893 in 2022 
+    * [7 months post op Bellringer Parkside. Silicone scar strips not helping.](https://www.reddit.com/r/Transgender_Surgeries/comments/vl0n2t/7_months_post_op_bellringer_parkside_silicone/) by Unhappy_Bunny893 in 2022
     * [Bellringer closing sutures Parkside 2021 NHS funded done in 75 minutes.](https://www.reddit.com/r/Transgender_Surgeries/comments/vl0kqs/bellringer_closing_sutures_parkside_2021_nhs/) by Unhappy_Bunny893 in 2022
     * [PI Vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/v4n8j6/pi_vaginoplasty/) by Unhappy_Bunny893 in 2022
     * [7 months post op PI Vaginoplasty. Hate the scars, sutures were crap.](https://www.reddit.com/r/Transgender_Surgeries/comments/v49kn6/7_months_post_op_pi_vaginoplasty_hate_the_scars/) by Unhappy_Bunny893 in 2022
@@ -576,7 +576,7 @@ reddit
 * [Who are the best surgeons for SRS in the uk?](https://www.reddit.com/r/transgenderUK/comments/j2p12z/srs_surgeons/) by ero62 in 2020
 * [Urgent repair required - NHS A&E refusing to assist](https://www.reddit.com/r/transgenderUK/comments/de0jt6/urgent_repair_required_nhs_ae_refusing_to_assist/) by  LenaOfRiverrun in 2019
 * [GRS/SRS Surgery 4th April 2019 Mr Roland Morley Charing Cross Hospital [UK]](https://www.reddit.com/r/Transgender_Surgeries/comments/c0qnt5/grssrs_surgery_4th_april_2019_mr_roland_morley/) by Koukalaka in 2019
-* [Day 1 Post Op Imperial](https://www.reddit.com/r/transgenderUK/comments/ba1jxx/day_1_post_op_imperial/) by Koukalaka in 2019 
+* [Day 1 Post Op Imperial](https://www.reddit.com/r/transgenderUK/comments/ba1jxx/day_1_post_op_imperial/) by Koukalaka in 2019
 * [Day 0 Post Op Imperial](https://www.reddit.com/r/transgenderUK/comments/b9neqb/day_0_post_op_imperial/) by Koukalaka in 2019
 * [I recently had GRS with Mr Morley at Charing Cross - Open to AMA!](https://www.reddit.com/r/transgenderUK/comments/98izkg/i_recently_had_grs_with_mr_morley_at_charing/) by Zoey1x3 in 2018
 
@@ -775,7 +775,7 @@ Surgeons [include](https://www.nuffieldhealth.com/hospitals/brighton/our-expert-
 
 * Charles Coker
 * Tim Larner
-* Philip Thomas 
+* Philip Thomas
 * Keith Altman (FFS)
 
 Facebook suport group

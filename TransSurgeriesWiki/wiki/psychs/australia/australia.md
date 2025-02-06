@@ -371,7 +371,7 @@ Also works at the Sydney Gender Center.
 This is a new channel in 2024 and I can't find much. It appears to be some reposting of video's that had been removed earlier.
 
 * [Dr. Anne Lawrence interviews Dr. Morandini: AGP Orientation & Gender Dysphoria, a Clinical Overview](https://www.youtube.com/watch?v=40PaiUmIRf4) by Gender Wars Podcast in 2024
-* [Dr. James Morandini Discusses Gender-Affirming Healthcare for TGD Youth](https://www.youtube.com/watch?v=E5feHyKEwo0) by Gender Wars Podcast in 2024 
+* [Dr. James Morandini Discusses Gender-Affirming Healthcare for TGD Youth](https://www.youtube.com/watch?v=E5feHyKEwo0) by Gender Wars Podcast in 2024
 
 Google search results for Anne Lawrence, in order in which they appear
 
@@ -399,7 +399,7 @@ Reddit posts related to the video's
 **Papers**
 
 * https://scholar.google.com.au/citations?user=lJF4kmQAAAAJ&hl=en - list of papers by James Morandini
-* 2023 - [Is Social Gender Transition Associated with Mental Health Status in Children and Adolescents with Gender Dysphoria?](https://pubmed.ncbi.nlm.nih.gov/37014582/) by James S Morandini, Aidan Kelly, Nastasja M de Graaf, Pia Malouf, Evan Guerin, Ilan Dar-Nimrod, Polly Carmichael  
+* 2023 - [Is Social Gender Transition Associated with Mental Health Status in Children and Adolescents with Gender Dysphoria?](https://pubmed.ncbi.nlm.nih.gov/37014582/) by James S Morandini, Aidan Kelly, Nastasja M de Graaf, Pia Malouf, Evan Guerin, Ilan Dar-Nimrod, Polly Carmichael
 
 **Other**
 
@@ -657,7 +657,7 @@ Key details
 reddit
 
 * [In desperate need of a good mental health professional | sydney](https://www.reddit.com/r/transgenderau/comments/rxxrqb/in_desperate_need_of_a_good_mental_health/) by EndlessEden2015 in 2022
- 
+
 
 <br />
 
@@ -795,7 +795,7 @@ Genspect Team, https://genspect.org/team/
 * **Roberto D’Angelo**
 * Stella O’Malley
     * 2022 - [Leaked audio confirms Genspect director as anti-trans conversion therapist targeting youth](https://healthliberationnow.com/2022/04/02/leaked-audio-confirms-genspect-director-as-anti-trans-conversion-therapist-targeting-youth/#The_recordings_detailing_intent_and_strategy_in_her_own_words) - *"Recorded audio of a Twitter Space from 2021 was released on YouTube last week as part of an ongoing feud between Genspect affiliates and self-proclaimed “gender industry abolitionists” who aim to eliminate all forms of gender affirming care. Within the Space Stella O’Malley, a prominent psychotherapist in Ireland facing allegations of conversion therapy and the director of Genspect (among other groups), reveals that she has made it her life mission to prevent trans youth from accessing any form of gender affirming care. In doing so, she inadvertently confesses to seeking to suppress or change trans youth’s gender identity, the very definition of gender identity change efforts (GICE, i.e. conversion therapy/practices),[1] despite her past denials."*
-    * 2021 - YouTube ['Conversion therapy' bill: Stella O'Malley - Psychotherapist](https://www.youtube.com/watch?v=vjqsYVeDL2w) by 
+    * 2021 - YouTube ['Conversion therapy' bill: Stella O'Malley - Psychotherapist](https://www.youtube.com/watch?v=vjqsYVeDL2w) by
 familyfirstnz (right wing religous lobby group) - *"She is an expert on Rapid Onset Gender Dysphoria - the epidemic of youth coming out as trans 'out of the blue' due to social contagion and mental illness."* - See ROGD under Lisa Littman
         * reddit - [Supreme Court of New Zealand rules "Family First" (a Conservative Christian Lobby group that advocates for a ban on abortion and gay marriage) does not qualify for charity status.](https://www.reddit.com/r/worldnews/comments/vm9bz0/supreme_court_of_new_zealand_rules_family_first_a/) in 2022
     * 2020 - [Graham Linehan calls for list of Irish 'gender critical' therapists for trans children](https://gcn.ie/graham-linehan-trans-conversion-therapy/) in gcn, *"Psychotherapist and public speaker, Stella O’Malley, aims to create a list of therapists for parents with transgender children. She has previously written a chapter for the anti-trans book Inventing Transgender Children, which portrays  transgender people as an ideology and ‘dangerous’. After Linehan showed his support, she posted, “I hate the phrase gender critical but I am making a list!"*, [according to wikipedia](https://en.wikipedia.org/wiki/Graham_Linehan) *"Graham Linehan is an Irish television writer and anti-transgender activist."*
@@ -1300,7 +1300,7 @@ Key details
 
 reddit
 
-* [(TW: transphobia) I just discovered the existence of psychotherapist Tania Marshall, and that she pushes the debunked ROGD hypothesis](https://www.reddit.com/r/transgenderau/comments/u5l67u/tw_transphobia_i_just_discovered_the_existence_of/) by ChaoticMutual in 2022 
+* [(TW: transphobia) I just discovered the existence of psychotherapist Tania Marshall, and that she pushes the debunked ROGD hypothesis](https://www.reddit.com/r/transgenderau/comments/u5l67u/tw_transphobia_i_just_discovered_the_existence_of/) by ChaoticMutual in 2022
     * *"Yeah, she's been known as problematic for a long time in the autistic community. She's also been put on probation by the AHPRA for unprofessional practice, barred from discussing rapid onset gender dysphoria and I think possibly had restrictions on treating trans patients."*
 
 <br />
@@ -1322,7 +1322,7 @@ reddit
 Binary Australia
 
 * 2020 - https://www.binary.org.au/autistism_overrepresented_trans_stats  - Binary Australia likes what Attwood has to say about autism and gender dysphoria.
-* 2018 - [Anti-marriage equality org rebrands as anti-trans group Binary Australia](https://www.starobserver.com.au/news/national-news/anti-marriage-equality-org-rebrands-as-anti-trans-group-binary-australia/173664) - *"Anti-marriage equality lobby group Marriage Alliance has rebranded as Binary Australia to fight against rights for trans, gender diverse and intersex Australians."* 
+* 2018 - [Anti-marriage equality org rebrands as anti-trans group Binary Australia](https://www.starobserver.com.au/news/national-news/anti-marriage-equality-org-rebrands-as-anti-trans-group-binary-australia/173664) - *"Anti-marriage equality lobby group Marriage Alliance has rebranded as Binary Australia to fight against rights for trans, gender diverse and intersex Australians."*
 
 Other
 
@@ -1577,7 +1577,7 @@ reddit
 
 Key details
 
-* Ladywood Clinic, 184 Ladywood Rd, ***Modbury Heights***, SA 5092 
+* Ladywood Clinic, 184 Ladywood Rd, ***Modbury Heights***, SA 5092
 * https://ladywoodclinic.com.au/psychologist-alex
 
 reddit
@@ -1665,7 +1665,7 @@ reddit
 
 Key details
 
-* Psychotherapist 
+* Psychotherapist
 * childandyouthaustralia.com.au
 * Child and Youth Australia, 850 Port Road, ***Woodville South***, SA, 5011
 * https://www.aasw.asn.au/find-a-social-worker/search/?command=viewEntityContact&entityType=0&entitySerial=430240&membershipSerial=61505
@@ -1700,7 +1700,7 @@ Key details
 reddit
 
 * [Psychologists in Hobart area?](https://www.reddit.com/r/transgenderau/comments/k4ftj0/psychologists_in_hobart_area/) by lucysesoterica in 2020
- 
+
 
 <br />
 
@@ -1957,7 +1957,7 @@ reddit
 
 Location
 
-* Melbourne 
+* Melbourne
 
 reddit
 
@@ -2176,7 +2176,7 @@ reddit
 Key details
 
 * Psychiatrist
-* Ramsay Clinic Albert Road, Suite C, 31 Albert Road, Melbourne, VIC 3004 
+* Ramsay Clinic Albert Road, Suite C, 31 Albert Road, Melbourne, VIC 3004
 * https://www.ramsaymentalhealth.com.au/en/our-locations/Mental-health-clinics/vic-locations/albertroad/find-a-psychiatrist-link-to-search/specialist-details/?id=105970
 
 reddit

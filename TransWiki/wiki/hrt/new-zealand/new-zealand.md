@@ -64,7 +64,7 @@ https://outline.org.nz/
 
 ## Naming New Zealand
 
-Naming New Zealand is an organisation to help transgender, gender diverse and intersex youth with updating their identity documents to correctly reflect their sex and gender. 
+Naming New Zealand is an organisation to help transgender, gender diverse and intersex youth with updating their identity documents to correctly reflect their sex and gender.
 
 * http://www.naming.nz/
 
@@ -82,7 +82,7 @@ Find a Clinical Psychologist
 
 ## QTOPIA
 
-> We provide support for rainbow young people in Ōtautahi Christchurch and the wider Waitaha Canterbury area. 
+> We provide support for rainbow young people in Ōtautahi Christchurch and the wider Waitaha Canterbury area.
 
 https://www.qtopia.org.nz/
 

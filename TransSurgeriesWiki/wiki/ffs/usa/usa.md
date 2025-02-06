@@ -188,7 +188,7 @@ Susans
 
 YouTube
 
-* [My FFS (Facial Feminization Surgery) Journey with Dr. Deschamps-Braly](https://www.youtube.com/watch?v=8qUU1b2ZtbQ) by 
+* [My FFS (Facial Feminization Surgery) Journey with Dr. Deschamps-Braly](https://www.youtube.com/watch?v=8qUU1b2ZtbQ) by
 Samantha4keeps in 2023
     * [Transgender FFS (facial feminization surgery) two week update ](https://www.youtube.com/watch?v=he4QxKAbNZQ) by Samantha4keeps in 2023
 * [Facial Feminization Surgery details](https://www.youtube.com/watch?v=yKLYj_qX_j4) by Anjelica glen in 2020
@@ -468,7 +468,7 @@ Surgeons sites
 YouTube
 
 * [Meet Dr. Michael K. Obeng; the plastic surgeon who can change your gender, do almost everything](https://www.youtube.com/watch?v=TeR7pey7Swo) by Metro TV Ghana in 2021
-* [Unusual Cosmetic Procedures](https://www.youtube.com/watch?v=5W1jMPsiw2s) by Inside Edition in 2020 - forehead reduction at 1:32 
+* [Unusual Cosmetic Procedures](https://www.youtube.com/watch?v=5W1jMPsiw2s) by Inside Edition in 2020 - forehead reduction at 1:32
 
 * [News-This is Gabon's first gender reassignment surgery - EBANews](https://www.youtube.com/watch?v=IpGfgtFIYmg) by EBA News in 2019
 * [Exclusive Interview with Rodrigo Alves (Human Ken Doll) and Dr. Michael K Obeng](https://www.youtube.com/watch?v=AUNTtFclEWM) by  Cosmetic Town in 2018
@@ -495,7 +495,7 @@ Miscellaneous
 
 ---
 
-## Murtaza (Mort) Rizvi 
+## Murtaza (Mort) Rizvi
 
 See also BA page.
 
@@ -711,7 +711,7 @@ reddit
 
 Other
 
-* https://npiprofile.com/npi/1215375621 - not sure if this is the same person as the location is different.  Kathleyn Allison Brandstetter 
+* https://npiprofile.com/npi/1215375621 - not sure if this is the same person as the location is different.  Kathleyn Allison Brandstetter
 
 <br />
 
@@ -773,7 +773,7 @@ YouTube
 
 ---
 
-## Harrison Lee 
+## Harrison Lee
 
 Has two offices, see his entry in the state of New York.
 
@@ -935,7 +935,7 @@ Review sites
 Surgeons sites
 
 * https://www.uclahealth.org/justine-lee
-* https://www.facebook.com/Dr.Justine.C.Lee 
+* https://www.facebook.com/Dr.Justine.C.Lee
 * https://twitter.com/drjustineleemd
 * https://www.instagram.com/drjustineleemd
 
@@ -949,7 +949,7 @@ Review sites
 
 * https://www.vitals.com/doctors/Dr_Justine_C_Lee.html
 
-Research 
+Research
 
 * https://www.researchgate.net/profile/Justine_Lee7
 
@@ -1585,7 +1585,7 @@ Review sites
 
 ## John A. Persing
 
-Retired 
+Retired
 
 * https://medicine.yale.edu/news-article/30-minute-zoom-honors-dr-john-persings-30-years-of-yale-surgery-leadership-perfectly - *"June 30, 2021 marked the end of an era for Yale Surgery, and the beginning of another, as Division Chief of Plastic & Reconstructive Surgery, Dr. John A. Persing, retired from the position after nearly 30 years..."*
 
@@ -2318,7 +2318,7 @@ See his entry on the SRS page for more details.
 reddit
 
 * [Seeking Facial Feminization Recovery advice, Dr Gabriel Del Corral](https://www.reddit.com/r/Transgender_Surgeries/comments/ukegsv/seeking_facial_feminization_recovery_advice_dr/) by  Stephanie647 in 2022 - links to Facebook group [Evey's Affirming Surgeries](https://www.facebook.com/groups/eveyssurgeries/?ref=share)
-* [34 days post FFS with Dr Del Corral. Had mandible reconstruction, forehead setback, orbital setback, brow lift, hairline advancement, and an open rhinoplasty. Still a little swollen.](https://www.reddit.com/r/Transgender_Surgeries/comments/qgy32k/34_days_post_ffs_with_dr_del_corral_had_mandible/) by _eveywinters in 2021 
+* [34 days post FFS with Dr Del Corral. Had mandible reconstruction, forehead setback, orbital setback, brow lift, hairline advancement, and an open rhinoplasty. Still a little swollen.](https://www.reddit.com/r/Transgender_Surgeries/comments/qgy32k/34_days_post_ffs_with_dr_del_corral_had_mandible/) by _eveywinters in 2021
     * [Facial Feminization Surgery Results with Dr Del Corral, 19 days post op. Just removed the nose splints, staples, and stitches today. Swelling still needs to come down but the work is obvious.](https://www.reddit.com/r/Transgender_Surgeries/comments/q662hz/facial_feminization_surgery_results_with_dr_del/) by _eveywinters in 2021
     * [15 Days Post Op after FFS and BA with Dr. Del Corral. Had Forehead & Browbone setback (type 3), hairline advancement, mandible feminization, eyebrow lift, and rhinoplasty. 440cc silicone implants, smooth round. 8 hour surgery. Already so happy with the results.](https://www.reddit.com/r/Transgender_Surgeries/comments/q3osms/15_days_post_op_after_ffs_and_ba_with_dr_del/) by _eveywinters in 2021
     * [I am having facial feminization surgery, breast augmentation, and a labia revision with Dr. Del Corral on September 22 (Wednesday). I had a peritoneal pull through vaginoplasty with him in April. We were able to test out some newer 3d modeling software to project some of the changes.](https://www.reddit.com/r/Transgender_Surgeries/comments/prj1r7/i_am_having_facial_feminization_surgery_breast/) by _eveywinters in 2021
@@ -2367,7 +2367,7 @@ Location
 
 Surgeons sites
 
-* http://www.drspiegel.com/ 
+* http://www.drspiegel.com/
 * [YouTube Channel](https://www.youtube.com/user/DrJeffreySpiegel/videos)
 * https://www.realself.com/find/Massachusetts/Boston/Facial-Plastic-Surgeon/Jeffrey-H-Spiegel
 
@@ -2829,7 +2829,7 @@ Surgeons sites
 reddit
 
 * reply to [Has anyone had FFS with Dr Jonathan Keith?](https://www.reddit.com/r/Transgender_Surgeries/comments/13plm5n/has_anyone_had_ffs_with_dr_jonathan_keith/jld16q1/) by 1st_transit_of_venus in 2023
- 
+
 
 <br />
 
@@ -2966,7 +2966,7 @@ YouTube
 
 ---
 
-## Harrison Lee 
+## Harrison Lee
 
 Locations
 
@@ -3096,7 +3096,7 @@ Susans
 
 YouTube
 
-* [Facial Feminization Surgery Facial Team VS. Dr. James P. Bradley](https://www.youtube.com/watch?v=dXtRNmq0SeE) by 
+* [Facial Feminization Surgery Facial Team VS. Dr. James P. Bradley](https://www.youtube.com/watch?v=dXtRNmq0SeE) by
 Soraya's Fierce Cooking Show in 2022
 * [Facial Feminization Surgery (FFS) at Northwell Health](https://www.youtube.com/watch?v=Bx4BBq2jgiA)  by Northwell Health in 2021
     * [Dr. James Bradley, Vice Chairman of Plastic Surgery](https://www.youtube.com/watch?v=M5Vspgb9lXo) by Northwell Health in 2018
@@ -3151,11 +3151,11 @@ reddit
 
 ---
 
-## Mark Sam Courey 
+## Mark Sam Courey
 
 Mainly known for VFS, but also trachea shave. See the FFS page.
 
-Location 
+Location
 
 * NYC
 
@@ -3254,7 +3254,7 @@ Location
 
 ## Ali Seyed Totonchi
 
-Location 
+Location
 
 * 2500 MetroHealth Drive, Cleveland, Ohio 44109
 
@@ -3520,7 +3520,7 @@ Susans
 
 ---
 
-## Sherman Leis 
+## Sherman Leis
 
 See also the SRS page.
 
@@ -3580,8 +3580,8 @@ Also does SRS.
 
 Location
 
-* Bala Cynwd, Pennsylvania 
-* Feasterville, Pennsylvania 
+* Bala Cynwd, Pennsylvania
+* Feasterville, Pennsylvania
 
 Surgeons sites
 
@@ -3605,7 +3605,7 @@ reddit
 
 * [Dr Brodie Parent (Pennsylvania)](https://www.reddit.com/r/Transgender_Surgeries/comments/zvdzxm/dr_brodie_parent_pennsylvania/) by helloiamaudrey in 2022
 
-Facebook 
+Facebook
 
 * https://www.facebook.com/upmc/videos/gender-affirming-care-wpxi-community-matters/1360097624473590 by Gender Affirming Care | WPXI Community Matters in 2022
 
@@ -3616,7 +3616,7 @@ Other
 * https://www.healthgrades.com/physician/dr-brodie-parent-ggcmj
 * https://www.vitals.com/doctors/Brodie_Parent.html
 
-NPI # 1912296153 
+NPI # 1912296153
 
 * https://npiprofile.com/npi/1912296153
 
@@ -4079,7 +4079,7 @@ Surgeons site
 
 YouTube
 
-* [Seven Months Post Op, Day 221 — Facial Feminization Surgery — FFS Part 22](https://www.youtube.com/watch?v=i1eINKM1VJE) by 
+* [Seven Months Post Op, Day 221 — Facial Feminization Surgery — FFS Part 22](https://www.youtube.com/watch?v=i1eINKM1VJE) by
 Jessë Valentine Portz in 2022 - *"This is a healing progress followup seven months post-op for my facial feminization surgery, including sinus cavity setback brow reshaping, and rhinoplasty performed by doctors Jonathan Black and Samuel Oyer at UVA Health in Charlottesville, Virginia."*
 
 YouTube
@@ -4100,7 +4100,7 @@ Other
 
 Location
 
-* UVA Health, Charlottesville, Virginia. 
+* UVA Health, Charlottesville, Virginia.
 
 Surgeons sites
 
@@ -4110,7 +4110,7 @@ Surgeons sites
 
 YouTube
 
-* [Seven Months Post Op, Day 221 — Facial Feminization Surgery — FFS Part 22](https://www.youtube.com/watch?v=i1eINKM1VJE) by 
+* [Seven Months Post Op, Day 221 — Facial Feminization Surgery — FFS Part 22](https://www.youtube.com/watch?v=i1eINKM1VJE) by
 Jessë Valentine Portz in 2022 - *"This is a healing progress followup seven months post-op for my facial feminization surgery, including sinus cavity setback brow reshaping, and rhinoplasty performed by doctors Jonathan Black and Samuel Oyer at UVA Health in Charlottesville, Virginia."*
 * [Meet Facial Plastic and Reconstructive Surgeon Sam Oyer, MD](https://www.youtube.com/watch?v=_wYee2ekMfQ) by uvahealth in 2015
 
@@ -4428,7 +4428,7 @@ realself
 
 Youtube
 
-* [Scott R. Chaiet, MD, MBA, FACS, UW Health Facial Plastic and Reconstructive Surgery](https://www.youtube.com/watch?v=ER0hLucNxD4) by UW Health in 2017  
+* [Scott R. Chaiet, MD, MBA, FACS, UW Health Facial Plastic and Reconstructive Surgery](https://www.youtube.com/watch?v=ER0hLucNxD4) by UW Health in 2017
 
 Other
 
@@ -4469,7 +4469,7 @@ Review sites
 * https://www.healthgrades.com/physician/dr-catharine-garland-gbhjs
 * https://www.sharecare.com/doctor/dr-catharine-b-garland
 
-NPI 1417282443 
+NPI 1417282443
 
 * https://npino.com/npi/1417282443-dr.-catharine-bradford-garland/
 

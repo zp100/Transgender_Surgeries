@@ -59,7 +59,7 @@ YouTube
 * [Post-operative care and neovagina care](https://www.youtube.com/watch?v=UN-NVge8XmY) by HIV-NAT Thailand - *"Lectured by Worapon Ratanalert, MD, Department of Surgery, Faculty of Medicine, Chulalongkorn University and Thai Red Cross AIDS Research Centre Bangkok, Thailand in 22nd Bangkok International Symposium on HIV Medicine 2020 on January 15-17, 2020 at BITEC, Bangkok, Thailand"*. At 6:34 there's a ***video comparison of internals of a cis-vagina, skin graft, colonic flap, and peritoneal flap***. See also reddit post [Jan 2020 lecture by Thai Surgeon showing internals of 4 types of SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/ew4zi7/jan_2020_lecture_by_thai_surgeon_showing/) by HiddenStill in 2020
 
 <br />
- 
+
 ### Long Term Results
 
 reddit
@@ -72,7 +72,7 @@ YouTube
 * [Five Years Post Op|A Reflection On My Gender Reassignment Surgery](https://www.youtube.com/watch?v=JW03Qwa9ED4) by Ruby Price in 2022 - surgeon Oliver Fenton in the UK
 
 <br />
- 
+
 ### Keeping Testicles After Surgery
 
 As in taking them home in jar, not still attached to your body (that's elsewhere here).
@@ -95,7 +95,7 @@ Papers
 * [Testicular Seminoma in a Transgender Woman: A Case Report](http://doi.org/10.1089/lgbt.2018.0173) by Elizabeth J Kvach, Jennifer S Hyer, John C Carey, Marci Bowers - *"As per the findings in our patient, we recommend that all transgender women who choose to undergo bilateral orchiectomy (alone or as part of a vaginoplasty procedure) for gender transition should have testes routinely sent for pathology evaluation to rule out the presence of undetected testicular cancer"*
 
 <br />
- 
+
 ### Surgical Videos
 
 reddit
@@ -184,7 +184,7 @@ reddit
 * [Mtf colon-vaginoplasty & sex questions](https://www.reddit.com/r/Transgender_Surgeries/comments/j3m8s9/mtf_colonvaginoplasty_sex_questions/) by Throwwwaway_1399 in 2020 - surgeon is Loren Schechter, see [Dr Loren Schechter( Chicago- 1st surgery 2016 & revision 2018- result after both) Colon-vaginoplasty results](https://www.reddit.com/r/Transgender_Surgeries/comments/j40087/dr_loren_schechter_chicago_1st_surgery_2016/) one day later.
 * [Dr Loren Schechter( Chicago- 1st surgery 2016 & revision 2018- result after both) Colon-vaginoplasty results](https://www.reddit.com/r/Transgender_Surgeries/comments/j40087/dr_loren_schechter_chicago_1st_surgery_2016/) by Throwwwaway_1399 in 2020
 * reply to [Am I the only straight girl who wants a shallow depth vaginoplasty? \[NSFW\]](https://www.reddit.com/r/asktransgender/comments/em17aw/am_i_the_only_straight_girl_who_wants_a_shallow/fdm7mw9/) by AutumnGlow33 in 2020
-* in asktransgender [Had sigmoid colon SRS with Dr. Kamol in Bangkok 6 months ago. AMA](https://www.reddit.com/r/asktransgender/comments/eff4bg/had_sigmoid_colon_srs_with_dr_kamol_in_bangkok_6/) by estraNicole in 2019 and in Transgender_Surgeries [Had sigmoid colon SRS with Dr. Kamol in Bangkok 6 months ago. 
+* in asktransgender [Had sigmoid colon SRS with Dr. Kamol in Bangkok 6 months ago. AMA](https://www.reddit.com/r/asktransgender/comments/eff4bg/had_sigmoid_colon_srs_with_dr_kamol_in_bangkok_6/) by estraNicole in 2019 and in Transgender_Surgeries [Had sigmoid colon SRS with Dr. Kamol in Bangkok 6 months ago.
 * [Intestinal Vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/dy896t/intestinal_vaginoplasty/) by Transgirljz in 2019
 * [Best surgeons in US that do Sigmoid Colon SRS?](https://www.reddit.com/r/MtF/comments/dm6k8e/best_surgeons_in_us_that_do_sigmoid_colon_srs/) by barista237 in 2019
 * [Pai?](https://www.reddit.com/r/Transgender_Surgeries/comments/c6n5ii/pai/) by missgigi14 in 2019
@@ -219,7 +219,7 @@ realself
 
 Chapter 18, "Surgery in Complications: Colon Vaginoplasty" by Paolo Verze, Davide Arcaniolo, Marco Franco, Roberto La Rocca, and Vincenzo Mirone
 
-* [Management of gender dysphoria : a multidisciplinary approach](https://trove.nla.gov.au/work/199509859?q&versionId=218655499+222094601) by Carlo Trombetta, Giovanni Liguori, Michele Bertolotto, 
+* [Management of gender dysphoria : a multidisciplinary approach](https://trove.nla.gov.au/work/199509859?q&versionId=218655499+222094601) by Carlo Trombetta, Giovanni Liguori, Michele Bertolotto,
 
 <br />
 
@@ -238,7 +238,7 @@ Surgeons who (probably) do this procedure, PPT, or a variation include
     * Belgium
         * Philippe Houtmeyer
 * Mexico
-    * Carlos Daniel Guerra Castañon        
+    * Carlos Daniel Guerra Castañon
 * Thailand
     * Kamol Pansritum
     * Poonpissamai Suwajo
@@ -414,7 +414,7 @@ reddit
 * [Orchiectomy 7 months post-op recovery album](https://www.reddit.com/r/Transgender_Surgeries/comments/cnioxr/orchiectomy_7_months_postop_recovery_album/) by wantingmisa in 2019, photos [here](https://imgur.com/a/YZyXt68)
 * [Orchiectomy Today! AMA](https://www.reddit.com/r/MtF/comments/cjul5u/orchiectomy_today_ama/) by EdmundPaine in 2019
 * [Post-Orchie Changes](https://www.reddit.com/r/MtF/comments/b9n8hq/postorchie_changes/) by TenFootTiger in 2019
-* [I gave up my balls to become a girl](https://www.reddit.com/r/GoneWildTrans/comments/a6jvx6/i_gave_up_my_balls_to_become_a_girl/) by LewdRabbit in 2018  
+* [I gave up my balls to become a girl](https://www.reddit.com/r/GoneWildTrans/comments/a6jvx6/i_gave_up_my_balls_to_become_a_girl/) by LewdRabbit in 2018
 * [Orchi long-term post-op photos?](https://www.reddit.com/r/asktransgender/comments/a4bdg8/orchi_longterm_postop_photos/) by lunabeieli in 2018
 * [had an orchiectomy last Thursday w/Dr. Smith @ UCSF. AMA.](https://www.reddit.com/r/asktransgender/comments/95yt4e/had_an_orchiectomy_last_thursday_wdr_smith_ucsf/) by ninabooboo in 2018
 * [I had an elective surgical castration, AMA](https://www.reddit.com/r/IAmA/comments/90rap9/i_had_an_elective_surgical_castration_ama/) by HaileyHeartless in 2018
@@ -606,7 +606,7 @@ reddit - Androgynoplasty
 reddit - Optional_Joystick
 
 * [OptionalJoystick Penile Preservation Vaginoplasty update 06/13/2021 ](https://www.reddit.com/r/salmacian/comments/nzfqn9/optionaljoystick_penile_preservation_vaginoplasty/) by Optional_Joystick in 2021
-* [OptionalJoystick Penile Preservation Vaginoplasty update 12/31/2020](https://www.reddit.com/r/salmacian/comments/knyqlr/optionaljoystick_penile_preservation_vaginoplasty/) by Optional_Joystick in 2021 
+* [OptionalJoystick Penile Preservation Vaginoplasty update 12/31/2020](https://www.reddit.com/r/salmacian/comments/knyqlr/optionaljoystick_penile_preservation_vaginoplasty/) by Optional_Joystick in 2021
 * [OptionalJoystick Penile Preservation Vaginoplasty 10/13/2020 - post op pics & discussion](https://www.reddit.com/r/salmacian/comments/jl97in/optionaljoystick_penile_preservation_vaginoplasty/) by Optional_Joystick in 2020 - surgeon is Heidi Wittenberg
 
 reddit
@@ -878,7 +878,7 @@ YouTube
 
 Susans
 
-* [Re: SURGICALLY, is it possible to keep the penis and make a vaginal opening?](https://www.susans.org/forums/index.php/topic,110731.msg838013.html#msg838013) 
+* [Re: SURGICALLY, is it possible to keep the penis and make a vaginal opening?](https://www.susans.org/forums/index.php/topic,110731.msg838013.html#msg838013)
 
 webarchive
 
@@ -1098,8 +1098,8 @@ reddit
 * [Absorption of EstroGel after home orchiectomy](https://www.reddit.com/r/TransDIY/comments/iqpuc1/absorption_of_estrogel_after_home_orchiectomy/) by AshlyBotex in 2020
 * [April 28 on the left, yesterday on the right, after eight stir sessions. Something looks a little different...can’t quite put my finger on it](https://www.reddit.com/r/castration/comments/hlxqir/april_28_on_the_left_yesterday_on_the_right_after/) by stirrednuts in 2020 - there's plenty more in their post history, also look on [r/M2E](https://www.reddit.com/r/M2E)
 * [April 10th. Status on my journey to become an Eunuch.](https://www.reddit.com/r/M2E/comments/fydjux/april_10th_status_on_my_journey_to_become_an/) by Meetoo73 in 2020
-* [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)](https://www.reddit.com/r/transmaxxing/comments/fkuoyl/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020 - in [r/transmaxxing](https://www.reddit.com/r/transmaxxing) 
-* [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)](https://www.reddit.com/r/Boymode/comments/fkuhns/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020 - in [r/Boymode](https://www.reddit.com/r/Boymode) 
+* [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)](https://www.reddit.com/r/transmaxxing/comments/fkuoyl/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020 - in [r/transmaxxing](https://www.reddit.com/r/transmaxxing)
+* [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)](https://www.reddit.com/r/Boymode/comments/fkuhns/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020 - in [r/Boymode](https://www.reddit.com/r/Boymode)
 * [This is what it looks like with legs closed. On the previous picture my legs were spread. The random scar is from my self surgery and not the doctors fault. I talked to someone in the healthcare system, and they can remove the hair inside the vagina. So I feel a little better now.](https://www.reddit.com/r/Transgender_Surgeries/comments/fn8j7z/this_is_what_it_looks_like_with_legs_closed_on/) by stupidstories in 2020
     * reply to [I had bottom surgery yesterday. Everything went great and now I'm finally done with the whole transitioning phase of being trans. Even bought myself a support shark to help me recover.](https://old.reddit.com/r/lgbt/comments/d8k0qu/i_had_bottom_surgery_yesterday_everything_went/f5pq62g/) by stupidstories in 2019
 * [I self-performed orchiectomy (AMA; DO NOT CONCERN-POST!)](https://www.reddit.com/r/Boymode/comments/fkuhns/i_selfperformed_orchiectomy_ama_do_not_concernpost/) by TsaritsaYevfimiya in 2020
@@ -1146,7 +1146,7 @@ PinkNews
 
 The Baffler
 
-* [Doctors Who? Radical lessons from the history of DIY transition](https://thebaffler.com/salvos/doctors-who-gill-peterson) by 
+* [Doctors Who? Radical lessons from the history of DIY transition](https://thebaffler.com/salvos/doctors-who-gill-peterson) by
 Jules Gill-Peterson in 2022
 
 Wikipedia
@@ -1156,10 +1156,10 @@ Wikipedia
 Papers
 
 * [Attempted self-castration with bilateral intratesticular injections of calcium chloride](https://pubmed.ncbi.nlm.nih.gov/37184545/) by Matthew S Correia in 2023
-* 2022 - [Choosing Castration: A Thematic Analysis of the Perceived Pros and Cons of Genital Injuries and Ablation by Men Who Voluntarily Sought Castration](https://pubmed.ncbi.nlm.nih.gov/36327012/) by Erik Wibowo, Samantha T S Wong, Richard J Wassersug, Thomas W Johnson  
+* 2022 - [Choosing Castration: A Thematic Analysis of the Perceived Pros and Cons of Genital Injuries and Ablation by Men Who Voluntarily Sought Castration](https://pubmed.ncbi.nlm.nih.gov/36327012/) by Erik Wibowo, Samantha T S Wong, Richard J Wassersug, Thomas W Johnson
 * 2022 - [Male genital self-mutilation due to tomophobia - case report and review of literature](https://pubmed.ncbi.nlm.nih.gov/35296174/) by Jagadish Rao Padubidri, K S Akshath, Tanya Singh, Matthew Antony Manoj - *"... we present the case of a 45-year-old man who was found deceased in his home in a pool of blood with a knife and a pair of scissors lying next to him. In addition to this, parts of the intestine were found next to the body. The patient was diagnosed with hydrocoele and had a known history of tomophobia which caused him to take matters into his own hands by incising his scrotum which led to his demise."*
 * 2022 - [Genital self-amputation-its psychological urge](https://doi.org/10.1093/jscr/rjac569) by Srinath Ravichandran, Peter Mark Smith, Vincent Tang = *"This case report highlights a rare case of self-inflicted bilateral testicular amputation and partial penile amputation in a patient who is a transwoman with a psychiatric history... The testes were not re-implanted as the patient refused and, after psychiatric discussion, was deemed to have capacity. She then re-presented within a week with self-inflicted partial amputation of penis. On both admissions, the patient had psychiatric evaluation but she was sectioned under the mental health act the second time."* - this is in the UK
-* 2022 - [Genital Mutilation in Males](https://pubmed.ncbi.nlm.nih.gov/36401111/) by Carlos Toribio-Vázquez, Álvaro Yebes, José Quesada-Olarte, Andrea Rodriguez, María Alonso-Bartolomé, Héctor Ayllon, Luis Martinez-Piñeiro  
+* 2022 - [Genital Mutilation in Males](https://pubmed.ncbi.nlm.nih.gov/36401111/) by Carlos Toribio-Vázquez, Álvaro Yebes, José Quesada-Olarte, Andrea Rodriguez, María Alonso-Bartolomé, Héctor Ayllon, Luis Martinez-Piñeiro
 * 2021 - [Male Genital Self-Mutilation with Complete Exposure of Both Testes](https://pubmed.ncbi.nlm.nih.gov/34595693/) by Pedro Vila-Braña, Almudena Sabio-Bonilla, Alba Tamayo-Gómez, Ana Jiménez-Dominguez, M Ángeles Rosales-Muñoz, Elena Palenciano-Ruiz, Jorge Alcázar-Beltrán, Ignacio Puche-Sanz 
 * 2021 - [Genital self-mutilation: A challenging pathology (Review)](https://pubmed.ncbi.nlm.nih.gov/34504580/) by Sorin Lupu, Ovidiu Gabriel Bratu, Delia Mirela Tit, Simona Bungau, Octavian Maghiar, Teodor Andrei Maghiar, Camelia C Scarneciu, Ioan Scarneciu
 * 2020 - [Presentation and resolution of gender dysphoria as a positive symptom in a young schizophrenic man who presented with self-emasculation: Frontiers of bioethics, psychiatry, and microsurgical genital reconstruction](https://pubmed.ncbi.nlm.nih.gov/32983487/) by Rand N Wilcox Vanden Berg, Christopher D Gaffney, Darius A Paduch - *"Gender dysphoria can present as a positive symptom of schizophrenia. Completion of gender affirmation surgeries should not occur as a result of male genital self-mutilation via a deferral of emergent surgical reconstruction. Instead, gender affirmation should be considered after a full workup and assessment for resolution of any acute psychosis."* - this is in the USA
@@ -1169,7 +1169,7 @@ Papers
 * 2013 - [Nonprescribed Hormone Use and Self-Performed Surgeries: “Do-It-Yourself” Transitions in Transgender Communities in Ontario, Canada](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3780733/) by Nooshin Khobzi Rotondi, Greta R. Bauer, Kyle Scanlon, Matthias Kaay, Robb Travers, and Anna Travers
 * 2012 - [Self-castration by a transsexual woman: financial and psychological costs: a case report.](https://www.ncbi.nlm.nih.gov/pubmed/22240147) by St Peter M, Trinidad A, Irwig MS
 * 2012 - [Three cases of penile self-mutilation](https://pubmed.ncbi.nlm.nih.gov/23254788/) by Suguru Yoneda, Takanori Kinjo, Takeshi Oida, Kentaro Takezawa, Hironori Nomura, Norihide Tei, Shingo Takada, Kiyomi Matsumiya
-* 2007 - [Male genital self-amputation in the Middle East. A simple repair by anterior urethrostomy](https://pubmed.ncbi.nlm.nih.gov/17457454/) by 
+* 2007 - [Male genital self-amputation in the Middle East. A simple repair by anterior urethrostomy](https://pubmed.ncbi.nlm.nih.gov/17457454/) by
 Samir S Shirodkar, Fayez T Hammad, Naseem A Qureshi
 * 2006 - [Traumatic luxation of the testis due to self-mutilation: a case report](https://doi.org/10.5980/jpnjurol1989.97.57) by Yuji Ishibiki, Tsutomu Matsumura
 * 2003 - [An American hijra: a report of a case of genital self-mutilation to become India's "third sex".](https://www.ncbi.nlm.nih.gov/pubmed/14665370) by Master V, Santucci R.
@@ -1220,7 +1220,7 @@ Research
 
 * 2018 - [Measurements of a ‘normal vulva’ in women aged 15–84: a cross‐sectional prospective single‐centre study](https://doi.org/10.1111/1471-0528.15387) by A Kreklau, I Vâz, F Oehme, F Strub, R Brechbühl, C Christmann, A Günthert
 * 2005 - [Female genital appearance: ‘normality’ unfolds] (https://doi.org/10.1111/j.1471-0528.2004.00517.x) by Jillian Lloyd, Naomi S. Crouch, Catherine L. Minto, Lih‐Mei Liao, Sarah M. Creighton
-* 2000 - [Comparison of Vaginal Shapes in Afro-American, Caucasian and Hispanic Women as Seen with Vinyl Polysiloxane Casting](https://www.karger.com/Article/PDF/10281?id=pmid:9716547) by Pendergrass P.B. · Reeves C.A. · Belovicz M.W. · Molter D.J. · White J.H. 
+* 2000 - [Comparison of Vaginal Shapes in Afro-American, Caucasian and Hispanic Women as Seen with Vinyl Polysiloxane Casting](https://www.karger.com/Article/PDF/10281?id=pmid:9716547) by Pendergrass P.B. · Reeves C.A. · Belovicz M.W. · Molter D.J. · White J.H.
 
 Some cis-women have labiaplasty to alter their labia minora.
 
@@ -1240,7 +1240,7 @@ Porn is obvioulsy not representative of the average vagina/vulva.
 * https://www.reddit.com/r/LabiaGW - porn sub for "long labia minora"
 * https://www.reddit.com/r/BeefFlaps - porn sub for large labia
 * https://www.reddit.com/r/ButterflyWings - porn sub for large labia
-* https://www.reddit.com/r/FreakyPuss - porn sub 
+* https://www.reddit.com/r/FreakyPuss - porn sub
 * https://www.reddit.com/r/GodPussy - porn sub for "gorgeous closeup photos of Vaginas"
 * https://www.reddit.com/r/rearpussy - porn sub
 * https://www.reddit.com/r/MoundofVenus - porn sub for mons pubis
@@ -1274,11 +1274,11 @@ In porn its quite common to obscure the view with hands or toys, and presumably 
 * https://imgur.com/gallery/WUzNKtu - Skye/surgeon Suporn
 * https://imgur.com/gallery/4pRB9ss - unknown surgeon
 * https://imgur.com/gallery/03y72St - Harley/unknown surgeon
-* http://hannahsimpson.com/Surgery/ - bad result/surgeon Kathy Rumer 
+* http://hannahsimpson.com/Surgery/ - bad result/surgeon Kathy Rumer
 * realself - [Complete GCS Disaster from the Beginning.](https://www.realself.com/review/vaginoplasty-complete-disaster-beginning) by EmmaLake in 2019 - bad result/surgeon Sidhbh Gallagher
 * reddit - [Do not go to Dr. Schechter post-op photos (nsfw) ](https://www.reddit.com/r/Transgender_Surgeries/comments/7rtada/do_not_go_to_dr_schechter_postop_photos_nsfw/) in 2018, photos [here](https://imgur.com/a/rIbvC). - bad result
 
-Mia Fever (see Brassard) at first glance appears to have an excellent result, except that its misleading as you can actually see very little. 
+Mia Fever (see Brassard) at first glance appears to have an excellent result, except that its misleading as you can actually see very little.
 
 Inner labia that that don't go all the way down are a common feature/complaint in post-op results - few surgeons are good at it. It does exist in cis-women, as shown [here](https://www.reddit.com/r/GodPussy/comments/17dpjgs/sick_of_using_your_hand_to_get_off_try_using_me/), [here](https://www.reddit.com/r/GodPussy/comments/176skkg/lets_play_truth_or_dare_i_dare_you_not_to_pull_out/), and [here](https://www.reddit.com/r/RealGirls/comments/137icl2/cum_in_me_already_i_cant_wait_any_longer/), but the different is also quite clear.
 
@@ -1308,7 +1308,7 @@ Overviews of the entire surgery process.
 YouTube
 
 * [The Worst Things About MTF SRS (ft. Stephanie Lynnette) | MTF Transgender Transition](https://www.youtube.com/watch?v=dTBrSrNXfyU) by The Chloe Connection in 2021
-* [The BEST things about having Sex Reassignment Surgery | Collaboration | MTF Transgender YouTuber](https://www.youtube.com/watch?v=uesoTYlZK2o) by 
+* [The BEST things about having Sex Reassignment Surgery | Collaboration | MTF Transgender YouTuber](https://www.youtube.com/watch?v=uesoTYlZK2o) by
 Stephanie Lynnette in 2021
 * [8 Things I Wish I Knew Before SRS | Transgender Bottom Surgery MtF](https://www.youtube.com/watch?v=BV7QDyXwbDg) by Victoria Rose in 2020
 * [Myths About Gender Confirmation Surgery (Male to Female GRS/SRS)](https://www.youtube.com/watch?v=QeW8illtICA) by Samantha Lux in 2020
@@ -1411,13 +1411,13 @@ Other links
 
 Research
 
-* 2022 - [Continuing perioperative estrogen therapy does not increase venous thromboembolic events in transgender patients: a systematic review and meta-analysis](https://doi.org/10.26355/eurrev_202204_28488) by J Badreddine, M H Lee, K Mishra, R Pope, J Y Kim, S H Hong, S Gupta, J M Song, J I Shin, R A Ghayda - *"" Perioperative estrogen therapy does not increase VTE risk on male to female gender-affirming surgery. Therefore, estrogen therapy may be continued perioperatively in vaginoplasty. More prospective studies are needed.* 
+* 2022 - [Continuing perioperative estrogen therapy does not increase venous thromboembolic events in transgender patients: a systematic review and meta-analysis](https://doi.org/10.26355/eurrev_202204_28488) by J Badreddine, M H Lee, K Mishra, R Pope, J Y Kim, S H Hong, S Gupta, J M Song, J I Shin, R A Ghayda - *"" Perioperative estrogen therapy does not increase VTE risk on male to female gender-affirming surgery. Therefore, estrogen therapy may be continued perioperatively in vaginoplasty. More prospective studies are needed.*
 * 2021 - [No Venous Thromboembolism Increase Among Transgender Female Patients Remaining on Estrogen for Gender-Affirming Surgery](https://pubmed.ncbi.nlm.nih.gov/33417686/) by Aki Kozato, G W Conner Fox, Patrick C Yong, Sangyoon J Shin, Bella K Avanessian, Jess Ting, Yiwei Ling, Subha Karim, Joshua D Safer, John Henry Pang
 * 2019 - [Association of Surgical Risk With Exogenous Hormone Use in Transgender Patients: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/30516808/) by Elizabeth R Boskey, Amir H Taghinia, Oren Ganor - *"Current evidence does not support routine discontinuation of all CSHT prior to surgery, particularly given the lack of information on risks associated with resuming these medications after they have been stopped. Evidence suggests there is no need to discontinue either testosterone or spironolactone, although their association with perioperative outcome quality has not been studied in depth. Most of the evidence that supports discontinuation of estrogen prior to surgery is based on oral estrogen regimens that are not typically used in transgender patients, and even with those formulations, there are conflicting reports on perioperative risk."*
 * 2004 - [Postmenopausal hormone replacement and venous thromboembolism following hip and knee arthroplasty](https://pubmed.ncbi.nlm.nih.gov/15269830/) by Jason G Hurbanek, Amir K Jaffer, Nariman Morra, Matthew Karafa, Daniel J Brotman - *"We found no association between perioperative hormone replacement and post-operative thrombosis in patients undergoing major orthopaedic surgery. Routine discontinuation of these medications preoperatively--and possibly in other situations predisposing to thrombosis, such as acute medical illness--may be unnecessary in patients receiving appropriate pharmacologic antithrombotic prophylaxis."*
 * 2001 - [Hormone replacement therapy (HRT) and anaesthesia](https://bjanaesthesia.org/article/S0007-0912\(17\)36404-8/fulltext) by D. Brighouse
 
- 
+
 
 <br />
 
@@ -1812,7 +1812,7 @@ Careful with lubes, Dangerous Lilly in [The Big Lube Guide](http://dangerouslill
 
 ---
 
-### Crohns 
+### Crohns
 
 https://en.wikipedia.org/wiki/Crohn%27s_disease - *"Crohn's disease is a type of inflammatory bowel disease (IBD) that may affect any segment of the gastrointestinal tract from the mouth to the anus."*
 
@@ -1884,7 +1884,7 @@ reddit
 
 YouTube
 
-* [Ehlers-Danlos Syndrome & Top Surgery](https://www.youtube.com/watch?v=HI9ovifDvtE) by Gender Confirmation Center in 2021, this is FTM top surgery by surgeon Scott Mosser 
+* [Ehlers-Danlos Syndrome & Top Surgery](https://www.youtube.com/watch?v=HI9ovifDvtE) by Gender Confirmation Center in 2021, this is FTM top surgery by surgeon Scott Mosser
 * [Coming To Terms With EDS (A Health Update)](https://www.youtube.com/watch?v=QDHextXN_yI) by Aaron Ansuini in 2019
 * [The Overlap Between Autism ,Transness, And EDS](https://www.youtube.com/watch?v=gciRLth3Pn8) by Aaron Ansuini in 2018 - ftm and not surgery related
 
@@ -2297,7 +2297,7 @@ Susans
 
 * [Erections, orgasm after Orchiectomy....](https://www.susans.org/forums/index.php/topic,242460.0.html) by  Adrianna86 in 2018
 
-Splinter: 
+Splinter:
 [How I learned to orgasm after sex reassignment surgery](https://splinternews.com/how-i-learned-to-orgasm-after-sex-reassignment-surgery-1793863166) in 2016
 
 Vogue: [Why One Trans Woman Wants to Discuss Sex After Surgery](https://www.vogue.com/article/breathless-karley-sciortino-trans-sex) in 2016
@@ -2387,7 +2387,7 @@ Suporn average 7.0 inches/17.8 cm, min/max is 6.0"/8.5", from 2010-2017
 
 * http://www.supornclinic.com/restricted/srs/srstechnique.aspx
 
-Chettawut, SRS with skin graft = 6.5-7 inches, SRS with colon graft = 8-9+++ inches 
+Chettawut, SRS with skin graft = 6.5-7 inches, SRS with colon graft = 8-9+++ inches
 
 * http://www.chet-plasticsurgery.com/colon-graft-technique/
 
@@ -2669,7 +2669,7 @@ reddit
 Susans
 
 * [An expanding electric dilator?](https://www.susans.org/forums/index.php/topic,244559.0.html) in 2019
-  
+
 Papers
 
 * 2021 - [Vaginal Dilators: Issues and Answers](https://pubmed.ncbi.nlm.nih.gov/32014450/) by Marisa Liu, Mark Juravic, Genevieve Mazza, Michael L Krychman - *"This article will summarize the current research on vaginal dilators and discuss needs for future research to maximize patients' compliance and success with this treatment. Much of the summary data regarding user behavior will come from the early survey data with Milli, a novel, patient-controlled electronic dilator that slowly expands 1 mm at a time from its smallest diameter, 15 mm to a maximum diameter of 40 mm. Milli is currently being used by more than 1,000 women, and 3-month follow-up data were recorded on 335 of those patients."*
@@ -2732,7 +2732,7 @@ Ingredients of concern are
 * Benzyl alcohol - irritation
 * Citric acid - irritation
 
-Dangerous Lilly 
+Dangerous Lilly
 
 * [The Big Lube Guide](http://dangerouslilly.com/lube-guide/) - lots of info on choosing a lube and what to avoid. Warns against Vitamin E and Oat Beta Glucan for Celiacs and those with extreme gluten-sensitivity, which I've not seen elsewhere.
 * https://www.reddit.com/r/SexToys/comments/3zg2y9/the_big_lube_guide/
@@ -2864,27 +2864,27 @@ reddit [Life after SRS question. (nsfw?)](https://www.reddit.com/r/asktransgende
 * Apparently others who have been to Brassard have stopped / reduced their douching without adverse effects, although Brassard's instructions indicate that you'll basically die if you skip it for any length of time.
 * I've douched one time in two years, probably against medical advice. (Bowers)
 * My girlfriend went to Brassard about 18 months ago and I don't think she's douched in like a year.
-* I stopped douching about 3 months ago and I've had no problems. 
+* I stopped douching about 3 months ago and I've had no problems.
 
 reddit [Post-vaginoplasty: do you douche?](https://www.reddit.com/r/asktransgender/comments/7kxbz9/postvaginoplasty_do_you_douche/) by stellaproiectura in 2018 - *"I’m recovering from GRS with Dr. Brassard and their recovery booklet specifies to douche every single day for the rest of your life. This seems abnormal; for cis women, douching is generally ill advised ever, let alone once per day. I’ve spoken to former Brassard patients who were not informed to douche daily, and who haven’t douched at all in years. Others douche once a week. "*
 
 * I went to Bowers and she specifically states not to douche. I've never douched once and I'm perfectly healthy.
-* I went to Brassard three years ago and my booklet specifically said not to. 
+* I went to Brassard three years ago and my booklet specifically said not to.
 * I haven't douched in 15 years.
 
 reddit [How do you clean cum out of post op vagina NSFW](https://www.reddit.com/r/asktransgender/comments/5pluua/how_do_you_clean_cum_out_of_post_op_vagina_nsfw/) by transsurgery around 2017
 
 * I had surgery with Chettawut, I asked him and he said I could douche after sex if I wanted to, but it's not required.
 * I have never douched, surgeon said not to because they are self cleaning
-* I see you went to Chet, I went to Suporn which is a very similar method. I was told not to worry about it, it'll clean itself. 
+* I see you went to Chet, I went to Suporn which is a very similar method. I was told not to worry about it, it'll clean itself.
 
 reddit [For those post-op, how's sex?](https://www.reddit.com/r/asktransgender/comments/3owz03/for_those_postop_hows_sex/) by transthrowaway45345 around 2016
 
 * Do you clean your vagina in the shower or do you need to douche everytime? Shower only. Haven't touched since like 3 months post-op.
 * I very rarely douche anymore. Theres no weird discharge so I dont really worry about it. Just wash it down in the shower.
-* I clean it like my first gf taught me. Get all the junk out of the folds, but don't wash inside. The insides take care of themselves. 
+* I clean it like my first gf taught me. Get all the junk out of the folds, but don't wash inside. The insides take care of themselves.
 * I wash my vulva in the shower. You shouldn't be cleaning the vagina out unless you have a yeast infection or when you're early in post op. The neo vagina cleans itself and douching damages it's internal flora which it uses to keep itself clean - although it takes a couple of months to reach this point.
-* Just the shower. Don't douche hardly ever. 
+* Just the shower. Don't douche hardly ever.
 * Just clean in the shower.
 * No, I use baby wipes to clean up any mess, then shower when appropriate.
 * I douche when the dilator comes out stinky. Yes. I sniff it every time.
@@ -2896,11 +2896,11 @@ susans [Do you girls douche?](https://www.susans.org/forums/index.php?topic=2124
 * Nope I never douche.
 * I am almost 2 years post op and I douche every single day.
 * No I do not and I am sexually active.
-* I am 15 months post op... Dr B was my surgeon as well and I got the don't need to douche talk from her as well... 
+* I am 15 months post op... Dr B was my surgeon as well and I got the don't need to douche talk from her as well...
 
-susans [To douche or not to Douche?](https://www.susans.org/forums/index.php?topic=232349.0) by Gail20 in 2018 
+susans [To douche or not to Douche?](https://www.susans.org/forums/index.php?topic=232349.0) by Gail20 in 2018
 
-* I haven't douched in eons ... like decades really. 
+* I haven't douched in eons ... like decades really.
 * I never douched, not even once.
 
 Susans [Using a feminine douche? And general cleaning tips/tricks?](https://www.susans.org/forums/index.php?topic=191167.0) by Blush in 2015
@@ -2954,7 +2954,7 @@ reddit
 reddit
 
 * [Probiotic suppositories for neo vaginas?](https://www.reddit.com/r/Transgender_Surgeries/comments/kas1hf/probiotic_suppositories_for_neo_vaginas/) by syrahlips in 2020
- 
+
 
 <br />
 
@@ -3309,7 +3309,7 @@ in 2022
 * [SRS: granulation inside vagina](https://www.reddit.com/r/Transgender_Surgeries/comments/eg0uyd/srs_granulation_inside_vagina/) by smilewithnose in 2020
 * [Steroid cream for granulated tissue. This work for anyone?](https://www.reddit.com/r/Transgender_Surgeries/comments/e76jqf/steroid_cream_for_granulated_tissue_this_work_for/) by pile_drive_me in 2019
 * [Should I use silver nitrate by myself??](https://www.reddit.com/r/Transgender_Surgeries/comments/ci8824/should_i_use_silver_nitrate_by_myself/) by lovelikeamelie in 2019
-* reply to [I need your help... because... I don't know how much longer I can keep going on this way. Please. Any help. I'm begging you. ](https://www.reddit.com/r/asktransgender/comments/9220a2/i_need_your_help_because_i_dont_know_how_much/e33do5q/) by EmmaLake in 2018 - an example of post-SRS granulation 
+* reply to [I need your help... because... I don't know how much longer I can keep going on this way. Please. Any help. I'm begging you. ](https://www.reddit.com/r/asktransgender/comments/9220a2/i_need_your_help_because_i_dont_know_how_much/e33do5q/) by EmmaLake in 2018 - an example of post-SRS granulation
 
 Susans
 
@@ -3650,7 +3650,7 @@ reddit
 * [Blood when wiping after peeing and constant feeling of needing to pee. UTI? What does one do with this?](https://www.reddit.com/r/Transgender_Surgeries/comments/19ez8n8/blood_when_wiping_after_peeing_and_constant/) by SoVeryBohemian in 2024
 * [AZO has changed my UTI ridden life forever](https://www.reddit.com/r/Healthyhooha/comments/zyn34t/azo_has_changed_my_uti_ridden_life_forever/) in 2022 - this post is by a cis women, *"No one knows the pain of a UTI unless they’ve had it themselves, and those who’ve experienced it can attest to the pain... I took the tablets. And my life changed forever. No running to the washroom, shivering on the toilet, crying and sobbing in pain waiting hours to see a doctor. I drove myself to my doctors appointment, took the urine sample, was scolded for ruining the test results due to the AZO dye, but I regret nothing. They can and will have a look at the urine at the lab LOL. Anyways, to anyone who experiences UTIs here and there, please get yourself some AZO."* - this post refers to [AZO® Urinary Pain Relief Maximum Strength Tablets](https://www.azoproducts.com/product/urinary-tract-infections/pain-relief-maximum-strength-tablets/), containing *"99.5mg dose of active ingredient per tablet, Phenazopyridine Hydrochloride"*
 * [Problems in Paradise](https://www.reddit.com/r/Transgender_Surgeries/comments/urx9cf/problems_in_paradise/) by  Sapphire-Sarazin in 2022
- 
+
 
 <br />
 
@@ -3754,7 +3754,7 @@ PDF [3rd biennal EPATH Conference Inside Matters. On Law, Ethics and Religion](h
 
 Ignore the YouTube video on regret by the Russian propaganda channel "RT Documentary", for obvious reasons.
 
-To put things in perspective 
+To put things in perspective
 
 * [Risk put into perspective for trans patients](https://www.gendergp.com/risk-into-perspective-for-trans-patients/) by Helen Webberley in 2009
 * Daily Mail [Bungled boob jobs, crooked noses and painfully botched lipo: Why two thirds of Britons (and Katie Price) say they REGRET having cosmetic surgery ](https://www.dailymail.co.uk/femail/article-2640543/Two-thirds-Britons-REGRET-having-cosmetic-surgery.html) in 2014
@@ -3870,7 +3870,7 @@ Papers
 * 2014 - [Gender Dysphoria: The Role of Sex Reassignment Surgery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121187/)
 * 2014 - [The use of cultured autologous oral epithelial cells for vaginoplasty in male-to-female transsexuals: a feasibility, safety, and advantageousness clinical pilot study.](https://www.ncbi.nlm.nih.gov/pubmed/24374675)
 * 2011 - [Gender reassignment surgery - a 13 year review of surgical outcomes](https://www.ncbi.nlm.nih.gov/pubmed/22397771) in 2011
-* 2011 - [Long-Term Follow-Up of Transsexual Persons Undergoing Sex Reassignment Surgery: Cohort Study in Sweden](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043071/) by Cecilia Dhejne, Paul Lichtenstein, Marcus Boman, Anna L. V. Johansson, Niklas Långström, and Mikael Landén 
+* 2011 - [Long-Term Follow-Up of Transsexual Persons Undergoing Sex Reassignment Surgery: Cohort Study in Sweden](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043071/) by Cecilia Dhejne, Paul Lichtenstein, Marcus Boman, Anna L. V. Johansson, Niklas Långström, and Mikael Landén
 * 2010 - [Gynaecological aspects of the treatment and follow-up of transsexual men and women](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4154336/) in 2010
 * 2010 - [Vaginoplasty by using amnion graft in patients of vaginal agenesis associated with Mayor-Rokitansky-Kuster-Hauser syndrome.](https://www.ncbi.nlm.nih.gov/pubmed/21409892) - this is on cis-women
 * 2009 - [Microflora of the penile skin-lined neovagina of transsexual women](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695466/) by Steven Weyers, Hans Verstraelen, Jan Gerris, Stan Monstrey, Guido dos Santos Lopes Santiago, Bart Saerens, Ellen De Backer, Geert Claeys, Mario Vaneechoutte, and Rita Verhelst

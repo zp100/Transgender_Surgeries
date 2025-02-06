@@ -395,7 +395,7 @@ reddit
 ---
 
 # South Africa
- 
+
 ## Lance Perry Maron
 
 Location
@@ -486,7 +486,7 @@ http://elizabethkaplan.blogspot.com/2013/02/out.html - just a mention
 
 <br />
 
-## Ornouma Sriwanishvipat 
+## Ornouma Sriwanishvipat
 
 Location
 

@@ -100,7 +100,7 @@ Some doctors insert into the subprapubic region (ie groin), which I find quite d
 
 Beverly Cosgrove (who runs the massive TransHRT group on Facebook) makes [this point](https://moderntranshormones.com/2017/11/01/subcutaneous-injection-of-hormones/) in advocating for use of the effective more intra-muscular injection (not implant) to the buttocks
 
-> First, one reason doctors have for refusing to allow their transsexual patients to inject themselves is fear that they might hit the Sciatic nerve. This mistake is almost unheard of when injections are done by trans women – the scare stories are nearly all of novice nurses doing this – but it’s been a pretext used by doctors to deny injection as an option to their patients. 
+> First, one reason doctors have for refusing to allow their transsexual patients to inject themselves is fear that they might hit the Sciatic nerve. This mistake is almost unheard of when injections are done by trans women – the scare stories are nearly all of novice nurses doing this – but it’s been a pretext used by doctors to deny injection as an option to their patients.
 
 <br />
 
@@ -124,7 +124,7 @@ Trocars are available from
 
 In Australia, [transhub](https://www.transhub.org.au/clinicians/feminising-hormones) says
 
-> Estradiol pellets are avaiable as either 50mg or 100mg pellets, with between 50-100 mg generally considered a preferred dose. Pellets are replaced every 6-24 months, depending on the response of the individual1 The insertion procedure takes approximately 15 minutes, and requires an autoclaved or disposable trocar and cannula, such as those available [here](https://www.trocarkit.com/). 
+> Estradiol pellets are avaiable as either 50mg or 100mg pellets, with between 50-100 mg generally considered a preferred dose. Pellets are replaced every 6-24 months, depending on the response of the individual1 The insertion procedure takes approximately 15 minutes, and requires an autoclaved or disposable trocar and cannula, such as those available [here](https://www.trocarkit.com/).
 
 I have heard of doctors inserting an implants without a trocar, just using a scalpel blade, but this is a very crude method that is going to leave a substantial scar. Its also possible to insert an implant using a syringe, but again it seems like a bad idea. I'd avoid doctors who do this, unless there's no other choice.
 
@@ -162,7 +162,7 @@ The principal behind these seems to be the same as using blunt tipped canula's f
 
 * 2020 - The Cosmetic Institute - [Needle Vs Cannula – what are the differences when injecting dermal filler?](https://www.thevictoriancosmeticinstitute.com.au/detail/blunt-tip-cannula-for-injection-of-dermal-filler/) in 2020
 * 2018 - Paper [Expansion Vibration Lipofilling: A New Technique in Large-Volume Fat Transplantation](https://pubmed.ncbi.nlm.nih.gov/29465484/) by Daniel Del Vecchio, Simeon Wall Jr
-* 2017 - YouTube [Surgical Trocar Insertion: Puncture Only What You Intend To](https://www.youtube.com/watch?v=PICa_cFA8AM) by 
+* 2017 - YouTube [Surgical Trocar Insertion: Puncture Only What You Intend To](https://www.youtube.com/watch?v=PICa_cFA8AM) by
 First Assisting Techniques and Tricks. Talks about surgical trocars which are much larger and the difference between blunt and sharp trocars. This mainly safety related, but the princial seems the same.
 
 https://therapellet.com/atrocars-trocar-info - describes the usual 3.2mm, 4.5mm trocars, and also a larger 5.5mm trocar used to insert 300mg pellets. It also mentions the use of triamcinolone in the pellets, which is used by FarmaKeio/Evexipel. I assume these 300mg pellets are only testosterone, as much larger doses of testerone are required than estrogen and triamcinolone is intended to suppress extrusion which is far more common with testosterone.
@@ -177,7 +177,7 @@ Patents
 * [US20210128899A1](https://patents.google.com/patent/US20210128899A1/) Atraumatic subcutaneous medication delivery
 * [US20190255308A1](https://patents.google.com/patent/US20190255308A1/) Atraumatic trocar apparatus, system and kit
 
-There's a trademark on "THERAPEL PELLET THERAPY", which is very similar to Virden's "TheraPellet". Even the graphic has some resmemblance. I don't know if there's any connection. The trademark is owned by Bonds Therapeutics LLC, also known 
+There's a trademark on "THERAPEL PELLET THERAPY", which is very similar to Virden's "TheraPellet". Even the graphic has some resmemblance. I don't know if there's any connection. The trademark is owned by Bonds Therapeutics LLC, also known
 
 * https://trademarks.justia.com/869/10/therapel-pellet-86910337.html
 * https://opencorporates.com/companies/us_ky/0929912 - company "TROCARKITS", not the previous name "Bonds Therapeutics LLC"
@@ -254,11 +254,11 @@ Note that testosterone implants don't last as long as estrogen, so there's likel
 
 Papers
 
-* 2017 - [Pharmacokinetics, Clinical Efficacy, Safety Profile, and Patient-Reported Outcomes in Patients Receiving Subcutaneous Testosterone Pellets 900 mg for Treatment of Symptoms Associated With Androgen Deficiency](https://www.researchgate.net/publication/318081096_Pharmacokinetics_Clinical_Efficacy_Safety_Profile_and_Patient-Reported_Outcomes_in_Patients_Receiving_Subcutaneous_Testosterone_Pellets_900_mg_for_Treatment_of_Symptoms_Associated_With_Androgen_Defici) by Chris G. McMahon, Neil Shusterman, and Brian Cohen 
+* 2017 - [Pharmacokinetics, Clinical Efficacy, Safety Profile, and Patient-Reported Outcomes in Patients Receiving Subcutaneous Testosterone Pellets 900 mg for Treatment of Symptoms Associated With Androgen Deficiency](https://www.researchgate.net/publication/318081096_Pharmacokinetics_Clinical_Efficacy_Safety_Profile_and_Patient-Reported_Outcomes_in_Patients_Receiving_Subcutaneous_Testosterone_Pellets_900_mg_for_Treatment_of_Symptoms_Associated_With_Androgen_Defici) by Chris G. McMahon, Neil Shusterman, and Brian Cohen
 * 2014 - [A Review of Testosterone Pellets in the Treatment of Hypogonadism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4431706/) by Andrew McCullough
 * 2011 - [Outcomes with the "V" Implantation Technique vs. Standard Technique for Testosterone Pellet Therapy](https://www.researchgate.net/publication/51612273_Outcomes_with_the_V_Implantation_Technique_vs_Standard_Technique_for_Testosterone_Pellet_Therapy) by William Conners, Kevin Flinn, and Abraham Morgentaler
 * 2008 - [Influence of implantation site and track geometry on the extrusion rate and pharmacology of testosterone implants](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2265.2001.01357.x) by S. Kelleher, A. J. Conway, D. J. Handelsman - *"We conclude that the hip site has a higher extrusion rate than the standard abdominal wall site but that track geometry does not increase the risk of extrusion. Neither implantation site, nor track geometry influenced either other adverse effects or the pharmacokinetics or pharmacodynamics of testosterone pellet implants."*
-* 1999 - [Extrusion of testosterone pellets: a randomizedcontrolled clinical study](https://pubmed.ncbi.nlm.nih.gov/10583314/) by 
+* 1999 - [Extrusion of testosterone pellets: a randomizedcontrolled clinical study](https://pubmed.ncbi.nlm.nih.gov/10583314/) by
 S Kelleher, L Turner, C Howe, A J Conway, D J Handelsman
 
 ## FTM
@@ -268,7 +268,7 @@ Testosterone implants are used trans-men, and [searching /r/ftm](https://www.red
 reddit
 
 * [First Time Testoppel Pellet Insertion](https://www.reddit.com/r/ftm/comments/lvmqsh/first_time_testoppel_pellet_insertion/) by ImGettingaFkinPENIS in 2021
- 
+
 
 Very bad experience using testopel - https://k-con.today/post/172598026877/whats-testopel
 
@@ -367,7 +367,7 @@ This is <span class="internal">[here](https://github.com/zp100/Transgender_Surge
 
 Key details
 
-* Cascavel 
+* Cascavel
 * http://www.drasilviane.com.br
 
 reddit
@@ -700,7 +700,7 @@ Doctors site
 
 reddit
 
-* [Someone told me estradiol pellets can become "encapsulated", resulting in very low levels. Is that a "thing"?](https://www.reddit.com/r/DrWillPowers/comments/1b8gvmc/someone_told_me_estradiol_pellets_can_become/) by varys2013 in 2024 
+* [Someone told me estradiol pellets can become "encapsulated", resulting in very low levels. Is that a "thing"?](https://www.reddit.com/r/DrWillPowers/comments/1b8gvmc/someone_told_me_estradiol_pellets_can_become/) by varys2013 in 2024
 * [For those who have switched to pellets. How have things changed for you? (Free E%, more HRT related changes, etc.)](https://www.reddit.com/r/DrWillPowers/comments/1921a3f/for_those_who_have_switched_to_pellets_how_have/) by Zombebe in 2024
 * [Pellet stan reporting in](https://www.reddit.com/r/DrWillPowers/comments/14t88u5/pellet_stan_reporting_in/) by wildbanana782 in 2023
 * [Pellet lifespan (extremely long?)](https://www.reddit.com/r/DrWillPowers/comments/13qqv3d/pellet_lifespan_extremely_long/) by GreatGhostsss in 2023
@@ -909,7 +909,7 @@ Its hard to tell if this is a Ukrainian company, or just a local sales site. The
 
 > Made by Hominem Clinic, R. Cubatao, 929 - sala 45, 46, 47 - Vila Mariana, Sao Paulo - SP, 04013-043, Rupublica Federativa do Brasil
 
-Which would be 
+Which would be
 
 * https://www.hominemclinic.com.br
 * https://www.facebook.com/hominemclinic
@@ -938,9 +938,9 @@ https://opencorporates.com/companies/us_ny/4273337
 
 Estrogen pellets 25mg, 50mg (Estra-25, Estra-50), testosterone 100mg, 200mg (Testo-100, Testo-200)
 
-https://uspto.report/company/Advanced-Pharmaceutical-Technology-Inc 
+https://uspto.report/company/Advanced-Pharmaceutical-Technology-Inc
 
-https://fda.report/Company/Advanced-Pharmaceutical-Technology-Inc 
+https://fda.report/Company/Advanced-Pharmaceutical-Technology-Inc
 
 ---
 
@@ -1073,7 +1073,7 @@ This company only supplies pellets for use in lab animals, and appear to special
 
 Location
 
-* New York 
+* New York
 * http://masterpharm.com/hormone-pellets/
 
 ---
@@ -1098,7 +1098,7 @@ From [their website](https://pellecome.com/re3-advanced-pellet-formulation/)
 > Pellecome’s estradiol pellets are available in the following strengths: 10 mg, 15 mg, 20 mg and 25 mg.
 >
 > Pellecome’s progesterone pellets are available in the following strengths: 50 mg, 100 mg and 200 mg.
-> 
+>
 > Pellecome’s testosterone pellets are available in the following strengths: 25 mg, 50 mg, 100 mg, 200 mg and 300 mg.
 
 ---
@@ -1126,7 +1126,7 @@ YouTube
 
 There's a photo of a Qualgen pellet on [this page](https://www.qualgen.us/bhrt) of their site and it looks like it may be injection moulded, in which case they would be the only manufacturer I'm aware of who currently make heat fused pellets. However they do say the compress the pellets
 
-> Qualgen's pellets are formed by compressing bio-identical hormone ingredients into very small cylinders a little larger than a grain of rice, approximately 3 millimeters in diameter. 
+> Qualgen's pellets are formed by compressing bio-identical hormone ingredients into very small cylinders a little larger than a grain of rice, approximately 3 millimeters in diameter.
 
 They [also say](https://www.qualgen.us/estradiolpellets)
 
@@ -1159,7 +1159,7 @@ reddit
 
 Patents
 
-* 2016 - [US20170065805A1](https://patents.google.com/patent/US20170065805) Therapeutic trocar/inserter and method of use 
+* 2016 - [US20170065805A1](https://patents.google.com/patent/US20170065805) Therapeutic trocar/inserter and method of use
 
 Legal
 

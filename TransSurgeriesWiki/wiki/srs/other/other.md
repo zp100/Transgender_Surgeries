@@ -446,11 +446,11 @@ Other
 
 ---
 
-## S. Srinivasan 
+## S. Srinivasan
 
 Location
 
-* Chettinad Healthcare Education & Research, Medical College, Kelambakkam, Chennai 
+* Chettinad Healthcare Education & Research, Medical College, Kelambakkam, Chennai
 
 Transgender India
 
@@ -475,7 +475,7 @@ Surgeons sites
 YouTube
 
 * [What is penile inversion vaginoplasty for trans women ? | Dr. Salil Patil | SRS surgeon |](https://www.youtube.com/watch?v=DQIJZu_MA7s) around Transgender India in 2023
-* [T-Talks with Dr Salil Patil | SRS Surgeon | QnA](https://www.youtube.com/watch?v=RSccYdlX6Dg)  by Transgender India in 2022 
+* [T-Talks with Dr Salil Patil | SRS Surgeon | QnA](https://www.youtube.com/watch?v=RSccYdlX6Dg)  by Transgender India in 2022
 
 Other
 
@@ -506,7 +506,7 @@ https://fanack.com/iran/human-rights/gender-reassignment-in-iran/
 
 Outright Action International
 
-* pdf file [Human Rights Report Being Transgender in Iran](https://www.outrightinternational.org/sites/default/files/OutRightTransReport.pdf) in 2016, *"In light of the numerous examples of botched SRS, I believe the [proper] treatment of transgender individuals in Iran is not possible. Iranian doctors are unbelievably behind international standards. Urinary tract infections, gastrointestinal tract infections and bleedings are among the most common side effects of SRS in Iran."* followed by *"This 2007 statement by late Ms. Molkara describes the sentiments of many trans individuals interviewed by OutRight."* 
+* pdf file [Human Rights Report Being Transgender in Iran](https://www.outrightinternational.org/sites/default/files/OutRightTransReport.pdf) in 2016, *"In light of the numerous examples of botched SRS, I believe the [proper] treatment of transgender individuals in Iran is not possible. Iranian doctors are unbelievably behind international standards. Urinary tract infections, gastrointestinal tract infections and bleedings are among the most common side effects of SRS in Iran."* followed by *"This 2007 statement by late Ms. Molkara describes the sentiments of many trans individuals interviewed by OutRight."*
 
 Quartz
 
@@ -534,7 +534,7 @@ Advocate
 
 pubmed
 
-* [Autologous Fibroblast-Seeded Amnion for Reconstruction of Neo-vagina in Male-to-Female Reassignment Surgery.](https://www.ncbi.nlm.nih.gov/pubmed/29383415) by Kamal Seyed-Forootan, Hamid Karimi, Nazilla-Sadat Seyed-Forootan, in 2018, 
+* [Autologous Fibroblast-Seeded Amnion for Reconstruction of Neo-vagina in Male-to-Female Reassignment Surgery.](https://www.ncbi.nlm.nih.gov/pubmed/29383415) by Kamal Seyed-Forootan, Hamid Karimi, Nazilla-Sadat Seyed-Forootan, in 2018,
 
 <br />
 
@@ -743,7 +743,7 @@ reddit
 
 * reply to [my gf is having orchi today. what should I be aware of?](https://www.reddit.com/r/orchiectomy/comments/zwdnz5/my_gf_is_having_orchi_today_what_should_i_be/j1ujexe/) by Sailorboi2000 in 2022 - *" I had my orchi and scrotectomy by Dr Aguilar in Tijuana mid November and all went well . I am not transitioning I just didn’t like them."*
 * reply to [Long perineum :(](https://www.reddit.com/r/Transgender_Surgeries/comments/zh7sws/long_perineum/izpjvfv/) by Initial_Lunch_9115 in 2022 - *"I am 3 months post op and my perineum is also about 8-9 cm long... Having the longer perineum has not interrupted any other function or the aesthetics of my vulva/vagina."*
-* [Cosmetic SRS with Dr. Ivan Aguilar in Mexico, 9 days post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/pi6wdy/cosmetic_srs_with_dr_ivan_aguilar_in_mexico_9/) by MotherMychaela in 2021 
+* [Cosmetic SRS with Dr. Ivan Aguilar in Mexico, 9 days post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/pi6wdy/cosmetic_srs_with_dr_ivan_aguilar_in_mexico_9/) by MotherMychaela in 2021
 * [What is the EASIEST way to get an orchiectomy?](https://www.reddit.com/r/Transgender_Surgeries/comments/nza45z/what_is_the_easiest_way_to_get_an_orchiectomy/) by D0esANyoneREadTHese in 2021
 * [from Mexico, and i confused (GRS, SRS)](https://www.reddit.com/r/asktransgender/comments/el8lp8/from_mexico_and_i_confused_grs_srs/) by Fantastic-Secretary in 2020
 * [Mexico?](https://www.reddit.com/r/M2E/comments/cp3xa2/mexico/) by ballboy83 in 2019
@@ -929,9 +929,9 @@ reddit
 * [14 year old trans guy in NZ wants top surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/ufpodh/14_year_old_trans_guy_in_nz_wants_top_surgery/) by thatautisticgremlin in 2022
 * [Consult with Rita Yang in Wellington?](https://www.reddit.com/r/TransgenderNZ/comments/oy59jd/consult_with_rita_yang_in_wellington/) by guessimfine in 2021
 * [FFS or related surgeries/procedures in NZ?](https://www.reddit.com/r/TransgenderNZ/comments/kx0wxj/ffs_or_related_surgeriesprocedures_in_nz/) by  TheNightOwlCalling in 2021
-* [Quality of surgery at Chang Gung Hospital](https://www.reddit.com/r/asktransgender/comments/dpgzsp/quality_of_surgery_at_chang_gung_hospital/) 
+* [Quality of surgery at Chang Gung Hospital](https://www.reddit.com/r/asktransgender/comments/dpgzsp/quality_of_surgery_at_chang_gung_hospital/)
  Admiral_dodo in 2019
- 
+
 Looks like she trained in GAS (SRS) in Ghent, Belgium
 
 * https://plasticsurgeons.nz/uncategorised/dr-rita-yang-joins-the-practice/ - *Dr Rita Yang joins our practice as a Plastic and Reconstructive Surgeon with an interest in Breast Reconstruction and Gender Affirmation surgery. She has previously work with the group as a fellow in 2015 and now returns following her comprehensive training in microvascular breast reconstruction and Gender Affirmation Surgery. She worked for a year at the prestigious Chang Gung Hospital in Taiwan followed by training in Gent, Belgium.*

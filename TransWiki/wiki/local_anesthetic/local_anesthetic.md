@@ -74,7 +74,7 @@ Prep School Daily
 Papers
 
 * 2022 - [Lidocaine Toxicity](https://www.ncbi.nlm.nih.gov/books/NBK482479/) by Klaus D. Torp; Eric Metheny; Leslie V. Simon - *"All sexes are affected equally by lidocaine toxicity. Patients who are likely to be more susceptible to local anesthetic toxicity are patients at the extremes of age and women who are pregnant. Rates of severe systemic toxicity (seizures with or without cardiac arrest) occur on the order of 1:10,000 for epidurals and up to 1:2000 for peripheral nerve blocks, depending on the type of block. Patients under sedation at increased risk."*
-* 2020 - [Systemic Adverse Events Associated with Compounded Topical Pain Products](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7574883/) by 
+* 2020 - [Systemic Adverse Events Associated with Compounded Topical Pain Products](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7574883/) by
 * 2017 - [Comparative Study of Compounded Anesthetic Benzocaine/Lidocaine/Tetracaine (BLT) Cream with and without Abrasive Particles](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5404778/) - *"The study demonstrated that subjects experienced a higher mean pain level (but not statistically significant) when using the BLT with smooth texture compared to the BLT with abrasive particles when applied before HA dermal filler injection."*
 * 2015 - [Lidocaine-Induced Methemoglobinemia: A Clinical Reminder](https://www.degruyter.com/document/doi/10.7556/jaoa.2015.020/html?lang=en) by  Mark Barash , Keith A. Reich and Dennis Rademaker - *"Methemoglobinemia, or excessive levels of methemoglobin (MetHb) in the blood,1 is a rare and unusual complication associated with lidocaine use, and many clinicians—particularly those who infrequently use lidocaine or similar compounds—may be unaware of this potentially fatal condition."*
 * 2014 - [Analgesic effects of topical ketamine](https://pubmed.ncbi.nlm.nih.gov/24847738/) by D J Kopsky, J M Keppel Hesselink, A Bhaskar, G Hariton, V Romanenko, R Casale
@@ -222,7 +222,7 @@ Lidocaine is not manufactured pre-buffered as it reduces the shelf life. However
 
 YouTube
 
-* [How to Buffer Local Anesthetic | Dental Surgery | Dentistry | OnlineExodontia.com](https://www.youtube.com/watch?v=Jj3CYY1bwRE) by 
+* [How to Buffer Local Anesthetic | Dental Surgery | Dentistry | OnlineExodontia.com](https://www.youtube.com/watch?v=Jj3CYY1bwRE) by
 Online Exodontia in 2020 - not appropriate to implants, but shows the use of buffering in dentistry
 * [buffering local anaesthetic](https://www.youtube.com/watch?v=Bgexo4qOmbY) by Tony Dicker in 2018
 * [Q&A When to use epinephrine and buffering when injecting lidocaine?](https://www.youtube.com/watch?v=S_cqOw8qBr4) by EDexitVideoPRO in 2017 - an [ER](https://en.wikipedia.org/wiki/Emergency_department) doctor explains why some doctors don't buffer.
@@ -257,7 +257,7 @@ Some people are allergic to lidocaine and/or other anesthetics, and it can be ve
 reddit
 
 * reply to [Electrolysis and beyond](https://www.reddit.com/r/Transgender_Surgeries/comments/mj8cpo/electrolysis_and_beyond/gt96l4z/?context=3) by Ubikscube in 2021
- 
+
 Papers
 
 * 2020 - [Articaine as an alternative in lidocaine allergy: Case report of a seventy year old male patient](https://www.sciencedirect.com/science/article/pii/S2210261220310671)
@@ -289,7 +289,7 @@ Papers
 * 2019 - [Resistance to local anesthesia in people with the Ehlers-Danlos Syndromes presenting for dental surgery](https://pubmed.ncbi.nlm.nih.gov/31723666/) by Jane R Schubart, Eric Schaefer, Piotr Janicki, Sanjib D Adhikary, Amber Schilling, Alan J Hakim, Rebecca Bascom, Clair A Francomano, Satish R Raj - *" EDS survey respondents reported nearly three times the rate of LA non-response compared to non-EDS respondents... The agent with the highest EDS-respondent reported success rate was articaine (30%), followed by bupivacaine (25%), and mepivacaine (22%)."*
 * 2013 - [Response to “Does scorpion bite lead to resistance to the effect of local anaesthetics?”](https://journals.lww.com/ijaweb/Fulltext/2013/57020/Response_to__Does_scorpion_bite_lead_to_resistance.32.aspx) by Trescot, Andrea
 * 2005 - [Local anaesthetic failure in joint hypermobility syndrome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1079398/) by Alan J Hakim, Rodney Grahame, Paul Norris, and Colin Hopper - *"When taking biopsies to assess skin strength in Ehlers–Danlos syndrome type III (EDS–III), a Danish group noticed that the patients experienced much pain despite conventional local anaesthesia."*
-* [Increased sensitivity to thermal pain and reduced subcutaneous lidocaine efficacy in redheads](https://pubmed.ncbi.nlm.nih.gov/15731586/) by 
+* [Increased sensitivity to thermal pain and reduced subcutaneous lidocaine efficacy in redheads](https://pubmed.ncbi.nlm.nih.gov/15731586/) by
 Edwin B Liem, Teresa V Joiner, Kentaro Tsueda, Daniel I Sessler - *"Red hair is the phenotype for mutations of the melanocortin-1 receptor. Results indicate that redheads are more sensitive to thermal pain and are resistant to the analgesic effects of subcutaneous lidocaine."*
 * 2003 - [Local anesthetic "resistance"](https://pubmed.ncbi.nlm.nih.gov/16880874/) by Andrea M Trescot - *"Although most were equally numb to all three local anesthetics (lidocaine, bupivicaine, and mepivicaine), 7.5% of the patients consistently chose mepivicaine as the local anesthetic resulting in the most hypoesthesia. For patients who had previously undergone an unsuccessful procedure with bupivicaine (the standard local anesthetic used in our practice), the same procedure with mepivicaine provided good relief."* - PDF [here](https://www.painphysicianjournal.com/current/pdf?article=MTg3&journal=16).
 
@@ -297,7 +297,7 @@ Edwin B Liem, Teresa V Joiner, Kentaro Tsueda, Daniel I Sessler - *"Red hair is 
 
 ## Lidocaine vs Lignocaine
 
-These are the same drug. Lignocaine is the old name for the drug in some countries, while Lidocaine is the 
+These are the same drug. Lignocaine is the old name for the drug in some countries, while Lidocaine is the
 [International nonproprietary name](https://en.wikipedia.org/wiki/International_nonproprietary_name) (INN). Renaming has been taking place in some countries as part of standardisation.
 
 * 2020 - [Updating medicine ingredient names](https://www.tga.gov.au/book-page/17-interim-decision-relation-lidocaine) - *"In different countries, different names are used to describe the same medicinal ingredient. Over the years, some medicine ingredient names in Australia became out of date. This can be confusing for Australian consumers and healthcare professionals who travel internationally, as well as people like doctors who have trained overseas or people trying to access medicine information online. We have updated some medicine ingredient names used in Australia to align with names used internationally. This has been done by some other countries over the years, including the United Kingdom in 2003 and New Zealand in 2008."*

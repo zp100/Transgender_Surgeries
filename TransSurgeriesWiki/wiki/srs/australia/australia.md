@@ -324,7 +324,7 @@ Other
 
 ---
 
-## Peter Anthony Haertsch 
+## Peter Anthony Haertsch
 
 Born 1945 according to [this](https://zagria.blogspot.com/2016/03/40-trans-persons-in-australia-who.html), so 77 in 2022
 
@@ -374,7 +374,7 @@ Review sites
 * https://www.ratemds.com/doctor-ratings/3916480/Dr-Peter-Haertsch-Sydney-NSW.html
     * 2021 - *"Transgender assignment failed. My daughter took her life as a result of his incompetency!"*
     * 2020 - *"Do not trust this Doctor. He performed surgery on my daughter which led to PTSD. Check the complaints commission in 2014/15. He moved the surgery the day before operation to a hospital inadequately equipped to ensure the procedure was successful. I heard the staff saying we dont have this and that. I said my daughter is being operated on by DR Haertsch will she be ok? After my daughter was released from hospital in the morning she had a medical emergency that night due to his incompetence. Although Dr Haertsch performed surgery the next day, damage to tissue could not be saved due to blood loss. My daughter took her life in August last year. Dr Haertsch was suppose to give her the medical procedure she required to ensure that she lived a happy and long life. I have lost my daughter because of him. She is not here to fight for herself but I will continue to send the message to everyone."*
-   
+
 
 <br />
 
@@ -462,7 +462,7 @@ Other
 
 **Will be [ceasing GRS](https://old.reddit.com/r/transgenderau/comments/tws675/andrew_ives_is_stopping_grs/) at the end of 2022**
 
-Does SRS, BA, and orchidectomy. 
+Does SRS, BA, and orchidectomy.
 
 Location
 
@@ -540,18 +540,18 @@ reddit
 * [Does Ives not do a labia minora?](https://www.reddit.com/r/transgenderau/comments/96m334/does_ives_not_do_a_labia_minora/) in 2018
 * [AMA - Just had MTF SRS](https://www.reddit.com/r/asktransgender/comments/95ue1q/ama_just_had_mtf_srs/) by MissVioletVi in 2018
 * [MtF GRS with Andrew Ives](https://www.reddit.com/r/transgenderau/comments/90x5hh/mtf_grs_with_andrew_ives/) by trulyl in 2018
-* [I have a vagina now! AMA](https://www.reddit.com/r/asktransgender/comments/7sd7st/i_have_a_vagina_now_ama/) by L0nelyprincess in 2018 
+* [I have a vagina now! AMA](https://www.reddit.com/r/asktransgender/comments/7sd7st/i_have_a_vagina_now_ama/) by L0nelyprincess in 2018
 * [Ives & preparing for SRS](https://www.reddit.com/r/transgenderau/comments/7plhc0/ives_preparing_for_srs/) in 2018
 * [People who are post 1+ year Ives patients; can you give me your thoughts? Are you happy with your results?](https://www.reddit.com/r/transgenderau/comments/8mdyg7/people_who_are_post_1_year_ives_patients_can_you/) in 2018
 * [1 week post-op with Andy Ives in Melbourne, Australia!](https://www.reddit.com/r/MtF/comments/7bc395/1_week_postop_with_andy_ives_in_melbourne/), photo [here](https://imgur.com/a/lZmy7#zk6taCL) around 2018
 * [As requested: 3 months post-op with Andrew Ives in Melbourne, AU](https://www.reddit.com/r/MtF/comments/7pvkjh/as_requested_3_months_postop_with_andrew_ives_in/) in 2018, photos [here](https://imgur.com/a/V61rp#ujdmWAU).
 * [AMA about SRS with Andy Ives in Melbourne 9 weeks ago](https://www.reddit.com/r/transgenderau/comments/6l56z7/ama_about_srs_with_andy_ives_in_melbourne_9_weeks/) by PM_ME_YOUR_PECANPIE in 2017
 * [Orchiectomy in Melbourne](https://www.reddit.com/r/transgenderau/comments/6odamo/orchiectomy_in_melbourne/) by GenmaichaHorchata around 2017
-* [AMA had MtF GRS with Andy Ives in Melbourne last week. (Yes anything)](https://www.reddit.com/r/transgenderau/comments/6dfah7/ama_had_mtf_grs_with_andy_ives_in_melbourne_last/) by PM_ME_YOUR_PECANPIE in 2017 
+* [AMA had MtF GRS with Andy Ives in Melbourne last week. (Yes anything)](https://www.reddit.com/r/transgenderau/comments/6dfah7/ama_had_mtf_grs_with_andy_ives_in_melbourne_last/) by PM_ME_YOUR_PECANPIE in 2017
 * [A talk with Andrew Ives](https://www.reddit.com/r/transgenderau/comments/4jv12a/a_talk_with_andrew_ives/) by Serenation around 2016
 * [GRS with Andrew Ives in two weeks](https://www.reddit.com/r/transgenderau/comments/4lshn7/grs_with_andrew_ives_in_two_weeks/) around 2016
 * [1 day post-op GRS with Dr Andrew Ives in Melbourne, Australia AMA!](https://www.reddit.com/r/asktransgender/comments/4oall5/1_day_postop_grs_with_dr_andrew_ives_in_melbourne/) by AnnaRose96 in 2016
-* [SRS in Melbourne with Andrew Ives 13 Days Post-op *Update/AMA](https://www.reddit.com/r/asktransgender/comments/4q7k5s/srs_in_melbourne_with_andrew_ives_13_days_postop/) by AnnaRose96 in 2016 
+* [SRS in Melbourne with Andrew Ives 13 Days Post-op *Update/AMA](https://www.reddit.com/r/asktransgender/comments/4q7k5s/srs_in_melbourne_with_andrew_ives_13_days_postop/) by AnnaRose96 in 2016
 
 Susans
 
@@ -565,7 +565,7 @@ YouTube
 * [Zara shares her experience of gender affirmation surgery](https://www.youtube.com/watch?v=rbuhq8zLMrA) by Speak EZ in 2021
 * [Surgery Has Given Me The Body I Always Wanted | MY TRANS LIFE](https://www.youtube.com/watch?v=8GlB1SS8a-I) by Barcroft TV in 2019
 * [AJ Clementine on how gender confirmation surgery saved her life](https://www.youtube.com/watch?v=as9vYkARM9c) by It's All Her in 2021
-* [LIFE AFTER SURGERY](https://www.youtube.com/watch?v=IPFixcHbNXs) by AJ Clementine 
+* [LIFE AFTER SURGERY](https://www.youtube.com/watch?v=IPFixcHbNXs) by AJ Clementine
     * [I HAD BOTTOM SURGERY | MY EXPERIENCE](https://www.youtube.com/watch?v=EEdg3cHpWl8) by AJ Clementine in 2018
 
 realself

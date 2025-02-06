@@ -117,7 +117,7 @@ reddit
 
 YouTube
 
-* [Signs Of a Facelift: How To Tell If Someone Had a Facelift](https://www.youtube.com/watch?v=cPLQG0fsBH4) by 
+* [Signs Of a Facelift: How To Tell If Someone Had a Facelift](https://www.youtube.com/watch?v=cPLQG0fsBH4) by
 Dr. Gary Motykie in 2022
 
 <br />
@@ -188,7 +188,7 @@ YouTube
 
 There's some argument about the height of the female hairline
 
-On Deschamps-Braly's site [Debunking Three Common Myths About Female Hairlines](https://deschamps-braly.com/debunking-three-common-myths-about-female-hairlines/) by [Dr. Sara Wasserbauer](https://californiahairsurgeon.com/) we have 
+On Deschamps-Braly's site [Debunking Three Common Myths About Female Hairlines](https://deschamps-braly.com/debunking-three-common-myths-about-female-hairlines/) by [Dr. Sara Wasserbauer](https://californiahairsurgeon.com/) we have
 
 > There is a wealth of information—and misinformation—on the Internet about the female hairline, including shapes and heights. With this in mind, we want to demystify some common misconceptions and debunk popular myths to ensure that you have all of the information you need when considering any form of hairline surgery.
 

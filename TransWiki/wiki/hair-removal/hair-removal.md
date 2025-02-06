@@ -145,7 +145,7 @@ Other
 
 Papers
 
-* 2010 - [Paradoxical hypertrichosis after laser therapy: a review](https://pubmed.ncbi.nlm.nih.gov/20100274/) - by 
+* 2010 - [Paradoxical hypertrichosis after laser therapy: a review](https://pubmed.ncbi.nlm.nih.gov/20100274/) - by
 Shraddha Desai, Bassel H Mahmoud, Ashish C Bhatia, Iltefat H Hamzavi - *"Paradoxical hypertrichosis has a low incidence, ranging from 0.6% to 10%, and most commonly occurs on the face and neck. All laser and light sources have the potential to cause hair induction, especially in individuals with darker skin types (III-VI); with dark, thick hair; and with underlying hormonal conditions."*
 
 <br />
@@ -209,11 +209,11 @@ Electrolysis machines can also be used to remove cysts and treat some skin probl
 
 * [Josefa: Removal of a Sebaceous Cyst (gigantic blackhead)](https://www.youtube.com/watch?v=shEfCs6lGr8) by Electrology Now in 2016
 * [Removing a Couple of Small Cysts on The Back -During an Electrolysis Session-](https://www.youtube.com/watch?v=hkcGL9DoIfw) by Josefa M. REINA in 2016
-* [Skin Treatments on a wonderful lady: Removal of benign imperfections using advanced electrolysis](https://www.youtube.com/watch?v=_b3KdykETvo) 
+* [Skin Treatments on a wonderful lady: Removal of benign imperfections using advanced electrolysis](https://www.youtube.com/watch?v=_b3KdykETvo)
 
 **Michael Bono**
 
-Deceased. 
+Deceased.
 
 An electrologist in the USA who's regarded as an expert on electrolysis
 
@@ -383,7 +383,7 @@ YouTube
 
 * [SGA Acne Treatment Q&A Effectiveness, Pain + Recovery](https://www.youtube.com/watch?v=uBmIkSLdMV0) by chai and latte in 2019 - check out her latest video's to see if this is working
 * [Dr McCaffery's SGA ACNE TREATMENT REVIEW! PERMANENTLY Remove Acne?](https://www.youtube.com/watch?v=kRIhbcHii8U) by chai and latte in 2018
-* [Sebaceous Gland Ablation SGA - the permanent Acne, Pimple & Breakout solution](https://www.youtube.com/watch?v=dEJo4Bq6100) by Philippa McCaffery in 2012 - these are promotional material for [Clear Skin Clinics](https://clearskincareclinics.com.au/sga-for-adult-acne/) 
+* [Sebaceous Gland Ablation SGA - the permanent Acne, Pimple & Breakout solution](https://www.youtube.com/watch?v=dEJo4Bq6100) by Philippa McCaffery in 2012 - these are promotional material for [Clear Skin Clinics](https://clearskincareclinics.com.au/sga-for-adult-acne/)
 * [SGA - The Permanent Acne, Pimple & Breakout Solution](https://www.youtube.com/watch?v=ACOJLcThBvo) by Philippa McCaffery in 2012
 
 acne.org
@@ -565,7 +565,7 @@ There's a number of drugs than can cause photosensitivity and serious reactions 
 * Medscape - [Drug-Induced Photosensitivity](https://emedicine.medscape.com/article/1049648-overview) in 2018
 * pubmed - [Drug-induced photosensitivity.](https://www.ncbi.nlm.nih.gov/pubmed/8222522) by Allen JE in 1993
 * [Sun-Sensitizing Drugs](https://www.webmd.com/skin-problems-and-treatments/sun-sensitizing-drugs#1)
-* fix laser and skin center [Drugs That May Cause Photosensitivity](http://www.fixlaserskincenter.com/drugs-that-may-cause-photosensitivity/) 
+* fix laser and skin center [Drugs That May Cause Photosensitivity](http://www.fixlaserskincenter.com/drugs-that-may-cause-photosensitivity/)
 
 ## References
 
@@ -604,7 +604,7 @@ Papers
 * 2016 - [Guidelines for the use of local anesthesia in office-based dermatologic surgery](dx.doi.org/10.1016/j.jaad.2016.01.022)
 * [Buffered lidocaine and bupivacaine mixture – the ideal local anesthetic solution?](https://pubmed.ncbi.nlm.nih.gov/26090348/) by Corliss A Best, Alyssa A Best, Timothy J Best and Danielle A Hamilton - *"Lidocaine has a limited duration of action, which is sometimes desired in an LA but for many procedures is less than ideal. Bupivacaine has a much longer duration of action; however, due to its slow onset, it is not an ideal sole agent for procedural analgesia in most situations. The slow onset also results in a more painful injection when used as a sole agent because one cannot practically ‘freeze ahead of the needle’; the recipient, therefore, feels the needle tip traversing throughout the tissues being infiltrated, a painful experience. In addition, bupivacaine, similar to lidocaine, is commercially supplied as an acidic solution, especially those prepared with epinephrine; the acidity contributes to injection pain."*
 * 2012 - [Virtually painless local anesthesia: diluted lidocaine proves to be superior to buffered lidocaine for subcutaneous infiltration](https://pubmed.ncbi.nlm.nih.gov/23134997/) by Martin Zaiac, Shino Bay Aguilera, Larissa Zaulyanov-Scanlan, Caroline Caperton, Stacy Chimento
-* 2009 - [Comparison of bupivacaine and lidocaine with epinephrine for digital nerve blocks](https://pubmed.ncbi.nlm.nih.gov/19386869/) by 
+* 2009 - [Comparison of bupivacaine and lidocaine with epinephrine for digital nerve blocks](https://pubmed.ncbi.nlm.nih.gov/19386869/) by
 M Alhelail, M Al-Salamah, M Al-Mulhim, S Al-Hamid - *"Lidocaine (1%) with epinephrine (1:100 000) was significantly less painful and had a shorter duration of action than bupivacaine (0.5%), which had a similar onset of action for digital nerve block."*
 * 2003 - [On the Mechanism by Which Epinephrine Potentiates Lidocaine's Peripheral Nerve Block](https://anesthesiology.pubs.asahq.org/article.aspx?articleid=1943768)
 * 2001 - [An introduction to Pharmacology and Drug Doses](https://www.wfsahq.org/components/com_virtual_library/media/6889187bc6da4683f4b93183342e1c2b-Pharmacology-and-Drug-Doses---An-Introduction--Update-24-2-2.pdf) by Lauren Barker - has old/new drug names - lignocaine -> lidocaine, adrenaline -> epinephrine, - *"Changes in Drug Names New   regulations   from   the   EEC   now   require   the   use   of   the Recommended  International  Non-proprietary  Name  (rINN)  for drugs. In drugs where there is concern that a name change may pose a  serious  risk  to  patients,  both  the  British  Approved  Name  (BAN) and the rINN name will appear on the drug ampoule for at least the next 5 years. In other cases, the new name will appear alone.Some examples of name changes that will affect anaesthetists are:"*
@@ -730,7 +730,7 @@ YouTube
 * [Electrolysis Prep for SRS Surgery: Session One](https://www.youtube.com/watch?v=7TmBC5F6aZU) by Jasmine Huete in 2018
 * [How much hair needs to be removed from the genital zone before a Sex Reassignment Surgery (SRS)?](https://www.youtube.com/watch?v=-Iue3ugiP1E) by 2pass Clinic in 2018 (in Dutch)
 
-Surgeons reccomendations 
+Surgeons reccomendations
 
 * https://www.mozaiccare.net/hair-removal-diagrams
 * https://marcibowers.com/mtf/your-surgery/preparation
@@ -1017,7 +1017,7 @@ reddit
 
 Key detailt
 
-* Level 1/51 Bridge Rd, Richmond VIC 3121 
+* Level 1/51 Bridge Rd, Richmond VIC 3121
 * https://aem-electrolysis.com.au
 
 reddit
@@ -1046,7 +1046,7 @@ Laser
 <br />
 
 #### Nicolsons Electrolysis
- 
+
 The site of Katherine Spiric, most transwomen I know go here.
 
 Key details
@@ -1251,7 +1251,7 @@ Review sites
 
 Key details
 
-* Corpo Bella Electrolosis, 69 Hammad Street, ***Palmyra*** WA 6157 
+* Corpo Bella Electrolosis, 69 Hammad Street, ***Palmyra*** WA 6157
 * https://www.corpobella.com.au
 
 reddit
@@ -1436,7 +1436,7 @@ Surgeon Marci Bowers has a list of genital hair removal places in the USA
 reddit
 
 * [Mass Electrolysis](https://www.reddit.com/r/ask_transgender/comments/ggqboe/mass_electrolysis/) by Hikki07 in 2020
-* [22 hours of galvanic electrolysis, 3 days straight.](https://www.reddit.com/r/Transgender_Surgeries/comments/dp329m/22_hours_of_galvanic_electrolysis_3_days_straight/) by shinyfuture in 2019 - mentions Senzo Pelo in Scottsdale. 
+* [22 hours of galvanic electrolysis, 3 days straight.](https://www.reddit.com/r/Transgender_Surgeries/comments/dp329m/22_hours_of_galvanic_electrolysis_3_days_straight/) by shinyfuture in 2019 - mentions Senzo Pelo in Scottsdale.
 * [I Just Did My Second Session of Large Volume (AKA Marathon) Electrolysis -- Write-up and AMA (Repost because I accidentally deleted the first one)](https://www.reddit.com/r/MtF/comments/d3yrf8/i_just_did_my_second_session_of_large_volume_aka/) by emlist in 2019 - this is with Precision Hair Removal in Chicago.
 * [Where in the continental US can you get electrolysis with lidocaine injections?](https://www.reddit.com/r/asktransgender/comments/6687h2/where_in_the_continental_us_can_you_get/) around 2017
 
@@ -1450,7 +1450,7 @@ YouTube
 
 <br />
 
-### AboutYou Hair Removal 
+### AboutYou Hair Removal
 
 Not sure what the connection is between this and Precision Hair Removal - looks like the same place?
 
@@ -1523,7 +1523,7 @@ https://altgo.us/pages/local-resources.html#hair-removal
 
 ### Arizona
 
-#### The Meltzer Clinic PC 
+#### The Meltzer Clinic PC
 
 * Scottsdale, Arizona
 * Anesthetic injections

@@ -65,7 +65,7 @@ Susans
 * [Dr.Dimaggio FFS PICS! Karmagirl revealed!](https://www.susans.org/forums/index.php/topic,211233.0.html) by KarmaGirl in 2016
 * https://www.danceswithgender.com/category/body-mods/ffs/page/3/
 
-YouTube 
+YouTube
 
 * [Me opero el rostro con Marcelo Di Maggio - My facial surgery with Marcelo Di Maggio](https://www.youtube.com/watch?v=I9gMTciR7jQ) by QUEEN Solutions in 2019
 
@@ -73,7 +73,7 @@ YouTube
 
 ---
 
-### Javier Luis Rossi 
+### Javier Luis Rossi
 
 Location
 
@@ -81,7 +81,7 @@ Location
 
 Surgeons site
 
-* http://www.t-change.com/ 
+* http://www.t-change.com/
 * https://www.realself.com/find/Argentina/Plastic-Surgeon/Javier-Rossi
 
 reddit
@@ -379,7 +379,7 @@ reddit
 
 ---
 
-### Marc DuPéré 
+### Marc DuPéré
 
 Location
 
@@ -479,7 +479,7 @@ reddit
     * [Painful scarring results of botched facelift by elahi mohammed](https://www.reddit.com/r/PlasticSurgery/comments/1e40250/painful_scarring_results_of_botched_facelift_by/) by hexxanna in 2024
     * [Feeling depressed after nightmare facelift failure with dr Elahi mohammed](https://www.reddit.com/r/cosmeticsurgery/comments/1e363bl/feeling_depressed_after_nightmare_facelift/) by hexxanna in 2024
     * [Lower facelift results by dr Mohammed elhai story in comments](https://www.reddit.com/r/cosmeticsurgery/comments/1dymazc/lower_facelift_results_by_dr_mohammed_elhai_story/) by hexxanna in 2024
- 
+
 YouTube
 
 * [my nightmare facelift by dr Elahi Mohammed](https://www.youtube.com/watch?v=03dvIgq7-UA) by Ebony with a hint of Rose in 2024 - this was posted by reddit user [u/hexxanna](https://www.reddit.com/user/hexxanna) in [Condensed video of nightmare facelift failure surgery by dr Elahi Mohammed ](https://www.reddit.com/r/cosmeticsurgery/comments/1e7jdlc/condensed_video_of_nightmare_facelift_failure/) in 2024 along with a realself review [The absolute worst decision I could have ever made in my life](https://www.realself.com/review/smas-facelift-no-results-scarring-painful-recovery)
@@ -763,7 +763,7 @@ Huge amount of info on surgery in Korea on purseforum
 * [Reasons why a former interpreter at a Korean plastic surgery hospital don't do plastic surgery](https://forum.purseblog.com/threads/reasons-why-a-former-interpreter-at-a-korean-plastic-surgery-hospital-dont-do-plastic-surgery.1019354/) in 2019
 * [Blacklist of the Korean plastic surgery](https://forum.purseblog.com/threads/blacklist-of-the-korean-plastic-surgery.989495/) in 2018
 
-posts 
+posts
 
 * [The Ultimate Plastic Surgery Clinic guide in Seoul, Korea](https://forum.purseblog.com/threads/the-ultimate-plastic-surgery-clinic-guide-in-seoul-korea.980072/) by pssk029 in 2018
 
@@ -826,7 +826,7 @@ Sites
 
 YouTube
 
-* [MY KOREAN PLASTIC SURGERY: Transgender Feminization Pt 1](https://www.youtube.com/watch?v=Ugkj6Aos-uE) by ~~mackymaximilian~~ 
+* [MY KOREAN PLASTIC SURGERY: Transgender Feminization Pt 1](https://www.youtube.com/watch?v=Ugkj6Aos-uE) by ~~mackymaximilian~~
 MXN Media = Transfemme Art + Beauty & Cosplay in 2019
 
 ---
@@ -1095,7 +1095,7 @@ YouTube
 
 ---
 
-## Jesús Báez Márquez 
+## Jesús Báez Márquez
 
 Location
 
@@ -1150,7 +1150,7 @@ Surgeons sites
 
 reddit
 
-* [Dr.Malagon and FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/1ceulv7/drmalagon_and_ffs/) by hybridrep 
+* [Dr.Malagon and FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/1ceulv7/drmalagon_and_ffs/) by hybridrep
 in 2024 - *"I got FFS from Dr.Hector Malagon in Mexico City of last year... I got hairline advance/rounding-trichophytic incision - with jaw v-line, chin sliding genioplasty, “cat eyes” lateral canthoplasty, and nose. I was not happy at all with the outcome. I ended up with one eye having a huge noticeable difference compared to the other eye which looked like he didn’t even touch it. I got chin pstosis that was more on the right side as you look at me rather than center, basically he left me with a bump of soft tissue for a chin... I did all my follow ups and also expressed my concerns to him. He wasn’t even listening and it seemed like he was just gaslighting me. When I told him about my eye and chin, he said I had to wait for the eye to get its shape back and the brow will raise up as well. That didn’t happen. He said the same for the chin pstosis. When I reached out for my last follow up with him at 6 month post surgery, I asked him if he could give me my ct scan. This was all followed up with a “send pictures” response. There was no change. At 6 months everything flaw he did still was there AND I always got gendered male. Luckily I had a cat scan done pre FFS and post FFS. He cut off too much bone from my chin and jaw. The soft tissue work was not great at all."*
 * [FFS with Dr.Malagon](https://www.reddit.com/r/Transgender_Surgeries/comments/159hixl/ffs_with_drmalagon/) by KingFemme7 in 2023
     * [Dr.Hector Malagon](https://www.reddit.com/r/Transgender_Surgeries/comments/155x3ij/drhector_malagon/) by KingFemme7 in 2023
@@ -1274,7 +1274,7 @@ reddit
 
 YouTube
 
-* [Goodfellow Symposium 2017 - Zac Moaveni - Facial trauma](https://www.youtube.com/watch?v=yJ3_Rs-eX5Y) by 
+* [Goodfellow Symposium 2017 - Zac Moaveni - Facial trauma](https://www.youtube.com/watch?v=yJ3_Rs-eX5Y) by
 Goodfellow Unit in 2017
 * [Dr Zachary Moaveni - Plastic & Reconstructive Surgeon - 2015 Rotorua GP CME](https://www.youtube.com/watch?v=bxXpZeG7bEo) by  Mobile Health in 2015
 
@@ -1453,8 +1453,8 @@ realself
 http://www.medtourismorg.com/index/detail/hygieia-turkey/id/662/
 
 https://www.kadinlarkulubu.com/forum/threads/dr-muzaffer-celik-ve-esma-demirezen-sahte-doktor-scam-artists.1089364/
-> I had an operation last year with this company www.hygieiaturkey.com. Esma Demirezen does not care about the patient aftercare whatsoever and has ruined many people's lives by choosing bad and greedy surgeons whilst taking commission from the operation and then denying any wrong work.   
-> Please avoid her company. You may contact me for photos or other information. I had a revision rhinoplasty (under her guidance) which was not needed, skull bone graft to fix cheekbone and chin/jaw adjustment which gave very bad results and I must suffer with these scars on my face for the rest of my life. When you ask her to fix it, she charges more consultation fees instead of abiding by the 100% patient satisfaction on her website. She only cares about money and should be banned from medical profession. I requested a female nurse after operation but woke up to a male nurse who looked after me whilst I was temporarily blinded for 3 days post-op due to bruising. She did not even care that she had ignored one simple request! And he was the only male nurse on the floor.    
+> I had an operation last year with this company www.hygieiaturkey.com. Esma Demirezen does not care about the patient aftercare whatsoever and has ruined many people's lives by choosing bad and greedy surgeons whilst taking commission from the operation and then denying any wrong work.
+> Please avoid her company. You may contact me for photos or other information. I had a revision rhinoplasty (under her guidance) which was not needed, skull bone graft to fix cheekbone and chin/jaw adjustment which gave very bad results and I must suffer with these scars on my face for the rest of my life. When you ask her to fix it, she charges more consultation fees instead of abiding by the 100% patient satisfaction on her website. She only cares about money and should be banned from medical profession. I requested a female nurse after operation but woke up to a male nurse who looked after me whilst I was temporarily blinded for 3 days post-op due to bruising. She did not even care that she had ignored one simple request! And he was the only male nurse on the floor.
 > My life is ruined because of her organisation and her denial of what she has done. The after-care experience was terrible. I was in pain and she didn't help. She was so obsessed with payment for operation that if I couldn't pay in full for the extra operations she suggested - I would have to walk to the ATM everyday and withdraw the money straight after the surgery!! She told me of an instance where her rhinoplasty patient had to visit the ATM every day for a week to withdraw the money for their operation as their bank transfer failed. Do you really want this person overseeing your health in a foreign country? Be warned! There are better doctors and more compassionate people in Turkey. Esma Demirezen is just in the medical industry for money!
 
 <br />

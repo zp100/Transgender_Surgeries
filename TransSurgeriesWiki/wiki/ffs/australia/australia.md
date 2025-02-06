@@ -22,7 +22,7 @@ List of gender surgeons, most of who I've never heard of.
 
 # New South Wales
 
-## Paul Gerarchi 
+## Paul Gerarchi
 
 Location
 
@@ -173,9 +173,9 @@ Other
 ---
 
 ## Chaithan Reddy
- 
+
 Location
- 
+
 * St Leonards, Sydney
 * Central Coast
 
@@ -340,7 +340,7 @@ Other
 ## Stephen Kleid
 
 Location
- 
+
 * Melbourne
 
 reddit
@@ -464,7 +464,7 @@ transition reviews (funded by 2pass Clinic)
 
 * [Facial feminization surgery](https://transitionreviews.com/en/reviews/mark-lee-md/67) in 2018
 
-## Linda Monshizadeh 
+## Linda Monshizadeh
 
 Surgeons sites
 

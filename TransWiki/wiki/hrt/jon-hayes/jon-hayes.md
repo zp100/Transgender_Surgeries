@@ -29,7 +29,7 @@ Dr Hayes often used 200mg implants, and these have the potential to raise your e
 
 # Getting Your Hayes Medical History
 
-You should try to get your medical history to give to your new doctor. You can request it from Dr Hayes via email at reception.drjonhayes@gmail.com, but there is a time limit so don't leave it. He is sending them out, but there's no telling when you'll get them. Some have, but many have not. 
+You should try to get your medical history to give to your new doctor. You can request it from Dr Hayes via email at reception.drjonhayes@gmail.com, but there is a time limit so don't leave it. He is sending them out, but there's no telling when you'll get them. Some have, but many have not.
 
 If you don't have your history from Dr Hayes, and need it, follow these instructions (from Facebook)
 

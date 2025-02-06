@@ -11,7 +11,7 @@ There's a lot of discussion/argument about the proper HRT protocol, to the point
 ## reddit
 
 * [r/AskMtFHRT](https://www.reddit.com/r/AskMtFHRT) - normal discussion of HRT
-* ~~[r/MtFHRT](https://www.reddit.com/r/MtFHRT) - very advanced information on HRT~~ 
+* ~~[r/MtFHRT](https://www.reddit.com/r/MtFHRT) - very advanced information on HRT~~
 * [r/TransfemScience](https://www.reddit.com/r/TransfemScience)
 * [r/DrWillPowers](https://www.reddit.com/r/DrWillPowers)
 * [r/TransDIY](https://www.reddit.com/r/TransDIY) - HRT without a doctor, this sub has a good [wiki](https://www.reddit.com/r/TransDIY/wiki/index)
@@ -30,7 +30,7 @@ Facebook groups
 
 ## Dr Will Powers
 
-Dr William Powers is *very* popular US doctor with 1500+ trans patients who has developed and documented *"The Powers Method of Hormonal Transitioning"*. 
+Dr William Powers is *very* popular US doctor with 1500+ trans patients who has developed and documented *"The Powers Method of Hormonal Transitioning"*.
 
 * /u/Drwillpowers - he's also a regular reddit poster
 * https://www.reddit.com/r/DrWillPowers - his reddit sub and a [wiki](https://www.reddit.com/r/DrWillPowers/wiki/index) listing doctors who use the Powers Method
@@ -223,7 +223,7 @@ However injectable hormones will likely crystallise out of solution in the cold,
 
 Lena of DIY fame says her injectable estrogen have a 5-year shelf-life, limited by the oil going rancid. This is far longer than pharmaceutical vials of estrogen. I don't know how you can tell if the oil is rancid or the vial has become dangerous (or more dangerous since this is homemade).
 
-Patches lose their stickiness when very old, speaking from personal experience. 
+Patches lose their stickiness when very old, speaking from personal experience.
 
 Raw estradiol/estradiol valerate powder probably has a very long shelf-life, especially when stored below zero. I would assume if you compound your own HRT (e.g. pills, gel, injections) this could last decades (and very cheap). Obviously there's additional health and possibly legal risks doing this and very few do. There's relevant links elsewhere on this page.
 
@@ -302,7 +302,7 @@ reddit
 
 The Baffler
 
-* [Doctors Who? Radical lessons from the history of DIY transition](https://thebaffler.com/salvos/doctors-who-gill-peterson) by 
+* [Doctors Who? Radical lessons from the history of DIY transition](https://thebaffler.com/salvos/doctors-who-gill-peterson) by
 Jules Gill-Peterson in 2022
 
 Papers
@@ -341,7 +341,7 @@ Papers
 
 * 2006 - [A Facile Total Synthesis of ent-17β-Estradiol and Structurally–Related Analogues](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3791855/) by Zu Yun Cai and Douglas F. Covey
 
- 
+
 
 <br />
 
@@ -472,7 +472,7 @@ Vice
 Reuters
 
 * [FDA requires disclosure of suicide risk for anti-baldness drug](https://www.reuters.com/business/healthcare-pharmaceuticals/fda-requires-disclosure-suicide-risk-anti-baldness-drug-2022-06-10/) in 2022 - *"U.S. health regulators rejected a request to remove popular anti-baldness pill Propecia and its generic versions from the market, but for the first time required patient notification about reports of suicidal behavior in men taking the drug... As early as 2009, Merck knew of more than 200 reports of depression, including suicidal thoughts, in men taking Propecia, according to an internal "risk management" assessment from that year, which was contained in court documents made public following a Reuters request."*
-    * [Judge orders Merck documents on anti-baldness drug Propecia unsealed](https://www.reuters.com/business/healthcare-pharmaceuticals/judge-orders-merck-documents-anti-baldness-drug-propecia-unsealed-2021-01-25/) in 2021 - 
+    * [Judge orders Merck documents on anti-baldness drug Propecia unsealed](https://www.reuters.com/business/healthcare-pharmaceuticals/judge-orders-merck-documents-anti-baldness-drug-propecia-unsealed-2021-01-25/) in 2021 -
 
 Other
 
@@ -514,7 +514,7 @@ Filter
 
 * [How the Criminalization of Testosterone Attacks Gender Variant People](https://filtermag.org/testosterone-criminalization/) by Adryan Corcione December 2, 2021	
 
-## Testosterone for Trans Women 
+## Testosterone for Trans Women
 
 I'm still researching this, and what's here would no doubt be against a normal medical advice.
 
