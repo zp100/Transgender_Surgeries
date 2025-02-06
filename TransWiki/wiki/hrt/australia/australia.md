@@ -1,6 +1,6 @@
 **HRT in Australia**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
 
 ---
 
@@ -10,14 +10,14 @@ This is mainly about MTF, although the the doctors and psych's medical professio
 
 # Doctors By State
 
-* [ACT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/act/act.md)
-* [New South Wales<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nsw/nsw.md)
-* [Queensland<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/qld/qld.md)
-* [South Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/sa/sa.md)
-* [Tasmania<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/tas/tas.md)
-* [Victoria<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/vic/vic.md)
-* [Western Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/wa/wa.md)
-* [Northern Territory<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nt/nt.md)
+* [ACT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/act/act.md)
+* [New South Wales<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/nsw/nsw.md)
+* [Queensland<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/qld/qld.md)
+* [South Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/sa/sa.md)
+* [Tasmania<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/tas/tas.md)
+* [Victoria<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/vic/vic.md)
+* [Western Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/wa/wa.md)
+* [Northern Territory<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/nt/nt.md)
 
 ## Australian Guidelines
 
@@ -142,15 +142,15 @@ reddit
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia, 
-* Wiki entry [HRT Introduction<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md)
-* Wiki entry on [Implants<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md)
-* Wiki entry on [Compounding Pharmacies<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/compounding-pharmacies/australia/australia.md) - implants, injections, topical anesthetics, etc
+* Wiki entry [HRT Introduction<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/hrt.md)
+* Wiki entry on [Implants<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implants/implants.md)
+* Wiki entry on [Compounding Pharmacies<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/compounding-pharmacies/australia/australia.md) - implants, injections, topical anesthetics, etc
 * Australian trans sub /r/transgenderau/
 * /r/transgenderau post [Essential guides and state specific info<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/daad16/) by MissTortoise in 2019
-* This wiki, page [Australian Psychs and Therapists<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md).
+* This wiki, page [Australian Psychs and Therapists<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md).
 * The Facebook group [NovaTrue](https://www.facebook.com/groups/NovaTrue/permalink/2130966700533462/) is very active on HRT in Sydney.
 * https://www.ygender.org.au/tgd-healthcare-reviews - list of doctors and reviews
-* Retired Sydney endo [Dr Jonathan Hayes<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md) - there's talk on the NovaTrue Facebook group of him coming back in 2020.
+* Retired Sydney endo [Dr Jonathan Hayes<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md) - there's talk on the NovaTrue Facebook group of him coming back in 2020.
 * https://transitioningdownunder.com/post/87371876421/medical-practitioners - list of doctors and psych's in Australia with some reviews.
 * [SIMPLIFIED Gender Diverse Healthcare in Australia](https://docs.google.com/document/d/1-hn_YApOScn4ji3jEM0FTizGCOW8S6iyvNR4DsxzlL4/edit) - see reddit post [here<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/whaiig/new_simplified_healthcare_master_doc/).
 
@@ -196,7 +196,7 @@ Personally I'd try to avoid doctors who do not prescribe implants even if I didn
 
 # Estrogen Injections
 
-Estrogen injections are not common in Australia, but can be sourced from some [Compounding Pharmacies in Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/compounding-pharmacies/australia/australia.md) (with a doctors prescription).
+Estrogen injections are not common in Australia, but can be sourced from some [Compounding Pharmacies in Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/compounding-pharmacies/australia/australia.md) (with a doctors prescription).
 
 Syringes and needles are available without prescription in Australia. You should be able to get them from a pharmacy, but there's also online medical suppliers where you can order them. I can't speak from personal experience, but you could look at
 
@@ -257,11 +257,11 @@ You may also come across the synthetic progesterone [Medroxyprogesterone Acetate
 
 # Informed Consent
 
-Some doctors now now follow the [informed consent<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#informed-consent) model, meaning you can get HRT prescribed just like anyone else can get medical care. No psych.
+Some doctors now now follow the [informed consent<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#informed-consent) model, meaning you can get HRT prescribed just like anyone else can get medical care. No psych.
 
 You may be asked to sign one or more multi-page documents informing you of the risks of what you are doing.
 
-If you need to see a psychiatrist for a HRT or surgery letter, see the [Australian Psychs & Therapists<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md) page.
+If you need to see a psychiatrist for a HRT or surgery letter, see the [Australian Psychs & Therapists<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md) page.
 
 ### Informed Consent Map
 
@@ -292,7 +292,7 @@ Private Blood Testing
 
 # DIY
 
-A few people buy their HRT online without using a doctor. See the [main HRT page<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md#diy) for more.
+A few people buy their HRT online without using a doctor. See the [main HRT page<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/hrt.md#diy) for more.
 
 reddit
 
@@ -342,4 +342,4 @@ reddit
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**

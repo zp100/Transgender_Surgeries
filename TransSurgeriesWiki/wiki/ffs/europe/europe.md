@@ -1,6 +1,6 @@
 **FFS in Europe**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
 
 ---
 
@@ -1588,4 +1588,4 @@ reddit
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**

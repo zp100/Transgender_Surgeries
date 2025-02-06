@@ -1,6 +1,6 @@
 **Australia**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
 
 ---
 
@@ -36,16 +36,16 @@ Other
 
 Wiki pages
 
-* [HRT Introduction<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md)
-* [HRT in Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md) lists doctor prescribing HRT and reviews
-* [Compounding Pharmacies<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/compounding-pharmacies/australia/australia.md)
-* [Australian Psychiatrists & Therapists<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
+* [HRT Introduction<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/hrt.md)
+* [HRT in Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md) lists doctor prescribing HRT and reviews
+* [Compounding Pharmacies<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/compounding-pharmacies/australia/australia.md)
+* [Australian Psychiatrists & Therapists<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
 
 <br />
 
 # Hair removal
 
-* [Hair Removal<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hair-removal/hair-removal.md)
+* [Hair Removal<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hair-removal/hair-removal.md)
 
 <br />
 
@@ -53,16 +53,16 @@ Wiki pages
 
 Wiki pages
 
-* [Introduction<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md)
-* [Facial Feminisation Surgery<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/australia/australia.md)
-* [Male to Female Genital Surgery<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/australia/australia.md)
-* [Voice Feminisation Surgery<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/australia/australia.md)
+* [Introduction<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md)
+* [Facial Feminisation Surgery<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/ffs/australia/australia.md)
+* [Male to Female Genital Surgery<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/australia/australia.md)
+* [Voice Feminisation Surgery<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/vfs/australia/australia.md)
 
 Other popular destinations for surgery
 
-* [Thailand for genital surgery<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
-* [Facial Team<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/europe/europe.md#facial-team) in Spain for FFS
-* [Yeson in Korea<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/vfs/korea/korea.md#hyung-tae-kim-yeson) for Voice Feminization surgery
+* [Thailand for genital surgery<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
+* [Facial Team<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/ffs/europe/europe.md#facial-team) in Spain for FFS
+* [Yeson in Korea<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/vfs/korea/korea.md#hyung-tae-kim-yeson) for Voice Feminization surgery
 
 <br />
 
@@ -306,4 +306,4 @@ Facebook
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**

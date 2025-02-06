@@ -1,18 +1,18 @@
 **SRS in South America**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
 
 ---
 
 SRS in other regions
 
-* [Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/australia/australia.md)
-* [Canada<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/canada/canada.md)
-* [Europe<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/europe/europe.md)
-* [South America<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/south-america/south-america.md)
-* [Thailand<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
-* [USA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/usa/usa.md)
-* [Other<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/other/other.md)
+* [Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/australia/australia.md)
+* [Canada<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/canada/canada.md)
+* [Europe<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/europe/europe.md)
+* [South America<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/south-america/south-america.md)
+* [Thailand<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
+* [USA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/usa/usa.md)
+* [Other<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/other/other.md)
 
 ---
 
@@ -429,7 +429,7 @@ Papers
 
 # Mexico
 
-Mexico is in North America, and in the [Other<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/other/other.md) Wiki page.
+Mexico is in North America, and in the [Other<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/other/other.md) Wiki page.
 
 <br />
 
@@ -479,4 +479,4 @@ reddit
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**

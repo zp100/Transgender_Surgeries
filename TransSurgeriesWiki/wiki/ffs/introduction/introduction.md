@@ -1,16 +1,16 @@
 **FFS Introduction**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
 
 ---
 
 Surgeons by country
 
-* [Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/australia/australia.md)
-* [Europe<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/europe/europe.md)
-* [USA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/usa/usa.md)
-* [Thailand<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/thailand/thailand.md)
-* [Other<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/ffs/other/other.md)
+* [Australia<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/ffs/australia/australia.md)
+* [Europe<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/ffs/europe/europe.md)
+* [USA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/ffs/usa/usa.md)
+* [Thailand<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/ffs/thailand/thailand.md)
+* [Other<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/ffs/other/other.md)
 
 ---
 
@@ -467,4 +467,4 @@ Surgeons
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**

@@ -1,25 +1,25 @@
 **HRT in South Australia (SA)**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
 
 ---
 
 HRT in other states of Australia
 
-* [ACT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/act/act.md)
-* [NSW<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nsw/nsw.md)
-* [QLD<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/qld/qld.md)
+* [ACT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/act/act.md)
+* [NSW<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/nsw/nsw.md)
+* [QLD<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/qld/qld.md)
 * SA
-* [TAS<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/tas/tas.md)
-* [VIC<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/vic/vic.md)
-* [WA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/wa/wa.md)
-* [NT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nt/nt.md)
+* [TAS<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/tas/tas.md)
+* [VIC<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/vic/vic.md)
+* [WA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/wa/wa.md)
+* [NT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/nt/nt.md)
 
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia, 
-* [Telehealth<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#telehealth) - Doctors who work on line prescribing across Australia
-* Wiki entry [Australian Psychiatrists & Therapists<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
+* [Telehealth<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md#telehealth) - Doctors who work on line prescribing across Australia
+* Wiki entry [Australian Psychiatrists & Therapists<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
 * [Trans Health SA](http://www.transhealthsa.com/) and [SA PRACTITIONERS’ LIST](http://www.transhealthsa.com/sa-practitioners-list-3/)
 *  *PDF warning* [SA Practitioners List. A Community Directory for Sex and Gender Diverse Persons in South Australia](http://www.transhealthsa.com/wp-content/uploads/2019/05/SA-Practitioners-List-27.05.2019.pdf) - this is quite extensive
 * /r/transgenderau [wiki for South Australia<sup>R</sup>](https://www.reddit.com/r/transgenderau/wiki/resources-sa)
@@ -127,7 +127,7 @@ Key details
 
 * Endocrinologist
 * http://www.endocrineconsultantssa.com.au/dr-anthony-tony-roberts/
-* Among other things he prescribes Ethinyl Estradiol (Microgynon 50 ED), which is [not safe<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md#ethinyl-estradiol).
+* Among other things he prescribes Ethinyl Estradiol (Microgynon 50 ED), which is [not safe<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/hrt.md#ethinyl-estradiol).
 
 reddit
 
@@ -632,4 +632,4 @@ Key details
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**

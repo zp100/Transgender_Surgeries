@@ -1,27 +1,27 @@
 **HRT in New South Wales (NSW)**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
 
 ---
 
 HRT in other states of Australia
 
-* [ACT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/act/act.md)
+* [ACT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/act/act.md)
 * NSW
-* [QLD<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/qld/qld.md)
-* [SA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/sa/sa.md)
-* [TAS<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/tas/tas.md)
-* [VIC<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/vic/vic.md)
-* [WA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/wa/wa.md)
-* [NT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/nt/nt.md)
+* [QLD<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/qld/qld.md)
+* [SA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/sa/sa.md)
+* [TAS<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/tas/tas.md)
+* [VIC<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/vic/vic.md)
+* [WA<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/wa/wa.md)
+* [NT<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/nt/nt.md)
 
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia, 
 * transhub [Gender Affirming Doctor List](https://www.transhub.org.au/doctors) - the best list of HRT prescribing doctors in NSW and there's a map showing where they all are
-* [Telehealth<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md#telehealth) - Doctors who work on line prescribing across Australia
-* Wiki page [HRT Introduction<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/hrt.md)
-* Wiki page [Australian Psychiatrists & Therapists<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
+* [Telehealth<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md#telehealth) - Doctors who work on line prescribing across Australia
+* Wiki page [HRT Introduction<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/hrt.md)
+* Wiki page [Australian Psychiatrists & Therapists<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
 * Trans Health Australia [Medical Practitioners in NSW / ACT](http://www.transhealthaustralia.org/index.php/nsw-act/3-medical-practitioners-nsw-act)
 * /r/transgenderau [wiki for ACT & NSW<sup>R</sup>](https://www.reddit.com/r/transgenderau/wiki/resources-nsw)
 * [Hunter Gender Alliance](https://www.huntergenderalliance.org/) - *"The Hunter Gender Alliance (HGA) is a network of trans and gender diverse (TGD) people, health professionals, family members, and allies. HGA works to make life better for TGD people in the Hunter and surrounding areas, including Newcastle."*
@@ -52,7 +52,7 @@ Dr Hayes started practicing again in 2021.
 
 **Estrogen Implants**
 
-Unlike Dr Hayes our current doctors are extremely reluctant to prescribe 200mg implants, and its not clear who does (see Dr Michelle Guttman-Jones). If they do then it would be on a case by case basis and if you hear of someone getting them it doesn't mean you will. There's some further information on implants [here<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/implants/implants.md).
+Unlike Dr Hayes our current doctors are extremely reluctant to prescribe 200mg implants, and its not clear who does (see Dr Michelle Guttman-Jones). If they do then it would be on a case by case basis and if you hear of someone getting them it doesn't mean you will. There's some further information on implants [here<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implants/implants.md).
  
 Some of the doctors on the transhub list say
 
@@ -1972,4 +1972,4 @@ reddit
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**

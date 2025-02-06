@@ -1,15 +1,15 @@
 **Australian Psychiatrists & Therapists**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
 
 ---
 
 If you're new to this I recommend reading though the links in this section.
 
 * [DSM5](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria)  - Gender Dysphoria (Transgender) Diagnostic Criteria
-    * [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_dsm5<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#dsm5)
+    * [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_dsm5<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#dsm5)
 * The [WPATH Standards of Care](https://www.wpath.org/publications/soc) are guidelines used my most medical providers for trans people
-    * [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_wpath_standards_of_care<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#wpath-standards-of-care)
+    * [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_wpath_standards_of_care<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#wpath-standards-of-care)
 * PDF [Australian Informed Consent for Gender Affirming Hormone Therapy](https://auspath.org.au/wp-content/uploads/2022/03/AusPATH_Informed-Consent-SoC_A4_2022_FINAL.pdf) by AusPATH in 2022
 
 Gatekeeping (bad)
@@ -58,7 +58,7 @@ Who are the people behind the anti-trans movement in Australia and New Zealand? 
 
 * Roberto D'Angelo, Sydney psychiatrist is a Fellow of the RANZCP and also very active with anti-trans groups both in Australia and abroard.
     * https://transsafety.network/posts/segm-uncovered
-    * wiki entry [below<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md#roberto-dangelo)
+    * wiki entry [below<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md#roberto-dangelo)
 * reddit [National Association of Practicing Psychiatrists' (NAPP) webinar with Dr. Hillary Cass<sup>R</sup>](https://www.reddit.com/r/transgenderau/comments/1d6d7pz/national_association_of_practicing_psychiatrists/) in 2024
 * Dr Patrick Clarke
     * https://www.ranzcp.org/college-committees/offices-and-branches/south-australia/contacts - Branch Chair, Dr Patrick Clarke, RANZCP South Australia Branch, PO Box 103, Fullarton SA 5063, Australia. Note this is the [Royal Australian and New Zealand College of Psychiatrists](https://en.wikipedia.org/wiki/Royal_Australian_and_New_Zealand_College_of_Psychiatrists) which is *"the principal organisation representing the medical specialty of psychiatry in Australia and New Zealand and has responsibility for training, examining and awarding the qualification of Fellowship of the College (FRANZCP) to medical practitioners."*
@@ -1755,7 +1755,7 @@ reddit
 
 ## Monash
 
-There's more information on Monash on the [HRT page<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/hrt/australia/australia.md).
+There's more information on Monash on the [HRT page<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md).
 
 <br />
 
@@ -2715,4 +2715,4 @@ https://www.ratemds.com/doctor-ratings/dr-emma-briggs-perth-wau-au - *"Emma Brig
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**

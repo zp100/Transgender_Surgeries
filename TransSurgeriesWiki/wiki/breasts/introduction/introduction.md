@@ -1,6 +1,6 @@
 **Breast Augmentation**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
 
 ---
 
@@ -245,7 +245,7 @@ Papers
 
 There's further papers by Roger Khouri.
 
-The section on [Hips and Butt<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hips-butt/introduction/introduction.md) describes the dangers of fat transfer, but this appears to apply to BBL only. This paper on BBL [Commentary on: Report on Mortality From Gluteal Fat Grafting: Recommendations From the ASERF Task Force](https://www.ncbi.nlm.nih.gov/pubmed/28486673/28486673.md) by Wall S Jr, Del Vecchio D. in 2017, makes the interesting observation *" An interesting comparison can be made to fat grafting of the breast. Consider that many thousands of fat grafting to the breast procedures have been performed, all of which include fat grafting into the subcutaneous plane. Included in these numbers are over 6000 such operations by just three of the busiest breast fat
+The section on [Hips and Butt<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/hips-butt/introduction/introduction.md) describes the dangers of fat transfer, but this appears to apply to BBL only. This paper on BBL [Commentary on: Report on Mortality From Gluteal Fat Grafting: Recommendations From the ASERF Task Force](https://www.ncbi.nlm.nih.gov/pubmed/28486673/28486673.md) by Wall S Jr, Del Vecchio D. in 2017, makes the interesting observation *" An interesting comparison can be made to fat grafting of the breast. Consider that many thousands of fat grafting to the breast procedures have been performed, all of which include fat grafting into the subcutaneous plane. Included in these numbers are over 6000 such operations by just three of the busiest breast fat
 grafting surgeons in the world, yet it appears that there have been no published reported cases of fatal or nonfatal PFE from fat transplantation to the breast"*. The 3 busiest surgeons are
 
 * Khouri R.
@@ -1291,7 +1291,7 @@ Location
 
 Aka Dr. 6ix
 
-See the [Hips & Butt<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hips-butt/introduction/introduction.md) page for more details.
+See the [Hips & Butt<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/hips-butt/introduction/introduction.md) page for more details.
 
 YouTube
 
@@ -1410,7 +1410,7 @@ reddit
 
 #### Alexander Aslani
 
-There's a lot more on Dr Aslani on the [Hips & Butt<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hips-butt/introduction/introduction.md) page.
+There's a lot more on Dr Aslani on the [Hips & Butt<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/hips-butt/introduction/introduction.md) page.
 
 Location
 
@@ -1894,7 +1894,7 @@ Location
 
 * Santa Monica
 
-See more info on the [Hips and Butt<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hips-butt/introduction/introduction.md) page.
+See more info on the [Hips and Butt<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/hips-butt/introduction/introduction.md) page.
 
 Surgeons sites
 
@@ -2269,7 +2269,7 @@ Papers
 
 ### Florida
 
-Note that many doctors in Florida do not carry malpractice insurance. See the [wiki introduction<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#florida) to see what this means.
+Note that many doctors in Florida do not carry malpractice insurance. See the [wiki introduction<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#florida) to see what this means.
 
 <br />
 
@@ -3204,7 +3204,7 @@ Location
 
 * Texas
 
-See the [Hips and Butt<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/hips-butt/introduction/introduction.md) page for more information on this surgeon.
+See the [Hips and Butt<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/hips-butt/introduction/introduction.md) page for more information on this surgeon.
 
 Surgeons sites
 
@@ -3475,4 +3475,4 @@ Legal
 
 * https://casetext.com/case/united-states-v-alderwood-surgical-ctr - C22-1835RSM, 05-12-2023, *"STATE OF WASHINGTON, Plaintiff, v. ALDERWOOD SURGICAL CENTER, LLC, a Washington limited liability company; NORTHWEST NASAL SINUS CENTER P.S., a Washington professional service corporation; and JAVAD A. SAJAN, M.D., Defendants."*
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**

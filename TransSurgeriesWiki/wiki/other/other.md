@@ -1,6 +1,6 @@
 **Other Surgeries**
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
 
 ---
 
@@ -52,7 +52,7 @@ Lawsuits
 
 Other
 
-* [Transgender Women Feminize Their Feet Through Surgery](https://www.edgemedianetwork.com/story.php?178410) by Dr. Suzanne Levine in 2015 - *"Dr. Suzanne Levine is a Board-Certified Podiatric Surgeon who has been named one of "America's Top Podiatrists" by the Consumers' Research Council of America and is among the most acclaimed podiatrists internationally."* - see wiki entry for [Consumers Research Council of America<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransSurgeriesWiki/wiki/index/index.md#consumers-research-council-of-america)
+* [Transgender Women Feminize Their Feet Through Surgery](https://www.edgemedianetwork.com/story.php?178410) by Dr. Suzanne Levine in 2015 - *"Dr. Suzanne Levine is a Board-Certified Podiatric Surgeon who has been named one of "America's Top Podiatrists" by the Consumers' Research Council of America and is among the most acclaimed podiatrists internationally."* - see wiki entry for [Consumers Research Council of America<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#consumers-research-council-of-america)
 * [Time for Toetox? Park Avenue Podiatrist Tends to Tortured Soles](https://observer.com/2009/04/time-for-toetox-park-avenue-podiatrist-tends-to-tortured-soles/) by Irina Aleksander in 2009 - *"Dr. Levine said her male clients are usually either in the entertainment industry, transgender males trying to fit into women’s shoes or ..."*
 
 ## Gabriel Rodriguez
@@ -723,4 +723,4 @@ reddit
 
 ---
 
-**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/tree/main/TransWiki/wiki/index/index.md)**
+**[Wiki Index<sup>G</sup>](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)**
