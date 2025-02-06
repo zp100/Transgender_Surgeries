@@ -10,7 +10,7 @@ body {
 
 div.markdown {
     a {
-        color: #88e;
+        color: #99e;
     }
     
     :not(.internal) > a {
