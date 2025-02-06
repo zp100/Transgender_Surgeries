@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
     res.redirect('/TransWiki/wiki/index/index.md')
 })
 
-app.get(/.+/, (req, res) => {
+app.get(/(TransSurgeriesWiki|TransWiki)\/.+/, (req, res) => {
     const filePath = join(__dirname, '..', req.originalUrl)
     stat(filePath, (err) => {
         if (err != null) {
