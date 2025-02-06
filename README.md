@@ -17,9 +17,16 @@ I'm not affiliated with any of the people or businesses discussed/linked in this
 
 ## Download
 
-To download your own copy of this wiki, click the green "Code" button and click "Download ZIP", then extract the ZIP folder once it's downloaded. Note that any wiki links in the downloaded copy will still link to this repository, not the pages you just downloaded.
+To download your own copy of just the wiki contents:
 
-The steps above will generate a download from this link: https://github.com/zp100/Transgender_Surgeries/archive/refs/heads/main.zip
+1. Go to the "wiki.zip" file.
+2. Click the "..." button in the top-right.
+3. Under "Raw file content", click "Download".
+4. Once it's downloaded, extract the ZIP folder.
+
+Note that any wiki links in the downloaded copy will still link to this repository, not the pages you just downloaded.
+
+The steps above will generate a download from this link: https://raw.githubusercontent.com/zp100/Transgender_Surgeries/refs/heads/main/wiki.zip
 
 ## Hosting
 
