@@ -1,40 +1,48 @@
-body {
-    width: auto;
-    max-width: 60em;
-    margin: 0 auto;
-    padding: 2em;
-    background-color: #111;
+html {
     color: #eee;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-div.markdown {
-    a {
-        color: #99e;
-    }
-    
-    :not(.internal) > a {
-        /* Copied from Wikipedia. */
-        background-image: url(https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?fb64d);
-        background-position: top right;
-        background-repeat: no-repeat;
-        background-size: 0.5em;
-        padding-right: 0.5em;
+body {
+    width: 100%;
+    margin: 0;
+    background-color: #111;
+}
+
+footer {
+    width: 100%;
+    background-color: black;
+
+    a * {
+        width: 32px;
+        height: 32px;
+        padding: 4px;
     }
 }
 
-div.navbar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    margin: 4px;
+a {
+    color: #99e;
+}
 
+.markdown :not(.internal) > a {
+    /* Copied from Wikipedia. */
+    background-image: url(https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?fb64d);
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 0.5em;
+    padding-right: 0.5em;
+}
+
+.content {
+    width: auto;
+    max-width: 60em;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+.aligned {
     display: flex;
-    flex-flow: column nowrap;
-    row-gap: 4px;
-
-    a {
-        width: 32px;
-        height: 32px;
-    }
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
 }
