@@ -22,9 +22,9 @@ reddit
 * [Made a channel to document my FFS and create high quality medical content related to transgender issues and surgeries. Just had FFS, will be releasing a full documentation on my process soon. Created a short Cinematic trailer here.](https://www.reddit.com/r/Transgender_Surgeries/comments/1bkdd4b/made_a_channel_to_document_my_ffs_and_create_high/) by unblack in 2024 - see https://www.youtube.com/@transflan
     * [2 days post op FFS with Dr. Torres, excited to see the final result](https://www.reddit.com/r/Transgender_Surgeries/comments/1bg8sq9/2_days_post_op_ffs_with_dr_torres_excited_to_see/) by unblack in 2024
 * [45 days post op FFS -- Dr. Emiliano Torres](https://www.reddit.com/r/Transgender_Surgeries/comments/171nuqa/45_days_post_op_ffs_dr_emiliano_torres/) by  jaihind22
- in 2023
+in 2023
      * [FFS before/after: Believe it or not these two pics are only Nine *days* apart!](https://www.reddit.com/r/Transgender_Surgeries/comments/15zr4h3/ffs_beforeafter_believe_it_or_not_these_two_pics/) by  jaihind22
- in 2023
+in 2023
 * [Review of Emiliano Torres](https://www.reddit.com/r/Transgender_Surgeries/comments/vh2f6p/review_of_emiliano_torres/) by dimdum21 in 2022
 * [Opinion of Dr. Emiliano Torres?](https://www.reddit.com/r/Transgender_Surgeries/comments/in8buj/opinion_of_dr_emiliano_torres/) by ymmvmia in 2021
 

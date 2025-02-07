@@ -183,7 +183,7 @@ reddit
     * [March 31st update 5 days later. Surgery March 15th Dr brassard. In Weekly contact with him directly now.](https://www.reddit.com/r/Transgender_Surgeries/comments/127ydwm/march_31st_update_5_days_later_surgery_march_15th/) by throwawaySRSMontreal in 2023
     * [Already contacted surgon just showing for support. GRS March 15th With Brassard. flying caused wound dehiscence, perianal fistula.](https://www.reddit.com/r/Transgender_Surgeries/comments/1225c0j/already_contacted_surgon_just_showing_for_support/) by throwawaySRSMontreal in 2023
 * [No labia minora?](https://www.reddit.com/r/Transgender_Surgeries/comments/18tz3im/no_labia_minora/) by Desperate_Money9491
- in 2023
+in 2023
 * [1month post op no pain no blood we begin the 2month](https://www.reddit.com/r/Transgender_Surgeries/comments/172laka/1month_post_op_no_pain_no_blood_we_begin_the/) by Puzzleheaded_Monk692 in 2023
     * [15 day post op](https://www.reddit.com/r/transtimelines/comments/16pg6jt/15_day_post_op/) by Puzzleheaded_Monk692 in 2023
     * [Post op 8 day by dr brassard . Im so glad to have my vagina now i feel so much better](https://www.reddit.com/r/Transgender_Surgeries/comments/16hx3m3/post_op_8_day_by_dr_brassard_im_so_glad_to_have/) by Puzzleheaded_Monk692 in 2023
@@ -238,7 +238,7 @@ in 2023
 * [Finally after snooping at this group long enough I'm posting my surgery result. 3 years post-op Dr. Brassard. Best decision of my life. Struggled to get a good pic lol](https://www.reddit.com/r/Transgender_Surgeries/comments/xwgz9h/finally_after_snooping_at_this_group_long_enough/) by Own-Dragonfruit-6164 in 2022
 * [My scars have almost disappeared at 2 years](https://www.reddit.com/r/Transgender_Surgeries/comments/xp4uel/my_scars_have_almost_disappeared_at_2_years/) by silksong94 in 2022
     * [Waiting for daddy](https://www.reddit.com/r/Daddy/comments/l0njxd/waiting_for_daddy/)
-    * []()
+    * `broken link`
 * [11 weeks post-op. Uncomfortable. Do I have diaper rash?](https://www.reddit.com/r/Transgender_Surgeries/comments/xfirxk/11_weeks_postop_uncomfortable_do_i_have_diaper/)
     * [Is this a dehiscence? 6 weeks post op. Polysporin?](https://www.reddit.com/r/Transgender_Surgeries/comments/wpcys4/is_this_a_dehiscence_6_weeks_post_op_polysporin/)
     * [MtF surgery recovery milestones curiosity. How did it go for you?](https://www.reddit.com/r/Transgender_Surgeries/comments/wit8n2/mtf_surgery_recovery_milestones_curiosity_how_did/) by zenmtf in 2022

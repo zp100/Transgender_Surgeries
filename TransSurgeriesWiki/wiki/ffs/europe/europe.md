@@ -190,7 +190,7 @@ reddit
 * [FACIALTEAM experiences](https://www.reddit.com/r/MtF/comments/aqgu3n/facialteam_experiences/) in 2019
 * [36 hrs post op FFS with Facial Team Marbella. AMA,I’m bored.](https://www.reddit.com/r/Transgender_Surgeries/comments/ajz8x7/36_hrs_post_op_ffs_with_facial_team_marbella/) by xxxMadisonxxx in 2019
 * [My FFS: Research, Consultations, Surgery, Recovery and Results](https://www.reddit.com/r/Transgender_Surgeries/comments/aigmdv/my_ffs_research_consultations_surgery_recovery/) by 2d4d_data
- in 2019
+in 2019
 * [Any FacialTeam girls have tips/advice/reassurance for me?](https://www.reddit.com/r/Transgender_Surgeries/comments/agirl9/any_facialteam_girls_have_tipsadvicereassurance/) by yosh_yosh_yosh_yosh in 2019
 * [My Facial Team FFS experience w/ pictures (3 weeks post-op)](https://www.reddit.com/r/Transgender_Surgeries/comments/abimg9/my_facial_team_ffs_experience_w_pictures_3_weeks/) by sophiasparkles86 in 2019 - see also [When did your sensation come back after jaw/chin surgery?](https://www.reddit.com/r/Transgender_Surgeries/comments/g1oxqf/when_did_your_sensation_come_back_after_jawchin/fnn0p2a/?context=3) in 2020
 * [Meetings with Facial Team and Yeson Voice Clinic - aftermath](https://www.reddit.com/r/TransLater/comments/a11tvk/meetings_with_facial_team_and_yeson_voice_clinic/) by me_to_kate around 2018/2019
@@ -201,13 +201,13 @@ reddit
 * [Couple of pics undone. Had a consultation with FacialTeam, they said I don't need FFS.True or False? I say FALSE.](https://www.reddit.com/r/transpassing/comments/97e2yu/couple_of_pics_undone_had_a_consultation_with/) by sarh_4 in 2018
 * [Question regarding FacialTeam FFS and acupuncture](https://www.reddit.com/r/asktransgender/comments/92wt8a/question_regarding_facialteam_ffs_and_acupuncture/) by MadameCuriosity in 2018
 * [3.5 months Post-FFS/ no makeup. I still feel weird about how I look :/](https://www.reddit.com/r/transpassing/comments/93rep5/35_months_postffs_no_makeup_i_still_feel_weird/) by Foreveremily
- in 2018, and
+in 2018, and
 * [5+ years HRT, 10 days post-op ffs](https://www.reddit.com/r/transpassing/comments/8fj8ve/5_years_hrt_10_days_postop_ffs/)  by Foreveremily
- in 2018
+in 2018
 * [I had FFS a little over a week ago, and it’s not that I regret it. But there are some interesting points to be made against getting ffs](https://www.reddit.com/r/MtF/comments/8f19l2/i_had_ffs_a_little_over_a_week_ago_and_its_not/) by Foreveremily
- in 2018
+in 2018
 * [I paid a surgeon to tear back my face and make it more feminine looking since I’m self conscious about about being trans. AMA ](https://www.reddit.com/r/casualiama/comments/8euea3/i_paid_a_surgeon_to_tear_back_my_face_and_make_it/) by Foreveremily
- in 2018
+in 2018
 * [Things I Would Have Told Myself Before Having FFS and General Advice About Surgery If You Haven't Had It Before](https://www.reddit.com/r/asktransgender/comments/924c6s/things_i_would_have_told_myself_before_having_ffs/) by Sarah in 2018
 * [Pre and Post FFS CT Scans! Still just a few weeks out from surgery but will post the results later :D](https://www.reddit.com/r/transtimelines/comments/90pnfh/pre_and_post_ffs_ct_scans_still_just_a_few_weeks/) by s_feld in 2018
 * [It's time for Facial Feminization Surgery. And I need help.](https://www.reddit.com/r/asktransgender/comments/3noi2l/its_time_for_facial_feminization_surgery_and_i/) by  IHaveWaitedMyLife
@@ -372,7 +372,7 @@ reddit
 
 reddit
 
-* []()
+* `broken link`
 
 ## Bert Oelbrandt
 

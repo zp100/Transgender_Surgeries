@@ -204,7 +204,7 @@ reddit
 * [Appointment with Michelle Guttman-Jones](https://www.reddit.com/r/transgenderau/comments/e7btd4/appointment_with_michelle_guttmanjones/) by EndlessEden2015 in 2019
 * [Question for those that see Dr Portia Predny in Rozelle/Birkinhead point.](https://www.reddit.com/r/transgenderau/comments/e86nft/question_for_those_that_see_dr_portia_predny_in/) by amy-simmons in 2019
 * [Sydney HRT GP anyone? Running low on the progynova. Hayes still not practicing. Who could I turn to for reliable treatment with HRT (mtf).](https://www.reddit.com/r/transgenderau/comments/e0v7hl/sydney_hrt_gp_anyone_running_low_on_the_progynova/) by  Enceladuus
- in 2019
+in 2019
 * [Help with Estrogen implant](https://www.reddit.com/r/transgenderau/comments/cqo2nu/help_with_estrogen_implant/) by NothAU in 2019
 * [What do i say to my GP?](https://www.reddit.com/r/transgenderau/comments/dsu2j2/what_do_i_say_to_my_gp/) by keiithira in 2019
 * [PSA to anyone wondering about Informed Consent HRT in Sydney](https://www.reddit.com/r/transgenderau/comments/dfengn/psa_to_anyone_wondering_about_informed_consent/) by serious_mullet in 2019
@@ -268,7 +268,7 @@ reddit
 * [Dr Jon Hayes? What to do?](https://www.reddit.com/r/transgenderau/comments/f6ot06/dr_jon_hayes_what_to_do/) by Paige712 in 2020
 * [Appointment with Michelle Guttman-Jones](https://www.reddit.com/r/transgenderau/comments/e7btd4/appointment_with_michelle_guttmanjones/) by EndlessEden2015 in 2019
 * [Sydney HRT GP anyone? Running low on the progynova. Hayes still not practicing. Who could I turn to for reliable treatment with HRT (mtf).](https://www.reddit.com/r/transgenderau/comments/e0v7hl/sydney_hrt_gp_anyone_running_low_on_the_progynova/) by  Enceladuus
- in 2019
+in 2019
 * [Dr Michelle](https://www.reddit.com/r/transgenderau/comments/du7k4y/dr_michelle/) by sparksilldrive in 2019
 * [Help](https://www.reddit.com/r/transgenderau/comments/dt6xms/help/) by sparksilldrive in 2019
 * [Is there anyone on the central coast who can do blood work for measuring hormones?](https://www.reddit.com/r/transgenderau/comments/dt6876/is_there_anyone_on_the_central_coast_who_can_do/) by Bookie_Belle in 2019
@@ -1654,7 +1654,7 @@ Key details
 * Informed consent from 16+
 * No implants
 * Wagga Wagga Family Services, 129 Fitzmaurice St, ***Wagga Wagga*** NSW 2650
- 	* Bulk bills all patients
+	* Bulk bills all patients
   * https://www.transhub.org.au/tgd-doc-list/dr-jonathan-ho
 * Headspace, 2/185 Morgan Street, ***Wagga Wagga*** NSW 2650
   * https://headspace.org.au/headspace-centres/wagga-wagga

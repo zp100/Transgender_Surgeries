@@ -48,7 +48,7 @@ Susans
 * [Looking for Contact info of prof. Marc Remacle](https://www.susans.org/forums/index.php?topic=191902.0) by Lilykit in 2015
 * [Follow up on my Wendler Glottoplasty with Prof Remacle](https://www.susans.org/forums/index.php?topic=194751.0) by Cristal Lecter in 2015
 * [Wendler Glottoplasty with Professor Marc Remacle](https://www.susans.org/forums/index.php?topic=186716.0) by Cristal Muso in 2015
-* [Prof Marc Remacle?]([https://www.susans.org/forums/index.php?topic=160261.0]()) by evenstar in 2014
+* [Prof Marc Remacle?](https://www.susans.org/forums/index.php?topic=160261.0) by evenstar in 2014
 * ~~[Professor Remacle quits VFS to focus on oncology?](https://www.susans.org/forums/index.php?topic=211061.0)~~
 
 Transgender Austria

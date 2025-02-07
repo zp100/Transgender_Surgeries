@@ -523,7 +523,7 @@ reddit
 * [GAV - wound separation 19 days post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/uk59p2/gav_wound_separation_19_days_postop/) by autumn_eevee in 2022
 * [Dr Marci Bowers / 4 months post op / 6” depth. Everything feels and works just fine.](https://www.reddit.com/r/Transgender_Surgeries/comments/udciq2/dr_marci_bowers_4_months_post_op_6_depth/) by ExoticBombshell in 2022
 * [Dr. Bowers 2 years post-op (TW: complications + suic!de attempt)](https://www.reddit.com/r/Transgender_Surgeries/comments/sd2ljg/dr_bowers_2_years_postop_tw_complications_suicde/) by ehu_girl in 2022
-* [How about some DP now that I can]() by Chloraflora in 2021
+* `broken link` by Chloraflora in 2021
     * [6.5 weeks out from GCS with Dr Bowers. Getting there! (NSFW)](https://www.reddit.com/r/Transgender_Surgeries/comments/kttwhd/65_weeks_out_from_gcs_with_dr_bowers_getting/) by Chloraflora in 2021
     * [Post-op dilation becoming a little less chore and a bit more pleasure](https://www.reddit.com/r/Safe4Trans/comments/kfc0x1/postop_dilation_becoming_a_little_less_chore_and/)  by Chloraflora in 2021
     * [A couple of days post op, with Dr Marci Bowers in California. I think she came out well :)](https://www.reddit.com/r/Transgender_Surgeries/comments/k45glk/a_couple_of_days_post_op_with_dr_marci_bowers_in/) by Chloraflora in 2020
@@ -569,7 +569,7 @@ reddit
 * reply to [Dr. Ting, NY.. beware.](https://www.reddit.com/r/Transgender_Surgeries/comments/1f4ajng/dr_ting_ny_beware/lkkq0hu/) by Harmonia_PASB in 2024 - *"Bowers too. My housemate had surgery with Bowers a couple of years ago, she called Bowers office reporting an infection, she was told that’s impossible, Bowers patients don’t get infections. It wasn’t until my housemate’s fever passed 104 degrees that she was given antibiotics. She could have died."*
 * reply to [Coloplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/1f0iz4y/coloplasty/lk9dxyy/) by yaitzme in 2024 - *"I was a Rumer botch from 2015 and had a subsequent revision with bowers in 2016 that also did not get me where I needed to be... I went to bowers for labiaplasty only the year after my initial surgery. She helped lower my urethra to a better position and adjusts some things to look better. Still had a LOT of erectile tissue left over that made sex uncomfortable and painful. She’s a caring person but I think she was being conservative due to the complicated nature of revising Rumers work. Del Corral did what I had been told by other surgeons was basically impossible. All the other drs I consulted with about the aesthetic side told me they wouldn’t be able to fix or said they would have to be conservative. Del Corral Delivered."*
 * reply to [Barring the rare complications, is dilation really as terrible and grueling as people make it out to be?](https://www.reddit.com/r/Transgender_Surgeries/comments/1cw8j8l/barring_the_rare_complications_is_dilation_really/l4w0xc0/?context=3) by ultaviolet9
- - *"I had PIV surgery with Bowers in February 2018. I never had a lot of depth (something like 3.5”) due I guess to not a lot of material. I haven’t dilated at all for many years and it has been fine."*
+- *"I had PIV surgery with Bowers in February 2018. I never had a lot of depth (something like 3.5”) due I guess to not a lot of material. I haven’t dilated at all for many years and it has been fine."*
 * [Twitter thread I did a while ago about my SRS experience](https://www.reddit.com/r/Transgender_Surgeries/comments/1c8cxgn/twitter_thread_i_did_a_while_ago_about_my_srs/) by roguecogue in 2024
 * [Can internal hair post op really cause micro infections?](https://www.reddit.com/r/Transgender_Surgeries/comments/19cou2s/can_internal_hair_post_op_really_cause_micro/) by mililanigirl in 2024 - *"I’m 4 years post op after having grs with Dr. Bowers. Unfortunately, I’ve struggled with some internal hair. I’ve tried everything to get rid of it to no avail. Due to experiencing some chronic illnesses, I’m worried there might be a connection between the two."*
 * [9 years post-op: PI w/ scrotal grafts with Dr. Bowers](https://www.reddit.com/r/Transgender_Surgeries/comments/14sstun/9_years_postop_pi_w_scrotal_grafts_with_dr_bowers/) by MuffzStuffz in 2023
@@ -3247,7 +3247,7 @@ reddit
 * [AMA : Geoffrey Stiller GRS Almost 2 month Post op](https://www.reddit.com/r/asktransgender/comments/9d1omk/ama_geoffrey_stiller_grs_almost_2_month_post_op/) by TheJezebel69 in 2018
 * reply to [I'm about to get srs (vaginoplasty) and I'm worried. I would like to read your post-op experiences.](https://www.reddit.com/r/asktransgender/comments/98daw3/im_about_to_get_srs_vaginoplasty_and_im_worried_i/e4gaspf/) in 2018
 * [TMI warning- I had my first post op orgasm...](https://www.reddit.com/r/asktransgender/comments/7wru5h/tmi_warning_i_had_my_first_post_op_orgasm/) by WintergreenGrin
- in 2018
+in 2018
 * [Dr Stiller vaginoplasty in Pullman, Wa](https://www.reddit.com/r/MtF/comments/6vm9d9/dr_stiller_vaginoplasty_in_pullman_wa/) by lyse242 in 2017
 
 Susans

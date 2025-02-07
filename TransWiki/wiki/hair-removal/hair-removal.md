@@ -818,7 +818,7 @@ Futher information on Dr Sidhbh Gallagher can be found in this wiki <span class=
 
 As an aside, Anne Lawrence is [notorious in the trans community](http://www.tsroadmap.com/info/anne-lawrence.html).
 
- As of 17 April 2022, SRS surgeon **Dr Kathy Rumer** sayson her [website](https://rumergendersurgery.com/gender-reassignment-surgery/vaginoplasty-techniques) (with my itallics)
+As of 17 April 2022, SRS surgeon **Dr Kathy Rumer** sayson her [website](https://rumergendersurgery.com/gender-reassignment-surgery/vaginoplasty-techniques) (with my itallics)
 
 >  Dr. Rumer performs a One-Stage Modified Penile Inversion Vaginoplasty which results in an authentic appearance with excellent depth, function and sensation. In addition, *Dr. Rumer’s Vaginoplasty technique does not require electrolysis or laser hair removal of the genital area before surgery, and there is NO regrowth.*
 

@@ -324,7 +324,7 @@ I've seen a number of complaints about the medical review site [realself](https:
 * reddit/Transgender_Surgeries [FFS Bensimon and Brassard results pics removed from Realself](https://www.reddit.com/r/Transgender_Surgeries/comments/k0cyzg/ffs_bensimon_and_brassard_results_pics_removed/) by HealthyCompote9573 in 2020
 * [How are FAKE Reviews Legal????](https://www.reddit.com/r/PlasticSurgery/comments/enr8hh/how_are_fake_reviews_legal/) by Penguin_Peanut in 2020
 * reddit/PlasticSurgery [How are Fake Reviews Legal](https://www.reddit.com/r/PlasticSurgery/comments/d4tp52/how_are_fake_reviews_legal/) by LanaaKat
- in 2019
+in 2019
 * reddit/PlasticSurgery [DO NOT TRUST REALSELF REVIEWS!](https://www.reddit.com/r/PlasticSurgery/comments/clbb9x/do_not_trust_realself_reviews/) by Davidmiller1083 in 2019
 * reddit/PlasticSurgery [Is it true that realself is corrupt?](https://www.reddit.com/r/PlasticSurgery/comments/bgt54j/is_it_true_that_realself_is_corrupt/) in 2019
 * reddit/censorship [Realself bans and censorship](https://www.reddit.com/r/censorship/comments/7vuft7/realself_bans_and_censorship/) in 2018
@@ -336,7 +336,7 @@ I've seen a number of complaints about the medical review site [realself](https:
 * https://www.bbb.org/western-washington/business-reviews/health-care-referral/real-self-in-seattle-wa-22674843/reviews-and-complaints
 * http://messageboards.makemeheal.com/rhinoplasty/realself-allowing-fake-reviews-for-sponsored-surgeons-t167768.html
 * reddit/PlasticSurgery [Why I don't trust Realself and plastic surgery reviews in general](https://www.reddit.com/r/PlasticSurgery/comments/afbzqi/why_i_dont_trust_realself_and_plastic_surgery/) by gynosurgeryio
- in 2019, see also [here](http://gynosurgery.io/articles/why-realself-cant-be-trusted/) and [here](http://gynosurgery.io/articles/fake-reviews/).
+in 2019, see also [here](http://gynosurgery.io/articles/why-realself-cant-be-trusted/) and [here](http://gynosurgery.io/articles/fake-reviews/).
 * reddit/PlasticSurgery [How to know which surgeon to trust?](https://www.reddit.com/r/PlasticSurgery/comments/9firzk/how_to_know_which_surgeon_to_trust/) in 2018
 * http://www.missjfacialplasticsurgery.com/missjforum/yaf_postst10777_Realself---banned-and-locked-out.aspx#post221665
 * https://uk.trustpilot.com/review/realself.com
@@ -686,7 +686,7 @@ Papers
 
 reddit
 
-* [British gay man ‘tortured’ in Qatar is almost out of HIV medicine, family says.](https://www.reddit.com/r/gaybros/comments/1c1z0tq/british_gay_man_tortured_in_qatar_is_almost_out/) by 0WishToBeFree0 in 2024 - links to Advocate article [](https://www.advocate.com/news/qatar-gay-airline-torture-hiv) in 2024 - *"Forty-four-year-old Manuel Guerrero, who also holds Mexican citizenship, moved to Qatar, where homosexuality is illegal, seven years ago for his work. He was detained on February 4 after being entrapped by law enforcement through a fake Grindr profile, and was held in jail for nearly two months. During that time, Qatari authorities subjected Guerrero to secret nighttime interrogations where they forced him to name other LGBTQ+ people he had relations with, according to his family. After learning of his HIV status, they locked him in solitary confinement and refused to administer his medication... Younes added that "security officers also inflict verbal abuse, extract forced confessions, and deny detainees access to legal counsel, family, and medical care... "They tortured Manuel in the face of the U.K. embassy, and I believe the U.K. government needs to escalate the situation because it's critical and it's not fair," he said. "They must send a clear message to the state of Qatar that they can't do that to a British citizen. They can't torture a British citizen."*
+* [British gay man ‘tortured’ in Qatar is almost out of HIV medicine, family says.](https://www.reddit.com/r/gaybros/comments/1c1z0tq/british_gay_man_tortured_in_qatar_is_almost_out/) by 0WishToBeFree0 in 2024 - links to [Advocate article](https://www.advocate.com/news/qatar-gay-airline-torture-hiv) in 2024 - *"Forty-four-year-old Manuel Guerrero, who also holds Mexican citizenship, moved to Qatar, where homosexuality is illegal, seven years ago for his work. He was detained on February 4 after being entrapped by law enforcement through a fake Grindr profile, and was held in jail for nearly two months. During that time, Qatari authorities subjected Guerrero to secret nighttime interrogations where they forced him to name other LGBTQ+ people he had relations with, according to his family. After learning of his HIV status, they locked him in solitary confinement and refused to administer his medication... Younes added that "security officers also inflict verbal abuse, extract forced confessions, and deny detainees access to legal counsel, family, and medical care... "They tortured Manuel in the face of the U.K. embassy, and I believe the U.K. government needs to escalate the situation because it's critical and it's not fair," he said. "They must send a clear message to the state of Qatar that they can't do that to a British citizen. They can't torture a British citizen."*
 * [A catch-all answer to "should I go to (insert Middle East country here)?": No you fucking shouldn't.](https://www.reddit.com/r/asktransgender/comments/14p93kl/a_catchall_answer_to_should_i_go_to_insert_middle/) by JesiDoodli in 2023 - *"It is unsafe. It doesn't matter how well you pass, it's unsafe. Even if you've had bottom surgery, are on HRT, it's unsafe. It doesn't matter how deep into the closet you are, if the only people who know you're queer are online. It's unsafe. You could easily be outed, doesn't matter how well you pass, or if you're closeted. This opens the floodgates to harassment, assault, arrest, torture, abuse, even murder. Here, rainbow toys are banned because it's "spreading homosexuality to kids". Now imagine the reception you'll get as an actual queer person."*
 * [On today’s episode of reasons people want us to be bombed and killed.](https://www.reddit.com/r/qatar/comments/yc3nic/on_todays_episode_of_reasons_people_want_us_to_be/) in 24 October 2022 - post in [r/qatar](https://www.reddit.com/r/qatar) about the forced vaginal examination of a australian women transititing thought Qatar, lots of defending what happened
 * [Australian women sue over Qatar airport strip-searches](https://www.bbc.com/news/world-australia-59288177), BBC News in 2021 - *"The women said they did not consent to the examinations and were not given explanations for what was happening to them. One of the women, who did not want to be named, told the BBC she was "subjected to the most horrifically invasive physical exam". "I was certain that I was either going to be killed by one of the many men that had a gun, or that my husband on the plane was going to be killed," she said in a statement from her lawyer."*
@@ -794,7 +794,7 @@ You can add these links after posting. In old reddit below the text box of the p
 
 Place a link in the text using something like
 
-    [previous post](https://reddit.com)
+[previous post](https://reddit.com)
 
 ## Requests for help with choosing FFS procedures
 

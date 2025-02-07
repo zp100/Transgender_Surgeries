@@ -1412,7 +1412,7 @@ reddit
 
 * reply to [Informed Consent options Melbourne?](https://www.reddit.com/r/transgenderau/comments/wgoong/informed_consent_options_melbourne/ij413m4/) by DarkSideSumthin in 2022 - *"Dr Lachlan Angus is amazing!"*
 * reply to [Moving to melb next year](https://www.reddit.com/r/transgenderau/comments/pr5wat/moving_to_melb_next_year/hdgm70p/) by LauraTheSissy
- in 2021 - *"Dr Lachlan Angus is so frickin cool and is doing a PhD in Transgender Health AND HE BULK BILLS"*
+in 2021 - *"Dr Lachlan Angus is so frickin cool and is doing a PhD in Transgender Health AND HE BULK BILLS"*
 
 Papers
 

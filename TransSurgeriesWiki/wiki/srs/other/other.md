@@ -899,7 +899,7 @@ PinkNews
 reddit
 
 * [Gender reassignment surgery in New Zealand](https://www.reddit.com/r/newzealand/comments/35gy70/gender_reassignment_surgery_in_new_zealand/) by IIsBeScared
- around 2015
+around 2015
 
 <br />
 
@@ -930,7 +930,7 @@ reddit
 * [Consult with Rita Yang in Wellington?](https://www.reddit.com/r/TransgenderNZ/comments/oy59jd/consult_with_rita_yang_in_wellington/) by guessimfine in 2021
 * [FFS or related surgeries/procedures in NZ?](https://www.reddit.com/r/TransgenderNZ/comments/kx0wxj/ffs_or_related_surgeriesprocedures_in_nz/) by  TheNightOwlCalling in 2021
 * [Quality of surgery at Chang Gung Hospital](https://www.reddit.com/r/asktransgender/comments/dpgzsp/quality_of_surgery_at_chang_gung_hospital/)
- Admiral_dodo in 2019
+Admiral_dodo in 2019
 
 Looks like she trained in GAS (SRS) in Ghent, Belgium
 

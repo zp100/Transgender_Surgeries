@@ -722,7 +722,7 @@ Huber (or Tuohy) needles have a hole in the side of the syringe rather than the 
 
 When searching for side hole needles add irrigation into the search. e.g.
 
-    side hole needle irrigation
+`side hole needle irrigation`
 
 reddit
 
@@ -825,7 +825,7 @@ You don't need a prescription to buy needles and syringes in Australia, and they
 
 You can quite easily find sellers by using google to search for a particular brand of needles on Australian sites. For example, type this into google
 
-    nipro needle site:au
+`nipro needle site:au`
 
 Some examples are
 

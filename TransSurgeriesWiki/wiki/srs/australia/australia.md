@@ -533,7 +533,7 @@ reddit
 * [When did you stop taking your T blocker? - GRS with Mr Ives](https://www.reddit.com/r/transgenderau/comments/a2x73d/when_did_you_stop_taking_your_t_blocker_grs_with/) by Herenzu in 2018
 * [Ives patients: can you orgasm?](https://www.reddit.com/r/transgenderau/comments/a2m3a0/ives_patients_can_you_orgasm/) by polygonalbeing in 2018
 * [Foam Mould for surgery with Mr Ives](https://www.reddit.com/r/transgenderau/comments/9saxpb/foam_mould_for_surgery_with_mr_ives/) by baklak
- in 2018
+in 2018
 * [MtF GRS with Andrew Ives - Part 2](https://www.reddit.com/r/transgenderau/comments/9mon1t/mtf_grs_with_andrew_ives_part_2/) by trulyl in 2018
 * [GRS, Medicare, private health, and how it works](https://www.reddit.com/r/transgenderau/comments/9l89rq/grs_medicare_private_health_and_how_it_works/) by dancing-on-my-own in 2018
 * [Just had SRS (nsfw)](https://www.reddit.com/r/MtF/comments/97j9ro/just_had_srs_nsfw/) by MissVioletVi in 2018

@@ -46,7 +46,7 @@ Sites
 
 Lawsuits
 
-* [](https://casetext.com/case/moscato-v-levine)
+* https://casetext.com/case/moscato-v-levine
 * [Moscato v Levine](https://law.justia.com/cases/new-york/other-courts/2011/2011-ny-slip-op-33009-u.html) in 2011
 * [KASHANIAN v. KULHAN](https://www.leagle.com/decision/innyco20110301312) in 2011
 

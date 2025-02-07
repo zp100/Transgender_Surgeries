@@ -1001,7 +1001,7 @@ reddit
 * reply to [SRS / GRS New Options v's Old Favorites](https://www.reddit.com/r/Transgender_Surgeries/comments/bmh50d/srs_grs_new_options_vs_old_favorites/emxzpwf/) by letthisegghatch in 2019
 * [Recovering from SRS with Jess Ting. AMA](https://www.reddit.com/r/asktransgender/comments/b88ela/recovering_from_srs_with_jess_ting_ama/) by transsurgerysrs in 2019
 * reply to [Last minute tips for SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/avel1x/last_minute_tips_for_srs/ehfg86r/) by cirqueamy
- in 2019
+in 2019
 * reply to [Post op trans women don’t deserve to be ignored.](https://www.reddit.com/r/asktransgender/comments/b6j2nu/post_op_trans_women_dont_deserve_to_be_ignored/ejx66gw/) in 2019 - this is about FTM surgery
 * reply to [We were thinking about doing an AMA series with different surgeons and/or researchers, who would you like us to try to contact?](https://www.reddit.com/r/asktransgender/comments/97vxot/we_were_thinking_about_doing_an_ama_series_with/e4cwc7e/) in 2018 - its about FTM surgery, but raises provides some interesting background
 * reply to [GRS at Mt. Sinai in NYC](https://www.reddit.com/r/Transgender_Surgeries/comments/8ljctb/grs_at_mt_sinai_in_nyc/e1oq0z8/) by beanierose in 2018
@@ -1209,7 +1209,7 @@ Papers
 
 * 2022 - [Coming Soon: Ability to Orgasm After Gender Affirming Vaginoplasty](https://doi.org/10.1016/j.jsxm.2022.02.015) by Gaines Blasdel, Carmen Kloer, Augustus Parker, Elijah Castle, Rachel Bluebond-Langner, Lee C. Zhao
 * 2019 - [Management of Vaginoplasty and Phalloplasty Complications](https://www.urologic.theclinics.com/article/S0094-0143(19\)30059-X/fulltext) by Jessica N. Scahrdein,Lee C. Zhao, Dmitriy Nikolavsky
-* 2018 - [Abstract: Robotically Harvested Peritoneal Flaps As a Well-Vascularized Adjunct to Penile Inversion Vaginoplasty]() by Adam Jacoby, Samantha Maliha, Michael Granieri, Lee C. Zhao, and Rachel Bluebond-Langner
+* 2018 - [Abstract: Robotically Harvested Peritoneal Flaps As a Well-Vascularized Adjunct to Penile Inversion Vaginoplasty](https://dx.doi.org/10.1097%2F01.GOX.0000546811.40962.12) by Adam Jacoby, Samantha Maliha, Michael Granieri, Lee C. Zhao, and Rachel Bluebond-Langner
 
 <br />
 

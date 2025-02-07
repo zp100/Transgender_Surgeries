@@ -1573,7 +1573,7 @@ reddit
 * reply to [SRS without social transition?](https://www.reddit.com/r/asktransgender/comments/860lmh/srs_without_social_transition/dw1icu6/) in 2018
 * [SRS without changing gender](https://www.reddit.com/r/asktransgender/comments/5j05kw/srs_without_changing_gender/dbcfdjs/) around 2017
 * reply to [Any experience with Dr. Paul Daverio (SRS MtF) ?](https://www.reddit.com/r/asktransgender/comments/6qhjjv/any_experience_with_dr_paul_daverio_srs_mtf/dky7l2c/) by LadyDuckloves
- in 2017
+in 2017
 * [Has anyone else thought to just medically transition to get their body more feminine but not socially transition?](https://www.reddit.com/r/asktransgender/comments/3y0dni/has_anyone_else_thought_to_just_medically/cy9efyf/) around 2016
 * [I just had SRS and I'm in shock](https://www.reddit.com/r/asktransgender/comments/45a9ub/i_just_had_srs_and_im_in_shock/) around 2016. This post is mostly deleted, but its about a male having SRS with Brassard. To quote a short piece *"This guy I'm talking about was about 60 years old, plain white guy ... He was literally your stereotypical overweight trucker, full beard"*
 
@@ -2260,10 +2260,10 @@ in 2023
 * [Trans women of Reddit, What's your sex life experience after the gender reassignment surgery?](https://www.reddit.com/r/asktransgender/comments/d5uh7o/trans_women_of_reddit_whats_your_sex_life/) by wildseaswim in 2019
 * [I just had an orgasm for the first time since bottom surgery.](https://www.reddit.com/r/asktransgender/comments/cmqq87/i_just_had_an_orgasm_for_the_first_time_since/) by  bipolarSamanth0r in 2019 - *"it's been 20 months and I thought I couldn't any more"*
 * [Trans Women who've had SRS... what's vaginal sex like?](https://www.reddit.com/r/asktransgender/comments/atdyr7/trans_women_whove_had_srs_whats_vaginal_sex_like/) by Nelke15
- in 2019
+in 2019
 * [NSFW first time after GCS](https://www.reddit.com/r/MtF/comments/9zzk2a/nsfw_first_time_after_gcs/) by  Abjury in 2018
 * [Have I damaged my clitoris? Post op orgasming?](https://www.reddit.com/r/asktransgender/comments/9wpgit/have_i_damaged_my_clitoris_post_op_orgasming/) by  throwaway5577575
- in 2018
+in 2018
 * [For those post-op, how's sex?](https://www.reddit.com/r/asktransgender/comments/3owz03/for_those_postop_hows_sex/) by  transthrowaway45345 around 2016
 * [How real does a post-op vagina look and feel?](https://old.reddit.com/r/asktransgender/comments/up542/how_real_does_a_postop_vagina_look_and_feel/) by AliceCode in 2013
 
@@ -2337,7 +2337,7 @@ reddit
 * [MtF surgery: what they don't tell you](https://www.reddit.com/r/asktransgender/comments/bnqfnq/mtf_surgery_what_they_dont_tell_you/en8jnsm/) by femme_inside in 2019
 * [Help with partners post Srs depression](https://www.reddit.com/r/mypartneristrans/comments/ba9bj5/help_with_partners_post_srs_depression/) by Mrreaper3695 in 2019
 
- [r/opiates](https://www.reddit.com/r/opiates) has some interesting discussion on post op
+[r/opiates](https://www.reddit.com/r/opiates) has some interesting discussion on post op
 
 YouTube
 
@@ -2590,7 +2590,7 @@ Suppliers
 * https://middlesexmd.com/products/vaginal-dilators-set-of-7
 * https://www.vuvatech.com
 * https://www.millimedical.com - see post on susans [An expanding electric dilator?](https://www.susans.org/forums/index.php/topic,244559.0.html) in 2019, and reddit [Expanding dilator - Made dilation faster and less painful](https://www.reddit.com/r/MtF/comments/hlk4w1/expanding_dilator_made_dilation_faster_and_less/) in 2020, and reddit reply to [Dilators](https://www.reddit.com/r/Transgender_Surgeries/comments/in7qqw/dilators/g46alyp/) by illyriarose in 2020
-    Soul Source now (2021) sell these https://www.soulsource.com/products/milli-expandable-dilator
+Soul Source now (2021) sell these https://www.soulsource.com/products/milli-expandable-dilator
 * medesign I.C. GmbH [Dilator Set 'Vivian'](https://en.medesign.de/frontend/shop/showArticle/dilator-set-vivian/303)
 * Passion Glass Sex Toys [Glass Dilators GRS SRS](https://www.passionglass.com/Glass-Dilators-GRS-SRS-c22800211)
 * Steris [Charing Cross Dilators](https://www.steris-ims-instruments.com/product-tag/vaginal-dilators/) - sizes from 20-46mm
@@ -2748,9 +2748,9 @@ reddit
 * [Ives Misconceptions](https://www.reddit.com/r/transgenderau/comments/dr8mvj/ives_misconceptions/) by lorsharos in 2019
 * [Post op lube options in Australia](https://www.reddit.com/r/transgenderau/comments/cgo4bj/post_op_lube_options_in_australia/) by pyorre6 in 2019
 * [Getting GRS very soon - Lube reccomendations from post op girls?](https://www.reddit.com/r/asktransgender/comments/8gs01q/getting_grs_very_soon_lube_reccomendations_from/) by Fairlady31
- in 2018
+in 2018
 * [NSFW: Lube recommendations post GCS?](https://www.reddit.com/r/asktransgender/comments/9zejqz/nsfw_lube_recommendations_post_gcs/) by throwaway5577575
- in 2018
+in 2018
 * [Post ops with Chettawut, and QC Lubricating Jelly, a conundrum](https://www.reddit.com/r/asktransgender/comments/8ekkw2/post_ops_with_chettawut_and_qc_lubricating_jelly/) in 2018
 * [Bulk buy lube Australian suppliers?](https://www.reddit.com/r/transgenderau/comments/7ncxqu/bulk_buy_lube_australian_suppliers/) in 2018
 
@@ -3279,7 +3279,7 @@ reddit
 * [Need help with first silver nitrate application yesterday](https://www.reddit.com/r/Transgender_Surgeries/comments/1e7wxmt/need_help_with_first_silver_nitrate_application/) by grsfollowupquestions in 2024
 * [months post-op Brassard](https://www.reddit.com/r/Transgender_Surgeries/comments/1aqoum7/2_months_postop_brassard/) by u5ern4me2 in 2024
 * reply to [Don't dilate like that, dilate like this. You're probably doing it wrong (Surgeons hate him! learn this one cool trick!)](https://www.reddit.com/r/DrWillPowers/comments/15t8v7h/dont_dilate_like_that_dilate_like_this_youre/k5ar0mc/) by Personal-Tutor5225
- in 2023 - *"I sourced this : Kenalog In Orabase (Triamcinolone Acetonide) - 0.1% (5g)"* and Powers replies *"That's the stuff I use. Basically the same thing + benzocaine. But topically on granulation tissue, it causes it to turn to non-granulation tissue extremely rapidly. Usually only one application is needed. It's quite effective."*
+in 2023 - *"I sourced this : Kenalog In Orabase (Triamcinolone Acetonide) - 0.1% (5g)"* and Powers replies *"That's the stuff I use. Basically the same thing + benzocaine. But topically on granulation tissue, it causes it to turn to non-granulation tissue extremely rapidly. Usually only one application is needed. It's quite effective."*
 * [7 Weeks Post PIV SRS (Dany Hanna)](https://www.reddit.com/r/Transgender_Surgeries/comments/13kw92i/7_weeks_post_piv_srs_dany_hanna/) by Narrow-Selection3725 in 2023
 * [Dr Brassard inside cavity hyper granulation pics. I will post fully healed cavity pics when im done with the weekly treatment. Pictures taken at 4months post op.](https://www.reddit.com/r/Transgender_Surgeries/comments/12vexl4/dr_brassard_inside_cavity_hyper_granulation_pics/) by Alexe1337 in 2023
 * [Is this Granulation?](https://www.reddit.com/r/Transgender_Surgeries/comments/12nexp8/is_this_granulation/) by ExpJustice in 2023
@@ -3479,7 +3479,7 @@ https://en.wikipedia.org/wiki/Postural_orthostatic_tachycardia_syndrome - *"Post
 reddit
 
 * [Beware of POTS post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/16nx704/beware_of_pots_postop/) by SoVeryBohemian
- in 2023 - *" It's when your pressure is naturally a bit down and when you get up your blood doesn't get to the head quickly enough so you might get dizzy, lose your vision for some seconds or outright faint. I'm a big case and it happens basically every day once or twice cause I'm dumb and don't take time to get up. You usually get some seconds of grace of your vision going black and can act quicky by bending down or if it's bad enough sit or lay down to avoid fainting. If it gets to the point of shaking uncontrollably you're most likely going down."* - also see the reply *"What youre describing in this comment is [orthostatic hypotension](https://en.wikipedia.org/wiki/Orthostatic_hypotension) not POTS."*
+in 2023 - *" It's when your pressure is naturally a bit down and when you get up your blood doesn't get to the head quickly enough so you might get dizzy, lose your vision for some seconds or outright faint. I'm a big case and it happens basically every day once or twice cause I'm dumb and don't take time to get up. You usually get some seconds of grace of your vision going black and can act quicky by bending down or if it's bad enough sit or lay down to avoid fainting. If it gets to the point of shaking uncontrollably you're most likely going down."* - also see the reply *"What youre describing in this comment is [orthostatic hypotension](https://en.wikipedia.org/wiki/Orthostatic_hypotension) not POTS."*
 
 <br />
 

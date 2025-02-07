@@ -15,7 +15,7 @@ Related wiki pages
 
 Doctors may warn you about ***tachyphylaxis*** when using implants. Its essentially a tolerance to estrogen, where you experience symptoms of low estrogen levels while actually having very high levels. Its easily avoided with the correct protocol and occurs if you get new implants based on symptoms (ie when you feel bad) rather than when your levels are actually low (using blood tests). Australian endocrinologist <span class="internal">[Dr Jonathan Hayes](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md)</span> used a nominal value of 800 pmol/L as a minium, though in practice it was often a bit higher than that. As noted by [Professor John Studd](https://www.studd.co.uk/implants/implants.md.php), simply having supraphysiological estrogen levels is not by itself tachyphylaxis.
 
- The exact meaning of tachyphylaxis in this context is unclear as different papers use different definitions. Wikipedia [describes tachyphylaxis](https://en.wikipedia.org/wiki/Tachyphylaxis) as a tolerance to a drug, however the definition with regards to implants varies.
+The exact meaning of tachyphylaxis in this context is unclear as different papers use different definitions. Wikipedia [describes tachyphylaxis](https://en.wikipedia.org/wiki/Tachyphylaxis) as a tolerance to a drug, however the definition with regards to implants varies.
 
 The first use of *tachyphylaxis* in reference to oestradiol implants appears to be [Ganger 1989](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838230/).
 

@@ -4,9 +4,9 @@
 
 ---
 
- Many of the surgeons that do hips/butt also do BA, so check there also.
+Many of the surgeons that do hips/butt also do BA, so check there also.
 
- reddit
+reddit
 
  * https://www.reddit.com/r/StrongCurves/ - excercise and diet
 
@@ -284,7 +284,7 @@ Surgeons sites
 
 reddit
 
-* []()
+* `broken link`
 
 ---
 
@@ -479,7 +479,7 @@ The PMFA Journal - *"The PMFA Journal is a bimonthly review for the plastic, max
 
 Dr Aslani has an entry on the GMC site, [Alexander ASLANI GMC reference no: 6156042](https://www.gmc-uk.org/doctors/6156042). In the history tab it says "This doctor has undertakings".
 
- An [undertaking](https://www.gmc-uk.org/concerns/information-for-doctors-under-investigation/our-sanctions/undertakings) is a sanction  against a doctor *"We can take action to make sure we protect patients, maintain confidence in the medical profession and uphold the standards we expect of doctors. We can give doctors a warning. Or we can agree undertakings with them in certain cases."*
+An [undertaking](https://www.gmc-uk.org/concerns/information-for-doctors-under-investigation/our-sanctions/undertakings) is a sanction  against a doctor *"We can take action to make sure we protect patients, maintain confidence in the medical profession and uphold the standards we expect of doctors. We can give doctors a warning. Or we can agree undertakings with them in certain cases."*
 
 * https://www.gmc-uk.org/concerns/information-for-doctors-under-investigation/our-sanctions
 

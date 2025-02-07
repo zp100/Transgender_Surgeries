@@ -121,7 +121,7 @@ Injectable Estradiol Valerate (EV) comes in various strengths, including 5, 10, 
 
 The interactive [Injectable Estradiol Simulator](https://transfemscience.org/misc/injectable-e2-simulator/)  on [Transfeminine Science](https://transfemscience.org/) shows idealized curves of estradiol levels after injection of different estradiol esters in women, and its quite fun playing with it.
 
-![](%%estradiol-simulator%%)
+![](https://b.thumbs.redditmedia.com/e0gUdyecZF2TjmCq1mhIb017EXoU6tNxcDxd9ARk0Nk.png)
 
 Further information on Transfemscience here
 

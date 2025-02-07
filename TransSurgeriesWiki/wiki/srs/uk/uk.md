@@ -459,7 +459,7 @@ in 2022 - *"Is anybody heard Mr Philip Thomas passed away"*
 * [I had SRS this morning](https://www.reddit.com/r/transgenderUK/comments/aexzjw/i_had_srs_this_morning/) by elbells in 2019 - first in a series of daily posts
 * [Day 5 of recovery - Phillip Thomas UK SRS](https://www.reddit.com/r/MtF/comments/a2g4wf/day_5_of_recovery_phillip_thomas_uk_srs/) by Aric3 in 2018
 * [3 weeks post op. GRS through NHS Scotland with Mr Thomas at Brighton](https://www.reddit.com/r/transgenderUK/comments/9ktb1u/3_weeks_post_op_grs_through_nhs_scotland_with_mr/) by Rosze
- in 2018
+in 2018
 
 Facebook
 

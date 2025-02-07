@@ -203,7 +203,7 @@ reddit
 * [2 months post op srs in belgium AMA](https://www.reddit.com/r/asktransgender/comments/9w722m/2_months_post_op_srs_in_belgium_ama/) by EclipseStarx in 2018
 * [2 months post-op SRS & BA (Belgium, Monstrey) AMA & some thoughts](https://www.reddit.com/r/asktransgender/comments/950m50/2_months_postop_srs_ba_belgium_monstrey_ama_some/) by Aria_Luna in 2018
 * [SRS recovery is tough. I underestimated it.](https://www.reddit.com/r/asktransgender/comments/8tayke/srs_recovery_is_tough_i_underestimated_it/) by Aria_Luna
- in 2018
+in 2018
 
 Susans
 
@@ -1945,7 +1945,7 @@ Location
 
 * Szeged
 
- (has 10+ years of experience, ex-student of the late prof. Pajor who was the first to perform it in hungary)
+(has 10+ years of experience, ex-student of the late prof. Pajor who was the first to perform it in hungary)
 
 <br />
 
@@ -1967,7 +1967,7 @@ Surgeons sites
 
 2022 - from a private communication with someone
 
- > she's operating at . and occasionally at Budapest. Kiskunhalas is a smaller kind of town, about 150 km far from Budapest. dr. Noémi Bordás has created a nice and friendly environment in the last 1-2 years, with a friendly and well-educated staff. she's working together with/under guidance of the Serbian team in Belgrade (see dr. Miroslav Djordjevic). (because of this setup, it's possible to get any surgery done by dr. Miroslav Djordjevic at Kiskunhalas too, afaik.) dr. Noémi Bordás offers trans healthcare in a wide range, including HRT, top surgery, gonadectomy, phalloplasty-metoidioplasty-vaginoplasty etc.
+> she's operating at . and occasionally at Budapest. Kiskunhalas is a smaller kind of town, about 150 km far from Budapest. dr. Noémi Bordás has created a nice and friendly environment in the last 1-2 years, with a friendly and well-educated staff. she's working together with/under guidance of the Serbian team in Belgrade (see dr. Miroslav Djordjevic). (because of this setup, it's possible to get any surgery done by dr. Miroslav Djordjevic at Kiskunhalas too, afaik.) dr. Noémi Bordás offers trans healthcare in a wide range, including HRT, top surgery, gonadectomy, phalloplasty-metoidioplasty-vaginoplasty etc.
 
 <br />
 
@@ -2053,7 +2053,7 @@ reddit
 Other
 
 * https://www.genderteam.it - *"The Gender Team's mission is to bring together several highly experienced specialists (urologists, plastic surgeons, endocrinologists, psychotherapists, lawyers and experts in patient-physician communication with dedicated role), to implement best practices and support of health policies, research, training, respect for the dignity and equality of transsexuals, transgender and gender non-conforming people, in every culture.
- "*
+"*
 
 <br />
 
@@ -3532,7 +3532,7 @@ reddit
 reddit
 
 * [SRS with Genarro Selvaggi (Sweden) in 2 hours AMA.](https://www.reddit.com/r/asktransgender/comments/aiwigq/srs_with_genarro_selvaggi_sweden_in_2_hours_ama/) by ancaf33
- in 2019
+in 2019
 * [MtF: Question about SRS, worried about losing sensation.](https://www.reddit.com/r/asktransgender/comments/7dkbsx/mtf_question_about_srs_worried_about_losing/) by tharjaa in 2017
 
 Susans

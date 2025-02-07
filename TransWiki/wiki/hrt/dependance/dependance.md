@@ -17,7 +17,7 @@ An occasional argument by doctors against implants and higher levels of estrogen
 
 **1992 [Drug dependence with oestrogen replacement therapy](https://www.ncbi.nlm.nih.gov/pubmed/1346294)**
 
- The first reference appears to be [Drug dependence with oestrogen replacement therapy](https://www.ncbi.nlm.nih.gov/pubmed/1346294) by Bewley and Bewley in 1992
+The first reference appears to be [Drug dependence with oestrogen replacement therapy](https://www.ncbi.nlm.nih.gov/pubmed/1346294) by Bewley and Bewley in 1992
 
 > Dependence on some drugs can be hard to recognise. Hormone replacement therapy (HRT) has been widely prescribed only in the past two decades, and the indications for treatment and the risk/benefit ratio are still disputed. Oestrogens are psychoactive: they lift mood, can be given by injection, and their use has powerful psychological effects. Reports of women with supraphysiological oestradiol concentrations may represent tolerance and withdrawal. Dependence on substances occurring
 naturally in the body has been reported before. *We propose that HRT dependence occurs.*

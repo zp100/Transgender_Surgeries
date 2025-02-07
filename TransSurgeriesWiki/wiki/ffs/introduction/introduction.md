@@ -303,7 +303,7 @@ reddit
 * [Accuracy of Facial Team ‘s simulations](https://www.reddit.com/r/Transgender_Surgeries/comments/b63s40/accuracy_of_facial_team_s_simulations/) by Marionett3e in 2019
 * [Is Virtual FFS worth the money?](https://www.reddit.com/r/Transgender_Surgeries/comments/aiccvl/is_virtual_ffs_worth_the_money/) by MountainGirl2736 in 2019
 * [My FFS: Research, Consultations, Surgery, Recovery and Results](https://www.reddit.com/r/Transgender_Surgeries/comments/aigmdv/my_ffs_research_consultations_surgery_recovery/) by 2d4d_data
- in 2019
+in 2019
 * [Accuracy of Virtual FFS](https://www.reddit.com/r/asktransgender/comments/5x6at6/accuracy_of_virtual_ffs/) by Ashadyna around 2017
 
 YouTube

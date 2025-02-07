@@ -49,7 +49,7 @@ Dr Powers topical anesthetic (see [here](https://www.reddit.com/r/DrWillPowers/c
 
 I've never heard of it in practice, but according to papers [Epinephrine (adrenaline)](https://en.wikipedia.org/wiki/Adrenaline) can be added to topical anesthetics to extend the duration of its effect (I've been refused this on the grounds that its too dangerous). I would guess that as with injections of lidocaine it also increases the allowable dosage. See [Alster 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4107876/).
 
- > Epinephrine or another adrenergic agonist is often added to the local topical agent in order to prolong the anesthetic effects by increasing vasoconstriction and decreasing the rate of systemic absorption. Vasoconstriction increases the duration of time the agent is in contact with the nerve fibers; thus, prolonging the anesthetic effects
+> Epinephrine or another adrenergic agonist is often added to the local topical agent in order to prolong the anesthetic effects by increasing vasoconstriction and decreasing the rate of systemic absorption. Vasoconstriction increases the duration of time the agent is in contact with the nerve fibers; thus, prolonging the anesthetic effects
 
 Note: Need to look into [Phenylephrine](https://en.wikipedia.org/wiki/Phenylephrine) which seems to be another vasoconstrictor. See [here](https://digitalcommons.unmc.edu/cgi/viewcontent.cgi?article=1016&context=mdtheses).
 

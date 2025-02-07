@@ -1621,7 +1621,7 @@ reddit
 
 * [3 week post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1f8jmz5/3_week_post_op/) by MissMichelle6282 in 2024
     * [Dilation Struggles](https://www.reddit.com/r/Transgender_Surgeries/comments/1f1pwv9/dilation_struggles/)
-    * []()
+    * `broken link`
     * [One week post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1ewkbnc/one_week_post_op/) by MissMichelle6282 in 2024
 * [Shallow Depth - Vanderbilt \[Day 11\]](https://www.reddit.com/r/Transgender_Surgeries/comments/1d0mgdd/shallow_depth_vanderbilt_day_11/) by ShallowThrowawayHype in 2024
     * [Shallow Depth Vulvoplasty - Vanderbilt Al-Kassis \[Day 4\]](https://www.reddit.com/r/Transgender_Surgeries/comments/1cv667x/shallow_depth_vulvoplasty_vanderbilt_alkassis_day/) by ShallowThrowawayHype in 2024
@@ -2139,7 +2139,7 @@ reddit
     * [In the ER Because of Labiaplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/166ijbz/in_the_er_because_of_labiaplasty/) by Spacecraft in 2023 - *"So I talked to the resident and there's nothing they can do for me but give me pain pills, and say I have to wait up to a year to see if I have any feeling left... A big warning against Dr Stranix at UVA medical Center in Virginia."*, see also her YouTube Channel https://www.youtube.com/@JesseValentine
 * [Dec. 15 PPT vaginoplasty with Dr. John Stranix at UVA.](https://www.reddit.com/r/Transgender_Surgeries/comments/1004yyj/dec_15_ppt_vaginoplasty_with_dr_john_stranix_at/) by fastpilot71 in 2022
 * [Review of Dr. JT Stranix](https://www.reddit.com/r/Transgender_Surgeries/comments/xyhii6/review_of_dr_jt_stranix/) by PersephoneWept
- in 2022
+in 2022
 
 **Non-Photo links**
 

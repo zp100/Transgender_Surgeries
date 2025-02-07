@@ -1190,19 +1190,19 @@ in 2023
 * [2 years post op SRS with Dr. Chettawut](https://www.reddit.com/r/Transgender_Surgeries/comments/b2a26t/2_years_post_op_srs_with_dr_chettawut/) by stealthyliving in 2019
 * [1 week post op, Dr Chettawut](https://www.reddit.com/r/Transgender_Surgeries/comments/abhwah/1_week_post_op_dr_chettawut/) by reallsylveon in 2019, photos [here](https://i.redd.it/g0pwdq4r3t721.jpg)
 * [7 months chettawut post op pics [NSFW]](https://www.reddit.com/r/Transgender_Surgeries/comments/9c0hfi/7_months_chettawut_post_op_pics_nsfw/) by chettsurgery
- in 2018, photo's [here](https://imgur.com/a/SX2UQ9v) and [here](https://i.imgur.com/3IFNfj9.jpg)
+in 2018, photo's [here](https://imgur.com/a/SX2UQ9v) and [here](https://i.imgur.com/3IFNfj9.jpg)
 * [SRS results by Chettawut Feb 2018](https://www.reddit.com/r/asktransgender/comments/95dhz9/srs_results_by_chettawut_feb_2018/) by R-Chet in 2018, photo's [here](https://imgur.com/a/kA7xPtk)
 * [Chettawut, 2 Months Post-SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/948hao/chettawut_2_months_postsrs/) by HomuraShirayuki_new in 2018
 * [Chettawut Surgery, 3 Weeks after surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/8wg6sp/chettawut_surgery_3_weeks_after_surgery/) by HomuraShirayuki in 2018, photos [here](https://imgur.com/a/hwImudj)
 * [My SRS with Dr Chettawut - Early Recovery (NSFW)](https://www.reddit.com/r/MtF/comments/5s84nc/my_srs_with_dr_chettawut_early_recovery_nsfw/) by KittytoCat
- around 2017, photos [here](https://imgur.com/a/xkJpm).
+around 2017, photos [here](https://imgur.com/a/xkJpm).
 * Reddit post [Why do people always post spread vagina pics?](https://www.reddit.com/r/asktransgender/comments/60hesn/why_do_people_always_post_spread_vagina_pics/df6o0fu/) around 2017, photos [here](http://imgur.com/71W7u6S) and [here](http://imgur.com/mU0qsz0)
 * Reddit post [Is anyone post-op willing to share surgery results? (mtf)](https://www.reddit.com/r/asktransgender/comments/183ujn/is_anyone_postop_willing_to_share_surgery_results/c8bq1lp/) by disposableaccount321, photos [here](http://imgur.com/a/P445m#0)
 * [10 weeks post op with Dr.Chettawut](https://www.reddit.com/r/Transgender_Surgeries/comments/8fbq7q/10_weeks_post_op_with_drchettawut/) by chettawutfeb2018
- in 2018, photos [here](https://i.imgur.com/CVHY89G.jpg) and [here](https://i.redd.it/cp4qt50dggu01.jpg).
+in 2018, photos [here](https://i.imgur.com/CVHY89G.jpg) and [here](https://i.redd.it/cp4qt50dggu01.jpg).
 * [Had a "minor and common" revision done with chettawut but I am still very worried. Any chett girls been through this?](https://www.reddit.com/r/Transurgery/comments/87hsdy/had_a_minor_and_common_revision_done_with/) by chettawutfeb2018 in 2018
 * [5 weeks post op and 3 weeks post revision with Dr.Chettawut. I'm feeling very paranoid about the fact that the healing process isn't going well. Any thoughts or chett patients who have gone through the same?](https://www.reddit.com/r/Transgender_Surgeries/comments/87hurd/5_weeks_post_op_and_3_weeks_post_revision_with/) by chettawutfeb2018
- in 2018
+in 2018
 
 transgendersquid on reddit in 2019
 

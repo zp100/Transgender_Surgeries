@@ -284,7 +284,7 @@ in 2021
 * reply to [Who are the leading BBL surgeons for hip augmentation in terms of results and safety?](https://www.reddit.com/r/Transgender_Surgeries/comments/dw0daz/who_are_the_leading_bbl_surgeons_for_hip/f7gnj95/) by 6FeetBeneathTheMoon in 2019
 * [FFS with Dr. Keojampa | 5 week before and after](https://www.reddit.com/r/Transgender_Surgeries/comments/biyr7a/ffs_with_dr_keojampa_5_week_before_and_after/) by Shaqueta in 2019
 * [Before and after side profile, 3 weeks post FFS w/Keojampa](https://www.reddit.com/r/Transgender_Surgeries/comments/aiet42/before_and_after_side_profile_3_weeks_post_ffs/) by gender_fucked
- in 2019
+in 2019
 * [FFS with Dr.Keojampas AMA](https://www.reddit.com/r/MtF/comments/68i3z3/ffs_with_drkeojampas_ama/) by throwaway694301769 around 2017
 
 YouTube
@@ -1681,7 +1681,7 @@ reddit
 * [I had FFS with Dr. Mardirossian and I love the results](https://www.reddit.com/r/Transgender_Surgeries/comments/x5umw1/i_had_ffs_with_dr_mardirossian_and_i_love_the/) by Goddess_of_Absurdity in 2022
 * [Just had FFS with Dr Vartan Mardirossian in Arlington, VA two days ago, honest critiques?](https://www.reddit.com/r/Transgender_Surgeries/comments/wxud91/just_had_ffs_with_dr_vartan_mardirossian_in/) by Layla_xOxo1010 in 2022
 * [How am I doing? Do you think I should consider another round of ffs? Or do you think I’m in a good place?](https://www.reddit.com/r/Transgender_Surgeries/comments/urxgfo/how_am_i_doing_do_you_think_i_should_consider/) by smokingtokingtgirl
- in 2022
+in 2022
 * [Progress after FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/ru7fgq/progress_after_ffs/) by fayetl in 2022
 * [55 days post op FFS with Dr Mardirossian, here are my results so far.](https://www.reddit.com/r/Transgender_Surgeries/comments/reiqm6/55_days_post_op_ffs_with_dr_mardirossian_here_are/) by Lianna999 in 2021
 * [Milestones of my cis lady self from pre op, to 3 weeks out, to now at 3 months out! Thank you so much Dr. Mardirossian!!](https://www.reddit.com/r/Transgender_Surgeries/comments/plpuc1/milestones_of_my_cis_lady_self_from_pre_op_to_3/) by venturewolfy in 2021
@@ -2390,7 +2390,7 @@ reddit
     * [Botched FFS with Jeffrey Spiegel](https://www.reddit.com/r/Transgender_Surgeries/comments/qma2yw/botched_ffs_with_jeffrey_spiegel/) by NearlySpooky in 2021
 * [FFS Revision. We’re to go?](https://www.reddit.com/r/Transgender_Surgeries/comments/qlkfju/ffs_revision_were_to_go/) by TaylorSky in 2021
 * [1 month post op with Dr. Spiegal](https://www.reddit.com/r/Transgender_Surgeries/comments/luyrjn/1_month_post_op_with_dr_spiegal/) by Amber_Weird
- in 2021
+in 2021
 * [help with FFS pt. 2](https://www.reddit.com/r/Transgender_Surgeries/comments/lko565/help_with_ffs_pt_2/) by Franny_and_kittie in 2021
 * [Just a quick shout that it’s (1) never too late and (2) changes can happen fast. (ffs 3 mos ago)](https://www.reddit.com/r/Transgender_Surgeries/comments/lkb4wn/just_a_quick_shout_that_its_1_never_too_late_and/) by  heyitsjessica7 in 2021
     * [2-weeks post FFS w/ Spiegel & 8 mos. HRT](https://www.reddit.com/r/Transgender_Surgeries/comments/kbj48t/2weeks_post_ffs_w_spiegel_8_mos_hrt/) by heyitsjessica7 in 2020
@@ -2653,7 +2653,7 @@ reddit
     * [2 Weeks Post Op - FFS with Dr. Rolfes](https://www.reddit.com/r/Transgender_Surgeries/comments/ufepou/2_weeks_post_op_ffs_with_dr_rolfes/) by whatsup_kieraa in 2022
 * [One month post op with Dr Rolfes this is my second round of FFS with him. And a timeline of my journey.I hope this inspire some of you girls anything is possible if you put your mind to it.](https://www.reddit.com/r/Transgender_Surgeries/comments/usqd12/one_month_post_op_with_dr_rolfes_this_is_my/) by  Impressive-Ad-742 in 2022
 * [My one year anniversary of FFS with Dr. Bryan Rolfes is TODAY and I’m here to share my experience!](https://www.reddit.com/r/Transgender_Surgeries/comments/t2ev37/my_one_year_anniversary_of_ffs_with_dr_bryan/) by polynom-nom-nomial
- in 2022
+in 2022
 * [Same Minnesota hotel (different room), 1 day pre FFS to 7 months 1 day post FFS w Dr Rolfes](https://www.reddit.com/r/Transgender_Surgeries/comments/qmk2kq/same_minnesota_hotel_different_room_1_day_pre_ffs/) by SourMapes in 2021
     * [Stumbled upon a photo of my side profile from a month before ffs and cant believe how different my forehead looks now. 3 months post op Dr Rolfes.](https://www.reddit.com/r/Transgender_Surgeries/comments/oes2sy/stumbled_upon_a_photo_of_my_side_profile_from_a/) by SourMapes in 2021
 * [It's been a year since my facial feminization surgery with Dr. Bryan Rolfes!](https://www.reddit.com/r/Transgender_Surgeries/comments/q5hjgx/its_been_a_year_since_my_facial_feminization/) by Kitty_Skittles_181 in 2021
@@ -4340,7 +4340,7 @@ reddit
 * [First week of FFS. I always see clean before and afters (after all healing), or occasionally in betweens, but never the granular changes over time, so I’m going to share those! Four days in on recovery and I’m already loving myself so much more 💖](https://www.reddit.com/r/transtimelines/comments/ejrzvv/first_week_of_ffs_i_always_see_clean_before_and/) by JaiReWiz in 2020
     * [New year, new me! FFS acquired! Information in comments](https://www.reddit.com/r/Transgender_Surgeries/comments/eiez7f/new_year_new_me_ffs_acquired_information_in/) by JaiReWiz in 2019
 * [Had FFS and don’t look feminine at all after.](https://www.reddit.com/r/ask_transgender/comments/auqfii/had_ffs_and_dont_look_feminine_at_all_after/) by Zoe_T_Kelly
- in 2019
+in 2019
 
 <br />
 
