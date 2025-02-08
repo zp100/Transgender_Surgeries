@@ -1,6 +1,6 @@
 html {
     background-color: black;
-    color: #eee;
+    color: #ccc;
     font-family: Arial, Helvetica, sans-serif;
     overflow-wrap: anywhere;
 }
@@ -22,8 +22,15 @@ footer {
     }
 }
 
+table, th, td {
+    overflow-wrap: initial;
+    border: 1px solid #333;
+    border-collapse: collapse;
+    padding: 0.25em 0.5em;
+}
+
 a {
-    color: #99e;
+    color: #99f;
 }
 
 .markdown :not(.internal) > a {
