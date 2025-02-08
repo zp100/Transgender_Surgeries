@@ -67,3 +67,6 @@ app.get('/wiki*', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server started on port ${PORT}.`)
 })
+
+// Export for Vercel.
+module.exports = app
