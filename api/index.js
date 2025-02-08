@@ -53,7 +53,7 @@ app.get('/wiki*', (req, res) => {
                 )
 
                 // Insert the HTML into the template and render it.
-                res.render('index', {
+                res.render('wiki', {
                     markdownTitle: filePath.split('/').at(-1),
                     markdownHtml,
                     wikiIndex: WIKI_INDEX
