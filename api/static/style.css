@@ -33,7 +33,7 @@ a {
     color: #99f;
 }
 
-.markdown :not(.internal) > a {
+.insert :not(.internal) > a {
     /* Copied from Wikipedia. */
     background-image: url(https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?fb64d);
     background-position: top right;

@@ -53,9 +53,45 @@ app.get('/wiki*', (req, res) => {
 
                 // Insert the HTML into the template and render it.
                 res.render('wiki', {
-                    markdownTitle: filePath.split('/').at(-1),
-                    markdownHtml,
-                    wikiIndex: WIKI_INDEX
+                    title: filePath.split('/').at(-2),
+                    wikiIndex: WIKI_INDEX,
+                    markdownHtml
+                })
+            })
+        }
+    })
+})
+
+// Get posts and comments.
+app.get('/posts*', (req, res) => {
+    // Check if the param is a valid file.
+    const filePath = join(process.cwd(), 'posts', req.params['0'])
+    stat(filePath, (err, stats) => {
+        if (err != null) {
+            // Raise an error and tell the server what the attempted file was.
+            console.error(`Failed to get file with path ${filePath}`)
+            res.sendStatus(404)
+            return
+        } else if (!stats.isFile()) {
+            // Raise an error and tell the server what the attempted file was.
+            console.error(`Not a regular file at path ${filePath}`)
+            res.sendStatus(400)
+            return
+        } else {
+            // Read the file's HTML.
+            readFile(filePath, 'utf8', (err, data) => {
+                if (err) {
+                    // Raise an error (this probably won't ever happen, but just in case).
+                    console.error(err)
+                    res.sendStatus(500)
+                    return
+                }
+
+                // Insert the HTML into the template and render it.
+                res.render('posts', {
+                    title: filePath.split('/').at(-2),
+                    wikiIndex: WIKI_INDEX,
+                    postHtml: data
                 })
             })
         }
