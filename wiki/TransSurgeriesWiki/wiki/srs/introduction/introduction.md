@@ -1792,7 +1792,7 @@ reddit
 
 Move to a separate page
 
-[https://www.reddit.com/r/TransWiki/wiki/weight-loss](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/weigh-loss/weight-loss.md)
+[https://www.reddit.com/r/TransWiki/wiki/weight-loss](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/weight-loss/weight-loss.md)
 
 <br />
 

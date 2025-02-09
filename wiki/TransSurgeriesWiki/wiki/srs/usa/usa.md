@@ -332,7 +332,7 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Alexander Joseuf Skokan
     * Shane D. Morrison
     * Russell E. Ettinger
-* [Washington D.C](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/usa/usa.md-south#wiki_washington_d.c.))
+* [Washington D.C](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#washington-dc)
     * Praful Ramineni
     * Kelly Chiles
 * [West Virginia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#west-virginia)
