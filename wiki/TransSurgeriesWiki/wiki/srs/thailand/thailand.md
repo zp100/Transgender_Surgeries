@@ -870,7 +870,7 @@ Books on Amazon (google shows excerpts of these books if you search)
 
 Umareru Seibetsu wo Machigaeta! *- Japanese manga fan translated to English. The original is available on Amazon Japan.*
 
-* reddit post [\[DISC\] Umareru Seibetsu wo Machigaeta!](https://reddit.com/r/manga/comments/811fsi/disc_umareru_seibetsu_wo_machigaeta_chapter_1/) in 2018 and translations [here](https://mangadex.org/manga/23612)
+* reddit post [\[DISC\] Umareru Seibetsu wo Machigaeta!](https://www.reddit.com/r/manga/comments/811fsi/disc_umareru_seibetsu_wo_machigaeta_chapter_1/) in 2018 and translations [here](https://mangadex.org/manga/23612)
 * http://fanfox.net/manga/umareru_seibetsu_wo_machigaeta/ - another copy here
 * Author, Mahuyu Konishi, https://www.facebook.com/shin.konishi.7
 * https://www.reddit.com/r/asktransgender/comments/6z2idx/umareru_seibetsu_wo_machigaeta_japanese_manga/

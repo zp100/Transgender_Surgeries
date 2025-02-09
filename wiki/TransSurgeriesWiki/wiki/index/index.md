@@ -794,7 +794,7 @@ You can add these links after posting. In old reddit below the text box of the p
 
 Place a link in the text using something like
 
-[previous post](https://reddit.com)
+`[previous post](https://reddit.com)`
 
 ## Requests for help with choosing FFS procedures
 
@@ -1349,8 +1349,8 @@ The WPATH Standards Of Care (v8) affects many aspects of trans medical care and 
 
 Released in 2022.
 
-* https://www.reddit.com/r/Transgender_Surgeries/comments/xfanwx/wpath_standards_of_care_version_8_published
-* https://www.reddit.com/r/Transgender_Surgeries/comments/r7hq7r/wpath_soc_v8_draft_is_now_available_for_public
+* https://www.reddit.com/r/Transgender_Surgeries/comments/xfanwx/wpath_standards_of_care_version_8_published/
+* https://www.reddit.com/r/Transgender_Surgeries/comments/r7hq7r/wpath_soc_v8_draft_is_now_available_for_public/
 
 There's related transgender run organisation, TPATH (WPATH's membership is mostly cis people).
 
