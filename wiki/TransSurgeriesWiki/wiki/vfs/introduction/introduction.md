@@ -1,15 +1,15 @@
 **VFS Introduction**
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
 
 ---
 
 # Surgeons by country
 
-* <span class="internal">[Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/australia/australia.md)</span>
-* <span class="internal">[Korea](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/korea/korea.md)</span>
-* <span class="internal">[USA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/usa/usa.md)</span>
-* <span class="internal">[Other](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/other/other.md)</span>
+* [Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/australia/australia.md)
+* [Korea](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/korea/korea.md)
+* [USA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/usa/usa.md)
+* [Other](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/other/other.md)
 
 ---
 
@@ -73,4 +73,4 @@ J-Mi on YouTube
 
 ---
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**

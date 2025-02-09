@@ -1,19 +1,19 @@
 **SRS Other**
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
 
 ---
 
 SRS in other regions
 
-* <span class="internal">[Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/australia/australia.md)</span>
-* <span class="internal">[Canada](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/canada/canada.md)</span>
-* <span class="internal">[Europe](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/europe/europe.md)</span>
-    * <span class="internal">[UK](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/uk/uk.md)</span>
-* <span class="internal">[South America](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/south-america/south-america.md)</span>
-* <span class="internal">[Thailand](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)</span>
-* <span class="internal">[USA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/usa/usa.md)</span>
-* <span class="internal">[Other](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/other/other.md)</span>
+* [Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/australia/australia.md)
+* [Canada](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/canada/canada.md)
+* [Europe](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/europe/europe.md)
+    * [UK](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/uk/uk.md)
+* [South America](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/south-america/south-america.md)
+* [Thailand](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
+* [USA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/usa/usa.md)
+* [Other](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/other/other.md)
 
 ---
 
@@ -1378,4 +1378,4 @@ United Tv show in 2021 - doesn't appear to say where the surgery was performed
 
 ---
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**

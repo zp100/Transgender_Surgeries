@@ -1,6 +1,6 @@
 **Compounding Pharmacies in Australia**
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
 
 ---
 
@@ -38,7 +38,7 @@ People often say one supplier is better than another, but I think its usually du
 
 All Australian made implants made by compressing a powder in a press/die. Since Organon left in 2011 there are none that use the heat fused technique (unfortunatly). The powder is pure estradiol, and there may be a small percentage of an excipient used to help in the manufacture (I think its only stearic in Australia). I don't believe the excipient makes any noticable difference in use.
 
-The doctor will need a trocar to insert the pellets, and there are some suppliers listed <span class="internal">[here](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/implants/implants.md#trocars)</span>.
+The doctor will need a trocar to insert the pellets, and there are some suppliers listed [here](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/implants/implants.md#trocars).
 
 There's a limited number of doctors in Australia who will do implants (look in the Dr page of this wiki). Assuming you can find one, they also vary in what dose and levels they are prepared to offer. In Sydney its mostly a maximum of 100mg. I've heard of a few women getting 200mg (2x100mg), but if very difficult to access these days. I started on 200mg many years ago, and the first set last 6 months. As is normal subsequent implants lasted longer, 9 months in my case, except for two occasions of 15 months. I suspect the increase was due to weight loss, but its hard to be sure.  You should be getting new implants when your levels drop to a specific level, which for my doctor was around 800 or 900 pmol/L. Some doctors won't do new implants until 400 pmol/L, which causes seriously negative effects for some women (me), and personally I'd avoid them. As the lifetime of my implants is mostly the same and I can feel when I need new ones I try to do a single blood test when I think I new need ones, and it usually works. I ask for multiple test scripts from the doctor and a copy of the test results sent to my home so I can do a few tests if necessary and without wasting my time going back to the doctor, but some doctors refuse - I assume they want the money from pointless visits and I avoid unethical doctors, plus I dislike wasting my time, so I avoid them also. Scripts only last a year, so that may not work anyway if your implants last longer than that. There's a lot of new doctors doing implants asking for regular blood tests - as far as I'm concerned this is for their benifit not mine and as I don't like needles I refuse.
 
@@ -46,8 +46,8 @@ I've heard of a few women getting unusually low levels on their first implants, 
 
 **Related wiki pages**
 
-* <span class="internal">[HRT](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/hrt.md)</span>
-* <span class="internal">[Implants](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/implants/implants.md)</span>
+* [HRT](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/hrt.md)
+* [Implants](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/implants/implants.md)
 
 **Suppliers**
 
@@ -84,8 +84,8 @@ Injections are available in Australia from compounding pharmacies, but *very* fe
 
 Related wiki pages
 
-* <span class="internal">[HRT](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/hrt.md)</span>
-* <span class="internal">[Injections](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/injections/injections.md)</span>
+* [HRT](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/hrt.md)
+* [Injections](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/injections/injections.md)
 
 ## Vitamin D3
 
@@ -132,7 +132,7 @@ Implant Cost
 * 100mg are ~~$95~~ $100each, postage ~~$12.50~~ $19 express with insurance (ie $219 for 200mg). They take about 3 days, 2 of which are testing. There's a form on their website you fill in to place the order (with a scan of prescription), post the original prescption to them, then they call you to confirm.
 * There are no larger implants. If you get 150mg or 200mg it's comprised of multiple smaller implants.
 
-CCS can make both 3mm and 4.5mm (ie 5mm) implants. The reason for either size are discussed in <span class="internal">[Implant Technology](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/implant-technology/implant-technology.md)</span>. As of 2020 their manufacturing process has not changed in years.
+CCS can make both 3mm and 4.5mm (ie 5mm) implants. The reason for either size are discussed in [Implant Technology](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/implant-technology/implant-technology.md). As of 2020 their manufacturing process has not changed in years.
 
 **Estrogen Injections**
 
@@ -146,7 +146,7 @@ Estradiol Valerate needs to be injected quite frequently and while there other t
 
 **Testosterone Implants**
 
-I don't know much about this, but <span class="internal">[Dr Hayes](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md)</span> used 50mg on occasion.
+I don't know much about this, but [Dr Hayes](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md) used 50mg on occasion.
 
 **Testosterone Injections**
 
@@ -176,7 +176,7 @@ Key details
 
 **Implants**
 
-Stenlake are known for producing 4.5mm implants, but I believe they can also make 3mm implants. The reason for either size are discussed in <span class="internal">[Implant Technology](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/implant-technology/implant-technology.md)</span>.
+Stenlake are known for producing 4.5mm implants, but I believe they can also make 3mm implants. The reason for either size are discussed in [Implant Technology](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/implant-technology/implant-technology.md).
 
 50mg implants are $126 each, 100mg implants are $131 each, postage is $10.95 or you can pick them up yourself in Bondi/Sydney.
 
@@ -444,4 +444,4 @@ reddit
 
 ---
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**

@@ -1,15 +1,15 @@
 **Hormone Implants Technology**
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
 
 ---
 
 Related wiki pages
 
-* <span class="internal">[Implants](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/implants/implants.md)</span>
-* <span class="internal">[Tachyphylaxis](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/tachyphylaxis/tachyphylaxis.md)</span>
-* <span class="internal">[Dependance](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/dependance/dependance.md)</span>
-* <span class="internal">[Psychological Effects](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/psychological-effects/psychological-effects.md)</span>
+* [Implants](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/implants/implants.md)
+* [Tachyphylaxis](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/tachyphylaxis/tachyphylaxis.md)
+* [Dependance](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/dependance/dependance.md)
+* [Psychological Effects](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/psychological-effects/psychological-effects.md)
 
 ---
 
@@ -644,4 +644,4 @@ It's not clear how relevant these are, but there's some interesting discussions 
 
 ---
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**

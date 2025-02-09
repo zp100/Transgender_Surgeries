@@ -1,6 +1,6 @@
 **Australia**
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
 
 ---
 
@@ -36,16 +36,16 @@ Other
 
 Wiki pages
 
-* <span class="internal">[HRT Introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/hrt.md)</span>
-* <span class="internal">[HRT in Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/australia.md)</span> lists doctor prescribing HRT and reviews
-* <span class="internal">[Compounding Pharmacies](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/compounding-pharmacies/australia/australia.md)</span>
-* <span class="internal">[Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/australia.md)</span>
+* [HRT Introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/hrt.md)
+* [HRT in Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/australia.md) lists doctor prescribing HRT and reviews
+* [Compounding Pharmacies](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/compounding-pharmacies/australia/australia.md)
+* [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
 
 <br />
 
 # Hair removal
 
-* <span class="internal">[Hair Removal](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hair-removal/hair-removal.md)</span>
+* [Hair Removal](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hair-removal/hair-removal.md)
 
 <br />
 
@@ -53,16 +53,16 @@ Wiki pages
 
 Wiki pages
 
-* <span class="internal">[Introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/index.md)</span>
-* <span class="internal">[Facial Feminisation Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/australia/australia.md)</span>
-* <span class="internal">[Male to Female Genital Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/australia/australia.md)</span>
-* <span class="internal">[Voice Feminisation Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/australia/australia.md)</span>
+* [Introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/index.md)
+* [Facial Feminisation Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/australia/australia.md)
+* [Male to Female Genital Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/australia/australia.md)
+* [Voice Feminisation Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/australia/australia.md)
 
 Other popular destinations for surgery
 
-* <span class="internal">[Thailand for genital surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)</span>
-* <span class="internal">[Facial Team](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/europe/europe.md#facial-team)</span> in Spain for FFS
-* <span class="internal">[Yeson in Korea](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/korea/korea.md#hyung-tae-kim-yeson)</span> for Voice Feminization surgery
+* [Thailand for genital surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
+* [Facial Team](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/europe/europe.md#facial-team) in Spain for FFS
+* [Yeson in Korea](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/korea/korea.md#hyung-tae-kim-yeson) for Voice Feminization surgery
 
 <br />
 
@@ -214,7 +214,7 @@ Australian Facebook groups
 
 Other Facebook groups
 
-* <span class="internal">[r/TransWiki/wiki/facebook](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/facebook/facebook.md)</span>
+* [r/TransWiki/wiki/facebook](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/facebook/facebook.md)
 
 <br />
 
@@ -306,4 +306,4 @@ Facebook
 
 ---
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**

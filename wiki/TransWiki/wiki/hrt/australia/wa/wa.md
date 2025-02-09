@@ -1,25 +1,25 @@
 **HRT in Western Australia (WA)**
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
 
 ---
 
 HRT in other states of Australia
 
-* <span class="internal">[ACT](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/act/act.md)</span>
-* <span class="internal">[NSW](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/nsw/nsw.md)</span>
-* <span class="internal">[QLD](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/qld/qld.md)</span>
-* <span class="internal">[SA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/sa/sa.md)</span>
-* <span class="internal">[TAS](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/tas/tas.md)</span>
-* <span class="internal">[VIC](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/vic/vic.md)</span>
+* [ACT](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/act/act.md)
+* [NSW](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/nsw/nsw.md)
+* [QLD](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/qld/qld.md)
+* [SA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/sa/sa.md)
+* [TAS](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/tas/tas.md)
+* [VIC](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/vic/vic.md)
 * WA
-* <span class="internal">[NT](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/nt/nt.md)</span>
+* [NT](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/nt/nt.md)
 
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia
-* <span class="internal">[Telehealth](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/australia.md#telehealth)</span> - Doctors who work on line prescribing across Australia
-* Wiki entry for <span class="internal">[Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/australia.md)</span>
+* [Telehealth](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/australia.md#telehealth) - Doctors who work on line prescribing across Australia
+* Wiki entry for [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
 * /r/transgenderau [wiki for Western Australia](https://www.reddit.com/r/transgenderau/wiki/resources-wa)
 * Trans Health Australia [Medical Practitioners in Western Australia](http://www.transhealthaustralia.org/index.php/western-australia/6-medical-practitioners-wa)
 * TransFolk of Western Australia - https://www.transfolkofwa.org
@@ -477,4 +477,4 @@ reddit
 
 ---
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**

@@ -1,6 +1,6 @@
 **Hair Removal**
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
 
 ---
 
@@ -31,7 +31,7 @@ https://www.phallo.net/hair-removal-phalloplasty.htm
 
 Face, body hair, genital region prior to surgery.
 
-The surgery wiki contains information on <span class="internal">[genital hair removal](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/introduction/introduction.md)</span>.
+The surgery wiki contains information on [genital hair removal](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/introduction/introduction.md).
 
 YouTube
 
@@ -500,7 +500,7 @@ Susans
 
 Includes topical (creams) and injections
 
-* <span class="internal">[https://www.reddit.com/r/TransWiki/wiki/local_anesthetic](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/local_anesthetic/local_anesthetic.md)</span>
+* [https://www.reddit.com/r/TransWiki/wiki/local_anesthetic](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/local_anesthetic/local_anesthetic.md)
 
 <br />
 
@@ -808,13 +808,13 @@ YouTube
 
 ## A surgeons point of view
 
-SRS surgeon <span class="internal">[Dr Sidhbh Gallagher's](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#sidhbh-gallagher)</span> YouTube video [Why We No Longer Require Hair Removal](https://www.youtube.com/watch/watch.md?v=PeAMGjtJZxY) is interesting as it shows a surgeons point of view. After visiting a conference and attending a workshop by surgeon Kathy Rumer, who does *"really beautiful work"* and who *"does not require any sort of hair removal before surgery"* she no longer requires hair removal. Dr Rumer is not seeing a problem in the long term in her practice. Sidhbh Gallagher does penile inversion and uses *"scrotal skin to line the deepest part of the vagina"*.
+SRS surgeon [Dr Sidhbh Gallagher's](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#sidhbh-gallagher) YouTube video [Why We No Longer Require Hair Removal](https://www.youtube.com/watch/watch.md?v=PeAMGjtJZxY) is interesting as it shows a surgeons point of view. After visiting a conference and attending a workshop by surgeon Kathy Rumer, who does *"really beautiful work"* and who *"does not require any sort of hair removal before surgery"* she no longer requires hair removal. Dr Rumer is not seeing a problem in the long term in her practice. Sidhbh Gallagher does penile inversion and uses *"scrotal skin to line the deepest part of the vagina"*.
 
 In her video Gallagher quotes a 2006 survey of 232 post-op women, [Patient-reported complications and functional outcomes of male-to-female sex reassignment surgery](https://www.ncbi.nlm.nih.gov/pubmed/17109225) by Anne Lawrence, in which *"only 7% of patients had significant problems with hair growth in the vagina"* and a *"bit over half of the patients who are having the serious problems had undergone a lot of electrolysis before their surgery"* so hair removal *"doesn't really seem to make a difference"*. Therefore she is no longer requiring patients to undergo laser hair removal and hair removal is optional (since March 2018). Note that she does have patients [with vaginal hair](https://photos.google.com/share/AF1QipM8sUroekoGpvlgSE-3WRxWxg2z9_a_Z0_xVgvWhtkGV6c7zfqrC5-x07E2-EYQzw?key=c3FURkdfMzl1azRTZVZpamZrOHl3SlNkazBndWtR). The 7% statistic appears to come from the the paper saying *"Among the 17 participants reporting the most serious vaginal hair problems"*.
 
 Personally I think that paper is a warning to do electrolysis properly rather than taking shortcuts (as some do), and that no surgeon informs patient of the risks associated with their choices. The hair growth cycle for genital hair is 10 months (vs 14 for chin) according to the [Richards-Merhag table](https://hairfreelife.com/life-hair-anagen-categen-telogen-phases/). You'd need at least one cycle to completely remove all hair (possibly multiples of that if you missed any). There's another potential issue that increases in hormone levels can simulate previously dormant folicles causing new hair growth.
 
-Futher information on Dr Sidhbh Gallagher can be found in this wiki <span class="internal">[here](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#sidhbh-gallagher)</span>.
+Futher information on Dr Sidhbh Gallagher can be found in this wiki [here](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/usa-south/usa-south.md#sidhbh-gallagher).
 
 As an aside, Anne Lawrence is [notorious in the trans community](http://www.tsroadmap.com/info/anne-lawrence.html).
 
@@ -826,7 +826,7 @@ However in the lawsuit [THOMPSON v. RUMER](https://www.courtlistener.com/docket/
 
 > Defendants Kathy L. Rumer D.O., F.A.C.O.S. and Delaware Valley Aesthetics, PLLC d/b/a Rumer Cosmetic Surgery will prove that they complied with the standard of care in performing Roxanne Thompson's gender reassignment surgery on September 13, 2016. *Hair regrowth is a recognized complication of vaginoplasty. Complete hair removal, whether it is done pre-operatively or post-operatively is never guaranteed.* There are differing schools of thought on the subject of hair removal when performing gender reassignment surgery."
 
-Futher information on Dr Kather Rumer can be found in this wiki <span class="internal">[here](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#kathy-lynn-rumer)</span>.
+Futher information on Dr Kather Rumer can be found in this wiki [here](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/usa-north-east/usa-north-east.md#kathy-lynn-rumer).
 
 YouTube
 
@@ -1765,4 +1765,4 @@ Links to another site [Tatiana Stein Electrolysis](https://tatiana-stein-electro
 
 ---
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**

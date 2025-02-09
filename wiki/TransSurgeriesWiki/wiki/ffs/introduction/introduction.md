@@ -1,16 +1,16 @@
 **FFS Introduction**
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
 
 ---
 
 Surgeons by country
 
-* <span class="internal">[Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/australia/australia.md)</span>
-* <span class="internal">[Europe](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/europe/europe.md)</span>
-* <span class="internal">[USA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/usa/usa.md)</span>
-* <span class="internal">[Thailand](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/thailand/thailand.md)</span>
-* <span class="internal">[Other](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/other/other.md)</span>
+* [Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/australia/australia.md)
+* [Europe](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/europe/europe.md)
+* [USA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/usa/usa.md)
+* [Thailand](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/thailand/thailand.md)
+* [Other](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/other/other.md)
 
 ---
 
@@ -370,7 +370,7 @@ reddit
 
 ### Hair Loss
 
-See <span class="internal">[https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_hair_loss](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/index.md#hair-loss)</span>
+See [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_hair_loss](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/index.md#hair-loss)
 
 reddit
 
@@ -467,4 +467,4 @@ Surgeons
 
 ---
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
