@@ -1,6 +1,6 @@
 **FFS in other countries**
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/content.md)**
 
 ---
 
@@ -564,7 +564,7 @@ YouTube
 
 See the SRS page for more info on some of these surgeons and others in India.
 
-* [r/TransSurgeriesWiki/wiki/srs/other#wiki_india](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/other/other.md#india)
+* [r/TransSurgeriesWiki/wiki/srs/other#wiki_india](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/other/content.md#india)
 
 Transgender India
 
@@ -1564,4 +1564,4 @@ YouTube
 
 ---
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/content.md)**

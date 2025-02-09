@@ -1,27 +1,27 @@
 **HRT in New South Wales (NSW)**
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/content.md)**
 
 ---
 
 HRT in other states of Australia
 
-* [ACT](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/act/act.md)
+* [ACT](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/act/content.md)
 * NSW
-* [QLD](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/qld/qld.md)
-* [SA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/sa/sa.md)
-* [TAS](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/tas/tas.md)
-* [VIC](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/vic/vic.md)
-* [WA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/wa/wa.md)
-* [NT](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/nt/nt.md)
+* [QLD](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/qld/content.md)
+* [SA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/sa/content.md)
+* [TAS](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/tas/content.md)
+* [VIC](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/vic/content.md)
+* [WA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/wa/content.md)
+* [NT](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/nt/content.md)
 
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia,
 * transhub [Gender Affirming Doctor List](https://www.transhub.org.au/doctors) - the best list of HRT prescribing doctors in NSW and there's a map showing where they all are
-* [Telehealth](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/australia.md#telehealth) - Doctors who work on line prescribing across Australia
-* Wiki page [HRT Introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/hrt.md)
-* Wiki page [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
+* [Telehealth](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/content.md#telehealth) - Doctors who work on line prescribing across Australia
+* Wiki page [HRT Introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/content.md)
+* Wiki page [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/content.md)
 * Trans Health Australia [Medical Practitioners in NSW / ACT](http://www.transhealthaustralia.org/index.php/nsw-act/3-medical-practitioners-nsw-act)
 * /r/transgenderau [wiki for ACT & NSW](https://www.reddit.com/r/transgenderau/wiki/resources-nsw)
 * [Hunter Gender Alliance](https://www.huntergenderalliance.org/) - *"The Hunter Gender Alliance (HGA) is a network of trans and gender diverse (TGD) people, health professionals, family members, and allies. HGA works to make life better for TGD people in the Hunter and surrounding areas, including Newcastle."*
@@ -52,7 +52,7 @@ Dr Hayes started practicing again in 2021.
 
 **Estrogen Implants**
 
-Unlike Dr Hayes our current doctors are extremely reluctant to prescribe 200mg implants, and its not clear who does (see Dr Michelle Guttman-Jones). If they do then it would be on a case by case basis and if you hear of someone getting them it doesn't mean you will. There's some further information on implants [here](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/implants/implants.md).
+Unlike Dr Hayes our current doctors are extremely reluctant to prescribe 200mg implants, and its not clear who does (see Dr Michelle Guttman-Jones). If they do then it would be on a case by case basis and if you hear of someone getting them it doesn't mean you will. There's some further information on implants [here](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/implants/content.md).
 
 Some of the doctors on the transhub list say
 
@@ -141,7 +141,7 @@ Key details
 * Does Telehealth, but as a specialist (not GP) its not covered by medicare so around $130 for standard cases (2022)
 * North Shore Medical Centre, Suite 10-11 Level 5, 66 Pacific Highway, ***St Leonards***, NSW 2065, Tel: 04567 62 984
 * ~~Suite 3, 20 Bungan Road, Mona Vale, NSW 2103~~
-* [r/TransWiki/wiki/hrt/jon-hayes](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/jon-hayes/jon-hayes.md)
+* [r/TransWiki/wiki/hrt/jon-hayes](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/jon-hayes/content.md)
 
 Retired in 2019 and back in April 2021. Same email and phone number. As he's a specialist you need a referral from a GP (you can go without a referral, but it will be expensive), and if you had an [indefintite referral](https://www.servicesaustralia.gov.au/referring-and-requesting-medicare-services) from before he retired you'll need to get a new referral - you can't continue to use the old one.
 
@@ -1972,4 +1972,4 @@ reddit
 
 ---
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/content.md)**

@@ -1,16 +1,16 @@
 **FFS Introduction**
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/content.md)**
 
 ---
 
 Surgeons by country
 
-* [Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/australia/australia.md)
-* [Europe](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/europe/europe.md)
-* [USA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/usa/usa.md)
-* [Thailand](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/thailand/thailand.md)
-* [Other](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/other/other.md)
+* [Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/australia/content.md)
+* [Europe](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/europe/content.md)
+* [USA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/usa/content.md)
+* [Thailand](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/thailand/content.md)
+* [Other](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/other/content.md)
 
 ---
 
@@ -370,7 +370,7 @@ reddit
 
 ### Hair Loss
 
-See [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_hair_loss](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/index.md#hair-loss)
+See [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_hair_loss](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/content.md#hair-loss)
 
 reddit
 
@@ -467,4 +467,4 @@ Surgeons
 
 ---
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/content.md)**

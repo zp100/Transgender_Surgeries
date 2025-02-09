@@ -1,6 +1,6 @@
 **SRS Introduction**
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/content.md)**
 
 ---
 
@@ -8,14 +8,14 @@
 
 Surgeons by country, including photos.
 
-* [Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/australia/australia.md)
-* [Canada](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/canada/canada.md)
-* [Europe](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/europe/europe.md)
-    * [UK](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/uk/uk.md)
-* [South America](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/south-america/south-america.md)
-* [Thailand](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
-* [USA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/usa/usa.md)
-* [Other](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/other/other.md)
+* [Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/australia/content.md)
+* [Canada](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/canada/content.md)
+* [Europe](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/europe/content.md)
+    * [UK](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/uk/content.md)
+* [South America](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/south-america/content.md)
+* [Thailand](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/thailand/content.md)
+* [USA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/usa/content.md)
+* [Other](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/other/content.md)
 
 <br />
 
@@ -562,7 +562,7 @@ reddit
 
 ## Non-binary Surgery
 
-This refers to the surgery itself, rather than a person who's non-binary having a traditional surgery. For that, look under [Real Life Experience](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#real-life-experience-rle).
+This refers to the surgery itself, rather than a person who's non-binary having a traditional surgery. For that, look under [Real Life Experience](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/introduction/content.md#real-life-experience-rle).
 
 While this section is for AMAB, it's also possible for AFAB to have simular results. See reddit users [nonbinaryphallo](https://www.reddit.com/user/nonbinaryphallo/submitted/) and [bonusdickboi](https://www.reddit.com/user/bonusdickboi/submitted/).
 
@@ -903,7 +903,7 @@ Papers
 
 ### Tilapia Skin
 
-See Dr. Alvaro Rodriguez on the Wiki page for [SRS in South America](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/south-america/south-america.md)
+See Dr. Alvaro Rodriguez on the Wiki page for [SRS in South America](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/south-america/content.md)
 
 reddit
 
@@ -1325,7 +1325,7 @@ Stephanie Lynnette in 2021
 
 ## Choosing a surgeon
 
-Moved to the [Surgery Introduction page](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/index.md).
+Moved to the [Surgery Introduction page](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/content.md).
 
 <br />
 
@@ -1539,7 +1539,7 @@ YouTube
 
 ## Real Life Experience (RLE)
 
-The [WPATH Standards of Care](https://www.wpath.org/publications/soc) version 7 require (page 106) one year of living in your preferred gender (and HRT) before genital surgery. The one year is known as [RLE](https://en.wikipedia.org/wiki/Real-life_experience_\(transgender\)), or sometimes RLT (Real Life Test) as in you don't get your SRS without passing it. Note that the WPATH SOC is not a legal requirement, surgeons are not required to follow it, and it is open to some interpretation. See the wiki introduction page on [Medical Guidelines](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/index.md#medical-guidelines) for more. Note also that version 8 of the WPATH SOC has some updates in related to this.
+The [WPATH Standards of Care](https://www.wpath.org/publications/soc) version 7 require (page 106) one year of living in your preferred gender (and HRT) before genital surgery. The one year is known as [RLE](https://en.wikipedia.org/wiki/Real-life_experience_\(transgender\)), or sometimes RLT (Real Life Test) as in you don't get your SRS without passing it. Note that the WPATH SOC is not a legal requirement, surgeons are not required to follow it, and it is open to some interpretation. See the wiki introduction page on [Medical Guidelines](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/content.md#medical-guidelines) for more. Note also that version 8 of the WPATH SOC has some updates in related to this.
 
 Its possible, though rare, to get SRS without even presenting/identifying female or having any intention of socially transitioning. Lots of trans people don't believe this is possible (and some believe it shouldn't be allowed). You must take estrogen or testosterone afer removing the testicles otherwise you'll be at risk of [osteoporosis](https://en.wikipedia.org/wiki/Osteoporosis) (this is very bad) and other problems. As evidence its possible, and with reputable surgeons:
 
@@ -1683,7 +1683,7 @@ Other
 
 ## Genital Hair Removal
 
-See [https://www.reddit.com/r/TransWiki/wiki/hair-removal](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hair-removal/hair-removal.md)
+See [https://www.reddit.com/r/TransWiki/wiki/hair-removal](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hair-removal/content.md)
 
 <br />
 
@@ -1701,7 +1701,7 @@ reddit
 
 ## Piercings
 
-See also the [Piercings](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/index.md#piercings) section in the introduction page of this wiki.
+See also the [Piercings](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/content.md#piercings) section in the introduction page of this wiki.
 
 reddit
 
@@ -1792,7 +1792,7 @@ reddit
 
 Move to a separate page
 
-[https://www.reddit.com/r/TransWiki/wiki/weight-loss](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/weight-loss/weight-loss.md)
+[https://www.reddit.com/r/TransWiki/wiki/weight-loss](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/weight-loss/content.md)
 
 <br />
 
@@ -2351,7 +2351,7 @@ YouTube
 
 According to wikipedia a vagina ranges from [4.3" to 4.7"](https://en.wikipedia.org/wiki/Human_vaginal_size) during sexual arousal, and the [avergage errect penis length  is 5.17"](https://en.wikipedia.org/wiki/Human_penis_size). However the post-operative trans women's vagina does not stretch.
 
-For complications in depth post-op see wiki entry [Dilation and Depth](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/introduction/introduction.md#dilation-and-depth)
+For complications in depth post-op see wiki entry [Dilation and Depth](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/introduction/content.md#dilation-and-depth)
 
 reddit
 
@@ -3152,7 +3152,7 @@ reddit
 
 ### Death
 
-See [Death](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/index.md#death) on the main surgery wiki page.
+See [Death](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/content.md#death) on the main surgery wiki page.
 
 <br />
 
@@ -3379,7 +3379,7 @@ reddit
 
 ### Hair Loss
 
-See [Hair Loss](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/index.md#hair-loss) on main surgery wiki page.
+See [Hair Loss](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/content.md#hair-loss) on main surgery wiki page.
 
 <br />
 
@@ -4007,4 +4007,4 @@ Post-op porn, generally its difficult or impossible to find out who the surgeons
 
 ---
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/content.md)**

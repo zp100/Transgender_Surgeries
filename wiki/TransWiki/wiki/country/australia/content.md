@@ -1,6 +1,6 @@
 **Australia**
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/content.md)**
 
 ---
 
@@ -36,16 +36,16 @@ Other
 
 Wiki pages
 
-* [HRT Introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/hrt.md)
-* [HRT in Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/australia.md) lists doctor prescribing HRT and reviews
-* [Compounding Pharmacies](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/compounding-pharmacies/australia/australia.md)
-* [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/australia.md)
+* [HRT Introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/content.md)
+* [HRT in Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/content.md) lists doctor prescribing HRT and reviews
+* [Compounding Pharmacies](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/compounding-pharmacies/australia/content.md)
+* [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/content.md)
 
 <br />
 
 # Hair removal
 
-* [Hair Removal](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hair-removal/hair-removal.md)
+* [Hair Removal](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hair-removal/content.md)
 
 <br />
 
@@ -53,16 +53,16 @@ Wiki pages
 
 Wiki pages
 
-* [Introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/index.md)
-* [Facial Feminisation Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/australia/australia.md)
-* [Male to Female Genital Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/australia/australia.md)
-* [Voice Feminisation Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/australia/australia.md)
+* [Introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/content.md)
+* [Facial Feminisation Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/australia/content.md)
+* [Male to Female Genital Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/australia/content.md)
+* [Voice Feminisation Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/australia/content.md)
 
 Other popular destinations for surgery
 
-* [Thailand for genital surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/thailand/thailand.md)
-* [Facial Team](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/europe/europe.md#facial-team) in Spain for FFS
-* [Yeson in Korea](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/korea/korea.md#hyung-tae-kim-yeson) for Voice Feminization surgery
+* [Thailand for genital surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/thailand/content.md)
+* [Facial Team](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/ffs/europe/content.md#facial-team) in Spain for FFS
+* [Yeson in Korea](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/vfs/korea/content.md#hyung-tae-kim-yeson) for Voice Feminization surgery
 
 <br />
 
@@ -214,7 +214,7 @@ Australian Facebook groups
 
 Other Facebook groups
 
-* [r/TransWiki/wiki/facebook](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/facebook/facebook.md)
+* [r/TransWiki/wiki/facebook](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/facebook/content.md)
 
 <br />
 
@@ -306,4 +306,4 @@ Facebook
 
 ---
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/content.md)**

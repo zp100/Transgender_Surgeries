@@ -1,6 +1,6 @@
 **FFS in Europe**
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/content.md)**
 
 ---
 
@@ -1417,7 +1417,7 @@ realself
 
 ## Christopher Inglefield
 
-See the [SRS page](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/uk/uk.md#christopher-inglefield) for more details.
+See the [SRS page](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/srs/uk/content.md#christopher-inglefield) for more details.
 
 Surgeons sites
 
@@ -1588,4 +1588,4 @@ reddit
 
 ---
 
-**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)**
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/content.md)**
