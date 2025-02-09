@@ -1,7 +1,7 @@
 {
     "functions": {
         "api/index.js": {
-            "includeFiles": "**/*"
+            "includeFiles": "**/wiki/**/*"
         }
     },
     "routes": [
