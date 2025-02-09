@@ -9,7 +9,7 @@ app.set('views', './api/views')
 app.set('view engine', 'pug')
 app.use('/static', express.static(join(process.cwd(), 'api', 'static')))
 const PORT = 3001
-const WIKI_INDEX = 'TransWiki/wiki/index/index.md'
+const WIKI_INDEX = 'TransWiki/wiki/index/content.md'
 
 // Redirect the first site visit to the wiki index.
 app.get('/', (_, res) => {
