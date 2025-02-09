@@ -6,8 +6,8 @@ I'm not affiliated with any of the people or businesses discussed/linked in this
 
 ## Useful Links
 
-- Main index: https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md
-- Subreddit wiki's starting point: https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md
+- Main index: https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/content.md
+- Subreddit wiki's starting point: https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/content.md
 - Live backup: https://transgender-surgeries.vercel.app/
 - Original wiki: https://old.reddit.com/r/TransSurgeriesWiki/wiki/index
 
@@ -42,4 +42,4 @@ However, Vercel has the same drawback as hosting here on GitHub and on the origi
 
 This should set up a local instance of the server, which you can access by going to http://localhost:3001/ in a browser. This isn't "self-hosting", though: Nobody besides your computer will be able to access it.
 
-If you also have the capabilities to self-host the project, feel free to do so. I probably won't do it myself, but if the person reading this has the knowledge and resources to secure a domain and run the steps above on a (not local) deployment, it *should* work the same as a local server. You may need to mess with the port number, though. I had to add a lot of tweaks to get it to work regardless if it's run via `node api/index.js`, `vercel dev`, or production, and you'll likely run into similar issues.
+If you also have the capabilities to self-host the project, feel free to do so. I probably won't do it myself, but if the person reading this has the knowledge and resources to secure a domain and run the steps above on a (not local) deployment, it *should* work the same as a local server.
