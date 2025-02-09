@@ -1,6 +1,6 @@
 **FFS in Thailand**
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
@@ -358,4 +358,4 @@ http://attitude-analyst.blogspot.com
 
 ---
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**

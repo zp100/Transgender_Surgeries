@@ -1,6 +1,6 @@
 **Local Anesthetic**
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
@@ -10,8 +10,8 @@ https://en.wikipedia.org/wiki/Local_anesthetic - *"A local anesthetic (LA) is a 
 
 Related wiki pages
 
-* <span class="internal">[Injections](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/injections/injections.md)</span>
-* <span class="internal">[Implants/Pellets](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implants/implants.md)</span>
+* <span class="internal">[Injections](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/injections/injections.md)</span>
+* <span class="internal">[Implants/Pellets](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/implants/implants.md)</span>
 
 <br />
 
@@ -193,7 +193,7 @@ Lidocaine is normally safe (not always, hence the doctor) up to 0.3 mg per kg of
 
 Lidocaine can be diluted with [saline](https://en.wikipedia.org/wiki/Saline_\(medicine\)) for electrolysis. This has the advantage that larger areas can be safely anaesthetised (due to the lower dosage of lidocaine). Presumably the chance of having an adverse reaction would also be reduced.
 
-Lidocaine can to at diluted (to at least 1 part of 2% lidocaine to 7 parts saline) for electrolysis. When buffering with sodium bicarbonate to reduce injection pain (see <span class="internal">[implants/pellets](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/implants/implants.md)</span>) it is mixed according to the volume of lidocaine used, not the total volume including saline.
+Lidocaine can to at diluted (to at least 1 part of 2% lidocaine to 7 parts saline) for electrolysis. When buffering with sodium bicarbonate to reduce injection pain (see <span class="internal">[implants/pellets](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/implants/implants.md)</span>) it is mixed according to the volume of lidocaine used, not the total volume including saline.
 
 The ratio of sodium bicarbonate to lidocaine recommended in papers is usually 1:10, but it varies down to about 3:1. Perhaps the acidity of the lidocaine used varies? It its dangerous to inject too much sodium bicarbonate, but I don't currently know what the limit is.
 
@@ -367,4 +367,4 @@ reddit
 
 ---
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**

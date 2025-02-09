@@ -1,6 +1,6 @@
 **FFS in Australia**
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
@@ -479,4 +479,4 @@ Surgeons sites
 
 ---
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**

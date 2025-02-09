@@ -1,6 +1,6 @@
 **Hips & Butt**
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
@@ -224,7 +224,7 @@ ABC News In-depth in 25 October 2021
 
 Aka Dr. 6ix.
 
-Also does <span class="internal">[Breasts](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/breasts/introduction/introduction.md)</span>.
+Also does <span class="internal">[Breasts](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/breasts/introduction/introduction.md)</span>.
 
 Location
 
@@ -839,7 +839,7 @@ Review sites
 
 ## Florida
 
-Many doctors in Florida do not carry malpractice insurance. See the <span class="internal">[wiki introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#malpractice-insurance-in-the-usa)</span> to see what this means.
+Many doctors in Florida do not carry malpractice insurance. See the <span class="internal">[wiki introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/index.md#malpractice-insurance-in-the-usa)</span> to see what this means.
 
 Also note the high death rate in Florida from BBL even after new safety guidelines were introduced, *"South Florida carries the highest BBL mortality by far in the nation... South Florida has experienced 25 BBL related fat emboli deaths from 2010-2022, however 14 of those deaths have taken place after the Aesthetic Surgery Education and Research Foundation (ASERF) guidelines and the Florida Board of Medicine BBL "subcutaneous-only" rule. The working environment at the clinics and the short surgical times for these cases, may be the most important contributors to the BBL mortality in South Florida."*
 * 2022 - [Brazilian Butt Lift–Associated Mortality: The South Florida Experience](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9896146/) by Pat Pazmiño, Onelio Garcia
@@ -897,7 +897,7 @@ Surgeons sites
 * https://www.vitals.com/doctors/Dr_Moises_Salama.html
 * https://www.ratemds.com/doctor-ratings/2999549/Dr-MOISES-SALAMA-AVENTURA-FL.html
 
-According to [this pdf](https://appsmqa.doh.state.fl.us/MQASearchServices/HealthCareProviders/PractitionerProfilePrintFriendly?LicInd=101035&ProCde=1501) Salama does not carry malpractice insurance (for license expiring 01/31/2019). See the <span class="internal">[wiki introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#malpractice-insurance-in-the-usa)</span> for what this might mean.
+According to [this pdf](https://appsmqa.doh.state.fl.us/MQASearchServices/HealthCareProviders/PractitionerProfilePrintFriendly?LicInd=101035&ProCde=1501) Salama does not carry malpractice insurance (for license expiring 01/31/2019). See the <span class="internal">[wiki introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/index.md#malpractice-insurance-in-the-usa)</span> for what this might mean.
 
 reddit
 
@@ -1218,7 +1218,7 @@ Surgeons site
 
 Does not carry malpractice insurance
 
-* https://mqa-internet.doh.state.fl.us/MQASearchServices/HealthCareProviders/Details?LicInd=152612&ProCde=1501 - *"I have elected not to carry medical malpractice insurance however, I agree to satisfy any adverse judgments up to the minimum amounts pursuant to s. 458.320(5) (g)1, F. S. I understand that I must either post notice in a sign prominently displayed in my reception area or provide a written statement to any person to whom medical services are being provided that I have decided not to carry medical malpractice insurance. I understand that such a sign or notice must contain the wording specified in s. 458.320(5) (g), F.S."* - see the wiki <span class="internal">[introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/index/index.md#malpractice-insurance-in-the-usa)</span> for what that means.
+* https://mqa-internet.doh.state.fl.us/MQASearchServices/HealthCareProviders/Details?LicInd=152612&ProCde=1501 - *"I have elected not to carry medical malpractice insurance however, I agree to satisfy any adverse judgments up to the minimum amounts pursuant to s. 458.320(5) (g)1, F. S. I understand that I must either post notice in a sign prominently displayed in my reception area or provide a written statement to any person to whom medical services are being provided that I have decided not to carry medical malpractice insurance. I understand that such a sign or notice must contain the wording specified in s. 458.320(5) (g), F.S."* - see the wiki <span class="internal">[introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/index/index.md#malpractice-insurance-in-the-usa)</span> for what that means.
 
 YouTube
 
@@ -1421,4 +1421,4 @@ https://www.plastikoperationsforum.se/forum/ovrig-kropp/ovrigt-kropp
 
 ---
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**

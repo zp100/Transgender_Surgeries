@@ -1,25 +1,25 @@
 **HRT in South Australia (SA)**
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
 
 ---
 
 HRT in other states of Australia
 
-* <span class="internal">[ACT](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/act/act.md)</span>
-* <span class="internal">[NSW](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/nsw/nsw.md)</span>
-* <span class="internal">[QLD](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/qld/qld.md)</span>
+* <span class="internal">[ACT](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/act/act.md)</span>
+* <span class="internal">[NSW](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/nsw/nsw.md)</span>
+* <span class="internal">[QLD](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/qld/qld.md)</span>
 * SA
-* <span class="internal">[TAS](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/tas/tas.md)</span>
-* <span class="internal">[VIC](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/vic/vic.md)</span>
-* <span class="internal">[WA](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/wa/wa.md)</span>
-* <span class="internal">[NT](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/nt/nt.md)</span>
+* <span class="internal">[TAS](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/tas/tas.md)</span>
+* <span class="internal">[VIC](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/vic/vic.md)</span>
+* <span class="internal">[WA](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/wa/wa.md)</span>
+* <span class="internal">[NT](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/nt/nt.md)</span>
 
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&usp=sharing) of HRT doctors in Australia,
-* <span class="internal">[Telehealth](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md#telehealth)</span> - Doctors who work on line prescribing across Australia
-* Wiki entry <span class="internal">[Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/TransSurgeriesWiki/wiki/psychs/australia/australia.md)</span>
+* <span class="internal">[Telehealth](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/australia.md#telehealth)</span> - Doctors who work on line prescribing across Australia
+* Wiki entry <span class="internal">[Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/australia.md)</span>
 * [Trans Health SA](http://www.transhealthsa.com/) and [SA PRACTITIONERS’ LIST](http://www.transhealthsa.com/sa-practitioners-list-3/)
 *  *PDF warning* [SA Practitioners List. A Community Directory for Sex and Gender Diverse Persons in South Australia](http://www.transhealthsa.com/wp-content/uploads/2019/05/SA-Practitioners-List-27.05.2019.pdf) - this is quite extensive
 * /r/transgenderau [wiki for South Australia](https://www.reddit.com/r/transgenderau/wiki/resources-sa)
@@ -45,7 +45,7 @@ South Australia is quite bad for gatekeeping and lack of resources so this could
 
 ## The Telehealth Gender Clinic (TTGC)
 
-See the <span class="internal">[Bel Gardon](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/australia/australia.md#bel-gardon)</span> on the main Australian wiki page.
+See the <span class="internal">[Bel Gardon](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/australia.md#bel-gardon)</span> on the main Australian wiki page.
 
 * https://www.ttgc.com.au
 
@@ -127,7 +127,7 @@ Key details
 
 * Endocrinologist
 * http://www.endocrineconsultantssa.com.au/dr-anthony-tony-roberts/
-* Among other things he prescribes Ethinyl Estradiol (Microgynon 50 ED), which is <span class="internal">[not safe](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/hrt/hrt.md#ethinyl-estradiol)</span>.
+* Among other things he prescribes Ethinyl Estradiol (Microgynon 50 ED), which is <span class="internal">[not safe](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/hrt.md#ethinyl-estradiol)</span>.
 
 reddit
 
@@ -632,4 +632,4 @@ Key details
 
 ---
 
-**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/index.md)</span>**
+**<span class="internal">[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/index/index.md)</span>**
