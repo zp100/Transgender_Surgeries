@@ -42,15 +42,14 @@ app.get('/wiki*', (req, res) => {
                     return
                 }
 
-                // Convert the markdown to HTML.
-                const markdownHtml = marked.parse(data, { gfm: true }).replaceAll(
-                    // Replace all GitHub links to instead stay within whatever site is hosting this.
-                    'https://github.com/zp100/Transgender_Surgeries/blob/main/',
-                    (req.hostname === 'localhost'
-                        ? `http://localhost:${PORT}/wiki/`
-                        : `${req.protocol}://${req.hostname}/wiki/`
-                    )
+                // Replace all GitHub links to instead stay within whatever site is hosting this.
+                const relativeData = data.replaceAll(
+                    /\[(.*?)\]\((https:\/\/github\.com\/zp100\/Transgender_Surgeries\/blob\/main\/wiki\/)(.*?)\)/g,
+                    '<span class="internal">[$1](/wiki/$3)</span>'
                 )
+
+                // Convert the markdown to HTML.
+                const markdownHtml = marked.parse(relativeData, { gfm: true })
 
                 // Insert the HTML into the template and render it.
                 res.render('wiki', {
