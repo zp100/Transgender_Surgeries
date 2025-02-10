@@ -19,6 +19,9 @@ app.get('/', (_, res) => {
 // Get wiki pages.
 app.get('/wiki*', (req, res) => {
     function markdownCallback(data) {
+        // Get the page's title.
+        const title = data.match(/^(?<!\n)\*\*(.+?)\*\*/)[1]
+
         // Replace all GitHub links to instead stay within whatever site is hosting this.
         const relativeData = data.replaceAll(
             /\[(.*?)\]\((https:\/\/github\.com\/zp100\/Transgender_Surgeries\/blob\/main\/wiki\/)(.*?)\)/g,
@@ -26,8 +29,10 @@ app.get('/wiki*', (req, res) => {
         )
 
         // Convert the markdown to HTML.
-        const markdownHtml = marked.parse(relativeData, { gfm: true })
-        return markdownHtml
+        const contentHtml = marked.parse(relativeData, { gfm: true })
+
+        // Return.
+        return { title, contentHtml }
     }
 
     fileRequestCallback(req, res, WIKI_INDEX, 'wiki', 'md', markdownCallback)

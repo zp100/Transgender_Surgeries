@@ -1,4 +1,8 @@
-# Sticky Posts
+**Sticky Posts**
+
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/r/TransWiki/wiki/index/content.md)**
+
+---
 
 A history of sticky posts (announcements) on [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries), excluding the surgery calendar posts.
 
@@ -11,3 +15,7 @@ A history of sticky posts (announcements) on [r/Transgender_Surgeries](https://w
 ## 2019
 
 There's more, but I don't know how to find them...
+
+---
+
+**[Wiki Index](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/r/TransWiki/wiki/index/content.md)**

@@ -3,7 +3,10 @@ const { join } = require('path')
 
 // Fetch and process the page specified by a particular request.
 // Generalized to apply to all pages in all sections (wiki, posts, etc.).
-export function fileRequestCallback(req, res, wikiIndex, section, extension = 'html', dataCallback = ((data) => data)) {
+export function fileRequestCallback(
+    req, res, wikiIndex, section, extension = 'html',
+    dataCallback = (data) => ({ title: undefined, contentHtml: data })
+) {
     // Check if the param is a valid file.
     const fileName = req.params['0']
     const filePath = join(process.cwd(), section, fileName)
@@ -30,13 +33,13 @@ export function fileRequestCallback(req, res, wikiIndex, section, extension = 'h
                 }
 
                 // Run callback for this file.
-                const contentHtml = dataCallback(data)
+                const { title, contentHtml } = dataCallback(data)
 
                 // Insert the HTML into the template and render it.
                 res.render('posts', {
-                    title: filePath.split('/').at(-2),
-                    wikiIndex,
-                    contentHtml
+                    title,
+                    contentHtml,
+                    wikiIndex
                 })
             })
         }
