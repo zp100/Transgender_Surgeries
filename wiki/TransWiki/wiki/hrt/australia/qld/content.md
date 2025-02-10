@@ -22,7 +22,7 @@ See also
 * Wiki entry [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/content.md)
 * Transcend (for families of transgender children) - https://transcendsupport.com.au/resources/queensland/
 * Trans Health Australia [Medical Practitioners in Queensland](http://www.transhealthaustralia.org/index.php/queensland/2-medical-practitioners-qld)
-* /r/transgenderau [wiki for Queensland](https://www.reddit.com/r/transgenderau/wiki/resources-qld)
+* [/r/transgenderau](https://www.reddit.com/r/transgenderau) [wiki for Queensland](https://www.reddit.com/r/transgenderau/wiki/resources-qld)
 * https://docdir.org.au - *"DocDir is an Australia-wide directory of LGBTQ+ inclusive clinicians and services."*
 
 <br />

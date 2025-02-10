@@ -1203,7 +1203,7 @@ Samir S Shirodkar, Fayez T Hammad, Naseem A Qureshi
     * http://gynodiversity.com/uploads/Classification_of_the_anatomical_variation_in_female_external_genitalia.pdf
 * [100 Vaginas review – an extraordinary and empowering spread of the legs](https://www.theguardian.com/lifeandstyle/2019/feb/09/me-and-my-vulva-100-women-reveal-all-photographs), The Guardian in 2019, photo [here](https://www.theguardian.com/lifeandstyle/2019/feb/09/me-and-my-vulva-100-women-reveal-all-photographs#img-2)
 * [Great Wall of Vagina](http://www.greatwallofvagina.co.uk/images)
-* [The Second Annual Vulva Gallery](https://www.reddit.com/r/normalnudes/comments/39l1q9/the_second_annual_vulva_gallery/) on /r/normalnudes, photos [here](https://imgur.com/a/lDsgw), and another copy [here](http://www.fuckblogging.com/3-years-of-anonymous-vulva-vagina-submissions-from-all-over-the-world-part-1/)
+* [The Second Annual Vulva Gallery](https://www.reddit.com/r/normalnudes/comments/39l1q9/the_second_annual_vulva_gallery/) on [/r/normalnudes](https://www.reddit.com/r/normalnudes), photos [here](https://imgur.com/a/lDsgw), and another copy [here](http://www.fuckblogging.com/3-years-of-anonymous-vulva-vagina-submissions-from-all-over-the-world-part-1/)
 * https://en.wikipedia.org/wiki/Femalia - I've not seen this but it sounds like it might be useful
 * http://www.labialibrary.org.au/
 * https://en.wikipedia.org/wiki/Erogenous_zone#Female
@@ -1957,7 +1957,7 @@ reddit subs
 
 * [r/foreskin_restoration](https://www.reddit.com/r/foreskin_restoration) and its wiki [r/foreskin_restoration/wiki/index](https://www.reddit.com/r/foreskin_restoration/wiki/index)
 * [r/Foregen](https://www.reddit.com/r/Foregen)
-* [r/restoringdick](https://www.reddit.com/r/restoringdick) - *"Photos of dicks throughout the process of foreskin restoration. The NSFW off-shoot of /r/Foreskin_Restoration"*
+* [r/restoringdick](https://www.reddit.com/r/restoringdick) - *"Photos of dicks throughout the process of foreskin restoration. The NSFW off-shoot of [/r/Foreskin_Restoration](https://www.reddit.com/r/Foreskin_Restoration)"*
 
 Other
 

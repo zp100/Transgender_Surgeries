@@ -23,7 +23,7 @@ See also
 * Wiki page [HRT Introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/content.md)
 * Wiki page [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/content.md)
 * Trans Health Australia [Medical Practitioners in NSW / ACT](http://www.transhealthaustralia.org/index.php/nsw-act/3-medical-practitioners-nsw-act)
-* /r/transgenderau [wiki for ACT & NSW](https://www.reddit.com/r/transgenderau/wiki/resources-nsw)
+* [/r/transgenderau](https://www.reddit.com/r/transgenderau) [wiki for ACT & NSW](https://www.reddit.com/r/transgenderau/wiki/resources-nsw)
 * [Hunter Gender Alliance](https://www.huntergenderalliance.org/) - *"The Hunter Gender Alliance (HGA) is a network of trans and gender diverse (TGD) people, health professionals, family members, and allies. HGA works to make life better for TGD people in the Hunter and surrounding areas, including Newcastle."*
 * https://docdir.org.au - *"DocDir is an Australia-wide directory of LGBTQ+ inclusive clinicians and services."*
 

@@ -369,8 +369,8 @@ reddit
 * [After vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/e5rh0o/after_vaginoplasty/) by edani941 in 2019
 * [Summary of Brassard's work?](https://www.reddit.com/r/Transgender_Surgeries/comments/eex818/summary_of_brassards_work/) by RosyGlow in 2019
 * [I've had GRS with Brassard 8 months ago. Here's my thoughts so far.](https://www.reddit.com/r/MtF/comments/eefpcl/ive_had_grs_with_brassard_8_months_ago_heres_my/) by IrreleventPerson in 2019
-* [6 weeks post-op from Brassard, AMA.](https://www.reddit.com/r/Transgender_Surgeries/comments/e9laa5/6_weeks_postop_from_brassard_ama/) by Zaralyyth in 2019 in /r/Transgender_Surgeries/
-* [6 weeks post-op from Brassard, AMA.](https://www.reddit.com/r/MtF/comments/e9l1ua/6_weeks_postop_from_brassard_ama/) by Zaralyyth in 2019 in /r/mtf
+* [6 weeks post-op from Brassard, AMA.](https://www.reddit.com/r/Transgender_Surgeries/comments/e9laa5/6_weeks_postop_from_brassard_ama/) by Zaralyyth in 2019 in [/r/Transgender_Surgeries/](https://www.reddit.com/r/Transgender_Surgeries/)
+* [6 weeks post-op from Brassard, AMA.](https://www.reddit.com/r/MtF/comments/e9l1ua/6_weeks_postop_from_brassard_ama/) by Zaralyyth in 2019 in [/r/mtf](https://www.reddit.com/r/mtf)
 * [I had a good experience with Brassard ask me whatever](https://www.reddit.com/r/Transgender_Surgeries/comments/dwsc9q/i_had_a_good_experience_with_brassard_ask_me/) by room_207 in 2019
 * [drenched after first srs post op orgasm](https://www.reddit.com/r/Transgender_Surgeries/comments/dd3ix2/drenched_after_first_srs_post_op_orgasm/) by s_feld in 2019
 * reply to [To the Trans gals who have had gender reassignment, what is your experience with hair down there? ](https://www.reddit.com/r/asktransgender/comments/d4w6bq/to_the_trans_gals_who_have_had_gender/f0j7vnb/) by KristinKhaos in 2019

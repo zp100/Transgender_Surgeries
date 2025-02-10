@@ -22,7 +22,7 @@ See also
 * Wiki entry [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/content.md)
 * [Trans Health SA](http://www.transhealthsa.com/) and [SA PRACTITIONERS’ LIST](http://www.transhealthsa.com/sa-practitioners-list-3/)
 *  *PDF warning* [SA Practitioners List. A Community Directory for Sex and Gender Diverse Persons in South Australia](http://www.transhealthsa.com/wp-content/uploads/2019/05/SA-Practitioners-List-27.05.2019.pdf) - this is quite extensive
-* /r/transgenderau [wiki for South Australia](https://www.reddit.com/r/transgenderau/wiki/resources-sa)
+* [/r/transgenderau](https://www.reddit.com/r/transgenderau) [wiki for South Australia](https://www.reddit.com/r/transgenderau/wiki/resources-sa)
 * [SA Gender Diverse Allies](https://www.meetup.com/en-AU/SAGenderDiverseAllies/) on meetup.com
 * https://docdir.org.au - *"DocDir is an Australia-wide directory of LGBTQ+ inclusive clinicians and services."*
 

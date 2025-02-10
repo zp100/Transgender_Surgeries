@@ -396,7 +396,7 @@ As doctors who are experienced in cis and trans women's HRT have similar skills 
 
 Other resources
 
-* /r/Menopause
+* [/r/Menopause](https://www.reddit.com/r/Menopause)
 * Facebook group [HRT Implants/Pellets Info & Support](https://www.facebook.com/groups/2462247927386054/)
 
 <br />
@@ -558,7 +558,7 @@ Papers
 
 In this Wiki [HRT in Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/content.md).
 
-The Australian transgender sub /r/transgenderau contains information on HRT in Australia
+The Australian transgender sub [/r/transgenderau](https://www.reddit.com/r/transgenderau) contains information on HRT in Australia
 
 * wiki - [HRT Options](https://www.reddit.com/r/transgenderau/wiki/hrt_options) in 2017
 * post - [Cost of hormones and medications. Comparison.](https://www.reddit.com/r/transgenderau/comments/4s4pwh/cost_of_hormones_and_medications_comparison/) by NocteVulpes in 2016

@@ -21,7 +21,7 @@ See also
 * [Telehealth](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/content.md#telehealth) - Doctors who work on line prescribing across Australia
 * [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/content.md)
 * Trans Health Australia [Medical Practitioners in Victoria & Tasmania](http://www.transhealthaustralia.org/index.php/vic-tas/4-medical-practitioners-vic-tas)
-* /r/transgenderau [wiki for Tasmania](https://www.reddit.com/r/transgenderau/wiki/resources-tas)
+* [/r/transgenderau](https://www.reddit.com/r/transgenderau) [wiki for Tasmania](https://www.reddit.com/r/transgenderau/wiki/resources-tas)
 * https://docdir.org.au - *"DocDir is an Australia-wide directory of LGBTQ+ inclusive clinicians and services."*
 
 Department of Health, Transgender Services

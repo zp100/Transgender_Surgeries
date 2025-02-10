@@ -20,7 +20,7 @@ Many of the links should be explored further. For example, I list only one YouTu
 
 Web pages in foreign languages can easily be translated using the Google Chrome browser.
 
-This sub was created as the wiki for /r/Transgender_Surgeries. Having a separate sub allows the wiki to be made 18+ without making the parent sub 18+.
+This sub was created as the wiki for [/r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries). Having a separate sub allows the wiki to be made 18+ without making the parent sub 18+.
 
 ## Help Improve The Wiki
 
@@ -434,11 +434,11 @@ reddit
 * [Marijuana and Surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/doe13d/marijuana_and_surgery/) by MeZooey in 2019
 * [Marijuana Extract Post-Op](https://www.reddit.com/r/Transgender_Surgeries/comments/dbku7e/marijuana_extract_postop/) by SinAthena in 2019
 * [What do you do if a person is in need of real pain relief but has a history of painkiller abuse?](https://www.reddit.com/r/medicine/comments/932fr3/what_do_you_do_if_a_person_is_in_need_of_real/) in [r/medicine](https://www.reddit.com/r/medicine) by LegalizeChemistry around 2019
-* [Smoking four days before breast augmentation](https://www.reddit.com/r/anesthesiology/comments/a0g2uo/smoking_four_days_before_breast_augmentation/) in /r/anesthesiology in 2018
+* [Smoking four days before breast augmentation](https://www.reddit.com/r/anesthesiology/comments/a0g2uo/smoking_four_days_before_breast_augmentation/) in [/r/anesthesiology](https://www.reddit.com/r/anesthesiology) in 2018
 * [Did you \*really\* quit smoking before your BA?](https://www.reddit.com/r/PlasticSurgery/comments/a0dmrr/did_you_really_quit_smoking_before_your_ba/) in 2018
-* [Anybody here knowledgeable about this?](https://www.reddit.com/r/anesthesiology/comments/93b1bi/anybody_here_knowledgeable_about_this/) in /r/anesthesiology in 2018 - cross post of *Is there any danger in smoking weed the night before getting your wisdom teeth out, along with being a regular smoker?*
-* [I have a heavy history of ketamine and benzo abuse and have a permanent tolerance to both. Will these effect my surgery?](https://www.reddit.com/r/anesthesiology/comments/7pyn2n/i_have_a_heavy_history_of_ketamine_and_benzo/) in /r/anesthesiology in 2018
-* [Cocaine, anesthesia and elective plastic surgery.](https://www.reddit.com/r/anesthesiology/comments/6h4m9b/cocaine_anesthesia_and_elective_plastic_surgery/) in /r/anesthesiology in 2017
+* [Anybody here knowledgeable about this?](https://www.reddit.com/r/anesthesiology/comments/93b1bi/anybody_here_knowledgeable_about_this/) in [/r/anesthesiology](https://www.reddit.com/r/anesthesiology) in 2018 - cross post of *Is there any danger in smoking weed the night before getting your wisdom teeth out, along with being a regular smoker?*
+* [I have a heavy history of ketamine and benzo abuse and have a permanent tolerance to both. Will these effect my surgery?](https://www.reddit.com/r/anesthesiology/comments/7pyn2n/i_have_a_heavy_history_of_ketamine_and_benzo/) in [/r/anesthesiology](https://www.reddit.com/r/anesthesiology) in 2018
+* [Cocaine, anesthesia and elective plastic surgery.](https://www.reddit.com/r/anesthesiology/comments/6h4m9b/cocaine_anesthesia_and_elective_plastic_surgery/) in [/r/anesthesiology](https://www.reddit.com/r/anesthesiology) in 2017
 
 YouTube
 

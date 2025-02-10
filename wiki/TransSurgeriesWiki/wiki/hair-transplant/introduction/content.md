@@ -8,9 +8,9 @@ https://en.wikipedia.org/wiki/Hair_transplantation
 
 reddit
 
-* /r/tressless - *"Tressless (tress·less, without hair) is a support community for males and females coping with hair loss. "*
-* /r/HairTransplants
-* /r/DrWillPowers/wiki/hair-restoration - this is really good
+* [/r/tressless](https://www.reddit.com/r/tressless) - *"Tressless (tress·less, without hair) is a support community for males and females coping with hair loss. "*
+* [/r/HairTransplants](https://www.reddit.com/r/HairTransplants)
+* [/r/DrWillPowers/wiki/hair-restoration](https://www.reddit.com/r/DrWillPowers/wiki/hair-restoration) - this is really good
 * [Hair Transplant Before or After FFS?](https://www.reddit.com/r/asktransgender/comments/9ufa31/hair_transplant_before_or_after_ffs/) by grunkalunka2 in 2018
 
 Other forums

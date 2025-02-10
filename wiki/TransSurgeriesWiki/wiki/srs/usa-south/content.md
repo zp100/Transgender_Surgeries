@@ -512,7 +512,7 @@ Copies of what he posted on this Instagram account (now deleted).
 * https://imgur.com/a/vGDwExB
 * https://ibb.co/7KT2h4B
 
-A few days later there was great discussion in /r/medicine amongst his peers showing that this is not representative of the medical profession and is not acceptable. Very accepting of trans people however.
+A few days later there was great discussion in [/r/medicine](https://www.reddit.com/r/medicine) amongst his peers showing that this is not representative of the medical profession and is not acceptable. Very accepting of trans people however.
 
 * [Florida Man \[surgeon\] loses job after posting mid-surgery photos of his patients' genitals with mocking captions on Instagram](https://www.reddit.com/r/medicine/comments/azeexx/florida_man_surgeon_loses_job_after_posting/) in March 2019
 

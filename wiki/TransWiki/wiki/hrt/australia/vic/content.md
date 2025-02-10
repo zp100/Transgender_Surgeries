@@ -22,7 +22,7 @@ reddit post [here](https://www.reddit.com/r/transgenderau/comments/he6m2o/ive_st
 * [Telehealth](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/content.md#telehealth) - Doctors who work on line prescribing across Australia
 * Wiki entry for [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/content.md)
 * Trans Health Australia [Medical Practitioners in Victoria & Tasmania](http://www.transhealthaustralia.org/index.php/vic-tas/4-medical-practitioners-vic-tas)
-* /r/transgenderau [wiki for Victoria](https://www.reddit.com/r/transgenderau/wiki/resources-vic)
+* [/r/transgenderau](https://www.reddit.com/r/transgenderau) [wiki for Victoria](https://www.reddit.com/r/transgenderau/wiki/resources-vic)
 * reddit [Mini 'guide' for getting on HRT in Melbs, quick and cheap](https://www.reddit.com/r/transgenderau/comments/f3oo1h/mini_guide_for_getting_on_hrt_in_melbs_quick_and/) by Strange_Bean in 2020
 * https://docdir.org.au - *"DocDir is an Australia-wide directory of LGBTQ+ inclusive clinicians and services."*
 

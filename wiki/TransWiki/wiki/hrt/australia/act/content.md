@@ -22,7 +22,7 @@ See also
 * [Telehealth](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/australia/content.md#telehealth) - Doctors who work on line prescribing across Australia
 * Wiki entry [Australian Psychiatrists & Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/content.md)
 * Trans Health Australia [Medical Practitioners in NSW / ACT](http://www.transhealthaustralia.org/index.php/nsw-act/3-medical-practitioners-nsw-act)
-* /r/transgenderau [wiki for ACT & NSW](https://www.reddit.com/r/transgenderau/wiki/resources-nsw)
+* [/r/transgenderau](https://www.reddit.com/r/transgenderau) [wiki for ACT & NSW](https://www.reddit.com/r/transgenderau/wiki/resources-nsw)
 * https://genderrights.org.au/aga-event/friday-centre-12/ - *"Friday Centre. Peer navigation service that assists trans and gender diverse communities with information and referrals. "*
 * Skype consults, see Bel Gardon (Telehealth) in NSW.
 * https://docdir.org.au - *"DocDir is an Australia-wide directory of LGBTQ+ inclusive clinicians and services."*

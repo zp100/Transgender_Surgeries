@@ -703,7 +703,7 @@ transbucket
 
 Crista Lynn (2004)
 
-* http://imgur.com/a/knfYG and search /r/manmadepussy with [this](https://www.reddit.com/r/manmadepussy/search?q=Crista+Lynn&restrict_sr=on&sort=relevance&t=all).
+* http://imgur.com/a/knfYG and search [/r/manmadepussy](https://www.reddit.com/r/manmadepussy) with [this](https://www.reddit.com/r/manmadepussy/search?q=Crista+Lynn&restrict_sr=on&sort=relevance&t=all).
 
 [Metria's Home Page](http://www.xanth.us)
 
@@ -1907,8 +1907,8 @@ reddit
 * [Dr Kamol SRS colon. 7 weeks. AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/p2ronj/dr_kamol_srs_colon_7_weeks_ama/) by amazing1aimee in 2021
 * [Day 2/3 Dr. Kamol Pansritum sigmoid colon bottom surgery recovery](https://www.reddit.com/r/Transgender_Surgeries/comments/nounrd/day_23_dr_kamol_pansritum_sigmoid_colon_bottom/) by SpetsnazBeaver in 2021
 * [Kamol left me with this and hair growing inside the vaginal canal, I had to post it due to the unprofessional work they gave me, my canal it’s too tight and I keep get infections too when I ask them to remove it all they refuse it they said I could do hair removal for more 40.000 baht meh](https://www.reddit.com/r/Transgender_Surgeries/comments/ev9bnz/kamol_left_me_with_this_and_hair_growing_inside/) by nilenc22 in 2020
-* [Had sigmoid colon SRS with Dr. Kamol in Bangkok 6 months ago. AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/efi4xj/had_sigmoid_colon_srs_with_dr_kamol_in_bangkok_6/) by estraNicole in 2019 in /r/Transgender_Surgeries
-* [Had sigmoid colon SRS with Dr. Kamol in Bangkok 6 months ago. AMA](https://www.reddit.com/r/asktransgender/comments/eff4bg/had_sigmoid_colon_srs_with_dr_kamol_in_bangkok_6/) by estraNicole in 2019 in /r/asktransgender
+* [Had sigmoid colon SRS with Dr. Kamol in Bangkok 6 months ago. AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/efi4xj/had_sigmoid_colon_srs_with_dr_kamol_in_bangkok_6/) by estraNicole in 2019 in [/r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries)
+* [Had sigmoid colon SRS with Dr. Kamol in Bangkok 6 months ago. AMA](https://www.reddit.com/r/asktransgender/comments/eff4bg/had_sigmoid_colon_srs_with_dr_kamol_in_bangkok_6/) by estraNicole in 2019 in [/r/asktransgender](https://www.reddit.com/r/asktransgender)
 
 realself
 

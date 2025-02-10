@@ -145,8 +145,8 @@ See also
 * Wiki entry [HRT Introduction](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/content.md)
 * Wiki entry on [Implants](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/hrt/implants/content.md)
 * Wiki entry on [Compounding Pharmacies](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransWiki/wiki/compounding-pharmacies/australia/content.md) - implants, injections, topical anesthetics, etc
-* Australian trans sub /r/transgenderau/
-* /r/transgenderau post [Essential guides and state specific info](https://www.reddit.com/r/transgenderau/comments/daad16/) by MissTortoise in 2019
+* Australian trans sub [/r/transgenderau/](https://www.reddit.com/r/transgenderau/)
+* [/r/transgenderau](https://www.reddit.com/r/transgenderau) post [Essential guides and state specific info](https://www.reddit.com/r/transgenderau/comments/daad16/) by MissTortoise in 2019
 * This wiki, page [Australian Psychs and Therapists](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/TransSurgeriesWiki/wiki/psychs/australia/content.md).
 * The Facebook group [NovaTrue](https://www.facebook.com/groups/NovaTrue/permalink/2130966700533462/) is very active on HRT in Sydney.
 * https://www.ygender.org.au/tgd-healthcare-reviews - list of doctors and reviews

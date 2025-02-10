@@ -996,8 +996,8 @@ reddit
 * [Questions regarding bottom-surgey MtF](https://www.reddit.com/r/Transgender_Surgeries/comments/hrri0h/questions_regarding_bottomsurgey_mtf/) by  OompaBodyBitch in 2020
 * [[AMA] Just had SRS with Dr Ting at Mt Sinai in nyc using the Peritoneal grafting technique! Ask me anything!](https://www.reddit.com/r/transpositive/comments/c53uv3/ama_just_had_srs_with_dr_ting_at_mt_sinai_in_nyc/) around 2020
 * [Surgery technique with Dr. Ting](https://www.reddit.com/r/Transgender_Surgeries/comments/d6uv3t/surgery_technique_with_dr_ting/) by katsusan in 2019
-* [SRS with Dr Ting - Peritoneal graft penile inversion - 3.5 weeks post op - AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/cf217h/srs_with_dr_ting_peritoneal_graft_penile/) by gumrose in 2019 in /r/Transgender_Surgeries
-* [SRS With Dr Ting - Peritoneal graft penile inversion vaginoplasty - 3.5 Weeks Post Op - AMA](https://www.reddit.com/r/asktransgender/comments/cf21uw/srs_with_dr_ting_peritoneal_graft_penile/) by gumrose in 2019 in /r/asktransgender
+* [SRS with Dr Ting - Peritoneal graft penile inversion - 3.5 weeks post op - AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/cf217h/srs_with_dr_ting_peritoneal_graft_penile/) by gumrose in 2019 in [/r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries)
+* [SRS With Dr Ting - Peritoneal graft penile inversion vaginoplasty - 3.5 Weeks Post Op - AMA](https://www.reddit.com/r/asktransgender/comments/cf21uw/srs_with_dr_ting_peritoneal_graft_penile/) by gumrose in 2019 in [/r/asktransgender](https://www.reddit.com/r/asktransgender)
 * reply to [SRS / GRS New Options v's Old Favorites](https://www.reddit.com/r/Transgender_Surgeries/comments/bmh50d/srs_grs_new_options_vs_old_favorites/emxzpwf/) by letthisegghatch in 2019
 * [Recovering from SRS with Jess Ting. AMA](https://www.reddit.com/r/asktransgender/comments/b88ela/recovering_from_srs_with_jess_ting_ama/) by transsurgerysrs in 2019
 * reply to [Last minute tips for SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/avel1x/last_minute_tips_for_srs/ehfg86r/) by cirqueamy
