@@ -185,7 +185,7 @@ I'm especially in interested in
 I usually see most trans related posts, but please also
 
 * reply to one of my posts/comments
-* just type /u/HiddenStill in a post/comment
+* just type [/u/HiddenStill](https://www.reddit.com/user/HiddenStill) in a post/comment
 * pm me (however I prefer to have information public so I can link to it).
 
 Personally I'd try to avoid doctors who do not prescribe implants even if I didn't currently want them. It suggests to me that they are not serious about trans health care, and as a community I think its in our interests to support the more progressive doctors.

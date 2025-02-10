@@ -29,7 +29,7 @@ Please help add to this collection of information. It benefits all of us.
 I usually see most trans related posts, but please also
 
 * reply to one of my posts/comments
-* just type /u/HiddenStill in a post/comment
+* just type [/u/HiddenStill](https://www.reddit.com/user/HiddenStill) in a post/comment
 * pm me (however I prefer to have information public so I can link to it).
 
 ## About Me

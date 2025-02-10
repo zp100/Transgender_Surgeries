@@ -386,7 +386,7 @@ Surgeons sites
 
 **Photo links**
 
-reddit - /u/seeingeye790
+reddit - [/u/seeingeye790](https://www.reddit.com/user/seeingeye790)
 
 * [how do we think the twink haircut go with my pussy?](https://www.reddit.com/user/Nyx_Brea/comments/17ml691/how_do_we_think_the_twink_haircut_go_with_my_pussy/) by Nyx_Brea in 2023
     * [5 months post op with dr. jonathan keith. longer account of my experience in the comments!](https://www.reddit.com/r/Transgender_Surgeries/comments/117op7b/5_months_post_op_with_dr_jonathan_keith_longer/) by Nyx_Brea in 2023

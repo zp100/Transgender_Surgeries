@@ -32,7 +32,7 @@ Facebook groups
 
 Dr William Powers is *very* popular US doctor with 1500+ trans patients who has developed and documented *"The Powers Method of Hormonal Transitioning"*.
 
-* /u/Drwillpowers - he's also a regular reddit poster
+* [/u/Drwillpowers](https://www.reddit.com/user/Drwillpowers) - he's also a regular reddit poster
 * https://www.reddit.com/r/DrWillPowers - his reddit sub and a [wiki](https://www.reddit.com/r/DrWillPowers/wiki/index) listing doctors who use the Powers Method
 * https://www.facebook.com/DrWillPowers - his latest PowerPoint presentation can be downloaded here
 * YouTube video of a presentation [Healthcare of the Transgender Patient (5/13/19)](https://www.youtube.com/watch?v=fefu33e8O-0)

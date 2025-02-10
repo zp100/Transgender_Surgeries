@@ -589,13 +589,13 @@ April 2022, Dr Suporn has retired due to illness. See reddit comment [here](http
 
 **Photo links**
 
-reddit - /u/Narksh
+reddit - [/u/Narksh](https://www.reddit.com/user/Narksh)
 
 * [Bored and lost some weight so here an update :)](https://www.reddit.com/r/manmadepussy/comments/mzn7wl/bored_and_lost_some_weight_so_here_an_update/) by Narksh in 2021
     * [Feedback on mine?](https://www.reddit.com/r/manmadepussy/comments/k0tg2i/feedback_on_mine/) by Narksh in 2020
     * [After 5 years I think it's time to share my goods](https://www.reddit.com/r/manmadepussy/comments/gdhng6/after_5_years_i_think_its_time_to_share_my_goods/) by Narksh in 2020
 
-reddit - /u/SRSwithSuporn
+reddit - [/u/SRSwithSuporn](https://www.reddit.com/user/SRSwithSuporn)
 
 * [My SRS journey in pictures](https://www.reddit.com/r/MtF/comments/5u5kwu/my_srs_journey_in_pictures/)
 * [SRS With Supron 2 - trimmed back bandages](https://www.reddit.com/r/MtF/comments/5uboyz/srs_with_supron_2_trimmed_back_bandages/)

@@ -705,7 +705,7 @@ reddit
 * [Thai SRS Scraping technique?](https://www.reddit.com/r/MtF/comments/9dyz2v/thai_srs_scraping_technique/) by Stevie_Rae_Pettit in 2018
 * [There's hair in my neo vagina :(](https://www.reddit.com/r/MtF/comments/a5on2v/theres_hair_in_my_neo_vagina/) by Enduromatic in 2018
 * [Hair in vagina, Chet, 6 months post-op](https://www.reddit.com/r/asktransgender/comments/9259rx/hair_in_vagina_chet_6_months_postop/) in 2018
-* [Hair removal before GRS?](https://www.reddit.com/r/asktransgender/comments/6fstpl/hair_removal_before_grs/) by katy1989 around 2017. Pay particular attention to /u/SeanaTG as she's an [electrologist in Canada](https://www.reddit.com/r/MtF/comments/7zmka0/vaginal_canal_hair_i_suppose_theres_no_solution/dupcst6/) with experience in these things. Non-genital electrolysis [post of hers](https://www.reddit.com/r/asktransgender/comments/7n35l2/new_years_edition_electrolysis_ama_by_certified/).
+* [Hair removal before GRS?](https://www.reddit.com/r/asktransgender/comments/6fstpl/hair_removal_before_grs/) by katy1989 around 2017. Pay particular attention to [/u/SeanaTG](https://www.reddit.com/user/SeanaTG) as she's an [electrologist in Canada](https://www.reddit.com/r/MtF/comments/7zmka0/vaginal_canal_hair_i_suppose_theres_no_solution/dupcst6/) with experience in these things. Non-genital electrolysis [post of hers](https://www.reddit.com/r/asktransgender/comments/7n35l2/new_years_edition_electrolysis_ama_by_certified/).
 * [I'm scared of SRS hairs :(](https://www.reddit.com/r/MtF/comments/6gj8tz/im_scared_of_srs_hairs/) by IrreleventPerson around 2017
 * [SRS one year ago with Dr. Chettawut, I have hair in my vaginal canal. I'm sad and worried, help or advice?](https://www.reddit.com/r/asktransgender/comments/29a67s/srs_one_year_ago_with_dr_chettawut_i_have_hair_in/) by tmp_0 around 2014
 
@@ -1318,7 +1318,7 @@ YouTube
 
 ### Ottawa
 
-* https://www.perfectelectrolysis.com/  - this is the business of reddit used /u/SeanaTG
+* https://www.perfectelectrolysis.com/  - this is the business of reddit used [/u/SeanaTG](https://www.reddit.com/user/SeanaTG)
 
 <br />
 
