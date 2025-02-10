@@ -6,8 +6,8 @@ I'm not affiliated with any of the people or businesses discussed/linked in this
 
 ## Useful Links
 
-- Main index: https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/content.md
-- Subreddit wiki's starting point: https://github.com/zp100/Transgender_Surgeries/blob/main/TransWiki/wiki/index/content.md
+- Main index: https://github.com/zp100/Transgender_Surgeries/blob/main/r/TransWiki/wiki/index/content.md
+- Subreddit wiki's starting point: https://github.com/zp100/Transgender_Surgeries/blob/main/r/TransWiki/wiki/index/content.md
 - Live backup: https://transgender-surgeries.vercel.app/
 - Original wiki: https://old.reddit.com/r/TransSurgeriesWiki/wiki/index
 
