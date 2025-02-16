@@ -35,11 +35,17 @@ export function fileRequestCallback(
                 // Run callback for this file.
                 const { title, contentHtml } = dataCallback(data)
 
+                // Get the route for the original Reddit page (without the "content" part).
+                let routeParts = fileName.split('/')
+                routeParts.splice(-1, 1, '')
+                const remoteRoute = routeParts.join('/')
+
                 // Insert the HTML into the template and render it.
                 res.render('posts', {
                     title,
                     contentHtml,
-                    wikiIndex
+                    wikiIndex,
+                    remoteRoute
                 })
             })
         }
