@@ -39,7 +39,20 @@ app.get('/wiki*', (req, res) => {
 })
 
 // Get posts and comments.
-app.get('/posts*', (req, res) => fileRequestCallback(req, res, WIKI_INDEX, 'posts'))
+app.get('/posts*', (req, res) => {
+    function htmlCallback(data) {
+        // Get the page's title.
+        const title = data.match(/(.*)\n<\/h2>/)[1]
+
+        // Copy data to avoid pass-by-reference errors.
+        const contentHtml = data
+
+        // Return.
+        return { title, contentHtml }
+    }
+
+    fileRequestCallback(req, res, WIKI_INDEX, 'posts', 'html', htmlCallback)
+})
 
 // Logging.
 app.listen(PORT, () => {
