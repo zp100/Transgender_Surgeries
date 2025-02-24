@@ -389,7 +389,7 @@ reddit
 * [6 months post op and panicked](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/171z9c1/6_months_post_op_and_panicked/content.html) by Calm-Bison-3122 in 2023 - *"I'm a little over 6 months post op and I'm freaking out. My urethra isn't pouting down anymore and is sticking out of my body, a fairly significant distance. It looks like the base of a penis... It's difficult for me to dilate, I can't get more then 2 fingers in and that's a struggle, and I still have practically no sensation... I can even kiss my husband for too long because when I get horny it feels like it's pushing out of my body and hurts."*
 * [4.5 Months Post-Op Vaginoplasty, Advice Please?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16mxte6/45_months_postop_vaginoplasty_advice_please/content.html) by PrincessMariii in 2023 - *" I contracted a post op fungal infection around 12 days after my surgery, which was most likely due to excess sweating as I struggle to regulate my body temperature, especially when I wasn’t able to move or shift around in bed. Thankfully I caught it immediately, but after weeks of medication, and close monitoring from my surgeon it caused my skin graft to fail. This resulted in losing my entire vaginal canal, and having to have pieces cut out and off of me every day for weeks."*
     * [Day 7 Post-Op GCS, Dr. John Whitehead in Bay Harbor Islands, Florida. Bandages, Drain, and Catheter all came off today!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13ihyuu/day_7_postop_gcs_dr_john_whitehead_in_bay_harbor/content.html) by PrincessMariii in 2023
-    * reply to [Any formerly obese or morbidly obese ladies who have had SRS?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13hgeed/any_formerly_obese_or_morbidly_obese_ladies_who/jk9z4dy/content.html) by PrincessMariii in 2023
+    * reply to [Any formerly obese or morbidly obese ladies who have had SRS?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13hgeed/any_formerly_obese_or_morbidly_obese_ladies_who/content.html#jk9z4dy) by PrincessMariii in 2023
 * [2 Years later, bad results and medical issues, need help figuring out revision options](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ybusyh/2_years_later_bad_results_and_medical_issues_need/content.html) by Few_Introduction_271 in 2022
     * [7 Months, same dilator](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nxswf6/7_months_same_dilator/content.html) by Few_Introduction_271 in 2022
 * [Orchiectomy 8 years ago - My vaginoplasty is scheduled for October with Dr. Whitehead!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xh5n0z/orchiectomy_8_years_ago_my_vaginoplasty_is/content.html) by floridaeunuch in 2022
@@ -465,9 +465,9 @@ Susans
 
 reddit
 
-* reply to [Best surgeons for ffs?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zacjty/best_surgeons_for_ffs/iyoed9j/content.html) by __Em____ in 2022
+* reply to [Best surgeons for ffs?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zacjty/best_surgeons_for_ffs/content.html#iyoed9j) by __Em____ in 2022
 * [Srs regrets. Bad results. 7 years of nightmare.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/sopt9t/srs_regrets_bad_results_7_years_of_nightmare/content.html) by Neither_Act_1007 in 2022
-* reply to [Question about vaginoplasty](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qq8s97/question_about_vaginoplasty/hjz88da/content.html) by Nelly_Bean in 2021
+* reply to [Question about vaginoplasty](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qq8s97/question_about_vaginoplasty/content.html#hjz88da) by Nelly_Bean in 2021
 * [revision surgery in thailand](https://www.reddit.com/r/asktransgender/comments/hmci95/revision_surgery_in_thailand/) by BotchedSRS in 2020
     * [anybody got botched by dr christopher salgado?](https://www.reddit.com/r/asktransgender/comments/ae1wk8/anybody_got_botched_by_dr_christopher_salgado/) by BotchedSRS in 2019
 * [Unethical trans doc exposed](https://www.reddit.com/r/transgender/comments/axjutw/unethical_trans_doc_exposed/) by neurophilos in 2019
@@ -600,7 +600,7 @@ reddit
 * [I saw this on Twitter and haven't seen anything about it here. Stay safe, everyone.](https://www.reddit.com/r/ftm/comments/yypgzu/i_saw_this_on_twitter_and_havent_seen_anything/) by macksting in 2022 - this is FTM and links to [twitter post](https://twitter.com/testosteronejew/status/1593477552697384961) by @testosteronejew Nov 18 2022, *"In August, I flew to Miami to get top surgery from Dr. Gallagher. 3 weeks later, a local surgeon had to rush me in to remove over half a foot of dead, rotted tissue. Gallagher dismissed every concern, including hollow cavities that formed on my ripped-open incision. Please RT."*
 * [Which SRS surgeons should you 100% avoid?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rorbt9/which_srs_surgeons_should_you_100_avoid/content.html) by Lianna999 in 2021
 * [Dr. Sidhbh Gallagher and Vaginoplasty](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/oymmnp/dr_sidhbh_gallagher_and_vaginoplasty/content.html) by XGundam05 in 2021
-* reply to [SRS Consult with Dr. Joshua Roth on November 4th](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jhdq6y/srs_consult_with_dr_joshua_roth_on_november_4th/gdmd5fy/content.html) by Autumn_FayeXOXO in 2021
+* reply to [SRS Consult with Dr. Joshua Roth on November 4th](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jhdq6y/srs_consult_with_dr_joshua_roth_on_november_4th/content.html#gdmd5fy) by Autumn_FayeXOXO in 2021
 * [Do NOT go to Dr. Gallagher](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kmn6d0/do_not_go_to_dr_gallagher/content.html) by ExistentialEnso
 in 2020
     * [Dr. Gallagher, like Dr. Keith, doesn't actually care at all](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kko2jq/dr_gallagher_like_dr_keith_doesnt_actually_care/content.html) by ExistentialEnso in 2020
@@ -731,7 +731,7 @@ Appears to be also known as Lawrence L. Yeung.
 
 reddit
 
-* reply to [Are there any doctors in Florida that do Orchies?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/twuqw9/are_there_any_doctors_in_florida_that_do_orchies/i3sl97r/content.html) by surgery_getter in 2022, *Dr. Lawrence Yeung at UF Health in Gainesville is the doctor that did mine back in October 2020. He wanted two letters, one from a therapist or whatnot and one from my hormone provider. I had a good experience with him, although I am unsure if he still offers this procedure.*
+* reply to [Are there any doctors in Florida that do Orchies?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/twuqw9/are_there_any_doctors_in_florida_that_do_orchies/content.html#i3sl97r) by surgery_getter in 2022, *Dr. Lawrence Yeung at UF Health in Gainesville is the doctor that did mine back in October 2020. He wanted two letters, one from a therapist or whatnot and one from my hormone provider. I had a good experience with him, although I am unsure if he still offers this procedure.*
 
 YouTube
 
@@ -776,7 +776,7 @@ Surgeons sites
 
 reddit
 
-* reply to [Are there any doctors in Florida that do Orchies?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/twuqw9/are_there_any_doctors_in_florida_that_do_orchies/i3i66e9/content.html) by kookedoeshistory in 2022
+* reply to [Are there any doctors in Florida that do Orchies?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/twuqw9/are_there_any_doctors_in_florida_that_do_orchies/content.html#i3i66e9) by kookedoeshistory in 2022
 
 <br />
 
@@ -796,7 +796,7 @@ Surgeons sites
 
 reddit
 
-* reply to [I am afraid that i won't be happy with the results of bottom surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/106bn4p/i_am_afraid_that_i_wont_be_happy_with_the_results/j3i2uuk/content.html) by ExcitedGirl in 2023 - *"I visited him on THREE separate occasions, only for him to tell me that "I'm too old" to have SRS... He knew my age from Day One... Oh, and Dr. Tan... REFUSED... to allow me to see pictures of his completed work; that one is a MAJOR RED FLAG to me."*
+* reply to [I am afraid that i won't be happy with the results of bottom surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/106bn4p/i_am_afraid_that_i_wont_be_happy_with_the_results/content.html#j3i2uuk) by ExcitedGirl in 2023 - *"I visited him on THREE separate occasions, only for him to tell me that "I'm too old" to have SRS... He knew my age from Day One... Oh, and Dr. Tan... REFUSED... to allow me to see pictures of his completed work; that one is a MAJOR RED FLAG to me."*
 
 YouTube
 
@@ -903,7 +903,7 @@ Surgeons sites
 
 reddit
 
-* reply to [I just got Dr. Arnkoff to cut my balls out. Waiting for the CVS to fill the script. I'm probably about to be in a lot of pain. AMA. ](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/j8lbvt/i_just_got_dr_arnkoff_to_cut_my_balls_out_waiting/g8bypva/content.html) by Ancientalienaardvark in 2020
+* reply to [I just got Dr. Arnkoff to cut my balls out. Waiting for the CVS to fill the script. I'm probably about to be in a lot of pain. AMA. ](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/j8lbvt/i_just_got_dr_arnkoff_to_cut_my_balls_out_waiting/content.html#g8bypva) by Ancientalienaardvark in 2020
 
 <br />
 
@@ -1072,7 +1072,7 @@ Other
 
 ## Gabriel Del Corral
 
-Does peritoneal [with Dr David M. Lisle](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/sy9l0i/dr_del_corral_vs_dr_min_jun/hy01e48/content.html). See also FFS page.
+Does peritoneal [with Dr David M. Lisle](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/sy9l0i/dr_del_corral_vs_dr_min_jun/content.html#hy01e48). See also FFS page.
 
 Location
 
@@ -1119,7 +1119,7 @@ reddit
 
 reddit
 
-* reply to [Coloplasty](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1f0iz4y/coloplasty/lk9dxyy/content.html) by yaitzme in 2024 - *"I was a Rumer botch from 2015 and had a subsequent revision with bowers in 2016 that also did not get me where I needed to be. I kinda gave up I til I recently (9yrs from surgery) had a fistula open and I went to Dr Gabriel Del Corral and Dr David Lisle in Baltimore at MedStar Health... Del Corral did what I had been told by other surgeons was basically impossible. All the other drs I consulted with about the aesthetic side told me they wouldn’t be able to fix or said they would have to be conservative. Del Corral Delivered."*
+* reply to [Coloplasty](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1f0iz4y/coloplasty/content.html#lk9dxyy) by yaitzme in 2024 - *"I was a Rumer botch from 2015 and had a subsequent revision with bowers in 2016 that also did not get me where I needed to be. I kinda gave up I til I recently (9yrs from surgery) had a fistula open and I went to Dr Gabriel Del Corral and Dr David Lisle in Baltimore at MedStar Health... Del Corral did what I had been told by other surgeons was basically impossible. All the other drs I consulted with about the aesthetic side told me they wouldn’t be able to fix or said they would have to be conservative. Del Corral Delivered."*
 * reply to [Who was your srs surgeon, do you regret going to him and which surgeon/ method would you go for instead.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1dwzt7t/who_was_your_srs_surgeon_do_you_regret_going_to/lc19o4d/?context=3content.html) by Jas_Sinclair in 2024 - *"Dr. Sibh Gallagher (PIV technique)…total regret! Horrible experience! I don’t know how she’s still allowed to perform any srs surgeries for ANY trans person. Non responsive. Gave me no depth, and my clit looked like something out of a horror movie... Dr. Del Coral (Peritoneal technique)…Amaaazing! He fixed everything Gallagher fucked up (thank GOD). He gave full depth. His staff was AMAZING. Time and care was taken by Dr Coral’s team to ensure I had a successful surgery. Highly recommended this surgeon and this technique. I dilate once a week because PPT method your vag doesn’t easily close..and no there is no crazy smells."*
 * [Worries/Concerns](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10gr9ik/worriesconcerns/content.html) by JeezyBreezy12 in 2023
 * [⚠️PLEASE READ!! Stolen Surgery Photos⚠️](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yiquqn/please_read_stolen_surgery_photos/content.html) by Glum-Money-6763 in 2022
@@ -1171,7 +1171,7 @@ Surgeons sites
 
 reddit
 
-* reply to [Dr. Del Corral vs. Dr. Min Jun](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/sy9l0i/dr_del_corral_vs_dr_min_jun/hy01e48/content.html) by Xanny - *Consulted with Del Corral a week ago, he does peritoneal primary with Dr. Lisle, a few dozen people have had it done with them now.""*
+* reply to [Dr. Del Corral vs. Dr. Min Jun](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/sy9l0i/dr_del_corral_vs_dr_min_jun/content.html#hy01e48) by Xanny - *Consulted with Del Corral a week ago, he does peritoneal primary with Dr. Lisle, a few dozen people have had it done with them now.""*
 
 YouTube
 
@@ -1227,7 +1227,7 @@ https://www.prdistribution.com/news/dr-arthur-burnett-ii-selected-as-doctor-of-t
 
 ## Karen E Boyle
 
-Apparently [retired](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i2fpds/orchiectomy_complications_spermatic_cord_seems_to/g04i21h/content.html).
+Apparently [retired](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i2fpds/orchiectomy_complications_spermatic_cord_seems_to/content.html#g04i21h).
 
 Location
 
@@ -1266,8 +1266,8 @@ Surgeons sites
 
 reddit
 
-* reply to [10weeks post of PIV](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1av3ffa/10weeks_post_of_piv/kr87td1/content.html) - the OP posted *"My surgeon just told me that 8cm is plenty of depth for penetrative sex."* and this link is a comment in response *"That's a big lie. I was told the same lie when vaginoplasty went wrong by Dr. O'Brien Coon. I had vaginoplasty revision in December with Dr Ramineni so now I have 5 1/2 inches depth"* by Prestigious-Dot-8229 in 2024
-    * reply to [4.5 Months Post-Op Vaginoplasty, Advice Please?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16mxte6/45_months_postop_vaginoplasty_advice_please/koww9m7/content.html) by Prestigious-Dot-8229 - *"Dr. O'Brien coon was the one botched me here at Hopkins back in 2017. He did 5 failed revisions. I finally got fix by Dr. Ramineni he is in DC. Going to Dr. O'Brien was a nightmare I'll never forget until the day I die. Thanks to doctor Ramineni i got my life back"*
+* reply to [10weeks post of PIV](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1av3ffa/10weeks_post_of_piv/content.html#kr87td1) - the OP posted *"My surgeon just told me that 8cm is plenty of depth for penetrative sex."* and this link is a comment in response *"That's a big lie. I was told the same lie when vaginoplasty went wrong by Dr. O'Brien Coon. I had vaginoplasty revision in December with Dr Ramineni so now I have 5 1/2 inches depth"* by Prestigious-Dot-8229 in 2024
+    * reply to [4.5 Months Post-Op Vaginoplasty, Advice Please?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16mxte6/45_months_postop_vaginoplasty_advice_please/content.html#koww9m7) by Prestigious-Dot-8229 - *"Dr. O'Brien coon was the one botched me here at Hopkins back in 2017. He did 5 failed revisions. I finally got fix by Dr. Ramineni he is in DC. Going to Dr. O'Brien was a nightmare I'll never forget until the day I die. Thanks to doctor Ramineni i got my life back"*
 * [Dr. Devin O'brien-Coon?](https://www.reddit.com/r/asktransgender/comments/81c3i2/dr_devin_obriencoon/) in 2018
 * [Anyone in MD have experience with Dr Devin O’brien-Coon w/Johns Hopkins?](https://www.reddit.com/r/asktransgender/comments/7qxkxh/anyone_in_md_have_experience_with_dr_devin/) in 2018
 
@@ -1442,7 +1442,7 @@ reddit
 * [21 months post op - Dr. Keelee MacPhee](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l1zqm2/21_months_post_op_dr_keelee_macphee/content.html)  by DesignedLotus in 2021
     * [14 months Postop with Dr. Keelee MacPhee nsfw](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hftj4x/14_months_postop_with_dr_keelee_macphee_nsfw/content.html) by DesignedLotus in 2020
     * [14 months Keelee MacPhee - Front view](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hfysr2/14_months_keelee_macphee_front_view/content.html) by DesignedLotus in 2020
-    * reply to [Any post-op pics of vaginoplasty from head-on while standing up? Most pics on here are close-ups](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gu8gjs/any_postop_pics_of_vaginoplasty_from_headon_while/fsrxg5y/content.html) by DesignedLotus in 2020
+    * reply to [Any post-op pics of vaginoplasty from head-on while standing up? Most pics on here are close-ups](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gu8gjs/any_postop_pics_of_vaginoplasty_from_headon_while/content.html#fsrxg5y) by DesignedLotus in 2020
     * [5 months post op nsfw](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/d6j7fp/5_months_post_op_nsfw/content.html) by  DesignedLotus in 2019, photo [here](https://imgur.com/a/9Y7gCPI)
     * [30 hours post-op with Dr. Keelee MacPhee!! Ama](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/bhgc9n/30_hours_postop_with_dr_keelee_macphee_ama/content.html) by DesignedLotus in 2019, photos [here](https://imgur.com/a/tLfgLSC)
 * [Post-op picture time](https://www.reddit.com/r/TransLater/comments/j37soz/postop_picture_time/) by veejaygee in 2020
@@ -1715,7 +1715,7 @@ reddit
 
 * [Best Doctor for Bottom Surgery Revisions](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/17q0tx2/best_doctor_for_bottom_surgery_revisions/content.html) by ClassyCassidy in 2024
 * [Just had bottom surgery with Dr DeLeon in Austin TX, AMA!](https://www.reddit.com/r/MtF/comments/v20f21/just_had_bottom_surgery_with_dr_deleon_in_austin/) by enn_mm in 2022
-* reply to [having orchi in 2 weeks, anyone who's gone thru it have prep/recovery advice or anything to share?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/krl2be/having_orchi_in_2_weeks_anyone_whos_gone_thru_it/gibp6lz/content.html) by kacey_cyborg in 2021
+* reply to [having orchi in 2 weeks, anyone who's gone thru it have prep/recovery advice or anything to share?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/krl2be/having_orchi_in_2_weeks_anyone_whos_gone_thru_it/content.html#gibp6lz) by kacey_cyborg in 2021
 * [GRS 28OCT20 Today I am...](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kr2uts/grs_28oct20_today_i_am/content.html) by CasraTX in 2021
 * [Finally Found My Vagina](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/iyhkxr/finally_found_my_vagina/content.html) by CastleX1992 in 2020
 * [Surgery end of Oct. Any had experience with Crane Center in Austin TX](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ih469k/surgery_end_of_oct_any_had_experience_with_crane/content.html) by CasraTX in 2020
@@ -1960,7 +1960,7 @@ redit
 
 * [Day 6 - post op orchiectomy with Dr. Stacy Ong from North Austin Urology. The incision is healing nicely from what I can tell and the glue is ready to come off tomorrow. For the last 3 days, I've had some discomfort and swelling just below the waist-line, but still completely manageable pain.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tglbet/day_6_post_op_orchiectomy_with_dr_stacy_ong_from/content.html) by give_me_silky in 2022
     * [24 hours post-op orchiectomy with Dr. Stacy Ong of North Austin. I can't believe they're finally gone!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tci02y/24_hours_postop_orchiectomy_with_dr_stacy_ong_of/content.html) by give_me_silky in 2022
-* reply to [Informed consent orchi?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/goh588/informed_consent_orchi/frgl74t/content.html) by bobbimilligan in 2020
+* reply to [Informed consent orchi?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/goh588/informed_consent_orchi/content.html#frgl74t) by bobbimilligan in 2020
 
 <br />
 
@@ -2071,7 +2071,7 @@ reddit
 
 reddit
 
-* reply to [Dr. Dany Hanna](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14zlj92/dr_dany_hanna/js2ap5o/content.html) by Top-Quantity-2791 in 2023 - *"When I asked him about Rumer he said “there is a reason I am no longer with her. I didn’t appreciate the way she treated her patients and wanted nothing to do with that” Every experience Ive had with him and his staff was nothing like I’ve ever had with any other medical professional. They are AMAZING. He is always available 24/7. He gives you a 24h number that connect to him or his wife (who also works at the office) directly so you’re not getting an answering machine but you get him."*
+* reply to [Dr. Dany Hanna](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14zlj92/dr_dany_hanna/content.html#js2ap5o) by Top-Quantity-2791 in 2023 - *"When I asked him about Rumer he said “there is a reason I am no longer with her. I didn’t appreciate the way she treated her patients and wanted nothing to do with that” Every experience Ive had with him and his staff was nothing like I’ve ever had with any other medical professional. They are AMAZING. He is always available 24/7. He gives you a 24h number that connect to him or his wife (who also works at the office) directly so you’re not getting an answering machine but you get him."*
 * [Had PIV without Orchi 2wks post-op AMA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14jt2vj/had_piv_without_orchi_2wks_postop_ama/content.html) by SimpleArtist3795 in 2023 - *"Hi! Two weeks ago I (33nb/amab [he/they]) had a Penile Inversion Vaginoplasty without Orchiectomy (testes retained). My surgeon was Dr. Dany Hanna out of Texas. The procedure was pretty standard overall. More scrotal tissue had to be left attached to house my testes externally in the outer labia and he anchored them in place. I have a clit and possibly inner labia. I'm still very swollen so time will tell with aesthetics. Visually the results are consistent with Dr Hanna's work. I have almost 3" of depth, that's as much as I could get with all things factored in. I'm looking forward to finishing healing. Dr Hanna and team were awesome and he was VERY realistic with me every step of the way. He definitely delivered despite my having a rare request. He does recommend I get my testes examined every couple of year to ensure things are still good down there. I am not on hormones and do not require them."*
 * [The Hanna Gender Center Experience](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zyfvph/the_hanna_gender_center_experience/content.html) by  Independent_Usual_85 in 2022
 * [Questions on restrictions for vaginoplasty?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xxmjsr/questions_on_restrictions_for_vaginoplasty/content.html) by HelloMoonMacaron in 2022 - *"...he said to abstain from sex three months before and after"*
@@ -2184,7 +2184,7 @@ Surgeons sites
 
 reddit
 
-* reply to [Dr Nima Baradaran?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z2fteg/dr_nima_baradaran/jer0pru/content.html) by Objective-Ambition38 around 2023 - *"Fyi went to a consult with him and could nottttt get out of the office fast enough. He straight up told me that he'd expect me to need at least two revisions. (Lots of other not great stuff in this appointment too, but don't wanna type it all out right now.)"*
+* reply to [Dr Nima Baradaran?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z2fteg/dr_nima_baradaran/content.html#jer0pru) by Objective-Ambition38 around 2023 - *"Fyi went to a consult with him and could nottttt get out of the office fast enough. He straight up told me that he'd expect me to need at least two revisions. (Lots of other not great stuff in this appointment too, but don't wanna type it all out right now.)"*
 
 Papers
 

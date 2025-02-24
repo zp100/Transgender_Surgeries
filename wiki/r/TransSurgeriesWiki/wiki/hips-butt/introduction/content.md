@@ -130,14 +130,14 @@ Korea Biomedical Review
 reddit
 
 * [\[Update: After Revision\] Pelvic Plasty Experience with Dr Won Yugon at Yonsei Baro Chuk Hospital](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16pgmxg/update_after_revision_pelvic_plasty_experience/content.html) by starrytouch_ in 2023
-    * reply to [Hip implants?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10in445/hip_implants/j5i0umh/content.html) by starrytouch_ in 2023 - *" I had hip implants or "pelvic plasty" to be precise in Seoul, South Korea at Yonsei Baro Chuk hospital with Dr Won. The result turned out to be really amazing and natural... However, I'm feeling excruciating "stretching" pain 3-month post op from the silicone implant on one side - which might be a nerve or muscle issue I guess. It comes and goes"* AND *" they adjusted (lowered the price) to 14,500 USD"*
+    * reply to [Hip implants?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10in445/hip_implants/content.html#j5i0umh) by starrytouch_ in 2023 - *" I had hip implants or "pelvic plasty" to be precise in Seoul, South Korea at Yonsei Baro Chuk hospital with Dr Won. The result turned out to be really amazing and natural... However, I'm feeling excruciating "stretching" pain 3-month post op from the silicone implant on one side - which might be a nerve or muscle issue I guess. It comes and goes"* AND *" they adjusted (lowered the price) to 14,500 USD"*
     * [Pelvic Plasty Experience with Dr Won Yugon at Yonsei Baro Chuk Hospital](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/121k2px/pelvic_plasty_experience_with_dr_won_yugon_at/content.html) by starrytouch_ in 2023
 * [Pelvicplasty full revision results. Surgery was performed 3rd August by Dr Won at Yonsei Baro Chuk Hospital, Seoul.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x767r2/pelvicplasty_full_revision_results_surgery_was/content.html) by MejaFoss in 2022
     * [I had a pelvic plasty with Dr You gun Won at Yonsei Baro Chuk hospital in Seoul](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uznza6/i_had_a_pelvic_plasty_with_dr_you_gun_won_at/content.html) by MejaFoss in 2022
 * [Anyone had one of these new Korean "pelvic plasty" surgeries done, or waiting in the wings for one? What are your thoughts on the procedure?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/q7nj6z/anyone_had_one_of_these_new_korean_pelvic_plasty/content.html) by in_narnia in 2021 - *"the surgery is USD $19.9K + tax which includes the price of the plate, hospital fees, X-ray/CT etc. We offer a 20% discount to patients who agree to let us use their before & after photos for promotional purposes."*, photos on a trans patient [here](https://drive.google.com/file/d/1e19jtmEHj57_TmN0LMTfE3MtmwSmTqYS/view), also *"We already have the renowned ***US plastic surgeon Dr. Eppley*** *as one of our advisors and we hope to expand the network and let more people know about the surgery. "*
 anyone_had_one_of_these_new_korean_pelvic_plasty/hhk10u4/) by jasminecupcakes in 2021 - **
 * [Has anyone gotten (or been close to getting) iliac crest implants for wider hips?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hl2wqt/has_anyone_gotten_or_been_close_to_getting_iliac/content.html) by severalcaterpillars in 2020
-* reply to [Hip-widening surgery?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/frjbxu/hipwidening_surgery/flwn379/content.html) by letthisegghatch in2020
+* reply to [Hip-widening surgery?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/frjbxu/hipwidening_surgery/content.html#flwn379) by letthisegghatch in2020
 * [Crosspost: are hip implants an option?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/d49eon/crosspost_are_hip_implants_an_option/content.html) by  iHRTSega in 2019
 * [Hip Widening Surgery now avaliable via a new technique called Minimal Invasive Plate Osteosynthesis \(MIPO\)](https://www.reddit.com/r/asktransgender/comments/7uhu6i/hip_widening_surgery_now_avaliable_via_a_new/) by sopcol in 2018
 
@@ -321,7 +321,7 @@ Surgeons sites
 
 reddit
 
-* [Looking for Trans BBL Doc?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kf8u0l/looking_for_trans_bbl_doc/ggi3tfy/content.html) by PricklyMuffin92 in 2020
+* [Looking for Trans BBL Doc?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kf8u0l/looking_for_trans_bbl_doc/content.html#ggi3tfy) by PricklyMuffin92 in 2020
 
 <br />
 
@@ -438,7 +438,7 @@ reddit
 * [Dr Aslani BBL 2023 Results](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/169nzzg/dr_aslani_bbl_2023_results/content.html) by Enough-Squirrel-3048 in 2023
 * [I just realised it’s a year since I got my butt enhanced](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/vy34lc/i_just_realised_its_a_year_since_i_got_my_butt/content.html) by vaguelyannoyed in 2022
 * [Dreadful Experience Trans Body Surgery Dr._Aslani Cirumed Marbella Body Contouring Butt Implants No Fat Transfer to Hips as requested](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mzs1vf/dreadful_experience_trans_body_surgery_dr_aslani/content.html) by Seaworthiness-Thin in 2021
-* reply to [Body Feminisation/Body Contouring surgery, anybody had this? MTF](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mmyfke/body_feminisationbody_contouring_surgery_anybody/gu2fny0/content.html) by amandaoneilluk in 2021
+* reply to [Body Feminisation/Body Contouring surgery, anybody had this? MTF](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mmyfke/body_feminisationbody_contouring_surgery_anybody/content.html#gu2fny0) by amandaoneilluk in 2021
 * [Has anyone had BBL?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mctyh5/has_anyone_had_bbl/content.html) by Amy_co106 in 2021
 * reply to [How Dr.Bensimon destroyed my life, self confidence. My transition.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/khmbjp/how_drbensimon_destroyed_my_life_self_confidence/ggmsb04/?context=3content.html) by Tonitingle in 2020 - *"I can completely understand how you feel I had an exact a me experience with Dr Aslani in Marbella Spain I'm really thinking of detransitioning and having a compmwte masectomy due to what I've had to endure... Butt implants and fat transfer went wrong could hardly walk for a year butt implants flipped inside out in my butt 😮 and worse of all he forgot to do fat transfer to hips as requested - as I'm trans was used to experiment on for junior doctors because it didn't matter my results as I'm not an Insta star in my opinion"*
 * [I’m interested in getting a bbl to enlarge my hips (hoping that it will help my shoulders look less huge) and I’m wondering if anyone would have any advice.](https://www.reddit.com/r/asktransgender/comments/b6xkcm/im_interested_in_getting_a_bbl_to_enlarge_my_hips/) by Rose-Peaches in 2019
@@ -704,7 +704,7 @@ reddit
     * [MTF 1 month post-op. Hips/Butt implants + love handle lipo](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10bt9b8/mtf_1_month_postop_hipsbutt_implants_love_handle/content.html) by wildwoof in 2023
 * [(UPDATE) This was highly requested so I wanted to do an update on my hip augmentation surgery using implants (80 days post op). This post documents changes in my body throughout my transition. Read captions.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/voecp7/update_this_was_highly_requested_so_i_wanted_to/content.html) by veggiechips2 in 2022
     * [I got hip augmentation surgery (using silicone hip implants).](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/umonr0/i_got_hip_augmentation_surgery_using_silicone_hip/content.html) by veggiechips2 in 2022
-* reply to [HIP WIDENING (ILIAC-CREST IMPLANTS)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l45ife/hip_widening_iliaccrest_implants/gknz39k/content.html) by jasmine1106 in 2021
+* reply to [HIP WIDENING (ILIAC-CREST IMPLANTS)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l45ife/hip_widening_iliaccrest_implants/content.html#gknz39k) by jasmine1106 in 2021
 
 Susans
 
@@ -732,7 +732,7 @@ reddit
 * [Round 2 of fat transfer breast augmentation with body contouring](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lt8k8c/round_2_of_fat_transfer_breast_augmentation_with/content.html)  by Klafka612 in 2021
 * [3 months post op - fat grafting breast augmentation and abdominoplasty with Dr. Zeidler](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ldjcg5/3_months_post_op_fat_grafting_breast_augmentation/content.html) by Klafka612 in 2021
 * [\[nsfw\] 8 days post op from lipoabdominoplasty and fat grafting breast augmentation](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jtrthy/nsfw_8_days_post_op_from_lipoabdominoplasty_and/content.html) Klafka612 in 2020
-* reply to [Fat transfer breast augmentation](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/id8hna/fat_transfer_breast_augmentation/g28aymo/content.html) by Klafka612 in 2020
+* reply to [Fat transfer breast augmentation](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/id8hna/fat_transfer_breast_augmentation/content.html#g28aymo) by Klafka612 in 2020
 
 <br />
 
@@ -901,7 +901,7 @@ According to [this pdf](https://appsmqa.doh.state.fl.us/MQASearchServices/Health
 
 reddit
 
-* reply to [Hip silicone implants vs. BBL? I am leaning more towards implants as that’s the only reason I wanted the bbl but I never hear about it on here, why?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zxv8u9/hip_silicone_implants_vs_bbl_i_am_leaning_more/j24gc3o/content.html) by latinabarbie123 in 2022
+* reply to [Hip silicone implants vs. BBL? I am leaning more towards implants as that’s the only reason I wanted the bbl but I never hear about it on here, why?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zxv8u9/hip_silicone_implants_vs_bbl_i_am_leaning_more/content.html#j24gc3o) by latinabarbie123 in 2022
 
 realself
 
@@ -1166,7 +1166,7 @@ Surgeons sites
 
 reddit
 
-* reply to [Is There A Way To Permanently Reduce My Waist Size (Other Than Rib Removal)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t8aic3/is_there_a_way_to_permanently_reduce_my_waist/hzmx7g1/content.html) by feathersthewise - *"Brutal is the word. I had one in Miami and they didn’t give me any pain meds when I woke up. The nurses at the surgery center just literally watched me sob for 30min and then wheeled me to an Uber where my boyfriend was waiting."*
+* reply to [Is There A Way To Permanently Reduce My Waist Size (Other Than Rib Removal)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t8aic3/is_there_a_way_to_permanently_reduce_my_waist/content.html#hzmx7g1) by feathersthewise - *"Brutal is the word. I had one in Miami and they didn’t give me any pain meds when I woke up. The nurses at the surgery center just literally watched me sob for 30min and then wheeled me to an Uber where my boyfriend was waiting."*
 
 <br />
 

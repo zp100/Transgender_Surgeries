@@ -196,7 +196,7 @@ reddit
 
 * [Parag telang](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/179ke4x/parag_telang/content.html) by Amy_JUSH_Winehouse
 in 2023
-* reply to [Thinking about Dr. Kamol for SRS revision, any body else had experience with him?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jtrn52/thinking_about_dr_kamol_for_srs_revision_any_body/j89c747/content.html) by MiaRiklel in 2023 - *"Kaushik wanted me to pay him again to revise the butchering he carried out on me in 2019. Im now waiting for a 2nd revision surgery to try to correct the mess Kaushik did to me."*
+* reply to [Thinking about Dr. Kamol for SRS revision, any body else had experience with him?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jtrn52/thinking_about_dr_kamol_for_srs_revision_any_body/content.html#j89c747) by MiaRiklel in 2023 - *"Kaushik wanted me to pay him again to revise the butchering he carried out on me in 2019. Im now waiting for a 2nd revision surgery to try to correct the mess Kaushik did to me."*
 * [Ridiculous quote from Dr Chettawut for revision surgery.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uf70yv/ridiculous_quote_from_dr_chettawut_for_revision/content.html) by MialelM in 2022
 * [Stunning results of Penile Inversion at Olmec by Dr. Narendra Kaushik](https://www.reddit.com/r/MtF/comments/rj6gxt/stunning_results_of_penile_inversion_at_olmec_by) in December 2021 - this is almost certainly a fake positive review
 * [Astonishing results of Sigmoid Colon SRS at Olmec by Dr. Narendra Kaushik](https://www.reddit.com/r/MtF/comments/rj5uhm/astonishing_results_of_sigmoid_colon_srs_at_olmec) in December 2021 - this is almost certainly a fake positive review
@@ -725,7 +725,7 @@ reddit
     * [Anyone fix these problems from Zero Depth results?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18c7rbf/anyone_fix_these_problems_from_zero_depth_results/content.html) by happy_sheeep in 2023
     * [Review of Mexico Transgender Center FFS rated 7/10 and Zero Depth SRS 2/10 and Yuni’s recovery house 8/10](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/17pz8n5/review_of_mexico_transgender_center_ffs_rated_710/content.html) by happy_sheeep in 2023
 * [Day 3-44](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zulqej/day_344/content.html) by FreyaGilbert in 2022
-    * [Day 22 (Review to come in separate post)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zaxwhf/day_22_review_to_come_in_separate_post/content.html) by FreyaGilbert in 2022, surgeon mentioned [here](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yzjdux/is_it_worth_going_to_thailand_for_minimal_depth/ix1bcsw/content.html)
+    * [Day 22 (Review to come in separate post)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zaxwhf/day_22_review_to_come_in_separate_post/content.html) by FreyaGilbert in 2022, surgeon mentioned [here](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yzjdux/is_it_worth_going_to_thailand_for_minimal_depth/content.html#ix1bcsw)
 * [Long Post - Details of Cosmetic SRS (Zero Depth) with Dr. Ivan Aguilar in Guadalajara Mexico.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xztlve/long_post_details_of_cosmetic_srs_zero_depth_with/content.html) by Erica_fox in 2022
     * [15 days post-op - Cosmetic SRS (Zero Depth) with Dr. Ivan Aguilar](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xzt1a3/15_days_postop_cosmetic_srs_zero_depth_with_dr/content.html) by Erica_fox in 2022
     * [Day 10 - Post "Cosmetic SRS" with Dr. Aguilar in Guadalajara](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xt1z1w/day_10_post_cosmetic_srs_with_dr_aguilar_in/content.html) by Erica_fox in 2022
@@ -742,7 +742,7 @@ realself
 reddit
 
 * reply to [my gf is having orchi today. what should I be aware of?](https://www.reddit.com/r/orchiectomy/comments/zwdnz5/my_gf_is_having_orchi_today_what_should_i_be/j1ujexe/) by Sailorboi2000 in 2022 - *" I had my orchi and scrotectomy by Dr Aguilar in Tijuana mid November and all went well . I am not transitioning I just didn’t like them."*
-* reply to [Long perineum :(](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zh7sws/long_perineum/izpjvfv/content.html) by Initial_Lunch_9115 in 2022 - *"I am 3 months post op and my perineum is also about 8-9 cm long... Having the longer perineum has not interrupted any other function or the aesthetics of my vulva/vagina."*
+* reply to [Long perineum :(](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zh7sws/long_perineum/content.html#izpjvfv) by Initial_Lunch_9115 in 2022 - *"I am 3 months post op and my perineum is also about 8-9 cm long... Having the longer perineum has not interrupted any other function or the aesthetics of my vulva/vagina."*
 * [Cosmetic SRS with Dr. Ivan Aguilar in Mexico, 9 days post-op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/pi6wdy/cosmetic_srs_with_dr_ivan_aguilar_in_mexico_9/content.html) by MotherMychaela in 2021
 * [What is the EASIEST way to get an orchiectomy?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nza45z/what_is_the_easiest_way_to_get_an_orchiectomy/content.html) by D0esANyoneREadTHese in 2021
 * [from Mexico, and i confused (GRS, SRS)](https://www.reddit.com/r/asktransgender/comments/el8lp8/from_mexico_and_i_confused_grs_srs/) by Fantastic-Secretary in 2020
@@ -789,7 +789,7 @@ Surgeons sites
 reddit
 
 * [What is the EASIEST way to get an orchiectomy?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nza45z/what_is_the_easiest_way_to_get_an_orchiectomy/content.html) by D0esANyoneREadTHese in 2021
-* reply to [Benefits of an orchiectomy](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jly6fu/benefits_of_an_orchiectomy/gasquyk/content.html) by PricklyMuffin92 in 2020
+* reply to [Benefits of an orchiectomy](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jly6fu/benefits_of_an_orchiectomy/content.html#gasquyk) by PricklyMuffin92 in 2020
 
 <br />
 
@@ -1081,7 +1081,7 @@ Location
 
 reddit
 
-* reply to [How long does it take to perform PI Vaginoplasty?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t6zms6/how_long_does_it_take_to_perform_pi_vaginoplasty/i0hev4v/content.html) by Significant_Golf1598 in 2022 - surgeon *"Istranov Andrey Leonidovich family clinic Moscow"*
+* reply to [How long does it take to perform PI Vaginoplasty?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t6zms6/how_long_does_it_take_to_perform_pi_vaginoplasty/content.html#i0hev4v) by Significant_Golf1598 in 2022 - surgeon *"Istranov Andrey Leonidovich family clinic Moscow"*
 
 ## Anastasia Borisenko
 

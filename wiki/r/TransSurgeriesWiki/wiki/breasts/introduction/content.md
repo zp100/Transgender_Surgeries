@@ -130,7 +130,7 @@ Anatomical implants are said to produce a better aesthetic result compare to the
 
 reddit
 
-* reply to [Should I search for a surgeon with experience with trans patients for a breast implant?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i3g2q0/should_i_search_for_a_surgeon_with_experience/g0vhmbd/content.html) by misses_tumblr in 2020
+* reply to [Should I search for a surgeon with experience with trans patients for a breast implant?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i3g2q0/should_i_search_for_a_surgeon_with_experience/content.html#g0vhmbd) by misses_tumblr in 2020
 
 Susans
 
@@ -2052,7 +2052,7 @@ reddit
 * [Round 2 of fat transfer breast augmentation with body contouring](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lt8k8c/round_2_of_fat_transfer_breast_augmentation_with/content.html)  by Klafka612 in 2021
 * [3 months post op - fat grafting breast augmentation and abdominoplasty with Dr. Zeidler](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ldjcg5/3_months_post_op_fat_grafting_breast_augmentation/content.html) by Klafka612 in 2021
 * [\[nsfw\] 8 days post op from lipoabdominoplasty and fat grafting breast augmentation](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jtrthy/nsfw_8_days_post_op_from_lipoabdominoplasty_and/content.html) Klafka612 in 2020
-* reply to [Fat transfer breast augmentation](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/id8hna/fat_transfer_breast_augmentation/g28aymo/content.html) by Klafka612 in 2020
+* reply to [Fat transfer breast augmentation](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/id8hna/fat_transfer_breast_augmentation/content.html#g28aymo) by Klafka612 in 2020
 
 <br />
 
@@ -2105,7 +2105,7 @@ Surgeons sites
 reddit
 
 * [Dr. Tanya Judge BA March '22 Mini-review](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10hk0sb/dr_tanya_judge_ba_march_22_minireview/content.html) by anontranssurgeries18 in 2023
-* reply to [Breast augmentation revision needed--help us find a qualified surgeon!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kkumoz/breast_augmentation_revision_neededhelp_us_find_a/gh88tkg/content.html) by snarfygato in 2020
+* reply to [Breast augmentation revision needed--help us find a qualified surgeon!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kkumoz/breast_augmentation_revision_neededhelp_us_find_a/content.html#gh88tkg) by snarfygato in 2020
 
 Review sites
 
@@ -2365,7 +2365,7 @@ Surgeons sites
 
 reddit
 
-* reply to [Does anyone regret getting BA?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nn5bnz/does_anyone_regret_getting_ba/gzw4umi/content.html) by Poshprincessxo in 2021
+* reply to [Does anyone regret getting BA?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nn5bnz/does_anyone_regret_getting_ba/content.html#gzw4umi) by Poshprincessxo in 2021
 
 Legal
 
@@ -2393,7 +2393,7 @@ Surgeons sites
 
 reddit
 
-* reply to [Does anyone regret getting BA?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nn5bnz/does_anyone_regret_getting_ba/gzw4umi/content.html) by Poshprincessxo in 2021
+* reply to [Does anyone regret getting BA?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nn5bnz/does_anyone_regret_getting_ba/content.html#gzw4umi) by Poshprincessxo in 2021
 
 Susans
 
@@ -2625,7 +2625,7 @@ reddit
 
 reddit
 
-* [Dr. Arthur Shektman out of Spiegel Center](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1blxz4q/dr_arthur_shektman_out_of_spiegel_center/content.html) by Delicious-Mark5783 in 2024, and [reply](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1blxz4q/dr_arthur_shektman_out_of_spiegel_center/kye981x/content.html) - *"I just had surgery with Dr Shektman. I do NOT reccomend him as a surgeon! He is poor with any specialized: BA on a trans body, lipo on an awkward body. 99% of the time does NOT consult with or meet with his patients prior to surgery, he may do a 1-2 minute pop in to just say “I can do that... When I did finally get to talk to him after I was drugged right before surgery, he made a scoffing comment at my question a out my desired results and the nurse (all of the nurses are great), got embarrassed on his behalf and tried to course-correct his comment."*
+* [Dr. Arthur Shektman out of Spiegel Center](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1blxz4q/dr_arthur_shektman_out_of_spiegel_center/content.html) by Delicious-Mark5783 in 2024, and [reply](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1blxz4q/dr_arthur_shektman_out_of_spiegel_center/content.html#kye981x) - *"I just had surgery with Dr Shektman. I do NOT reccomend him as a surgeon! He is poor with any specialized: BA on a trans body, lipo on an awkward body. 99% of the time does NOT consult with or meet with his patients prior to surgery, he may do a 1-2 minute pop in to just say “I can do that... When I did finally get to talk to him after I was drugged right before surgery, he made a scoffing comment at my question a out my desired results and the nurse (all of the nurses are great), got embarrassed on his behalf and tried to course-correct his comment."*
 
 <br />
 

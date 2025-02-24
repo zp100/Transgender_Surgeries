@@ -26,7 +26,7 @@ Resources
 
 The Canadian government have funded surgery in Thailand in the past (see Kamol in Thailand), but may have stopped
 
-* reply to [Summary of Brassard's work?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/eex818/summary_of_brassards_work/fbx6dcy/content.html) by RosyGlow in 2019
+* reply to [Summary of Brassard's work?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/eex818/summary_of_brassards_work/content.html#fbx6dcy) by RosyGlow in 2019
 
 reddit
 
@@ -358,13 +358,13 @@ reddit
 * [What Happened to Dr. Brassard's Reputation?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mtou00/what_happened_to_dr_brassards_reputation/content.html) by Aromatic_Guest_6589 in 2021
 * [Revision questions](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lf1pdb/revision_questions/content.html) by OhDaniGal in 2021
 * [I'm now 6 months post PI vaginaplasty with Dr. Brassard](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kvdube/im_now_6_months_post_pi_vaginaplasty_with_dr/content.html) by FireUnicorn420 in 2021
-* reply to [What areas do I need electrolysis on? (SRS MTF)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kvh8ww/what_areas_do_i_need_electrolysis_on_srs_mtf/giyxwwj/content.html) by jotspot in 2021
+* reply to [What areas do I need electrolysis on? (SRS MTF)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kvh8ww/what_areas_do_i_need_electrolysis_on_srs_mtf/content.html#giyxwwj) by jotspot in 2021
 * [I'm a bit over 1 year post-GRSwith Brassard, if you consider him as a surgeon and have questions, ask me!](https://www.reddit.com/r/asktransgender/comments/gxxozi/im_a_bit_over_1_year_postgrswith_brassard_if_you/) by VampireSomething in 2020
 * [Why did many people say to stay away from Dr Brassard?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gpb0q1/why_did_many_people_say_to_stay_away_from_dr/content.html) by qtips2019 in 2020
 * [Does Dr Brassard do in person consultation for GCS?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gc8v8y/does_dr_brassard_do_in_person_consultation_for_gcs/content.html) by whathappened2life in 2020
 * [GCS w/ Dr. Brassard - Information Packet](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/fyqwwr/gcs_w_dr_brassard_information_packet/content.html) by GreatApes in 2020
 * [Day 6 vaginoplasty wt Brassard: liberation and relief! AMA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/erv8u6/day_6_vaginoplasty_wt_brassard_liberation_and/content.html) by Jen-Ai in 2020
-* reply to [Zero depth vaginoplasty questions? (Anal sex as an alternative)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/elfq9d/zero_depth_vaginoplasty_questions_anal_sex_as_an/fdk2c5n/content.html) by Naomyblake in 2020
+* reply to [Zero depth vaginoplasty questions? (Anal sex as an alternative)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/elfq9d/zero_depth_vaginoplasty_questions_anal_sex_as_an/content.html#fdk2c5n) by Naomyblake in 2020
 * [1 year post-op zero depth vaginoplasty. Very happy.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ek8hkj/1_year_postop_zero_depth_vaginoplasty_very_happy/content.html) by Naomyblake in 2020
 * [After vaginoplasty](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/e5rh0o/after_vaginoplasty/content.html) by edani941 in 2019
 * [Summary of Brassard's work?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/eex818/summary_of_brassards_work/content.html) by RosyGlow in 2019
@@ -465,8 +465,8 @@ http://www.mikimappin.com/journal/post-op-more-than-you-ever-wanted-to-know-abou
 These are about an NDA agreement
 
 * [Dr Pierre Brassard and Non Disclosure Agreement NDA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gme8pg/dr_pierre_brassard_and_non_disclosure_agreement/content.html) by ThrowawayRA988900 in 2020
-* [Dr Pierre Brassard GRS Montreal 12 weeks post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gmb8v9/dr_pierre_brassard_grs_montreal_12_weeks_post_op/fr2teok/content.html) by darthemofan in 2020
-* reply to [A Comprehensive Guide to Dr. Brassard, Montreal, Canada](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/eyyub6/a_comprehensive_guide_to_dr_brassard_montreal/fgl9dmz/content.html) by Pretty_Critter in 2020
+* [Dr Pierre Brassard GRS Montreal 12 weeks post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gmb8v9/dr_pierre_brassard_grs_montreal_12_weeks_post_op/content.html#fr2teok) by darthemofan in 2020
+* reply to [A Comprehensive Guide to Dr. Brassard, Montreal, Canada](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/eyyub6/a_comprehensive_guide_to_dr_brassard_montreal/content.html#fgl9dmz) by Pretty_Critter in 2020
 * [PSA: Dr. Brassard does not make you sign an NDA](https://www.reddit.com/r/MtF/comments/b0zlys/psa_dr_brassard_does_not_make_you_sign_an_nda/) by MemeToFemale in 2019
 * reply to [AMA - Recent Brassard MtF](https://www.reddit.com/r/asktransgender/comments/4d0ju6/ama_recent_brassard_mtf/d1n0e45/) around 2017 - *"It's a clause in a vaginoplasty consent agreement: "I pledge myself not to take steps for and to refuse all offers concerning publicity and for publication relative to my antecedents, to this intervention and its results.""*
 

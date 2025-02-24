@@ -164,7 +164,7 @@ Some are looking for the best surgeon in the world, money no object. Its not an 
 
 Some prefer surgeons in their own country so that its easier to get problems taken care of. This post mentions local surgery in both Sweden and Germany and still having problems getting doctors to help.
 
-* reply to [Update on my SRS issues from 5 days ago](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/cch1r8/update_on_my_srs_issues_from_5_days_ago/eto40ix/content.html) by ligg-e-woo in 2019
+* reply to [Update on my SRS issues from 5 days ago](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/cch1r8/update_on_my_srs_issues_from_5_days_ago/content.html#eto40ix) by ligg-e-woo in 2019
 
 I'm not aware of anyone who's sucessfully sued a surgeon for botched trans surgery anywhere in the world.
 
@@ -172,7 +172,7 @@ Surgeons have different eligibility requirements for surgery. Some (many) will n
 
 reddit
 
-* reply to [Bottom surgery advice!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10j6p7q/bottom_surgery_advice/j5iwfuh/content.html) by NatalieSurgeryDiary in 2023
+* reply to [Bottom surgery advice!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10j6p7q/bottom_surgery_advice/content.html#j5iwfuh) by NatalieSurgeryDiary in 2023
 * [Do you think it's important to choose a surgeon as close as possible?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10dkqan/do_you_think_its_important_to_choose_a_surgeon_as/content.html) by AmbitiousFlowers in 2023s
 * [What are other good sources for trans surgery result info apart from Reddit?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uy7ii2/what_are_other_good_sources_for_trans_surgery/content.html) by vajop in 2022
 * [Who to avoid and who would you personally recommend/ go to?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/snohdz/who_to_avoid_and_who_would_you_personally/content.html) by Idontknow610 in 2022
@@ -211,7 +211,7 @@ Some complications are minor and easily rectified. Others will will be a traumat
 
 Here's some cases worth reading
 
-* reply to [Sabrina all surgeons say this is text book normal vulvar anatomy surgeon: Kathy Rumer](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lpf9ii/sabrina_all_surgeons_say_this_is_text_book_normal/gofszij/content.html) by EmmaLake in 2021
+* reply to [Sabrina all surgeons say this is text book normal vulvar anatomy surgeon: Kathy Rumer](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lpf9ii/sabrina_all_surgeons_say_this_is_text_book_normal/content.html#gofszij) by EmmaLake in 2021
 * [When GRS recovery never ends](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ljhd0b/when_grs_recovery_never_ends/content.html) by EmmaLake in 2021
 * [When Surgeons Fail Their Trans Patients on Gender Confirming Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/icsahu/when_surgeons_fail_their_trans_patients_on_gender/content.html) in 2020 - this is from an experienced surgeon
 * http://hannahsimpson.com/Surgery and associated comment here [I need your help... because... I don't know how much longer I can keep going on this way. Please. Any help. I'm begging you.](https://www.reddit.com/r/asktransgender/comments/9220a2/i_need_your_help_because_i_dont_know_how_much/e34966r/)
@@ -413,7 +413,7 @@ YouTube
 
 reddit
 
-* reply to [Sarah Saxon (Austin, Texas) (Student of Spiegel) blocked my phone number when I told her I had post-surgical complications and asked her to call me back.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1chiv3t/sarah_saxon_austin_texas_student_of_spiegel/l235jxe/content.html) by thornhawthorne in 2024 - *"I can't get a lawyer to take my case. They're all saying it's not worth it. I have contacted 20+ attorneys in DFW so far... Texas law severely limits how much you can sue for and every lawyer is like "I want more money than that for this""*
+* reply to [Sarah Saxon (Austin, Texas) (Student of Spiegel) blocked my phone number when I told her I had post-surgical complications and asked her to call me back.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1chiv3t/sarah_saxon_austin_texas_student_of_spiegel/content.html#l235jxe) by thornhawthorne in 2024 - *"I can't get a lawyer to take my case. They're all saying it's not worth it. I have contacted 20+ attorneys in DFW so far... Texas law severely limits how much you can sue for and every lawyer is like "I want more money than that for this""*
 
 <br />
 
@@ -559,7 +559,7 @@ reddit
 * [Is it okay to have both BA and SRS at the same time or like.. close by?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ge0yr9/is_it_okay_to_have_both_ba_and_srs_at_the_same/content.html) by RosyBlink in 2020
 * [VFS or FFS first?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/esx1r8/vfs_or_ffs_first/content.html) by MerylSilverburgh90 in 2020
 * [For those who have had both FFS and SRS, which one meant the most to you, would you recommend doing first?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ekdkd5/for_those_who_have_had_both_ffs_and_srs_which_one/content.html) by Carah-Maisie in 2020
-* reply to [I want to do all my surgeries in 1 year. What order should I choose?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/9y3web/i_want_to_do_all_my_surgeries_in_1_year_what/e9y09c4/content.html) in 2018 - *"I had FFS and BA after VFS and it took my voice back to a pre-VFS state. I’m getting it redone in three months. Huge waste of money because I didn’t save it for last."*
+* reply to [I want to do all my surgeries in 1 year. What order should I choose?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/9y3web/i_want_to_do_all_my_surgeries_in_1_year_what/content.html#e9y09c4) in 2018 - *"I had FFS and BA after VFS and it took my voice back to a pre-VFS state. I’m getting it redone in three months. Huge waste of money because I didn’t save it for last."*
 
 BA and [BBL](https://github.com/zp100/Transgender_Surgeries/blob/main/wiki/r/TransSurgeriesWiki/wiki/hips-butt/introduction/content.md#brazilian-butt-lift) should not be done at the same time as during recovery you're supposed to lie on your back/front/front.md respectivly.
 
@@ -1009,7 +1009,7 @@ reddit
 * [Verteporfin for ENF/regenerative wound healing - applicability to transgender surgeries ?](https://www.reddit.com/r/DrWillPowers/comments/1e6xijs/verteporfin_for_enfregenerative_wound_healing/) by asilenceliketruth in 2024
 * [Verteporfin use and scar reduction](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uf2urp/verteporfin_use_and_scar_reduction/content.html) by stupidgothybitch in 2022
 * [Playing with verteporfin (visudyn) for scar prevention or removal: DAE?](https://www.reddit.com/r/estrogel/comments/tfpxbb/playing_with_verteporfin_visudyn_for_scar/) by darthemofan in 2022
-* reply to [In general, FFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qia70a/in_general_ffs/hjzcn5y/content.html) by testPoster_ignore in 2021
+* reply to [In general, FFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qia70a/in_general_ffs/content.html#hjzcn5y) by testPoster_ignore in 2021
 
 Papers
 

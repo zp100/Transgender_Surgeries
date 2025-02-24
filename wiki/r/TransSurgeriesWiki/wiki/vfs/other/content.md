@@ -429,7 +429,7 @@ Surgeons site
 
 reddit
 
-* reply to [Voice Feminization Surgery. Anyone experience these Drs?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/103kvmr/voice_feminization_surgery_anyone_experience/j337xdf/content.html) by Maddy_Jade in 2023 - *"I had mine done with Dr Carlos Casado in Marbella, final results are i sound cis"*
+* reply to [Voice Feminization Surgery. Anyone experience these Drs?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/103kvmr/voice_feminization_surgery_anyone_experience/content.html#j337xdf) by Maddy_Jade in 2023 - *"I had mine done with Dr Carlos Casado in Marbella, final results are i sound cis"*
     * [Vocal Feminization Surgery With Carlos Casado in Marbella PRE SURGERY (post will update as I progress)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hazkpj/vocal_feminization_surgery_with_carlos_casado_in/content.html) by Maddy_Jade in 2020
 * [Been one year since i had vocal feminisation with Dr Carlos Casado](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/p0f3gv/been_one_year_since_i_had_vocal_feminisation_with/content.html) by LottaMeds in 2021
 
@@ -500,7 +500,7 @@ Surgeons sites
 
 reddit
 
-* reply to [Femlar with Doctor Ornouma or Matthew Broadhurst Which is better? Which is better?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wrvys7/femlar_with_doctor_ornouma_or_matthew_broadhurst/ikxfaji/content.html) by Kuutamokissa - *"...I was looking into voice surgery in order to become unable to sound male. But on hearing my voice she replied she would not recommend surgery, as I was already within the female range. So... it is my feeling that she's not in it for money, but truly wishes to help."*
+* reply to [Femlar with Doctor Ornouma or Matthew Broadhurst Which is better? Which is better?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wrvys7/femlar_with_doctor_ornouma_or_matthew_broadhurst/content.html#ikxfaji) by Kuutamokissa - *"...I was looking into voice surgery in order to become unable to sound male. But on hearing my voice she replied she would not recommend surgery, as I was already within the female range. So... it is my feeling that she's not in it for money, but truly wishes to help."*
 * [What is your people's opinion on voice surgery (specifically in regards to yeson voice center) I have heard that some people think it's pointless/dangerous but I have also seen videos of people who voice sounds extremely natural after recovery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/g8u91u/what_is_your_peoples_opinion_on_voice_surgery/content.html) by Toxyma in 2020
 * [Welp, I'm booked for Yeson!](https://www.reddit.com/r/asktransgender/comments/8eev7e/welp_im_booked_for_yeson/)
 * [Info on Voice Masculinization Surgery?](https://www.reddit.com/r/transvoice/comments/8qdlpx/info_on_voice_masculinization_surgery/)
@@ -580,7 +580,7 @@ Surgeons sites
 
 reddit
 
-* reply to [VFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tzwgwk/vfs/i41xtoe/content.html) by Hammna in 2022
+* reply to [VFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tzwgwk/vfs/content.html#i41xtoe) by Hammna in 2022
 
 <br />
 
@@ -597,7 +597,7 @@ Surgeons sites
 
 reddit
 
-* reply to [VFS or FFS first?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/esx1r8/vfs_or_ffs_first/ffdfso7/content.html) by Rachael0x1 in 2020
+* reply to [VFS or FFS first?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/esx1r8/vfs_or_ffs_first/content.html#ffdfso7) by Rachael0x1 in 2020
 * [VFS Web Glottoplasty](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/dcm08t/vfs_web_glottoplasty/content.html) by Rachael0x1 in 2019
 
 <br />

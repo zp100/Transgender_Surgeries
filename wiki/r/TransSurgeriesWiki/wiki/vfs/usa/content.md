@@ -326,7 +326,7 @@ Surgeons sites
 reddit
 
 * [Disappointed with my results from Dr. Courey](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1f107oe/disappointed_with_my_results_from_dr_courey/content.html) by tatianna900 in 2024 - *"... while my voice sounds great, I'm still confused why Dr. Courey decided to place my tracheal shave scar in a place that's so visible... I've gone on dates with guys and have been to many social gatherings where I'm asked about my scar and it reminds me of how viable it is."*
-* reply to [Does Voice Feminization Surgery get better as time goes on?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1eqgpvv/does_voice_feminization_surgery_get_better_as/lhrvbxe/content.html) by SlateRaven in 2024
+* reply to [Does Voice Feminization Surgery get better as time goes on?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1eqgpvv/does_voice_feminization_surgery_get_better_as/content.html#lhrvbxe) by SlateRaven in 2024
 * [fading old tracheal shave scar](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zh4u5q/fading_old_tracheal_shave_scar/content.html) by prawnjavis in 2022
 * [2 months post op VFS. This is life changing, definitely suggest getting it if u can.](https://www.reddit.com/r/transvoice/comments/qch57a/2_months_post_op_vfs_this_is_life_changing/) by dmeiirbek in 2021
     * [I had a voice fem surgery. It’s been 3 weeks. What y’all think?](https://www.reddit.com/r/transtimelines/comments/pp5ikp/i_had_a_voice_fem_surgery_its_been_3_weeks_what/) by dmeiirbek in 2021
@@ -364,7 +364,7 @@ Surgeons sites
 
 reddit
 
-* reply to [Who here has had vocal surgery and can post experience??](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t363k7/who_here_has_had_vocal_surgery_and_can_post/hyx1kks/content.html) by poetker in 2022
+* reply to [Who here has had vocal surgery and can post experience??](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t363k7/who_here_has_had_vocal_surgery_and_can_post/content.html#hyx1kks) by poetker in 2022
 
 YouTube
 
@@ -391,7 +391,7 @@ Surgeons sites
 
 reddit
 
-* reply to [voice feminization surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yg9vut/voice_feminization_surgery/iyxq32p/content.html) by Imaginary_Rate_6794 in 2022 - *"went to Dr Mark Weidenbecher in Cleveland after he was recommended to me. he did a FemLa and it worked great. so happy. Cost was $4000"*
+* reply to [voice feminization surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yg9vut/voice_feminization_surgery/content.html#iyxq32p) by Imaginary_Rate_6794 in 2022 - *"went to Dr Mark Weidenbecher in Cleveland after he was recommended to me. he did a FemLa and it worked great. so happy. Cost was $4000"*
 
 YouTube
 

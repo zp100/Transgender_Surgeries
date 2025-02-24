@@ -49,7 +49,7 @@ Surgeons sites
 
 reddit
 
-* reply [Dr. Schrögendorfer will get replaced by Dr. Haslik](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/8ysw57/a_collection_of_links_to_photos_of_srs_results/e2dfihd/content.html) in 2018
+* reply [Dr. Schrögendorfer will get replaced by Dr. Haslik](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/8ysw57/a_collection_of_links_to_photos_of_srs_results/content.html#e2dfihd) in 2018
 
 <br />
 
@@ -163,7 +163,7 @@ reddit
 
 **Non-photo links**
 
-* reply [Dr. Schrögendorfer will get replaced by Dr. Haslik](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/8ysw57/a_collection_of_links_to_photos_of_srs_results/e2dfihd/content.html) in 2018
+* reply [Dr. Schrögendorfer will get replaced by Dr. Haslik](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/8ysw57/a_collection_of_links_to_photos_of_srs_results/content.html#e2dfihd) in 2018
 
 <br />
 
@@ -276,7 +276,7 @@ in 2022
 
 reddit
 
-* reply to [For those who have had ppt or ppv for over a year or two; are there any drawbacks or regrets?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zrfjbp/for_those_who_have_had_ppt_or_ppv_for_over_a_year/j15x17a/content.html) by MissDais in 2022 - *"Almost a year post op have a scar ring wich makes dialating hard and the surgeon just did a bad external job"*
+* reply to [For those who have had ppt or ppv for over a year or two; are there any drawbacks or regrets?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zrfjbp/for_those_who_have_had_ppt_or_ppv_for_over_a_year/content.html#j15x17a) by MissDais in 2022 - *"Almost a year post op have a scar ring wich makes dialating hard and the surgeon just did a bad external job"*
 * [Information on Dr. Phillip Houtmeyers?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/vo6ht9/information_on_dr_phillip_houtmeyers/content.html) by AHastyPie in 2022
 * [1 month post op ppt](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uln3cr/1_month_post_op_ppt/content.html) by BoredDais in 2022
 * [My SRS experience with Dr Houtmeyers (Belgium)](https://www.reddit.com/r/asktransgender/comments/b3haz3/my_srs_experience_with_dr_houtmeyers_belgium/) by honaka_namnah in 2019
@@ -423,7 +423,7 @@ reddit
 
 * [SRS went wrong. Problem with health insurance in abroad](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/191hz43/srs_went_wrong_problem_with_health_insurance_in/content.html) by Laurinka21 in 2024
     * [SRS went totally wrong due to an infection. Big clitoris looking like penis head, no hood, almost zero depth, labia majora asymmetry, too much skin everywhere, problem with pissing. 2 years after SRS, 2 revisions. I am waiting for third revision but I have lost all hope already.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/sglsct/srs_went_totally_wrong_due_to_an_infection_big/content.html) by Laurinka21 in 2022
-* reply to [When Surgeons Fail Their Trans Patients on Gender Confirming Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/icsahu/when_surgeons_fail_their_trans_patients_on_gender/kbfxnwu/content.html) by AyenneTeajay in 2023 - *" had a surgery with Dr Jiří Veselý in Brno, Czech Republic on the 7th of November 2022. The result is terrible. Very ugly, very asymetric, a lot of excess skin hanging around, still painful, some parts are not sensitive, huge clitoris which is essentially a penis head left almost as it was. Depth is max 7 cm. It's all still a bit swollen after one year. I have incontinence... As far as I know, Dr Veselý's results are considered amongst the best here in Czech Republic so I don't even want to imagine what are the worst... I went for all this unforeseen ordeal just because it was covered by my healthcare insurance and I didn't expect such an outcome. If I knew, I would never go for that."*
+* reply to [When Surgeons Fail Their Trans Patients on Gender Confirming Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/icsahu/when_surgeons_fail_their_trans_patients_on_gender/content.html#kbfxnwu) by AyenneTeajay in 2023 - *" had a surgery with Dr Jiří Veselý in Brno, Czech Republic on the 7th of November 2022. The result is terrible. Very ugly, very asymetric, a lot of excess skin hanging around, still painful, some parts are not sensitive, huge clitoris which is essentially a penis head left almost as it was. Depth is max 7 cm. It's all still a bit swollen after one year. I have incontinence... As far as I know, Dr Veselý's results are considered amongst the best here in Czech Republic so I don't even want to imagine what are the worst... I went for all this unforeseen ordeal just because it was covered by my healthcare insurance and I didn't expect such an outcome. If I knew, I would never go for that."*
     * [MTF Surgery revision in Lubos Klinik - opinions?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/187q3hm/mtf_surgery_revision_in_lubos_klinik_opinions/content.html) by AyenneTeajay in 2023
     * [3 months post-op results, Dr Jiří Veselý (Brno, Czech Republic) - kind of functional, but kind of ugly...](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1102uvl/3_months_postop_results_dr_ji%C5%99%C3%AD_vesel%C3%BD_brno_czech/content.html) by AyenneTeajay in 2023 - *"I found this article here on reddit from a girl who had surgery with him in 2019 and she was quite unhappy with the results. I got worried that I might end up the same way and sadly, my results aren't much different as you can see on the photos below... From the beginning till now, I manage to get in 7-8 cm in with a dilator. He said that I can expect maximum 9 cm depth, given the initial penis size of 14 cm erected... I am very bothered by the aesthetics - a huge penis-like clit, unhooded, a lot of hanging skin which is supposed to be the outer labiae, the vaginal opening looks like a separate entity, not being part of the vulva, and it's overall very asymetric - the entire clitoral structure is rotated to the right and the rest of the tissue follows it."*
 
@@ -867,7 +867,7 @@ reddit
     * https://www.reddit.com/r/germantrans/wiki/index/operationen/vaginoplastik
 * [German vaginoplasty surgeon comparison](https://www.reddit.com/r/germantrans/comments/11qn6mr/german_vaginoplasty_surgeon_comparison/) by cartwheel-joyride in 2023
 * [Bottom surgery MTF](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/fsz44i/bottom_surgery_mtf/content.html) by AloneTour317 in 2020
-* reply to [Update on my SRS issues from 5 days ago](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/cch1r8/update_on_my_srs_issues_from_5_days_ago/eto40ix/content.html) by ligg-e-woo in 2019
+* reply to [Update on my SRS issues from 5 days ago](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/cch1r8/update_on_my_srs_issues_from_5_days_ago/content.html#eto40ix) by ligg-e-woo in 2019
 * reply to [SRS with Dr. Bank](https://www.reddit.com/r/asktransgender/comments/99sg54/srs_with_dr_bank/e4qm8bw/) in 2018 - this is about getting back the cost of SRS in Thailand *I can get the full surgery costs back from tax refunds. (but you need to proof that this surgery was neccessary, sooo first apply for surgery in Germany, which you wont take)*
 
 Susans
@@ -1641,7 +1641,7 @@ https://www.markus-krankenhaus.de/uploads/tx_lukaimagecontact/CV_Sohn_01.pdf
 reddit
 
 * [Which GAS/grs/srs surgeon do you recommend in Germany or near Germany?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kcy3wt/which_gasgrssrs_surgeon_do_you_recommend_in/content.html) by Molismhm in 2020
-* reply to [I think I have done everything wrong with post surgery care. The operation was in 02/2018](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/k2b7q8/i_think_i_have_done_everything_wrong_with_post/gdt5zkt/content.html) by lillywho in 2020
+* reply to [I think I have done everything wrong with post surgery care. The operation was in 02/2018](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/k2b7q8/i_think_i_have_done_everything_wrong_with_post/content.html#gdt5zkt) by lillywho in 2020
 
 YouTube
 
@@ -1829,7 +1829,7 @@ reddit
 
 **Non-photo links**
 
-* reply to [Which SRS surgeons should you 100% avoid?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rorbt9/which_srs_surgeons_should_you_100_avoid/hq04tjb/content.html) by RainbowDashieeee in 2021
+* reply to [Which SRS surgeons should you 100% avoid?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rorbt9/which_srs_surgeons_should_you_100_avoid/content.html#hq04tjb) by RainbowDashieeee in 2021
 
 <br />
 
@@ -1987,7 +1987,7 @@ Surgeons sites
 
 reddit
 
-* reply to [SRS Hungary](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/smzo3y/srs_hungary/hw4igoh/content.html) by JanetteSolenian in 2022
+* reply to [SRS Hungary](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/smzo3y/srs_hungary/content.html#hw4igoh) by JanetteSolenian in 2022
 
 <br />
 
@@ -2048,7 +2048,7 @@ reddit
 
 reddit
 
-* reply to [loss clitoris sensation risk](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/czmwql/loss_clitoris_sensation_risk/ezlrgt6/content.html) by Susaop in 2019
+* reply to [loss clitoris sensation risk](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/czmwql/loss_clitoris_sensation_risk/content.html#ezlrgt6) by Susaop in 2019
 
 Other
 
@@ -2841,7 +2841,7 @@ Papers
 
 **[I-vaginarium](https://ivaginarium.com)**
 
-* reply to [Bank vs sutin (PI, not colon)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13jrbf7/bank_vs_sutin_pi_not_colon/jkhce71/content.html) by RealHumanNotAnAlien - *there is group/asociation called ivaginarium, they help/inform trans girls about srs, they always refer people to the pai clínic (where sutin works) they can show to fotos, tell you about all your questions and they do a videoconference a month with girls that had surgery there, so you you also can talk to them*
+* reply to [Bank vs sutin (PI, not colon)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13jrbf7/bank_vs_sutin_pi_not_colon/content.html#jkhce71) by RealHumanNotAnAlien - *there is group/asociation called ivaginarium, they help/inform trans girls about srs, they always refer people to the pai clínic (where sutin works) they can show to fotos, tell you about all your questions and they do a videoconference a month with girls that had surgery there, so you you also can talk to them*
     * *"It sounds like they may be getting a referral fee from the surgeon."* by HiddenStill
         * *"Theu do for every single client. To my knowledge 10%"* by NicolaSummers, Thailand transgender surgery consultant
 
@@ -2861,7 +2861,7 @@ Surgeons sites
 
 ## Ivan Mañero Vazquez
 
-Informed consent SRS - see [this](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/htberhy/content.html) reddit post
+Informed consent SRS - see [this](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/content.html#htberhy) reddit post
 
 Surgeons sites
 
@@ -2895,7 +2895,7 @@ reddit
 
 reddit
 
-* reply to [Colovaginoplasty with Dr labanca](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hn2r1f/colovaginoplasty_with_dr_labanca/m5ht2aa/content.html) by ]Alternative_Tap6279 in 2025
+* reply to [Colovaginoplasty with Dr labanca](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hn2r1f/colovaginoplasty_with_dr_labanca/content.html#m5ht2aa) by ]Alternative_Tap6279 in 2025
 * [Dr Ivan Manero in Spain or Dr Thee in Thailand for colon revision surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1fw4sod/dr_ivan_manero_in_spain_or_dr_thee_in_thailand/content.html) by Charliethespy in 2024
 * [SRS aesthetic concerns](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1em74wp/srs_aesthetic_concerns/content.html) by Amazing_Statement629 in 2024
     * [SRS in Spain which surgeon](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1bzzmip/srs_in_spain_which_surgeon/content.html) by Amazing_Statement629 in 2024
@@ -2906,7 +2906,7 @@ reddit
 * [MtoF surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wllup7/mtof_surgery/content.html) by AlexaV82 in 2022
 * [No bad smell. Colo-vaginoplasty.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/umjew6/no_bad_smell_colovaginoplasty/content.html) by Kimberlashes in 2022
 * [Question: for a 15 y.o mtf girl if possible undergo toa B.A. and SRS,i want it soon as possible,please answer me?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kpml23/question_for_a_15_yo_mtf_girl_if_possible_undergo/content.html) by supermikelina - from Italy having surgery in Spain
-* reply to [Frustrated finding the right surgeon](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/igdbu3/frustrated_finding_the_right_surgeon/g2t0ivu/content.html) in 2020
+* reply to [Frustrated finding the right surgeon](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/igdbu3/frustrated_finding_the_right_surgeon/content.html#g2t0ivu) in 2020
     * see reply *"...In Spanish trans circles we call Mañero “el carnicero” (“the butcher”), he has great marketing but tends not to have great results, even with cis patients... Now, most of the info I’ve heard of him has been in spanish trans circles, ive heard both good and bad cases, the bad ones outweighing the good ones. The bad results of grs are horrifying not only because of the complications (the typical ones: anorgasmia, loss of sensation, loss of clitoris, a vaginal opening too small, lack of labia minora) but also because of the dismissive post-op treatment for such patients. He has great marketing and ive read people that are genuinely happy with their Mañero grs results, but the cases that go wrong are totally ignored by him and his team..."*
 
 dario digital transexual (in Spanish)
@@ -2971,7 +2971,7 @@ reddit
     * [SRS Revision](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hl4vz7/srs_revision/content.html) by SadReception4730 in 2024
     * reply to [Dr jesús lago bottom surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1gtmebt/dr_jes%C3%BAs_lago_bottom_surgery/content.html) by SadReception4730 in 2024 - *"Don’t. I almost died from post surgical complications. It’s been 7 months since my operation and he has not reached out once (surely he knows he’s liable). Truly the absolute worst customer service. The hospital he operates out of is also extremely bad."*
     * [SRS scars](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1dxo1m8/srs_scars/content.html) by SadReception4730 in 2024 - *"I can’t even wear underwear or a bikini without the scars poking out😣 My surgeon really fucked and made them so long and didn’t place them in the right position. For some reason these scars have also become hypertrophic which has never happened to any other scar on my body."*
-    * reply to [Who was your srs surgeon, do you regret going to him and which surgeon/ method would you go for instead.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1dwzt7t/who_was_your_srs_surgeon_do_you_regret_going_to/lbybq3l/content.html) by SadReception4730 in 2024 - *"I went with Dr.Lago in Madrid. Worst decision I’ve ever made. It’s been 3 months and my mental health is in the gutter. I opted for the colon method (regret choosing that method), he punctured my colon then misdiagnosed me which led me to have an emergency laparotomy performed by another surgeon. The anatomy of my vulva is also incorrect and he made the scars huge and placed them in the wrong position. The administration is also trash, they haven’t checked in on me once."*
+    * reply to [Who was your srs surgeon, do you regret going to him and which surgeon/ method would you go for instead.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1dwzt7t/who_was_your_srs_surgeon_do_you_regret_going_to/content.html#lbybq3l) by SadReception4730 in 2024 - *"I went with Dr.Lago in Madrid. Worst decision I’ve ever made. It’s been 3 months and my mental health is in the gutter. I opted for the colon method (regret choosing that method), he punctured my colon then misdiagnosed me which led me to have an emergency laparotomy performed by another surgeon. The anatomy of my vulva is also incorrect and he made the scars huge and placed them in the wrong position. The administration is also trash, they haven’t checked in on me once."*
     * [Colon Vaginoplasty: Not Worth It](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1d9gz7h/colon_vaginoplasty_not_worth_it/content.html) by SadReception4730 in 2024
 * reply to [MtF SRS with private surgeon in Ireland?](https://www.reddit.com/r/TransIreland/comments/19cw33g/mtf_srs_with_private_surgeon_in_ireland/kj1thfk/) by Ash___________ in 2024 - this is about FFS
 * [Dr Lago (Madrid/Spain) - Be very careful/wary is my advice based on the following experiences](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16o6uck/dr_lago_madridspain_be_very_carefulwary_is_my/content.html) by HaydeeMercedes in 2023
@@ -3061,7 +3061,7 @@ reddit
     * [SRS/Colon review from the Day of Surgery to the first dilation. #LONG POST](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ttv66i/srscolon_review_from_the_day_of_surgery_to_the/content.html) by Unusual_Life_meli in 2022
 * [Vaginoplasty PI Spain + fistula](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/oooume/vaginoplasty_pi_spain_fistula/content.html) by lqlalia in 2021
 * [Looking for experiences/info on dr fakin (madrid/zurich)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mmxoiz/looking_for_experiencesinfo_on_dr_fakin/content.html) by wolfpack3d in 2021
-* reply to [I need help with the wiki](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/iq5ykf/i_need_help_with_the_wiki/g9uqgtp/content.html) by blueberryk1tty in 2020
+* reply to [I need help with the wiki](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/iq5ykf/i_need_help_with_the_wiki/content.html#g9uqgtp) by blueberryk1tty in 2020
 * [Just got approval for surgery with Dr. Richard Fakin in Madrid](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i5jr7x/just_got_approval_for_surgery_with_dr_richard/content.html) by keevalilith in 2020
 
 Gendertreff Forum (in German)
@@ -3277,7 +3277,7 @@ Surgeons sites
 
 reddit
 
-* reply to [8 weeks post op colo-vaginoplasty with minor dehisence. Getting 22cm depth. Still a little swollen due to the dehisence complication, but very happy with the result. By IM GENDER Clinic, Ivan Manero, Barcelona.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/htbv6iq/content.html) by Pancake-san in 2022 - *"Yes, I can confirm it is a regional law here in Catalonia, were you don't need any psychological documentation, if you have the money you can book surgeries pretty quickly. In some places they ask you some evidence that you're on HRT, but that's really it."*
+* reply to [8 weeks post op colo-vaginoplasty with minor dehisence. Getting 22cm depth. Still a little swollen due to the dehisence complication, but very happy with the result. By IM GENDER Clinic, Ivan Manero, Barcelona.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/content.html#htbv6iq) by Pancake-san in 2022 - *"Yes, I can confirm it is a regional law here in Catalonia, were you don't need any psychological documentation, if you have the money you can book surgeries pretty quickly. In some places they ask you some evidence that you're on HRT, but that's really it."*
     * [Orchiectomy 2 weeks post](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nvuym9/orchiectomy_2_weeks_post/content.html) by Pancake-san in 2021
     * [I just had my orchiectomy!!](https://www.reddit.com/r/MtF/comments/nig9tg/i_just_had_my_orchiectomy/) by Pancake-san in 2021
 
@@ -3449,7 +3449,7 @@ reddit
 * [What is the best surgeon for SRS in sweden?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rq161n/what_is_the_best_surgeon_for_srs_in_sweden/content.html) by  Popular_Tradition443 in 2022
 * [So i felt a little on my inside. And as soon as I get like maybe 3? Cm in. The inside is literally just covered in hair.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/fjort1/so_i_felt_a_little_on_my_inside_and_as_soon_as_i/content.html) by stupidstories in 2020
 * [Vaginoplasty technique in LinköpingSweden / Sverige](https://www.reddit.com/r/transnord/comments/dfexf3/vaginoplasty_technique_in_link%C3%B6ping/) by Promethea- in 2019
-* reply to [Update on my SRS issues from 5 days ago](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/cch1r8/update_on_my_srs_issues_from_5_days_ago/eto40ix/content.html) by ligg-e-woo in 2019
+* reply to [Update on my SRS issues from 5 days ago](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/cch1r8/update_on_my_srs_issues_from_5_days_ago/content.html#eto40ix) by ligg-e-woo in 2019
 * [Science AMA Series: I'm Cecilia Dhejne a fellow of the European Committee of Sexual Medicine, from the Karolinska University Hospital in Sweden. I'm here to talk about transgender health, suicide rates, and my often misinterpreted study. Ask me anything!](https://www.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/) by Cecilia_Dhejne_Helmy in 2018
 
 YouTube
@@ -3637,7 +3637,7 @@ Links
 YouTube
 
 * [Sexualität nach Geschlechtsangleichung.](https://www.youtube.com/watch?v=csm7aUmOgIo) in 2018 - title in English is *"Sexuality after gender reassignment."*
-* [Geschlechtsumwandlung Operation + Heilungsprozess!](https://www.youtube.com/watch?v=d8uXcaLsqHU) in 2017 - title in English is *"Sex reassignment surgery + healing process!"*, see also reply to [Surgery in Switzerland](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kw0z31/surgery_in_switzerland/gj4lgjk/content.html) by gargoyleprincess12 in 2021 on reddit
+* [Geschlechtsumwandlung Operation + Heilungsprozess!](https://www.youtube.com/watch?v=d8uXcaLsqHU) in 2017 - title in English is *"Sex reassignment surgery + healing process!"*, see also reply to [Surgery in Switzerland](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kw0z31/surgery_in_switzerland/content.html#gj4lgjk) by gargoyleprincess12 in 2021 on reddit
 
 <br />
 
@@ -3728,7 +3728,7 @@ reddit
 
 reddit
 
-* reply to [2 yr Postop update GRS Brassard MTL PI-Vaginoplasty and Trachea Shave + answered questions NSFW](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/saplis/2_yr_postop_update_grs_brassard_mtl/htv39kd/content.html) by googleyfroogley in 2022
+* reply to [2 yr Postop update GRS Brassard MTL PI-Vaginoplasty and Trachea Shave + answered questions NSFW](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/saplis/2_yr_postop_update_grs_brassard_mtl/content.html#htv39kd) by googleyfroogley in 2022
 
 Other
 
