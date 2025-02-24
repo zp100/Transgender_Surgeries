@@ -24,8 +24,8 @@ app.get('/wiki*', (req, res) => {
 
         // Replace all GitHub links to instead stay within whatever site is hosting this.
         const relativeData = data.replaceAll(
-            /\[(.*?)\]\((https:\/\/github\.com\/zp100\/Transgender_Surgeries\/blob\/main\/wiki\/)(.*?)\)/g,
-            '<span class="internal">[$1](/wiki/$3)</span>'
+            /\[(.*?)\]\((https:\/\/github\.com\/zp100\/Transgender_Surgeries\/blob\/main\/)(.*?)\)/g,
+            '<span class="internal">[$1](/$3)</span>'
         )
 
         // Convert the markdown to HTML.
