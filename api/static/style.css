@@ -31,12 +31,25 @@ table, th, td {
     padding: 0.25em 0.5em;
 }
 
-a {
+a[href] {
     color: #99f;
 }
 
 h4 {
     margin-bottom: 0;
+}
+
+blockquote {
+    margin-left: 10px;
+    border-left: 3px solid #333;
+    padding-left: 27px;
+}
+
+code {
+    display: block;
+    overflow: auto;
+    padding: 0 1em 1em;
+    background-color: #222;
 }
 
 .post-body {
@@ -66,7 +79,7 @@ h4 {
     display: none;
 }
 
-.insert :not(.internal) > a, a.external {
+.insert :not(.internal) > a[href] {
     /* Copied from Wikipedia. */
     background-image: url(https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?fb64d);
     background-position: top right;
@@ -129,15 +142,15 @@ h4 {
     border: 1px solid #222;
     border-radius: 4px;
     background-color: black;
-    padding: 1em 1.5em 0.5em 1.5em;
-    margin-bottom: 1em;
+    padding: 0.5em 1.5em;
+    margin-bottom: 0.5em;
 
     .comment-deleted {
         color: #666;
     }
 }
 
-.comment[id=""] .upvote::before {
+.comment[id=""] > .subtitle .upvote::before {
     background-position: -30px 0;
 }
 
