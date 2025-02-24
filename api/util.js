@@ -3,7 +3,7 @@ const { join } = require('path')
 
 // Fetch and process the page specified by a particular request.
 // Generalized to apply to all pages in all sections (wiki, posts, etc.).
-export function fileRequestCallback(
+function fileRequestCallback(
     req, res, wikiIndex, section, extension = 'html',
     dataCallback = (data) => ({ title: undefined, contentHtml: data })
 ) {
@@ -51,3 +51,5 @@ export function fileRequestCallback(
         }
     })
 }
+
+module.exports = { fileRequestCallback }

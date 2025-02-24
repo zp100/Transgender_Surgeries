@@ -1,4 +1,5 @@
 const express = require('express')
+const favicon = require('serve-favicon')
 const { marked } = require('marked')
 const { join } = require('path')
 const { fileRequestCallback } = require('./util')
@@ -8,6 +9,7 @@ const app = express()
 app.set('views', './api/views')
 app.set('view engine', 'pug')
 app.use('/static', express.static(join(process.cwd(), 'api', 'static')))
+app.use(favicon(join(process.cwd(), 'api', 'static', 'favicon.png')))
 const PORT = 3001
 const WIKI_INDEX = 'r/TransWiki/wiki/index/content.md'
 
