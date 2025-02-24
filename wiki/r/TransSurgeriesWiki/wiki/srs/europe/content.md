@@ -49,7 +49,7 @@ Surgeons sites
 
 reddit
 
-* reply [Dr. Schrögendorfer will get replaced by Dr. Haslik](https://www.reddit.com/r/Transgender_Surgeries/comments/8ysw57/a_collection_of_links_to_photos_of_srs_results/e2dfihd/) in 2018
+* reply [Dr. Schrögendorfer will get replaced by Dr. Haslik](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/8ysw57/a_collection_of_links_to_photos_of_srs_results/e2dfihd/content.html) in 2018
 
 <br />
 
@@ -65,8 +65,8 @@ Location
 
 reddit
 
-* [5-6 Week GRS Dr Angel & Dr Klumpen Vienna](https://www.reddit.com/r/Transgender_Surgeries/comments/sd4394/56_week_grs_dr_angel_dr_klumpen_vienna/) by InsaneGothChick in 2022
-    * [PI Flap GRS Week 2 Pictures and Day 5](https://www.reddit.com/r/Transgender_Surgeries/comments/s9naml/pi_flap_grs_week_2_pictures_and_day_5/) by InsaneGothChick in 2022
+* [5-6 Week GRS Dr Angel & Dr Klumpen Vienna](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/sd4394/56_week_grs_dr_angel_dr_klumpen_vienna/content.html) by InsaneGothChick in 2022
+    * [PI Flap GRS Week 2 Pictures and Day 5](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/s9naml/pi_flap_grs_week_2_pictures_and_day_5/content.html) by InsaneGothChick in 2022
 
 Transgender Austria
 
@@ -101,11 +101,11 @@ Surgeons sites
 
 reddit
 
-* [Wtf is wrong with my inner labia's](https://www.reddit.com/r/Transgender_Surgeries/comments/1dxsb7b/wtf_is_wrong_with_my_inner_labias/) by SubliminalRM in 2024
-    * [Orgasm 5 weeks Post OP feels "weird but good"](https://www.reddit.com/r/Transgender_Surgeries/comments/1dp1992/orgasm_5_weeks_post_op_feels_weird_but_good/) by SubliminalRM in 2024
-    * [Bottom surgery (recovery) making me depressed](https://www.reddit.com/r/Transgender_Surgeries/comments/1d720w9/bottom_surgery_recovery_making_me_depressed/) by SubliminalRM in 2024
-* [5-6 Week GRS Dr Angel & Dr Klumpen Vienna](https://www.reddit.com/r/Transgender_Surgeries/comments/sd4394/56_week_grs_dr_angel_dr_klumpen_vienna/) by InsaneGothChick in 2022
-    * [PI Flap GRS Week 2 Pictures and Day 5](https://www.reddit.com/r/Transgender_Surgeries/comments/s9naml/pi_flap_grs_week_2_pictures_and_day_5/) by InsaneGothChick in 2022
+* [Wtf is wrong with my inner labia's](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1dxsb7b/wtf_is_wrong_with_my_inner_labias/content.html) by SubliminalRM in 2024
+    * [Orgasm 5 weeks Post OP feels "weird but good"](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1dp1992/orgasm_5_weeks_post_op_feels_weird_but_good/content.html) by SubliminalRM in 2024
+    * [Bottom surgery (recovery) making me depressed](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1d720w9/bottom_surgery_recovery_making_me_depressed/content.html) by SubliminalRM in 2024
+* [5-6 Week GRS Dr Angel & Dr Klumpen Vienna](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/sd4394/56_week_grs_dr_angel_dr_klumpen_vienna/content.html) by InsaneGothChick in 2022
+    * [PI Flap GRS Week 2 Pictures and Day 5](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/s9naml/pi_flap_grs_week_2_pictures_and_day_5/content.html) by InsaneGothChick in 2022
 
 <br />
 
@@ -140,7 +140,7 @@ https://www.landeskrankenhaus.at/news/primarius-priv-doz-dr-gabriel-djedovic-hat
 
 reddit
 
-* [3 Weeks Post OP](https://www.reddit.com/r/Transgender_Surgeries/comments/170karf/3_weeks_post_op/) by _Hanna_S_ in 2023
+* [3 Weeks Post OP](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/170karf/3_weeks_post_op/content.html) by _Hanna_S_ in 2023
 
 **Non-photo links**
 
@@ -158,12 +158,12 @@ Location
 
 reddit
 
-* [Results from Dr.haslik look bad even 6 months post revision](https://www.reddit.com/r/Transgender_Surgeries/comments/1741bwa/results_from_drhaslik_look_bad_even_6_months_post/) by Captivity1597 in 2023 - *"My clitoris isn't very hidden and I have this red "spongy body" (is what Google translate calls "schwellkörper". Im not a doctor but i think it is/was my prostate?) hanging out. The thing is that if I pull down the lower end towards the anus it actually starts looking like a normal vagina. The red part still sticks out a bit but I don't think that's unfixable."*
-* [MTF 23 y/o; 7months post-op srs, I’m curious about what you think how the result is? (I’m in fear that It looks unnatural or something)](https://www.reddit.com/r/Transgender_Surgeries/comments/nd44mw/mtf_23_yo_7months_postop_srs_im_curious_about/) by selli-the-fishgirl in 2021
+* [Results from Dr.haslik look bad even 6 months post revision](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1741bwa/results_from_drhaslik_look_bad_even_6_months_post/content.html) by Captivity1597 in 2023 - *"My clitoris isn't very hidden and I have this red "spongy body" (is what Google translate calls "schwellkörper". Im not a doctor but i think it is/was my prostate?) hanging out. The thing is that if I pull down the lower end towards the anus it actually starts looking like a normal vagina. The red part still sticks out a bit but I don't think that's unfixable."*
+* [MTF 23 y/o; 7months post-op srs, I’m curious about what you think how the result is? (I’m in fear that It looks unnatural or something)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nd44mw/mtf_23_yo_7months_postop_srs_im_curious_about/content.html) by selli-the-fishgirl in 2021
 
 **Non-photo links**
 
-* reply [Dr. Schrögendorfer will get replaced by Dr. Haslik](https://www.reddit.com/r/Transgender_Surgeries/comments/8ysw57/a_collection_of_links_to_photos_of_srs_results/e2dfihd/) in 2018
+* reply [Dr. Schrögendorfer will get replaced by Dr. Haslik](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/8ysw57/a_collection_of_links_to_photos_of_srs_results/e2dfihd/content.html) in 2018
 
 <br />
 
@@ -179,7 +179,7 @@ Sites
 
 reddit
 
-* [I just found that Ghent University Hospital in Belgium operates the most number of srs case in Europe and wondering why is it hard to see any reviews from there despite of it's fame ...? Is that the reason because it took almost 4 years for reservations or Is it because of cost?](https://www.reddit.com/r/Transgender_Surgeries/comments/ur5njy/i_just_found_that_ghent_university_hospital_in/) by Stunning-Living-3786 in 2022
+* [I just found that Ghent University Hospital in Belgium operates the most number of srs case in Europe and wondering why is it hard to see any reviews from there despite of it's fame ...? Is that the reason because it took almost 4 years for reservations or Is it because of cost?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ur5njy/i_just_found_that_ghent_university_hospital_in/content.html) by Stunning-Living-3786 in 2022
 
 <br />
 
@@ -195,11 +195,11 @@ http://am2016.aace.com/presentations/friday/F22/transgender_monstrey.pdf
 
 reddit
 
-* [swollen urethra or prolapse?](https://www.reddit.com/r/Transgender_Surgeries/comments/xwl43i/swollen_urethra_or_prolapse/) by iwishyouwouldcare in 2022
-* [1 week post srs question](https://www.reddit.com/r/Transgender_Surgeries/comments/r4red7/1_week_post_srs_question/) by iwishyouwouldcare in 2022
-* [Prof monstrey mtf bottom surgery result ?](https://www.reddit.com/r/Transgender_Surgeries/comments/lmltvc/prof_monstrey_mtf_bottom_surgery_result/) by  Quicksilvercyanide in 2021
+* [swollen urethra or prolapse?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xwl43i/swollen_urethra_or_prolapse/content.html) by iwishyouwouldcare in 2022
+* [1 week post srs question](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/r4red7/1_week_post_srs_question/content.html) by iwishyouwouldcare in 2022
+* [Prof monstrey mtf bottom surgery result ?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lmltvc/prof_monstrey_mtf_bottom_surgery_result/content.html) by  Quicksilvercyanide in 2021
 * [Vaginoplasty and repair surgeries](https://www.reddit.com/r/asktransgender/comments/ctgtsy/vaginoplasty_and_repair_surgeries/) by SkinAndScales in 2019
-* [Does anyone have experience with Dr. Monstrey (Belgium)?](https://www.reddit.com/r/Transgender_Surgeries/comments/clnt9g/does_anyone_have_experience_with_dr_monstrey/) by M8R1X in 2019
+* [Does anyone have experience with Dr. Monstrey (Belgium)?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/clnt9g/does_anyone_have_experience_with_dr_monstrey/content.html) by M8R1X in 2019
 * [2 months post op srs in belgium AMA](https://www.reddit.com/r/asktransgender/comments/9w722m/2_months_post_op_srs_in_belgium_ama/) by EclipseStarx in 2018
 * [2 months post-op SRS & BA (Belgium, Monstrey) AMA & some thoughts](https://www.reddit.com/r/asktransgender/comments/950m50/2_months_postop_srs_ba_belgium_monstrey_ama_some/) by Aria_Luna in 2018
 * [SRS recovery is tough. I underestimated it.](https://www.reddit.com/r/asktransgender/comments/8tayke/srs_recovery_is_tough_i_underestimated_it/) by Aria_Luna
@@ -257,28 +257,28 @@ Surgeons sites
 
 reddit
 
-* [1 year post op. any advice? SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/1ibj2bf/1_year_post_op_any_advice_srs/) by Ellen85BE in 2025
-* [Results 5 months post op (dr houtmeyers, belgium 29/07/2024)](https://www.reddit.com/r/Transgender_Surgeries/comments/1hovyzf/results_5_months_post_op_dr_houtmeyers_belgium/) by SarahPostOp in 2024
-* [End result after 1 year and half of my GRS with Dr.Houtmeyers. Sadly I went through a big depression and my vagina closed of due to not dilating but besides that I am very happy with the aesthetic.](https://www.reddit.com/r/Transgender_Surgeries/comments/1f80eke/end_result_after_1_year_and_half_of_my_grs_with/) by penelopeeeeee1 in 2024
-    * [My trans body post everything, finally got my revision for GRS]https://www.reddit.com/r/Transgender_Surgeries/comments/17ick13/my_trans_body_post_everything_finally_got_my/) by penelopeeeeee1 in 2024
-    * [Pelvic muscles making dilating HELL. 3 month an a half post op.](https://www.reddit.com/r/Transgender_Surgeries/comments/159gbna/pelvic_muscles_making_dilating_hell_3_month_an_a/) by penelopeeeeee1 in 2024
-    * [Did anyone had a vagina remotely close looking as mine at 1 month post op?](https://www.reddit.com/r/Transgender_Surgeries/comments/13nngds/did_anyone_had_a_vagina_remotely_close_looking_as/) by penelopeeeeee1 in 2023
-    * [1 month post op PI , swollen clitoris and depth](https://www.reddit.com/r/Transgender_Surgeries/comments/13k0tmd/1_month_post_op_pi_swollen_clitoris_and_depth/)  by penelopeeeeee1 in 2023
-* [Vaginoplasty Dr Houtmeyers in Belgium 29/07/24. WARNING: wound visible in second picture.](https://www.reddit.com/r/Transgender_Surgeries/comments/1f0zivp/vaginoplasty_dr_houtmeyers_in_belgium_290724/) by SarahPostOp in 2024
-* [Everything works great no complications no bleeding no ugly scars peeing everythin works i have great sense feeling clitoral part dialating no pain time to go home and hope everything heals further thanks dr houtmeyers sint niklaas belgium vitaz mtf srs](https://www.reddit.com/r/Transgender_Surgeries/comments/1f0t4yb/everything_works_great_no_complications_no/) by NewOutlandishness916 in 2024
-    * [6 days post op by dr. Houtmeyers sint niklaas vitaz belgium #srs #trans #mtf #transbelgium #transgender #grs #vaginoplasty #vaginoplastie](https://www.reddit.com/r/Transgender_Surgeries/comments/1f0dsio/6_days_post_op_by_dr_houtmeyers_sint_niklaas/) by NewOutlandishness916 in 2024
-* [I had an operation by Doctor Houtmeyers (Belgium) 23 months ago. I am happy and fulfilled.](https://www.reddit.com/r/Transgender_Surgeries/comments/1e0nr9h/i_had_an_operation_by_doctor_houtmeyers_belgium/) by Tarkanne02 in 2024
-* [8-12 months post OP Dr houtmeyers](https://www.reddit.com/r/Transgender_Surgeries/comments/11156yw/812_months_post_op_dr_houtmeyers/) by throwaway35668 in 2023
-* [Intraoperative and immediately post op peritoneal vaginoplasty (surgical photos)](https://www.reddit.com/r/Transgender_Surgeries/comments/u14jbv/intraoperative_and_immediately_post_op_peritoneal/) by Hot-Object-7746
+* [1 year post op. any advice? SRS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ibj2bf/1_year_post_op_any_advice_srs/content.html) by Ellen85BE in 2025
+* [Results 5 months post op (dr houtmeyers, belgium 29/07/2024)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hovyzf/results_5_months_post_op_dr_houtmeyers_belgium/content.html) by SarahPostOp in 2024
+* [End result after 1 year and half of my GRS with Dr.Houtmeyers. Sadly I went through a big depression and my vagina closed of due to not dilating but besides that I am very happy with the aesthetic.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1f80eke/end_result_after_1_year_and_half_of_my_grs_with/content.html) by penelopeeeeee1 in 2024
+    * [My trans body post everything, finally got my revision for GRS]https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/17ick13/my_trans_body_post_everything_finally_got_my/content.html) by penelopeeeeee1 in 2024
+    * [Pelvic muscles making dilating HELL. 3 month an a half post op.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/159gbna/pelvic_muscles_making_dilating_hell_3_month_an_a/content.html) by penelopeeeeee1 in 2024
+    * [Did anyone had a vagina remotely close looking as mine at 1 month post op?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13nngds/did_anyone_had_a_vagina_remotely_close_looking_as/content.html) by penelopeeeeee1 in 2023
+    * [1 month post op PI , swollen clitoris and depth](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13k0tmd/1_month_post_op_pi_swollen_clitoris_and_depth/content.html)  by penelopeeeeee1 in 2023
+* [Vaginoplasty Dr Houtmeyers in Belgium 29/07/24. WARNING: wound visible in second picture.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1f0zivp/vaginoplasty_dr_houtmeyers_in_belgium_290724/content.html) by SarahPostOp in 2024
+* [Everything works great no complications no bleeding no ugly scars peeing everythin works i have great sense feeling clitoral part dialating no pain time to go home and hope everything heals further thanks dr houtmeyers sint niklaas belgium vitaz mtf srs](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1f0t4yb/everything_works_great_no_complications_no/content.html) by NewOutlandishness916 in 2024
+    * [6 days post op by dr. Houtmeyers sint niklaas vitaz belgium #srs #trans #mtf #transbelgium #transgender #grs #vaginoplasty #vaginoplastie](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1f0dsio/6_days_post_op_by_dr_houtmeyers_sint_niklaas/content.html) by NewOutlandishness916 in 2024
+* [I had an operation by Doctor Houtmeyers (Belgium) 23 months ago. I am happy and fulfilled.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1e0nr9h/i_had_an_operation_by_doctor_houtmeyers_belgium/content.html) by Tarkanne02 in 2024
+* [8-12 months post OP Dr houtmeyers](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/11156yw/812_months_post_op_dr_houtmeyers/content.html) by throwaway35668 in 2023
+* [Intraoperative and immediately post op peritoneal vaginoplasty (surgical photos)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/u14jbv/intraoperative_and_immediately_post_op_peritoneal/content.html) by Hot-Object-7746
 in 2022
 
 **Non-photo links**
 
 reddit
 
-* reply to [For those who have had ppt or ppv for over a year or two; are there any drawbacks or regrets?](https://www.reddit.com/r/Transgender_Surgeries/comments/zrfjbp/for_those_who_have_had_ppt_or_ppv_for_over_a_year/j15x17a/) by MissDais in 2022 - *"Almost a year post op have a scar ring wich makes dialating hard and the surgeon just did a bad external job"*
-* [Information on Dr. Phillip Houtmeyers?](https://www.reddit.com/r/Transgender_Surgeries/comments/vo6ht9/information_on_dr_phillip_houtmeyers/) by AHastyPie in 2022
-* [1 month post op ppt](https://www.reddit.com/r/Transgender_Surgeries/comments/uln3cr/1_month_post_op_ppt/) by BoredDais in 2022
+* reply to [For those who have had ppt or ppv for over a year or two; are there any drawbacks or regrets?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zrfjbp/for_those_who_have_had_ppt_or_ppv_for_over_a_year/j15x17a/content.html) by MissDais in 2022 - *"Almost a year post op have a scar ring wich makes dialating hard and the surgeon just did a bad external job"*
+* [Information on Dr. Phillip Houtmeyers?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/vo6ht9/information_on_dr_phillip_houtmeyers/content.html) by AHastyPie in 2022
+* [1 month post op ppt](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uln3cr/1_month_post_op_ppt/content.html) by BoredDais in 2022
 * [My SRS experience with Dr Houtmeyers (Belgium)](https://www.reddit.com/r/asktransgender/comments/b3haz3/my_srs_experience_with_dr_houtmeyers_belgium/) by honaka_namnah in 2019
 * [Just went through SRS 5 days ago, can't sleep. What helped you lovely ppl with sleeping?](https://www.reddit.com/r/asktransgender/comments/97deoz/just_went_through_srs_5_days_ago_cant_sleep_what/) by Bolletjevet in 2018, and [\[NSFW\] Dillatation](https://www.reddit.com/r/asktransgender/comments/98obke/nsfw_dillatation/)
 
@@ -329,20 +329,20 @@ Surgeons sites
 
 reddit
 
-* [Dr Karel Claes, 10 month post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1f9hsi2/dr_karel_claes_10_month_post_op/) by Busy_Shelter_972 in 2024
-* [6 weeks post op PIV, Belgium](https://www.reddit.com/r/Transgender_Surgeries/comments/1ez9vjp/6_weeks_post_op_piv_belgium/) by thisissofiethrowaway in 2024
-    * [5 weeks post op PIV with Claes in Belgium](https://www.reddit.com/r/Transgender_Surgeries/comments/1es0lof/5_weeks_post_op_piv_with_claes_in_belgium/) by thisissofiethrowaway in 2024
-    * [1 month post op PIV, Claes in Belgium](https://www.reddit.com/r/Transgender_Surgeries/comments/1eouie7/1_month_post_op_piv_claes_in_belgium/) by thisissofiethrowaway in 2024
-    * [Day 27 post op Dr. Claes](https://www.reddit.com/r/Transgender_Surgeries/comments/1el1g16/day_27_post_op_dr_claes/) by thisissofiethrowaway in 2024
-    * [Day 23 post op PIV, Belgium](https://www.reddit.com/r/Transgender_Surgeries/comments/1ei6mrr/day_23_post_op_piv_belgium/) by thisissofiethrowaway in 2024
-    * [Day 17 post op PIV, Belgium](https://www.reddit.com/r/Transgender_Surgeries/comments/1edkaeu/day_17_post_op_piv_belgium/) by thisissofiethrowaway in 2024
-    * [10 days post op PIV](https://www.reddit.com/r/Transgender_Surgeries/comments/1e8l7se/10_days_post_op_piv/) by thisissofiethrowaway in 2024
-    * [Day 5 post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1e40bji/day_5_post_op/) by thisissofiethrowaway in 2024
-* [My trans body](https://www.reddit.com/r/Transgender_Surgeries/comments/174gr3c/my_trans_body/) by aWallflower-InBloom in 2023 - BA only done by Claes
-* [10 months post op - I learned to respect myself](https://www.reddit.com/r/Transgender_Surgeries/comments/15bh847/10_months_post_op_i_learned_to_respect_myself/) by Sufficient-Yam3137 in 2023
-* [(MtF Srs) 5 weeks post-op, labia stitches not healing](https://www.reddit.com/r/Transgender_Surgeries/comments/znetnp/mtf_srs_5_weeks_postop_labia_stitches_not_healing/) by Icy_Original_6171 in 2022
-    * [(MtF Srs) Penile Inversion 1 month post op results](https://www.reddit.com/r/Transgender_Surgeries/comments/zhehkc/mtf_srs_penile_inversion_1_month_post_op_results/) by Icy_Original_6171 in 2022
-* [3 months post-op SRS does look that bad because I am not happy with results?](https://www.reddit.com/r/Transgender_Surgeries/comments/wek2jy/3_months_postop_srs_does_look_that_bad_because_i/) by Legitimate_Ad6648 in 2022
+* [Dr Karel Claes, 10 month post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1f9hsi2/dr_karel_claes_10_month_post_op/content.html) by Busy_Shelter_972 in 2024
+* [6 weeks post op PIV, Belgium](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ez9vjp/6_weeks_post_op_piv_belgium/content.html) by thisissofiethrowaway in 2024
+    * [5 weeks post op PIV with Claes in Belgium](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1es0lof/5_weeks_post_op_piv_with_claes_in_belgium/content.html) by thisissofiethrowaway in 2024
+    * [1 month post op PIV, Claes in Belgium](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1eouie7/1_month_post_op_piv_claes_in_belgium/content.html) by thisissofiethrowaway in 2024
+    * [Day 27 post op Dr. Claes](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1el1g16/day_27_post_op_dr_claes/content.html) by thisissofiethrowaway in 2024
+    * [Day 23 post op PIV, Belgium](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ei6mrr/day_23_post_op_piv_belgium/content.html) by thisissofiethrowaway in 2024
+    * [Day 17 post op PIV, Belgium](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1edkaeu/day_17_post_op_piv_belgium/content.html) by thisissofiethrowaway in 2024
+    * [10 days post op PIV](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1e8l7se/10_days_post_op_piv/content.html) by thisissofiethrowaway in 2024
+    * [Day 5 post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1e40bji/day_5_post_op/content.html) by thisissofiethrowaway in 2024
+* [My trans body](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/174gr3c/my_trans_body/content.html) by aWallflower-InBloom in 2023 - BA only done by Claes
+* [10 months post op - I learned to respect myself](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/15bh847/10_months_post_op_i_learned_to_respect_myself/content.html) by Sufficient-Yam3137 in 2023
+* [(MtF Srs) 5 weeks post-op, labia stitches not healing](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/znetnp/mtf_srs_5_weeks_postop_labia_stitches_not_healing/content.html) by Icy_Original_6171 in 2022
+    * [(MtF Srs) Penile Inversion 1 month post op results](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zhehkc/mtf_srs_penile_inversion_1_month_post_op_results/content.html) by Icy_Original_6171 in 2022
+* [3 months post-op SRS does look that bad because I am not happy with results?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wek2jy/3_months_postop_srs_does_look_that_bad_because_i/content.html) by Legitimate_Ad6648 in 2022
 
 <br />
 
@@ -398,8 +398,8 @@ Sites
 
 reddit
 
-* [Post op srs czechia](https://www.reddit.com/r/Transgender_Surgeries/comments/1b19ci9/post_op_srs_czechia/) by Capable_Gene_2793 in 2024 - *" I had my vaginoplasty done in 2014 in Prague... I think it has flaws esthetically but I'm ok with it My depth is 5 inches (13 cm) I have good sensation and I'm orgasmic. (Super intense :D)"*
-* [Long perineum :(](https://www.reddit.com/r/Transgender_Surgeries/comments/zh7sws/long_perineum/) by Nikola_Ivy in 2022 - *"... I’m 2 months post op and I m kinda panicking that my perineum (gap between anus and vagina) is way to big.. around 8-9 cm... I had penile inversion flap without any graft and got only about 8 cm"*
+* [Post op srs czechia](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1b19ci9/post_op_srs_czechia/content.html) by Capable_Gene_2793 in 2024 - *" I had my vaginoplasty done in 2014 in Prague... I think it has flaws esthetically but I'm ok with it My depth is 5 inches (13 cm) I have good sensation and I'm orgasmic. (Super intense :D)"*
+* [Long perineum :(](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zh7sws/long_perineum/content.html) by Nikola_Ivy in 2022 - *"... I’m 2 months post op and I m kinda panicking that my perineum (gap between anus and vagina) is way to big.. around 8-9 cm... I had penile inversion flap without any graft and got only about 8 cm"*
 
 Papers
 
@@ -421,11 +421,11 @@ http://www.translide.cz/reportaz-na-koze
 
 reddit
 
-* [SRS went wrong. Problem with health insurance in abroad](https://www.reddit.com/r/Transgender_Surgeries/comments/191hz43/srs_went_wrong_problem_with_health_insurance_in/) by Laurinka21 in 2024
-    * [SRS went totally wrong due to an infection. Big clitoris looking like penis head, no hood, almost zero depth, labia majora asymmetry, too much skin everywhere, problem with pissing. 2 years after SRS, 2 revisions. I am waiting for third revision but I have lost all hope already.](https://www.reddit.com/r/Transgender_Surgeries/comments/sglsct/srs_went_totally_wrong_due_to_an_infection_big/) by Laurinka21 in 2022
-* reply to [When Surgeons Fail Their Trans Patients on Gender Confirming Surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/icsahu/when_surgeons_fail_their_trans_patients_on_gender/kbfxnwu/) by AyenneTeajay in 2023 - *" had a surgery with Dr Jiří Veselý in Brno, Czech Republic on the 7th of November 2022. The result is terrible. Very ugly, very asymetric, a lot of excess skin hanging around, still painful, some parts are not sensitive, huge clitoris which is essentially a penis head left almost as it was. Depth is max 7 cm. It's all still a bit swollen after one year. I have incontinence... As far as I know, Dr Veselý's results are considered amongst the best here in Czech Republic so I don't even want to imagine what are the worst... I went for all this unforeseen ordeal just because it was covered by my healthcare insurance and I didn't expect such an outcome. If I knew, I would never go for that."*
-    * [MTF Surgery revision in Lubos Klinik - opinions?](https://www.reddit.com/r/Transgender_Surgeries/comments/187q3hm/mtf_surgery_revision_in_lubos_klinik_opinions/) by AyenneTeajay in 2023
-    * [3 months post-op results, Dr Jiří Veselý (Brno, Czech Republic) - kind of functional, but kind of ugly...](https://www.reddit.com/r/Transgender_Surgeries/comments/1102uvl/3_months_postop_results_dr_ji%C5%99%C3%AD_vesel%C3%BD_brno_czech/) by AyenneTeajay in 2023 - *"I found this article here on reddit from a girl who had surgery with him in 2019 and she was quite unhappy with the results. I got worried that I might end up the same way and sadly, my results aren't much different as you can see on the photos below... From the beginning till now, I manage to get in 7-8 cm in with a dilator. He said that I can expect maximum 9 cm depth, given the initial penis size of 14 cm erected... I am very bothered by the aesthetics - a huge penis-like clit, unhooded, a lot of hanging skin which is supposed to be the outer labiae, the vaginal opening looks like a separate entity, not being part of the vulva, and it's overall very asymetric - the entire clitoral structure is rotated to the right and the rest of the tissue follows it."*
+* [SRS went wrong. Problem with health insurance in abroad](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/191hz43/srs_went_wrong_problem_with_health_insurance_in/content.html) by Laurinka21 in 2024
+    * [SRS went totally wrong due to an infection. Big clitoris looking like penis head, no hood, almost zero depth, labia majora asymmetry, too much skin everywhere, problem with pissing. 2 years after SRS, 2 revisions. I am waiting for third revision but I have lost all hope already.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/sglsct/srs_went_totally_wrong_due_to_an_infection_big/content.html) by Laurinka21 in 2022
+* reply to [When Surgeons Fail Their Trans Patients on Gender Confirming Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/icsahu/when_surgeons_fail_their_trans_patients_on_gender/kbfxnwu/content.html) by AyenneTeajay in 2023 - *" had a surgery with Dr Jiří Veselý in Brno, Czech Republic on the 7th of November 2022. The result is terrible. Very ugly, very asymetric, a lot of excess skin hanging around, still painful, some parts are not sensitive, huge clitoris which is essentially a penis head left almost as it was. Depth is max 7 cm. It's all still a bit swollen after one year. I have incontinence... As far as I know, Dr Veselý's results are considered amongst the best here in Czech Republic so I don't even want to imagine what are the worst... I went for all this unforeseen ordeal just because it was covered by my healthcare insurance and I didn't expect such an outcome. If I knew, I would never go for that."*
+    * [MTF Surgery revision in Lubos Klinik - opinions?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/187q3hm/mtf_surgery_revision_in_lubos_klinik_opinions/content.html) by AyenneTeajay in 2023
+    * [3 months post-op results, Dr Jiří Veselý (Brno, Czech Republic) - kind of functional, but kind of ugly...](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1102uvl/3_months_postop_results_dr_ji%C5%99%C3%AD_vesel%C3%BD_brno_czech/content.html) by AyenneTeajay in 2023 - *"I found this article here on reddit from a girl who had surgery with him in 2019 and she was quite unhappy with the results. I got worried that I might end up the same way and sadly, my results aren't much different as you can see on the photos below... From the beginning till now, I manage to get in 7-8 cm in with a dilator. He said that I can expect maximum 9 cm depth, given the initial penis size of 14 cm erected... I am very bothered by the aesthetics - a huge penis-like clit, unhooded, a lot of hanging skin which is supposed to be the outer labiae, the vaginal opening looks like a separate entity, not being part of the vulva, and it's overall very asymetric - the entire clitoral structure is rotated to the right and the rest of the tissue follows it."*
 
 **Non-photo links**
 
@@ -446,9 +446,9 @@ Surgeons sites
 
 reddit
 
-* [MtF SRS Dr. Fontana (Prague, Czech Republic) - First 2 weeks (Very swollen), Info in comments](https://www.reddit.com/r/Transgender_Surgeries/comments/1ic99sd/mtf_srs_dr_fontana_prague_czech_republic_first_2/) by EpicTransGalSurgery in 2025
-* [7months post srs by fontana in czechia (day 1-7 months pics) last 2 done today](https://www.reddit.com/r/Transgender_Surgeries/comments/1erz19j/7months_post_srs_by_fontana_in_czechia_day_17/) by Misha_CZe in 2024
-    * [Had srs done week ago (czechia)](https://www.reddit.com/r/Transgender_Surgeries/comments/1989r9k/had_srs_done_week_ago_czechia/) by Misha_CZe in 2024
+* [MtF SRS Dr. Fontana (Prague, Czech Republic) - First 2 weeks (Very swollen), Info in comments](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ic99sd/mtf_srs_dr_fontana_prague_czech_republic_first_2/content.html) by EpicTransGalSurgery in 2025
+* [7months post srs by fontana in czechia (day 1-7 months pics) last 2 done today](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1erz19j/7months_post_srs_by_fontana_in_czechia_day_17/content.html) by Misha_CZe in 2024
+    * [Had srs done week ago (czechia)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1989r9k/had_srs_done_week_ago_czechia/content.html) by Misha_CZe in 2024
 
 <br />
 
@@ -493,10 +493,10 @@ Surgeons sites
 
 reddit
 
-* [Confused about my result🤔 penile inversion](https://www.reddit.com/r/Transgender_Surgeries/comments/wdnwd1/confused_about_my_result_penile_inversion/) by Adorable_Present8627 in 2022
-    * [5 weeks srs picture. I have questions, will post them in comments](https://www.reddit.com/r/Transgender_Surgeries/comments/wbro8r/5_weeks_srs_picture_i_have_questions_will_post/) by Adorable_Present8627
+* [Confused about my result🤔 penile inversion](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wdnwd1/confused_about_my_result_penile_inversion/content.html) by Adorable_Present8627 in 2022
+    * [5 weeks srs picture. I have questions, will post them in comments](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wbro8r/5_weeks_srs_picture_i_have_questions_will_post/content.html) by Adorable_Present8627
     * [1 month post up bottom ask me anything!](https://www.reddit.com/r/MtF/comments/w6wkrf/1_month_post_up_bottom_ask_me_anything/) by Adorable_Present8627 in 2022
-* [Possible partial prolapse of girlfriends neovagina ?](https://www.reddit.com/r/Transgender_Surgeries/comments/d8urlj/possible_partial_prolapse_of_girlfriends_neovagina/) by Kristinedk86 in 2019
+* [Possible partial prolapse of girlfriends neovagina ?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/d8urlj/possible_partial_prolapse_of_girlfriends_neovagina/content.html) by Kristinedk86 in 2019
 
 **Non-photo links**
 
@@ -516,11 +516,11 @@ Sites
 reddit
 
 * [r/transnord](https://www.reddit.com/r/transnord)
-* [Concerned that doctors did zero depth without informing me](https://www.reddit.com/r/Transgender_Surgeries/comments/1gu88h6/concerned_that_doctors_did_zero_depth_without/) by  Precious_Cassandra in 2024 - *"I had told the doctor that I didn't care about external aesthetics, but wanted as much depth as possible.  They examined me prior to surgery and said they'd have no problem... There's just no depth.  No matter how I angle the dilator 4-5 cm is all there is.  I can feel hard wall behind that point.  (It isn't a wound or stitches or an obstruction... It's just hard wall in every direction at 4-5 cm."*
+* [Concerned that doctors did zero depth without informing me](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1gu88h6/concerned_that_doctors_did_zero_depth_without/content.html) by  Precious_Cassandra in 2024 - *"I had told the doctor that I didn't care about external aesthetics, but wanted as much depth as possible.  They examined me prior to surgery and said they'd have no problem... There's just no depth.  No matter how I angle the dilator 4-5 cm is all there is.  I can feel hard wall behind that point.  (It isn't a wound or stitches or an obstruction... It's just hard wall in every direction at 4-5 cm."*
 * [SRS in Finland?](https://www.reddit.com/r/transnord/comments/koyo65/srs_in_finland/) by PhilosopherRat in 2020
 * [How do I cope with genital dysphoria and deal with the panic about surgery?](https://www.reddit.com/r/asktransgender/comments/f7pu8o/how_do_i_cope_with_genital_dysphoria_and_deal/) by RecycledTransAccount in 2020
-* [Dilation not required in penile inversion?](https://www.reddit.com/r/Transgender_Surgeries/comments/ci8g27/dilation_not_required_in_penile_inversion/) by taikatytto in 2019
-* [Anyone had srs in finland?](https://www.reddit.com/r/Transgender_Surgeries/comments/c5wghs/anyone_had_srs_in_finland/) by Emilia-Masterrace in 2019
+* [Dilation not required in penile inversion?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ci8g27/dilation_not_required_in_penile_inversion/content.html) by taikatytto in 2019
+* [Anyone had srs in finland?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/c5wghs/anyone_had_srs_in_finland/content.html) by Emilia-Masterrace in 2019
 * [Looking for an article about Chinese transition regretters](https://www.reddit.com/r/MtF/comments/aptysp/looking_for_an_article_about_chinese_transition/) by Kuunkulta in 2019
 
 ## Juho Salo
@@ -535,7 +535,7 @@ Surgeons sites
 
 reddit
 
-* [SRS at Töölö(Finland public healthcare) pictures](https://www.reddit.com/r/Transgender_Surgeries/comments/1acr9c0/srs_at_t%C3%B6%C3%B6l%C3%B6finland_public_healthcare_pictures/)
+* [SRS at Töölö(Finland public healthcare) pictures](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1acr9c0/srs_at_t%C3%B6%C3%B6l%C3%B6finland_public_healthcare_pictures/content.html)
 
 **Non-photo links**
 
@@ -551,7 +551,7 @@ Papers
 
 reddit
 
-* [Vaginoplasty, sex reassignment surgery. 19.09.2023 HUS Puistosairaala, Helsinki Finland. From first week to 7 months post op. Warning! The first week is graphic kinda.](https://www.reddit.com/r/Transgender_Surgeries/comments/1clne3p/vaginoplasty_sex_reassignment_surgery_19092023/) by Lumihiutales in 2024
+* [Vaginoplasty, sex reassignment surgery. 19.09.2023 HUS Puistosairaala, Helsinki Finland. From first week to 7 months post op. Warning! The first week is graphic kinda.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1clne3p/vaginoplasty_sex_reassignment_surgery_19092023/content.html) by Lumihiutales in 2024
 
 <br />
 
@@ -559,7 +559,7 @@ reddit
 
 reddit
 
-* [Vaginoplasty, sex reassignment surgery. 19.09.2023 HUS Puistosairaala, Helsinki Finland. From first week to 7 months post op. Warning! The first week is graphic kinda.](https://www.reddit.com/r/Transgender_Surgeries/comments/1clne3p/vaginoplasty_sex_reassignment_surgery_19092023/) by Lumihiutales in 2024
+* [Vaginoplasty, sex reassignment surgery. 19.09.2023 HUS Puistosairaala, Helsinki Finland. From first week to 7 months post op. Warning! The first week is graphic kinda.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1clne3p/vaginoplasty_sex_reassignment_surgery_19092023/content.html) by Lumihiutales in 2024
 
 <br />
 
@@ -571,7 +571,7 @@ reddit
 
 * [r/transgenre](https://www.reddit.com/r/transgenre)
 * [r/transgenre/wiki](https://www.reddit.com/r/transgenre/wiki)
-* [FRANCE 🇫🇷 : Given how difficult it is to find feedbacks from France, we created a Discord server for trans surgeries specifically for France ! You can submit photos or search for information totally anonymously.](https://www.reddit.com/r/Transgender_Surgeries/comments/kzs32n/france_given_how_difficult_it_is_to_find/) by  prrrmoterw in 2021
+* [FRANCE 🇫🇷 : Given how difficult it is to find feedbacks from France, we created a Discord server for trans surgeries specifically for France ! You can submit photos or search for information totally anonymously.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kzs32n/france_given_how_difficult_it_is_to_find/content.html) by  prrrmoterw in 2021
 
 YouTube
 
@@ -635,7 +635,7 @@ Surgeon sites
 
 reddit
 
-* [\[need advice\] repair MtF botched](https://www.reddit.com/r/Transgender_Surgeries/comments/eqvu5m/need_advice_repair_mtf_botched/) by ChloeTigre in 2020
+* [\[need advice\] repair MtF botched](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/eqvu5m/need_advice_repair_mtf_botched/content.html) by ChloeTigre in 2020
 
 i-trans (French)
 
@@ -667,11 +667,11 @@ Surgeons sites
 
 reddit
 
-* [Vulvoplaty 5 month post-op with dr. Marcelli (Lille, France)](https://www.reddit.com/r/Transgender_Surgeries/comments/15fvtqc/vulvoplaty_5_month_postop_with_dr_marcelli_lille/) by melanie_mntl in 2023
-* [SRS F with low depth 3 month post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/14hmz8f/srs_f_with_low_depth_3_month_postop/) by  freehentaisauces in 2023
-* [6 months post op with Dr Marcelli in Lille](https://www.reddit.com/r/Transgender_Surgeries/comments/10rbyga/6_months_post_op_with_dr_marcelli_in_lille/) by KoraLaKerelleuz in 2023
-    * [Update at nearly 5 months post SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/zi5bt5/update_at_nearly_5_months_post_srs/) by KoraLaKerelleuz in 2022
-    * [11 weeks post-op with Dr. Marcelli](https://www.reddit.com/r/Transgender_Surgeries/comments/xyxj2f/11_weeks_postop_with_dr_marcelli/) by KoraLaKerelleuz in 2022
+* [Vulvoplaty 5 month post-op with dr. Marcelli (Lille, France)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/15fvtqc/vulvoplaty_5_month_postop_with_dr_marcelli_lille/content.html) by melanie_mntl in 2023
+* [SRS F with low depth 3 month post-op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14hmz8f/srs_f_with_low_depth_3_month_postop/content.html) by  freehentaisauces in 2023
+* [6 months post op with Dr Marcelli in Lille](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10rbyga/6_months_post_op_with_dr_marcelli_in_lille/content.html) by KoraLaKerelleuz in 2023
+    * [Update at nearly 5 months post SRS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zi5bt5/update_at_nearly_5_months_post_srs/content.html) by KoraLaKerelleuz in 2022
+    * [11 weeks post-op with Dr. Marcelli](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xyxj2f/11_weeks_postop_with_dr_marcelli/content.html) by KoraLaKerelleuz in 2022
 
 **Non-photo links**
 
@@ -698,11 +698,11 @@ Surgeons sites
 
 reddit
 
-* [Vaginoplasty at 4months post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1angjfy/vaginoplasty_at_4months_post_op/) by  Accomplished-Frame15 in 2024
-* [Day 11 after SRS with Dr Marcelli (Lille, France)](https://www.reddit.com/r/Transgender_Surgeries/comments/wcytwv/day_11_after_srs_with_dr_marcelli_lille_france/) by KoraLaKerelleuz in 2022
-* [One year post op vaginoplasty 18 MtF](https://www.reddit.com/r/Transgender_Surgeries/comments/qf138s/one_year_post_op_vaginoplasty_18_mtf/) by VictoireBla in 2021
-    * [18 weeks post op srs (18 MtF), Still some swelling but happy with the results](https://www.reddit.com/r/Transgender_Surgeries/comments/mhfhws/18_weeks_post_op_srs_18_mtf_still_some_swelling/) by VictoireBla in 2021
-    * [6 weeks post srs, still swollen but pretty happy with the results ! What do y’all think ?](https://www.reddit.com/r/Transgender_Surgeries/comments/ksbn92/6_weeks_post_srs_still_swollen_but_pretty_happy/) by VictoireBla in 2021
+* [Vaginoplasty at 4months post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1angjfy/vaginoplasty_at_4months_post_op/content.html) by  Accomplished-Frame15 in 2024
+* [Day 11 after SRS with Dr Marcelli (Lille, France)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wcytwv/day_11_after_srs_with_dr_marcelli_lille_france/content.html) by KoraLaKerelleuz in 2022
+* [One year post op vaginoplasty 18 MtF](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qf138s/one_year_post_op_vaginoplasty_18_mtf/content.html) by VictoireBla in 2021
+    * [18 weeks post op srs (18 MtF), Still some swelling but happy with the results](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mhfhws/18_weeks_post_op_srs_18_mtf_still_some_swelling/content.html) by VictoireBla in 2021
+    * [6 weeks post srs, still swollen but pretty happy with the results ! What do y’all think ?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ksbn92/6_weeks_post_srs_still_swollen_but_pretty_happy/content.html) by VictoireBla in 2021
 
 **Non-photo links**
 
@@ -730,7 +730,7 @@ Surgeons sites
 
 reddit
 
-* [SRS Surgeon recommendations in France](https://www.reddit.com/r/Transgender_Surgeries/comments/kz3jei/srs_surgeon_recommendations_in_france/) by  JeffersonTheCatBoi in 2021
+* [SRS Surgeon recommendations in France](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kz3jei/srs_surgeon_recommendations_in_france/content.html) by  JeffersonTheCatBoi in 2021
 
 Other
 
@@ -755,13 +755,13 @@ Surgeons sites
 
 reddit
 
-* [\[SRS/PIV\] 4 months post-op vaginoplasty results in France](https://www.reddit.com/r/Transgender_Surgeries/comments/1985by9/srspiv_4_months_postop_vaginoplasty_results_in/) by chlorure_22 in 2024
-    * [\[SRS\] Why is some skin turning white on my vulva ?](https://www.reddit.com/r/Transgender_Surgeries/comments/185iaxa/srs_why_is_some_skin_turning_white_on_my_vulva/) by chlorure_22 in 2023
-    * [\[Update\] SRS at 9 weeks post-op : is it healing well ?](https://www.reddit.com/r/Transgender_Surgeries/comments/17vgc80/update_srs_at_9_weeks_postop_is_it_healing_well/) by chlorure_22 in 2023
-    * [7 weeks post-op SRS : is everything healing right ?](https://www.reddit.com/r/Transgender_Surgeries/comments/17mebn2/7_weeks_postop_srs_is_everything_healing_right/) by chlorure_22 in 2023
-    * [Is it risky to masturbate/orgasm too soon after SRS ? ](https://www.reddit.com/r/Transgender_Surgeries/comments/178pli5/is_it_risky_to_masturbateorgasm_too_soon_after_srs/) by chlorure_22 in 2023
-* [30 days post op honest timeline (SRS PI)](https://www.reddit.com/r/Transgender_Surgeries/comments/wub2vr/30_days_post_op_honest_timeline_srs_pi/) by  tg-goldfish in 2022
-* [NSFW - Srs after 3 months](https://www.reddit.com/r/Transgender_Surgeries/comments/orc1zl/nsfw_srs_after_3_months/) by Bloombox78 in 2021
+* [\[SRS/PIV\] 4 months post-op vaginoplasty results in France](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1985by9/srspiv_4_months_postop_vaginoplasty_results_in/content.html) by chlorure_22 in 2024
+    * [\[SRS\] Why is some skin turning white on my vulva ?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/185iaxa/srs_why_is_some_skin_turning_white_on_my_vulva/content.html) by chlorure_22 in 2023
+    * [\[Update\] SRS at 9 weeks post-op : is it healing well ?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/17vgc80/update_srs_at_9_weeks_postop_is_it_healing_well/content.html) by chlorure_22 in 2023
+    * [7 weeks post-op SRS : is everything healing right ?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/17mebn2/7_weeks_postop_srs_is_everything_healing_right/content.html) by chlorure_22 in 2023
+    * [Is it risky to masturbate/orgasm too soon after SRS ? ](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/178pli5/is_it_risky_to_masturbateorgasm_too_soon_after_srs/content.html) by chlorure_22 in 2023
+* [30 days post op honest timeline (SRS PI)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wub2vr/30_days_post_op_honest_timeline_srs_pi/content.html) by  tg-goldfish in 2022
+* [NSFW - Srs after 3 months](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/orc1zl/nsfw_srs_after_3_months/content.html) by Bloombox78 in 2021
 
 **Non-photo links**
 
@@ -787,14 +787,14 @@ Surgeons sites
 
 reddit
 
-* [1 month and 2 weeks post op revision, 1 year and 5 months post op srs, I still don’t like the shape of my vulva the vagina and always outside the labia minora, what do you think?](https://www.reddit.com/r/Transgender_Surgeries/comments/18s69e7/1_month_and_2_weeks_post_op_revision_1_year_and_5/) by Morgan_041 in 2023
-    * [1years and 2months post op srs](https://www.reddit.com/r/Transgender_Surgeries/comments/16dfsfv/1years_and_2months_post_op_srs/) by Morgan_041 in 2023
-    * [1 year post op srs in few day](https://www.reddit.com/r/Transgender_Surgeries/comments/147s488/1_year_post_op_srs_in_few_day/) by Morgan_041 in 2023
-* [First orgasm post op](https://www.reddit.com/r/Transgender_Surgeries/comments/zqmio5/first_orgasm_post_op/) by Julie2407 in 2022
-    * [Different view of my pussy, 5 months post op](https://www.reddit.com/r/Transgender_Surgeries/comments/znrmkk/different_view_of_my_pussy_5_months_post_op/) by Julie2407 in 2022
-    * [SRS result at 2 months and 6 days post op , no major complication, penile inversion method with scrotal skin graft , You can give your opinion, I’m not against](https://www.reddit.com/r/Transgender_Surgeries/comments/xgqd6o/srs_result_at_2_months_and_6_days_post_op_no/) by Julie2407 in 2022
-* [My GRS/SRS (MtF) - 3 Month post-op - Dr Terrier (Lyon, France)](https://www.reddit.com/r/Transgender_Surgeries/comments/wx6tuk/my_grssrs_mtf_3_month_postop_dr_terrier_lyon/) by Mon_Corps_A_Moi in 2022
-    * [My GRS/SRS 2 month post-op - Dr Terrier (Lyon, France)](https://www.reddit.com/r/Transgender_Surgeries/comments/voxy38/my_grssrs_2_month_postop_dr_terrier_lyon_france/) by Mon_Corps_A_Moi in 2022
+* [1 month and 2 weeks post op revision, 1 year and 5 months post op srs, I still don’t like the shape of my vulva the vagina and always outside the labia minora, what do you think?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18s69e7/1_month_and_2_weeks_post_op_revision_1_year_and_5/content.html) by Morgan_041 in 2023
+    * [1years and 2months post op srs](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16dfsfv/1years_and_2months_post_op_srs/content.html) by Morgan_041 in 2023
+    * [1 year post op srs in few day](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/147s488/1_year_post_op_srs_in_few_day/content.html) by Morgan_041 in 2023
+* [First orgasm post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zqmio5/first_orgasm_post_op/content.html) by Julie2407 in 2022
+    * [Different view of my pussy, 5 months post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/znrmkk/different_view_of_my_pussy_5_months_post_op/content.html) by Julie2407 in 2022
+    * [SRS result at 2 months and 6 days post op , no major complication, penile inversion method with scrotal skin graft , You can give your opinion, I’m not against](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xgqd6o/srs_result_at_2_months_and_6_days_post_op_no/content.html) by Julie2407 in 2022
+* [My GRS/SRS (MtF) - 3 Month post-op - Dr Terrier (Lyon, France)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wx6tuk/my_grssrs_mtf_3_month_postop_dr_terrier_lyon/content.html) by Mon_Corps_A_Moi in 2022
+    * [My GRS/SRS 2 month post-op - Dr Terrier (Lyon, France)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/voxy38/my_grssrs_2_month_postop_dr_terrier_lyon_france/content.html) by Mon_Corps_A_Moi in 2022
 
 **Non-photo links**
 
@@ -820,8 +820,8 @@ Surgeons sites
 
 reddit
 
-* [Colon vaginoplastie (My vagina is tight I made an appointment with a surgeon to Make it more open and large my hole and vagino )](https://www.reddit.com/r/Transgender_Surgeries/comments/14qigjh/colon_vaginoplastie_my_vagina_is_tight_i_made_an/) by Keizaa in 2023
-    * [Hey girls how it’s look?](https://www.reddit.com/r/Transgender_Surgeries/comments/14dssp1/hey_girls_how_its_look/) by Keizaa in 2023
+* [Colon vaginoplastie (My vagina is tight I made an appointment with a surgeon to Make it more open and large my hole and vagino )](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14qigjh/colon_vaginoplastie_my_vagina_is_tight_i_made_an/content.html) by Keizaa in 2023
+    * [Hey girls how it’s look?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14dssp1/hey_girls_how_its_look/content.html) by Keizaa in 2023
 
 <br />
 
@@ -834,10 +834,10 @@ reddit
 reddit
 
 *
-* [Vaginoplasty, 3 weeks post op, PIV Method, Dr Delchet](https://www.reddit.com/r/Transgender_Surgeries/comments/1gxak59/vaginoplasty_3_weeks_post_op_piv_method_dr_delchet/)
+* [Vaginoplasty, 3 weeks post op, PIV Method, Dr Delchet](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1gxak59/vaginoplasty_3_weeks_post_op_piv_method_dr_delchet/content.html)
 * [Day 11, bottom surgery, PIV Method, Dr Delchet](https://www.reddit.com/user/EmilyRetcherNSFW/comments/1gp0du4/day_11_bottom_surgery_piv_method_dr_delchet/)
-* [Day 7, Vaginoplasty with PIV Method, Dr Delchet](https://www.reddit.com/r/Transgender_Surgeries/comments/1gm17fg/day_7_vaginoplasty_with_piv_method_dr_delchet/)
-* [Vaginoplasty, PIV, Dr Delchet, Day 4](https://www.reddit.com/r/Transgender_Surgeries/comments/1gjcegk/vaginoplasty_piv_dr_delchet_day_4/) by EmilyRetcherNSFW in 2024
+* [Day 7, Vaginoplasty with PIV Method, Dr Delchet](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1gm17fg/day_7_vaginoplasty_with_piv_method_dr_delchet/content.html)
+* [Vaginoplasty, PIV, Dr Delchet, Day 4](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1gjcegk/vaginoplasty_piv_dr_delchet_day_4/content.html) by EmilyRetcherNSFW in 2024
 
 <br />
 
@@ -866,8 +866,8 @@ reddit
     * https://www.reddit.com/r/germantrans/wiki/index/gaop
     * https://www.reddit.com/r/germantrans/wiki/index/operationen/vaginoplastik
 * [German vaginoplasty surgeon comparison](https://www.reddit.com/r/germantrans/comments/11qn6mr/german_vaginoplasty_surgeon_comparison/) by cartwheel-joyride in 2023
-* [Bottom surgery MTF](https://www.reddit.com/r/Transgender_Surgeries/comments/fsz44i/bottom_surgery_mtf/) by AloneTour317 in 2020
-* reply to [Update on my SRS issues from 5 days ago](https://www.reddit.com/r/Transgender_Surgeries/comments/cch1r8/update_on_my_srs_issues_from_5_days_ago/eto40ix/) by ligg-e-woo in 2019
+* [Bottom surgery MTF](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/fsz44i/bottom_surgery_mtf/content.html) by AloneTour317 in 2020
+* reply to [Update on my SRS issues from 5 days ago](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/cch1r8/update_on_my_srs_issues_from_5_days_ago/eto40ix/content.html) by ligg-e-woo in 2019
 * reply to [SRS with Dr. Bank](https://www.reddit.com/r/asktransgender/comments/99sg54/srs_with_dr_bank/e4qm8bw/) in 2018 - this is about getting back the cost of SRS in Thailand *I can get the full surgery costs back from tax refunds. (but you need to proof that this surgery was neccessary, sooo first apply for surgery in Germany, which you wont take)*
 
 Susans
@@ -906,7 +906,7 @@ Surgeons sites
 
 reddit
 
-* [Srs team Krege in Essen Germany review](https://www.reddit.com/r/Transgender_Surgeries/comments/hfam4r/srs_team_krege_in_essen_germany_review/) by haru1987 in 2020
+* [Srs team Krege in Essen Germany review](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hfam4r/srs_team_krege_in_essen_germany_review/content.html) by haru1987 in 2020
 
 T-Nederland (in Dutch)
 
@@ -929,7 +929,7 @@ Surgeons sites
 
 reddit
 
-* [Srs team Krege in Essen Germany review](https://www.reddit.com/r/Transgender_Surgeries/comments/hfam4r/srs_team_krege_in_essen_germany_review/) by haru1987 in 2020
+* [Srs team Krege in Essen Germany review](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hfam4r/srs_team_krege_in_essen_germany_review/content.html) by haru1987 in 2020
 
 YouTube documentatary on Patti-Saoirse's SRS. Surgeon Julia Bohr is shown, but I'm not sure if she's the only surgeon.
 
@@ -949,7 +949,7 @@ Surgeons sites
 
 reddit
 
-* [Srs team Krege in Essen Germany review](https://www.reddit.com/r/Transgender_Surgeries/comments/hfam4r/srs_team_krege_in_essen_germany_review/) by haru1987 in 2020
+* [Srs team Krege in Essen Germany review](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hfam4r/srs_team_krege_in_essen_germany_review/content.html) by haru1987 in 2020
 
 <br />
 
@@ -971,55 +971,55 @@ Surgeons sites
 
 reddit
 
-* [Dr Schaff 2+ years](https://www.reddit.com/r/Transgender_Surgeries/comments/1hpw3lb/dr_schaff_2_years/) by No_Entrepreneur_6954 in 2024
-* [5 months (23 weeks) after combined method with Dr. Schaff (2. surgery/revision in two weeks)](https://www.reddit.com/r/Transgender_Surgeries/comments/1b24m6w/5_months_23_weeks_after_combined_method_with_dr/) by Awoolyx in 2024
-    * [Day 8 PostOP Combined Method (Dr. Schaff)](https://www.reddit.com/r/Transgender_Surgeries/comments/16sjbgz/day_8_postop_combined_method_dr_schaff/) by Awoolyx in 2023
-* [BEFORE/AFTER revision vulvoplasty (Dr Theerapong)](https://www.reddit.com/r/Transgender_Surgeries/comments/190slxr/beforeafter_revision_vulvoplasty_dr_theerapong/) by Adorable_Degree_7277 in 2024
-    * [8 months post-op rev colovaginoplasty w/ Dr Theerapong](https://www.reddit.com/r/Transgender_Surgeries/comments/190ru88/8_months_postop_rev_colovaginoplasty_w_dr/) by Adorable_Degree_7277 in 2024
-    * [PPV SRS with Dr Theerapong & Amani Thailand (6 & 18 Days PO)](https://www.reddit.com/r/Transgender_Surgeries/comments/17ysatc/ppv_srs_with_dr_theerapong_amani_thailand_6_18/) by Adventurous-Ad-3440 in 2023
-    * [6w post-op SRS revision w/ Dr Thee](https://www.reddit.com/r/Transgender_Surgeries/comments/14npqru/6w_postop_srs_revision_w_dr_thee/) by  Adorable_Degree_7277 in 2023
-    * [18 days post op - impressive labiaplasty results, Dr Theerapong is an artist](https://www.reddit.com/r/Transgender_Surgeries/comments/1408rv7/18_days_post_op_impressive_labiaplasty_results_dr/) by Adorable_Degree_7277 in 2023
-    * [AMA I had open colon srs revision with Dr Thee last week](https://www.reddit.com/r/Transgender_Surgeries/comments/13s2j92/ama_i_had_open_colon_srs_revision_with_dr_thee/) by Adorable_Degree_7277 in 2023 - *"Original surgery with Dr Schaff March 21. Circulation disturbance caused major bloodloss on day 3. in the end I only had 12cm depth, penetration impossible due to major pain at the entrance, and poor aesthetic."*
-* [GRS Dr Schaff 3y progress](https://www.reddit.com/r/Transgender_Surgeries/comments/13rmdxc/grs_dr_schaff_3y_progress/) by sonia_sadhbh in 2023
+* [Dr Schaff 2+ years](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hpw3lb/dr_schaff_2_years/content.html) by No_Entrepreneur_6954 in 2024
+* [5 months (23 weeks) after combined method with Dr. Schaff (2. surgery/revision in two weeks)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1b24m6w/5_months_23_weeks_after_combined_method_with_dr/content.html) by Awoolyx in 2024
+    * [Day 8 PostOP Combined Method (Dr. Schaff)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16sjbgz/day_8_postop_combined_method_dr_schaff/content.html) by Awoolyx in 2023
+* [BEFORE/AFTER revision vulvoplasty (Dr Theerapong)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/190slxr/beforeafter_revision_vulvoplasty_dr_theerapong/content.html) by Adorable_Degree_7277 in 2024
+    * [8 months post-op rev colovaginoplasty w/ Dr Theerapong](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/190ru88/8_months_postop_rev_colovaginoplasty_w_dr/content.html) by Adorable_Degree_7277 in 2024
+    * [PPV SRS with Dr Theerapong & Amani Thailand (6 & 18 Days PO)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/17ysatc/ppv_srs_with_dr_theerapong_amani_thailand_6_18/content.html) by Adventurous-Ad-3440 in 2023
+    * [6w post-op SRS revision w/ Dr Thee](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14npqru/6w_postop_srs_revision_w_dr_thee/content.html) by  Adorable_Degree_7277 in 2023
+    * [18 days post op - impressive labiaplasty results, Dr Theerapong is an artist](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1408rv7/18_days_post_op_impressive_labiaplasty_results_dr/content.html) by Adorable_Degree_7277 in 2023
+    * [AMA I had open colon srs revision with Dr Thee last week](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13s2j92/ama_i_had_open_colon_srs_revision_with_dr_thee/content.html) by Adorable_Degree_7277 in 2023 - *"Original surgery with Dr Schaff March 21. Circulation disturbance caused major bloodloss on day 3. in the end I only had 12cm depth, penetration impossible due to major pain at the entrance, and poor aesthetic."*
+* [GRS Dr Schaff 3y progress](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13rmdxc/grs_dr_schaff_3y_progress/content.html) by sonia_sadhbh in 2023
     * [My lovely piercings](https://www.reddit.com/user/sonia_sadhbh/comments/rgfszg/my_lovely_piercings/) by sonia_sadhbh in 2022
-    * [VCH + Fourchette piercings done today - feeling very happy (the GCS was done in 03/2020 by Dr Schaff)](https://www.reddit.com/r/Transgender_Surgeries/comments/rb8h88/vch_fourchette_piercings_done_today_feeling_very/) by sonia_sadhbh in 2021
-    * [Combined Method, Germany (Grs: 03/2020, Rev: 09/2020)](https://www.reddit.com/r/Transgender_Surgeries/comments/l26suz/combined_method_germany_grs_032020_rev_092020/) by sonia_sadhbh in 2021
+    * [VCH + Fourchette piercings done today - feeling very happy (the GCS was done in 03/2020 by Dr Schaff)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rb8h88/vch_fourchette_piercings_done_today_feeling_very/content.html) by sonia_sadhbh in 2021
+    * [Combined Method, Germany (Grs: 03/2020, Rev: 09/2020)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l26suz/combined_method_germany_grs_032020_rev_092020/content.html) by sonia_sadhbh in 2021
     * [66 days since revision in September](https://www.reddit.com/user/sonia_sadhbh/comments/jtg7vw/66_days_since_revision_in_september/) by  sonia_sadhbh in 2020
     * [8 weeks post-op](https://www.reddit.com/user/sonia_sadhbh/comments/jo5jca/8_weeks_postop/) by sonia_sadhbh in 2020
     * [39 days post-revision](https://www.reddit.com/user/sonia_sadhbh/comments/jc8tvj/39_days_postrevision/) by sonia_sadhbh in 2020
-    * [22 days post revision (7 months post-op) 💕 See my previous posts for all info](https://www.reddit.com/r/Transgender_Surgeries/comments/j39mop/22_days_post_revision_7_months_postop_see_my/) by sonia_sadhbh in 2020
-    * [11 days post-revision (6 months post-op)](https://www.reddit.com/r/Transgender_Surgeries/comments/ivpe70/11_days_postrevision_6_months_postop/) by sonia_sadhbh in 2020
-    * [Pre-revision picture (6 months post-op)](https://www.reddit.com/r/Transgender_Surgeries/comments/ipbg3p/prerevision_picture_6_months_postop/) by sonia_sadhbh in 2020
-    * [My gender affirmation surgery took place in March 2020, in Germany. Almost 6 months post-op. Still little bit redness, but it's fading. Wonderful 100% sensation inside and outside. Natural lubrication from urethral lining. Feels exactly like cis vagina. Had numerous climaxes.](https://www.reddit.com/r/Transgender_Surgeries/comments/i6qbto/my_gender_affirmation_surgery_took_place_in_march/) by sonia_sadhbh in 2020
-* [How do you recover from an awful surgery?](https://www.reddit.com/r/Transgender_Surgeries/comments/12bhbov/how_do_you_recover_from_an_awful_surgery/) by DifferentYear1414 in 2023
-    * [Dr Schaff SRS post-op 10 months after 1st operation and 1 month after revision surgery results and annoyances (NSFW)](https://www.reddit.com/r/Transgender_Surgeries/comments/11wj2c3/dr_schaff_srs_postop_10_months_after_1st/) by DifferentYear1414 in 2023
-    * [Bleeding from clitoris(?) after pooping](https://www.reddit.com/r/Transgender_Surgeries/comments/wlvgrh/bleeding_from_clitoris_after_pooping/) by DifferentYear1414 in 2022
-    * [results 12 weeks post-op SRS with Dr Schaff](https://www.reddit.com/r/Transgender_Surgeries/comments/w589cd/results_12_weeks_postop_srs_with_dr_schaff/) by DifferentYear1414 in 2022
-* [SRS Dr. Schaff 11 weeks timeline](https://www.reddit.com/r/Transgender_Surgeries/comments/100r6hv/srs_dr_schaff_11_weeks_timeline/) by  No_Entrepreneur_6954 in 2023
-* ~~[Dr Schaff 1y result - probably getting full revision with PPV at Kamol Clinic in Jan23](https://www.reddit.com/r/Transgender_Surgeries/comments/wgdc5s/dr_schaff_1y_result_probably_getting_full/) by Musca75 in 2022~~
-    * ~~[Dealing with the fallout of poor surgery results (Dr Schaff)](https://www.reddit.com/r/Transgender_Surgeries/comments/w024iz/dealing_with_the_fallout_of_poor_surgery_results/) by Musca75 in 2022~~
-    * ~~[1y+ post op (1st stage) with Dr Schaff](https://www.reddit.com/r/Transgender_Surgeries/comments/ue96ne/1y_post_op_1st_stage_with_dr_schaff/) by Musca75 in 2022~~
-    * ~~[SRS Dr Schaff, 9mo post 2nd stage w/ lipofilling a few days ago](https://www.reddit.com/r/Transgender_Surgeries/comments/uzcowp/srs_dr_schaff_9mo_post_2nd_stage_w_lipofilling_a/) by Musca75 in 2022~~
-    * ~~[4mo post-op SRS dr Schaff - poor results & mental health spiralling out of control](https://www.reddit.com/r/Transgender_Surgeries/comments/s7awhw/4mo_postop_srs_dr_schaff_poor_results_mental/) by Musca75 in 2022~~
-    * ~~[Surgeon did not put the implants I asked for](https://www.reddit.com/r/Transgender_Surgeries/comments/pwjl10/surgeon_did_not_put_the_implants_i_asked_for/) by Musca75 in 2021 - this is about BA not SRS~~
-    * ~~[SRS Dr Schaff 2mo postop (first stage - 13 depth)](https://www.reddit.com/r/Transgender_Surgeries/comments/mo19in/srs_dr_schaff_2mo_postop_first_stage_13_depth/) by Musca75 in 2021~~
-    * [SRS 1 month postop (Dr Schaff) - swelling is going down](https://www.reddit.com/r/Transgender_Surgeries/comments/m3d2nk/srs_1_month_postop_dr_schaff_swelling_is_going/) by Musca75 in 2021
-    * [Rectovaginal Fistula suspicion](https://www.reddit.com/r/Transgender_Surgeries/comments/lu1k6b/rectovaginal_fistula_suspicion/) by Musca75 in 2021
-    * [SRS 2 weeks post-op Dr Schaff in Potsdam](https://www.reddit.com/r/Transgender_Surgeries/comments/loyyyd/srs_2_weeks_postop_dr_schaff_in_potsdam/) by Musca75 in 2021
-    * [AMA Just had SRS with Dr Schaff in Potsdam Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/lgjab4/ama_just_had_srs_with_dr_schaff_in_potsdam_germany/) by Musca75 in 2021
-* [6 Months post-OP with Dr Schaff in Potsdam, Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/wb2gxl/6_months_postop_with_dr_schaff_in_potsdam_germany/) by HelenOfTran in 2022
-    * [3 Months Post-OP SRS with Dr Schaff in Potsdam, Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/u1tues/3_months_postop_srs_with_dr_schaff_in_potsdam/) by HelenOfTran in 2022
-    * [2 Months Post OP Dr Schaff in Potsdam, Germany + 3 Weeks Post OP BA 280cc Over Muscle - More in Comments!](https://www.reddit.com/r/Transgender_Surgeries/comments/tau8ch/2_months_post_op_dr_schaff_in_potsdam_germany_3/) by HelenOfTran in 2022
-* [3 weeks after 2nd step surgery with Dr Schaff.](https://www.reddit.com/r/Transgender_Surgeries/comments/uz9pwq/3_weeks_after_2nd_step_surgery_with_dr_schaff/) by Robyn-Lee in 2022
-* [1 year post-op with Dr Schaff](https://www.reddit.com/r/Transgender_Surgeries/comments/t9tl7w/1_year_postop_with_dr_schaff/) by jde96 in 2022
-    * [3 months post 2nd Op (revision) with Dr Schaff](https://www.reddit.com/r/Transgender_Surgeries/comments/rqlqj7/3_months_post_2nd_op_revision_with_dr_schaff/) by jde96 in 2021
-    * [Month 5 post 1st OP with Dr Schaff](https://www.reddit.com/r/Transgender_Surgeries/comments/p1ui3r/month_5_post_1st_op_with_dr_schaff/)  by jde96 in 2021
-    * [4 months post-op #1 with Dr Schaff in Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/ofu880/4_months_postop_1_with_dr_schaff_in_germany/) by jde96 in 2021
-    * [3 months posty-op with Dr Schaff](https://www.reddit.com/r/Transgender_Surgeries/comments/nw8uog/3_months_postyop_with_dr_schaff/) by jde96 in 2021
-    * [2 months post Op #1 with Dr Schaff](https://www.reddit.com/r/Transgender_Surgeries/comments/n7mza6/2_months_post_op_1_with_dr_schaff/) by jde96 in 2021
-    * [1 month post-op #1 with Dr Schaff at Klinik Sanssouci, Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/moarvt/1_month_postop_1_with_dr_schaff_at_klinik/) by jde96 in 2021
-* [~~Pain dilating 13 days post-op~~](https://www.reddit.com/r/Transgender_Surgeries/comments/r3z2i0/pain_dilating_13_days_postop/) by lowkeysafe in 2021
-* [8 Days Post Op SRS (Dr Schaff Germany/Potsdam)](https://www.reddit.com/r/Transgender_Surgeries/comments/r14ukt/8_days_post_op_srs_dr_schaff_germanypotsdam/) by Robyn-Lee in 2021
+    * [22 days post revision (7 months post-op) 💕 See my previous posts for all info](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/j39mop/22_days_post_revision_7_months_postop_see_my/content.html) by sonia_sadhbh in 2020
+    * [11 days post-revision (6 months post-op)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ivpe70/11_days_postrevision_6_months_postop/content.html) by sonia_sadhbh in 2020
+    * [Pre-revision picture (6 months post-op)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ipbg3p/prerevision_picture_6_months_postop/content.html) by sonia_sadhbh in 2020
+    * [My gender affirmation surgery took place in March 2020, in Germany. Almost 6 months post-op. Still little bit redness, but it's fading. Wonderful 100% sensation inside and outside. Natural lubrication from urethral lining. Feels exactly like cis vagina. Had numerous climaxes.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i6qbto/my_gender_affirmation_surgery_took_place_in_march/content.html) by sonia_sadhbh in 2020
+* [How do you recover from an awful surgery?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/12bhbov/how_do_you_recover_from_an_awful_surgery/content.html) by DifferentYear1414 in 2023
+    * [Dr Schaff SRS post-op 10 months after 1st operation and 1 month after revision surgery results and annoyances (NSFW)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/11wj2c3/dr_schaff_srs_postop_10_months_after_1st/content.html) by DifferentYear1414 in 2023
+    * [Bleeding from clitoris(?) after pooping](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wlvgrh/bleeding_from_clitoris_after_pooping/content.html) by DifferentYear1414 in 2022
+    * [results 12 weeks post-op SRS with Dr Schaff](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/w589cd/results_12_weeks_postop_srs_with_dr_schaff/content.html) by DifferentYear1414 in 2022
+* [SRS Dr. Schaff 11 weeks timeline](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/100r6hv/srs_dr_schaff_11_weeks_timeline/content.html) by  No_Entrepreneur_6954 in 2023
+* ~~[Dr Schaff 1y result - probably getting full revision with PPV at Kamol Clinic in Jan23](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wgdc5s/dr_schaff_1y_result_probably_getting_full/content.html) by Musca75 in 2022~~
+    * ~~[Dealing with the fallout of poor surgery results (Dr Schaff)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/w024iz/dealing_with_the_fallout_of_poor_surgery_results/content.html) by Musca75 in 2022~~
+    * ~~[1y+ post op (1st stage) with Dr Schaff](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ue96ne/1y_post_op_1st_stage_with_dr_schaff/content.html) by Musca75 in 2022~~
+    * ~~[SRS Dr Schaff, 9mo post 2nd stage w/ lipofilling a few days ago](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uzcowp/srs_dr_schaff_9mo_post_2nd_stage_w_lipofilling_a/content.html) by Musca75 in 2022~~
+    * ~~[4mo post-op SRS dr Schaff - poor results & mental health spiralling out of control](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/s7awhw/4mo_postop_srs_dr_schaff_poor_results_mental/content.html) by Musca75 in 2022~~
+    * ~~[Surgeon did not put the implants I asked for](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/pwjl10/surgeon_did_not_put_the_implants_i_asked_for/content.html) by Musca75 in 2021 - this is about BA not SRS~~
+    * ~~[SRS Dr Schaff 2mo postop (first stage - 13 depth)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mo19in/srs_dr_schaff_2mo_postop_first_stage_13_depth/content.html) by Musca75 in 2021~~
+    * [SRS 1 month postop (Dr Schaff) - swelling is going down](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/m3d2nk/srs_1_month_postop_dr_schaff_swelling_is_going/content.html) by Musca75 in 2021
+    * [Rectovaginal Fistula suspicion](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lu1k6b/rectovaginal_fistula_suspicion/content.html) by Musca75 in 2021
+    * [SRS 2 weeks post-op Dr Schaff in Potsdam](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/loyyyd/srs_2_weeks_postop_dr_schaff_in_potsdam/content.html) by Musca75 in 2021
+    * [AMA Just had SRS with Dr Schaff in Potsdam Germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lgjab4/ama_just_had_srs_with_dr_schaff_in_potsdam_germany/content.html) by Musca75 in 2021
+* [6 Months post-OP with Dr Schaff in Potsdam, Germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wb2gxl/6_months_postop_with_dr_schaff_in_potsdam_germany/content.html) by HelenOfTran in 2022
+    * [3 Months Post-OP SRS with Dr Schaff in Potsdam, Germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/u1tues/3_months_postop_srs_with_dr_schaff_in_potsdam/content.html) by HelenOfTran in 2022
+    * [2 Months Post OP Dr Schaff in Potsdam, Germany + 3 Weeks Post OP BA 280cc Over Muscle - More in Comments!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tau8ch/2_months_post_op_dr_schaff_in_potsdam_germany_3/content.html) by HelenOfTran in 2022
+* [3 weeks after 2nd step surgery with Dr Schaff.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uz9pwq/3_weeks_after_2nd_step_surgery_with_dr_schaff/content.html) by Robyn-Lee in 2022
+* [1 year post-op with Dr Schaff](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t9tl7w/1_year_postop_with_dr_schaff/content.html) by jde96 in 2022
+    * [3 months post 2nd Op (revision) with Dr Schaff](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rqlqj7/3_months_post_2nd_op_revision_with_dr_schaff/content.html) by jde96 in 2021
+    * [Month 5 post 1st OP with Dr Schaff](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/p1ui3r/month_5_post_1st_op_with_dr_schaff/content.html)  by jde96 in 2021
+    * [4 months post-op #1 with Dr Schaff in Germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ofu880/4_months_postop_1_with_dr_schaff_in_germany/content.html) by jde96 in 2021
+    * [3 months posty-op with Dr Schaff](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nw8uog/3_months_postyop_with_dr_schaff/content.html) by jde96 in 2021
+    * [2 months post Op #1 with Dr Schaff](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/n7mza6/2_months_post_op_1_with_dr_schaff/content.html) by jde96 in 2021
+    * [1 month post-op #1 with Dr Schaff at Klinik Sanssouci, Germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/moarvt/1_month_postop_1_with_dr_schaff_at_klinik/content.html) by jde96 in 2021
+* [~~Pain dilating 13 days post-op~~](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/r3z2i0/pain_dilating_13_days_postop/content.html) by lowkeysafe in 2021
+* [8 Days Post Op SRS (Dr Schaff Germany/Potsdam)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/r14ukt/8_days_post_op_srs_dr_schaff_germanypotsdam/content.html) by Robyn-Lee in 2021
 * [I had vaginoplasty 9 days ago with Dr. Morath in Munich, Germany, AMA](https://www.reddit.com/r/asktransgender/comments/71xd3n/i_had_vaginoplasty_9_days_ago_with_dr_morath_in/) in 2017, photo [here](https://i.imgur.com/cB5CCPW.jpg) and [here](https://imgur.com/a/nlrD6) in 2019.
 
 These two papers have many authors, but since it is the "combined method" is seems likely that Schaff is the surgeon. I don't know for sure.
@@ -1035,21 +1035,21 @@ reddit
 
 * [Komplikationen nach MtF-GaOp?](https://www.reddit.com/r/germantrans/comments/109k8pj/komplikationen_nach_mtfgaop/) by youraveragelinguist in 2023 - google translated *" I had my first GaOp at Schaff in Potsdam in 09/21. This went horribly wrong. Summary: rectovaginal fistula, complete side torn open, open bowel, neovagina was removed again. The torn intestinal wall was sewn up, with the result that anal sex is no longer possible because of the scar. After a year of rehab, then 11/22 next op at schaff, this time "successfully" with a full skin transplant. About 12cm long. Now the clue: the third operation is now 8 weeks ago and I'm really struggling with my neovagina: first unspeakable pain when bougien (but you all know that and it's normal), then inflammation, infections and finally a torn vaginal entrance. Despite all that, I bougied 4 times a day in tears and fainting because I never wanted to have my vagina taken from me again. Only to find out after 8 weeks that my neovagina has contracted extremely. It's only about as long as my middle finger, let it be 8 cm... I'll have a scar across my stomach and thighs for life and I'm not even sure if it will be worth it or if I'll need a fourth op. I can't imagine that 8cm can be satisfying. Since the failed first op, I can no longer have anal sex."*
 * [Advice/support adressing poor SRS results](https://www.reddit.com/r/Transmedical/comments/10gvx7g/advicesupport_adressing_poor_srs_results/) by Adorable_Degree_7277 by Adorable_Degree_7277 in 2023
-* [Dr Schaff in person consultation feedback ( It was bad )](https://www.reddit.com/r/Transgender_Surgeries/comments/10fhvp9/dr_schaff_in_person_consultation_feedback_it_was/) by Peryite-smitethee in 2023
-* reply to [4mo post-op SRS dr Schaff - poor results & mental health spiralling out of control](https://www.reddit.com/r/Transgender_Surgeries/comments/s7awhw/deleted_by_user/i0c02m4/?context=3) by Robyn-Lee in 2022 - *"I had surgery with Dr Schaff and a complication as well(fistula). I’m still pretty happy with the results because dilation is fairly easy and I have about 17+ cm of depth. I think Dr Schaff is a relatively good surgeon, but he needs to be paired with a good Gynecologist. My situation was not good with the fistula. However, the support of Dr Hertwig in Berlin. Made it bearable. I had an appointment everyweek to check how the healing process went. Now I’m eager to do the second operation to get the fistula fixed and the other tweaks that comes with the second op."*
-* [Had SRS Revision 6 weeks ago /w Dr. Schaff](https://www.reddit.com/r/Transgender_Surgeries/comments/zf7n0p/had_srs_revision_6_weeks_ago_w_dr_schaff/) by Tsundere_Lily in 2022
+* [Dr Schaff in person consultation feedback ( It was bad )](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10fhvp9/dr_schaff_in_person_consultation_feedback_it_was/content.html) by Peryite-smitethee in 2023
+* reply to [4mo post-op SRS dr Schaff - poor results & mental health spiralling out of control](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/s7awhw/deleted_by_user/i0c02m4/?context=3content.html) by Robyn-Lee in 2022 - *"I had surgery with Dr Schaff and a complication as well(fistula). I’m still pretty happy with the results because dilation is fairly easy and I have about 17+ cm of depth. I think Dr Schaff is a relatively good surgeon, but he needs to be paired with a good Gynecologist. My situation was not good with the fistula. However, the support of Dr Hertwig in Berlin. Made it bearable. I had an appointment everyweek to check how the healing process went. Now I’m eager to do the second operation to get the fistula fixed and the other tweaks that comes with the second op."*
+* [Had SRS Revision 6 weeks ago /w Dr. Schaff](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zf7n0p/had_srs_revision_6_weeks_ago_w_dr_schaff/content.html) by Tsundere_Lily in 2022
     * [1 week Post OP 🥰 18.10 at Dr. Schaff](https://www.reddit.com/r/germantrans/comments/qfcn04/1_week_post_op_1810_bei_dr_schaff/) by Tsundere_Lily in 2021
-* [Dr. Schaff - opinions?](https://www.reddit.com/r/Transgender_Surgeries/comments/y9xkmn/dr_schaff_opinions/) by Eshel56765 in 2022
-* [Post op life? (Dr.Schaff)](https://www.reddit.com/r/Transgender_Surgeries/comments/mj642e/post_op_life_drschaff/) by ThedaBerlin in 2021
-* [The "Pioneer" of GRS in Germany, Dr Schaff thoughts and questions](https://www.reddit.com/r/Transgender_Surgeries/comments/jvr91w/the_pioneer_of_grs_in_germany_dr_schaff_thoughts/) by lillywho in 2020
-* [Dr Schaff and new German SRS method.](https://www.reddit.com/r/Transgender_Surgeries/comments/jf7fpd/dr_schaff_and_new_german_srs_method/) by Robyn-Lee in 2020
-* [Dr Hendrik Schöll: Any experiences?](https://www.reddit.com/r/Transgender_Surgeries/comments/gxo60s/dr_hendrik_sch%C3%B6ll_any_experiences/) by isaisaboredmeh in 2020
+* [Dr. Schaff - opinions?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/y9xkmn/dr_schaff_opinions/content.html) by Eshel56765 in 2022
+* [Post op life? (Dr.Schaff)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mj642e/post_op_life_drschaff/content.html) by ThedaBerlin in 2021
+* [The "Pioneer" of GRS in Germany, Dr Schaff thoughts and questions](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jvr91w/the_pioneer_of_grs_in_germany_dr_schaff_thoughts/content.html) by lillywho in 2020
+* [Dr Schaff and new German SRS method.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jf7fpd/dr_schaff_and_new_german_srs_method/content.html) by Robyn-Lee in 2020
+* [Dr Hendrik Schöll: Any experiences?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gxo60s/dr_hendrik_sch%C3%B6ll_any_experiences/content.html) by isaisaboredmeh in 2020
 * [How do I cope with genital dysphoria and deal with the panic about surgery?](https://www.reddit.com/r/asktransgender/comments/f7pu8o/how_do_i_cope_with_genital_dysphoria_and_deal/) by RecycledTransAccount in 2020
 * [\[NSFW\] Question about post-GRS placeholders](https://www.reddit.com/r/asktransgender/comments/dmd1so/nsfw_question_about_postgrs_placeholders/) by qt3-141 in 2019
-* [\[NSFW\] Dr. Schaff: My experience so far \[Day 1 post-GRS\]](https://www.reddit.com/r/Transgender_Surgeries/comments/ddp0mc/nsfw_dr_schaff_my_experience_so_far_day_1_postgrs/) by qt3-141 in 2019
-* [Those who had SRS with Schaaf/Morath, what was dilation/recovery/complications like?](https://www.reddit.com/r/Transgender_Surgeries/comments/bdfu5m/those_who_had_srs_with_schaafmorath_what_was/) by sofia-miranda in 2019
+* [\[NSFW\] Dr. Schaff: My experience so far \[Day 1 post-GRS\]](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ddp0mc/nsfw_dr_schaff_my_experience_so_far_day_1_postgrs/content.html) by qt3-141 in 2019
+* [Those who had SRS with Schaaf/Morath, what was dilation/recovery/complications like?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/bdfu5m/those_who_had_srs_with_schaafmorath_what_was/content.html) by sofia-miranda in 2019
 * [Anyone had SRS Schaaf/Morath in Münich? Do you recommend? Any issues?](https://www.reddit.com/r/germantrans/comments/adhgtx/anyone_had_srs_schaafmorath_in_m%C3%BCnich_do_you/) by sofia-miranda in 2019
-* [Dr. Schaff SRS (Muenich)](https://www.reddit.com/r/Transgender_Surgeries/comments/awjrjn/dr_schaff_srs_muenich/) by AliceLockig in 2019
+* [Dr. Schaff SRS (Muenich)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/awjrjn/dr_schaff_srs_muenich/content.html) by AliceLockig in 2019
 * [Anyone who didn't dialate post MtF SRS?](https://www.reddit.com/r/asktransgender/comments/a3ywud/anyone_who_didnt_dialate_post_mtf_srs/) by Kapishon in 2018
 
 Susans
@@ -1091,28 +1091,28 @@ Surgeons sites
 
 reddit
 
-* [Second grs (correction ) by dr morath Munich, Germany. 1 month post op. First grs was 7 months ago](https://www.reddit.com/r/Transgender_Surgeries/comments/1hql2ua/second_grs_correction_by_dr_morath_munich_germany/) by shorty1986xx in 2025
-    * [My Vagina by Dr morath Munich 5 months Post op. I will get the second surgery in a few months to get some details fixed. Very happy with the look and depth.](https://www.reddit.com/r/Transgender_Surgeries/comments/1fz919l/my_vagina_by_dr_morath_munich_5_months_post_op_i/) by shorty1986xx in 2024
-* [5 weeks post-op SRS dr. morat germany](https://www.reddit.com/r/Transgender_Surgeries/comments/1hqgvkm/5_weeks_postop_srs_dr_morat_germany/) by Pretty-Contest-8872 in 2025
-* [Revision surgery coming up at Drs Morath and Schöll München - NSFW](https://www.reddit.com/r/Transgender_Surgeries/comments/1c9go1a/revision_surgery_coming_up_at_drs_morath_and/) by Ok-Somewhere7838 in 2024
-* [Shield I he worried? SRS question.](https://www.reddit.com/r/Transgender_Surgeries/comments/1ake7fz/shield_i_he_worried_srs_question/) by TheeVillain in 2024
-    * [1 month post op srs by Dr Morath, Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/185jndu/1_month_post_op_srs_by_dr_morath_munich/) by TheeVillain in 2023
-* [2 years postop srs | minimal depth | combined method | Dr. Morath | Munich , Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/15cysl5/2_years_postop_srs_minimal_depth_combined_method/) by Superbestrogen in 2023
-    * [3 months postop srs | minimal depth | combined method | Dr. Morath | Munich , Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/srohli/3_months_postop_srs_minimal_depth_combined_method/) by Superbestrogen in 2022
-    * [6 weeks postop srs AMA | minimal depth | combined method | Dr. Morath | Munich , Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/r8q6hq/6_weeks_postop_srs_ama_minimal_depth_combined/) by Superbestrogen in 2021
-* [GCS with Dr. Morath (2 months update).](https://www.reddit.com/r/Transgender_Surgeries/comments/z61p1p/gcs_with_dr_morath_2_months_update/) by -Bad-Potato- in 2022
-    * [GCS with Dr. Morath (days 12 and 13).](https://www.reddit.com/r/Transgender_Surgeries/comments/y94x4j/gcs_with_dr_morath_days_12_and_13/) by -Bad-Potato- in 2022
-    * [GCS with Dr. Morath (days 10 and 11).](https://www.reddit.com/r/Transgender_Surgeries/comments/y668gl/gcs_with_dr_morath_days_10_and_11/) by -Bad-Potato- in 2022
+* [Second grs (correction ) by dr morath Munich, Germany. 1 month post op. First grs was 7 months ago](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hql2ua/second_grs_correction_by_dr_morath_munich_germany/content.html) by shorty1986xx in 2025
+    * [My Vagina by Dr morath Munich 5 months Post op. I will get the second surgery in a few months to get some details fixed. Very happy with the look and depth.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1fz919l/my_vagina_by_dr_morath_munich_5_months_post_op_i/content.html) by shorty1986xx in 2024
+* [5 weeks post-op SRS dr. morat germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hqgvkm/5_weeks_postop_srs_dr_morat_germany/content.html) by Pretty-Contest-8872 in 2025
+* [Revision surgery coming up at Drs Morath and Schöll München - NSFW](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1c9go1a/revision_surgery_coming_up_at_drs_morath_and/content.html) by Ok-Somewhere7838 in 2024
+* [Shield I he worried? SRS question.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ake7fz/shield_i_he_worried_srs_question/content.html) by TheeVillain in 2024
+    * [1 month post op srs by Dr Morath, Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/185jndu/1_month_post_op_srs_by_dr_morath_munich/content.html) by TheeVillain in 2023
+* [2 years postop srs | minimal depth | combined method | Dr. Morath | Munich , Germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/15cysl5/2_years_postop_srs_minimal_depth_combined_method/content.html) by Superbestrogen in 2023
+    * [3 months postop srs | minimal depth | combined method | Dr. Morath | Munich , Germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/srohli/3_months_postop_srs_minimal_depth_combined_method/content.html) by Superbestrogen in 2022
+    * [6 weeks postop srs AMA | minimal depth | combined method | Dr. Morath | Munich , Germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/r8q6hq/6_weeks_postop_srs_ama_minimal_depth_combined/content.html) by Superbestrogen in 2021
+* [GCS with Dr. Morath (2 months update).](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z61p1p/gcs_with_dr_morath_2_months_update/content.html) by -Bad-Potato- in 2022
+    * [GCS with Dr. Morath (days 12 and 13).](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/y94x4j/gcs_with_dr_morath_days_12_and_13/content.html) by -Bad-Potato- in 2022
+    * [GCS with Dr. Morath (days 10 and 11).](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/y668gl/gcs_with_dr_morath_days_10_and_11/content.html) by -Bad-Potato- in 2022
     * [GCS with Dr. Morath (days 8 and 9).](https://www.reddit.com/r/germantrans/comments/y4jfhv/gcs_with_dr_morath_days_8_and_9/) by -Bad-Potato- in 2022
-    * [GCS with Dr. Morath (days 8 and 9).](https://www.reddit.com/r/Transgender_Surgeries/comments/y4jg29/gcs_with_dr_morath_days_8_and_9/) by -Bad-Potato- in 2022
+    * [GCS with Dr. Morath (days 8 and 9).](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/y4jg29/gcs_with_dr_morath_days_8_and_9/content.html) by -Bad-Potato- in 2022
     * [GCS with Dr. Morath (days 6 and 7).](https://www.reddit.com/r/germantrans/comments/y2u36l/gcs_with_dr_morath_days_6_and_7/)  by -Bad-Potato- in 2022
-    * [GCS with Dr. Morath (days 6 and 7).](https://www.reddit.com/r/Transgender_Surgeries/comments/y2u3zm/gcs_with_dr_morath_days_6_and_7/) by -Bad-Potato- in 2022
-    * [GCS with Dr. Morath (days 4 and 5).](https://www.reddit.com/r/Transgender_Surgeries/comments/y15fha/gcs_with_dr_morath_days_4_and_5/) by -Bad-Potato- in 2022
-    * [GCS with Dr. Morath (days 2 and 3)](https://www.reddit.com/r/Transgender_Surgeries/comments/xzlhu7/gcs_with_dr_morath_days_2_and_3/) by -Bad-Potato- in 2022
-    * [GCS with Dr. Morath (days -1 to 1).](https://www.reddit.com/r/Transgender_Surgeries/comments/xxxrnq/gcs_with_dr_morath_days_1_to_1/) by -Bad-Potato- in 2022
-* [Dr Hendrik Schöll: Any experiences?](https://www.reddit.com/r/Transgender_Surgeries/comments/gxo60s/dr_hendrik_sch%C3%B6ll_any_experiences/) by isaisaboredmeh in 2020
-* [1.5 years post op, grs with dr morath in munich](https://www.reddit.com/r/Transgender_Surgeries/comments/als9jp/15_years_post_op_grs_with_dr_morath_in_munich/) by armtranswomen1312 in 2019
-    * [I had grs and ba with dr morath in munich. AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/ajn7nv/i_had_grs_and_ba_with_dr_morath_in_munich_ama/) by armtranswomen1312 in 2019
+    * [GCS with Dr. Morath (days 6 and 7).](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/y2u3zm/gcs_with_dr_morath_days_6_and_7/content.html) by -Bad-Potato- in 2022
+    * [GCS with Dr. Morath (days 4 and 5).](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/y15fha/gcs_with_dr_morath_days_4_and_5/content.html) by -Bad-Potato- in 2022
+    * [GCS with Dr. Morath (days 2 and 3)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xzlhu7/gcs_with_dr_morath_days_2_and_3/content.html) by -Bad-Potato- in 2022
+    * [GCS with Dr. Morath (days -1 to 1).](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xxxrnq/gcs_with_dr_morath_days_1_to_1/content.html) by -Bad-Potato- in 2022
+* [Dr Hendrik Schöll: Any experiences?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gxo60s/dr_hendrik_sch%C3%B6ll_any_experiences/content.html) by isaisaboredmeh in 2020
+* [1.5 years post op, grs with dr morath in munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/als9jp/15_years_post_op_grs_with_dr_morath_in_munich/content.html) by armtranswomen1312 in 2019
+    * [I had grs and ba with dr morath in munich. AMA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ajn7nv/i_had_grs_and_ba_with_dr_morath_in_munich_ama/content.html) by armtranswomen1312 in 2019
 * [I had vaginoplasty 9 days ago with Dr. Morath in Munich, Germany, AMA](https://www.reddit.com/r/asktransgender/comments/71xd3n/i_had_vaginoplasty_9_days_ago_with_dr_morath_in/) in 2017, photo [here](https://i.imgur.com/cB5CCPW.jpg) and [here](https://imgur.com/a/nlrD6) in 2019.
 
 **Non-Photo links**
@@ -1122,8 +1122,8 @@ reddit
 * [Just had bottom surgery / vaginoplasty with Dr. Morath and Dr. Schöll in Munich, Germany. AMA!](https://www.reddit.com/r/MtF/comments/tsckp9/just_had_bottom_surgery_vaginoplasty_with_dr/) by JFSushi in 2022
 * [\[Update\] I had vaginoplasty 4 years ago with Dr. Morath in Munich, Germany, AMA](https://www.reddit.com/r/asktransgender/comments/poxo6e/update_i_had_vaginoplasty_4_years_ago_with_dr/) by loki1717 in 2021
     * [I had vaginoplasty 9 days ago with Dr. Morath in Munich, Germany, AMA](https://old.reddit.com/r/asktransgender/comments/71xd3n/i_had_vaginoplasty_9_days_ago_with_dr_morath_in/) by loki1717 in 2017
-* [Best current Surgeons in Germany ? (looking for combined method)](https://www.reddit.com/r/Transgender_Surgeries/comments/i17wi2/best_current_surgeons_in_germany_looking_for/) by crimsonnn- in 2020
-* [SRS with Morath & Schöll (Ger) Corona situation](https://www.reddit.com/r/Transgender_Surgeries/comments/fo7v4c/srs_with_morath_sch%C3%B6ll_ger_corona_situation/) by amyknows in 2020
+* [Best current Surgeons in Germany ? (looking for combined method)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i17wi2/best_current_surgeons_in_germany_looking_for/content.html) by crimsonnn- in 2020
+* [SRS with Morath & Schöll (Ger) Corona situation](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/fo7v4c/srs_with_morath_sch%C3%B6ll_ger_corona_situation/content.html) by amyknows in 2020
 * [Anyone who didn't dialate post MtF SRS?](https://www.reddit.com/r/asktransgender/comments/a3ywud/anyone_who_didnt_dialate_post_mtf_srs/) by Kapishon in 2018
 
 Other
@@ -1149,14 +1149,14 @@ Surgeons sites
 
 reddit
 
-* [\[SRS\] \[Schöll\] - 3 Months Timeline of Recovering with a Wound Healing Disorder](https://www.reddit.com/r/Transgender_Surgeries/comments/1f0tel2/srs_sch%C3%B6ll_3_months_timeline_of_recovering_with_a/) by JuvenileQuetzalBird in 2024
-* [Revision surgery coming up at Drs Morath and Schöll München - NSFW](https://www.reddit.com/r/Transgender_Surgeries/comments/1c9go1a/revision_surgery_coming_up_at_drs_morath_and/) by Ok-Somewhere7838 in 2024
-* [1 month post op with Dr. Schöll](https://www.reddit.com/r/Transgender_Surgeries/comments/14hzwsx/1_month_post_op_with_dr_sch%C3%B6ll/) by by Lauren_boo9 in 2023
-    * [1 week post-op GRS with Dr. Schöll (Munich)](https://www.reddit.com/r/Transgender_Surgeries/comments/13x9pl0/1_week_postop_grs_with_dr_sch%C3%B6ll_munich/) by Lauren_boo9 in 2023
-* [Surgery timeline SRS Schöll](https://www.reddit.com/r/Transgender_Surgeries/comments/zwqrdg/surgery_timeline_srs_sch%C3%B6ll/) by nailskiii in 2022
-    * [I had SRS in Munich + Revision](https://www.reddit.com/r/Transgender_Surgeries/comments/za7sa3/i_had_srs_in_munich_revision/) by nailskiii in 2022
-    * [SRS 5 Monts Post-OP Munich Dr. Schöll](https://www.reddit.com/r/Transgender_Surgeries/comments/y4hxfq/srs_5_monts_postop_munich_dr_sch%C3%B6ll/) by nailskiii in 2022
-* [7 months post-op vaginoplasty timeline. Surgery by Dr. Schöll in Munich, Germany.](https://www.reddit.com/r/Transgender_Surgeries/comments/ye3kww/7_months_postop_vaginoplasty_timeline_surgery_by/) by JFSushi in 2022
+* [\[SRS\] \[Schöll\] - 3 Months Timeline of Recovering with a Wound Healing Disorder](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1f0tel2/srs_sch%C3%B6ll_3_months_timeline_of_recovering_with_a/content.html) by JuvenileQuetzalBird in 2024
+* [Revision surgery coming up at Drs Morath and Schöll München - NSFW](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1c9go1a/revision_surgery_coming_up_at_drs_morath_and/content.html) by Ok-Somewhere7838 in 2024
+* [1 month post op with Dr. Schöll](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14hzwsx/1_month_post_op_with_dr_sch%C3%B6ll/content.html) by by Lauren_boo9 in 2023
+    * [1 week post-op GRS with Dr. Schöll (Munich)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13x9pl0/1_week_postop_grs_with_dr_sch%C3%B6ll_munich/content.html) by Lauren_boo9 in 2023
+* [Surgery timeline SRS Schöll](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zwqrdg/surgery_timeline_srs_sch%C3%B6ll/content.html) by nailskiii in 2022
+    * [I had SRS in Munich + Revision](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/za7sa3/i_had_srs_in_munich_revision/content.html) by nailskiii in 2022
+    * [SRS 5 Monts Post-OP Munich Dr. Schöll](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/y4hxfq/srs_5_monts_postop_munich_dr_sch%C3%B6ll/content.html) by nailskiii in 2022
+* [7 months post-op vaginoplasty timeline. Surgery by Dr. Schöll in Munich, Germany.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ye3kww/7_months_postop_vaginoplasty_timeline_surgery_by/content.html) by JFSushi in 2022
     * [Seven months post-op (bottom surgery) with Dr. Schöll in Munich, Germany. AMA and pictures.](https://www.reddit.com/r/MtF/comments/ye3lma/seven_months_postop_bottom_surgery_with_dr_sch%C3%B6ll/) by JFSushi in 2022
     * [Just had bottom surgery / vaginoplasty with Dr. Morath and Dr. Schöll in Munich, Germany. AMA!](https://www.reddit.com/r/MtF/comments/tsckp9/just_had_bottom_surgery_vaginoplasty_with_dr/) by JFSushi in 2022
 
@@ -1164,8 +1164,8 @@ reddit
 
 reddit
 
-* [How much more depth can I reach with dilation?](https://www.reddit.com/r/Transgender_Surgeries/comments/xiiwzv/how_much_more_depth_can_i_reach_with_dilation/) by UntrustworthyKitten in 2022 - *"I had my MTF bottom surgery three weeks ago, and I am feeling a bit let down by my depth. It is "only" about 4 inches, which is I think on the low side of what is possible."*
-* [Dr Hendrik Schöll: Any experiences?](https://www.reddit.com/r/Transgender_Surgeries/comments/gxo60s/dr_hendrik_sch%C3%B6ll_any_experiences/) by isaisaboredmeh in 2020
+* [How much more depth can I reach with dilation?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xiiwzv/how_much_more_depth_can_i_reach_with_dilation/content.html) by UntrustworthyKitten in 2022 - *"I had my MTF bottom surgery three weeks ago, and I am feeling a bit let down by my depth. It is "only" about 4 inches, which is I think on the low side of what is possible."*
+* [Dr Hendrik Schöll: Any experiences?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gxo60s/dr_hendrik_sch%C3%B6ll_any_experiences/content.html) by isaisaboredmeh in 2020
 
 Other
 
@@ -1186,7 +1186,7 @@ Surgeons site
 
 reddit
 
-* [16 days post op, should I be worried?](https://www.reddit.com/r/Transgender_Surgeries/comments/y3x2p3/16_days_post_op_should_i_be_worried/) by throwaway183940949 in 2022
+* [16 days post op, should I be worried?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/y3x2p3/16_days_post_op_should_i_be_worried/content.html) by throwaway183940949 in 2022
 
 **Non-photo links**
 
@@ -1194,13 +1194,13 @@ http://hormonmaedchen.de/hess-essen/
 
 reddit
 
-* [Vaginoplasty, "Combined Method", PI with urethral lining, Prof. Dr. Jochen Heß, Essen Germany - 13/7 Months post-OP](https://www.reddit.com/r/Transgender_Surgeries/comments/1ft5fx9/vaginoplasty_combined_method_pi_with_urethral/) by Cera_V in 2024
-* [Placeholder after 2nd SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/1e2hmwg/placeholder_after_2nd_srs/) by AeylaHearts in 2024 - *"I just had my revision surgery/ 2nd stage surgery with Dr. Hess/Heß in Essen, Germany and now I am advised to wear a placeholder and not dilate for the following 2 weeks. This is to not irritate the inner stitches more than necessary. The placeholder/stent is made from Bandages wrapped up in a condom, which is common for Hess and The surgeries in Munich I think."*
-* [update on the hole in my vaginao](https://www.reddit.com/r/Transgender_Surgeries/comments/1ajqdnf/update_on_the_hole_in_my_vaginao/)  by Ordinary-Object-2026 in 2024
-    * [is this normal (warning graphic)](https://www.reddit.com/r/Transgender_Surgeries/comments/1ajbvlh/is_this_normal_warning_graphic/) by Ordinary-Object-2026 in 2024
-* [A year as a very happy nut-free girl! Lost of you appreciated my excessively detailed report on life post-orchi, so I revised & updated it with my experiences. Content note: When I say "my experiences" I mostly mean sex. (Sexual content is marked beforehand in the text.)](https://www.reddit.com/r/Transgender_Surgeries/comments/q7wjmu/a_year_as_a_very_happy_nutfree_girl_lost_of_you/) by elilla in 2021 - links to wordsmith.social/elilla [What’s it like to be a post-orchiectomy non-op trans woman](https://wordsmith.social/elilla/whats-it-like-to-be-a-post-orchiectomy-non-op-trans-woman)
-* [Which GAS/grs/srs surgeon do you recommend in Germany or near Germany?](https://www.reddit.com/r/Transgender_Surgeries/comments/kcy3wt/which_gasgrssrs_surgeon_do_you_recommend_in/) by Molismhm in 2020
-* [SRS with Dr. Hess](https://www.reddit.com/r/Transgender_Surgeries/comments/i4s6x4/srs_with_dr_hess/) by Paralila in 2020
+* [Vaginoplasty, "Combined Method", PI with urethral lining, Prof. Dr. Jochen Heß, Essen Germany - 13/7 Months post-OP](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ft5fx9/vaginoplasty_combined_method_pi_with_urethral/content.html) by Cera_V in 2024
+* [Placeholder after 2nd SRS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1e2hmwg/placeholder_after_2nd_srs/content.html) by AeylaHearts in 2024 - *"I just had my revision surgery/ 2nd stage surgery with Dr. Hess/Heß in Essen, Germany and now I am advised to wear a placeholder and not dilate for the following 2 weeks. This is to not irritate the inner stitches more than necessary. The placeholder/stent is made from Bandages wrapped up in a condom, which is common for Hess and The surgeries in Munich I think."*
+* [update on the hole in my vaginao](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ajqdnf/update_on_the_hole_in_my_vaginao/content.html)  by Ordinary-Object-2026 in 2024
+    * [is this normal (warning graphic)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ajbvlh/is_this_normal_warning_graphic/content.html) by Ordinary-Object-2026 in 2024
+* [A year as a very happy nut-free girl! Lost of you appreciated my excessively detailed report on life post-orchi, so I revised & updated it with my experiences. Content note: When I say "my experiences" I mostly mean sex. (Sexual content is marked beforehand in the text.)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/q7wjmu/a_year_as_a_very_happy_nutfree_girl_lost_of_you/content.html) by elilla in 2021 - links to wordsmith.social/elilla [What’s it like to be a post-orchiectomy non-op trans woman](https://wordsmith.social/elilla/whats-it-like-to-be-a-post-orchiectomy-non-op-trans-woman)
+* [Which GAS/grs/srs surgeon do you recommend in Germany or near Germany?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kcy3wt/which_gasgrssrs_surgeon_do_you_recommend_in/content.html) by Molismhm in 2020
+* [SRS with Dr. Hess](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i4s6x4/srs_with_dr_hess/content.html) by Paralila in 2020
 * [How I got an orchiectomy from AOK Nordwest](https://www.reddit.com/r/germantrans/comments/hsbk9u/how_i_got_an_orchiectomy_from_aok_nordwest/) by elilla in 2020
 
 YouTube
@@ -1247,7 +1247,7 @@ There's some others listed with smaller entries so I've not addded them here.
 
 reddit
 
-* [What to pack and what to know when having feminising SRS with Dr. Lubos Kliniken (Team Markovsky), Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/zm5jys/what_to_pack_and_what_to_know_when_having/) by Elly7269 in 2022
+* [What to pack and what to know when having feminising SRS with Dr. Lubos Kliniken (Team Markovsky), Germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zm5jys/what_to_pack_and_what_to_know_when_having/content.html) by Elly7269 in 2022
 
 ### Oliver Philipp Markovsky
 
@@ -1263,19 +1263,19 @@ surgeons sites
 
 reddit
 
-* [Weird dehiscence almost a month Post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1hr07ok/weird_dehiscence_almost_a_month_post_op/) by hotellena in 2025
-    * [Almost a month Post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1horuft/almost_a_month_post_op/) by hotellena in 2024
-    * [Day 6 Post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1hawfnv/day_6_post_op/) by hotellena in 2024
-    * [Day 3 Post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1h8oxdm/day_3_post_op/) by hotellena in 2024
-* [1 Year Post-OP Dr. Oliver Markovsky + Revision With Dr. Daniel Merz After Half A Year (Lubos Kliniken Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/1b6lr0j/1_year_postop_dr_oliver_markovsky_revision_with/) by nipcat489 in 2024
-    * [71 Days Post-OP First Stage Dr. Oliver Markovsky (Lubos Kliniken Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/13gmfjc/71_days_postop_first_stage_dr_oliver_markovsky/) by nipcat489 in 2023
-    * [47 Days Post-OP First Stage Dr. Oliver Markovsky (Lubos Kliniken Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/12qw6kw/47_days_postop_first_stage_dr_oliver_markovsky/) by nipcat489 in 2023
-    * [I just had my first orgasm at 6 weeks post-op and it was the best one I ever had!](https://www.reddit.com/r/Transgender_Surgeries/comments/12o7qv2/i_just_had_my_first_orgasm_at_6_weeks_postop_and/) by nipcat489 in 2023
-    * [20 Days Post-OP First Stage Dr. Oliver Markovsky (Lubos Kliniken Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/11ynm9v/20_days_postop_first_stage_dr_oliver_markovsky/) by nipcat489 in 2023
+* [Weird dehiscence almost a month Post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hr07ok/weird_dehiscence_almost_a_month_post_op/content.html) by hotellena in 2025
+    * [Almost a month Post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1horuft/almost_a_month_post_op/content.html) by hotellena in 2024
+    * [Day 6 Post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hawfnv/day_6_post_op/content.html) by hotellena in 2024
+    * [Day 3 Post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1h8oxdm/day_3_post_op/content.html) by hotellena in 2024
+* [1 Year Post-OP Dr. Oliver Markovsky + Revision With Dr. Daniel Merz After Half A Year (Lubos Kliniken Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1b6lr0j/1_year_postop_dr_oliver_markovsky_revision_with/content.html) by nipcat489 in 2024
+    * [71 Days Post-OP First Stage Dr. Oliver Markovsky (Lubos Kliniken Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13gmfjc/71_days_postop_first_stage_dr_oliver_markovsky/content.html) by nipcat489 in 2023
+    * [47 Days Post-OP First Stage Dr. Oliver Markovsky (Lubos Kliniken Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/12qw6kw/47_days_postop_first_stage_dr_oliver_markovsky/content.html) by nipcat489 in 2023
+    * [I just had my first orgasm at 6 weeks post-op and it was the best one I ever had!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/12o7qv2/i_just_had_my_first_orgasm_at_6_weeks_postop_and/content.html) by nipcat489 in 2023
+    * [20 Days Post-OP First Stage Dr. Oliver Markovsky (Lubos Kliniken Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/11ynm9v/20_days_postop_first_stage_dr_oliver_markovsky/content.html) by nipcat489 in 2023
     * [20 Tage Post-OP GaOP first stage Dr. Oliver Markovsky Lubos Klinik Pasing (kleiner Erfahrungsbericht)](https://www.reddit.com/r/germantrans/comments/11yhe97/20_tage_postop_gaop_first_stage_dr_oliver/) by nipcat489 in 2023
-* [3 months post lubos Klinik München.](https://www.reddit.com/r/Transgender_Surgeries/comments/16se1pl/3_months_post_lubos_klinik_m%C3%BCnchen/) by ImpossibleFox2113 in 2023
-* [Day 30, MtF - SRS, Dr. Oliver P. Markovsky (Dr. Lubos Kliniken)](https://www.reddit.com/r/Transgender_Surgeries/comments/12kre3c/day_30_mtf_srs_dr_oliver_p_markovsky_dr_lubos/) by Lumie_van_Astrea in 2023
-    * [Day 79, MtF - SRS, Dr. Oliver P. Markovsky (Dr. Lubos Kliniken)](https://www.reddit.com/r/Transgender_Surgeries/comments/13yam4l/day_79_mtf_srs_dr_oliver_p_markovsky_dr_lubos/) by Lumie_van_Astrea in 2023
+* [3 months post lubos Klinik München.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16se1pl/3_months_post_lubos_klinik_m%C3%BCnchen/content.html) by ImpossibleFox2113 in 2023
+* [Day 30, MtF - SRS, Dr. Oliver P. Markovsky (Dr. Lubos Kliniken)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/12kre3c/day_30_mtf_srs_dr_oliver_p_markovsky_dr_lubos/content.html) by Lumie_van_Astrea in 2023
+    * [Day 79, MtF - SRS, Dr. Oliver P. Markovsky (Dr. Lubos Kliniken)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13yam4l/day_79_mtf_srs_dr_oliver_p_markovsky_dr_lubos/content.html) by Lumie_van_Astrea in 2023
     * [Tag 14, GaOP - Dr. Oliver P. Markovsky](https://www.reddit.com/r/germantrans/comments/124qw7a/tag_14_gaop_dr_oliver_p_markovsky/) by Lumie_van_Astrea in 2023
     * [Vergleich: Tag 10 vs Tag 11, GaOP Dr. Oliver P. Markovsky](https://www.reddit.com/r/germantrans/comments/121i46t/vergleich_tag_10_vs_tag_11_gaop_dr_oliver_p/) by Lumie_van_Astrea in 2023
     * [Tag 10, GaOP, Dr. Oliver P. Markovsky](https://www.reddit.com/r/germantrans/comments/120jkyp/tag_10_gaop_dr_oliver_p_markovsky/) by Lumie_van_Astrea in 2023
@@ -1284,16 +1284,16 @@ reddit
     * [Tag 5, GaOP - Dr. Oliver P. Markovsky](https://www.reddit.com/r/germantrans/comments/11vfjmz/tag_5_gaop_dr_oliver_p_markovsky/) by Lumie_van_Astrea in 2023
     * [Tag 4, GaOP - Dr. Oliver P. Markovsky](https://www.reddit.com/r/germantrans/comments/11ukynr/tag_4_gaop_dr_oliver_p_markovsky/) by Lumie_van_Astrea in 2023
     * [Tag 3, GaOP - Dr. Oliver P. Markovsky](https://www.reddit.com/r/germantrans/comments/11tru72/tag_3_gaop_dr_oliver_p_markovsky/) by Lumie_van_Astrea in 2023
-* [32 days Post op. Dr Markovsky, Lubos klinik munic. What do you think?](https://www.reddit.com/r/Transgender_Surgeries/comments/151lwah/32_days_post_op_dr_markovsky_lubos_klinik_munic/) by transbeauty1 in 2023
-* [One year after first surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/14fg1z0/one_year_after_first_surgery/) by Lisha_trans in 2023
-    * [After 2 months of revision](https://www.reddit.com/r/Transgender_Surgeries/comments/12jrpu3/after_2_months_of_revision/) by Lisha_trans in 2023
-    * [8 months post-OP.](https://www.reddit.com/r/Transgender_Surgeries/comments/10ifqec/8_months_postop/) by Lisha_trans in 2023
-* [1 year post SRS with Team Markovsky @ Lubos Clinic,Munic](https://www.reddit.com/r/Transgender_Surgeries/comments/zsppih/1_year_post_srs_with_team_markovsky_lubos/) by Special_Throat_3353 in 2022
-    * [week 2 follow up revision of GRS (surgeon Dr. Markovsky , Munich Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/vtly4r/week_2_follow_up_revision_of_grs_surgeon_dr/) by Special_Throat_3353 in 2022
-* [need help with a decision for my revision (details in comments)](https://www.reddit.com/r/Transgender_Surgeries/comments/z04cr8/need_help_with_a_decision_for_my_revision_details/) by grsquestion in 2022
-* [12 months later, so happy with the result (Markovsky / Riegel - Munich)](https://www.reddit.com/r/Transgender_Surgeries/comments/vvknu7/12_months_later_so_happy_with_the_result/) by postOPbiBitch in 2022
-    * [Hairy 9 month update ... postOP (PI) Markovsky / Riegel - Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/u2j0q8/hairy_9_month_update_postop_pi_markovsky_riegel/) by postOPbiBitch in 2022
-    * [6 months post Op (PI) by Markovsky / Riegel Munich Bogenhausen](https://www.reddit.com/r/Transgender_Surgeries/comments/s164qe/6_months_post_op_pi_by_markovsky_riegel_munich/) by postOPbiBitch in 2022
+* [32 days Post op. Dr Markovsky, Lubos klinik munic. What do you think?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/151lwah/32_days_post_op_dr_markovsky_lubos_klinik_munic/content.html) by transbeauty1 in 2023
+* [One year after first surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14fg1z0/one_year_after_first_surgery/content.html) by Lisha_trans in 2023
+    * [After 2 months of revision](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/12jrpu3/after_2_months_of_revision/content.html) by Lisha_trans in 2023
+    * [8 months post-OP.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10ifqec/8_months_postop/content.html) by Lisha_trans in 2023
+* [1 year post SRS with Team Markovsky @ Lubos Clinic,Munic](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zsppih/1_year_post_srs_with_team_markovsky_lubos/content.html) by Special_Throat_3353 in 2022
+    * [week 2 follow up revision of GRS (surgeon Dr. Markovsky , Munich Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/vtly4r/week_2_follow_up_revision_of_grs_surgeon_dr/content.html) by Special_Throat_3353 in 2022
+* [need help with a decision for my revision (details in comments)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z04cr8/need_help_with_a_decision_for_my_revision_details/content.html) by grsquestion in 2022
+* [12 months later, so happy with the result (Markovsky / Riegel - Munich)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/vvknu7/12_months_later_so_happy_with_the_result/content.html) by postOPbiBitch in 2022
+    * [Hairy 9 month update ... postOP (PI) Markovsky / Riegel - Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/u2j0q8/hairy_9_month_update_postop_pi_markovsky_riegel/content.html) by postOPbiBitch in 2022
+    * [6 months post Op (PI) by Markovsky / Riegel Munich Bogenhausen](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/s164qe/6_months_post_op_pi_by_markovsky_riegel_munich/content.html) by postOPbiBitch in 2022
 
 Christin Löhner
 
@@ -1304,10 +1304,10 @@ Christin Löhner
 
 reddit
 
-* [I get wet](https://www.reddit.com/r/Transgender_Surgeries/comments/16mea8u/i_get_wet/) by Lumie_van_Astrea in 2023
+* [I get wet](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16mea8u/i_get_wet/content.html) by Lumie_van_Astrea in 2023
 * reply to [Is GRS (for trans women) recovery really that bad?](https://www.reddit.com/r/asktransgender/comments/o4yqze/is_grs_for_trans_women_recovery_really_that_bad/h2jxken/) by LinaKatharina in 2021
-* [Which GAS/grs/srs surgeon do you recommend in Germany or near Germany?](https://www.reddit.com/r/Transgender_Surgeries/comments/kcy3wt/which_gasgrssrs_surgeon_do_you_recommend_in/) by Molismhm in 2020
-* [Which german surgeons would you recommend?](https://www.reddit.com/r/Transgender_Surgeries/comments/j3b7bn/which_german_surgeons_would_you_recommend/) by Molismhm in 2020
+* [Which GAS/grs/srs surgeon do you recommend in Germany or near Germany?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kcy3wt/which_gasgrssrs_surgeon_do_you_recommend_in/content.html) by Molismhm in 2020
+* [Which german surgeons would you recommend?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/j3b7bn/which_german_surgeons_would_you_recommend/content.html) by Molismhm in 2020
 
 YouTube
 
@@ -1336,34 +1336,34 @@ Surgeons sites
 
 reddit
 
-* [1 year give or take after Surgery, Lubos Munich Dr. Klemenz](https://www.reddit.com/r/Transgender_Surgeries/comments/1i9s7wo/1_year_give_or_take_after_surgery_lubos_munich_dr/) by  AliKitty_Ger in 2025
-    * [Post Op 3 Month's Lubos Dr Klemenz](https://www.reddit.com/r/Transgender_Surgeries/comments/1b38gum/post_op_3_months_lubos_dr_klemenz/) by AliKitty_Ger in 2024
-    * [2 Month's Post OP Lubos Munich Dr Klemenz](https://www.reddit.com/r/Transgender_Surgeries/comments/1adq6a9/2_months_post_op_lubos_munich_dr_klemenz/) by AliKitty_Ger in 2024
-    * [30 Days Post OP Lubos Munich Dr.Klemenz](https://www.reddit.com/r/Transgender_Surgeries/comments/18tmheu/30_days_post_op_lubos_munich_drklemenz/) by AliKitty_Ger in 2023
-    * [15 Days post Op Dr Klemenz Lubos Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/18j7au5/15_days_post_op_dr_klemenz_lubos_munich/) by AliKitty_Ger in 2023
-    * [10 Days post Surgery Lubos Munich Dr. Klemenz](https://www.reddit.com/r/Transgender_Surgeries/comments/18f9jp8/10_days_post_surgery_lubos_munich_dr_klemenz/) by AliKitty_Ger in 2023
-    * [5 Days Post surgery Lubos Munich D.r Clemenz](https://www.reddit.com/r/Transgender_Surgeries/comments/18amk95/5_days_post_surgery_lubos_munich_dr_clemenz/) by AliKitty_Ger in 2023
-* [Mtf OP 08/23 lubos Kliniken munich now](https://www.reddit.com/r/Transgender_Surgeries/comments/1at188s/mtf_op_0823_lubos_kliniken_munich_now/) by ZuriNora in 2024
-    * [3 weeks mtf postOP lubos Kliniken Munich Dr. Klemenz](https://www.reddit.com/r/Transgender_Surgeries/comments/16bloj6/3_weeks_mtf_postop_lubos_kliniken_munich_dr/) by ZuriNora in 2023
+* [1 year give or take after Surgery, Lubos Munich Dr. Klemenz](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1i9s7wo/1_year_give_or_take_after_surgery_lubos_munich_dr/content.html) by  AliKitty_Ger in 2025
+    * [Post Op 3 Month's Lubos Dr Klemenz](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1b38gum/post_op_3_months_lubos_dr_klemenz/content.html) by AliKitty_Ger in 2024
+    * [2 Month's Post OP Lubos Munich Dr Klemenz](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1adq6a9/2_months_post_op_lubos_munich_dr_klemenz/content.html) by AliKitty_Ger in 2024
+    * [30 Days Post OP Lubos Munich Dr.Klemenz](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18tmheu/30_days_post_op_lubos_munich_drklemenz/content.html) by AliKitty_Ger in 2023
+    * [15 Days post Op Dr Klemenz Lubos Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18j7au5/15_days_post_op_dr_klemenz_lubos_munich/content.html) by AliKitty_Ger in 2023
+    * [10 Days post Surgery Lubos Munich Dr. Klemenz](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18f9jp8/10_days_post_surgery_lubos_munich_dr_klemenz/content.html) by AliKitty_Ger in 2023
+    * [5 Days Post surgery Lubos Munich D.r Clemenz](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18amk95/5_days_post_surgery_lubos_munich_dr_clemenz/content.html) by AliKitty_Ger in 2023
+* [Mtf OP 08/23 lubos Kliniken munich now](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1at188s/mtf_op_0823_lubos_kliniken_munich_now/content.html) by ZuriNora in 2024
+    * [3 weeks mtf postOP lubos Kliniken Munich Dr. Klemenz](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16bloj6/3_weeks_mtf_postop_lubos_kliniken_munich_dr/content.html) by ZuriNora in 2023
     * [GaOP Dr Klemenz Lubos Klinik Tag 0 bis 5](https://www.reddit.com/r/germantrans/comments/15x5a0c/gaop_dr_klemenz_lubos_klinik_tag_0_bis_5/) by ZuriNora in 2023
-* [1 year post revision (surgeon Dr. Merz, Munich, Germany) (first stage 20 months ago)](https://www.reddit.com/r/Transgender_Surgeries/comments/12znva2/1_year_post_revision_surgeon_dr_merz_munich/) by RainbowDashieeee in 2023
-    * [till month 3 follow up revision of GRS (surgeon Dr. Merz team Markovsky, Munich Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/w98yh7/till_month_3_follow_up_revision_of_grs_surgeon_dr/) by by RainbowDashieeee in 2022 - also see surgeon Daniel Merz for revision
-    * [week 3 follow up revision of GRS (surgeon Dr. Merz team Markovsky, Munich Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/us7dxt/week_3_follow_up_revision_of_grs_surgeon_dr_merz/) by RainbowDashieeee in 2022
-    * [week 2 follow up revision of GRS (surgeon Dr. Merz team Markovsky, Munich Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/un6cvb/week_2_follow_up_revision_of_grs_surgeon_dr_merz/) by RainbowDashieeee in 2022
-    * [week 1 follow up revision of GRS (surgeon Dr. Merz team Markovsky, Munich Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/uhmz4p/week_1_follow_up_revision_of_grs_surgeon_dr_merz/) by RainbowDashieeee in 2022
-    * [GRS 6 Month follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/t505xy/grs_6_month_follow_up_surgeon_dr_klemenz_team/) by RainbowDashieeee in 2022
-    * [GRS 3 Month follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/r5iuqh/grs_3_month_follow_up_surgeon_dr_klemenz_team/) by RainbowDashieeee in 2021 in [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries)
+* [1 year post revision (surgeon Dr. Merz, Munich, Germany) (first stage 20 months ago)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/12znva2/1_year_post_revision_surgeon_dr_merz_munich/content.html) by RainbowDashieeee in 2023
+    * [till month 3 follow up revision of GRS (surgeon Dr. Merz team Markovsky, Munich Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/w98yh7/till_month_3_follow_up_revision_of_grs_surgeon_dr/content.html) by by RainbowDashieeee in 2022 - also see surgeon Daniel Merz for revision
+    * [week 3 follow up revision of GRS (surgeon Dr. Merz team Markovsky, Munich Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/us7dxt/week_3_follow_up_revision_of_grs_surgeon_dr_merz/content.html) by RainbowDashieeee in 2022
+    * [week 2 follow up revision of GRS (surgeon Dr. Merz team Markovsky, Munich Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/un6cvb/week_2_follow_up_revision_of_grs_surgeon_dr_merz/content.html) by RainbowDashieeee in 2022
+    * [week 1 follow up revision of GRS (surgeon Dr. Merz team Markovsky, Munich Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uhmz4p/week_1_follow_up_revision_of_grs_surgeon_dr_merz/content.html) by RainbowDashieeee in 2022
+    * [GRS 6 Month follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t505xy/grs_6_month_follow_up_surgeon_dr_klemenz_team/content.html) by RainbowDashieeee in 2022
+    * [GRS 3 Month follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/r5iuqh/grs_3_month_follow_up_surgeon_dr_klemenz_team/content.html) by RainbowDashieeee in 2021 in [r/Transgender_Surgeries](https://www.reddit.com/r/Transgender_Surgeries)
     * [3 Month Post GRS Munich, Germany AMA](https://www.reddit.com/r/MtF/comments/r5j03k/3_month_post_grs_munich_germany_ama/) by RainbowDashieeee in 2021 in [r/MtF](https://www.reddit.com/r/MtF)
-    * [GRS 4. Week follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/px2d8n/grs_4_week_follow_up_surgeon_dr_klemenz_team/) by RainbowDashieeee in 2021
-    * [GRS 3. Week follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/ps2urh/grs_3_week_follow_up_surgeon_dr_klemenz_team/) by RainbowDashieeee in 2021
-    * [GRS 2. Week follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/pnjhqg/grs_2_week_follow_up_surgeon_dr_klemenz_team/) by RainbowDashieeee in 2021
-    * [GRS 1. Week follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/pjizdv/grs_1_week_follow_up_surgeon_dr_klemenz_team/) by RainbowDashieeee in 2021
-    * [AMA grs Dr. klemenz (Team markovsky) Munich (Germany) 30/08/2021](https://www.reddit.com/r/Transgender_Surgeries/comments/peyth3/ama_grs_dr_klemenz_team_markovsky_munich_germany/) by RainbowDashieeee in 2021
+    * [GRS 4. Week follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/px2d8n/grs_4_week_follow_up_surgeon_dr_klemenz_team/content.html) by RainbowDashieeee in 2021
+    * [GRS 3. Week follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ps2urh/grs_3_week_follow_up_surgeon_dr_klemenz_team/content.html) by RainbowDashieeee in 2021
+    * [GRS 2. Week follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/pnjhqg/grs_2_week_follow_up_surgeon_dr_klemenz_team/content.html) by RainbowDashieeee in 2021
+    * [GRS 1. Week follow up (surgeon Dr. Klemenz, team markovsky, Munich, Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/pjizdv/grs_1_week_follow_up_surgeon_dr_klemenz_team/content.html) by RainbowDashieeee in 2021
+    * [AMA grs Dr. klemenz (Team markovsky) Munich (Germany) 30/08/2021](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/peyth3/ama_grs_dr_klemenz_team_markovsky_munich_germany/content.html) by RainbowDashieeee in 2021
 * [1. GaOP bei Dr. Klemenz (Lubos Kliniken)](https://old.reddit.com/r/germantrans/comments/yntas8/1_gaop_bei_dr_klemenz_lubos_kliniken/) by  Interesting_Humor788 in 2022
-* [it's not perfectly healed yet, but I'm so happy with it 😊 (surgery date: November 9th, surgeon Dr. Klemens, Lubos Kliniken in Munich)](https://www.reddit.com/r/Transgender_Surgeries/comments/zimxlj/its_not_perfectly_healed_yet_but_im_so_happy_with/) by johannaisaa in 2022
-* [2 weeks post OP, Dr. Klemenz (Team Markovsky) AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/wgaciv/2_weeks_post_op_dr_klemenz_team_markovsky_ama/) by CinnamonMinnie in 2022
-* [12 days post-op 2nd stage SRS: Labiaplasty, clitoral hood added and better opening of the vaginal canal.What do you think of the results? I’m not really sure if I like the results overall and especially the labia: Labia majora too large and look like scrotal skin and L. minora almost invisible..](https://www.reddit.com/r/Transgender_Surgeries/comments/p4kk55/12_days_postop_2nd_stage_srs_labiaplasty_clitoral/) by BuffaloTrick336 in 2021
-* [Outcome of my SRS (1st stage) 2,5 months post op. I’m really not sure what to think about it. I don’t know if I can be happy with the aesthetic outcome. I will have the 2nd stage till the end of this year.](https://www.reddit.com/r/Transgender_Surgeries/comments/m541ln/outcome_of_my_srs_1st_stage_25_months_post_op_im/) by BuffaloTrick336 in 2021
+* [it's not perfectly healed yet, but I'm so happy with it 😊 (surgery date: November 9th, surgeon Dr. Klemens, Lubos Kliniken in Munich)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zimxlj/its_not_perfectly_healed_yet_but_im_so_happy_with/content.html) by johannaisaa in 2022
+* [2 weeks post OP, Dr. Klemenz (Team Markovsky) AMA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wgaciv/2_weeks_post_op_dr_klemenz_team_markovsky_ama/content.html) by CinnamonMinnie in 2022
+* [12 days post-op 2nd stage SRS: Labiaplasty, clitoral hood added and better opening of the vaginal canal.What do you think of the results? I’m not really sure if I like the results overall and especially the labia: Labia majora too large and look like scrotal skin and L. minora almost invisible..](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/p4kk55/12_days_postop_2nd_stage_srs_labiaplasty_clitoral/content.html) by BuffaloTrick336 in 2021
+* [Outcome of my SRS (1st stage) 2,5 months post op. I’m really not sure what to think about it. I don’t know if I can be happy with the aesthetic outcome. I will have the 2nd stage till the end of this year.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/m541ln/outcome_of_my_srs_1st_stage_25_months_post_op_im/content.html) by BuffaloTrick336 in 2021
 
 **Non-photo links**
 
@@ -1383,9 +1383,9 @@ Surgeons sites
 
 reddit
 
-* [1 Year Post-OP Dr. Oliver Markovsky + Revision With Dr. Daniel Merz After Half A Year (Lubos Kliniken Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/1b6lr0j/1_year_postop_dr_oliver_markovsky_revision_with/) by nipcat489 in 2024
-* [199 days post revision of GRS (surgeon Dr. Merz, Team Markovsky, Munich Germany)(first stage 438 days ago)](https://www.reddit.com/r/Transgender_Surgeries/comments/ys7ip4/199_days_post_revision_of_grs_surgeon_dr_merz/) by RainbowDashieeee in 2022
-* [week 1 follow up revision of GRS (surgeon Dr. Merz team Markovsky, Munich Germany)](https://www.reddit.com/r/Transgender_Surgeries/comments/uhmz4p/week_1_follow_up_revision_of_grs_surgeon_dr_merz/) by RainbowDashieeee in 2022 - note primary surgey was with Kay Arne Klemenz
+* [1 Year Post-OP Dr. Oliver Markovsky + Revision With Dr. Daniel Merz After Half A Year (Lubos Kliniken Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1b6lr0j/1_year_postop_dr_oliver_markovsky_revision_with/content.html) by nipcat489 in 2024
+* [199 days post revision of GRS (surgeon Dr. Merz, Team Markovsky, Munich Germany)(first stage 438 days ago)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ys7ip4/199_days_post_revision_of_grs_surgeon_dr_merz/content.html) by RainbowDashieeee in 2022
+* [week 1 follow up revision of GRS (surgeon Dr. Merz team Markovsky, Munich Germany)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uhmz4p/week_1_follow_up_revision_of_grs_surgeon_dr_merz/content.html) by RainbowDashieeee in 2022 - note primary surgey was with Kay Arne Klemenz
 
 ### Götz-Christian Melloh
 
@@ -1395,7 +1395,7 @@ Surgeons sites
 
 reddit
 
-* [Appointment for GRS with Dr Melloh (Lubos Kliniken Munich)](https://www.reddit.com/r/Transgender_Surgeries/comments/uj6ygc/appointment_for_grs_with_dr_melloh_lubos_kliniken/) by DeliciousBag3738 in 2022
+* [Appointment for GRS with Dr Melloh (Lubos Kliniken Munich)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uj6ygc/appointment_for_grs_with_dr_melloh_lubos_kliniken/content.html) by DeliciousBag3738 in 2022
 
 <br />
 
@@ -1417,35 +1417,35 @@ Surgeons site
 
 reddit
 
-* [Day 31, penile inversion + scrotal graft](https://www.reddit.com/r/Transgender_Surgeries/comments/19364vs/day_31_penile_inversion_scrotal_graft/) by Surgery_girl991 in 2024
-    * [Does this look normal/good to you? Day 8, penile inversion + scrotal graft.](https://www.reddit.com/r/Transgender_Surgeries/comments/18jn0ct/does_this_look_normalgood_to_you_day_8_penile/) by Surgery_girl991 in 2023
-* [Dr Taskov: 8 months Post-OP](https://www.reddit.com/r/Transgender_Surgeries/comments/18eh2v5/dr_taskov_8_months_postop/) by JanineKerr in 2023
-    * [7.5 post-OP Dr. Taskov Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/13fnk0b/75_postop_dr_taskov_germany/) by  JanineKerr in 2023
-* [Day 14 post OP SRS; Dr. Taskov; Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/112216o/day_14_post_op_srs_dr_taskov_munich/)  by charlotte_dings in 2023
-    * [Day 10 post OP SRS; Dr. Taskov; Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/10ymgei/day_10_post_op_srs_dr_taskov_munich/) by charlotte_dings in 2023
-    * [Day 6 post OP SRS; Dr. Taskov; Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/10v297k/day_6_post_op_srs_dr_taskov_munich/) by charlotte_dings in 2023
-    * [Day 2 post OP, Dr. Taskov, Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/10rkd8n/day_2_post_op_dr_taskov_munich/) by  charlotte_dings in 2023
-* [55 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/103kgql/55_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/) by hypamia in 2023
-    * [53 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich - Dilating](https://www.reddit.com/r/Transgender_Surgeries/comments/1025zxi/53_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/) by hypamia in 2023
-    * [40 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/zr697m/40_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/) by hypamia in 2022
-    * [34 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/zmzjlp/34_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/) by hypamia in 2022
-    * [34 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich - Video](https://www.reddit.com/r/Transgender_Surgeries/comments/zmy98x/34_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/) by hypamia in 2022
-    * [26 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/zf4da7/26_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/) by hypamia in 2022
-    * [18 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/z7edz6/18_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/) by hypamia in 2022
-    * [16 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/z5uucq/16_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/) by hypamia in 2022
-    * [12 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich - After dilation](https://www.reddit.com/r/Transgender_Surgeries/comments/z3185m/12_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/) by hypamia in 2022
-    * [10 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/z153g7/10_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/) by hypamia in 2022
-    * [9 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich - First time dilation](https://www.reddit.com/r/Transgender_Surgeries/comments/yzz9dl/9_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/) by hypamia in 2022
-    * [6 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich ](https://www.reddit.com/r/Transgender_Surgeries/comments/yxjdle/6_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/) by hypamia in 2022
-    * [3 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/yusvto/3_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/) by hypamia in 2022
-    * [2 days post OP SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/ytw0vi/2_days_post_op_srs_with_dr_taskov_dr_lubos_clinic/) by hypamia in 2022
-* [First(failed) revision Dr. Taskov Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/z6xz9h/firstfailed_revision_dr_taskov_germany/) by  Raphaela23 in 2022
-    * [Post grs 5 1/2 weeks Dr. Taskov](https://www.reddit.com/r/Transgender_Surgeries/comments/rkvr62/post_grs_5_12_weeks_dr_taskov/) by Raphaela23 in 2021
-* [Is this hyper granulation? Sorry for graphic pic](https://www.reddit.com/r/Transgender_Surgeries/comments/wkg68u/is_this_hyper_granulation_sorry_for_graphic_pic/) by throwaway5523354 in 2022
-    * [5 weeks Post OP — Dr. Taskov in Munich Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/uq8jbi/5_weeks_post_op_dr_taskov_in_munich_germany/) by throwaway5523354 in 2022
-* [UPDATE: Day 8 of Dr Taskovs Revision. I am so happy. I have everything I ever wanted. When I pee it makes this special noise. And I have inner labia.](https://www.reddit.com/r/Transgender_Surgeries/comments/uzi8nv/update_day_8_of_dr_taskovs_revision_i_am_so_happy/) by mariahh93 in 2022
-    * [I think Dr taskov has fixed my botched bottom surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/uv5jqv/i_think_dr_taskov_has_fixed_my_botched_bottom/) by mariahh93 in 2022 - *"The first three surgeries have been performed by Dr Riechardt. After three years of pain I decided to try a fourth surgery with Dr Taskov."*
-* [1 week post OP (SRS, MtF, Dr. Taskov, Munich, combined method) - Happy to answer questions!](https://www.reddit.com/r/Transgender_Surgeries/comments/scg2ot/1_week_post_op_srs_mtf_dr_taskov_munich_combined/) by Julikorn22 in 2022
+* [Day 31, penile inversion + scrotal graft](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/19364vs/day_31_penile_inversion_scrotal_graft/content.html) by Surgery_girl991 in 2024
+    * [Does this look normal/good to you? Day 8, penile inversion + scrotal graft.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18jn0ct/does_this_look_normalgood_to_you_day_8_penile/content.html) by Surgery_girl991 in 2023
+* [Dr Taskov: 8 months Post-OP](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18eh2v5/dr_taskov_8_months_postop/content.html) by JanineKerr in 2023
+    * [7.5 post-OP Dr. Taskov Germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13fnk0b/75_postop_dr_taskov_germany/content.html) by  JanineKerr in 2023
+* [Day 14 post OP SRS; Dr. Taskov; Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/112216o/day_14_post_op_srs_dr_taskov_munich/content.html)  by charlotte_dings in 2023
+    * [Day 10 post OP SRS; Dr. Taskov; Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10ymgei/day_10_post_op_srs_dr_taskov_munich/content.html) by charlotte_dings in 2023
+    * [Day 6 post OP SRS; Dr. Taskov; Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10v297k/day_6_post_op_srs_dr_taskov_munich/content.html) by charlotte_dings in 2023
+    * [Day 2 post OP, Dr. Taskov, Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10rkd8n/day_2_post_op_dr_taskov_munich/content.html) by  charlotte_dings in 2023
+* [55 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/103kgql/55_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/content.html) by hypamia in 2023
+    * [53 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich - Dilating](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1025zxi/53_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/content.html) by hypamia in 2023
+    * [40 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zr697m/40_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/content.html) by hypamia in 2022
+    * [34 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zmzjlp/34_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/content.html) by hypamia in 2022
+    * [34 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich - Video](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zmy98x/34_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/content.html) by hypamia in 2022
+    * [26 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zf4da7/26_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/content.html) by hypamia in 2022
+    * [18 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z7edz6/18_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/content.html) by hypamia in 2022
+    * [16 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z5uucq/16_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/content.html) by hypamia in 2022
+    * [12 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich - After dilation](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z3185m/12_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/content.html) by hypamia in 2022
+    * [10 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z153g7/10_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/content.html) by hypamia in 2022
+    * [9 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich - First time dilation](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yzz9dl/9_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/content.html) by hypamia in 2022
+    * [6 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich ](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yxjdle/6_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/content.html) by hypamia in 2022
+    * [3 days post OP MTF SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yusvto/3_days_post_op_mtf_srs_with_dr_taskov_dr_lubos/content.html) by hypamia in 2022
+    * [2 days post OP SRS with Dr. Taskov @ Dr. Lubos Clinic, Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ytw0vi/2_days_post_op_srs_with_dr_taskov_dr_lubos_clinic/content.html) by hypamia in 2022
+* [First(failed) revision Dr. Taskov Germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z6xz9h/firstfailed_revision_dr_taskov_germany/content.html) by  Raphaela23 in 2022
+    * [Post grs 5 1/2 weeks Dr. Taskov](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rkvr62/post_grs_5_12_weeks_dr_taskov/content.html) by Raphaela23 in 2021
+* [Is this hyper granulation? Sorry for graphic pic](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wkg68u/is_this_hyper_granulation_sorry_for_graphic_pic/content.html) by throwaway5523354 in 2022
+    * [5 weeks Post OP — Dr. Taskov in Munich Germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uq8jbi/5_weeks_post_op_dr_taskov_in_munich_germany/content.html) by throwaway5523354 in 2022
+* [UPDATE: Day 8 of Dr Taskovs Revision. I am so happy. I have everything I ever wanted. When I pee it makes this special noise. And I have inner labia.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uzi8nv/update_day_8_of_dr_taskovs_revision_i_am_so_happy/content.html) by mariahh93 in 2022
+    * [I think Dr taskov has fixed my botched bottom surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uv5jqv/i_think_dr_taskov_has_fixed_my_botched_bottom/content.html) by mariahh93 in 2022 - *"The first three surgeries have been performed by Dr Riechardt. After three years of pain I decided to try a fourth surgery with Dr Taskov."*
+* [1 week post OP (SRS, MtF, Dr. Taskov, Munich, combined method) - Happy to answer questions!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/scg2ot/1_week_post_op_srs_mtf_dr_taskov_munich_combined/content.html) by Julikorn22 in 2022
 
 **Non-photo links**
 
@@ -1478,7 +1478,7 @@ Other
 
 reddit
 
-* [SRS Lubos Clinic Bogenhausen](https://www.reddit.com/r/Transgender_Surgeries/comments/1i7jcqr/srs_lubos_clinic_bogenhausen/) by Outrageous_Pie_3246 in 2025
+* [SRS Lubos Clinic Bogenhausen](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1i7jcqr/srs_lubos_clinic_bogenhausen/content.html) by Outrageous_Pie_3246 in 2025
 
 <br />
 
@@ -1500,7 +1500,7 @@ Surgeon sites
 
 reddit
 
-* [3 Months PI,Team Markovsky,Dr.Riedl,Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/tfk2f3/3_months_piteam_markovskydrriedlmunich/) by Special_Throat_3353 in 2022
+* [3 Months PI,Team Markovsky,Dr.Riedl,Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tfk2f3/3_months_piteam_markovskydrriedlmunich/content.html) by Special_Throat_3353 in 2022
 
 **Non-photo links**
 
@@ -1549,7 +1549,7 @@ Location
 
 reddit
 
-* [Dr. Spehr (Germany) SRS, Vaginoplasty in year 2007, post op. Very happy, love my Vulva so much](https://www.reddit.com/r/Transgender_Surgeries/comments/1eqced2/dr_spehr_germany_srs_vaginoplasty_in_year_2007/) by  WeakWalk3974 in 2024
+* [Dr. Spehr (Germany) SRS, Vaginoplasty in year 2007, post op. Very happy, love my Vulva so much](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1eqced2/dr_spehr_germany_srs_vaginoplasty_in_year_2007/content.html) by  WeakWalk3974 in 2024
 
 Alexandra (there's lots of photo's on this site if you follow the links)
 
@@ -1574,13 +1574,13 @@ http://transvanilla.hu/vaginoplasty-orvos/liedl
 
 reddit
 
-* [Opinion. Does it look good? Lowkey ashamed of the aesthetic](https://www.reddit.com/r/Transgender_Surgeries/comments/srxt8w/opinion_does_it_look_good_lowkey_ashamed_of_the/) by Lettucelat in 2022
-    * [Sad result. 1 yrs post OP. Disappointed](https://www.reddit.com/r/Transgender_Surgeries/comments/rwh72g/sad_result_1_yrs_post_op_disappointed/) by Lettucelat in 2022
-   * [3 months post op Dr. Liedl](https://www.reddit.com/r/Transgender_Surgeries/comments/m0snfu/3_months_post_op_dr_liedl/) by Lettucelat in 2021
-   * [3 months post op. What's this grey, white thing? Help!](https://www.reddit.com/r/Transgender_Surgeries/comments/lm9una/3_months_post_op_whats_this_grey_white_thing_help/) by Lettucelat in 2021
-   * [Not satisfied with my aesthetic](https://www.reddit.com/r/Transgender_Surgeries/comments/llhezl/not_satisfied_with_my_aesthetic/) by Lettucelat in 2021
-   * [Post op srs mtf vagina. Does it look good?](https://www.reddit.com/r/Transgender_Surgeries/comments/lk2fy8/post_op_srs_mtf_vagina_does_it_look_good/) by Lettucelat in 2021* [I had to share this with y‘all](https://www.reddit.com/r/manmadepussy/comments/st6z8j/i_had_to_share_this_with_yall/) by wokouwokou in 2022
-    * [Had my surgery in the year 2009 (Dr. Liedl, Munich), last revision in 2019, still not really satisfied with the aesthetics -_-](https://www.reddit.com/r/Transgender_Surgeries/comments/hnfcmt/had_my_surgery_in_the_year_2009_dr_liedl_munich/) by wokouwokou
+* [Opinion. Does it look good? Lowkey ashamed of the aesthetic](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/srxt8w/opinion_does_it_look_good_lowkey_ashamed_of_the/content.html) by Lettucelat in 2022
+    * [Sad result. 1 yrs post OP. Disappointed](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rwh72g/sad_result_1_yrs_post_op_disappointed/content.html) by Lettucelat in 2022
+   * [3 months post op Dr. Liedl](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/m0snfu/3_months_post_op_dr_liedl/content.html) by Lettucelat in 2021
+   * [3 months post op. What's this grey, white thing? Help!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lm9una/3_months_post_op_whats_this_grey_white_thing_help/content.html) by Lettucelat in 2021
+   * [Not satisfied with my aesthetic](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/llhezl/not_satisfied_with_my_aesthetic/content.html) by Lettucelat in 2021
+   * [Post op srs mtf vagina. Does it look good?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lk2fy8/post_op_srs_mtf_vagina_does_it_look_good/content.html) by Lettucelat in 2021* [I had to share this with y‘all](https://www.reddit.com/r/manmadepussy/comments/st6z8j/i_had_to_share_this_with_yall/) by wokouwokou in 2022
+    * [Had my surgery in the year 2009 (Dr. Liedl, Munich), last revision in 2019, still not really satisfied with the aesthetics -_-](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hnfcmt/had_my_surgery_in_the_year_2009_dr_liedl_munich/content.html) by wokouwokou
 * [Nya ❤️ i‘ll take every inch of u](https://www.reddit.com/r/manmadepussy/comments/f7zpv6/nya_ill_take_every_inch_of_u/) by cyberpussy_zoe in 2020
    * [Hi i‘m zoe, ask me anything lul](https://www.reddit.com/r/manmadepussy/comments/f300wn/hi_im_zoe_ask_me_anything_lul/) by cyberpussy_zoe in 2020
 
@@ -1612,8 +1612,8 @@ Surgons sites
 
 reddit
 
-* [Which SRS surgeons should you 100% avoid?](https://www.reddit.com/r/Transgender_Surgeries/comments/rorbt9/which_srs_surgeons_should_you_100_avoid/) by Lianna999 in 2021
-* [Anyone know anything about Dr. Tobias Pottek in Berlin?](https://www.reddit.com/r/Transgender_Surgeries/comments/i3lozu/anyone_know_anything_about_dr_tobias_pottek_in/) by keevalilith in 2020
+* [Which SRS surgeons should you 100% avoid?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rorbt9/which_srs_surgeons_should_you_100_avoid/content.html) by Lianna999 in 2021
+* [Anyone know anything about Dr. Tobias Pottek in Berlin?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i3lozu/anyone_know_anything_about_dr_tobias_pottek_in/content.html) by keevalilith in 2020
 
 T-Nederland
 
@@ -1640,8 +1640,8 @@ https://www.markus-krankenhaus.de/uploads/tx_lukaimagecontact/CV_Sohn_01.pdf
 
 reddit
 
-* [Which GAS/grs/srs surgeon do you recommend in Germany or near Germany?](https://www.reddit.com/r/Transgender_Surgeries/comments/kcy3wt/which_gasgrssrs_surgeon_do_you_recommend_in/) by Molismhm in 2020
-* reply to [I think I have done everything wrong with post surgery care. The operation was in 02/2018](https://www.reddit.com/r/Transgender_Surgeries/comments/k2b7q8/i_think_i_have_done_everything_wrong_with_post/gdt5zkt/) by lillywho in 2020
+* [Which GAS/grs/srs surgeon do you recommend in Germany or near Germany?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kcy3wt/which_gasgrssrs_surgeon_do_you_recommend_in/content.html) by Molismhm in 2020
+* reply to [I think I have done everything wrong with post surgery care. The operation was in 02/2018](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/k2b7q8/i_think_i_have_done_everything_wrong_with_post/gdt5zkt/content.html) by lillywho in 2020
 
 YouTube
 
@@ -1666,10 +1666,10 @@ Surgeons sites
 
 reddit
 
-* [4 weeks SRS post OP with Dr. Saskia Morgenstern, Frankfurt, Germany!](https://www.reddit.com/r/Transgender_Surgeries/comments/11h0vn1/4_weeks_srs_post_op_with_dr_saskia_morgenstern/) by  emilytheimp in 2023
-    * [Stitches separating at lower right labia, is this still OK? Any advice?](https://www.reddit.com/r/Transgender_Surgeries/comments/1122ryq/stitches_separating_at_lower_right_labia_is_this/) by emilytheimp in 2023
-    * [White crust around vagina?](https://www.reddit.com/r/Transgender_Surgeries/comments/110hhs3/white_crust_around_vagina/) by emilytheimp in 2023
-* [Worried about my results](https://www.reddit.com/r/Transgender_Surgeries/comments/100ou17/worried_about_my_results/) by Queenx02 in 2023
+* [4 weeks SRS post OP with Dr. Saskia Morgenstern, Frankfurt, Germany!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/11h0vn1/4_weeks_srs_post_op_with_dr_saskia_morgenstern/content.html) by  emilytheimp in 2023
+    * [Stitches separating at lower right labia, is this still OK? Any advice?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1122ryq/stitches_separating_at_lower_right_labia_is_this/content.html) by emilytheimp in 2023
+    * [White crust around vagina?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/110hhs3/white_crust_around_vagina/content.html) by emilytheimp in 2023
+* [Worried about my results](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/100ou17/worried_about_my_results/content.html) by Queenx02 in 2023
 
 **Non-photo links**
 
@@ -1697,7 +1697,7 @@ Surgeons sites
 
 reddit
 
-* [Prof. Dr. Klotz(Urologist/Surgeon) SRS/ORCHI in Germany(Bavaria) - my experience](https://www.reddit.com/r/Transgender_Surgeries/comments/feghqk/prof_dr_klotzurologistsurgeon_srsorchi_in/) by fadedpurple in 2020
+* [Prof. Dr. Klotz(Urologist/Surgeon) SRS/ORCHI in Germany(Bavaria) - my experience](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/feghqk/prof_dr_klotzurologistsurgeon_srsorchi_in/content.html) by fadedpurple in 2020
 
 <br />
 
@@ -1718,7 +1718,7 @@ Surgeons sites
 
 reddit
 
-* [Which german surgeons would you recommend?](https://www.reddit.com/r/Transgender_Surgeries/comments/j3b7bn/which_german_surgeons_would_you_recommend/) by Molismhm in 2020
+* [Which german surgeons would you recommend?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/j3b7bn/which_german_surgeons_would_you_recommend/content.html) by Molismhm in 2020
 
 Other
 
@@ -1752,19 +1752,19 @@ Location
 
 reddit
 
-* [Are my breasts too small? I'm really scared to do any other surgery, yet I feel insecure about my body.](https://www.reddit.com/r/Transgender_Surgeries/comments/1fp7hsh/are_my_breasts_too_small_im_really_scared_to_do/) by juli10transthrowaway in 2024
-    * [Lubos Kliniken, 7 weeks post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1f44mx4/lubos_kliniken_7_weeks_post_op/) by juli10transthrowaway in 2024
+* [Are my breasts too small? I'm really scared to do any other surgery, yet I feel insecure about my body.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1fp7hsh/are_my_breasts_too_small_im_really_scared_to_do/content.html) by juli10transthrowaway in 2024
+    * [Lubos Kliniken, 7 weeks post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1f44mx4/lubos_kliniken_7_weeks_post_op/content.html) by juli10transthrowaway in 2024
     * [Trans woman, 40 days post op](https://www.reddit.com/r/dykesgonewild/comments/1ex4l9o/trans_woman_40_days_post_op/) by juli10transthrowaway in 2024
-    * [Should I be worried?](https://www.reddit.com/r/Transgender_Surgeries/comments/1entcen/should_i_be_worried/) by juli10transthrowaway in 2024
-    * [Team Markovsky, +23 days post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1ej17l3/team_markovsky_23_days_post_op/) by juli10transthrowaway in 2024
-    * [My vagina is not straight](https://www.reddit.com/r/Transgender_Surgeries/comments/1ediwgi/my_vagina_is_not_straight/) by juli10transthrowaway in 2024
-* [5 Weeks post op with Dr. Lausenmeyer at Lubos Kliniken Bogenhausen, Munich, Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/15b9sfk/5_weeks_post_op_with_dr_lausenmeyer_at_lubos/) by AdNeither3963 in 2023
-* [Day 8 after GRS with Dr. Eva Maria Lausenmeyer at the Lubos Kliniken Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/10yzvt4/day_8_after_grs_with_dr_eva_maria_lausenmeyer_at/) by DeliciousBag3738 in 2023
+    * [Should I be worried?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1entcen/should_i_be_worried/content.html) by juli10transthrowaway in 2024
+    * [Team Markovsky, +23 days post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ej17l3/team_markovsky_23_days_post_op/content.html) by juli10transthrowaway in 2024
+    * [My vagina is not straight](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ediwgi/my_vagina_is_not_straight/content.html) by juli10transthrowaway in 2024
+* [5 Weeks post op with Dr. Lausenmeyer at Lubos Kliniken Bogenhausen, Munich, Germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/15b9sfk/5_weeks_post_op_with_dr_lausenmeyer_at_lubos/content.html) by AdNeither3963 in 2023
+* [Day 8 after GRS with Dr. Eva Maria Lausenmeyer at the Lubos Kliniken Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10yzvt4/day_8_after_grs_with_dr_eva_maria_lausenmeyer_at/content.html) by DeliciousBag3738 in 2023
     * [Crosspost Day 8 after GRS with Dr. Eva Maria Lausenmeyer at the Lubos Kliniken in Munich](https://www.reddit.com/r/germantrans/comments/10z0ww3/crosspost_day_8_after_grs_with_dr_eva_maria/) by DeliciousBag3738 in 2023
-    * [Day 6 after GRS with Dr. Eva Maria Lausenmeyer at Lubos Kliniken Munich Pasing](https://www.reddit.com/r/Transgender_Surgeries/comments/10wsrsr/day_6_after_grs_with_dr_eva_maria_lausenmeyer_at/) by DeliciousBag3738 in 2023
+    * [Day 6 after GRS with Dr. Eva Maria Lausenmeyer at Lubos Kliniken Munich Pasing](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10wsrsr/day_6_after_grs_with_dr_eva_maria_lausenmeyer_at/content.html) by DeliciousBag3738 in 2023
     * [Crosspost 6 Tage nach GRS mit Dr. Eva Maria Lausenmeyer Lubos Kliniken München](https://www.reddit.com/r/germantrans/comments/10wt72r/crosspost_6_tage_nach_grs_mit_dr_eva_maria/) by DeliciousBag3738 in 2023
-    * [Day 3 After GRS Dr. Eva Maria Lausenmeyer Lubos Kliniken Munich](https://www.reddit.com/r/Transgender_Surgeries/comments/10u9vst/day_3_after_grs_dr_eva_maria_lausenmeyer_lubos/)  by DeliciousBag3738 in 2023
-    * [GRS tomorrow with Dr. Eva Lausenmeyer from Lubos Kliniken Munich Pasing](https://www.reddit.com/r/Transgender_Surgeries/comments/10r1ym7/grs_tomorrow_with_dr_eva_lausenmeyer_from_lubos/) by DeliciousBag3738 in 2023
+    * [Day 3 After GRS Dr. Eva Maria Lausenmeyer Lubos Kliniken Munich](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10u9vst/day_3_after_grs_dr_eva_maria_lausenmeyer_lubos/content.html)  by DeliciousBag3738 in 2023
+    * [GRS tomorrow with Dr. Eva Lausenmeyer from Lubos Kliniken Munich Pasing](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10r1ym7/grs_tomorrow_with_dr_eva_lausenmeyer_from_lubos/content.html) by DeliciousBag3738 in 2023
 * [Aufklärungsgespräch zur MzF GaOP mit Dr. med. Eva Maria Lausenmeyer - Dr. Lubos Kliniken](https://old.reddit.com/r/germantrans/comments/xdbwp8/aufkl%C3%A4rungsgespr%C3%A4ch_zur_mzf_gaop_mit_dr_med_eva/) by Roxy_Hu in 2022
 
 **Non-photo links**
@@ -1791,14 +1791,14 @@ Surgeons sites
 
 reddit
 
-* [I think Dr taskov has fixed my botched bottom surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/uv5jqv/i_think_dr_taskov_has_fixed_my_botched_bottom/) by mariahh93 in 2022 - *"The first three surgeries have been performed by Dr Riechardt. After three years of pain I decided to try a fourth surgery with Dr Taskov."*
-    * [My vagina 23 months after the last surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/ka1w1e/my_vagina_23_months_after_the_last_surgery/) by mariahh93 in 2020
+* [I think Dr taskov has fixed my botched bottom surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uv5jqv/i_think_dr_taskov_has_fixed_my_botched_bottom/content.html) by mariahh93 in 2022 - *"The first three surgeries have been performed by Dr Riechardt. After three years of pain I decided to try a fourth surgery with Dr Taskov."*
+    * [My vagina 23 months after the last surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ka1w1e/my_vagina_23_months_after_the_last_surgery/content.html) by mariahh93 in 2020
 
 **Non-photo links**
 
 reddit
 
-* [I think I have done everything wrong with post surgery care. The operation was in 02/2018](https://www.reddit.com/r/Transgender_Surgeries/comments/k2b7q8/i_think_i_have_done_everything_wrong_with_post/) by mariahh93 in 2020
+* [I think I have done everything wrong with post surgery care. The operation was in 02/2018](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/k2b7q8/i_think_i_have_done_everything_wrong_with_post/content.html) by mariahh93 in 2020
 
 <br />
 
@@ -1829,7 +1829,7 @@ reddit
 
 **Non-photo links**
 
-* reply to [Which SRS surgeons should you 100% avoid?](https://www.reddit.com/r/Transgender_Surgeries/comments/rorbt9/which_srs_surgeons_should_you_100_avoid/hq04tjb/) by RainbowDashieeee in 2021
+* reply to [Which SRS surgeons should you 100% avoid?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rorbt9/which_srs_surgeons_should_you_100_avoid/hq04tjb/content.html) by RainbowDashieeee in 2021
 
 <br />
 
@@ -1844,8 +1844,8 @@ Surgeons sites
 
 reddit
 
-* [srs post revision looks just fucked up AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/yilboi/srs_post_revision_looks_just_fucked_up_ama/) by Legitimate_Bit4413 in 2022
-    * [srs leaves me suicidal](https://www.reddit.com/r/Transgender_Surgeries/comments/xevcmw/srs_leaves_me_suicidal/) by Legitimate_Bit4413 in 2022
+* [srs post revision looks just fucked up AMA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yilboi/srs_post_revision_looks_just_fucked_up_ama/content.html) by Legitimate_Bit4413 in 2022
+    * [srs leaves me suicidal](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xevcmw/srs_leaves_me_suicidal/content.html) by Legitimate_Bit4413 in 2022
 
 Other
 
@@ -1903,9 +1903,9 @@ Surgeons sites
 
 reddit
 
-* [9 days Dr. Meister Mannheim/Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/1gn9l3g/9_days_dr_meister_mannheimgermany/) by Sleyana in 2024
+* [9 days Dr. Meister Mannheim/Germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1gn9l3g/9_days_dr_meister_mannheimgermany/content.html) by Sleyana in 2024
 * [1 Week Post-Op Dr.Meister Mannheim, Germany](https://www.reddit.com/r/germantrans/comments/1f02naw/1_week_postop_drmeister_mannheim_germany/) by WorriedAd1028
-    * [1 Week Post-Op SRS Dr.Meister Mannheim, Germany](https://www.reddit.com/r/Transgender_Surgeries/comments/1ezloei/1_week_postop_srs_drmeister_mannheim_germany/) by WorriedAd1028
+    * [1 Week Post-Op SRS Dr.Meister Mannheim, Germany](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ezloei/1_week_postop_srs_drmeister_mannheim_germany/content.html) by WorriedAd1028
 
 <br />
 
@@ -1987,7 +1987,7 @@ Surgeons sites
 
 reddit
 
-* reply to [SRS Hungary](https://www.reddit.com/r/Transgender_Surgeries/comments/smzo3y/srs_hungary/hw4igoh/) by JanetteSolenian in 2022
+* reply to [SRS Hungary](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/smzo3y/srs_hungary/hw4igoh/content.html) by JanetteSolenian in 2022
 
 <br />
 
@@ -2021,7 +2021,7 @@ Surgeons sites
 reddit
 
 * [r/transnord](https://www.reddit.com/r/transnord)
-* [MtF bottom surgery 26 months post op. Iceland](https://www.reddit.com/r/Transgender_Surgeries/comments/kgnujp/mtf_bottom_surgery_26_months_post_op_iceland/) by Monazu in 2020
+* [MtF bottom surgery 26 months post op. Iceland](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kgnujp/mtf_bottom_surgery_26_months_post_op_iceland/content.html) by Monazu in 2020
 * [4 Months post op vag. By Dr. Hannes Sigurjónsson in Iceland](https://www.reddit.com/r/transnord/comments/egtuc6/4_months_post_op_vag_by_dr_hannes_sigurj%C3%B3nsson_in/) by Monazu in 2019
 
 **Non-photo links**
@@ -2048,7 +2048,7 @@ reddit
 
 reddit
 
-* reply to [loss clitoris sensation risk](https://www.reddit.com/r/Transgender_Surgeries/comments/czmwql/loss_clitoris_sensation_risk/ezlrgt6/) by Susaop in 2019
+* reply to [loss clitoris sensation risk](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/czmwql/loss_clitoris_sensation_risk/ezlrgt6/content.html) by Susaop in 2019
 
 Other
 
@@ -2125,8 +2125,8 @@ Surgeons sites
 
 reddit
 
-* [3 months post op... What do u THINK?](https://www.reddit.com/r/Transgender_Surgeries/comments/rozdya/3_months_post_op_what_do_u_think/) by MermaidAriel96 in 2021
-    * [Help me pls 😢😢😢😢😢](https://www.reddit.com/r/Transgender_Surgeries/comments/roz750/help_me_pls/) by MermaidAriel96 in 2021
+* [3 months post op... What do u THINK?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rozdya/3_months_post_op_what_do_u_think/content.html) by MermaidAriel96 in 2021
+    * [Help me pls 😢😢😢😢😢](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/roz750/help_me_pls/content.html) by MermaidAriel96 in 2021
     * [I lost depth... Srs](https://www.reddit.com/r/honesttransgender/comments/roywot/i_lost_depth_srs/) by MermaidAriel96 in 2021
 
 <br />
@@ -2195,21 +2195,21 @@ Surgeons sites
 
 reddit
 
-* [My SRS experience at MKV (Medische Kliniek Velzen) with Dr. Kanhai](https://www.reddit.com/r/Transgender_Surgeries/comments/1c6o88s/my_srs_experience_at_mkv_medische_kliniek_velzen/) by throwawayformyvajay in 2024
-    * [3 weeks post-op with Dr. Kanhai in The Netherlands](https://www.reddit.com/r/Transgender_Surgeries/comments/1c4nhds/3_weeks_postop_with_dr_kanhai_in_the_netherlands/) by throwawayformyvajay in 2024
-* [\[3m 4d post-op\] MAMMOPLASTY AND PENILE INVERSION VAGINOPLASTY - Dr. Kanhai - Netherlands - surgery from 16/nov/2020](https://www.reddit.com/r/Transgender_Surgeries/comments/swzbg3/3m_4d_postop_mammoplasty_and_penile_inversion/) by Balertax in 2022
-    * [Breast augmentation before and after 390cc - 1 week post of with Dr. Kanhai in the Netherlands - Breast augmentation along with vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/r15wqr/breast_augmentation_before_and_after_390cc_1_week/) by Balertax in 2021
-* [2months post-op SRS in the Netherlands with dr. Kanhai](https://www.reddit.com/r/Transgender_Surgeries/comments/mopw1j/2months_postop_srs_in_the_netherlands_with_dr/) by AsiaNaprawia in 2021
-    * [2 weeks post-op SRS in the Netherlands with dr. Kanhai](https://www.reddit.com/r/Transgender_Surgeries/comments/lpl437/2_weeks_postop_srs_in_the_netherlands_with_dr/) by AsiaNaprawia in 2021
-* [About 3 months post-op GCS with Dr Kanhai in The Netherlands](https://www.reddit.com/r/Transgender_Surgeries/comments/mks9jw/about_3_months_postop_gcs_with_dr_kanhai_in_the/) by Girlydian in 2021
+* [My SRS experience at MKV (Medische Kliniek Velzen) with Dr. Kanhai](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1c6o88s/my_srs_experience_at_mkv_medische_kliniek_velzen/content.html) by throwawayformyvajay in 2024
+    * [3 weeks post-op with Dr. Kanhai in The Netherlands](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1c4nhds/3_weeks_postop_with_dr_kanhai_in_the_netherlands/content.html) by throwawayformyvajay in 2024
+* [\[3m 4d post-op\] MAMMOPLASTY AND PENILE INVERSION VAGINOPLASTY - Dr. Kanhai - Netherlands - surgery from 16/nov/2020](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/swzbg3/3m_4d_postop_mammoplasty_and_penile_inversion/content.html) by Balertax in 2022
+    * [Breast augmentation before and after 390cc - 1 week post of with Dr. Kanhai in the Netherlands - Breast augmentation along with vaginoplasty](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/r15wqr/breast_augmentation_before_and_after_390cc_1_week/content.html) by Balertax in 2021
+* [2months post-op SRS in the Netherlands with dr. Kanhai](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mopw1j/2months_postop_srs_in_the_netherlands_with_dr/content.html) by AsiaNaprawia in 2021
+    * [2 weeks post-op SRS in the Netherlands with dr. Kanhai](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lpl437/2_weeks_postop_srs_in_the_netherlands_with_dr/content.html) by AsiaNaprawia in 2021
+* [About 3 months post-op GCS with Dr Kanhai in The Netherlands](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mks9jw/about_3_months_postop_gcs_with_dr_kanhai_in_the/content.html) by Girlydian in 2021
 
 **Non-photo links**
 
 reddit
 
-* [SRS with Dr. Kanhai, Netherlands - Day 1](https://www.reddit.com/r/Transgender_Surgeries/comments/vgvv0d/srs_with_dr_kanhai_netherlands_day_1/) by MissUnderstood___ in 2022
-    * [SRS June 20th with Dr. Kanhai (Netherlands)](https://www.reddit.com/r/Transgender_Surgeries/comments/vfrb98/srs_june_20th_with_dr_kanhai_netherlands/) by MissUnderstood___ in 2022
-* [Had SRS about a month ago at Mk Velsen with doctor Kanhai](https://www.reddit.com/r/Transgender_Surgeries/comments/lkdgrj/had_srs_about_a_month_ago_at_mk_velsen_with/) by Girlydian in 2021
+* [SRS with Dr. Kanhai, Netherlands - Day 1](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/vgvv0d/srs_with_dr_kanhai_netherlands_day_1/content.html) by MissUnderstood___ in 2022
+    * [SRS June 20th with Dr. Kanhai (Netherlands)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/vfrb98/srs_june_20th_with_dr_kanhai_netherlands/content.html) by MissUnderstood___ in 2022
+* [Had SRS about a month ago at Mk Velsen with doctor Kanhai](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lkdgrj/had_srs_about_a_month_ago_at_mk_velsen_with/content.html) by Girlydian in 2021
 
 t-nederland
 
@@ -2317,7 +2317,7 @@ Surgeons site
 
 reddit
 
-* [SRS/GCS revision 7 days post.](https://www.reddit.com/r/Transgender_Surgeries/comments/klr371/srsgcs_revision_7_days_post/) in 2020
+* [SRS/GCS revision 7 days post.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/klr371/srsgcs_revision_7_days_post/content.html) in 2020
 
 Susans
 
@@ -2349,9 +2349,9 @@ Surgeons sites
 
 reddit
 
-* [8 weeks Post-OP, looks great IMO!](https://www.reddit.com/r/Transgender_Surgeries/comments/k9zvzz/8_weeks_postop_looks_great_imo/) by TessaMTF in 2020
-* [Sensitive area (in a good way) 5 weeks post-OP](https://www.reddit.com/r/Transgender_Surgeries/comments/jx0dl0/sensitive_area_in_a_good_way_5_weeks_postop/) by TessaMTF in 2020
-* [1,5 week Post-OP, i feel terrible. What do you think?](https://www.reddit.com/r/Transgender_Surgeries/comments/jjx0mq/15_week_postop_i_feel_terrible_what_do_you_think/) by TessaMTF in 2020
+* [8 weeks Post-OP, looks great IMO!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/k9zvzz/8_weeks_postop_looks_great_imo/content.html) by TessaMTF in 2020
+* [Sensitive area (in a good way) 5 weeks post-OP](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jx0dl0/sensitive_area_in_a_good_way_5_weeks_postop/content.html) by TessaMTF in 2020
+* [1,5 week Post-OP, i feel terrible. What do you think?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jjx0mq/15_week_postop_i_feel_terrible_what_do_you_think/content.html) by TessaMTF in 2020
 
 <br />
 
@@ -2372,9 +2372,9 @@ Surgeons sites
 
 reddit
 
-* [SRS post op for almost 3 months](https://www.reddit.com/r/Transgender_Surgeries/comments/1gwdka0/srs_post_op_for_almost_3_months/) by Irresistiblee in 2024
-* [16 day post op is it normal to be like this ? And when it will heal](https://www.reddit.com/r/Transgender_Surgeries/comments/iqquzg/16_day_post_op_is_it_normal_to_be_like_this_and/) by lara777mooi in 2020
-    * [My experience being post op From the Netherlands from srs at umcg](https://www.reddit.com/r/Transgender_Surgeries/comments/ihej3z/my_experience_being_post_op_from_the_netherlands/) by lara777mooi in 2020
+* [SRS post op for almost 3 months](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1gwdka0/srs_post_op_for_almost_3_months/content.html) by Irresistiblee in 2024
+* [16 day post op is it normal to be like this ? And when it will heal](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/iqquzg/16_day_post_op_is_it_normal_to_be_like_this_and/content.html) by lara777mooi in 2020
+    * [My experience being post op From the Netherlands from srs at umcg](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ihej3z/my_experience_being_post_op_from_the_netherlands/content.html) by lara777mooi in 2020
 
 <br />
 
@@ -2415,13 +2415,13 @@ Surgeons sites
 
 reddit
 
-* [1 month post-op vaginoplasty with dr Nijhuis, Nijmegen, the Netherlands](https://www.reddit.com/r/Transgender_Surgeries/comments/1i4ibbd/1_month_postop_vaginoplasty_with_dr_nijhuis/) by Poezebeesje in 2025
+* [1 month post-op vaginoplasty with dr Nijhuis, Nijmegen, the Netherlands](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1i4ibbd/1_month_postop_vaginoplasty_with_dr_nijhuis/content.html) by Poezebeesje in 2025
 
 **Non-photo links**
 
 reddit
 
-* [Anyone had penile inversion surgery with Dr. Nijhuis?](https://www.reddit.com/r/Transgender_Surgeries/comments/s4lwwi/anyone_had_penile_inversion_surgery_with_dr/) by ShiratakiPoodles in 2022
+* [Anyone had penile inversion surgery with Dr. Nijhuis?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/s4lwwi/anyone_had_penile_inversion_surgery_with_dr/content.html) by ShiratakiPoodles in 2022
 
 Research
 
@@ -2445,7 +2445,7 @@ Surgeons sites
 
 reddit
 
-* [Got SRS 9 days ago but it uhh... doesn't quite look right? Clitoris area *way* too large and swollen, thoughts?](https://www.reddit.com/r/Transgender_Surgeries/comments/y3owxm/got_srs_9_days_ago_but_it_uhh_doesnt_quite_look/) by Tasialiu in 2022
+* [Got SRS 9 days ago but it uhh... doesn't quite look right? Clitoris area *way* too large and swollen, thoughts?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/y3owxm/got_srs_9_days_ago_but_it_uhh_doesnt_quite_look/content.html) by Tasialiu in 2022
 
 <br />
 
@@ -2469,8 +2469,8 @@ Trans Scandinavia - Denmark, Norway, Sweden
 
 reddit
 
-* [4 weeks post op clit bleeding](https://www.reddit.com/r/Transgender_Surgeries/comments/10q0lbd/4_weeks_post_op_clit_bleeding/) by Chubby_Bunny96 in 2023
-    * [23 days post op, swelling and general shape is scaring me..](https://www.reddit.com/r/Transgender_Surgeries/comments/10l4lff/23_days_post_op_swelling_and_general_shape_is/) by Chubby_Bunny96 in 2023
+* [4 weeks post op clit bleeding](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10q0lbd/4_weeks_post_op_clit_bleeding/content.html) by Chubby_Bunny96 in 2023
+    * [23 days post op, swelling and general shape is scaring me..](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10l4lff/23_days_post_op_swelling_and_general_shape_is/content.html) by Chubby_Bunny96 in 2023
 
 **Non-photo links**
 
@@ -2560,19 +2560,19 @@ Surgeons sites
 
 reddit
 
-* [CAUTION: Dr Paweł Szymanowski - Kraków, Poland (Vaginoplasty)](https://www.reddit.com/r/Transgender_Surgeries/comments/1gyn1mk/caution_dr_pawe%C5%82_szymanowski_krak%C3%B3w_poland/) by Still_Relative1899 in 2024
-* [One year post SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/16z5kv4/one_year_post_srs/) by Comfortable_Baby7289 in 2023
-    * [1 year post op- SRS surgey](https://www.reddit.com/r/Transgender_Surgeries/comments/14necq1/1_year_post_op_srs_surgey/) by Comfortable_Baby7289 in 2023
-    * [Post SRS- 7 weeks](https://www.reddit.com/r/Transgender_Surgeries/comments/vdmz2l/post_srs_7_weeks/) by Comfortable_Baby7289 in 2022
-    * [5 weeks Post SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/uo4oyb/5_weeks_post_srs/) by Comfortable_Baby7289 in 2022
-    * [2 weeks post SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/u3fftp/2_weeks_post_srs/) by Comfortable_Baby7289 in 2022
-* [\[-4M\]\[Part 1\] SRS with Gyneka in Kraków, Poland](https://www.reddit.com/r/Transgender_Surgeries/comments/10m7ua1/4mpart_1_srs_with_gyneka_in_krak%C3%B3w_poland/) by Klutzy_Hawk9121 in 2023
+* [CAUTION: Dr Paweł Szymanowski - Kraków, Poland (Vaginoplasty)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1gyn1mk/caution_dr_pawe%C5%82_szymanowski_krak%C3%B3w_poland/content.html) by Still_Relative1899 in 2024
+* [One year post SRS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16z5kv4/one_year_post_srs/content.html) by Comfortable_Baby7289 in 2023
+    * [1 year post op- SRS surgey](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14necq1/1_year_post_op_srs_surgey/content.html) by Comfortable_Baby7289 in 2023
+    * [Post SRS- 7 weeks](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/vdmz2l/post_srs_7_weeks/content.html) by Comfortable_Baby7289 in 2022
+    * [5 weeks Post SRS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uo4oyb/5_weeks_post_srs/content.html) by Comfortable_Baby7289 in 2022
+    * [2 weeks post SRS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/u3fftp/2_weeks_post_srs/content.html) by Comfortable_Baby7289 in 2022
+* [\[-4M\]\[Part 1\] SRS with Gyneka in Kraków, Poland](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10m7ua1/4mpart_1_srs_with_gyneka_in_krak%C3%B3w_poland/content.html) by Klutzy_Hawk9121 in 2023
 
 **Non-photo links**
 
 reddit
 
-* [Difficulties with dilation-colon vaginoplasty post op](https://www.reddit.com/r/Transgender_Surgeries/comments/14adps8/difficulties_with_dilationcolon_vaginoplasty_post/) by No_Reading_3122 in 2024
+* [Difficulties with dilation-colon vaginoplasty post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14adps8/difficulties_with_dilationcolon_vaginoplasty_post/content.html) by No_Reading_3122 in 2024
 
 blogka.pl
 
@@ -2650,7 +2650,7 @@ Surgeons sites
 
 reddit
 
-* [João Decio Ferreira advice?](https://www.reddit.com/r/Transgender_Surgeries/comments/d6dgpa/jo%C3%A3o_decio_ferreira_advice/) by Secretlyasecret in 2019
+* [João Decio Ferreira advice?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/d6dgpa/jo%C3%A3o_decio_ferreira_advice/content.html) by Secretlyasecret in 2019
 
 https://observador.pt/2016/06/19/cirurgiao-portugues-distinguido-em-portugal-davam-me-seis-euros-por-hora-na-alemanha-dao-me-uma-medalha-de-ouro/
 
@@ -2690,44 +2690,44 @@ Podcast interview
 
 reddit
 
-* [Post SRS 8 weeks](https://www.reddit.com/r/Transgender_Surgeries/comments/1hoxbho/post_srs_8_weeks/) by Haunting-Spot7595 in 2024
-* [Vaginoplasty surgery journey , issues and experience with DR miroslav djordjevic , surgery done 11/02/2024 at mount Sinai](https://www.reddit.com/r/Transgender_Surgeries/comments/1er4om9/vaginoplasty_surgery_journey_issues_and/) by Relative-Bandicoot74 in 2024
-* [4 months post-op | PPV w/ Miroslav Djordjevic](https://www.reddit.com/r/Transgender_Surgeries/comments/19a5ubz/4_months_postop_ppv_w_miroslav_djordjevic/) by PuffieF in 2024
-    * [Dilation Timeline w/ Pics](https://www.reddit.com/r/Transgender_Surgeries/comments/172mfy5/dilation_timeline_w_pics/) by PuffieF in 2023
-    * [Day 23 post-op peritoneal pull-through vaginoplasty with Miroslav Djordjevic](https://www.reddit.com/r/Transgender_Surgeries/comments/170qvel/day_23_postop_peritoneal_pullthrough_vaginoplasty/) by PuffieF in 2023
-    * [Wound dehiscence causing bleeding - changed to one dilation a day CW blood](https://www.reddit.com/r/Transgender_Surgeries/comments/16w8kyz/day_18_postop_ppv_w_miroslav_djordjevic_video/) by PuffieF in 2023
-    * [Day 18 post-op PPV w/ Miroslav Djordjevic - video](https://www.reddit.com/r/Transgender_Surgeries/comments/16w8kyz/day_18_postop_ppv_w_miroslav_djordjevic_video/) by PuffieF in 2023
-    * [Day 14 Post-op PPV w/ Miroslav Djordjevic in Belgrade](https://www.reddit.com/r/Transgender_Surgeries/comments/16t1mvv/day_14_postop_ppv_w_miroslav_djordjevic_in/) by PuffieF in 2023
-    * [9 days post-op - is this wound dehiscence?](https://www.reddit.com/r/Transgender_Surgeries/comments/16oo415/9_days_postop_is_this_wound_dehiscence/) by PuffieF in 2023
-    * [5 days post-op PPV with Miroslav Djordjevic + PICS - LONG POST](https://www.reddit.com/r/Transgender_Surgeries/comments/16l6dty/5_days_postop_ppv_with_miroslav_djordjevic_pics/) by PuffieF in 2023
-* [2 months post op](https://www.reddit.com/r/Transgender_Surgeries/comments/198gull/2_months_post_op/) by Substantial_Film8762 in 2024
-* [Concerns with vaginoplasty results](https://www.reddit.com/r/Transgender_Surgeries/comments/18y19oz/concerns_with_vaginoplasty_results/) by DummyDemonPrincess in 2024 - *"When I get aroused the tissue around my urethra swells quite a bit to the point it is somewhat uncomfortable... My second big issue is, that I have hair growth in my vaginal canal (even though I asked my doctor multiple times regarding hair removal to which the response repeatedly was that it "won't be an issue"... (btw my doctor said it will just fall out from use... which I can't help but doubt)"*
+* [Post SRS 8 weeks](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hoxbho/post_srs_8_weeks/content.html) by Haunting-Spot7595 in 2024
+* [Vaginoplasty surgery journey , issues and experience with DR miroslav djordjevic , surgery done 11/02/2024 at mount Sinai](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1er4om9/vaginoplasty_surgery_journey_issues_and/content.html) by Relative-Bandicoot74 in 2024
+* [4 months post-op | PPV w/ Miroslav Djordjevic](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/19a5ubz/4_months_postop_ppv_w_miroslav_djordjevic/content.html) by PuffieF in 2024
+    * [Dilation Timeline w/ Pics](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/172mfy5/dilation_timeline_w_pics/content.html) by PuffieF in 2023
+    * [Day 23 post-op peritoneal pull-through vaginoplasty with Miroslav Djordjevic](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/170qvel/day_23_postop_peritoneal_pullthrough_vaginoplasty/content.html) by PuffieF in 2023
+    * [Wound dehiscence causing bleeding - changed to one dilation a day CW blood](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16w8kyz/day_18_postop_ppv_w_miroslav_djordjevic_video/content.html) by PuffieF in 2023
+    * [Day 18 post-op PPV w/ Miroslav Djordjevic - video](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16w8kyz/day_18_postop_ppv_w_miroslav_djordjevic_video/content.html) by PuffieF in 2023
+    * [Day 14 Post-op PPV w/ Miroslav Djordjevic in Belgrade](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16t1mvv/day_14_postop_ppv_w_miroslav_djordjevic_in/content.html) by PuffieF in 2023
+    * [9 days post-op - is this wound dehiscence?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16oo415/9_days_postop_is_this_wound_dehiscence/content.html) by PuffieF in 2023
+    * [5 days post-op PPV with Miroslav Djordjevic + PICS - LONG POST](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16l6dty/5_days_postop_ppv_with_miroslav_djordjevic_pics/content.html) by PuffieF in 2023
+* [2 months post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/198gull/2_months_post_op/content.html) by Substantial_Film8762 in 2024
+* [Concerns with vaginoplasty results](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18y19oz/concerns_with_vaginoplasty_results/content.html) by DummyDemonPrincess in 2024 - *"When I get aroused the tissue around my urethra swells quite a bit to the point it is somewhat uncomfortable... My second big issue is, that I have hair growth in my vaginal canal (even though I asked my doctor multiple times regarding hair removal to which the response repeatedly was that it "won't be an issue"... (btw my doctor said it will just fall out from use... which I can't help but doubt)"*
 * [Wow! I had my first clitorical orgasm almost exactly 2 months after SRS. Well... it was two in 2 minutes. 🙈 Thank you Dr. Miroslav Đorđević ♥️](https://www.reddit.com/r/TransLater/comments/ztrdi3/wow_i_had_my_first_clitorical_orgasm_almost/) by  Awkward-Afternoon-59 in 2022
-    * [2 months SRS by Dr Miroslav Djordjevic - Belgrade, Serbia - Scars of previous open wounds on labia majora, but it is healing nicely I think. I do not dare to shave it yet](https://www.reddit.com/r/Transgender_Surgeries/comments/zpr8dp/2_months_srs_by_dr_miroslav_djordjevic_belgrade/) by  Awkward-Afternoon-59 in 2022
+    * [2 months SRS by Dr Miroslav Djordjevic - Belgrade, Serbia - Scars of previous open wounds on labia majora, but it is healing nicely I think. I do not dare to shave it yet](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zpr8dp/2_months_srs_by_dr_miroslav_djordjevic_belgrade/content.html) by  Awkward-Afternoon-59 in 2022
     * [2022 Oct 25. Sexual reassignment surgery in Belgrade.](https://www.reddit.com/r/TransLater/comments/yh87hm/2022_oct_25_sexual_reassignment_surgery_in/) by Awkward-Afternoon-59 in 2022
-* [ppv srs 10 months ago](https://www.reddit.com/r/Transgender_Surgeries/comments/y7kmzq/ppv_srs_10_months_ago/) by praga107 in 2022
-* [Original surgery with Dr Djordjevic. Looking for cosmetic revision with other surgeon.](https://www.reddit.com/r/Transgender_Surgeries/comments/x0jyno/original_surgery_with_dr_djordjevic_looking_for/) by elisaassisa
-* [Dr. Miroslav Djordjevic, Serbia. Whole experience (decision / pre / post) up to 90 days](https://www.reddit.com/r/Transgender_Surgeries/comments/uduel2/dr_miroslav_djordjevic_serbia_whole_experience/) by moonbaby96 in 2022
-    * [3 months post op with Dr Miroslav Djordjevic. I had sigmoid colon performed in Serbia. Clitoris hood is missing on one side so sometimes the clitoris looks lopsided, but it can be very easily fixed. Scars are healing great and feeling is very good as well](https://www.reddit.com/r/Transgender_Surgeries/comments/u6kwje/3_months_post_op_with_dr_miroslav_djordjevic_i/) by moonbaby96 in 2022
-* [Dr.Miroslav Djordjevic, sigmoid colon vaginoplasty 5 months post-op. I promise I will write about my experience soon 😌](https://www.reddit.com/r/Transgender_Surgeries/comments/rpsg8m/drmiroslav_djordjevic_sigmoid_colon_vaginoplasty/) by blue_painted in 2021
-* [1 year post op - I love her but she doesn’t look very cis and that kinda makes me sad.](https://www.reddit.com/r/Transgender_Surgeries/comments/rp5g1u/1_year_post_op_i_love_her_but_she_doesnt_look/) by TheSuperNexus2 in 2021
-    * [My body 3months post op, Dr. Djordjevic.](https://www.reddit.com/r/Transgender_Surgeries/comments/m2jedd/my_body_3months_post_op_dr_djordjevic/) by TheSuperNexus2 in 2021
-    * [My body 2.5 weeks post op](https://www.reddit.com/r/Transgender_Surgeries/comments/kn5m2a/my_body_25_weeks_post_op/) by TheSuperNexus2 in 2020
-    * [1 day post op, Dr. Djordjevic](https://www.reddit.com/r/Transgender_Surgeries/comments/ke9vn9/1_day_post_op_dr_djordjevic/) by  TheSuperNexus2 in 2020
+* [ppv srs 10 months ago](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/y7kmzq/ppv_srs_10_months_ago/content.html) by praga107 in 2022
+* [Original surgery with Dr Djordjevic. Looking for cosmetic revision with other surgeon.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x0jyno/original_surgery_with_dr_djordjevic_looking_for/content.html) by elisaassisa
+* [Dr. Miroslav Djordjevic, Serbia. Whole experience (decision / pre / post) up to 90 days](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uduel2/dr_miroslav_djordjevic_serbia_whole_experience/content.html) by moonbaby96 in 2022
+    * [3 months post op with Dr Miroslav Djordjevic. I had sigmoid colon performed in Serbia. Clitoris hood is missing on one side so sometimes the clitoris looks lopsided, but it can be very easily fixed. Scars are healing great and feeling is very good as well](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/u6kwje/3_months_post_op_with_dr_miroslav_djordjevic_i/content.html) by moonbaby96 in 2022
+* [Dr.Miroslav Djordjevic, sigmoid colon vaginoplasty 5 months post-op. I promise I will write about my experience soon 😌](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rpsg8m/drmiroslav_djordjevic_sigmoid_colon_vaginoplasty/content.html) by blue_painted in 2021
+* [1 year post op - I love her but she doesn’t look very cis and that kinda makes me sad.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rp5g1u/1_year_post_op_i_love_her_but_she_doesnt_look/content.html) by TheSuperNexus2 in 2021
+    * [My body 3months post op, Dr. Djordjevic.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/m2jedd/my_body_3months_post_op_dr_djordjevic/content.html) by TheSuperNexus2 in 2021
+    * [My body 2.5 weeks post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kn5m2a/my_body_25_weeks_post_op/content.html) by TheSuperNexus2 in 2020
+    * [1 day post op, Dr. Djordjevic](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ke9vn9/1_day_post_op_dr_djordjevic/content.html) by  TheSuperNexus2 in 2020
 
 **Non-photo links**
 
 reddit
 
-* reply to [People with Colon vaginoplasty, did you had problems with your neovagina after some years?](https://www.reddit.com/r/Transgender_Surgeries/comments/1i1nhsc/people_with_colon_vaginoplasty_did_you_had/m7c0dr0/?context=3) by Beautiful_Sky936 in 2025
-* [3 weeks post op (Rectovagina fistula) Need Support](https://www.reddit.com/r/Transgender_Surgeries/comments/1e1eotc/3_weeks_post_op_rectovagina_fistula_need_support/) by Dependent_Dingo5948 in 2024 - *"Around 3 weeks ago I had surgery (Peritoneal pull through) with Dr. Miroslav Djordjevic in Belgrade, Serbia. Originally the operation went well, i was surprised at how good healing was going, very happy with my aesthetics as well. One night after dilation I started to bleed pretty heavily, and after that I started to pass gas through my vagina. Shortly after my discharge started to change color and what do you know-I have feces coming from my vagina. This was a lot to handle, mentally and physically."*
-* [I had PPT vaginoplasty last week with Miroslav Djodjevic in Belgrade, ama?](https://www.reddit.com/r/Transgender_Surgeries/comments/18xg5if/i_had_ppt_vaginoplasty_last_week_with_miroslav/) by  Extra-Touch-7106 in 2024
-* [dilation after ppt vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/tkd6bp/dilation_after_ppt_vaginoplasty/) by Dependent-Ring-625 in 2022
-* [Dr Miroslav Djordjevic](https://www.reddit.com/r/Transgender_Surgeries/comments/snlysb/dr_miroslav_djordjevic/) by Haileywintr in 2022
-* [Vag revision PPT docs (Lago vs Djordjevic?)](https://www.reddit.com/r/Transgender_Surgeries/comments/qjl49k/vag_revision_ppt_docs_lago_vs_djordjevic/) by Riverandthunder in 2021
-* [Peritoneal Pull Thorough Vaginoplasty with Dr Miroslav in Serbia, AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/okpldk/peritoneal_pull_thorough_vaginoplasty_with_dr/) by Evening_Rip1327 in 2021
-* [Dr Miroslav Djordjevic of Belgrade Clinic Experiences for PPV?](https://www.reddit.com/r/Transgender_Surgeries/comments/iqjz3h/dr_miroslav_djordjevic_of_belgrade_clinic/) by danielle-tv in 2020
-* [Chettawut left my urethral opening inside my vagina](https://www.reddit.com/r/Transgender_Surgeries/comments/d1wjs8/chettawut_left_my_urethral_opening_inside_my/) by sg2k19 in 2019
+* reply to [People with Colon vaginoplasty, did you had problems with your neovagina after some years?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1i1nhsc/people_with_colon_vaginoplasty_did_you_had/m7c0dr0/?context=3content.html) by Beautiful_Sky936 in 2025
+* [3 weeks post op (Rectovagina fistula) Need Support](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1e1eotc/3_weeks_post_op_rectovagina_fistula_need_support/content.html) by Dependent_Dingo5948 in 2024 - *"Around 3 weeks ago I had surgery (Peritoneal pull through) with Dr. Miroslav Djordjevic in Belgrade, Serbia. Originally the operation went well, i was surprised at how good healing was going, very happy with my aesthetics as well. One night after dilation I started to bleed pretty heavily, and after that I started to pass gas through my vagina. Shortly after my discharge started to change color and what do you know-I have feces coming from my vagina. This was a lot to handle, mentally and physically."*
+* [I had PPT vaginoplasty last week with Miroslav Djodjevic in Belgrade, ama?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18xg5if/i_had_ppt_vaginoplasty_last_week_with_miroslav/content.html) by  Extra-Touch-7106 in 2024
+* [dilation after ppt vaginoplasty](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tkd6bp/dilation_after_ppt_vaginoplasty/content.html) by Dependent-Ring-625 in 2022
+* [Dr Miroslav Djordjevic](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/snlysb/dr_miroslav_djordjevic/content.html) by Haileywintr in 2022
+* [Vag revision PPT docs (Lago vs Djordjevic?)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qjl49k/vag_revision_ppt_docs_lago_vs_djordjevic/content.html) by Riverandthunder in 2021
+* [Peritoneal Pull Thorough Vaginoplasty with Dr Miroslav in Serbia, AMA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/okpldk/peritoneal_pull_thorough_vaginoplasty_with_dr/content.html) by Evening_Rip1327 in 2021
+* [Dr Miroslav Djordjevic of Belgrade Clinic Experiences for PPV?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/iqjz3h/dr_miroslav_djordjevic_of_belgrade_clinic/content.html) by danielle-tv in 2020
+* [Chettawut left my urethral opening inside my vagina](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/d1wjs8/chettawut_left_my_urethral_opening_inside_my/content.html) by sg2k19 in 2019
 * [Had SRS (MtF) last Wednesday, looking for recovery tips](https://www.reddit.com/r/asktransgender/comments/9kze8f/had_srs_mtf_last_wednesday_looking_for_recovery/) by Mashallah1488 in 2018
 
 Susans
@@ -2741,7 +2741,7 @@ Susans
 
 YouTube
 
-* [OPERACIJA PROMENE POLA / GENDER REASSIGNMENT SURGERY](https://www.youtube.com/watch?v=5WhbwBScNDg) by Nikolina Kovačević in 2024, see also reddit post [here](https://www.reddit.com/r/Transgender_Surgeries/comments/197cxvb/srs_experience_with_dr_miroslav_djordjevic_in/)
+* [OPERACIJA PROMENE POLA / GENDER REASSIGNMENT SURGERY](https://www.youtube.com/watch?v=5WhbwBScNDg) by Nikolina Kovačević in 2024, see also reddit post [here](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/197cxvb/srs_experience_with_dr_miroslav_djordjevic_in/content.html)
 * [Vaginoplasty: Techniques, Results, Post Operative Care](https://www.youtube.com/watch?v=GABE0taIcqc) by TheBelgradeCenter forGenitalReconstructiveSurgery in 2017
 * [Conservative Serbia draws foreign sex change patients](https://www.youtube.com/watch?v=Lmuol5grM9o) by AFP news agency in 2016
 
@@ -2805,16 +2805,16 @@ Surgeons sites
 
 reddit
 
-* [GRS day 60](https://www.reddit.com/r/Transgender_Surgeries/comments/18v79ec/grs_day_60/) by laandrea15 in 2024
-    * [What to use for douching](https://www.reddit.com/r/Transgender_Surgeries/comments/18icotr/what_to_use_for_douching/) by laandrea15 in 2023
-    * [Grs day 33](https://www.reddit.com/r/Transgender_Surgeries/comments/18fvjsx/grs_day_33/) by laandrea15 in 2023
-    * [Grs day 10](https://www.reddit.com/r/Transgender_Surgeries/comments/17xcel2/grs_day_10/) by laandrea15 in 2023
-    * [Grs day 7](https://www.reddit.com/r/Transgender_Surgeries/comments/17vs3lo/grs_day_7/) by laandrea15 in 2023
-    * [Grs day 3](https://www.reddit.com/r/Transgender_Surgeries/comments/17srrfp/grs_day_3/) by laandrea15 in 2023
-    * [Grs day 2](https://www.reddit.com/r/Transgender_Surgeries/comments/17s10r1/grs_day_2/) by laandrea15 in 2023
-    * [Grs in 2 days](https://www.reddit.com/r/Transgender_Surgeries/comments/17pe015/grs_in_2_days/) by laandrea15 in 2023
-    * [Grs in 10 days](https://www.reddit.com/r/Transgender_Surgeries/comments/17hsipm/grs_in_10_days/) by laandrea15 in 2023
-    * [Grs Slovenia](https://www.reddit.com/r/Transgender_Surgeries/comments/16th8aq/grs_slovenia/) by laandrea15 in 2023
+* [GRS day 60](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18v79ec/grs_day_60/content.html) by laandrea15 in 2024
+    * [What to use for douching](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18icotr/what_to_use_for_douching/content.html) by laandrea15 in 2023
+    * [Grs day 33](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18fvjsx/grs_day_33/content.html) by laandrea15 in 2023
+    * [Grs day 10](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/17xcel2/grs_day_10/content.html) by laandrea15 in 2023
+    * [Grs day 7](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/17vs3lo/grs_day_7/content.html) by laandrea15 in 2023
+    * [Grs day 3](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/17srrfp/grs_day_3/content.html) by laandrea15 in 2023
+    * [Grs day 2](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/17s10r1/grs_day_2/content.html) by laandrea15 in 2023
+    * [Grs in 2 days](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/17pe015/grs_in_2_days/content.html) by laandrea15 in 2023
+    * [Grs in 10 days](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/17hsipm/grs_in_10_days/content.html) by laandrea15 in 2023
+    * [Grs Slovenia](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16th8aq/grs_slovenia/content.html) by laandrea15 in 2023
 
 <br />
 
@@ -2828,8 +2828,8 @@ https://es-es.facebook.com/serveiTransit/
 
 reddit
 
-* [Vaginoplasty at Bellvitge Hospital (public health system in Barcelona) 9 months post op](https://www.reddit.com/r/Transgender_Surgeries/comments/phr06b/vaginoplasty_at_bellvitge_hospital_public_health/) by catladywitch in 2021
-    * [1 week post-op SRS, Bellvitge Hospital (Barcelona)](https://www.reddit.com/r/Transgender_Surgeries/comments/l4j2r9/1_week_postop_srs_bellvitge_hospital_barcelona/) by catladywitch in 2021
+* [Vaginoplasty at Bellvitge Hospital (public health system in Barcelona) 9 months post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/phr06b/vaginoplasty_at_bellvitge_hospital_public_health/content.html) by catladywitch in 2021
+    * [1 week post-op SRS, Bellvitge Hospital (Barcelona)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l4j2r9/1_week_postop_srs_bellvitge_hospital_barcelona/content.html) by catladywitch in 2021
 
 YouTube
 
@@ -2841,7 +2841,7 @@ Papers
 
 **[I-vaginarium](https://ivaginarium.com)**
 
-* reply to [Bank vs sutin (PI, not colon)](https://www.reddit.com/r/Transgender_Surgeries/comments/13jrbf7/bank_vs_sutin_pi_not_colon/jkhce71/) by RealHumanNotAnAlien - *there is group/asociation called ivaginarium, they help/inform trans girls about srs, they always refer people to the pai clínic (where sutin works) they can show to fotos, tell you about all your questions and they do a videoconference a month with girls that had surgery there, so you you also can talk to them*
+* reply to [Bank vs sutin (PI, not colon)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13jrbf7/bank_vs_sutin_pi_not_colon/jkhce71/content.html) by RealHumanNotAnAlien - *there is group/asociation called ivaginarium, they help/inform trans girls about srs, they always refer people to the pai clínic (where sutin works) they can show to fotos, tell you about all your questions and they do a videoconference a month with girls that had surgery there, so you you also can talk to them*
     * *"It sounds like they may be getting a referral fee from the surgeon."* by HiddenStill
         * *"Theu do for every single client. To my knowledge 10%"* by NicolaSummers, Thailand transgender surgery consultant
 
@@ -2861,7 +2861,7 @@ Surgeons sites
 
 ## Ivan Mañero Vazquez
 
-Informed consent SRS - see [this](https://www.reddit.com/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/htberhy/) reddit post
+Informed consent SRS - see [this](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/htberhy/content.html) reddit post
 
 Surgeons sites
 
@@ -2884,29 +2884,29 @@ Papers
 
 reddit
 
-* [PI SRS at IMGender clinic (Spain) 4 days post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1iajv4o/pi_srs_at_imgender_clinic_spain_4_days_post_op/) by newinberlin95 in 2025
+* [PI SRS at IMGender clinic (Spain) 4 days post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1iajv4o/pi_srs_at_imgender_clinic_spain_4_days_post_op/content.html) by newinberlin95 in 2025
 * [My cute little pussy! Love playing with her](https://www.reddit.com/r/PostOpTransgirls/comments/14jkf1y/my_cute_little_pussy_love_playing_with_her/) by Dorodory in 2023
-    * [One year post up SRS!](https://www.reddit.com/r/Transgender_Surgeries/comments/10qxqey/one_year_post_up_srs/) by Dorodory in 2023
-* [Colo-vaginoplasty by IM Gender Clinic, Barcelona at 3 months](https://www.reddit.com/r/Transgender_Surgeries/comments/tarucx/colovaginoplasty_by_im_gender_clinic_barcelona_at/) by Potential_Total_257 in 2022
-    * [8 weeks post op colo-vaginoplasty with minor dehisence. Getting 22cm depth. Still a little swollen due to the dehisence complication, but very happy with the result. By IM GENDER Clinic, Ivan Manero, Barcelona.](https://www.reddit.com/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/) by Potential_Total_257 in 2022
+    * [One year post up SRS!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10qxqey/one_year_post_up_srs/content.html) by Dorodory in 2023
+* [Colo-vaginoplasty by IM Gender Clinic, Barcelona at 3 months](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tarucx/colovaginoplasty_by_im_gender_clinic_barcelona_at/content.html) by Potential_Total_257 in 2022
+    * [8 weeks post op colo-vaginoplasty with minor dehisence. Getting 22cm depth. Still a little swollen due to the dehisence complication, but very happy with the result. By IM GENDER Clinic, Ivan Manero, Barcelona.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/content.html) by Potential_Total_257 in 2022
     * ["How long does this penis enlargement take?"](https://www.reddit.com/r/asktransgender/comments/rpz3i7/how_long_does_this_penis_enlargement_take/) by Potential_Total_257 in 2021
 
 **Non-photo links**
 
 reddit
 
-* reply to [Colovaginoplasty with Dr labanca](https://www.reddit.com/r/Transgender_Surgeries/comments/1hn2r1f/colovaginoplasty_with_dr_labanca/m5ht2aa/) by ]Alternative_Tap6279 in 2025
-* [Dr Ivan Manero in Spain or Dr Thee in Thailand for colon revision surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/1fw4sod/dr_ivan_manero_in_spain_or_dr_thee_in_thailand/) by Charliethespy in 2024
-* [SRS aesthetic concerns](https://www.reddit.com/r/Transgender_Surgeries/comments/1em74wp/srs_aesthetic_concerns/) by Amazing_Statement629 in 2024
-    * [SRS in Spain which surgeon](https://www.reddit.com/r/Transgender_Surgeries/comments/1bzzmip/srs_in_spain_which_surgeon/) by Amazing_Statement629 in 2024
-* [Help for srs! Opinions on Jesus Lago, Madrid or Manero?](https://www.reddit.com/r/Transgender_Surgeries/comments/1i619vz/help_for_srs_opinions_on_jesus_lago_madrid_or/) by NoPresentation732 in 2024
-* [Body feminization in Europe, my research](https://www.reddit.com/r/Transgender_Surgeries/comments/1alv7vl/body_feminization_in_europe_my_research/) by curious_im in 2024
-* [Had a consultation with Iván Mañero for SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/14ldipt/had_a_consultation_with_iv%C3%A1n_ma%C3%B1ero_for_srs/) by Bioinvasion__ in 2023
-* [Any recommendations for SRS (vaginoplasty) in Spain?](https://www.reddit.com/r/Transgender_Surgeries/comments/smw4bc/any_recommendations_for_srs_vaginoplasty_in_spain/) by Raeven_Skye in 2022
-* [MtoF surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/wllup7/mtof_surgery/) by AlexaV82 in 2022
-* [No bad smell. Colo-vaginoplasty.](https://www.reddit.com/r/Transgender_Surgeries/comments/umjew6/no_bad_smell_colovaginoplasty/) by Kimberlashes in 2022
-* [Question: for a 15 y.o mtf girl if possible undergo toa B.A. and SRS,i want it soon as possible,please answer me?](https://www.reddit.com/r/Transgender_Surgeries/comments/kpml23/question_for_a_15_yo_mtf_girl_if_possible_undergo/) by supermikelina - from Italy having surgery in Spain
-* reply to [Frustrated finding the right surgeon](https://www.reddit.com/r/Transgender_Surgeries/comments/igdbu3/frustrated_finding_the_right_surgeon/g2t0ivu/) in 2020
+* reply to [Colovaginoplasty with Dr labanca](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hn2r1f/colovaginoplasty_with_dr_labanca/m5ht2aa/content.html) by ]Alternative_Tap6279 in 2025
+* [Dr Ivan Manero in Spain or Dr Thee in Thailand for colon revision surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1fw4sod/dr_ivan_manero_in_spain_or_dr_thee_in_thailand/content.html) by Charliethespy in 2024
+* [SRS aesthetic concerns](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1em74wp/srs_aesthetic_concerns/content.html) by Amazing_Statement629 in 2024
+    * [SRS in Spain which surgeon](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1bzzmip/srs_in_spain_which_surgeon/content.html) by Amazing_Statement629 in 2024
+* [Help for srs! Opinions on Jesus Lago, Madrid or Manero?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1i619vz/help_for_srs_opinions_on_jesus_lago_madrid_or/content.html) by NoPresentation732 in 2024
+* [Body feminization in Europe, my research](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1alv7vl/body_feminization_in_europe_my_research/content.html) by curious_im in 2024
+* [Had a consultation with Iván Mañero for SRS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14ldipt/had_a_consultation_with_iv%C3%A1n_ma%C3%B1ero_for_srs/content.html) by Bioinvasion__ in 2023
+* [Any recommendations for SRS (vaginoplasty) in Spain?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/smw4bc/any_recommendations_for_srs_vaginoplasty_in_spain/content.html) by Raeven_Skye in 2022
+* [MtoF surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wllup7/mtof_surgery/content.html) by AlexaV82 in 2022
+* [No bad smell. Colo-vaginoplasty.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/umjew6/no_bad_smell_colovaginoplasty/content.html) by Kimberlashes in 2022
+* [Question: for a 15 y.o mtf girl if possible undergo toa B.A. and SRS,i want it soon as possible,please answer me?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kpml23/question_for_a_15_yo_mtf_girl_if_possible_undergo/content.html) by supermikelina - from Italy having surgery in Spain
+* reply to [Frustrated finding the right surgeon](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/igdbu3/frustrated_finding_the_right_surgeon/g2t0ivu/content.html) in 2020
     * see reply *"...In Spanish trans circles we call Mañero “el carnicero” (“the butcher”), he has great marketing but tends not to have great results, even with cis patients... Now, most of the info I’ve heard of him has been in spanish trans circles, ive heard both good and bad cases, the bad ones outweighing the good ones. The bad results of grs are horrifying not only because of the complications (the typical ones: anorgasmia, loss of sensation, loss of clitoris, a vaginal opening too small, lack of labia minora) but also because of the dismissive post-op treatment for such patients. He has great marketing and ive read people that are genuinely happy with their Mañero grs results, but the cases that go wrong are totally ignored by him and his team..."*
 
 dario digital transexual (in Spanish)
@@ -2956,34 +2956,34 @@ Surgeons site
 
 reddit
 
-* [One issue I have with my results](https://www.reddit.com/r/Transgender_Surgeries/comments/1hniewk/one_issue_i_have_with_my_results/) by Global_Ad9056 in 2024 - *"When i met him before the surgery he helped quell my nerves but after I barely saw him and only communicated with his team. The hospital he works out of however was a horrible experience due to him only working out of/renting the hospital, the nurses seemed to be annoyed with me even thought I was in horrible pain, taking 30 minutes to come after I hit the buzzer, plus none of them knowing english definitely doesn't help (although Im not expecting them to learn an entire language for me lol). Another girl i am speaking with had horrible complications to the point where he almost killed her and she is considering a lawsuit. He also hasnt spoke to me in months. Other than that my Vulva looks okay other than my labia minora being fused and the clitoris being jn a weird place which can be fixed with a revision. Just waiting on sensation now, although my recent mental state is not helping with the recovery of it. In my opinion you should do more research for other surgeons before you decide but the price point and informed consent were big pros for me."*
-    * [stressed out every day after surgery tw:endless hope and dispair](https://www.reddit.com/r/Transgender_Surgeries/comments/1gl6mfd/stressed_out_every_day_after_surgery_twendless/) by Global_Ad9056 in 2024 - *"Its been over 3 months now... I barely have much sensation yet and my clitoris is literally on the outside of my vulva it looks like i have a tiny penis as well as my vagina."*
-    * [3 weeks post op piv how is it looking](https://www.reddit.com/r/Transgender_Surgeries/comments/1emhpl5/3_weeks_post_op_piv_how_is_it_looking/) by Global_Ad9056 in 2024
-* [2 weeks post op, PPT vaginoplasty with dr. Jesus Lago in Madrid AMA. Post in comments](https://www.reddit.com/r/Transgender_Surgeries/comments/q11ris/2_weeks_post_op_ppt_vaginoplasty_with_dr_jesus/) by ZoeNeoZ in 2021
-* [Day 11/11/13/15/15/17 | Penile Inversion Vaginoplasty | Dr Lago, Madrid](https://www.reddit.com/r/Transgender_Surgeries/comments/n9f0ry/day_111113151517_penile_inversion_vaginoplasty_dr/) by Thatwigaddict in 2021
-    * [Day 1/2/5 Post-Op Penile Inversion Vaginoplasty | Dr Lago in Madrid](https://www.reddit.com/r/Transgender_Surgeries/comments/n90xp9/day_125_postop_penile_inversion_vaginoplasty_dr/) by Thatwigaddict in 2021
+* [One issue I have with my results](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hniewk/one_issue_i_have_with_my_results/content.html) by Global_Ad9056 in 2024 - *"When i met him before the surgery he helped quell my nerves but after I barely saw him and only communicated with his team. The hospital he works out of however was a horrible experience due to him only working out of/renting the hospital, the nurses seemed to be annoyed with me even thought I was in horrible pain, taking 30 minutes to come after I hit the buzzer, plus none of them knowing english definitely doesn't help (although Im not expecting them to learn an entire language for me lol). Another girl i am speaking with had horrible complications to the point where he almost killed her and she is considering a lawsuit. He also hasnt spoke to me in months. Other than that my Vulva looks okay other than my labia minora being fused and the clitoris being jn a weird place which can be fixed with a revision. Just waiting on sensation now, although my recent mental state is not helping with the recovery of it. In my opinion you should do more research for other surgeons before you decide but the price point and informed consent were big pros for me."*
+    * [stressed out every day after surgery tw:endless hope and dispair](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1gl6mfd/stressed_out_every_day_after_surgery_twendless/content.html) by Global_Ad9056 in 2024 - *"Its been over 3 months now... I barely have much sensation yet and my clitoris is literally on the outside of my vulva it looks like i have a tiny penis as well as my vagina."*
+    * [3 weeks post op piv how is it looking](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1emhpl5/3_weeks_post_op_piv_how_is_it_looking/content.html) by Global_Ad9056 in 2024
+* [2 weeks post op, PPT vaginoplasty with dr. Jesus Lago in Madrid AMA. Post in comments](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/q11ris/2_weeks_post_op_ppt_vaginoplasty_with_dr_jesus/content.html) by ZoeNeoZ in 2021
+* [Day 11/11/13/15/15/17 | Penile Inversion Vaginoplasty | Dr Lago, Madrid](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/n9f0ry/day_111113151517_penile_inversion_vaginoplasty_dr/content.html) by Thatwigaddict in 2021
+    * [Day 1/2/5 Post-Op Penile Inversion Vaginoplasty | Dr Lago in Madrid](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/n90xp9/day_125_postop_penile_inversion_vaginoplasty_dr/content.html) by Thatwigaddict in 2021
 
 **Non-photo links**
 
 reddit
 
-* [Should I Sue for Medical Negligence?](https://www.reddit.com/r/Transgender_Surgeries/comments/1i8ux0q/should_i_sue_for_medical_negligence/) by  SadReception4730 in 2025 - *"I had colon SRS last April with Dr. Lago. He punctured my colon. I went back to see him 10 days post op complaining of stomach pain. I was admitted to the hospital for 2 days before he sent me home with a “pelvic infection” diagnosis... 2 days later I was rushed to another hospital by ambulance (since ambulances will not bring you to private hospitals in Spain, despite Dr. Lago telling me I could call one). I had an emergency laparotomy performed and was charged. Dr. Lago told me he wouldn’t have opened me up and thought the procedure was unnecessary. He said he would have gone in laparoscopically, yet the surgeons at the other hospital said I would have likely died had he gone in that way since my abdomen was far too distended. I then had a second laparotomy performed upon my return home."*
-    * [SRS Revision](https://www.reddit.com/r/Transgender_Surgeries/comments/1hl4vz7/srs_revision/) by SadReception4730 in 2024
-    * reply to [Dr jesús lago bottom surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/1gtmebt/dr_jes%C3%BAs_lago_bottom_surgery/) by SadReception4730 in 2024 - *"Don’t. I almost died from post surgical complications. It’s been 7 months since my operation and he has not reached out once (surely he knows he’s liable). Truly the absolute worst customer service. The hospital he operates out of is also extremely bad."*
-    * [SRS scars](https://old.reddit.com/r/Transgender_Surgeries/comments/1dxo1m8/srs_scars/) by SadReception4730 in 2024 - *"I can’t even wear underwear or a bikini without the scars poking out😣 My surgeon really fucked and made them so long and didn’t place them in the right position. For some reason these scars have also become hypertrophic which has never happened to any other scar on my body."*
-    * reply to [Who was your srs surgeon, do you regret going to him and which surgeon/ method would you go for instead.](https://old.reddit.com/r/Transgender_Surgeries/comments/1dwzt7t/who_was_your_srs_surgeon_do_you_regret_going_to/lbybq3l/) by SadReception4730 in 2024 - *"I went with Dr.Lago in Madrid. Worst decision I’ve ever made. It’s been 3 months and my mental health is in the gutter. I opted for the colon method (regret choosing that method), he punctured my colon then misdiagnosed me which led me to have an emergency laparotomy performed by another surgeon. The anatomy of my vulva is also incorrect and he made the scars huge and placed them in the wrong position. The administration is also trash, they haven’t checked in on me once."*
-    * [Colon Vaginoplasty: Not Worth It](https://old.reddit.com/r/Transgender_Surgeries/comments/1d9gz7h/colon_vaginoplasty_not_worth_it/) by SadReception4730 in 2024
+* [Should I Sue for Medical Negligence?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1i8ux0q/should_i_sue_for_medical_negligence/content.html) by  SadReception4730 in 2025 - *"I had colon SRS last April with Dr. Lago. He punctured my colon. I went back to see him 10 days post op complaining of stomach pain. I was admitted to the hospital for 2 days before he sent me home with a “pelvic infection” diagnosis... 2 days later I was rushed to another hospital by ambulance (since ambulances will not bring you to private hospitals in Spain, despite Dr. Lago telling me I could call one). I had an emergency laparotomy performed and was charged. Dr. Lago told me he wouldn’t have opened me up and thought the procedure was unnecessary. He said he would have gone in laparoscopically, yet the surgeons at the other hospital said I would have likely died had he gone in that way since my abdomen was far too distended. I then had a second laparotomy performed upon my return home."*
+    * [SRS Revision](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hl4vz7/srs_revision/content.html) by SadReception4730 in 2024
+    * reply to [Dr jesús lago bottom surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1gtmebt/dr_jes%C3%BAs_lago_bottom_surgery/content.html) by SadReception4730 in 2024 - *"Don’t. I almost died from post surgical complications. It’s been 7 months since my operation and he has not reached out once (surely he knows he’s liable). Truly the absolute worst customer service. The hospital he operates out of is also extremely bad."*
+    * [SRS scars](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1dxo1m8/srs_scars/content.html) by SadReception4730 in 2024 - *"I can’t even wear underwear or a bikini without the scars poking out😣 My surgeon really fucked and made them so long and didn’t place them in the right position. For some reason these scars have also become hypertrophic which has never happened to any other scar on my body."*
+    * reply to [Who was your srs surgeon, do you regret going to him and which surgeon/ method would you go for instead.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1dwzt7t/who_was_your_srs_surgeon_do_you_regret_going_to/lbybq3l/content.html) by SadReception4730 in 2024 - *"I went with Dr.Lago in Madrid. Worst decision I’ve ever made. It’s been 3 months and my mental health is in the gutter. I opted for the colon method (regret choosing that method), he punctured my colon then misdiagnosed me which led me to have an emergency laparotomy performed by another surgeon. The anatomy of my vulva is also incorrect and he made the scars huge and placed them in the wrong position. The administration is also trash, they haven’t checked in on me once."*
+    * [Colon Vaginoplasty: Not Worth It](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1d9gz7h/colon_vaginoplasty_not_worth_it/content.html) by SadReception4730 in 2024
 * reply to [MtF SRS with private surgeon in Ireland?](https://www.reddit.com/r/TransIreland/comments/19cw33g/mtf_srs_with_private_surgeon_in_ireland/kj1thfk/) by Ash___________ in 2024 - this is about FFS
-* [Dr Lago (Madrid/Spain) - Be very careful/wary is my advice based on the following experiences](https://www.reddit.com/r/Transgender_Surgeries/comments/16o6uck/dr_lago_madridspain_be_very_carefulwary_is_my/) by HaydeeMercedes in 2023
-* [Why is my surgeon avoiding to treat my granulation tissue and won't even name it?](https://www.reddit.com/r/Transgender_Surgeries/comments/14j0ail/why_is_my_surgeon_avoiding_to_treat_my/) by Novalara in 2023
-    * [Persistent granulation tissue, needs surgery?](https://www.reddit.com/r/Transgender_Surgeries/comments/144286k/persistent_granulation_tissue_needs_surgery/) by Novalara in 2023
-* [Almost 4 weeks after PPT SRS with dr Jesus Lago in Madrid, Spain](https://www.reddit.com/r/Transgender_Surgeries/comments/11vglir/almost_4_weeks_after_ppt_srs_with_dr_jesus_lago/) by helenadecleyre in 2023
-* [PI Vaginoplasty, 5 months post-op. Still swollen, pain, blood, yellow discharge and no improvement](https://www.reddit.com/r/Transgender_Surgeries/comments/xpfpaa/pi_vaginoplasty_5_months_postop_still_swollen/) by  Azelpletra in 2022
+* [Dr Lago (Madrid/Spain) - Be very careful/wary is my advice based on the following experiences](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16o6uck/dr_lago_madridspain_be_very_carefulwary_is_my/content.html) by HaydeeMercedes in 2023
+* [Why is my surgeon avoiding to treat my granulation tissue and won't even name it?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14j0ail/why_is_my_surgeon_avoiding_to_treat_my/content.html) by Novalara in 2023
+    * [Persistent granulation tissue, needs surgery?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/144286k/persistent_granulation_tissue_needs_surgery/content.html) by Novalara in 2023
+* [Almost 4 weeks after PPT SRS with dr Jesus Lago in Madrid, Spain](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/11vglir/almost_4_weeks_after_ppt_srs_with_dr_jesus_lago/content.html) by helenadecleyre in 2023
+* [PI Vaginoplasty, 5 months post-op. Still swollen, pain, blood, yellow discharge and no improvement](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xpfpaa/pi_vaginoplasty_5_months_postop_still_swollen/content.html) by  Azelpletra in 2022
 * [Orchi info (Lago Clinic & Irish Life)](https://www.reddit.com/r/TransIreland/comments/zluj4b/orchi_info_lago_clinic_irish_life/) by  Ash___________  in 2022 - *"Dr Jesus Lago in Madrid does it via informed consent"*
-* [Dr. Jesús Lago Madrid Spain, PPV Consult](https://www.reddit.com/r/Transgender_Surgeries/comments/sd1sm1/dr_jes%C3%BAs_lago_madrid_spain_ppv_consult/) by Lagoppvconsult in 2022
-* [SRS in Madrid with Dr. Jesus Lago](https://www.reddit.com/r/Transgender_Surgeries/comments/ldyf6z/srs_in_madrid_with_dr_jesus_lago/) by muaritania
+* [Dr. Jesús Lago Madrid Spain, PPV Consult](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/sd1sm1/dr_jes%C3%BAs_lago_madrid_spain_ppv_consult/content.html) by Lagoppvconsult in 2022
+* [SRS in Madrid with Dr. Jesus Lago](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ldyf6z/srs_in_madrid_with_dr_jesus_lago/content.html) by muaritania
 in 2021
-* [Spoken to SRS surgeon Dr Lagós in Madrid](https://www.reddit.com/r/Transgender_Surgeries/comments/iygh00/spoken_to_srs_surgeon_dr_lag%C3%B3s_in_madrid/) by Maddy_Jade in 2020
+* [Spoken to SRS surgeon Dr Lagós in Madrid](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/iygh00/spoken_to_srs_surgeon_dr_lag%C3%B3s_in_madrid/content.html) by Maddy_Jade in 2020
 
 YouTube
 
@@ -3025,7 +3025,7 @@ Surgeons sites
 
 reddit
 
-* [Bilateral Orchiectomy / 2 years post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/izr8f1/bilateral_orchiectomy_2_years_postop/) by rst32x in 2020
+* [Bilateral Orchiectomy / 2 years post-op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/izr8f1/bilateral_orchiectomy_2_years_postop/content.html) by rst32x in 2020
 
 <br />
 
@@ -3057,12 +3057,12 @@ https://www.gendertreff-forum.de/
 
 reddit
 
-* [134 days post SRS DR. Richard Fakin Resume about Costs / Satisfaction / Aesthetics / Complications](https://www.reddit.com/r/Transgender_Surgeries/comments/wf74gx/134_days_post_srs_dr_richard_fakin_resume_about/) by Unusual_Life_meli in 2022
-    * [SRS/Colon review from the Day of Surgery to the first dilation. #LONG POST](https://www.reddit.com/r/Transgender_Surgeries/comments/ttv66i/srscolon_review_from_the_day_of_surgery_to_the/) by Unusual_Life_meli in 2022
-* [Vaginoplasty PI Spain + fistula](https://www.reddit.com/r/Transgender_Surgeries/comments/oooume/vaginoplasty_pi_spain_fistula/) by lqlalia in 2021
-* [Looking for experiences/info on dr fakin (madrid/zurich)](https://www.reddit.com/r/Transgender_Surgeries/comments/mmxoiz/looking_for_experiencesinfo_on_dr_fakin/) by wolfpack3d in 2021
-* reply to [I need help with the wiki](https://www.reddit.com/r/Transgender_Surgeries/comments/iq5ykf/i_need_help_with_the_wiki/g9uqgtp/) by blueberryk1tty in 2020
-* [Just got approval for surgery with Dr. Richard Fakin in Madrid](https://www.reddit.com/r/Transgender_Surgeries/comments/i5jr7x/just_got_approval_for_surgery_with_dr_richard/) by keevalilith in 2020
+* [134 days post SRS DR. Richard Fakin Resume about Costs / Satisfaction / Aesthetics / Complications](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wf74gx/134_days_post_srs_dr_richard_fakin_resume_about/content.html) by Unusual_Life_meli in 2022
+    * [SRS/Colon review from the Day of Surgery to the first dilation. #LONG POST](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ttv66i/srscolon_review_from_the_day_of_surgery_to_the/content.html) by Unusual_Life_meli in 2022
+* [Vaginoplasty PI Spain + fistula](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/oooume/vaginoplasty_pi_spain_fistula/content.html) by lqlalia in 2021
+* [Looking for experiences/info on dr fakin (madrid/zurich)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mmxoiz/looking_for_experiencesinfo_on_dr_fakin/content.html) by wolfpack3d in 2021
+* reply to [I need help with the wiki](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/iq5ykf/i_need_help_with_the_wiki/g9uqgtp/content.html) by blueberryk1tty in 2020
+* [Just got approval for surgery with Dr. Richard Fakin in Madrid](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i5jr7x/just_got_approval_for_surgery_with_dr_richard/content.html) by keevalilith in 2020
 
 Gendertreff Forum (in German)
 
@@ -3098,61 +3098,61 @@ Surgeons sites
 
 reddit
 
-* [Day 48 post SRS (I think). I'm still alive... I loosing hope for my vagina to look like one... I'm not posting because there is not much changes... The only thing is that now I'm using the big dilatator and it hurts so damn much.](https://www.reddit.com/r/Transgender_Surgeries/comments/xwcqad/day_48_post_srs_i_think_im_still_alive_i_loosing/) by Cut3LittleBunny in 2022
-    * [Day 40 post SRS. I don't know when the clitoris area will stop being so swollen...](https://www.reddit.com/r/Transgender_Surgeries/comments/xoxumd/day_40_post_srs_i_dont_know_when_the_clitoris/) by Cut3LittleBunny in 2022
-    * [Day 36 post SRS. It's normal to bleed trough the vagina?](https://www.reddit.com/r/Transgender_Surgeries/comments/xlhtej/day_36_post_srs_its_normal_to_bleed_trough_the/) by Cut3LittleBunny in 2022
-    * [Day 33 post SRS. Finally... No more catheter... No more black things...](https://www.reddit.com/r/Transgender_Surgeries/comments/ximypp/day_33_post_srs_finally_no_more_catheter_no_more/) by Cut3LittleBunny in 2022
-    * [1 month post SRS. Today nothing new... So let's make a comparation between day 8 and day 30.](https://www.reddit.com/r/Transgender_Surgeries/comments/xh1xzj/1_month_post_srs_today_nothing_new_so_lets_make_a/) by Cut3LittleBunny in 2022
-    * [Day 30 post SRS. Nothing new... 3 days to the revision with the surgeon.](https://www.reddit.com/r/Transgender_Surgeries/comments/xg42gz/day_30_post_srs_nothing_new_3_days_to_the/) by Cut3LittleBunny in 2022
-    * [Day 29 post SRS. Looks like the necrosis on top is starting to fell off too](https://www.reddit.com/r/Transgender_Surgeries/comments/xf9r01/day_29_post_srs_looks_like_the_necrosis_on_top_is/) by Cut3LittleBunny in 2022
-    * [Day 28 post SRS. Well today I could shave my legs, it was hard but finally I have more flexibility.](https://www.reddit.com/r/Transgender_Surgeries/comments/xe8s0v/day_28_post_srs_well_today_i_could_shave_my_legs/) by Cut3LittleBunny in 2022
-    * [Day 27 post SRS. Today I noticed something brown growing on my clit. Does someone know what it's?](https://www.reddit.com/r/Transgender_Surgeries/comments/xdacgo/day_27_post_srs_today_i_noticed_something_brown/) by Cut3LittleBunny in 2022
-    * [Day 26 Post SRS part 2... Omg I'm crying of happiness and I'm so fucking relieved](https://www.reddit.com/r/Transgender_Surgeries/comments/xcaadg/day_26_post_srs_part_2_omg_im_crying_of_happiness/) by Cut3LittleBunny in 2022
-    * [Day 26 Post SRS... Part 1. I have an appointment with a surgeon on 1 hour and 20 minutes...](https://www.reddit.com/r/Transgender_Surgeries/comments/xc6epa/day_26_post_srs_part_1_i_have_an_appointment_with/) by Cut3LittleBunny in 2022
-    * [Day 25.2 post SRS... Losing hope... The necrosis didn't fall... But under it there's more black tissue.](https://www.reddit.com/r/Transgender_Surgeries/comments/xbtr8e/day_252_post_srs_losing_hope_the_necrosis_didnt/) by Cut3LittleBunny in 2022
-    * [Day 25 post SRS. While doing this photo my phone fell from my hands and hitted my vagina](https://www.reddit.com/r/Transgender_Surgeries/comments/xbj4cw/day_25_post_srs_while_doing_this_photo_my_phone/) by Cut3LittleBunny in 2022
-    * [Day 24 post SRS. The necrosis still there](https://www.reddit.com/r/Transgender_Surgeries/comments/xaqire/day_24_post_srs_the_necrosis_still_there/) by Cut3LittleBunny in 2022
-    * [Day 23 post SRS... The pain it's real... Today is one of the worst days. I don't know how many time I have to wait until the necrosis fells off...](https://www.reddit.com/r/Transgender_Surgeries/comments/x9xult/day_23_post_srs_the_pain_its_real_today_is_one_of/) by Cut3LittleBunny in 2022
-    * [Day 22 post SRS... Well it hurts. But looks like the necrosis is peeling off.](https://www.reddit.com/r/Transgender_Surgeries/comments/x91rm9/day_22_post_srs_well_it_hurts_but_looks_like_the/) by Cut3LittleBunny in 2022
-    * [I'm scared right now... I have this yellow color on my necrosis and idk if it's good or bad](https://www.reddit.com/r/Transgender_Surgeries/comments/x8fupu/im_scared_right_now_i_have_this_yellow_color_on/) by Cut3LittleBunny in 2022
-    * [Day 21 post SRS... Tired from walking.](https://www.reddit.com/r/Transgender_Surgeries/comments/x87oa3/day_21_post_srs_tired_from_walking/) by Cut3LittleBunny in 2022
-    * [Day 20 post SRS. This is really hard...](https://www.reddit.com/r/Transgender_Surgeries/comments/x7k3iu/day_20_post_srs_this_is_really_hard/) by Cut3LittleBunny in 2022
-    * [Day 19 post SRS. Seeing the light at the end of the tunnel.](https://www.reddit.com/r/Transgender_Surgeries/comments/x6ible/day_19_post_srs_seeing_the_light_at_the_end_of/) by  Cut3LittleBunny in 2022
-    * [Day 18 post SRS. Worst day of all days... I'm tired of the hospital and that no one told me what's gonna happen to me...](https://www.reddit.com/r/Transgender_Surgeries/comments/x5pipv/day_18_post_srs_worst_day_of_all_days_im_tired_of/) by Cut3LittleBunny in 2022
-    * [Day 17 post SRS. I said no more photos but well.](https://www.reddit.com/r/Transgender_Surgeries/comments/x4xtmu/day_17_post_srs_i_said_no_more_photos_but_well/) by Cut3LittleBunny in 2022
-    * [Day... 16... Post SRS... Back into the hospital... I got necrosis... I'm devastated and want to die.](https://www.reddit.com/r/Transgender_Surgeries/comments/x3zvgg/day_16_post_srs_back_into_the_hospital_i_got/) by Cut3LittleBunny in 2022
+* [Day 48 post SRS (I think). I'm still alive... I loosing hope for my vagina to look like one... I'm not posting because there is not much changes... The only thing is that now I'm using the big dilatator and it hurts so damn much.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xwcqad/day_48_post_srs_i_think_im_still_alive_i_loosing/content.html) by Cut3LittleBunny in 2022
+    * [Day 40 post SRS. I don't know when the clitoris area will stop being so swollen...](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xoxumd/day_40_post_srs_i_dont_know_when_the_clitoris/content.html) by Cut3LittleBunny in 2022
+    * [Day 36 post SRS. It's normal to bleed trough the vagina?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xlhtej/day_36_post_srs_its_normal_to_bleed_trough_the/content.html) by Cut3LittleBunny in 2022
+    * [Day 33 post SRS. Finally... No more catheter... No more black things...](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ximypp/day_33_post_srs_finally_no_more_catheter_no_more/content.html) by Cut3LittleBunny in 2022
+    * [1 month post SRS. Today nothing new... So let's make a comparation between day 8 and day 30.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xh1xzj/1_month_post_srs_today_nothing_new_so_lets_make_a/content.html) by Cut3LittleBunny in 2022
+    * [Day 30 post SRS. Nothing new... 3 days to the revision with the surgeon.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xg42gz/day_30_post_srs_nothing_new_3_days_to_the/content.html) by Cut3LittleBunny in 2022
+    * [Day 29 post SRS. Looks like the necrosis on top is starting to fell off too](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xf9r01/day_29_post_srs_looks_like_the_necrosis_on_top_is/content.html) by Cut3LittleBunny in 2022
+    * [Day 28 post SRS. Well today I could shave my legs, it was hard but finally I have more flexibility.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xe8s0v/day_28_post_srs_well_today_i_could_shave_my_legs/content.html) by Cut3LittleBunny in 2022
+    * [Day 27 post SRS. Today I noticed something brown growing on my clit. Does someone know what it's?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xdacgo/day_27_post_srs_today_i_noticed_something_brown/content.html) by Cut3LittleBunny in 2022
+    * [Day 26 Post SRS part 2... Omg I'm crying of happiness and I'm so fucking relieved](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xcaadg/day_26_post_srs_part_2_omg_im_crying_of_happiness/content.html) by Cut3LittleBunny in 2022
+    * [Day 26 Post SRS... Part 1. I have an appointment with a surgeon on 1 hour and 20 minutes...](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xc6epa/day_26_post_srs_part_1_i_have_an_appointment_with/content.html) by Cut3LittleBunny in 2022
+    * [Day 25.2 post SRS... Losing hope... The necrosis didn't fall... But under it there's more black tissue.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xbtr8e/day_252_post_srs_losing_hope_the_necrosis_didnt/content.html) by Cut3LittleBunny in 2022
+    * [Day 25 post SRS. While doing this photo my phone fell from my hands and hitted my vagina](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xbj4cw/day_25_post_srs_while_doing_this_photo_my_phone/content.html) by Cut3LittleBunny in 2022
+    * [Day 24 post SRS. The necrosis still there](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xaqire/day_24_post_srs_the_necrosis_still_there/content.html) by Cut3LittleBunny in 2022
+    * [Day 23 post SRS... The pain it's real... Today is one of the worst days. I don't know how many time I have to wait until the necrosis fells off...](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x9xult/day_23_post_srs_the_pain_its_real_today_is_one_of/content.html) by Cut3LittleBunny in 2022
+    * [Day 22 post SRS... Well it hurts. But looks like the necrosis is peeling off.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x91rm9/day_22_post_srs_well_it_hurts_but_looks_like_the/content.html) by Cut3LittleBunny in 2022
+    * [I'm scared right now... I have this yellow color on my necrosis and idk if it's good or bad](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x8fupu/im_scared_right_now_i_have_this_yellow_color_on/content.html) by Cut3LittleBunny in 2022
+    * [Day 21 post SRS... Tired from walking.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x87oa3/day_21_post_srs_tired_from_walking/content.html) by Cut3LittleBunny in 2022
+    * [Day 20 post SRS. This is really hard...](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x7k3iu/day_20_post_srs_this_is_really_hard/content.html) by Cut3LittleBunny in 2022
+    * [Day 19 post SRS. Seeing the light at the end of the tunnel.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x6ible/day_19_post_srs_seeing_the_light_at_the_end_of/content.html) by  Cut3LittleBunny in 2022
+    * [Day 18 post SRS. Worst day of all days... I'm tired of the hospital and that no one told me what's gonna happen to me...](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x5pipv/day_18_post_srs_worst_day_of_all_days_im_tired_of/content.html) by Cut3LittleBunny in 2022
+    * [Day 17 post SRS. I said no more photos but well.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x4xtmu/day_17_post_srs_i_said_no_more_photos_but_well/content.html) by Cut3LittleBunny in 2022
+    * [Day... 16... Post SRS... Back into the hospital... I got necrosis... I'm devastated and want to die.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x3zvgg/day_16_post_srs_back_into_the_hospital_i_got/content.html) by Cut3LittleBunny in 2022
     * [Day 16 post SRS... Part 2.](https://www.reddit.com/user/Cut3LittleBunny/submitted/) by Cut3LittleBunny in 2022
-    * [inDay 15 post SRS. Last f hours with the catheter, finally!!!!](https://www.reddit.com/r/Transgender_Surgeries/comments/x3j2ii/inday_15_post_srs_last_f_hours_with_the_catheter/) by Cut3LittleBunny in 2022
-    * [Day 14 post SRS. Nothing new, a little bit more relaxed. The daughter of my mother's bf came to visit me and we talked. Just 1 day and a half so they take of my catheter.](https://www.reddit.com/r/Transgender_Surgeries/comments/x2nxeh/day_14_post_srs_nothing_new_a_little_bit_more/) by Cut3LittleBunny in 2022
-    * [Day 13 post SRS. Yeah everything is black. Stop saying it's necrosis because it's scares the shit out of me. And my surgeon saw it and gold me it will peel off.](https://www.reddit.com/r/Transgender_Surgeries/comments/x1uqwt/day_13_post_srs_yeah_everything_is_black_stop/)by Cut3LittleBunny in 2022by Cut3LittleBunny in 2022
-    * [Does the pain of doing everything gets better without the catheter?](https://www.reddit.com/r/Transgender_Surgeries/comments/x1d4m4/does_the_pain_of_doing_everything_gets_better/) by Cut3LittleBunny in 2022
-    * [Day 12 post SRS. 5 more days with the catheter. Little by little but still crying everytime I'm alone. Hope u have a great day](https://www.reddit.com/r/Transgender_Surgeries/comments/x0r7ue/day_12_post_srs_5_more_days_with_the_catheter/) by Cut3LittleBunny in 2022
-    * [Day 11 post SRS... Suicidal thoughts... Again, crying because I'm weak.](https://www.reddit.com/r/Transgender_Surgeries/comments/wzxebb/day_11_post_srs_suicidal_thoughts_again_crying/) by Cut3LittleBunny in 2022
-    * [Day 10 post SRS. Today it's a photo standing, because I know people wants to see how it looks like that.](https://www.reddit.com/r/Transgender_Surgeries/comments/wyxy7r/day_10_post_srs_today_its_a_photo_standing/) by Cut3LittleBunny in 2022
-    * [Day 9 post op... How to handle dilatations](https://www.reddit.com/r/Transgender_Surgeries/comments/wy44jf/day_9_post_op_how_to_handle_dilatations/)  by Cut3LittleBunny in 2022
-    * [It's normal that being 1.64 m tall I can just dilatate 15 cm? I'm 9 days post op.](https://www.reddit.com/r/Transgender_Surgeries/comments/wyjctj/its_normal_that_being_164_m_tall_i_can_just/)  by Cut3LittleBunny in 2022
-    * [Day 8 post SRS FINALLY AT HOME!](https://www.reddit.com/r/Transgender_Surgeries/comments/wxajpp/day_8_post_srs_finally_at_home/)  by Cut3LittleBunny in 2022
-    * [Day 7 post SRS. Dilatations are fine now (for the moment)](https://www.reddit.com/r/Transgender_Surgeries/comments/wwgn3x/day_7_post_srs_dilatations_are_fine_now_for_the/)  by Cut3LittleBunny in 2022
-    * [Day 6 post SRS. First dilatation (painful) and getting discharged. Photo of today + a photo of me.](https://www.reddit.com/r/Transgender_Surgeries/comments/wvl6jg/day_6_post_srs_first_dilatation_painful_and/) by Cut3LittleBunny in 2022
-    * [5 day post SRS... Well it was the worst day of my life... (More info on my last post) but... I finally went to the toilet.](https://www.reddit.com/r/Transgender_Surgeries/comments/wuoqqs/5_day_post_srs_well_it_was_the_worst_day_of_my/) by Cut3LittleBunny in 2022
+    * [inDay 15 post SRS. Last f hours with the catheter, finally!!!!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x3j2ii/inday_15_post_srs_last_f_hours_with_the_catheter/content.html) by Cut3LittleBunny in 2022
+    * [Day 14 post SRS. Nothing new, a little bit more relaxed. The daughter of my mother's bf came to visit me and we talked. Just 1 day and a half so they take of my catheter.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x2nxeh/day_14_post_srs_nothing_new_a_little_bit_more/content.html) by Cut3LittleBunny in 2022
+    * [Day 13 post SRS. Yeah everything is black. Stop saying it's necrosis because it's scares the shit out of me. And my surgeon saw it and gold me it will peel off.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x1uqwt/day_13_post_srs_yeah_everything_is_black_stop/content.html)by Cut3LittleBunny in 2022by Cut3LittleBunny in 2022
+    * [Does the pain of doing everything gets better without the catheter?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x1d4m4/does_the_pain_of_doing_everything_gets_better/content.html) by Cut3LittleBunny in 2022
+    * [Day 12 post SRS. 5 more days with the catheter. Little by little but still crying everytime I'm alone. Hope u have a great day](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x0r7ue/day_12_post_srs_5_more_days_with_the_catheter/content.html) by Cut3LittleBunny in 2022
+    * [Day 11 post SRS... Suicidal thoughts... Again, crying because I'm weak.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wzxebb/day_11_post_srs_suicidal_thoughts_again_crying/content.html) by Cut3LittleBunny in 2022
+    * [Day 10 post SRS. Today it's a photo standing, because I know people wants to see how it looks like that.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wyxy7r/day_10_post_srs_today_its_a_photo_standing/content.html) by Cut3LittleBunny in 2022
+    * [Day 9 post op... How to handle dilatations](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wy44jf/day_9_post_op_how_to_handle_dilatations/content.html)  by Cut3LittleBunny in 2022
+    * [It's normal that being 1.64 m tall I can just dilatate 15 cm? I'm 9 days post op.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wyjctj/its_normal_that_being_164_m_tall_i_can_just/content.html)  by Cut3LittleBunny in 2022
+    * [Day 8 post SRS FINALLY AT HOME!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wxajpp/day_8_post_srs_finally_at_home/content.html)  by Cut3LittleBunny in 2022
+    * [Day 7 post SRS. Dilatations are fine now (for the moment)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wwgn3x/day_7_post_srs_dilatations_are_fine_now_for_the/content.html)  by Cut3LittleBunny in 2022
+    * [Day 6 post SRS. First dilatation (painful) and getting discharged. Photo of today + a photo of me.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wvl6jg/day_6_post_srs_first_dilatation_painful_and/content.html) by Cut3LittleBunny in 2022
+    * [5 day post SRS... Well it was the worst day of my life... (More info on my last post) but... I finally went to the toilet.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wuoqqs/5_day_post_srs_well_it_was_the_worst_day_of_my/content.html) by Cut3LittleBunny in 2022
     * [5 day post SRS... I tried to kill myself](https://www.reddit.com/r/trans/comments/wuodkh/5_day_post_srs_i_tried_to_kill_myself/)  by Cut3LittleBunny in 2022
-    * [Day 4 post SRS. First shower, taking a walk and well crying out loud like everyday. If u want to ask something I will try to answer.](https://www.reddit.com/r/Transgender_Surgeries/comments/wtvgrj/day_4_post_srs_first_shower_taking_a_walk_and/) by Cut3LittleBunny in 2022
-    * [This is my 4 day post SRS but... I still can't pop...](https://www.reddit.com/r/Transgender_Surgeries/comments/wtpp4q/this_is_my_4_day_post_srs_but_i_still_cant_pop/) by Cut3LittleBunny in 2022
-    * [3 days post SRS. It's getting harder emotionally and physically. (More details in the comments)](https://www.reddit.com/r/Transgender_Surgeries/comments/wt1ypj/3_days_post_srs_its_getting_harder_emotionally/)  by Cut3LittleBunny in 2022
-    * [2 day post SRS. They toke off a lot of bandages and well... What do you think? There's still bandages but they toke a photo of it. j](https://www.reddit.com/r/Transgender_Surgeries/comments/ws899h/2_day_post_srs_they_toke_off_a_lot_of_bandages/) by Cut3LittleBunny in 2022
-    * [Woke up from SRS, it hurts 🤕](https://www.reddit.com/r/Transgender_Surgeries/comments/wrbhcx/woke_up_from_srs_it_hurts/) by Cut3LittleBunny in 2022
-* [NSFW: 5-weeks post-op PI: I'm back to soccer practice!!](https://www.reddit.com/r/Transgender_Surgeries/comments/uoi9xf/nsfw_5weeks_postop_pi_im_back_to_soccer_practice/) by TaxIntelligent8713 in 2022
-    * [#NSFW 4 weeks post-op PI: Is it infected??](https://www.reddit.com/r/Transgender_Surgeries/comments/uj9cwi/nsfw_4_weeks_postop_pi_is_it_infected/)  by TaxIntelligent8713 in 2022
-    * [#NSFW 3 weeks post-op PI vaginoplasty. Does it look good?](https://www.reddit.com/r/Transgender_Surgeries/comments/uduclb/nsfw_3_weeks_postop_pi_vaginoplasty_does_it_look/) by TaxIntelligent8713 in 2022
-* [2 weeks old vaginoplasty from Dr. García, Badalona (Spain)](https://www.reddit.com/r/Transgender_Surgeries/comments/uknd3x/2_weeks_old_vaginoplasty_from_dr_garc%C3%ADa_badalona/) by NicoleLopzi in 2022
+    * [Day 4 post SRS. First shower, taking a walk and well crying out loud like everyday. If u want to ask something I will try to answer.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wtvgrj/day_4_post_srs_first_shower_taking_a_walk_and/content.html) by Cut3LittleBunny in 2022
+    * [This is my 4 day post SRS but... I still can't pop...](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wtpp4q/this_is_my_4_day_post_srs_but_i_still_cant_pop/content.html) by Cut3LittleBunny in 2022
+    * [3 days post SRS. It's getting harder emotionally and physically. (More details in the comments)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wt1ypj/3_days_post_srs_its_getting_harder_emotionally/content.html)  by Cut3LittleBunny in 2022
+    * [2 day post SRS. They toke off a lot of bandages and well... What do you think? There's still bandages but they toke a photo of it. j](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ws899h/2_day_post_srs_they_toke_off_a_lot_of_bandages/content.html) by Cut3LittleBunny in 2022
+    * [Woke up from SRS, it hurts 🤕](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wrbhcx/woke_up_from_srs_it_hurts/content.html) by Cut3LittleBunny in 2022
+* [NSFW: 5-weeks post-op PI: I'm back to soccer practice!!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uoi9xf/nsfw_5weeks_postop_pi_im_back_to_soccer_practice/content.html) by TaxIntelligent8713 in 2022
+    * [#NSFW 4 weeks post-op PI: Is it infected??](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uj9cwi/nsfw_4_weeks_postop_pi_is_it_infected/content.html)  by TaxIntelligent8713 in 2022
+    * [#NSFW 3 weeks post-op PI vaginoplasty. Does it look good?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uduclb/nsfw_3_weeks_postop_pi_vaginoplasty_does_it_look/content.html) by TaxIntelligent8713 in 2022
+* [2 weeks old vaginoplasty from Dr. García, Badalona (Spain)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uknd3x/2_weeks_old_vaginoplasty_from_dr_garc%C3%ADa_badalona/content.html) by NicoleLopzi in 2022
 
 **Non photo links**
 
 reddit
 
-* [Home work after penile inversion](https://www.reddit.com/r/Transgender_Surgeries/comments/u0ygba/home_work_after_penile_inversion/) by TaxIntelligent8713 in 2022
-    * [I just had my penile inversion surgery and have so many questions!!](https://www.reddit.com/r/Transgender_Surgeries/comments/u0j1d2/i_just_had_my_penile_inversion_surgery_and_have/) by TaxIntelligent8713 in 2022
-* [SRS surgeons in Barcelona?](https://www.reddit.com/r/Transgender_Surgeries/comments/q34c0e/srs_surgeons_in_barcelona/) by Alice_Oe in 2021
+* [Home work after penile inversion](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/u0ygba/home_work_after_penile_inversion/content.html) by TaxIntelligent8713 in 2022
+    * [I just had my penile inversion surgery and have so many questions!!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/u0j1d2/i_just_had_my_penile_inversion_surgery_and_have/content.html) by TaxIntelligent8713 in 2022
+* [SRS surgeons in Barcelona?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/q34c0e/srs_surgeons_in_barcelona/content.html) by Alice_Oe in 2021
 
 Review sites
 
@@ -3192,13 +3192,13 @@ Surgeons sites
 
 reddit
 
-* [While stretching I noticed one of my scars got thicker, Should I be worried? 7 month post op](https://www.reddit.com/r/Transgender_Surgeries/comments/ss9i9e/while_stretching_i_noticed_one_of_my_scars_got/) by Chell115 in 2022
+* [While stretching I noticed one of my scars got thicker, Should I be worried? 7 month post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ss9i9e/while_stretching_i_noticed_one_of_my_scars_got/content.html) by Chell115 in 2022
 
 **Non-photo links**
 
 reddit
 
-* [SRS surgeons in Barcelona?](https://www.reddit.com/r/Transgender_Surgeries/comments/q34c0e/srs_surgeons_in_barcelona/) by Alice_Oe in 2021
+* [SRS surgeons in Barcelona?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/q34c0e/srs_surgeons_in_barcelona/content.html) by Alice_Oe in 2021
 
 Review sites
 
@@ -3220,7 +3220,7 @@ Surgeons site
 
 reddit
 
-* [SRS surgeons in Barcelona?](https://www.reddit.com/r/Transgender_Surgeries/comments/q34c0e/srs_surgeons_in_barcelona/) by Alice_Oe in 2021
+* [SRS surgeons in Barcelona?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/q34c0e/srs_surgeons_in_barcelona/content.html) by Alice_Oe in 2021
 
 Review sites
 
@@ -3247,7 +3247,7 @@ Location
 
 reddit
 
-* [SRS surgeons in Barcelona?](https://www.reddit.com/r/Transgender_Surgeries/comments/q34c0e/srs_surgeons_in_barcelona/) by Alice_Oe in 2021
+* [SRS surgeons in Barcelona?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/q34c0e/srs_surgeons_in_barcelona/content.html) by Alice_Oe in 2021
 
 Other
 
@@ -3277,8 +3277,8 @@ Surgeons sites
 
 reddit
 
-* reply to [8 weeks post op colo-vaginoplasty with minor dehisence. Getting 22cm depth. Still a little swollen due to the dehisence complication, but very happy with the result. By IM GENDER Clinic, Ivan Manero, Barcelona.](https://www.reddit.com/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/htbv6iq/) by Pancake-san in 2022 - *"Yes, I can confirm it is a regional law here in Catalonia, were you don't need any psychological documentation, if you have the money you can book surgeries pretty quickly. In some places they ask you some evidence that you're on HRT, but that's really it."*
-    * [Orchiectomy 2 weeks post](https://www.reddit.com/r/Transgender_Surgeries/comments/nvuym9/orchiectomy_2_weeks_post/) by Pancake-san in 2021
+* reply to [8 weeks post op colo-vaginoplasty with minor dehisence. Getting 22cm depth. Still a little swollen due to the dehisence complication, but very happy with the result. By IM GENDER Clinic, Ivan Manero, Barcelona.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/htbv6iq/content.html) by Pancake-san in 2022 - *"Yes, I can confirm it is a regional law here in Catalonia, were you don't need any psychological documentation, if you have the money you can book surgeries pretty quickly. In some places they ask you some evidence that you're on HRT, but that's really it."*
+    * [Orchiectomy 2 weeks post](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nvuym9/orchiectomy_2_weeks_post/content.html) by Pancake-san in 2021
     * [I just had my orchiectomy!!](https://www.reddit.com/r/MtF/comments/nig9tg/i_just_had_my_orchiectomy/) by Pancake-san in 2021
 
 <br />
@@ -3296,7 +3296,7 @@ Surgeons sites
 
 reddit
 
-* [29 days post-op inversion with Dra.Rodriguez Vega in Tarragona, Spain](https://www.reddit.com/r/Transgender_Surgeries/comments/tavhti/29_days_postop_inversion_with_drarodriguez_vega/) by July_ropes in 2022
+* [29 days post-op inversion with Dra.Rodriguez Vega in Tarragona, Spain](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tavhti/29_days_postop_inversion_with_drarodriguez_vega/content.html) by July_ropes in 2022
 
 <br />
 
@@ -3314,7 +3314,7 @@ Surgeons sites
 
 reddit
 
-* [I feel very insecure about the results...](https://www.reddit.com/r/Transgender_Surgeries/comments/100ljeq/i_feel_very_insecure_about_the_results/) by anchovy_cucumber in 2023
+* [I feel very insecure about the results...](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/100ljeq/i_feel_very_insecure_about_the_results/content.html) by anchovy_cucumber in 2023
 
 <br />
 
@@ -3338,7 +3338,7 @@ Surgeons sites
 
 reddit
 
-* [Dr. Javier Collado, Spain](https://www.reddit.com/r/Transgender_Surgeries/comments/10wu49h/dr_javier_collado_spain/) by melenaza iin 2023
+* [Dr. Javier Collado, Spain](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10wu49h/dr_javier_collado_spain/content.html) by melenaza iin 2023
 
 <br />
 
@@ -3354,20 +3354,20 @@ Location
 
 reddit
 
-* [Excess erectile tissue. Can this be fixed with a superficial intervention instead of having to have a full-on revision and going under general anesthesia?](https://www.reddit.com/r/Transgender_Surgeries/comments/1i8xw8f/excess_erectile_tissue_can_this_be_fixed_with_a/) by Agreeable_Stomach432 in 2025
-* [4 months Post-Op PI (Bellvitge, Spain)](https://www.reddit.com/r/Transgender_Surgeries/comments/1hsaqum/4_months_postop_pi_bellvitge_spain/) by Agreeable_Stomach432 in 2024
-    * [3.5 months SRS PI update (Bellvitge, Spain)](https://www.reddit.com/r/Transgender_Surgeries/comments/1hh6y5h/35_months_srs_pi_update_bellvitge_spain/) by Agreeable_Stomach432 in 2024
-    * [Almost 3 months Post-Op PI, Is it normal for my lips and clit to swell up this much after masturbating? (warning sexual themes)](https://www.reddit.com/r/Transgender_Surgeries/comments/1h1a51k/almost_3_months_postop_pi_is_it_normal_for_my/) by Agreeable_Stomach432 in 2024
-    * [2 months SRS Post-Op (PI), Bellvitge Hospital](https://www.reddit.com/r/Transgender_Surgeries/comments/1gjhkqi/2_months_srs_postop_pi_bellvitge_hospital/) by Agreeable_Stomach432 in 2024 - *"I've been saying my surgeon was Begoña Etcheverry, but I checked my surgical team the other day and apparently she's only one of the bunch of surgeons that were involved in the surgery, each one with specific specialties"*
-    * [Have any of you experienced this too after SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/1gd9hhm/have_any_of_you_experienced_this_too_after_srs/) by Agreeable_Stomach432 in 2024
-    * [Almost 2 months Post-Op PI, do y'all still think these saggy labia will be fixed with time lol](https://www.reddit.com/r/Transgender_Surgeries/comments/1gc6l22/almost_2_months_postop_pi_do_yall_still_think/) by Agreeable_Stomach432 in 2024
-    * [Almost 1.5 months Post-Op, I feel kinda botched.](https://www.reddit.com/r/Transgender_Surgeries/comments/1g5dofj/almost_15_months_postop_i_feel_kinda_botched/) by Agreeable_Stomach432 in 2024
-    * [1 month post-srs, esthetic worries](https://www.reddit.com/r/Transgender_Surgeries/comments/1fz5ho1/1_month_postsrs_esthetic_worries/) by Agreeable_Stomach432 in 2024
-    * [Almost 4 weeks post-op! Questions](https://www.reddit.com/r/Transgender_Surgeries/comments/1fug5bp/almost_4_weeks_postop_questions/) by Agreeable_Stomach432 in 2024
-    * [Question about post-SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/1flmr72/question_about_postsrs/) by Agreeable_Stomach432 in 2024
-    * [9 days post-srs PI, she's a bit uneven but looks cute from this angle 🥹 Do y'all think it will look less puffy in the future?](https://www.reddit.com/r/Transgender_Surgeries/comments/1fgittv/9_days_postsrs_pi_shes_a_bit_uneven_but_looks/) by Agreeable_Stomach432 in 2024
-    * [Started dilating today!](https://www.reddit.com/r/Transgender_Surgeries/comments/1ff8eht/started_dilating_today/) by Agreeable_Stomach432 in 2024
-    * [Post-SRS PI, day 7. Does this look promising for a 7-day post-op vagina? Are the wrinkly skin and black spots (not the sutures) normal?](https://www.reddit.com/r/Transgender_Surgeries/comments/1fewvzx/postsrs_pi_day_7_does_this_look_promising_for_a/) by Agreeable_Stomach432 in 2024
+* [Excess erectile tissue. Can this be fixed with a superficial intervention instead of having to have a full-on revision and going under general anesthesia?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1i8xw8f/excess_erectile_tissue_can_this_be_fixed_with_a/content.html) by Agreeable_Stomach432 in 2025
+* [4 months Post-Op PI (Bellvitge, Spain)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hsaqum/4_months_postop_pi_bellvitge_spain/content.html) by Agreeable_Stomach432 in 2024
+    * [3.5 months SRS PI update (Bellvitge, Spain)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hh6y5h/35_months_srs_pi_update_bellvitge_spain/content.html) by Agreeable_Stomach432 in 2024
+    * [Almost 3 months Post-Op PI, Is it normal for my lips and clit to swell up this much after masturbating? (warning sexual themes)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1h1a51k/almost_3_months_postop_pi_is_it_normal_for_my/content.html) by Agreeable_Stomach432 in 2024
+    * [2 months SRS Post-Op (PI), Bellvitge Hospital](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1gjhkqi/2_months_srs_postop_pi_bellvitge_hospital/content.html) by Agreeable_Stomach432 in 2024 - *"I've been saying my surgeon was Begoña Etcheverry, but I checked my surgical team the other day and apparently she's only one of the bunch of surgeons that were involved in the surgery, each one with specific specialties"*
+    * [Have any of you experienced this too after SRS?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1gd9hhm/have_any_of_you_experienced_this_too_after_srs/content.html) by Agreeable_Stomach432 in 2024
+    * [Almost 2 months Post-Op PI, do y'all still think these saggy labia will be fixed with time lol](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1gc6l22/almost_2_months_postop_pi_do_yall_still_think/content.html) by Agreeable_Stomach432 in 2024
+    * [Almost 1.5 months Post-Op, I feel kinda botched.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1g5dofj/almost_15_months_postop_i_feel_kinda_botched/content.html) by Agreeable_Stomach432 in 2024
+    * [1 month post-srs, esthetic worries](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1fz5ho1/1_month_postsrs_esthetic_worries/content.html) by Agreeable_Stomach432 in 2024
+    * [Almost 4 weeks post-op! Questions](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1fug5bp/almost_4_weeks_postop_questions/content.html) by Agreeable_Stomach432 in 2024
+    * [Question about post-SRS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1flmr72/question_about_postsrs/content.html) by Agreeable_Stomach432 in 2024
+    * [9 days post-srs PI, she's a bit uneven but looks cute from this angle 🥹 Do y'all think it will look less puffy in the future?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1fgittv/9_days_postsrs_pi_shes_a_bit_uneven_but_looks/content.html) by Agreeable_Stomach432 in 2024
+    * [Started dilating today!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ff8eht/started_dilating_today/content.html) by Agreeable_Stomach432 in 2024
+    * [Post-SRS PI, day 7. Does this look promising for a 7-day post-op vagina? Are the wrinkly skin and black spots (not the sutures) normal?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1fewvzx/postsrs_pi_day_7_does_this_look_promising_for_a/content.html) by Agreeable_Stomach432 in 2024
 
 Other
 
@@ -3382,7 +3382,7 @@ Location
 
 reddit
 
-* [My SRS operation at Madrid's social security](https://www.reddit.com/r/Transgender_Surgeries/comments/1gscug5/my_srs_operation_at_madrids_social_security/) by lenamatoi in 2024
+* [My SRS operation at Madrid's social security](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1gscug5/my_srs_operation_at_madrids_social_security/content.html) by lenamatoi in 2024
 
 <br />
 
@@ -3433,23 +3433,23 @@ YouTube
 
 reddit
 
-* [3 year post op srs, Karolinska Sweden, 2 revision surgeries. Very happy with the results now and all the problems were resolved. Finally last update, more info in comments also AMA.](https://www.reddit.com/r/Transgender_Surgeries/comments/wquu15/3_year_post_op_srs_karolinska_sweden_2_revision/) by stupidstories in 2022
-    * [Did breast implants a little over a year ago, 250cc. I know we are supposed to do surgeries for ourselves, but I love the attention men give me now. I experience dysphoria less than once a month. The surgeries (including srs) really work. I finally got my shit together, only took 30 years haha.](https://www.reddit.com/r/Transgender_Surgeries/comments/r742gi/did_breast_implants_a_little_over_a_year_ago/) by stupidstories in 2021
-    * [1.5 years post op vaginoplasty. I have also had a corrective surgery. Karolinska Solna Sweden.](https://www.reddit.com/r/Transgender_Surgeries/comments/lf7dg8/15_years_post_op_vaginoplasty_i_have_also_had_a/) by stupidstories in 2021
-    * [Everything is healed after my vaginoplasty revision. It really does look a lot better now than before the revision.](https://www.reddit.com/r/Transgender_Surgeries/comments/iz984j/everything_is_healed_after_my_vaginoplasty/) by stupidstories in 2020
-    * [This is what it looks like with legs closed. On the previous picture my legs were spread. The random scar is from my self surgery and not the doctors fault. I talked to someone in the healthcare system, and they can remove the hair inside the vagina. So I feel a little better now.](https://www.reddit.com/r/Transgender_Surgeries/comments/fn8j7z/this_is_what_it_looks_like_with_legs_closed_on/) by stupidstories in 2020
-    * [So this is what my "vagina" looks like. It looks even more like testicle sacks in real life. The actual hole is that extremely hair patch at bottom. The hair goes all the way into the vagina apex. The pink thing is my urethra and it grows into a micro penis when I'm horny. Above it is the clitoris.](https://www.reddit.com/r/Transgender_Surgeries/comments/fluv3r/so_this_is_what_my_vagina_looks_like_it_looks/) by stupidstories in 2020
-    * [I did a vaginoplasty at Karolinska Solna 15 days ago and I'm starting to regret it so hard. It looks disgusting and is a growing infected wound thats starting to consume everything. They say everything is normal and they can't do anything. It smells so bad and it hurts.](https://www.reddit.com/r/Transgender_Surgeries/comments/dezxl3/i_did_a_vaginoplasty_at_karolinska_solna_15_days/) by stupidstories in 2019
+* [3 year post op srs, Karolinska Sweden, 2 revision surgeries. Very happy with the results now and all the problems were resolved. Finally last update, more info in comments also AMA.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wquu15/3_year_post_op_srs_karolinska_sweden_2_revision/content.html) by stupidstories in 2022
+    * [Did breast implants a little over a year ago, 250cc. I know we are supposed to do surgeries for ourselves, but I love the attention men give me now. I experience dysphoria less than once a month. The surgeries (including srs) really work. I finally got my shit together, only took 30 years haha.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/r742gi/did_breast_implants_a_little_over_a_year_ago/content.html) by stupidstories in 2021
+    * [1.5 years post op vaginoplasty. I have also had a corrective surgery. Karolinska Solna Sweden.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lf7dg8/15_years_post_op_vaginoplasty_i_have_also_had_a/content.html) by stupidstories in 2021
+    * [Everything is healed after my vaginoplasty revision. It really does look a lot better now than before the revision.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/iz984j/everything_is_healed_after_my_vaginoplasty/content.html) by stupidstories in 2020
+    * [This is what it looks like with legs closed. On the previous picture my legs were spread. The random scar is from my self surgery and not the doctors fault. I talked to someone in the healthcare system, and they can remove the hair inside the vagina. So I feel a little better now.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/fn8j7z/this_is_what_it_looks_like_with_legs_closed_on/content.html) by stupidstories in 2020
+    * [So this is what my "vagina" looks like. It looks even more like testicle sacks in real life. The actual hole is that extremely hair patch at bottom. The hair goes all the way into the vagina apex. The pink thing is my urethra and it grows into a micro penis when I'm horny. Above it is the clitoris.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/fluv3r/so_this_is_what_my_vagina_looks_like_it_looks/content.html) by stupidstories in 2020
+    * [I did a vaginoplasty at Karolinska Solna 15 days ago and I'm starting to regret it so hard. It looks disgusting and is a growing infected wound thats starting to consume everything. They say everything is normal and they can't do anything. It smells so bad and it hurts.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/dezxl3/i_did_a_vaginoplasty_at_karolinska_solna_15_days/content.html) by stupidstories in 2019
 
 **Non-photo links**
 
 reddit
 
 * [r/transnord](https://www.reddit.com/r/transnord)
-* [What is the best surgeon for SRS in sweden?](https://www.reddit.com/r/Transgender_Surgeries/comments/rq161n/what_is_the_best_surgeon_for_srs_in_sweden/) by  Popular_Tradition443 in 2022
-* [So i felt a little on my inside. And as soon as I get like maybe 3? Cm in. The inside is literally just covered in hair.](https://www.reddit.com/r/Transgender_Surgeries/comments/fjort1/so_i_felt_a_little_on_my_inside_and_as_soon_as_i/) by stupidstories in 2020
+* [What is the best surgeon for SRS in sweden?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rq161n/what_is_the_best_surgeon_for_srs_in_sweden/content.html) by  Popular_Tradition443 in 2022
+* [So i felt a little on my inside. And as soon as I get like maybe 3? Cm in. The inside is literally just covered in hair.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/fjort1/so_i_felt_a_little_on_my_inside_and_as_soon_as_i/content.html) by stupidstories in 2020
 * [Vaginoplasty technique in LinköpingSweden / Sverige](https://www.reddit.com/r/transnord/comments/dfexf3/vaginoplasty_technique_in_link%C3%B6ping/) by Promethea- in 2019
-* reply to [Update on my SRS issues from 5 days ago](https://www.reddit.com/r/Transgender_Surgeries/comments/cch1r8/update_on_my_srs_issues_from_5_days_ago/eto40ix/) by ligg-e-woo in 2019
+* reply to [Update on my SRS issues from 5 days ago](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/cch1r8/update_on_my_srs_issues_from_5_days_ago/eto40ix/content.html) by ligg-e-woo in 2019
 * [Science AMA Series: I'm Cecilia Dhejne a fellow of the European Committee of Sexual Medicine, from the Karolinska University Hospital in Sweden. I'm here to talk about transgender health, suicide rates, and my often misinterpreted study. Ask me anything!](https://www.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/) by Cecilia_Dhejne_Helmy in 2018
 
 YouTube
@@ -3489,7 +3489,7 @@ Papers
 
 reddit
 
-* [I don't know how to feel about the results visually. Natural looking?](https://www.reddit.com/r/Transgender_Surgeries/comments/14f7h4t/i_dont_know_how_to_feel_about_the_results/) by Transgirl155 in 2023
+* [I don't know how to feel about the results visually. Natural looking?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14f7h4t/i_dont_know_how_to_feel_about_the_results/content.html) by Transgirl155 in 2023
 * [AMAB SRS Experience 2018-11-12 in Linköping, Sweden 1 Year on](https://www.reddit.com/r/transnord/comments/dwfyq3/amab_srs_experience_20181112_in_link%C3%B6ping_sweden/) by ligg-e-woo in 2019
     * [3+ Month Update: AMAB SRS Experience in Linköping, Sweden](https://www.reddit.com/r/transnord/comments/auxfed/3_month_update_amab_srs_experience_in_link%C3%B6ping/) by ligg-e-woo in 2019
     * [AMAB SRS Experience 2018-11-12 in Linköping, Sweden](https://www.reddit.com/r/transnord/comments/a73zg9/amab_srs_experience_20181112_in_link%C3%B6ping_sweden/) by ligg-e-woo in 2018, photos [here](https://imgur.com/a/CFsOTjk)
@@ -3498,7 +3498,7 @@ reddit
 
 reddit
 
-* [Vaginal canal depth](https://www.reddit.com/r/Transgender_Surgeries/comments/gnayg6/vaginal_canal_depth/) by JaneXCIV in 2020
+* [Vaginal canal depth](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gnayg6/vaginal_canal_depth/content.html) by JaneXCIV in 2020
 
 ---
 
@@ -3517,15 +3517,15 @@ Surgeons sites
 
 reddit
 
-* [Are these fistula openings? \[1 yr 2 months post-op bortom surgery\]](https://www.reddit.com/r/Transgender_Surgeries/comments/1czubhb/are_these_fistula_openings_1_yr_2_months_postop/) by IdunsFru in 2024
-    * [1 year post op SRS (PI Vaginoplasty). Sahlgrenska, Gothenburg](https://www.reddit.com/r/Transgender_Surgeries/comments/1b6gi5q/1_year_post_op_srs_pi_vaginoplasty_sahlgrenska/) by IdunsFru in 2024 - *"Surgery done by Dr. Selvaggi and Dr. Jula at Sahlgrenska Universitetssjukhus in Gothenburg, Sweden"*
-    * [6 months post op SRS (PI Vaginoplasty). Sahlgrenska, Gothenburg](https://www.reddit.com/r/Transgender_Surgeries/comments/1699d6d/6_months_post_op_srs_pi_vaginoplasty_sahlgrenska/) by IdunsFru in 2024
+* [Are these fistula openings? \[1 yr 2 months post-op bortom surgery\]](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1czubhb/are_these_fistula_openings_1_yr_2_months_postop/content.html) by IdunsFru in 2024
+    * [1 year post op SRS (PI Vaginoplasty). Sahlgrenska, Gothenburg](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1b6gi5q/1_year_post_op_srs_pi_vaginoplasty_sahlgrenska/content.html) by IdunsFru in 2024 - *"Surgery done by Dr. Selvaggi and Dr. Jula at Sahlgrenska Universitetssjukhus in Gothenburg, Sweden"*
+    * [6 months post op SRS (PI Vaginoplasty). Sahlgrenska, Gothenburg](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1699d6d/6_months_post_op_srs_pi_vaginoplasty_sahlgrenska/content.html) by IdunsFru in 2024
     * [SRS Post Op recovery – 6 month update](https://www.reddit.com/user/IdunsFru/comments/16995wf/srs_post_op_recovery_6_month_update/) by IdunsFru in 2023
     * [6 months post op SRS (PI Vaginoplasty). Sahlgrenska, Gothenburg](https://www.reddit.com/r/transnord/comments/1699iac/6_months_post_op_srs_pi_vaginoplasty_sahlgrenska/) by IdunsFru in 2023 - *"When my surgeon measured, it was ~11 cm (~4.5 inches). I don't know what my depth is now... I presume his techniques and skills aren't as refined as the top surgeons worldwide, but I'm happy with his results, and he has definitely satisfied my expectations."*
-    * [SRS (PI Vaginoplasty) 4 months post op. Sahlgrenska, Gothenburg](https://www.reddit.com/r/Transgender_Surgeries/comments/14ufbhp/srs_pi_vaginoplasty_4_months_post_op_sahlgrenska/) by IdunsFru in 2023
+    * [SRS (PI Vaginoplasty) 4 months post op. Sahlgrenska, Gothenburg](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14ufbhp/srs_pi_vaginoplasty_4_months_post_op_sahlgrenska/content.html) by IdunsFru in 2023
     * [SRS (PI Vaginoplasty) 4 months post op. Sahlgrenska, Gothenburg](https://www.reddit.com/r/transnord/comments/14und2a/srs_pi_vaginoplasty_4_months_post_op_sahlgrenska/) by IdunsFru in 2023
     * [SRS Post Op recovery](https://www.reddit.com/user/IdunsFru/comments/14uazdm/srs_post_op_recovery/) by IdunsFru in 2023
-    * [Recurring lower abdominal cramps?](https://www.reddit.com/r/Transgender_Surgeries/comments/134y6uz/recurring_lower_abdominal_cramps/) by IdunsFru in 2023
+    * [Recurring lower abdominal cramps?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/134y6uz/recurring_lower_abdominal_cramps/content.html) by IdunsFru in 2023
 
 **Non-photo links**
 
@@ -3565,46 +3565,46 @@ reddit
 
 * [Curious after years of wanting dick gone I now crave dick all the time](https://www.reddit.com/r/fortransfems/comments/1i843xq/curious_after_years_of_wanting_dick_gone_i_now/) by slutty_violet in 2025
     * [Would you fuck my virgin trans pussy?](https://www.reddit.com/r/Safe4Trans/comments/1h5nh1t/would_you_fuck_my_virgin_trans_pussy/) by slutty_violet in 2024
-* [After ring surgery now after a 4 weeks surgery i can say that the ring is gone. Hopefuly forever. The 2nd surgery was after 16weeks after the first general Srs surgery.](https://www.reddit.com/r/Transgender_Surgeries/comments/12z5zre/after_ring_surgery_now_after_a_4_weeks_surgery_i/) by  Carolina-Swe in 2023
-    * [11 weeks ! after SRS surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://www.reddit.com/r/Transgender_Surgeries/comments/10r4mgz/11_weeks_after_srs_surgery_sweden_stockholm_by_dr/) by Carolina-Swe in 2023
-    * [8weeks 2 days Srs surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://www.reddit.com/r/Transgender_Surgeries/comments/10b4f55/8weeks_2_days_srs_surgery_sweden_stockholm_by_dr/) by Carolina-Swe in 2023
-    * [8 weeks after vaginoplatik by dr Antti Mikkola and Dr Yihang Liu](https://www.reddit.com/r/Transgender_Surgeries/comments/107lead/8_weeks_after_vaginoplatik_by_dr_antti_mikkola/) by Carolina-Swe in 2023
-    * [7weeks 2 days SRS surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://www.reddit.com/r/Transgender_Surgeries/comments/104csze/7weeks_2_days_srs_surgery_sweden_stockholm_by_dr/) by Carolina-Swe in 2023
-    * [7weeks after SRS surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://www.reddit.com/r/Transgender_Surgeries/comments/1031eik/7weeks_after_srs_surgery_sweden_stockholm_by_dr/) by Carolina-Swe in 2023
-    * [6weeks and 5 days post Srs surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://www.reddit.com/r/Transgender_Surgeries/comments/100kkuz/6weeks_and_5_days_post_srs_surgery_sweden/) by Carolina-Swe in 2023
-    * [6weeks 3days after SRS surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://www.reddit.com/r/Transgender_Surgeries/comments/zyqleq/6weeks_3days_after_srs_surgery_sweden_stockholm/) by Carolina-Swe in 2022
-    * [6weeks after SRS surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://www.reddit.com/r/Transgender_Surgeries/comments/zvtng7/6weeks_after_srs_surgery_sweden_stockholm_by_dr/) by Carolina-Swe in 2022
-    * [5 weeks 5 days after SRS surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://www.reddit.com/r/Transgender_Surgeries/comments/ztmp7b/5_weeks_5_days_after_srs_surgery_sweden_stockholm/) by Carolina-Swe in 2022
-    * [5weeks 1day post Srs surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://www.reddit.com/r/Transgender_Surgeries/comments/zrwikw/5weeks_1day_post_srs_surgery_sweden_stockholm_by/) by Carolina-Swe in 2022
-    * [4 weeks 6 days Srs surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://www.reddit.com/r/Transgender_Surgeries/comments/zpabiq/4_weeks_6_days_srs_surgery_sweden_stockholm_by_dr/) by Carolina-Swe in 2022
-    * [Month&3days by dr.Antti Mikkola](https://www.reddit.com/r/Transgender_Surgeries/comments/zmzdlp/month3days_by_drantti_mikkola/) by Carolina-Swe in 2022
+* [After ring surgery now after a 4 weeks surgery i can say that the ring is gone. Hopefuly forever. The 2nd surgery was after 16weeks after the first general Srs surgery.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/12z5zre/after_ring_surgery_now_after_a_4_weeks_surgery_i/content.html) by  Carolina-Swe in 2023
+    * [11 weeks ! after SRS surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10r4mgz/11_weeks_after_srs_surgery_sweden_stockholm_by_dr/content.html) by Carolina-Swe in 2023
+    * [8weeks 2 days Srs surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10b4f55/8weeks_2_days_srs_surgery_sweden_stockholm_by_dr/content.html) by Carolina-Swe in 2023
+    * [8 weeks after vaginoplatik by dr Antti Mikkola and Dr Yihang Liu](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/107lead/8_weeks_after_vaginoplatik_by_dr_antti_mikkola/content.html) by Carolina-Swe in 2023
+    * [7weeks 2 days SRS surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/104csze/7weeks_2_days_srs_surgery_sweden_stockholm_by_dr/content.html) by Carolina-Swe in 2023
+    * [7weeks after SRS surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1031eik/7weeks_after_srs_surgery_sweden_stockholm_by_dr/content.html) by Carolina-Swe in 2023
+    * [6weeks and 5 days post Srs surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/100kkuz/6weeks_and_5_days_post_srs_surgery_sweden/content.html) by Carolina-Swe in 2023
+    * [6weeks 3days after SRS surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zyqleq/6weeks_3days_after_srs_surgery_sweden_stockholm/content.html) by Carolina-Swe in 2022
+    * [6weeks after SRS surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zvtng7/6weeks_after_srs_surgery_sweden_stockholm_by_dr/content.html) by Carolina-Swe in 2022
+    * [5 weeks 5 days after SRS surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ztmp7b/5_weeks_5_days_after_srs_surgery_sweden_stockholm/content.html) by Carolina-Swe in 2022
+    * [5weeks 1day post Srs surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zrwikw/5weeks_1day_post_srs_surgery_sweden_stockholm_by/content.html) by Carolina-Swe in 2022
+    * [4 weeks 6 days Srs surgery Sweden Stockholm by Dr Antti Mikkola and Dr Yihang Liu](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zpabiq/4_weeks_6_days_srs_surgery_sweden_stockholm_by_dr/content.html) by Carolina-Swe in 2022
+    * [Month&3days by dr.Antti Mikkola](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zmzdlp/month3days_by_drantti_mikkola/content.html) by Carolina-Swe in 2022
     * [SRS surgery day 2 Sweden Stockholm by dr Antti Mikkola and Dr Yihang Liu](https://www.reddit.com/r/transnord/comments/zmzjp8/srs_surgery_day_2_sweden_stockholm_by_dr_antti/) by Carolina-Swe in 2022
-    * [1 month after SRS surgery Sweden Stockholm by Dr.Antti Mikkola and Dr. Yihang Liu](https://www.reddit.com/r/Transgender_Surgeries/comments/zkspis/1_month_after_srs_surgery_sweden_stockholm_by/) by Carolina-Swe in 2022
-    * [Srs surgery Sweden/Stockholm by Dr.Antti Mikkola and Dr. Yihang Liu reupload vid.](https://www.reddit.com/r/Transgender_Surgeries/comments/zksomr/srs_surgery_swedenstockholm_by_drantti_mikkola/) by Carolina-Swe in 2022
-    * [3 weeks 2 days after surgery by dr.Antti Mikkola and assistance dr. Yihang Liu](https://www.reddit.com/r/Transgender_Surgeries/comments/zgei2m/3_weeks_2_days_after_surgery_by_drantti_mikkola/) by Carolina-Swe in 2022
-    * [3 weeks after vaginoplatik](https://www.reddit.com/r/Transgender_Surgeries/comments/zdmwtp/3_weeks_after_vaginoplatik/) by Carolina-Swe in 2022
-    * [2 weeks after vaginoplatik](https://www.reddit.com/r/Transgender_Surgeries/comments/z7wq0v/2_weeks_after_vaginoplatik/) by Carolina-Swe in 2022
-    * [2 weeks and 2 day after vaginoplatik. Still swollen but healing correctly.](https://www.reddit.com/r/Transgender_Surgeries/comments/z9q59x/2_weeks_and_2_day_after_vaginoplatik_still/) by Carolina-Swe in 2022
-    * [Day 12 is it always like this more wounds form at the opening or is it from dilition? By dr. Antti Mikkola.](https://www.reddit.com/r/Transgender_Surgeries/comments/z5lew6/day_12_is_it_always_like_this_more_wounds_form_at/) by Carolina-Swe in 2022
-    * [10th days after surgery.](https://www.reddit.com/r/Transgender_Surgeries/comments/z45pul/10th_days_after_surgery/) by Carolina-Swe in 2022
-    * [8 days after, do You also have problem with peeing ?](https://www.reddit.com/r/Transgender_Surgeries/comments/z3f51x/8_days_after_do_you_also_have_problem_with_peeing/) by Carolina-Swe in 2022
-    * [6th day after SRS surgery/ Stockholm Dr.Antti Mikkola&Dr. Liu](https://www.reddit.com/r/Transgender_Surgeries/comments/z13k1b/6th_day_after_srs_surgery_stockholm_drantti/) by Carolina-Swe in 2022
+    * [1 month after SRS surgery Sweden Stockholm by Dr.Antti Mikkola and Dr. Yihang Liu](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zkspis/1_month_after_srs_surgery_sweden_stockholm_by/content.html) by Carolina-Swe in 2022
+    * [Srs surgery Sweden/Stockholm by Dr.Antti Mikkola and Dr. Yihang Liu reupload vid.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zksomr/srs_surgery_swedenstockholm_by_drantti_mikkola/content.html) by Carolina-Swe in 2022
+    * [3 weeks 2 days after surgery by dr.Antti Mikkola and assistance dr. Yihang Liu](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zgei2m/3_weeks_2_days_after_surgery_by_drantti_mikkola/content.html) by Carolina-Swe in 2022
+    * [3 weeks after vaginoplatik](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zdmwtp/3_weeks_after_vaginoplatik/content.html) by Carolina-Swe in 2022
+    * [2 weeks after vaginoplatik](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z7wq0v/2_weeks_after_vaginoplatik/content.html) by Carolina-Swe in 2022
+    * [2 weeks and 2 day after vaginoplatik. Still swollen but healing correctly.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z9q59x/2_weeks_and_2_day_after_vaginoplatik_still/content.html) by Carolina-Swe in 2022
+    * [Day 12 is it always like this more wounds form at the opening or is it from dilition? By dr. Antti Mikkola.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z5lew6/day_12_is_it_always_like_this_more_wounds_form_at/content.html) by Carolina-Swe in 2022
+    * [10th days after surgery.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z45pul/10th_days_after_surgery/content.html) by Carolina-Swe in 2022
+    * [8 days after, do You also have problem with peeing ?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z3f51x/8_days_after_do_you_also_have_problem_with_peeing/content.html) by Carolina-Swe in 2022
+    * [6th day after SRS surgery/ Stockholm Dr.Antti Mikkola&Dr. Liu](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z13k1b/6th_day_after_srs_surgery_stockholm_drantti/content.html) by Carolina-Swe in 2022
     * [4th day after SRS](https://www.reddit.com/r/transnord/comments/yz6e80/4th_day_after_srs/) by Carolina-Swe in 2022
-    * [3rd day after SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/yythgb/3rd_day_after_srs/) by Carolina-Swe in 2022
+    * [3rd day after SRS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yythgb/3rd_day_after_srs/content.html) by Carolina-Swe in 2022
     * [Sweden/Stockholm SRS, surgery day "0"](https://www.reddit.com/r/transnord/comments/ywb3l8/swedenstockholm_srs_surgery_day_0/) by Carolina-Swe in 2022
-* [5 weeks post-op vaginoplasty in Stockholm, Sweden](https://www.reddit.com/r/Transgender_Surgeries/comments/11rdgfw/5_weeks_postop_vaginoplasty_in_stockholm_sweden/) by Kooky-Respect-9151 in 2023
-    * [1 month post-op srs in Stockholm, Sweden. Dr. Antti Mikkola](https://www.reddit.com/r/Transgender_Surgeries/comments/11n246q/1_month_postop_srs_in_stockholm_sweden_dr_antti/) by Kooky-Respect-9151 in 2023
-* [One year vaginoplasty at Karolinska, Stockholm. Had one revision 3 months ago](https://www.reddit.com/r/Transgender_Surgeries/comments/10gefvm/one_year_vaginoplasty_at_karolinska_stockholm_had/) by FrequentRabbit5295 in 2023
-    * [One year post op Antti Mikkola, Stockholm, Sweden](https://www.reddit.com/r/Transgender_Surgeries/comments/zeaful/one_year_post_op_antti_mikkola_stockholm_sweden/) by FrequentRabbit5295 in 2022
-* [Help identify technique? Antti Mikkola, NSFW](https://www.reddit.com/r/Transgender_Surgeries/comments/w5zwa9/help_identify_technique_antti_mikkola_nsfw/) by ChillyPlant in 2022
-    * [5 months post-OP, thai method based SRS, by Antti Mikkola from Stockholm region in Sweden, NSFW](https://www.reddit.com/r/Transgender_Surgeries/comments/w5uhf6/5_months_postop_thai_method_based_srs_by_antti/) by ChillyPlant in 2022
+* [5 weeks post-op vaginoplasty in Stockholm, Sweden](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/11rdgfw/5_weeks_postop_vaginoplasty_in_stockholm_sweden/content.html) by Kooky-Respect-9151 in 2023
+    * [1 month post-op srs in Stockholm, Sweden. Dr. Antti Mikkola](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/11n246q/1_month_postop_srs_in_stockholm_sweden_dr_antti/content.html) by Kooky-Respect-9151 in 2023
+* [One year vaginoplasty at Karolinska, Stockholm. Had one revision 3 months ago](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10gefvm/one_year_vaginoplasty_at_karolinska_stockholm_had/content.html) by FrequentRabbit5295 in 2023
+    * [One year post op Antti Mikkola, Stockholm, Sweden](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zeaful/one_year_post_op_antti_mikkola_stockholm_sweden/content.html) by FrequentRabbit5295 in 2022
+* [Help identify technique? Antti Mikkola, NSFW](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/w5zwa9/help_identify_technique_antti_mikkola_nsfw/content.html) by ChillyPlant in 2022
+    * [5 months post-OP, thai method based SRS, by Antti Mikkola from Stockholm region in Sweden, NSFW](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/w5uhf6/5_months_postop_thai_method_based_srs_by_antti/content.html) by ChillyPlant in 2022
 
 **Non-photo links**
 
 reddit
 
 * [SRS with Antti Mikkola, Karolinska Universitetsjukhuset, Stockholm](https://www.reddit.com/r/transnord/comments/10egmkw/srs_with_antti_mikkola_karolinska/) by gayjoy in 2023
-* [Antti Mikkola at Karolinska Universitetssjukhuset Solna](https://www.reddit.com/r/Transgender_Surgeries/comments/q5tqzo/upcoming_vaginoplasty_with_dr_antti_mikkola/) by plathhs in 2021
+* [Antti Mikkola at Karolinska Universitetssjukhuset Solna](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/q5tqzo/upcoming_vaginoplasty_with_dr_antti_mikkola/content.html) by plathhs in 2021
 
 YouTube
 
@@ -3637,7 +3637,7 @@ Links
 YouTube
 
 * [Sexualität nach Geschlechtsangleichung.](https://www.youtube.com/watch?v=csm7aUmOgIo) in 2018 - title in English is *"Sexuality after gender reassignment."*
-* [Geschlechtsumwandlung Operation + Heilungsprozess!](https://www.youtube.com/watch?v=d8uXcaLsqHU) in 2017 - title in English is *"Sex reassignment surgery + healing process!"*, see also reply to [Surgery in Switzerland](https://www.reddit.com/r/Transgender_Surgeries/comments/kw0z31/surgery_in_switzerland/gj4lgjk/) by gargoyleprincess12 in 2021 on reddit
+* [Geschlechtsumwandlung Operation + Heilungsprozess!](https://www.youtube.com/watch?v=d8uXcaLsqHU) in 2017 - title in English is *"Sex reassignment surgery + healing process!"*, see also reply to [Surgery in Switzerland](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kw0z31/surgery_in_switzerland/gj4lgjk/content.html) by gargoyleprincess12 in 2021 on reddit
 
 <br />
 
@@ -3658,10 +3658,10 @@ Surgeons sites
 
 reddit
 
-* [Dr. Waldner USZ Zürich, Switzerland SRS Results. Almost 2 Years Post Op, 1 Revision. Maybe not the best result ever but I still feel happier than before so that's still a win.](https://www.reddit.com/r/Transgender_Surgeries/comments/147ue39/dr_waldner_usz_z%C3%BCrich_switzerland_srs_results/) by  thetsdoll in 2023
-* [Dr.Matthias Waldner USZ Switzerland](https://www.reddit.com/r/Transgender_Surgeries/comments/125qwe4/drmatthias_waldner_usz_switzerland/) by Objective_Magician38 in 2023
-    * [don't go to dr. Matthias Waldner USZ switzerland!](https://www.reddit.com/r/Transgender_Surgeries/comments/10yux6r/dont_go_to_dr_matthias_waldner_usz_switzerland/) by Objective_Magician38 in 2023
-    * [SRS experience with Dr.waldner and Stefania Simone](https://www.reddit.com/r/Transgender_Surgeries/comments/10yu26e/srs_experience_with_drwaldner_and_stefania_simone/) by Objective_Magician38 in 2023
+* [Dr. Waldner USZ Zürich, Switzerland SRS Results. Almost 2 Years Post Op, 1 Revision. Maybe not the best result ever but I still feel happier than before so that's still a win.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/147ue39/dr_waldner_usz_z%C3%BCrich_switzerland_srs_results/content.html) by  thetsdoll in 2023
+* [Dr.Matthias Waldner USZ Switzerland](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/125qwe4/drmatthias_waldner_usz_switzerland/content.html) by Objective_Magician38 in 2023
+    * [don't go to dr. Matthias Waldner USZ switzerland!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10yux6r/dont_go_to_dr_matthias_waldner_usz_switzerland/content.html) by Objective_Magician38 in 2023
+    * [SRS experience with Dr.waldner and Stefania Simone](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10yu26e/srs_experience_with_drwaldner_and_stefania_simone/content.html) by Objective_Magician38 in 2023
 
 <br />
 
@@ -3682,8 +3682,8 @@ Geschlechtsangleichende Chirurgie,
 
 reddit
 
-* [My operations](https://www.reddit.com/r/Transgender_Surgeries/comments/1hpb72d/my_operations/) by Melahia in 2024
-    * [20days after op.](https://www.reddit.com/r/Transgender_Surgeries/comments/1h93ao4/20days_after_op/) by Melahia in 2024
+* [My operations](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1hpb72d/my_operations/content.html) by Melahia in 2024
+    * [20days after op.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1h93ao4/20days_after_op/content.html) by Melahia in 2024
 
 **Non-photo links**
 
@@ -3713,11 +3713,11 @@ Surgeons sites
 
 reddit
 
-* [srs mijuskovic 4 months post op](https://www.reddit.com/r/Transgender_Surgeries/comments/1ffm1z6/srs_mijuskovic_4_months_post_op/) by Complex-Way5224 in 2024
-    * [SRS 3 Days Post Op](https://www.reddit.com/r/Transgender_Surgeries/comments/1cva1rx/srs_3_days_post_op/) by Complex-Way5224 in 2024
-* [14weeks post op mtf SRS with Dr. Mijuskovic in Basel CH](https://www.reddit.com/r/Transgender_Surgeries/comments/113qqpc/14weeks_post_op_mtf_srs_with_dr_mijuskovic_in/) by MotherGazelle1612 in 2023
-    * [mtf, 5 weeks post op (Dr. Mijuskovic, Basel/Switzerland)](https://www.reddit.com/r/Transgender_Surgeries/comments/ztw72x/mtf_5_weeks_post_op_dr_mijuskovic_baselswitzerland/) by MotherGazelle1612 in 2023
-* [SRS - Dr Mijuskovic - Basel Switzerland - 7 months post OP](https://www.reddit.com/r/Transgender_Surgeries/comments/v9j085/srs_dr_mijuskovic_basel_switzerland_7_months_post/) by zoe_zee_blvde in 2022
+* [srs mijuskovic 4 months post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ffm1z6/srs_mijuskovic_4_months_post_op/content.html) by Complex-Way5224 in 2024
+    * [SRS 3 Days Post Op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1cva1rx/srs_3_days_post_op/content.html) by Complex-Way5224 in 2024
+* [14weeks post op mtf SRS with Dr. Mijuskovic in Basel CH](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/113qqpc/14weeks_post_op_mtf_srs_with_dr_mijuskovic_in/content.html) by MotherGazelle1612 in 2023
+    * [mtf, 5 weeks post op (Dr. Mijuskovic, Basel/Switzerland)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ztw72x/mtf_5_weeks_post_op_dr_mijuskovic_baselswitzerland/content.html) by MotherGazelle1612 in 2023
+* [SRS - Dr Mijuskovic - Basel Switzerland - 7 months post OP](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/v9j085/srs_dr_mijuskovic_basel_switzerland_7_months_post/content.html) by zoe_zee_blvde in 2022
 * [3 Years since my Operation and since then ibhave so much more fun with my self!](https://www.reddit.com/r/GoneWildTrans/comments/u4rmih/3_years_since_my_operation_and_since_then_ibhave/) by xXBinchenXx in 2022
     * [Its a little bit over 3 Years since the Operation. im so happy that ii did it!](https://www.reddit.com/r/manmadepussy/comments/u4rden/its_a_little_bit_over_3_years_since_the_operation/) by xXBinchenXx in 2022
     * [I need some one to lick me, im so Horny.](https://www.reddit.com/r/HairyPussy/comments/kumxra/i_need_some_one_to_lick_me_im_so_horny/) by xXBinchenXx in 2021
@@ -3728,7 +3728,7 @@ reddit
 
 reddit
 
-* reply to [2 yr Postop update GRS Brassard MTL PI-Vaginoplasty and Trachea Shave + answered questions NSFW](https://www.reddit.com/r/Transgender_Surgeries/comments/saplis/2_yr_postop_update_grs_brassard_mtl/htv39kd/) by googleyfroogley in 2022
+* reply to [2 yr Postop update GRS Brassard MTL PI-Vaginoplasty and Trachea Shave + answered questions NSFW](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/saplis/2_yr_postop_update_grs_brassard_mtl/htv39kd/content.html) by googleyfroogley in 2022
 
 Other
 

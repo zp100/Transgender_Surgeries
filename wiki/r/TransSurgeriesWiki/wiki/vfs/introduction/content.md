@@ -17,7 +17,7 @@ reddit
 
 * https://www.reddit.com/r/transvoice/
 * [Going into voice feminization surgery with your normal male voice ](https://www.reddit.com/r/transvoice/comments/ejid7y/going_into_voice_feminization_surgery_with_your/) by Ducky98 in 2020
-* [For those who had VFS, (Vocal Sugery) from anyone, what is it like speaking for the first time and hearing a new voice come out?](https://www.reddit.com/r/Transgender_Surgeries/comments/dsn6zm/for_those_who_had_vfs_vocal_sugery_from_anyone/) by Girl-UnSure in 2019
+* [For those who had VFS, (Vocal Sugery) from anyone, what is it like speaking for the first time and hearing a new voice come out?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/dsn6zm/for_those_who_had_vfs_vocal_sugery_from_anyone/content.html) by Girl-UnSure in 2019
 
 Susans
 
@@ -33,14 +33,14 @@ Chapter 15 "Feminization Laryngoplasty: Surgical Therapy" by Andrea Luigi Cavalo
 
 reddit
 
-* [Android app for getting around after VFS](https://www.reddit.com/r/Transgender_Surgeries/comments/besd8n/android_app_for_getting_around_after_vfs/) by kitanokikori in 2019
+* [Android app for getting around after VFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/besd8n/android_app_for_getting_around_after_vfs/content.html) by kitanokikori in 2019
 
 # Singing after VFS
 
 reddit
 
 * [Update on Dr Theodore Athanasiadis](https://www.reddit.com/r/transgenderau/comments/dwkr2u/update_on_dr_theodore_athanasiadis/) by AstralEuphoria in 2019
-* [Vocal Feminization Surgery and Singing?](https://www.reddit.com/r/Transgender_Surgeries/comments/dks83j/vocal_feminization_surgery_and_singing/) by croweatingberries in 2019
+* [Vocal Feminization Surgery and Singing?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/dks83j/vocal_feminization_surgery_and_singing/content.html) by croweatingberries in 2019
 * [Girls who had VFS at Yeson: can you sing?](https://www.reddit.com/r/asktransgender/comments/52epdy/girls_who_had_vfs_at_yeson_can_you_sing/) by AliciaMei around 2016
 
 Susans

@@ -17,8 +17,8 @@ Surgeons sites
 
 reddit
 
-* [Had FFS in Barcelona. Actually 1 of 2. Still to do is nose & lifting. Not happy with results, hardly any improvement.](https://www.reddit.com/r/Transgender_Surgeries/comments/qjqshj/had_ffs_in_barcelona_actually_1_of_2_still_to_do/) by throwaway_failed_ffs in 2021
-* [FFS In 10 Days, how should I prepare?](https://www.reddit.com/r/Transgender_Surgeries/comments/l3bdag/ffs_in_10_days_how_should_i_prepare/) by OliveMatter in 2021
+* [Had FFS in Barcelona. Actually 1 of 2. Still to do is nose & lifting. Not happy with results, hardly any improvement.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qjqshj/had_ffs_in_barcelona_actually_1_of_2_still_to_do/content.html) by throwaway_failed_ffs in 2021
+* [FFS In 10 Days, how should I prepare?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l3bdag/ffs_in_10_days_how_should_i_prepare/content.html) by OliveMatter in 2021
 
 <br />
 
@@ -53,148 +53,148 @@ Facial Team have some connection with Ocean Clinic in Marbella, who do BA, BBL, 
 
 reddit
 
-* [Variation in post-op FFS pain](https://www.reddit.com/r/Transgender_Surgeries/comments/1goxeb1/variation_in_postop_ffs_pain/) by charleenmtf in 2024
+* [Variation in post-op FFS pain](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1goxeb1/variation_in_postop_ffs_pain/content.html) by charleenmtf in 2024
 * [Join me, Dr Luis Capitán of Facialteam, for my first AMA on Reddit. I will be here next Thursday, October 31st, at 2pm (GMT) to answer your questions about facial feminisation surgery. This is your chance to Ask Me Anything!](https://www.reddit.com/r/transgenderUK/comments/1gch3hk/join_me_dr_luis_capit%C3%A1n_of_facialteam_for_my/) by FacialteamSurgeons in 2024
-* reply to [deleted by user](https://www.reddit.com/r/Transgender_Surgeries/comments/1ee2h9y/deleted_by_user/lfd939v/?context=3) by Obelus9 - *"I am one year post op with facialteam and my experience with them has been that they don't listen to you at all, ignore what you agree to in the consultations, and then tell you to wait a year even though it will become clear at month 3 if you are happy with the results or not...  I need revisions on three of the five surgeries that they performed and they are not even aesthetic issues, they are functional, like being left unable to breath..."*
-* [Facialteam](https://www.reddit.com/r/Transgender_Surgeries/comments/1faaomm/facialteam/) by nikitakinka in 2024
-* [\[GRAPHIC - Surgery Photos\] Revision with Facialteam Spain, primary surgery with Anna Sluzky / Facemaker](https://www.reddit.com/r/Transgender_Surgeries/comments/1ezazbg/graphic_surgery_photos_revision_with_facialteam/) by MainCommunication802 in 2024
-    * [\[3D CT Scans\] Revision with Facialteam Spain, primary surgery with Anna Sluzky / Facemaker ](https://www.reddit.com/r/Transgender_Surgeries/comments/1ezauul/3d_ct_scans_revision_with_facialteam_spain/) by MainCommunication802 in 2024
-    * [FFS surgeon Anna Sluzky had her surgical assistant perform my rhinoplasty without discussion or consent](https://www.reddit.com/r/Transgender_Surgeries/comments/1e7w3s9/ffs_surgeon_anna_sluzky_had_her_surgical/) by MainCommunication802 in 2024
-    * [Nightmare FFS Experience with Ann Sluzky of Facemaker](https://www.reddit.com/r/Transgender_Surgeries/comments/1c5vq29/nightmare_ffs_experience_with_ann_sluzky_of/) by MainCommunication802 in 2024 - *"TLDR: * Surgeon said she would do type 3 forehead reconstruction despite partial sinus during initial consultation, instead used a combined type 1 and 3 approach without discussion * Surgeon rushed patient through rhinoplasty planning moments before surgery, not making time to discuss it properly as agreed to * Surgeon made changes to the nose without discussion, making an already long upper lip even longer than prior to surgery (see diagram). Not a desirable outcome in FFS as cis men typically have a longer upper lip. This requires a cartilage graft to repair * Surgeon and surgical assistant filmed video of patient, including during surgery which was shared to social media without consent * Surgeon left a bone defect / dent in patient's forehead (see CT scans) that requires a graft from the back of the skull to repair * Forehead feminisation was also left incomplete as confirmed by a well regarded second FFS surgeon * Communication was abysmal and surgeon was rude and abusive, mocking and gaslighting patient as dysphoric when legitimate problems with evidence were raised post-op * Surgeon takes no responsibility for any undesirable outcomes, completely ignores CT scan evidence and report prepared by well regarded second FFS specialist team"*
-* [Unhappy with FacialTeam, they keep telling I need to wait for results, but feels like they are pushing me away, still look masc. Vent.](https://old.reddit.com/r/Transgender_Surgeries/comments/1ee2h9y/unhappy_with_facialteam_they_keep_telling_i_need/) by Pink_Koala_69 in 2024
+* reply to [deleted by user](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ee2h9y/deleted_by_user/lfd939v/?context=3content.html) by Obelus9 - *"I am one year post op with facialteam and my experience with them has been that they don't listen to you at all, ignore what you agree to in the consultations, and then tell you to wait a year even though it will become clear at month 3 if you are happy with the results or not...  I need revisions on three of the five surgeries that they performed and they are not even aesthetic issues, they are functional, like being left unable to breath..."*
+* [Facialteam](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1faaomm/facialteam/content.html) by nikitakinka in 2024
+* [\[GRAPHIC - Surgery Photos\] Revision with Facialteam Spain, primary surgery with Anna Sluzky / Facemaker](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ezazbg/graphic_surgery_photos_revision_with_facialteam/content.html) by MainCommunication802 in 2024
+    * [\[3D CT Scans\] Revision with Facialteam Spain, primary surgery with Anna Sluzky / Facemaker ](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ezauul/3d_ct_scans_revision_with_facialteam_spain/content.html) by MainCommunication802 in 2024
+    * [FFS surgeon Anna Sluzky had her surgical assistant perform my rhinoplasty without discussion or consent](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1e7w3s9/ffs_surgeon_anna_sluzky_had_her_surgical/content.html) by MainCommunication802 in 2024
+    * [Nightmare FFS Experience with Ann Sluzky of Facemaker](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1c5vq29/nightmare_ffs_experience_with_ann_sluzky_of/content.html) by MainCommunication802 in 2024 - *"TLDR: * Surgeon said she would do type 3 forehead reconstruction despite partial sinus during initial consultation, instead used a combined type 1 and 3 approach without discussion * Surgeon rushed patient through rhinoplasty planning moments before surgery, not making time to discuss it properly as agreed to * Surgeon made changes to the nose without discussion, making an already long upper lip even longer than prior to surgery (see diagram). Not a desirable outcome in FFS as cis men typically have a longer upper lip. This requires a cartilage graft to repair * Surgeon and surgical assistant filmed video of patient, including during surgery which was shared to social media without consent * Surgeon left a bone defect / dent in patient's forehead (see CT scans) that requires a graft from the back of the skull to repair * Forehead feminisation was also left incomplete as confirmed by a well regarded second FFS surgeon * Communication was abysmal and surgeon was rude and abusive, mocking and gaslighting patient as dysphoric when legitimate problems with evidence were raised post-op * Surgeon takes no responsibility for any undesirable outcomes, completely ignores CT scan evidence and report prepared by well regarded second FFS specialist team"*
+* [Unhappy with FacialTeam, they keep telling I need to wait for results, but feels like they are pushing me away, still look masc. Vent.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ee2h9y/unhappy_with_facialteam_they_keep_telling_i_need/content.html) by Pink_Koala_69 in 2024
 * [Reporting from FacialTeam Marabella - day 5-11](https://www.reddit.com/r/TransLater/comments/1e2s4nw/reporting_from_facialteam_marabella_day_511/) by Kaptenmats in 2024
     * [Reporting from FacialTeam Marabella - day 5-11](https://www.reddit.com/r/TransLater/comments/1e2s4nw/reporting_from_facialteam_marabella_day_511/) by Kaptenmats in 2024
     * [Reporting from FacialTeam Marbella - Day 4](https://www.reddit.com/r/TransLater/comments/1dxmnht/reporting_from_facialteam_marbella_day_4/) by Kaptenmats in 2024
     * [Reporting from FacialTeam Marbella - Day 3](https://www.reddit.com/r/TransLater/comments/1dwyqjw/reporting_from_facialteam_marbella_day_3/) by Kaptenmats in 2024
     * [Reporting from FacialTeam Marbella - Day 1+2](https://www.reddit.com/r/TransLater/comments/1dw02bm/reporting_from_facialteam_marbella_day_12/) by Kaptenmats in 2024
 * [Top row: November 2023 bottom row: February 2024 | no joke straight out of camera!! | Facialteam - Drs Percival, Capitan, Bailon](https://www.reddit.com/r/transtimelines/comments/1avhbm4/top_row_november_2023_bottom_row_february_2024_no/) by Naive_Permit3309 in 2024
-    * [3 months post-op FFS 38 years old Facialteam | Dr.'s Perceval, Capitán, Bailon](https://www.reddit.com/r/Transgender_Surgeries/comments/1augcpa/3_months_postop_ffs_38_years_old_facialteam_drs/) by Naive_Permit3309 in 2024
-    * [FFS 1-month post-op w/ Facialteam](https://www.reddit.com/r/Transgender_Surgeries/comments/18lb0mh/ffs_1month_postop_w_facialteam/) by Naive_Permit3309 in 2023
-* [I regret my FFS with facialTeam every f***ing single day....](https://www.reddit.com/r/Transgender_Surgeries/comments/18cvfd4/i_regret_my_ffs_with_facialteam_every_fing_single/) by SpellGreedy1306 in 2023
-    * [Facialteam botched me](https://www.reddit.com/r/Transgender_Surgeries/comments/181x0tx/facialteam_botched_me/) by SpellGreedy1306 in 2023
-    * [Regretting FacialTeam rhinoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/17s2sfu/regretting_facialteam_rhinoplasty/) by SpellGreedy1306 in 2023
-    * [facialTeam bad experience](https://www.reddit.com/r/Transgender_Surgeries/comments/168vf74/facialteam_bad_experience/) by SpellGreedy1306 in 2023
-* [My experience with FACIALTEAM](https://www.reddit.com/r/Transgender_Surgeries/comments/185xa84/my_experience_with_facialteam/) by DanielaSirena in 2023
-* [FFS with Facial Team, 2 weeks post op](https://www.reddit.com/r/Transgender_Surgeries/comments/140fku9/ffs_with_facial_team_2_weeks_post_op/) by fayemess in 2023
-* [FFS Facialteam, 2 weeks Post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/13sbant/ffs_facialteam_2_weeks_postop/) by JulianaBerg in 2023
-    * [1 Week Post-Op FFS with Facialteam, feeling tired. Tomorrow stitches will be removed. All looks to be in order.](https://www.reddit.com/r/Transgender_Surgeries/comments/13k0k8o/1_week_postop_ffs_with_facialteam_feeling_tired/) by JulianaBerg in 2023
-* [Bone work at Facial Team](https://www.reddit.com/r/Transgender_Surgeries/comments/13s6i8h/bone_work_at_facial_team/) by  Important-Pea-1445 in 2023
+    * [3 months post-op FFS 38 years old Facialteam | Dr.'s Perceval, Capitán, Bailon](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1augcpa/3_months_postop_ffs_38_years_old_facialteam_drs/content.html) by Naive_Permit3309 in 2024
+    * [FFS 1-month post-op w/ Facialteam](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18lb0mh/ffs_1month_postop_w_facialteam/content.html) by Naive_Permit3309 in 2023
+* [I regret my FFS with facialTeam every f***ing single day....](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18cvfd4/i_regret_my_ffs_with_facialteam_every_fing_single/content.html) by SpellGreedy1306 in 2023
+    * [Facialteam botched me](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/181x0tx/facialteam_botched_me/content.html) by SpellGreedy1306 in 2023
+    * [Regretting FacialTeam rhinoplasty](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/17s2sfu/regretting_facialteam_rhinoplasty/content.html) by SpellGreedy1306 in 2023
+    * [facialTeam bad experience](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/168vf74/facialteam_bad_experience/content.html) by SpellGreedy1306 in 2023
+* [My experience with FACIALTEAM](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/185xa84/my_experience_with_facialteam/content.html) by DanielaSirena in 2023
+* [FFS with Facial Team, 2 weeks post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/140fku9/ffs_with_facial_team_2_weeks_post_op/content.html) by fayemess in 2023
+* [FFS Facialteam, 2 weeks Post-op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13sbant/ffs_facialteam_2_weeks_postop/content.html) by JulianaBerg in 2023
+    * [1 Week Post-Op FFS with Facialteam, feeling tired. Tomorrow stitches will be removed. All looks to be in order.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13k0k8o/1_week_postop_ffs_with_facialteam_feeling_tired/content.html) by JulianaBerg in 2023
+* [Bone work at Facial Team](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13s6i8h/bone_work_at_facial_team/content.html) by  Important-Pea-1445 in 2023
 * [Timeline of my recent FFS journey with FacialTeam](https://www.reddit.com/r/trans/comments/113ueck/timeline_of_my_recent_ffs_journey_with_facialteam/) by dtrachael in 2023
-* [My profile before and after 2 years HRT and FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/10mhd9j/my_profile_before_and_after_2_years_hrt_and_ffs/) by shadowsofmoths in 2023
-* [FFS #3 Booked March](https://www.reddit.com/r/Transgender_Surgeries/comments/10ixugh/ffs_3_booked_march/) by AlphaSix2020 in 2023
-* [FacialTeam update](https://www.reddit.com/r/Transgender_Surgeries/comments/10ddrte/facialteam_update/) by akira-UK in 2023
-    * [Facial team revision](https://www.reddit.com/r/Transgender_Surgeries/comments/x6dish/facial_team_revision/) by akira-UK in 2022
-* [4 weeks post FFS, Facialteam (literally can't believe how lucky I am to have had these procedures !!!)](https://www.reddit.com/r/Transgender_Surgeries/comments/z59818/4_weeks_post_ffs_facialteam_literally_cant/) by SkylerD95 in 2022
-    * [Recovery update with Facialteam. My side profile is massively different - no good pics of it yet sry](https://www.reddit.com/r/Transgender_Surgeries/comments/yoyeaz/recovery_update_with_facialteam_my_side_profile/) by SkylerD95 in 2022
-    * [Recovering from FFS with Facialteam!! Any Q's ???](https://www.reddit.com/r/Transgender_Surgeries/comments/yghi5r/recovering_from_ffs_with_facialteam_any_qs/) by SkylerD95 in 2022
-* [facialteam in Barcelona vs Marabela](https://www.reddit.com/r/Transgender_Surgeries/comments/y42ol8/facialteam_in_barcelona_vs_marabela/) by trantranstrans in 2022
-* [How are Facial Team and Deschamps-Braly for postop pain management? + Insufficient pain control venting](https://www.reddit.com/r/Transgender_Surgeries/comments/uamcbq/how_are_facial_team_and_deschampsbraly_for_postop/) by unexpected_daughter in 2022 - *"eading through one of Facial Team’s [recent publications](https://pubmed.ncbi.nlm.nih.gov/32221232), I found a table of their postop meds. The only pain meds listed are 1 g acetaminophen, 600 mg ibuprofen and 50 mg of tramadol taken regularly, but no “real” opioids, not even morphine."*
-* [3 weeks post OP FFS with Facialteam. Type 3 forehead reconstruction, orbital rim reduction, rhinoplasty, jaw/chin reduction and trachea shave](https://www.reddit.com/r/Transgender_Surgeries/comments/wrg3zc/3_weeks_post_op_ffs_with_facialteam_type_3/) by Cute_Tart in 2022
-* [1 year post op FFS with facial team Spain. Will write info and a personal analysis of the results in comments.](https://www.reddit.com/r/Transgender_Surgeries/comments/wmgco2/1_year_post_op_ffs_with_facial_team_spain_will/) by FemFiFoFum in 2022
-* [Had FFS with Facial Team few days ago - recovery is tough, my face is still numb and swollen in places, but nothing compares to the joy of finally seeing myself in the mirror 🥹 Feels like a dream come true!](https://www.reddit.com/r/Transgender_Surgeries/comments/w17o0v/had_ffs_with_facial_team_few_days_ago_recovery_is/) by AliceDarko93 in 2022
-* [8 weeks post ffs](https://www.reddit.com/r/Transgender_Surgeries/comments/w32jlg/8_weeks_post_ffs/) by Beltsandedface in 2022
-    * [7 weeks post ffs facialteam](https://www.reddit.com/r/Transgender_Surgeries/comments/vya5h8/7_weeks_post_ffs_facialteam/) by  Beltsandedface in 2022
-    * [Coronal Incision healing progress](https://www.reddit.com/r/Transgender_Surgeries/comments/vkth6y/coronal_incision_healing_progress/) by Beltsandedface in 2022
-    * [Update 2: sinus/tension headaches and eyestrain/blurred vision after ffs](https://www.reddit.com/r/Transgender_Surgeries/comments/vg6st2/update_2_sinustension_headaches_and/) by Beltsandedface in 2022
-    * [Update: Sinus/tension headaches and eye strain/blurred vision after ffs](https://www.reddit.com/r/Transgender_Surgeries/comments/vd7lv5/update_sinustension_headaches_and_eye/) by Beltsandedface in 2022
-    * [Sinus/tension headaches and eye strain/blurred vision after ffs](https://www.reddit.com/r/Transgender_Surgeries/comments/v76cdn/sinustension_headaches_and_eye_strainblurred/) by Beltsandedface in 2022
-    * [Two weeks post FFS with FacialTeam - Type 3 Brow and Rhino](https://www.reddit.com/r/Transgender_Surgeries/comments/v4a6k9/two_weeks_post_ffs_with_facialteam_type_3_brow/) by Beltsandedface in 2022
-    * [I had ffs with facialteam last week](https://www.reddit.com/r/Transgender_Surgeries/comments/v1r8li/i_had_ffs_with_facialteam_last_week/) by Beltsandedface in 2022
-* [1 year post FFS with FT. Brow, nose, jaw](https://www.reddit.com/r/Transgender_Surgeries/comments/vdjdif/1_year_post_ffs_with_ft_brow_nose_jaw/) by Girl-in-training in 2022
-    * [7 months post FFS with facial team, type 3 brow, nose, jaw/chin](https://www.reddit.com/r/Transgender_Surgeries/comments/sb2gj0/7_months_post_ffs_with_facial_team_type_3_brow/) by Girl-in-training in 2022
-    * [June to 1 week post op, 1 month, 5months, facial team FFS brow, nose, jaw](https://www.reddit.com/r/Transgender_Surgeries/comments/qt4zga/june_to_1_week_post_op_1_month_5months_facial/) by Girl-in-training in 2021
-    * [FT FFS, brow nose and jaw 6 weeks ago.](https://www.reddit.com/r/Transgender_Surgeries/comments/ov5568/ft_ffs_brow_nose_and_jaw_6_weeks_ago/) by  Girl-in-training in 2021
+* [My profile before and after 2 years HRT and FFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10mhd9j/my_profile_before_and_after_2_years_hrt_and_ffs/content.html) by shadowsofmoths in 2023
+* [FFS #3 Booked March](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10ixugh/ffs_3_booked_march/content.html) by AlphaSix2020 in 2023
+* [FacialTeam update](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10ddrte/facialteam_update/content.html) by akira-UK in 2023
+    * [Facial team revision](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x6dish/facial_team_revision/content.html) by akira-UK in 2022
+* [4 weeks post FFS, Facialteam (literally can't believe how lucky I am to have had these procedures !!!)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z59818/4_weeks_post_ffs_facialteam_literally_cant/content.html) by SkylerD95 in 2022
+    * [Recovery update with Facialteam. My side profile is massively different - no good pics of it yet sry](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yoyeaz/recovery_update_with_facialteam_my_side_profile/content.html) by SkylerD95 in 2022
+    * [Recovering from FFS with Facialteam!! Any Q's ???](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yghi5r/recovering_from_ffs_with_facialteam_any_qs/content.html) by SkylerD95 in 2022
+* [facialteam in Barcelona vs Marabela](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/y42ol8/facialteam_in_barcelona_vs_marabela/content.html) by trantranstrans in 2022
+* [How are Facial Team and Deschamps-Braly for postop pain management? + Insufficient pain control venting](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uamcbq/how_are_facial_team_and_deschampsbraly_for_postop/content.html) by unexpected_daughter in 2022 - *"eading through one of Facial Team’s [recent publications](https://pubmed.ncbi.nlm.nih.gov/32221232), I found a table of their postop meds. The only pain meds listed are 1 g acetaminophen, 600 mg ibuprofen and 50 mg of tramadol taken regularly, but no “real” opioids, not even morphine."*
+* [3 weeks post OP FFS with Facialteam. Type 3 forehead reconstruction, orbital rim reduction, rhinoplasty, jaw/chin reduction and trachea shave](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wrg3zc/3_weeks_post_op_ffs_with_facialteam_type_3/content.html) by Cute_Tart in 2022
+* [1 year post op FFS with facial team Spain. Will write info and a personal analysis of the results in comments.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wmgco2/1_year_post_op_ffs_with_facial_team_spain_will/content.html) by FemFiFoFum in 2022
+* [Had FFS with Facial Team few days ago - recovery is tough, my face is still numb and swollen in places, but nothing compares to the joy of finally seeing myself in the mirror 🥹 Feels like a dream come true!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/w17o0v/had_ffs_with_facial_team_few_days_ago_recovery_is/content.html) by AliceDarko93 in 2022
+* [8 weeks post ffs](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/w32jlg/8_weeks_post_ffs/content.html) by Beltsandedface in 2022
+    * [7 weeks post ffs facialteam](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/vya5h8/7_weeks_post_ffs_facialteam/content.html) by  Beltsandedface in 2022
+    * [Coronal Incision healing progress](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/vkth6y/coronal_incision_healing_progress/content.html) by Beltsandedface in 2022
+    * [Update 2: sinus/tension headaches and eyestrain/blurred vision after ffs](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/vg6st2/update_2_sinustension_headaches_and/content.html) by Beltsandedface in 2022
+    * [Update: Sinus/tension headaches and eye strain/blurred vision after ffs](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/vd7lv5/update_sinustension_headaches_and_eye/content.html) by Beltsandedface in 2022
+    * [Sinus/tension headaches and eye strain/blurred vision after ffs](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/v76cdn/sinustension_headaches_and_eye_strainblurred/content.html) by Beltsandedface in 2022
+    * [Two weeks post FFS with FacialTeam - Type 3 Brow and Rhino](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/v4a6k9/two_weeks_post_ffs_with_facialteam_type_3_brow/content.html) by Beltsandedface in 2022
+    * [I had ffs with facialteam last week](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/v1r8li/i_had_ffs_with_facialteam_last_week/content.html) by Beltsandedface in 2022
+* [1 year post FFS with FT. Brow, nose, jaw](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/vdjdif/1_year_post_ffs_with_ft_brow_nose_jaw/content.html) by Girl-in-training in 2022
+    * [7 months post FFS with facial team, type 3 brow, nose, jaw/chin](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/sb2gj0/7_months_post_ffs_with_facial_team_type_3_brow/content.html) by Girl-in-training in 2022
+    * [June to 1 week post op, 1 month, 5months, facial team FFS brow, nose, jaw](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qt4zga/june_to_1_week_post_op_1_month_5months_facial/content.html) by Girl-in-training in 2021
+    * [FT FFS, brow nose and jaw 6 weeks ago.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ov5568/ft_ffs_brow_nose_and_jaw_6_weeks_ago/content.html) by  Girl-in-training in 2021
 * [FFS Facialteam Barcelona](https://www.reddit.com/r/germantrans/comments/v2oon3/ffs_facialteam_barcelona/) by Pleasant-Space-9723 in 2022 - in german
-* [Facial feminization surgery in Brazil?](https://www.reddit.com/r/Transgender_Surgeries/comments/uybguj/facial_feminization_surgery_in_brazil/) by Glum_Ad3303 in 2022
-* [FacialTeam Lipfit too aggressive, chin surgery caused doublechin](https://www.reddit.com/r/Transgender_Surgeries/comments/uy95a5/facialteam_lipfit_too_aggressive_chin_surgery/) by EllishEllish in 2022
-* [¿Does it matter with whom you have the online first consultation with Facialteam for FFS?](https://www.reddit.com/r/Transgender_Surgeries/comments/ut1zcr/does_it_matter_with_whom_you_have_the_online/) by yzxba in 2022
-* [Forehead surgery with Facialteam - 2.5 weeks](https://www.reddit.com/r/Transgender_Surgeries/comments/ursdg3/forehead_surgery_with_facialteam_25_weeks/) by justafleetingmoment in 2022
-* [Hi I wondering if anyone knew if FacialTeam in Spain does FFS on under 18s (16-17)?](https://www.reddit.com/r/Transgender_Surgeries/comments/uqokt2/does_facialteam_operate_on_under_18s/) by doit06 in 2022 - *"They will operate on over 16s with parental consent"*
-* [2 month post op (FacialTeam)](https://www.reddit.com/r/Transgender_Surgeries/comments/u80ek8/2_month_post_op_facialteam/) by  stella0119 in 2022
-* [FFS revision of coronal incision at FacialTeam?](https://www.reddit.com/r/Transgender_Surgeries/comments/trf6ru/ffs_revision_of_coronal_incision_at_facialteam/) by LacrimaeLibertatis in 2022
-* reply to [I had a botched Tracheal Shave and I don't know what to do](https://www.reddit.com/r/Transgender_Surgeries/comments/tkd8xn/i_had_a_botched_tracheal_shave_and_i_dont_know/i1pta58/) by ElenaAgg in 2022
-* [Facial feminization surgery with Facialteam Spain. Before and 2 months post op. Anyone else feel like they are not as conservative as people say they are?](https://www.reddit.com/r/Transgender_Surgeries/comments/tqa9ov/facial_feminization_surgery_with_facialteam_spain/) by pedunclequeen in 2022
-    * [FFS with Facial Team Spain. Left is pre-op, middle is VFFS and on the right is 5 weeks post-op. Still lots of swelling on my nose and chin/jaw. I had forehead reconstruction, eyebrow lift, rhinoplasty, chin /jaw reduction and tracheal shave. AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/t57s7l/ffs_with_facial_team_spain_left_is_preop_middle/) by  pedunclequeen in 2022
-* [Simultaneous hair transplants with Facial Team?](https://www.reddit.com/r/Transgender_Surgeries/comments/t6jjhf/simultaneous_hair_transplants_with_facial_team/) by confusedtgthrowaway in 2022
-* [FFS with FacialTeam, before and day after!](https://www.reddit.com/r/Transgender_Surgeries/comments/t3h1mk/ffs_with_facialteam_before_and_day_after/) by amieshmamie in 2022
-* [1 week post-op FACIALTEAM — 3 months post op Korea](https://www.reddit.com/r/Transgender_Surgeries/comments/slhohn/1_week_postop_facialteam_3_months_post_op_korea/) by lalalatte_ in 2022
-* [FFS with FacialTeam, a few years later](https://www.reddit.com/r/Transgender_Surgeries/comments/rldzxu/ffs_with_facialteam_a_few_years_later/) by myffsthrowaway in 2021
-* [FFS with Facialteam: 1 month post-op AMA! + pre & post op photos + price breakdown](https://www.reddit.com/r/Transgender_Surgeries/comments/reuzwb/ffs_with_facialteam_1_month_postop_ama_pre_post/) by oollyy in 2021
-    * [Transfemme: Just had my FacialTeam FFS consult. Some questions about their suggestions: your advice, and experiences of FFS would be lovely to hear and calm my anxieties! 🌈💓](https://www.reddit.com/r/Transgender_Surgeries/comments/mpnozn/transfemme_just_had_my_facialteam_ffs_consult/) by oollyy in 2021
-* [FFS at FacialTeam](https://www.reddit.com/r/Transgender_Surgeries/comments/qqo8na/ffs_at_facialteam/) by dariajane13 in 2021
-* [3 weeks post op FFS FacialTeam (info below)](https://www.reddit.com/r/Transgender_Surgeries/comments/qm2odb/3_weeks_post_op_ffs_facialteam_info_below/) by SLP1999X in 2021
-* [Has anyone here done ffs with facial team in Brazil ?](https://www.reddit.com/r/Transgender_Surgeries/comments/qd77j5/has_anyone_here_done_ffs_with_facial_team_in/) by pinkdicey in 2021
-* [Some recent pics, ~7 weeks post FFS with FacialTeam. Will post more intentional photos with proper angles and lighting at 3 months post.](https://www.reddit.com/r/Transgender_Surgeries/comments/qaxmwr/some_recent_pics_7_weeks_post_ffs_with_facialteam/) by SylviaDelRey in 2021
-    * [6 days post FFS with FacialTeam](https://www.reddit.com/r/Transgender_Surgeries/comments/pe3tah/6_days_post_ffs_with_facialteam/) by SylviaDelRey in 2021
-* reply to [Is getting a Ear size reduction possible?](https://www.reddit.com/r/Transgender_Surgeries/comments/pjvs92/is_getting_a_ear_size_reduction_possible/hc1sz7t/) by doorway999 in 2021
+* [Facial feminization surgery in Brazil?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uybguj/facial_feminization_surgery_in_brazil/content.html) by Glum_Ad3303 in 2022
+* [FacialTeam Lipfit too aggressive, chin surgery caused doublechin](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uy95a5/facialteam_lipfit_too_aggressive_chin_surgery/content.html) by EllishEllish in 2022
+* [¿Does it matter with whom you have the online first consultation with Facialteam for FFS?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ut1zcr/does_it_matter_with_whom_you_have_the_online/content.html) by yzxba in 2022
+* [Forehead surgery with Facialteam - 2.5 weeks](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ursdg3/forehead_surgery_with_facialteam_25_weeks/content.html) by justafleetingmoment in 2022
+* [Hi I wondering if anyone knew if FacialTeam in Spain does FFS on under 18s (16-17)?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uqokt2/does_facialteam_operate_on_under_18s/content.html) by doit06 in 2022 - *"They will operate on over 16s with parental consent"*
+* [2 month post op (FacialTeam)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/u80ek8/2_month_post_op_facialteam/content.html) by  stella0119 in 2022
+* [FFS revision of coronal incision at FacialTeam?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/trf6ru/ffs_revision_of_coronal_incision_at_facialteam/content.html) by LacrimaeLibertatis in 2022
+* reply to [I had a botched Tracheal Shave and I don't know what to do](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tkd8xn/i_had_a_botched_tracheal_shave_and_i_dont_know/i1pta58/content.html) by ElenaAgg in 2022
+* [Facial feminization surgery with Facialteam Spain. Before and 2 months post op. Anyone else feel like they are not as conservative as people say they are?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tqa9ov/facial_feminization_surgery_with_facialteam_spain/content.html) by pedunclequeen in 2022
+    * [FFS with Facial Team Spain. Left is pre-op, middle is VFFS and on the right is 5 weeks post-op. Still lots of swelling on my nose and chin/jaw. I had forehead reconstruction, eyebrow lift, rhinoplasty, chin /jaw reduction and tracheal shave. AMA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t57s7l/ffs_with_facial_team_spain_left_is_preop_middle/content.html) by  pedunclequeen in 2022
+* [Simultaneous hair transplants with Facial Team?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t6jjhf/simultaneous_hair_transplants_with_facial_team/content.html) by confusedtgthrowaway in 2022
+* [FFS with FacialTeam, before and day after!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t3h1mk/ffs_with_facialteam_before_and_day_after/content.html) by amieshmamie in 2022
+* [1 week post-op FACIALTEAM — 3 months post op Korea](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/slhohn/1_week_postop_facialteam_3_months_post_op_korea/content.html) by lalalatte_ in 2022
+* [FFS with FacialTeam, a few years later](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rldzxu/ffs_with_facialteam_a_few_years_later/content.html) by myffsthrowaway in 2021
+* [FFS with Facialteam: 1 month post-op AMA! + pre & post op photos + price breakdown](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/reuzwb/ffs_with_facialteam_1_month_postop_ama_pre_post/content.html) by oollyy in 2021
+    * [Transfemme: Just had my FacialTeam FFS consult. Some questions about their suggestions: your advice, and experiences of FFS would be lovely to hear and calm my anxieties! 🌈💓](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mpnozn/transfemme_just_had_my_facialteam_ffs_consult/content.html) by oollyy in 2021
+* [FFS at FacialTeam](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qqo8na/ffs_at_facialteam/content.html) by dariajane13 in 2021
+* [3 weeks post op FFS FacialTeam (info below)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qm2odb/3_weeks_post_op_ffs_facialteam_info_below/content.html) by SLP1999X in 2021
+* [Has anyone here done ffs with facial team in Brazil ?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qd77j5/has_anyone_here_done_ffs_with_facial_team_in/content.html) by pinkdicey in 2021
+* [Some recent pics, ~7 weeks post FFS with FacialTeam. Will post more intentional photos with proper angles and lighting at 3 months post.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qaxmwr/some_recent_pics_7_weeks_post_ffs_with_facialteam/content.html) by SylviaDelRey in 2021
+    * [6 days post FFS with FacialTeam](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/pe3tah/6_days_post_ffs_with_facialteam/content.html) by SylviaDelRey in 2021
+* reply to [Is getting a Ear size reduction possible?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/pjvs92/is_getting_a_ear_size_reduction_possible/hc1sz7t/content.html) by doorway999 in 2021
 * [40y Pre HRT 3 years to Post FFS 10 Days with Facialteam, nofilters](https://www.reddit.com/r/transtimelines/comments/pgrz4o/40y_pre_hrt_3_years_to_post_ffs_10_days_with/) by janinetrans in 2021
-* [Will I ever get my voice back?](https://www.reddit.com/r/Transgender_Surgeries/comments/opypbp/will_i_ever_get_my_voice_back/) by Natalia-1997 in 2021
-* [FFS Swelling Timeline \[3 Months Post-op Facial Team\]](https://www.reddit.com/r/Transgender_Surgeries/comments/p571e7/ffs_swelling_timeline_3_months_postop_facial_team/) by SweetestFruitIsMango in 2021
-* reply to [Had a consultation with Facial Team, looking for cheeper options](https://www.reddit.com/r/Transgender_Surgeries/comments/osoz58/had_a_consultation_with_facial_team_looking_for/h7s9f69/) by sophiasparkles86 in 2021
+* [Will I ever get my voice back?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/opypbp/will_i_ever_get_my_voice_back/content.html) by Natalia-1997 in 2021
+* [FFS Swelling Timeline \[3 Months Post-op Facial Team\]](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/p571e7/ffs_swelling_timeline_3_months_postop_facial_team/content.html) by SweetestFruitIsMango in 2021
+* reply to [Had a consultation with Facial Team, looking for cheeper options](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/osoz58/had_a_consultation_with_facial_team_looking_for/h7s9f69/content.html) by sophiasparkles86 in 2021
 * [Update: My partner just had FFS and I feel like they abandoned her](https://www.reddit.com/r/mypartneristrans/comments/o4qess/update_my_partner_just_had_ffs_and_i_feel_like/) by Teikasecka in 2021
-    * cross post [Update: My partner just had FFS and I feel like they abandoned her](https://www.reddit.com/r/Transgender_Surgeries/comments/o4qf45/update_my_partner_just_had_ffs_and_i_feel_like/) by Teikasecka in 2021
+    * cross post [Update: My partner just had FFS and I feel like they abandoned her](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/o4qf45/update_my_partner_just_had_ffs_and_i_feel_like/content.html) by Teikasecka in 2021
      * [My partner just had FFS and I feel like they abandoned her](https://www.reddit.com/r/mypartneristrans/comments/nryw8e/my_partner_just_had_ffs_and_i_feel_like_they/) by Teikasecka in 2021
-* [Facial Team FFS CT Scans from my surgery in April](https://www.reddit.com/r/Transgender_Surgeries/comments/o49e62/facial_team_ffs_ct_scans_from_my_surgery_in_april/) by RedBerryyy in 2021
-* [FFS Forehead and Nose After and Before | FacialTeam | 10 Days Post Op](https://www.reddit.com/r/Transgender_Surgeries/comments/oix054/ffs_forehead_and_nose_after_and_before_facialteam/) by transthrwaway2019 in 2021
-    * [FFS Days 3 Thru 10 Post-Op | FacialTeam | CT Scans and IntraOp Photos](https://www.reddit.com/r/Transgender_Surgeries/comments/oh97hx/ffs_days_3_thru_10_postop_facialteam_ct_scans_and/) by transthrwaway2019 in 2021
-    * [What was your FFS recovery like?](https://www.reddit.com/r/Transgender_Surgeries/comments/od697u/what_was_your_ffs_recovery_like/) by transthrwaway2019 in 2021
-    * [FFS Surgery and Hospital Stay | FacialTeam](https://www.reddit.com/r/Transgender_Surgeries/comments/obn47f/ffs_surgery_and_hospital_stay_facialteam/) by transthrwaway2019 in 2021
-    * [The Week Before FFS | FacialTeam](https://www.reddit.com/r/Transgender_Surgeries/comments/o9msq8/the_week_before_ffs_facialteam/) by transthrwaway2019 in 2021
-    * [FacialTeam Administrative Tasks First Week After Booking](https://www.reddit.com/r/Transgender_Surgeries/comments/n6ybox/facialteam_administrative_tasks_first_week_after/) by transthrwaway2019 in 2021
-    * [FacialTeam First Contact Thru Booking | Current Price List At Bottom](https://www.reddit.com/r/Transgender_Surgeries/comments/myysve/facialteam_first_contact_thru_booking_current/) by transthrwaway2019 in 2021
-* [FFS is brutal part II, one month post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/nnqv7i/ffs_is_brutal_part_ii_one_month_postop/h5vblke/?context=3) by mashamarga in 2021
-    * [FFS is brutal, be sure to be well prepared for it! 1 week post-op, AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/n5m16t/ffs_is_brutal_be_sure_to_be_well_prepared_for_it/) by mashamarga in 2021
-* [~4 weeks Post OP with Facial Team \[Jaw, Chin, Brow, Rhino, Lip + Cheek Fat Grafts, Trachea Shave\]](https://www.reddit.com/r/Transgender_Surgeries/comments/nz7xuu/4_weeks_post_op_with_facial_team_jaw_chin_brow/) by ThatTransDownUnder in 2021
-    * [4 days Post op FFS with Facial Team \[Jaw, Chin, Brow, Rhino, Lip + Cheek Fat Grafts, Trachea Shave\]](https://www.reddit.com/r/Transgender_Surgeries/comments/nj41r8/4_days_post_op_ffs_with_facial_team_jaw_chin_brow/) by ThatTransDownUnder in 2021
-* [FacialTeam CT Scans - Before and After FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/me10jc/facialteam_ct_scans_before_and_after_ffs/) by SheBeatTheGiant in 2021
-* [does eu have good FFS surgeons/clinics besides facialteam?](https://www.reddit.com/r/Transgender_Surgeries/comments/m7581y/does_eu_have_good_ffs_surgeonsclinics_besides/) by whatsurgeons in 2021
-* [What is the Facial Team FFS experience like during Covid?](https://www.reddit.com/r/Transgender_Surgeries/comments/lm3w9q/what_is_the_facial_team_ffs_experience_like/) by EuphoricAbigail in 2021
+* [Facial Team FFS CT Scans from my surgery in April](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/o49e62/facial_team_ffs_ct_scans_from_my_surgery_in_april/content.html) by RedBerryyy in 2021
+* [FFS Forehead and Nose After and Before | FacialTeam | 10 Days Post Op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/oix054/ffs_forehead_and_nose_after_and_before_facialteam/content.html) by transthrwaway2019 in 2021
+    * [FFS Days 3 Thru 10 Post-Op | FacialTeam | CT Scans and IntraOp Photos](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/oh97hx/ffs_days_3_thru_10_postop_facialteam_ct_scans_and/content.html) by transthrwaway2019 in 2021
+    * [What was your FFS recovery like?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/od697u/what_was_your_ffs_recovery_like/content.html) by transthrwaway2019 in 2021
+    * [FFS Surgery and Hospital Stay | FacialTeam](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/obn47f/ffs_surgery_and_hospital_stay_facialteam/content.html) by transthrwaway2019 in 2021
+    * [The Week Before FFS | FacialTeam](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/o9msq8/the_week_before_ffs_facialteam/content.html) by transthrwaway2019 in 2021
+    * [FacialTeam Administrative Tasks First Week After Booking](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/n6ybox/facialteam_administrative_tasks_first_week_after/content.html) by transthrwaway2019 in 2021
+    * [FacialTeam First Contact Thru Booking | Current Price List At Bottom](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/myysve/facialteam_first_contact_thru_booking_current/content.html) by transthrwaway2019 in 2021
+* [FFS is brutal part II, one month post-op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nnqv7i/ffs_is_brutal_part_ii_one_month_postop/h5vblke/?context=3content.html) by mashamarga in 2021
+    * [FFS is brutal, be sure to be well prepared for it! 1 week post-op, AMA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/n5m16t/ffs_is_brutal_be_sure_to_be_well_prepared_for_it/content.html) by mashamarga in 2021
+* [~4 weeks Post OP with Facial Team \[Jaw, Chin, Brow, Rhino, Lip + Cheek Fat Grafts, Trachea Shave\]](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nz7xuu/4_weeks_post_op_with_facial_team_jaw_chin_brow/content.html) by ThatTransDownUnder in 2021
+    * [4 days Post op FFS with Facial Team \[Jaw, Chin, Brow, Rhino, Lip + Cheek Fat Grafts, Trachea Shave\]](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nj41r8/4_days_post_op_ffs_with_facial_team_jaw_chin_brow/content.html) by ThatTransDownUnder in 2021
+* [FacialTeam CT Scans - Before and After FFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/me10jc/facialteam_ct_scans_before_and_after_ffs/content.html) by SheBeatTheGiant in 2021
+* [does eu have good FFS surgeons/clinics besides facialteam?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/m7581y/does_eu_have_good_ffs_surgeonsclinics_besides/content.html) by whatsurgeons in 2021
+* [What is the Facial Team FFS experience like during Covid?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lm3w9q/what_is_the_facial_team_ffs_experience_like/content.html) by EuphoricAbigail in 2021
 * reply to [Seeking Surgery Advice](https://www.reddit.com/r/transgenderau/comments/k9h7j0/seeking_surgery_advice/gfx4799/) by Matilda1199 in 2020
-* [Been a couple of weeks since FFS with Facialteam - AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/knar7j/been_a_couple_of_weeks_since_ffs_with_facialteam/) by GirlPillsTaker in 2020
-* [1 week post-op with FacialTeam; forehead and rhinoplasty by Drs Capitán and Bellinga. Super-pleased with the results! Nursing/coordinating staff were great too which made the recovery very manageable.](https://www.reddit.com/r/Transgender_Surgeries/comments/jqxle4/1_week_postop_with_facialteam_forehead_and/) by Elise_93 in 2020
-* [Just had FFS, now I’m all swollen up. But Inhad the chance to to take this picture before it got worse. The operation went well. I’m happy.](https://www.reddit.com/r/Transgender_Surgeries/comments/k121pb/just_had_ffs_now_im_all_swollen_up_but_inhad_the/) by Robyn-Lee in 2020
-* [2014-2020 Bottom row after 2014 FFS with Facialteam in Spain and top row after 2019 jaw and chin refinement with Kamol, Bangkok. (Top left image is from last week and after losing 12kg during COVID lockdown!)](https://www.reddit.com/r/Transgender_Surgeries/comments/jxpigm/20142020_bottom_row_after_2014_ffs_with/) by DMW2812 in 2020
+* [Been a couple of weeks since FFS with Facialteam - AMA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/knar7j/been_a_couple_of_weeks_since_ffs_with_facialteam/content.html) by GirlPillsTaker in 2020
+* [1 week post-op with FacialTeam; forehead and rhinoplasty by Drs Capitán and Bellinga. Super-pleased with the results! Nursing/coordinating staff were great too which made the recovery very manageable.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jqxle4/1_week_postop_with_facialteam_forehead_and/content.html) by Elise_93 in 2020
+* [Just had FFS, now I’m all swollen up. But Inhad the chance to to take this picture before it got worse. The operation went well. I’m happy.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/k121pb/just_had_ffs_now_im_all_swollen_up_but_inhad_the/content.html) by Robyn-Lee in 2020
+* [2014-2020 Bottom row after 2014 FFS with Facialteam in Spain and top row after 2019 jaw and chin refinement with Kamol, Bangkok. (Top left image is from last week and after losing 12kg during COVID lockdown!)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jxpigm/20142020_bottom_row_after_2014_ffs_with/content.html) by DMW2812 in 2020
 * [A year on after ffs with Facialteam... I need more surgery.](https://www.reddit.com/r/transgenderau/comments/ji99b1/a_year_on_after_ffs_with_facialteam_i_need_more/) by Matilda1199 in 2020
-* [Is FacialTeam (Spain) good at rhinoplasty?](https://www.reddit.com/r/Transgender_Surgeries/comments/ir59dq/is_facialteam_spain_good_at_rhinoplasty/) by Elise_93 in 2020
-* [Just thought I’d post these Before and after CT scans for anyone who wants to see them](https://www.reddit.com/r/Transgender_Surgeries/comments/i4ocg0/just_thought_id_post_these_before_and_after_ct/) by ThrowawayIlIlIIIlllI in 2020
+* [Is FacialTeam (Spain) good at rhinoplasty?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ir59dq/is_facialteam_spain_good_at_rhinoplasty/content.html) by Elise_93 in 2020
+* [Just thought I’d post these Before and after CT scans for anyone who wants to see them](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i4ocg0/just_thought_id_post_these_before_and_after_ct/content.html) by ThrowawayIlIlIIIlllI in 2020
 * [I just had FFS with Facialteam AMA](https://www.reddit.com/r/asktransgender/comments/hvsom7/i_just_had_ffs_with_facialteam_ama/) by Slowdivegirl in 2020
-* [Experience of FFS with the facial team in July.](https://www.reddit.com/r/Transgender_Surgeries/comments/hx6wkh/experience_of_ffs_with_the_facial_team_in_july/) by taiRewro in 2020
-* [Fuck Facial Team](https://www.reddit.com/r/Transgender_Surgeries/comments/hszbxw/fuck_facial_team/) by soafafilla in 2020
-* [Facial Team FFS review](https://www.reddit.com/r/Transgender_Surgeries/comments/hsy2jt/facial_team_ffs_review/) by sbiscuitz in 2020
-* [FACIAL TEAM DOES BREAST AUGUMENTATION?](https://www.reddit.com/r/Transgender_Surgeries/comments/hctrx1/facial_team_does_breast_augumentation/) by luciDJ95 in 2020
+* [Experience of FFS with the facial team in July.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hx6wkh/experience_of_ffs_with_the_facial_team_in_july/content.html) by taiRewro in 2020
+* [Fuck Facial Team](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hszbxw/fuck_facial_team/content.html) by soafafilla in 2020
+* [Facial Team FFS review](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hsy2jt/facial_team_ffs_review/content.html) by sbiscuitz in 2020
+* [FACIAL TEAM DOES BREAST AUGUMENTATION?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hctrx1/facial_team_does_breast_augumentation/content.html) by luciDJ95 in 2020
 * [Follow up to the Facialteam Live Stream. Ask your questions here.Post by Dr. Powers](https://www.reddit.com/r/DrWillPowers/comments/grrdps/follow_up_to_the_facialteam_live_stream_ask_your/) by Drwillpowers in 2020
-* [Opinions on Dr. Keojampa and FACIALTEAM](https://www.reddit.com/r/Transgender_Surgeries/comments/gl3ewi/opinions_on_dr_keojampa_and_facialteam/) by GLTCprincess in 2020
-* [Facialteam coronal incision](https://www.reddit.com/r/Transgender_Surgeries/comments/f3x400/facialteam_coronal_incision/) by vaguelyannoyed in 2020
-* [Spiegel vas FacialTeam: some questions](https://www.reddit.com/r/Transgender_Surgeries/comments/fr9l3p/spiegel_vas_facialteam_some_questions/) by Nootnootordermormon in 2020
-* [Are there statistics on the rates of patient dissatisfaction of their FFS results?](https://www.reddit.com/r/Transgender_Surgeries/comments/es7hsi/are_there_statistics_on_the_rates_of_patient/) in 2020
-* [Facialteam and catheterisation](https://www.reddit.com/r/Transgender_Surgeries/comments/ex8lj9/facialteam_and_catheterisation/) by vaguelyannoyed in 2020
-* [Just had FFS with FacialTeam](https://www.reddit.com/r/Transgender_Surgeries/comments/ex1xrg/just_had_ffs_with_facialteam/) by SmallerNectarine in 2020
-* reply to [Questions about FFS and tracheal shave.](https://www.reddit.com/r/Transgender_Surgeries/comments/esyxzh/questions_about_ffs_and_tracheal_shave/ffe0ro2/) by Scones_for_Bones in 2020
-* [Somebody affiliated with Facial Team blackmailing and defaming Dr Bart van de Ven](https://www.reddit.com/r/Transgender_Surgeries/comments/eqhz7u/somebody_affiliated_with_facial_team_blackmailing/) by 2pass_Clinic in 2020
+* [Opinions on Dr. Keojampa and FACIALTEAM](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gl3ewi/opinions_on_dr_keojampa_and_facialteam/content.html) by GLTCprincess in 2020
+* [Facialteam coronal incision](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/f3x400/facialteam_coronal_incision/content.html) by vaguelyannoyed in 2020
+* [Spiegel vas FacialTeam: some questions](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/fr9l3p/spiegel_vas_facialteam_some_questions/content.html) by Nootnootordermormon in 2020
+* [Are there statistics on the rates of patient dissatisfaction of their FFS results?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/es7hsi/are_there_statistics_on_the_rates_of_patient/content.html) in 2020
+* [Facialteam and catheterisation](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ex8lj9/facialteam_and_catheterisation/content.html) by vaguelyannoyed in 2020
+* [Just had FFS with FacialTeam](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ex1xrg/just_had_ffs_with_facialteam/content.html) by SmallerNectarine in 2020
+* reply to [Questions about FFS and tracheal shave.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/esyxzh/questions_about_ffs_and_tracheal_shave/ffe0ro2/content.html) by Scones_for_Bones in 2020
+* [Somebody affiliated with Facial Team blackmailing and defaming Dr Bart van de Ven](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/eqhz7u/somebody_affiliated_with_facial_team_blackmailing/content.html) by 2pass_Clinic in 2020
 * [Finally the swelling's gone down enough for a 10 year timeline. 38, MtF, 3y HRT, 2x FFS, 2x Hair Transplant, Chin Lipo (All Facial Team), PRP.](https://www.reddit.com/r/transtimelines/comments/epqk37/finally_the_swellings_gone_down_enough_for_a_10/) by Nina4evr in 2020
-* [I was Facial Team’s first FFS in January. Can I help with your questions?](https://www.reddit.com/r/Transgender_Surgeries/comments/eo31pb/i_was_facial_teams_first_ffs_in_january_can_i/) by Pollyfall in 2020
+* [I was Facial Team’s first FFS in January. Can I help with your questions?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/eo31pb/i_was_facial_teams_first_ffs_in_january_can_i/content.html) by Pollyfall in 2020
 * [2.5 months post-op FFS with Facial Team. Very VERY pleased. 😍 16 months HRT.](https://www.reddit.com/r/transpositive/comments/ekxi04/25_months_postop_ffs_with_facial_team_very_very/) by BundleOfShae in 2020
-* [FFS jaw advancement... Skeptical about / scared of risks](https://www.reddit.com/r/Transgender_Surgeries/comments/ejwd20/ffs_jaw_advancement_skeptical_about_scared_of/) by myandril in 2019
-* [My Facialteam FFS experience, and everything you need to pack for your FFS trip (2 week postop)](https://www.reddit.com/r/Transgender_Surgeries/comments/e634e4/my_facialteam_ffs_experience_and_everything_you/) by __April in 2019
-* [I had FFS with Facialteam 2 weeks ago. More pictures in the comments, AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/e5k579/i_had_ffs_with_facialteam_2_weeks_ago_more/) by __April in 2019
+* [FFS jaw advancement... Skeptical about / scared of risks](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ejwd20/ffs_jaw_advancement_skeptical_about_scared_of/content.html) by myandril in 2019
+* [My Facialteam FFS experience, and everything you need to pack for your FFS trip (2 week postop)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/e634e4/my_facialteam_ffs_experience_and_everything_you/content.html) by __April in 2019
+* [I had FFS with Facialteam 2 weeks ago. More pictures in the comments, AMA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/e5k579/i_had_ffs_with_facialteam_2_weeks_ago_more/content.html) by __April in 2019
 * [Just had ffs surgery yesterday at facial team ama](https://www.reddit.com/r/MtF/comments/dyyznd/just_had_ffs_surgery_yesterday_at_facial_team_ama/) by BlahBlahBlah112233 in 2019
 * [2pass or Facial team? Any experiences?](https://www.reddit.com/r/asktransgender/comments/cxzes4/2pass_or_facial_team_any_experiences/) by pumpkin921 in 2019
 * [FFS advice please](https://www.reddit.com/r/transgenderau/comments/ch2w0w/ffs_advice_please/) by Umbrii_xo in 2019
 * [Facial Team v. Deschamps?](https://www.reddit.com/r/asktransgender/comments/copbrc/facial_team_v_deschamps/) by throw_away_1920 in 2019 in asktransgender
-* [Facial Team v. Deschamps?](https://www.reddit.com/r/Transgender_Surgeries/comments/cooyko/facial_team_v_deschamps/) by throw_away_1920 in 2019 in Transgender_Surgeries
+* [Facial Team v. Deschamps?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/cooyko/facial_team_v_deschamps/content.html) by throw_away_1920 in 2019 in Transgender_Surgeries
 * [I Am Currently Recovering From FFS With Facial Team In Spain, AMA!](https://www.reddit.com/r/asktransgender/comments/ceb3zf/i_am_currently_recovering_from_ffs_with_facial/) by Kaitte in 2019
-* reply to [Realistically, how much would SRS and FFS cost me - all in?](https://www.reddit.com/r/Transgender_Surgeries/comments/b8830j/realistically_how_much_would_srs_and_ffs_cost_me/ejyfism/) by ElenaAgg in 2019
-* [Accuracy of Facial Team ‘s simulations](https://www.reddit.com/r/Transgender_Surgeries/comments/b63s40/accuracy_of_facial_team_s_simulations/) by Marionett3e in 2019
+* reply to [Realistically, how much would SRS and FFS cost me - all in?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/b8830j/realistically_how_much_would_srs_and_ffs_cost_me/ejyfism/content.html) by ElenaAgg in 2019
+* [Accuracy of Facial Team ‘s simulations](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/b63s40/accuracy_of_facial_team_s_simulations/content.html) by Marionett3e in 2019
 * [I have FFS in less than 4 weeks and will be in boymode the whole time. Has anyone got experiences similar to this they could share?](https://www.reddit.com/r/asktransgender/comments/a7ct5b/i_have_ffs_in_less_than_4_weeks_and_will_be_in/) by liszasthrowaway in 2019
 * reply to [\[PSA\] Avoid Dubai & Abu Dhabi (and Emirates and Etihad Airways)](https://www.reddit.com/r/asktransgender/comments/9rcu2q/psa_avoid_dubai_abu_dhabi_and_emirates_and_etihad/e8h7u35/?context=3) by PennyLisa in 2019
 * [FACIALTEAM experiences](https://www.reddit.com/r/MtF/comments/aqgu3n/facialteam_experiences/) in 2019
-* [36 hrs post op FFS with Facial Team Marbella. AMA,I’m bored.](https://www.reddit.com/r/Transgender_Surgeries/comments/ajz8x7/36_hrs_post_op_ffs_with_facial_team_marbella/) by xxxMadisonxxx in 2019
-* [My FFS: Research, Consultations, Surgery, Recovery and Results](https://www.reddit.com/r/Transgender_Surgeries/comments/aigmdv/my_ffs_research_consultations_surgery_recovery/) by 2d4d_data
+* [36 hrs post op FFS with Facial Team Marbella. AMA,I’m bored.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ajz8x7/36_hrs_post_op_ffs_with_facial_team_marbella/content.html) by xxxMadisonxxx in 2019
+* [My FFS: Research, Consultations, Surgery, Recovery and Results](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/aigmdv/my_ffs_research_consultations_surgery_recovery/content.html) by 2d4d_data
 in 2019
-* [Any FacialTeam girls have tips/advice/reassurance for me?](https://www.reddit.com/r/Transgender_Surgeries/comments/agirl9/any_facialteam_girls_have_tipsadvicereassurance/) by yosh_yosh_yosh_yosh in 2019
-* [My Facial Team FFS experience w/ pictures (3 weeks post-op)](https://www.reddit.com/r/Transgender_Surgeries/comments/abimg9/my_facial_team_ffs_experience_w_pictures_3_weeks/) by sophiasparkles86 in 2019 - see also [When did your sensation come back after jaw/chin surgery?](https://www.reddit.com/r/Transgender_Surgeries/comments/g1oxqf/when_did_your_sensation_come_back_after_jawchin/fnn0p2a/?context=3) in 2020
+* [Any FacialTeam girls have tips/advice/reassurance for me?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/agirl9/any_facialteam_girls_have_tipsadvicereassurance/content.html) by yosh_yosh_yosh_yosh in 2019
+* [My Facial Team FFS experience w/ pictures (3 weeks post-op)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/abimg9/my_facial_team_ffs_experience_w_pictures_3_weeks/content.html) by sophiasparkles86 in 2019 - see also [When did your sensation come back after jaw/chin surgery?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/g1oxqf/when_did_your_sensation_come_back_after_jawchin/fnn0p2a/?context=3content.html) in 2020
 * [Meetings with Facial Team and Yeson Voice Clinic - aftermath](https://www.reddit.com/r/TransLater/comments/a11tvk/meetings_with_facial_team_and_yeson_voice_clinic/) by me_to_kate around 2018/2019
-* [I plan on getting FFS within 2 years and i am thinking about FacialTeam can anyone tell me there experience and list of things they got done and how much you paid if that's okay](https://www.reddit.com/r/Transgender_Surgeries/comments/9zl7g8/i_plan_on_getting_ffs_within_2_years_and_i_am/) in 2018
+* [I plan on getting FFS within 2 years and i am thinking about FacialTeam can anyone tell me there experience and list of things they got done and how much you paid if that's okay](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/9zl7g8/i_plan_on_getting_ffs_within_2_years_and_i_am/content.html) in 2018
 * [19 months HRT + 2 week FFS post-op. 29 MtF](https://www.reddit.com/r/transtimelines/comments/9n1vv8/19_months_hrt_2_week_ffs_postop_29_mtf/) by MadameCuriosity in 2018
 * [Just had FFS from FacialTeam on September 27th. Finally on my way back home. AMA!](https://www.reddit.com/r/asktransgender/comments/9ltovv/just_had_ffs_from_facialteam_on_september_27th/) by MadameCuriosity in 2018
 * reply to [Good FFS surgeons for forehead work?](https://www.reddit.com/r/MtF/comments/9if3ot/good_ffs_surgeons_for_forehead_work/e6k0uy3/) in 2018
@@ -297,10 +297,10 @@ Facial Team also have a clinic in Brazil.
 
 reddit
 
-* reply to [Surgeons who give good, AGGRESSIVE results and don't charge six figures?](https://www.reddit.com/r/Transgender_Surgeries/comments/18ywn7g/surgeons_who_give_good_aggressive_results_and/kgfnstc/) by Pleasant-Comfort-477 in 2024
+* reply to [Surgeons who give good, AGGRESSIVE results and don't charge six figures?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18ywn7g/surgeons_who_give_good_aggressive_results_and/kgfnstc/content.html) by Pleasant-Comfort-477 in 2024
     * [FFS Feminização Facil Dr. Lucas Patrocinio - Uberlandia](https://www.reddit.com/r/transbr/comments/15ezycr/ffs_feminiza%C3%A7%C3%A3o_facil_dr_lucas_patrocinio/) by Pleasant-Comfort-477 in 2023
-* [7 days ffs facial team Brazil - still very swollen](https://www.reddit.com/r/Transgender_Surgeries/comments/16mryml/7_days_ffs_facial_team_brazil_still_very_swollen/) by Alexa-br in 2023
-* [Facial feminization surgery in Brazil?](https://www.reddit.com/r/Transgender_Surgeries/comments/uybguj/facial_feminization_surgery_in_brazil/) by Glum_Ad3303 in 2022
+* [7 days ffs facial team Brazil - still very swollen](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16mryml/7_days_ffs_facial_team_brazil_still_very_swollen/content.html) by Alexa-br in 2023
+* [Facial feminization surgery in Brazil?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uybguj/facial_feminization_surgery_in_brazil/content.html) by Glum_Ad3303 in 2022
 
 YouTube
 
@@ -339,7 +339,7 @@ https://bbbsalud.es/0226953/dr._Kaye_oceanclinic_marbella
 
 reddit
 
-* [FACIAL TEAM DOES BREAST AUGUMENTATION?](https://www.reddit.com/r/Transgender_Surgeries/comments/hctrx1/facial_team_does_breast_augumentation/) by luciDJ95 in 2020
+* [FACIAL TEAM DOES BREAST AUGUMENTATION?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hctrx1/facial_team_does_breast_augumentation/content.html) by luciDJ95 in 2020
 
 <br />
 
@@ -360,9 +360,9 @@ Surgeons sites
 
 reddit
 
-* [FFS Dr. Macia (Icifacial) - 0 to 2 months](https://www.reddit.com/r/Transgender_Surgeries/comments/1fd0bxp/ffs_dr_macia_icifacial_0_to_2_months/) by AlbaDovah in 2024
-    * [First consultation with Dr. Macía (FFS)](https://www.reddit.com/r/Transgender_Surgeries/comments/1cdla5m/first_consultation_with_dr_mac%C3%ADa_ffs/) by AlbaDovah in 2024
-* [I had FFS with Dr. Macía of Facifem / Icifacial in Madrid](https://www.reddit.com/r/Transgender_Surgeries/comments/1dxdntu/i_had_ffs_with_dr_mac%C3%ADa_of_facifem_icifacial_in/) by NewAccelerator in 2024
+* [FFS Dr. Macia (Icifacial) - 0 to 2 months](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1fd0bxp/ffs_dr_macia_icifacial_0_to_2_months/content.html) by AlbaDovah in 2024
+    * [First consultation with Dr. Macía (FFS)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1cdla5m/first_consultation_with_dr_mac%C3%ADa_ffs/content.html) by AlbaDovah in 2024
+* [I had FFS with Dr. Macía of Facifem / Icifacial in Madrid](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1dxdntu/i_had_ffs_with_dr_mac%C3%ADa_of_facifem_icifacial_in/content.html) by NewAccelerator in 2024
 
 <br />
 
@@ -384,8 +384,8 @@ Surgeons sites
 
 reddit
 
-* [2pass 2022](https://www.reddit.com/r/Transgender_Surgeries/comments/10a5ym2/2pass_2022/) by Dangerous-Ad6533 in 2023
-* [What's recovery like if you do forehead recontouring type 1?](https://www.reddit.com/r/Transgender_Surgeries/comments/yce0hw/whats_recovery_like_if_you_do_forehead/) by puzzled-beansprout in 2022
+* [2pass 2022](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10a5ym2/2pass_2022/content.html) by Dangerous-Ad6533 in 2023
+* [What's recovery like if you do forehead recontouring type 1?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yce0hw/whats_recovery_like_if_you_do_forehead/content.html) by puzzled-beansprout in 2022
 
 Realself
 
@@ -418,53 +418,53 @@ From Susans.org - [Dr Bart buys new 5-star clinic](https://www.susans.org/forums
 
 reddit
 
-* [Hair transplantation with 2PassClinic Belgium Antwerpen, can anyone recommend them or have experience with it? :)](https://www.reddit.com/r/Transgender_Surgeries/comments/1fngs5b/hair_transplantation_with_2passclinic_belgium/) by Pink_Koala_69 in 2024
-* [FFS nerve damage help](https://www.reddit.com/r/Transgender_Surgeries/comments/18uhzq4/ffs_nerve_damage_help/) by Sobmqra in 2024
-* [Hair transplant timeline. Photo every week for 4 months. I had 3000 grafts FUE at 2pass ❤️ couldn’t be happier with my progress](https://www.reddit.com/r/Transgender_Surgeries/comments/ve93a7/hair_transplant_timeline_photo_every_week_for_4/) by Alexis-1993 in 2023
-* [Dr Bart has passed away](https://www.reddit.com/r/Transgender_Surgeries/comments/t5vbje/dr_bart_has_passed_away/) by Katalina_Rogue in 2022
-* [Dr. Bart van de Ven just passed away. (See top post of all time on this sub for context who this is)](https://www.reddit.com/r/Transgender_Surgeries/comments/t5v9vx/dr_bart_van_de_ven_just_passed_away_see_top_post/) by meowriza, 4 March 2022
-* [Small FFS-timeline (without the nasty pics) - Sep 13rd to Dec 24th](https://www.reddit.com/r/Transgender_Surgeries/comments/rvw77s/small_ffstimeline_without_the_nasty_pics_sep_13rd/) by Parking-Mouse8003 in 2022
-* [Another Dr. Bart van de Ven HORROR Story](https://www.reddit.com/r/Transgender_Surgeries/comments/o5xxfy/another_dr_bart_van_de_ven_horror_story/) by blueberryk1tty in 2021
-* [Dr. Bart van de Ven / My Story after Being Silenced / 2014](https://www.reddit.com/r/Transgender_Surgeries/comments/nsuphs/dr_bart_van_de_ven_my_story_after_being_silenced/) by iateallthecookies89 in 2021
-* [2pass - Bart van de Ven](https://www.reddit.com/r/Transgender_Surgeries/comments/mvdj2m/2pass_bart_van_de_ven/) by babestrust101 in 2021
-* [Why people never listen?](https://www.reddit.com/r/Transgender_Surgeries/comments/mmnf9h/why_people_never_listen/) by FallenDeity88 in 2021
-* [More complications, carelessness, unsanitary practices & victim blaming by Belgian Butcher Bart Van de Ven](https://www.reddit.com/r/Transgender_Surgeries/comments/l9e6xu/more_complications_carelessness_unsanitary/) by FallenDeity88 in 2021
-* [Justice for Emily: The girl who died at 2 Pass Clinic. Negligent surgeon & anesthetist.](https://www.reddit.com/r/Transgender_Surgeries/comments/l0rkpd/justice_for_emily_the_girl_who_died_at_2_pass/) by BelgianChocolate2021 in 2021
-* [Bart Van de Ven botched my face, damaged my nerves & made me look older](https://www.reddit.com/r/Transgender_Surgeries/comments/k64elp/bart_van_de_ven_botched_my_face_damaged_my_nerves/) by BartBotchedMarta in 2020
-* [1 year followup on FFS with Bart van de Ven - extremely cosmetically good result, but probably cut like 80% of the nerves in my forehead](https://www.reddit.com/r/Transgender_Surgeries/comments/k01axa/1_year_followup_on_ffs_with_bart_van_de_ven/) by apricotmessage in 2020
-* [Bart van de Ven says that leaving a hole in the bone of a patient's forehead after forehead recontouring "happens regularly with all FFS surgeons". Has anyone else experienced this? See photos of my forehead after FFS with Bart van de Ven for reference.](https://www.reddit.com/r/Transgender_Surgeries/comments/k0pplu/bart_van_de_ven_says_that_leaving_a_hole_in_the/) by solitary_kidney in 2020
+* [Hair transplantation with 2PassClinic Belgium Antwerpen, can anyone recommend them or have experience with it? :)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1fngs5b/hair_transplantation_with_2passclinic_belgium/content.html) by Pink_Koala_69 in 2024
+* [FFS nerve damage help](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18uhzq4/ffs_nerve_damage_help/content.html) by Sobmqra in 2024
+* [Hair transplant timeline. Photo every week for 4 months. I had 3000 grafts FUE at 2pass ❤️ couldn’t be happier with my progress](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ve93a7/hair_transplant_timeline_photo_every_week_for_4/content.html) by Alexis-1993 in 2023
+* [Dr Bart has passed away](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t5vbje/dr_bart_has_passed_away/content.html) by Katalina_Rogue in 2022
+* [Dr. Bart van de Ven just passed away. (See top post of all time on this sub for context who this is)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t5v9vx/dr_bart_van_de_ven_just_passed_away_see_top_post/content.html) by meowriza, 4 March 2022
+* [Small FFS-timeline (without the nasty pics) - Sep 13rd to Dec 24th](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rvw77s/small_ffstimeline_without_the_nasty_pics_sep_13rd/content.html) by Parking-Mouse8003 in 2022
+* [Another Dr. Bart van de Ven HORROR Story](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/o5xxfy/another_dr_bart_van_de_ven_horror_story/content.html) by blueberryk1tty in 2021
+* [Dr. Bart van de Ven / My Story after Being Silenced / 2014](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nsuphs/dr_bart_van_de_ven_my_story_after_being_silenced/content.html) by iateallthecookies89 in 2021
+* [2pass - Bart van de Ven](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mvdj2m/2pass_bart_van_de_ven/content.html) by babestrust101 in 2021
+* [Why people never listen?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mmnf9h/why_people_never_listen/content.html) by FallenDeity88 in 2021
+* [More complications, carelessness, unsanitary practices & victim blaming by Belgian Butcher Bart Van de Ven](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l9e6xu/more_complications_carelessness_unsanitary/content.html) by FallenDeity88 in 2021
+* [Justice for Emily: The girl who died at 2 Pass Clinic. Negligent surgeon & anesthetist.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l0rkpd/justice_for_emily_the_girl_who_died_at_2_pass/content.html) by BelgianChocolate2021 in 2021
+* [Bart Van de Ven botched my face, damaged my nerves & made me look older](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/k64elp/bart_van_de_ven_botched_my_face_damaged_my_nerves/content.html) by BartBotchedMarta in 2020
+* [1 year followup on FFS with Bart van de Ven - extremely cosmetically good result, but probably cut like 80% of the nerves in my forehead](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/k01axa/1_year_followup_on_ffs_with_bart_van_de_ven/content.html) by apricotmessage in 2020
+* [Bart van de Ven says that leaving a hole in the bone of a patient's forehead after forehead recontouring "happens regularly with all FFS surgeons". Has anyone else experienced this? See photos of my forehead after FFS with Bart van de Ven for reference.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/k0pplu/bart_van_de_ven_says_that_leaving_a_hole_in_the/content.html) by solitary_kidney in 2020
 * [MY FFS RECOVERY: DILEMMA](https://www.reddit.com/r/asktransgender/comments/jlfat6/my_ffs_recovery_dilemma/) by riccimilano in 2020
 * [MY FFS RECOVERY: TIME TO HEAL AND MOVE ON](https://www.reddit.com/r/asktransgender/comments/jk6gqr/my_ffs_recovery_time_to_heal_and_move_on/) by riccimilano in 2020
 * [MY FFS RECOVERY: THE MOMENT OF TRUTH](https://www.reddit.com/r/asktransgender/comments/jj69g2/my_ffs_recovery_the_moment_of_truth/) by riccimilano in 2020 - also see prior post 10 months earlier [MY FFS RECOVERY: LET’S FACE IT](https://www.reddit.com/r/asktransgender/comments/e82zxo/my_ffs_recovery_lets_face_it/) by riccimilano
 * [I'm feeling suicidal 6 months post botched surgery](https://www.reddit.com/r/asktransgender/comments/ia9341/im_feeling_suicidal_6_months_post_botched_surgery/) by Federal-Tension around 2020
-    * [2 Pass Clinic giving false information in public about their practices. They now claim they NEVER perform ANY surgeries without asking for CT scans. Beware people!](https://www.reddit.com/r/Transgender_Surgeries/comments/jgonzc/2_pass_clinic_giving_false_information_in_public/) by  Federal-Tension in 2020
-    * [Botched bumpy lip from botched chin/jaw surgery with Bart Van de Ven.](https://www.reddit.com/r/Transgender_Surgeries/comments/g8cq1e/botched_bumpy_lip_from_botched_chinjaw_surgery/) by Federal-Tension in 2020
-    * [Botched review of Bart Van de Ven live on Realself](https://www.reddit.com/r/Transgender_Surgeries/comments/g8h8w0/botched_review_of_bart_van_de_ven_live_on_realself/) by Federal-Tension in 2020, referring to this review [Ruined my Life and Face](https://www.realself.com/review/facial-feminization-surgery-ruined-life-face) on realself
-    * [Hemosiderin stain from botched lipo courtesy of Bart Van de Ven. Any idea on the type of laser that could get rid of it?](https://www.reddit.com/r/Transgender_Surgeries/comments/g7yk45/hemosiderin_stain_from_botched_lipo_courtesy_of/) by Federal-Tension in 2020
-    * [Telling friends/relatives/workfriends my surgery was botched?](https://www.reddit.com/r/Transgender_Surgeries/comments/g32hp6/telling_friendsrelativesworkfriends_my_surgery/) by Federal-Tension in 2020
-    * [When did your sensation come back after jaw/chin surgery?](https://www.reddit.com/r/Transgender_Surgeries/comments/g1oxqf/when_did_your_sensation_come_back_after_jawchin/) by Federal-Tension in 2020
-    * [I regret my surgery and feel I made the wrong choice of surgeon](https://www.reddit.com/r/Transgender_Surgeries/comments/fsaaot/i_regret_my_surgery_and_feel_i_made_the_wrong/) by Federal-Tension in 2020
-* [2pass cancelling surgeries from Americans/Canadians because of lawsuits? Anyone know what these are about?](https://www.reddit.com/r/Transgender_Surgeries/comments/jfn1nj/2pass_cancelling_surgeries_from/) by Elise_93 in 2020
-* [3 months post ffs 2 Pass & I'm worried](https://www.reddit.com/r/Transgender_Surgeries/comments/j9xklp/3_months_post_ffs_2_pass_im_worried/) by psygomatriarch in 2020
-* [Face Feminization Surgery with Dr. Bart van de Ven (2pass clinic, Antwerp) - AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/iv1pxf/face_feminization_surgery_with_dr_bart_van_de_ven/) by estraNicole in 2020
-* [Facial Feminization Surgery. Upvote this so that people see it when they Google FFS and think twice about going with 2PassClinic/Bart Van de Ven.](https://www.reddit.com/r/Transgender_Surgeries/comments/iuw108/facial_feminization_surgery_upvote_this_so_that/) by Elise_93 in 2020
-* [Bart Van de Ven is a Fraud doctor](https://www.reddit.com/r/Transgender_Surgeries/comments/ithw3v/bart_van_de_ven_is_a_fraud_doctor/) by mermaid_mermaid in 2020
-* [Disgusting reply by Bart Van de Ven to a patient of his who has nerve damage after FFS with him](https://www.reddit.com/r/Transgender_Surgeries/comments/i4jg6o/disgusting_reply_by_bart_van_de_ven_to_a_patient/) by FallenDeity88 in 2020
+    * [2 Pass Clinic giving false information in public about their practices. They now claim they NEVER perform ANY surgeries without asking for CT scans. Beware people!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jgonzc/2_pass_clinic_giving_false_information_in_public/content.html) by  Federal-Tension in 2020
+    * [Botched bumpy lip from botched chin/jaw surgery with Bart Van de Ven.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/g8cq1e/botched_bumpy_lip_from_botched_chinjaw_surgery/content.html) by Federal-Tension in 2020
+    * [Botched review of Bart Van de Ven live on Realself](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/g8h8w0/botched_review_of_bart_van_de_ven_live_on_realself/content.html) by Federal-Tension in 2020, referring to this review [Ruined my Life and Face](https://www.realself.com/review/facial-feminization-surgery-ruined-life-face) on realself
+    * [Hemosiderin stain from botched lipo courtesy of Bart Van de Ven. Any idea on the type of laser that could get rid of it?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/g7yk45/hemosiderin_stain_from_botched_lipo_courtesy_of/content.html) by Federal-Tension in 2020
+    * [Telling friends/relatives/workfriends my surgery was botched?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/g32hp6/telling_friendsrelativesworkfriends_my_surgery/content.html) by Federal-Tension in 2020
+    * [When did your sensation come back after jaw/chin surgery?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/g1oxqf/when_did_your_sensation_come_back_after_jawchin/content.html) by Federal-Tension in 2020
+    * [I regret my surgery and feel I made the wrong choice of surgeon](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/fsaaot/i_regret_my_surgery_and_feel_i_made_the_wrong/content.html) by Federal-Tension in 2020
+* [2pass cancelling surgeries from Americans/Canadians because of lawsuits? Anyone know what these are about?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jfn1nj/2pass_cancelling_surgeries_from/content.html) by Elise_93 in 2020
+* [3 months post ffs 2 Pass & I'm worried](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/j9xklp/3_months_post_ffs_2_pass_im_worried/content.html) by psygomatriarch in 2020
+* [Face Feminization Surgery with Dr. Bart van de Ven (2pass clinic, Antwerp) - AMA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/iv1pxf/face_feminization_surgery_with_dr_bart_van_de_ven/content.html) by estraNicole in 2020
+* [Facial Feminization Surgery. Upvote this so that people see it when they Google FFS and think twice about going with 2PassClinic/Bart Van de Ven.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/iuw108/facial_feminization_surgery_upvote_this_so_that/content.html) by Elise_93 in 2020
+* [Bart Van de Ven is a Fraud doctor](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ithw3v/bart_van_de_ven_is_a_fraud_doctor/content.html) by mermaid_mermaid in 2020
+* [Disgusting reply by Bart Van de Ven to a patient of his who has nerve damage after FFS with him](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i4jg6o/disgusting_reply_by_bart_van_de_ven_to_a_patient/content.html) by FallenDeity88 in 2020
 * [Facial surgeons in Germany?](https://www.reddit.com/r/germantrans/comments/gy84xf/facial_surgeons_in_germany/) by Wright_Oh in 2020
-* [Brow bone reduction and scalp advancement with Bart Van de Ven & my eyes are going cross eyed and have a bumpy forehead?](https://www.reddit.com/r/Transgender_Surgeries/comments/gkz7ua/brow_bone_reduction_and_scalp_advancement_with/) by Israelgirlts in 2020
-* [FFS with Bart van de Ven - 3 years on](https://www.reddit.com/r/Transgender_Surgeries/comments/ezum3y/ffs_with_bart_van_de_ven_3_years_on/) by solitary_kidney in 2020
+* [Brow bone reduction and scalp advancement with Bart Van de Ven & my eyes are going cross eyed and have a bumpy forehead?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gkz7ua/brow_bone_reduction_and_scalp_advancement_with/content.html) by Israelgirlts in 2020
+* [FFS with Bart van de Ven - 3 years on](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ezum3y/ffs_with_bart_van_de_ven_3_years_on/content.html) by solitary_kidney in 2020
 * [The projected change in my face following FFS in August](https://www.reddit.com/r/transgenderUK/comments/es15e7/the_projected_change_in_my_face_following_ffs_in/) by Monkeynuts8 in 2020
-* [Somebody affiliated with Facial Team blackmailing and defaming Dr Bart van de Ven](https://www.reddit.com/r/Transgender_Surgeries/comments/eqhz7u/somebody_affiliated_with_facial_team_blackmailing/) by 2pass_Clinic in 2020
-* [A quick review of my FFS with Bart van de Ven](https://www.reddit.com/r/Transgender_Surgeries/comments/epjy65/a_quick_review_of_my_ffs_with_bart_van_de_ven/) by apricotmessage in 2020
-* [ALERT - EXPERIENCE: FOREHEAD RECONSTRUCTION 2PASS/ v.d. Ven/ BELGIUM](https://www.reddit.com/r/Transgender_Surgeries/comments/emp72a/alert_experience_forehead_reconstruction_2pass_vd/) by monamtb in 2020
+* [Somebody affiliated with Facial Team blackmailing and defaming Dr Bart van de Ven](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/eqhz7u/somebody_affiliated_with_facial_team_blackmailing/content.html) by 2pass_Clinic in 2020
+* [A quick review of my FFS with Bart van de Ven](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/epjy65/a_quick_review_of_my_ffs_with_bart_van_de_ven/content.html) by apricotmessage in 2020
+* [ALERT - EXPERIENCE: FOREHEAD RECONSTRUCTION 2PASS/ v.d. Ven/ BELGIUM](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/emp72a/alert_experience_forehead_reconstruction_2pass_vd/content.html) by monamtb in 2020
 * [Intensive electrolysis sessions in Europe?](https://www.reddit.com/r/asktransgender/comments/b6u7g5/intensive_electrolysis_sessions_in_europe/) by moonbladewielder in 2019
 * [FFS is not just cosmetic surgery. It is a drastic improvement in life quality [8 weeks post op, 14.5 months HRT] ](https://www.reddit.com/r/transtimelines/comments/drmpih/ffs_is_not_just_cosmetic_surgery_it_is_a_drastic/) by Nikki22_ in 2019
 * [FFS changed my life. Celebrating 4 weeks post OP.](https://www.reddit.com/r/transtimelines/comments/dg208m/ffs_changed_my_life_celebrating_4_weeks_post_op/) by Nikki22_ in 2019
 * [Left: an awful picture before FFS (light make-up), Right: 25 days post FFS (no make-up). Just wanted to share :)](https://www.reddit.com/r/transtimelines/comments/depd1i/left_an_awful_picture_before_ffs_light_makeup/) by Nikki22_ in 2019
 * [2pass or Facial team? Any experiences?](https://www.reddit.com/r/asktransgender/comments/cxzes4/2pass_or_facial_team_any_experiences/) by pumpkin921 in 2019
-* [FFS Cardenas or Bart? Desperate please help](https://www.reddit.com/r/Transgender_Surgeries/comments/d4qhcz/ffs_cardenas_or_bart_desperate_please_help/) by Jungle_Julia01 in 2019
+* [FFS Cardenas or Bart? Desperate please help](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/d4qhcz/ffs_cardenas_or_bart_desperate_please_help/content.html) by Jungle_Julia01 in 2019
 * [FFS advice please](https://www.reddit.com/r/transgenderau/comments/ch2w0w/ffs_advice_please/) by Umbrii_xo in 2019
-* [Despite the controversies, has anyone been to Dr. Bart somewhat recently?](https://www.reddit.com/r/Transgender_Surgeries/comments/arwao0/despite_the_controversies_has_anyone_been_to_dr/) by apricotmessage in 2019
+* [Despite the controversies, has anyone been to Dr. Bart somewhat recently?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/arwao0/despite_the_controversies_has_anyone_been_to_dr/content.html) by apricotmessage in 2019
 * [FACIALTEAM experiences](https://www.reddit.com/r/MtF/comments/aqgu3n/facialteam_experiences/) in 2019 - 2pass mentioned [here](https://www.reddit.com/r/MtF/comments/aqgu3n/facialteam_experiences/eggbv25/)
 * [5 weeks post FFS](https://www.reddit.com/r/transtimelines/comments/ak5loy/5_weeks_post_ffs/) by LauraBunny123 in 2019
 * [How effective is facial feminization surgery? Passing improved from 35% to 75% after an FFS ](https://www.reddit.com/r/MtF/comments/a3c9u3/how_effective_is_facial_feminization_surgery/) by 2passclinicmedia in 2018 - note this post by 2pass is essentially an advertisement and was removed by the subs moderators
@@ -537,8 +537,8 @@ Deeanne's Blogg
 
 Diana Goetsch
 
-* reply to [Disgusting reply by Bart Van de Ven to a patient of his who has nerve damage after FFS with him](https://www.reddit.com/r/Transgender_Surgeries/comments/i4jg6o/disgusting_reply_by_bart_van_de_ven_to_a_patient/g183xzz/) by YodelVortex in 2020 - this comment is by Diana Goetsch
-* reddit [Diana Goetsch - FFS Coma](https://www.reddit.com/r/Transgender_Surgeries/comments/gwiutr/diana_goetsch_ffs_coma/) by Federal-Tension in 2020
+* reply to [Disgusting reply by Bart Van de Ven to a patient of his who has nerve damage after FFS with him](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i4jg6o/disgusting_reply_by_bart_van_de_ven_to_a_patient/g183xzz/content.html) by YodelVortex in 2020 - this comment is by Diana Goetsch
+* reddit [Diana Goetsch - FFS Coma](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gwiutr/diana_goetsch_ffs_coma/content.html) by Federal-Tension in 2020
 * The American Scholar - [Recovery](https://theamericanscholar.org/recovery/) by Diana Goetsch in 2016
 * The American Scholar - [Coma](https://theamericanscholar.org/coma/) by Diana Goetsch in 2016
 
@@ -563,9 +563,9 @@ Surgeons Site
 
 reddit
 
-* [2pass 2022](https://www.reddit.com/r/Transgender_Surgeries/comments/10a5ym2/2pass_2022/) by Dangerous-Ad6533 in 2023
-* [FFS Consent Statement](https://www.reddit.com/r/Transgender_Surgeries/comments/tquor0/ffs_consent_statement/) by  OlivyOlivv in 2022 - *"I'm just looking through the consent statement, and one of the statements is: I hereby commit myself to be bound with an obligation to abstain for revealing directly or indirectly any disclosure or statement regarding the surgery to/on any media if this information may possibly harm or have any negative impact on the activity or reputation of the surgeon and his team."*
-* [Update: Dr. Frans Noorman van der Dussen](https://www.reddit.com/r/Transgender_Surgeries/comments/n4mtbs/update_dr_frans_noorman_van_der_dussen/) by  GoldshireDancer in 2021
+* [2pass 2022](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10a5ym2/2pass_2022/content.html) by Dangerous-Ad6533 in 2023
+* [FFS Consent Statement](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tquor0/ffs_consent_statement/content.html) by  OlivyOlivv in 2022 - *"I'm just looking through the consent statement, and one of the statements is: I hereby commit myself to be bound with an obligation to abstain for revealing directly or indirectly any disclosure or statement regarding the surgery to/on any media if this information may possibly harm or have any negative impact on the activity or reputation of the surgeon and his team."*
+* [Update: Dr. Frans Noorman van der Dussen](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/n4mtbs/update_dr_frans_noorman_van_der_dussen/content.html) by  GoldshireDancer in 2021
 
 Susans
 
@@ -607,7 +607,7 @@ Surgeons sites
 
 reddit
 
-* [I am having FFS with Wim Verhaeghe in 6 weeks.. anybody knows him?](https://www.reddit.com/r/Transgender_Surgeries/comments/is23bh/i_am_having_ffs_with_wim_verhaeghe_in_6_weeks/) by TessaMTF in 2020
+* [I am having FFS with Wim Verhaeghe in 6 weeks.. anybody knows him?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/is23bh/i_am_having_ffs_with_wim_verhaeghe_in_6_weeks/content.html) by TessaMTF in 2020
 
 YouTube
 
@@ -664,7 +664,7 @@ Surgeons sites
 
 reddit
 
-* [FFS in Belgium with insurance for citizens (1000-2000 Euros)](https://www.reddit.com/r/Transgender_Surgeries/comments/181cxu8/ffs_in_belgium_with_insurance_for_citizens/) by  Brilliant-Focus-8939 in 2023 - *"He actually uses INAMI code and consider this as reconstructive surgery. The cost (for Belgian citizens) is between 1000 and 2000 Euros with only the national insurance (called "mutuelle"). That's like 10 times lower than the normal price in Belgium if you ask in private clinics."*
+* [FFS in Belgium with insurance for citizens (1000-2000 Euros)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/181cxu8/ffs_in_belgium_with_insurance_for_citizens/content.html) by  Brilliant-Focus-8939 in 2023 - *"He actually uses INAMI code and consider this as reconstructive surgery. The cost (for Belgian citizens) is between 1000 and 2000 Euros with only the national insurance (called "mutuelle"). That's like 10 times lower than the normal price in Belgium if you ask in private clinics."*
 
 <br />
 
@@ -680,7 +680,7 @@ Surgeons sites
 
 reddit
 
-* [Are there any FFS surgeons or clinics in Prague ( Czech Republic ) ?](https://www.reddit.com/r/Transgender_Surgeries/comments/v5fhxu/are_there_any_ffs_surgeons_or_clinics_in_prague/) by Peryite-smitethee in 2022
+* [Are there any FFS surgeons or clinics in Prague ( Czech Republic ) ?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/v5fhxu/are_there_any_ffs_surgeons_or_clinics_in_prague/content.html) by Peryite-smitethee in 2022
 
 Other
 
@@ -707,9 +707,9 @@ Surgeons sites
 
 reddit
 
-* [Révision with theerapong](https://www.reddit.com/r/Transgender_Surgeries/comments/16gnl6k/r%C3%A9vision_with_theerapong/) by kim633 in 2023 - *"I had my SRS in France 3 years ago but it was completely failed.. I had 2 revisions but it's not enough... is is there a good surgeon to repair excess erectile tissue... Dr Soulier Victor for the original surgery and Dr Plainard Xavier for revisions. I strongly advise against the dr Soulier who completely failed my surgery (I am not the only one, many girls were failed by him..) but dr Plainard is very good he did what he could to improve the result"*
-* [Experiences with dr Xavier Lachiver?](https://www.reddit.com/r/Transgender_Surgeries/comments/10uz8yk/experiences_with_dr_xavier_lachiver/) by irijiri in 2023
-* [FFS with Xavier Lachiver](https://www.reddit.com/r/Transgender_Surgeries/comments/zxr32j/ffs_with_xavier_lachiver/) by CabbageInDisguise in 2022
+* [Révision with theerapong](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16gnl6k/r%C3%A9vision_with_theerapong/content.html) by kim633 in 2023 - *"I had my SRS in France 3 years ago but it was completely failed.. I had 2 revisions but it's not enough... is is there a good surgeon to repair excess erectile tissue... Dr Soulier Victor for the original surgery and Dr Plainard Xavier for revisions. I strongly advise against the dr Soulier who completely failed my surgery (I am not the only one, many girls were failed by him..) but dr Plainard is very good he did what he could to improve the result"*
+* [Experiences with dr Xavier Lachiver?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10uz8yk/experiences_with_dr_xavier_lachiver/content.html) by irijiri in 2023
+* [FFS with Xavier Lachiver](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zxr32j/ffs_with_xavier_lachiver/content.html) by CabbageInDisguise in 2022
 * [Left was taken in 2015, right was taken last week/ post FFS. Please don’t mind my shity photo collage](https://www.reddit.com/r/transtimelines/comments/8wdu04/left_was_taken_in_2015_right_was_taken_last_week/) in 2018
 * [Splitting FFS into two or more parts](https://www.reddit.com/r/MtF/comments/6y9ojt/splitting_ffs_into_two_or_more_parts/) in 2017
 
@@ -856,7 +856,7 @@ Surgeons sites
 
 reddit
 
-* [Post op FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/vmpead/post_op_ffs/) by Julie2407 in 2022
+* [Post op FFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/vmpead/post_op_ffs/content.html) by Julie2407 in 2022
 
 <br />
 
@@ -866,7 +866,7 @@ reddit
 
 reddit
 
-* [FFS with dr. Jammet in France](https://www.reddit.com/r/Transgender_Surgeries/comments/13uu3x8/ffs_with_dr_jammet_in_france/) by melanie_mntl in 2023
+* [FFS with dr. Jammet in France](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13uu3x8/ffs_with_dr_jammet_in_france/content.html) by melanie_mntl in 2023
 
 
 <br />
@@ -895,12 +895,12 @@ Surgeons site
 
 reddit
 
-* [4 days post FFS done by the new king of FFS, Dr. Cvetan Taskov in Germany! (AMA)](https://www.reddit.com/r/Transgender_Surgeries/comments/13zcwpn/4_days_post_ffs_done_by_the_new_king_of_ffs_dr/) by surgeryk in 2023
-* [3-Weeks Post-FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/x1h54u/3weeks_postffs/) by theKirschn in 2022
-    * [Two weeks post-FFS with Taskov](https://www.reddit.com/r/Transgender_Surgeries/comments/wvke0p/two_weeks_postffs_with_taskov/) by theKirschn
+* [4 days post FFS done by the new king of FFS, Dr. Cvetan Taskov in Germany! (AMA)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13zcwpn/4_days_post_ffs_done_by_the_new_king_of_ffs_dr/content.html) by surgeryk in 2023
+* [3-Weeks Post-FFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x1h54u/3weeks_postffs/content.html) by theKirschn in 2022
+    * [Two weeks post-FFS with Taskov](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wvke0p/two_weeks_postffs_with_taskov/content.html) by theKirschn
 in 2022
-* [Dr taskov](https://www.reddit.com/r/Transgender_Surgeries/comments/q0e8m4/dr_taskov/) by Amy_JUSH_Winehouse in 2021
-* [I have found a new FFS Europe surgeon that looks insanely good. Opinions?](https://www.reddit.com/r/Transgender_Surgeries/comments/igbd32/i_have_found_a_new_ffs_europe_surgeon_that_looks/) by Jungle_Julia01 in 2020
+* [Dr taskov](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/q0e8m4/dr_taskov/content.html) by Amy_JUSH_Winehouse in 2021
+* [I have found a new FFS Europe surgeon that looks insanely good. Opinions?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/igbd32/i_have_found_a_new_ffs_europe_surgeon_that_looks/content.html) by Jungle_Julia01 in 2020
 * [Facial surgeons in Germany?](https://www.reddit.com/r/germantrans/comments/gy84xf/facial_surgeons_in_germany/) by Wright_Oh in 2020
 
 <br />
@@ -932,7 +932,7 @@ Surgeons sites
 
 reddit
 
-* [Facial feminisation surgery and non-surgical procedures (FFS Dr Schaff, Sept 2021. Dermal fillers Feb 2015 - Mar 2018. HRT since Jun 2018)](https://www.reddit.com/r/Transgender_Surgeries/comments/rct1h1/facial_feminisation_surgery_and_nonsurgical/) by sonia_sadhbh in 2021
+* [Facial feminisation surgery and non-surgical procedures (FFS Dr Schaff, Sept 2021. Dermal fillers Feb 2015 - Mar 2018. HRT since Jun 2018)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rct1h1/facial_feminisation_surgery_and_nonsurgical/content.html) by sonia_sadhbh in 2021
 
 <br />
 
@@ -950,7 +950,7 @@ Surgeons sites
 
 reddit
 
-* reply to [Where to go for FFS after Dr Bart Van de Ven’s unfortunate passing?](https://www.reddit.com/r/Transgender_Surgeries/comments/t61zv5/where_to_go_for_ffs_after_dr_bart_van_de_vens/hzfgs0k/) by Ra2djic55 in 2022
+* reply to [Where to go for FFS after Dr Bart Van de Ven’s unfortunate passing?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t61zv5/where_to_go_for_ffs_after_dr_bart_van_de_vens/hzfgs0k/content.html) by Ra2djic55 in 2022
 
 <br />
 
@@ -970,12 +970,12 @@ Surgeons sites
 
 reddit
 
-* reply to [Are there any experiences with Dr. Funk in Munich?](https://www.reddit.com/r/Transgender_Surgeries/comments/1eydsvi/are_there_any_experiences_with_dr_funk_in_munich/ljcpzv3/) by ]mirror_image_22 in 2024 - *"I have two friends who went to him. Surgically, he's really good. He actually manages to feminise your face, but on a personal level, he's absolutely disgusting. Has really weird (trans)misogynistic views, says stuff like "A trans woman is only a woman after I operated on her" and after one patient had a really big scar from rhino he just said she can use make up to cover it up. Also, some of the meds he recommends afterwards are homeopathic"*
+* reply to [Are there any experiences with Dr. Funk in Munich?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1eydsvi/are_there_any_experiences_with_dr_funk_in_munich/ljcpzv3/content.html) by ]mirror_image_22 in 2024 - *"I have two friends who went to him. Surgically, he's really good. He actually manages to feminise your face, but on a personal level, he's absolutely disgusting. Has really weird (trans)misogynistic views, says stuff like "A trans woman is only a woman after I operated on her" and after one patient had a really big scar from rhino he just said she can use make up to cover it up. Also, some of the meds he recommends afterwards are homeopathic"*
 * [FFS Klinik Dr. Funk München](https://www.reddit.com/r/germantrans/comments/1bt03bp/ffs_klinik_dr_funk_m%C3%BCnchen/) by Pink_Koala_69 in 2024
 * [FFS bei Dr Wolfgang Funk](https://www.reddit.com/r/germantrans/comments/zdb2u4/ffs_bei_dr_wolfgang_funk/) by Filthmania in 2023
 * [Erfahrungen mit Dr. Funk (München)](https://www.reddit.com/r/germantrans/comments/wsozq9/erfahrungen_mit_dr_funk_m%C3%BCnchen/) by MelaniesSpace in 2022
 * reply to [How much of a difference can FFS make?](https://www.reddit.com/r/asktransgender/comments/yxm9w7/how_much_of_a_difference_can_ffs_make/iwqs00c/) by AmiesAdventures in 2022
-* reply to [Dissatisfied with FFS results and not sure if I should try revision](https://www.reddit.com/r/Transgender_Surgeries/comments/x5tahh/dissatisfied_with_ffs_results_and_not_sure_if_i/in83znv/) by WalzeKauz in 2022
+* reply to [Dissatisfied with FFS results and not sure if I should try revision](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x5tahh/dissatisfied_with_ffs_results_and_not_sure_if_i/in83znv/content.html) by WalzeKauz in 2022
 
 <br />
 
@@ -995,7 +995,7 @@ Surgeons sites
 
 reddit
 
-* [16 Days post OP tracheal Shave, Dr Lappat, Charité Berlin](https://www.reddit.com/r/Transgender_Surgeries/comments/xy8bfu/16_days_post_op_tracheal_shave_dr_lappat_charit%C3%A9/) by RainbowDashieeee in 2022
+* [16 Days post OP tracheal Shave, Dr Lappat, Charité Berlin](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xy8bfu/16_days_post_op_tracheal_shave_dr_lappat_charit%C3%A9/content.html) by RainbowDashieeee in 2022
 
 <br />
 
@@ -1015,7 +1015,7 @@ Surgeons sites
 
 reddit
 
-* [16 Days post OP tracheal Shave, Dr Lappat, Charité Berlin](https://www.reddit.com/r/Transgender_Surgeries/comments/xy8bfu/16_days_post_op_tracheal_shave_dr_lappat_charit%C3%A9/) by RainbowDashieeee in 2022
+* [16 Days post OP tracheal Shave, Dr Lappat, Charité Berlin](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xy8bfu/16_days_post_op_tracheal_shave_dr_lappat_charit%C3%A9/content.html) by RainbowDashieeee in 2022
 
 <br />
 
@@ -1042,7 +1042,7 @@ YouTube
 
 reddit
 
-* [How risky is FFS really? I was made to watch an informational video by my hospital that says it's really risky](https://www.reddit.com/r/Transgender_Surgeries/comments/yshahv/how_risky_is_ffs_really_i_was_made_to_watch_an/) by Confused_and_weird in 2022 - "*According to the video, when getting your browbone or jaw shaved down, there is a 15-20% chance of losing all feeling and/or muscle control in that part of your face... The hospital in question is the Amsterdam UMC in the Netherlands...*"
+* [How risky is FFS really? I was made to watch an informational video by my hospital that says it's really risky](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yshahv/how_risky_is_ffs_really_i_was_made_to_watch_an/content.html) by Confused_and_weird in 2022 - "*According to the video, when getting your browbone or jaw shaved down, there is a 15-20% chance of losing all feeling and/or muscle control in that part of your face... The hospital in question is the Amsterdam UMC in the Netherlands...*"
 
 ## Brigitte A. Meijer
 
@@ -1052,12 +1052,12 @@ Surgeons site
 
 reddit
 
-* [Chin and jaw FFS with Brigitte Meijer](https://www.reddit.com/r/Transgender_Surgeries/comments/10bqyly/chin_and_jaw_ffs_with_brigitte_meijer/) by snackbardevogel in 2023
-* [Should I get a 2nd round of FFS? I pretty much exclusively get gendered female unless I speak and even that is sometimes, but people have told me I have clocky features, as in my big ass forehead and hairline mainly.](https://www.reddit.com/r/Transgender_Surgeries/comments/ub6yqn/should_i_get_a_2nd_round_of_ffs_i_pretty_much/) by AutumnFaeri in 2022
-* [FFS - 4 weeks ago](https://www.reddit.com/r/Transgender_Surgeries/comments/rocyq5/ffs_4_weeks_ago/) by TessaMTF in 2021
-    * [Blurry/ disturbed vision after FFS.](https://www.reddit.com/r/Transgender_Surgeries/comments/rhxi9q/blurry_disturbed_vision_after_ffs/) by TessaMTF in 2021
-    * [9 days after FFS - completely numb underlip and chin](https://www.reddit.com/r/Transgender_Surgeries/comments/r821po/9_days_after_ffs_completely_numb_underlip_and_chin/) by TessaMTF in 2021
-    * [FFS day 0 - i feel i died AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/r1iwqj/ffs_day_0_i_feel_i_died_ama/) by TessaMTF in 2021
+* [Chin and jaw FFS with Brigitte Meijer](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10bqyly/chin_and_jaw_ffs_with_brigitte_meijer/content.html) by snackbardevogel in 2023
+* [Should I get a 2nd round of FFS? I pretty much exclusively get gendered female unless I speak and even that is sometimes, but people have told me I have clocky features, as in my big ass forehead and hairline mainly.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ub6yqn/should_i_get_a_2nd_round_of_ffs_i_pretty_much/content.html) by AutumnFaeri in 2022
+* [FFS - 4 weeks ago](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rocyq5/ffs_4_weeks_ago/content.html) by TessaMTF in 2021
+    * [Blurry/ disturbed vision after FFS.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rhxi9q/blurry_disturbed_vision_after_ffs/content.html) by TessaMTF in 2021
+    * [9 days after FFS - completely numb underlip and chin](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/r821po/9_days_after_ffs_completely_numb_underlip_and_chin/content.html) by TessaMTF in 2021
+    * [FFS day 0 - i feel i died AMA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/r1iwqj/ffs_day_0_i_feel_i_died_ama/content.html) by TessaMTF in 2021
 
 t-nederland
 
@@ -1074,8 +1074,8 @@ Surgeons sites
 
 reddit
 
-* [I want FFS Type 3 bone bow reduction](https://www.reddit.com/r/Transgender_Surgeries/comments/1e4nebm/i_want_ffs_type_3_bone_bow_reduction/) by Michaelvdn in 2024
-* [Anyone got experience with FFS of Dr. Tim Nijhuis in Nijmegen, The Netherlands?](https://www.reddit.com/r/Transgender_Surgeries/comments/11sxw9c/anyone_got_experience_with_ffs_of_dr_tim_nijhuis/) by Sofielicious in 2024
+* [I want FFS Type 3 bone bow reduction](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1e4nebm/i_want_ffs_type_3_bone_bow_reduction/content.html) by Michaelvdn in 2024
+* [Anyone got experience with FFS of Dr. Tim Nijhuis in Nijmegen, The Netherlands?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/11sxw9c/anyone_got_experience_with_ffs_of_dr_tim_nijhuis/content.html) by Sofielicious in 2024
 
 <br />
 
@@ -1097,7 +1097,7 @@ Surgeons site
 
 reddit
 
-* reply to [Where to go for FFS after Dr Bart Van de Ven’s unfortunate passing?](https://www.reddit.com/r/Transgender_Surgeries/comments/t61zv5/where_to_go_for_ffs_after_dr_bart_van_de_vens/hzdjcgm/) by Valentina_Galaxina in 2022
+* reply to [Where to go for FFS after Dr Bart Van de Ven’s unfortunate passing?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t61zv5/where_to_go_for_ffs_after_dr_bart_van_de_vens/hzdjcgm/content.html) by Valentina_Galaxina in 2022
 
 YouTube
 
@@ -1118,7 +1118,7 @@ Surgeons sites
 
 reddit
 
-* [Super scared about trachea shave, need advice please](https://www.reddit.com/r/Transgender_Surgeries/comments/10dc34x/super_scared_about_trachea_shave_need_advice/) by itakehrt in 2023
+* [Super scared about trachea shave, need advice please](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10dc34x/super_scared_about_trachea_shave_need_advice/content.html) by itakehrt in 2023
 
 <br />
 
@@ -1133,7 +1133,7 @@ Surgeons sites
 
 reddit
 
-* [Super scared about trachea shave, need advice please](https://www.reddit.com/r/Transgender_Surgeries/comments/10dc34x/super_scared_about_trachea_shave_need_advice/) by itakehrt in 2023
+* [Super scared about trachea shave, need advice please](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10dc34x/super_scared_about_trachea_shave_need_advice/content.html) by itakehrt in 2023
 
 <br />
 
@@ -1174,7 +1174,7 @@ Surgeons sites
 
 reddit
 
-* reply to [FFS in Belgrade](https://www.reddit.com/r/Transgender_Surgeries/comments/ldz2ix/ffs_in_belgrade/) by thesamantha23 in 2021 - *"I have had experience with Dr Stajcic and would not recommend him... I feel really humiliated, hurt, and homesick right now in my room in Belgrade. It’s been very confusing and stressful and I’m still processing. But in answer to your question, save your money, vet your surgeon thoroughly, and don’t be afraid to take a lot of time."*
+* reply to [FFS in Belgrade](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ldz2ix/ffs_in_belgrade/content.html) by thesamantha23 in 2021 - *"I have had experience with Dr Stajcic and would not recommend him... I feel really humiliated, hurt, and homesick right now in my room in Belgrade. It’s been very confusing and stressful and I’m still processing. But in answer to your question, save your money, vet your surgeon thoroughly, and don’t be afraid to take a lot of time."*
 
 YouTube
 
@@ -1188,9 +1188,9 @@ YouTube
 
 reddit
 
-* [I am three days post op after a tracheal shave and apart from a little tightness, I have no discomfort. My throat was perfect when I woke up after the surgery. The "result" was soft and flat. But since yesterday, the bump has returned and it’s hard. Just swollen? Anyone have experience?](https://www.reddit.com/r/Transgender_Surgeries/comments/tza55k/i_am_three_days_post_op_after_a_tracheal_shave/) by aliziastrand in 2022
-* [Trach shave, done at Karolinska in Huddinge, Stockholm, Sweden. Pre, 3 month post and 11 month post](https://www.reddit.com/r/Transgender_Surgeries/comments/q5cr2g/trach_shave_done_at_karolinska_in_huddinge/) by venisoninmycoffee in 2021
-    * [Tracheal shave at Karoninska in Huddinge, Stockholm, Sweden. Top left is pre-op, then 3 months post-op. Very pleased with the results.](https://www.reddit.com/r/Transgender_Surgeries/comments/lgu3lj/tracheal_shave_at_karoninska_in_huddinge/) by venisoninmycoffee in 2021
+* [I am three days post op after a tracheal shave and apart from a little tightness, I have no discomfort. My throat was perfect when I woke up after the surgery. The "result" was soft and flat. But since yesterday, the bump has returned and it’s hard. Just swollen? Anyone have experience?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tza55k/i_am_three_days_post_op_after_a_tracheal_shave/content.html) by aliziastrand in 2022
+* [Trach shave, done at Karolinska in Huddinge, Stockholm, Sweden. Pre, 3 month post and 11 month post](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/q5cr2g/trach_shave_done_at_karolinska_in_huddinge/content.html) by venisoninmycoffee in 2021
+    * [Tracheal shave at Karoninska in Huddinge, Stockholm, Sweden. Top left is pre-op, then 3 months post-op. Very pleased with the results.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lgu3lj/tracheal_shave_at_karoninska_in_huddinge/content.html) by venisoninmycoffee in 2021
 * [Facial feminization surgery experiences Sweden](https://www.reddit.com/r/transnord/comments/g6om7g/facial_feminization_surgery_experiences_sweden/) by screamoisdead in 2020
 * reply to [I Am Currently Recovering From FFS With Facial Team In Spain, AMA!](https://www.reddit.com/r/asktransgender/comments/ceb3zf/i_am_currently_recovering_from_ffs_with_facial/eu1rc96/) by Nina4evr in 2019
 
@@ -1229,14 +1229,14 @@ Surgeons site
 
 reddit
 
-* [FFS Dr. Richard Fakin I am not happy](https://www.reddit.com/r/Transgender_Surgeries/comments/10xyyn6/ffs_dr_richard_fakin_i_am_not_happy/) by Objective_Magician38 in 2023
-    * [my first FFS experience at dr.fakin switzerland](https://www.reddit.com/r/Transgender_Surgeries/comments/10xhtt0/my_first_ffs_experience_at_drfakin_switzerland/) by Objective_Magician38 in 2023 - *"Warning!!! ... The visible facial feminization is so minimal to not visible at all. The operation has been a complete failure. I don't understand why dr.Fakin suggested this operation to me. Or he just did it too badly. The main thing was that he could operate and cash in?! What is visible is a 2 cm fat scar all over the head from ear to ear. 14,000 francs hair transplant partly simply destroyed. The wide scar cannot really be covered with my hair. A thick, fat, palpable scar in the mouth, which always leaves food in it. The follow-up care was also miserable. No information was given..."*
-* [FFS with Richard Fakin](https://www.reddit.com/r/Transgender_Surgeries/comments/yp0y73/ffs_with_richard_fakin/) by snub242 in 2022
-* [Spreading awareness about FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/qb5wnl/spreading_awareness_about_ffs/) by West-bebe in 2021 - coronal incision scar
-    * [7 weeks post op FFS update](https://www.reddit.com/r/Transgender_Surgeries/comments/ona0f9/7_weeks_post_op_ffs_update/) by West-bebe in 2021
-    * [Bald patches after FFS?](https://www.reddit.com/r/Transgender_Surgeries/comments/oaaepc/bald_patches_after_ffs/) by West-bebe in 2021
-    * [First time putting on makeup after FFS / 4 weeks post op](https://www.reddit.com/r/Transgender_Surgeries/comments/o8uk4o/first_time_putting_on_makeup_after_ffs_4_weeks/) by West-bebe in 2021
-    * [Got FFS ~4 weeks ago - will it get better?](https://www.reddit.com/r/Transgender_Surgeries/comments/o8qbt8/got_ffs_4_weeks_ago_will_it_get_better/) by West-bebe in 2021
+* [FFS Dr. Richard Fakin I am not happy](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10xyyn6/ffs_dr_richard_fakin_i_am_not_happy/content.html) by Objective_Magician38 in 2023
+    * [my first FFS experience at dr.fakin switzerland](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10xhtt0/my_first_ffs_experience_at_drfakin_switzerland/content.html) by Objective_Magician38 in 2023 - *"Warning!!! ... The visible facial feminization is so minimal to not visible at all. The operation has been a complete failure. I don't understand why dr.Fakin suggested this operation to me. Or he just did it too badly. The main thing was that he could operate and cash in?! What is visible is a 2 cm fat scar all over the head from ear to ear. 14,000 francs hair transplant partly simply destroyed. The wide scar cannot really be covered with my hair. A thick, fat, palpable scar in the mouth, which always leaves food in it. The follow-up care was also miserable. No information was given..."*
+* [FFS with Richard Fakin](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yp0y73/ffs_with_richard_fakin/content.html) by snub242 in 2022
+* [Spreading awareness about FFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qb5wnl/spreading_awareness_about_ffs/content.html) by West-bebe in 2021 - coronal incision scar
+    * [7 weeks post op FFS update](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ona0f9/7_weeks_post_op_ffs_update/content.html) by West-bebe in 2021
+    * [Bald patches after FFS?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/oaaepc/bald_patches_after_ffs/content.html) by West-bebe in 2021
+    * [First time putting on makeup after FFS / 4 weeks post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/o8uk4o/first_time_putting_on_makeup_after_ffs_4_weeks/content.html) by West-bebe in 2021
+    * [Got FFS ~4 weeks ago - will it get better?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/o8qbt8/got_ffs_4_weeks_ago_will_it_get_better/content.html) by West-bebe in 2021
 
 <br />
 
@@ -1252,7 +1252,7 @@ Surgeons sites
 
 reddit
 
-* [8 weeks post op colo-vaginoplasty with minor dehisence. Getting 22cm depth. Still a little swollen due to the dehisence complication, but very happy with the result. By IM GENDER Clinic, Ivan Manero, Barcelona.](https://www.reddit.com/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/) by Potential_Total_257 in 2022
+* [8 weeks post op colo-vaginoplasty with minor dehisence. Getting 22cm depth. Still a little swollen due to the dehisence complication, but very happy with the result. By IM GENDER Clinic, Ivan Manero, Barcelona.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/s7prob/8_weeks_post_op_colovaginoplasty_with_minor/content.html) by Potential_Total_257 in 2022
     * ["How long does this penis enlargement take?"](https://www.reddit.com/r/asktransgender/comments/rpz3i7/how_long_does_this_penis_enlargement_take/) by Potential_Total_257 in 2021
 
 <br />
@@ -1334,7 +1334,7 @@ Surgeons Sites
 reddit
 
 * [Keith Altman retired from FFS](https://www.reddit.com/r/transgenderUK/comments/11775wj/keith_altman_retired_from_ffs/) by  princessnubia in 2023
-* [How much would Type 3 forehead reconstruction be at London Transgender Clinic (Inglefield I assume)](https://www.reddit.com/r/Transgender_Surgeries/comments/ld717u/how_much_would_type_3_forehead_reconstruction_be/) by siya_1 in 2021
+* [How much would Type 3 forehead reconstruction be at London Transgender Clinic (Inglefield I assume)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ld717u/how_much_would_type_3_forehead_reconstruction_be/content.html) by siya_1 in 2021
 * [Facial Feminisation in the UK](https://www.reddit.com/r/transgenderUK/comments/f0zn87/facial_feminisation_in_the_uk/) by CieraH96 in 2020
 * [Keith Altman no longer doing FFS?](https://www.reddit.com/r/transgenderUK/comments/ck7jnn/keith_altman_no_longer_doing_ffs/) by girlyboyKal in 2019
 
@@ -1429,7 +1429,7 @@ Surgeons sites
 
 reddit
 
-* [Survey of Satisfaction from Facial Feminisation Surgery (SSFFS)](https://www.reddit.com/r/Transgender_Surgeries/comments/z9a8tn/survey_of_satisfaction_from_facial_feminisation/) by RrobynneUK in 2022 - *"There's a problem in the facial feminisation industry when its leading surgeon in the UK, Chris Inglefield, can permanently blind a young woman, continue to book and perform operations while the relevant authorities are aware of this, lie to regulators that he had reported the incident to the CQC when he hadn't yet & be investigated for it ... and his prospective patient base (us!) not know any of it until 4 years later"*
+* [Survey of Satisfaction from Facial Feminisation Surgery (SSFFS)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/z9a8tn/survey_of_satisfaction_from_facial_feminisation/content.html) by RrobynneUK in 2022 - *"There's a problem in the facial feminisation industry when its leading surgeon in the UK, Chris Inglefield, can permanently blind a young woman, continue to book and perform operations while the relevant authorities are aware of this, lie to regulators that he had reported the incident to the CQC when he hadn't yet & be investigated for it ... and his prospective patient base (us!) not know any of it until 4 years later"*
 * [I had FFS with Dr. Inglefield in London Uk ask me questions would love to help out !](https://www.reddit.com/r/transgenderUK/comments/ut1hfv/i_had_ffs_with_dr_inglefield_in_london_uk_ask_me/) by National_Habit_1618 in 2022
 * reply to [FFS questions](https://www.reddit.com/r/transgenderUK/comments/svipyr/ffs_questions/hxg6dqd/) by BattleBnnyRiven in 2022
 * [FFS - Christopher Inglefield](https://www.reddit.com/r/transgenderUK/comments/f7fmha/ffs_christopher_inglefield/) by CieraH96 in 2020
@@ -1477,10 +1477,10 @@ Surgeons site
 reddit
 
 * [FFS with Mr Maini 2 weeks post op, ask me anything](https://www.reddit.com/r/transgenderUK/comments/q9bk1c/ffs_with_mr_maini_2_weeks_post_op_ask_me_anything/) by Vivid_Pie_5738 in 2021
-* [Just booked a consultation with Nikhil Maini for FFS - worried!](https://www.reddit.com/r/Transgender_Surgeries/comments/lm6yfa/just_booked_a_consultation_with_nikhil_maini_for/) by saia_1 in 2021
-    * [How much would Type 3 forehead reconstruction be at London Transgender Clinic (Inglefield I assume)](https://www.reddit.com/r/Transgender_Surgeries/comments/ld717u/how_much_would_type_3_forehead_reconstruction_be/) by siya_1 in 2021
+* [Just booked a consultation with Nikhil Maini for FFS - worried!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lm6yfa/just_booked_a_consultation_with_nikhil_maini_for/content.html) by saia_1 in 2021
+    * [How much would Type 3 forehead reconstruction be at London Transgender Clinic (Inglefield I assume)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ld717u/how_much_would_type_3_forehead_reconstruction_be/content.html) by siya_1 in 2021
 * [Dr NIKHIL MAINI anyone know or had FFS with him. (Brighton, UK)](https://www.reddit.com/r/transgenderUK/comments/kplpif/dr_nikhil_maini_anyone_know_or_had_ffs_with_him/) by Mali_justme in 2021
-    * [Any one heard of Nikhil Maini?](https://www.reddit.com/r/Transgender_Surgeries/comments/evllfm/any_one_heard_of_nikhil_maini/) by Mali_justme in 2020
+    * [Any one heard of Nikhil Maini?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/evllfm/any_one_heard_of_nikhil_maini/content.html) by Mali_justme in 2020
 * [Anyone have any experience with Nikhil Maini or Nuffield Health in Brighton for FFS?](https://www.reddit.com/r/transgenderUK/comments/itw4mt/anyone_have_any_experience_with_nikhil_maini_or/) by KatieJaneXOXO in 2021
 
 The Guardian
@@ -1532,7 +1532,7 @@ Surgeons sites
 
 reddit
 
-* [Has anyone here had (or know anyone who has had) FFS with Dr Halsnad in Glasgow?](https://www.reddit.com/r/Transgender_Surgeries/comments/u4j69i/has_anyone_here_had_or_know_anyone_who_has_had/) by EmilySooty in 2022
+* [Has anyone here had (or know anyone who has had) FFS with Dr Halsnad in Glasgow?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/u4j69i/has_anyone_here_had_or_know_anyone_who_has_had/content.html) by EmilySooty in 2022
 * reply to [Has anybody been to/heard of Dr Moorthy Halsnad?](https://www.reddit.com/r/transgenderUK/comments/kw5wyl/has_anybody_been_toheard_of_dr_moorthy_halsnad/hj7f40m/) by Lemily0156 in 2021 - *"In September 2018 , he performed my tracheal shave surgery. Prior to the surgery, he stated that he had done it before and was pretty confident; he really put me at ease actually... After the surgery, my nurse informed me he would not be doing any post-surgery examination with me and they were a bit puzzled as to where he was. A couple days passed and I noticed I still had a very prominent bump under my dressings, but I was informed that swelling was to be expected so I ignored this. I was rushed to out of hours who informed me what had happened was Mr Halsnad had stitched the muscle to the outer tissue when closing the two incisions and the muscle pulling down (when yawning) had torn the inner incision open again. I developed a haematoma and was advised to see Mr Halsnad again for treatment. Despite numerous attempts to see him, he was never available - including the appointment he agreed to make for me, I was made to consult his colleague instead who tried to convince me my Adam's apple was just part of the swelling... I eventually got an appointment with Mr Halsnad where he admitted he had not performed a tracheal shave, he had just tried to shave some of the Adam's apple but did not know how to remove it due to inexperience. He was unable to provide any evidence he had performed the procedure before. It is now three years later, I still have my Adam's apple (exactly the same size and prominence as before) in the addition to scar tissue... Please avoid this surgeon if you can."*
 * [Dr Halsnad Glasgow FFS Surgeon](https://www.reddit.com/r/transgenderUK/comments/5d90yz/dr_halsnad_glasgow_ffs_surgeon/) by KateGlass around 2017
 
@@ -1548,7 +1548,7 @@ Surgeons sites
 
 reddit
 
-* [Lip lift in the UK at signature clinic. Price was under £2500. More ffs next year hopefully, still swollen but can’t believe the results so far! (Also 6 months hrt between pictures)](https://www.reddit.com/r/Transgender_Surgeries/comments/xbanm8/lip_lift_in_the_uk_at_signature_clinic_price_was/) by Alexis-1993 in 2022
+* [Lip lift in the UK at signature clinic. Price was under £2500. More ffs next year hopefully, still swollen but can’t believe the results so far! (Also 6 months hrt between pictures)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xbanm8/lip_lift_in_the_uk_at_signature_clinic_price_was/content.html) by Alexis-1993 in 2022
 
 Other
 
@@ -1584,7 +1584,7 @@ Surgeons sites
 
 reddit
 
-* [New FFS offering in the UK - Dr Spyridon Vlachos / Centre for Surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/1ezzrox/new_ffs_offering_in_the_uk_dr_spyridon_vlachos/) by  MainCommunication802 in 2024
+* [New FFS offering in the UK - Dr Spyridon Vlachos / Centre for Surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ezzrox/new_ffs_offering_in_the_uk_dr_spyridon_vlachos/content.html) by  MainCommunication802 in 2024
 
 ---
 

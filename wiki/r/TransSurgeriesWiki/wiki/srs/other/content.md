@@ -77,10 +77,10 @@ Other
 
 reddit
 
-* [6 months after surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/ma5kqd/6_months_after_surgery/) by melo195 in 2021
-* [4 months after surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/l1vzge/4_months_after_surgery/) by melo195 in 2021
-* [It this hole down there normal!?](https://www.reddit.com/r/Transgender_Surgeries/comments/j81io2/it_this_hole_down_there_normal/) by melo195 in 2020
-* [I just had my surgery five days ago, does anyone know how i can cure this bulge?](https://www.reddit.com/r/Transgender_Surgeries/comments/j6tc0a/i_just_had_my_surgery_five_days_ago_does_anyone/) by melo195 in 2020
+* [6 months after surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ma5kqd/6_months_after_surgery/content.html) by melo195 in 2021
+* [4 months after surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l1vzge/4_months_after_surgery/content.html) by melo195 in 2021
+* [It this hole down there normal!?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/j81io2/it_this_hole_down_there_normal/content.html) by melo195 in 2020
+* [I just had my surgery five days ago, does anyone know how i can cure this bulge?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/j6tc0a/i_just_had_my_surgery_five_days_ago_does_anyone/content.html) by melo195 in 2020
 
 <br />
 
@@ -177,9 +177,9 @@ Surgeons site
 
 reddit
 
-* [24 days post SRS penile inversion method. Planning for a revision surgery. Also need help about skin development.](https://www.reddit.com/r/Transgender_Surgeries/comments/18aoqva/24_days_post_srs_penile_inversion_method_planning/) by grs_throwaway
-* [So I had my Penile Inversion (PI) on 13th December Monday from Olmec Clinic India Today is my 2nd day, I was on liquid diets & was said not to move my legs at any cost, first day was fine but today morning after waking up when the nurses came to change the bedsheets they saw huge blood stainstthat](https://www.reddit.com/r/Transgender_Surgeries/comments/rgtefa/so_i_had_my_penile_inversion_pi_on_13th_december/) by  veronica_bhowmick in 2021
-* [Before orchiectomy mtf](https://www.reddit.com/r/Transgender_Surgeries/comments/f8mpnx/before_orchiectomy_mtf/) by Transsaranya in 2020
+* [24 days post SRS penile inversion method. Planning for a revision surgery. Also need help about skin development.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18aoqva/24_days_post_srs_penile_inversion_method_planning/content.html) by grs_throwaway
+* [So I had my Penile Inversion (PI) on 13th December Monday from Olmec Clinic India Today is my 2nd day, I was on liquid diets & was said not to move my legs at any cost, first day was fine but today morning after waking up when the nurses came to change the bedsheets they saw huge blood stainstthat](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rgtefa/so_i_had_my_penile_inversion_pi_on_13th_december/content.html) by  veronica_bhowmick in 2021
+* [Before orchiectomy mtf](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/f8mpnx/before_orchiectomy_mtf/content.html) by Transsaranya in 2020
 
 realself
 
@@ -194,15 +194,15 @@ transbucket
 
 reddit
 
-* [Parag telang](https://old.reddit.com/r/Transgender_Surgeries/comments/179ke4x/parag_telang/) by Amy_JUSH_Winehouse
+* [Parag telang](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/179ke4x/parag_telang/content.html) by Amy_JUSH_Winehouse
 in 2023
-* reply to [Thinking about Dr. Kamol for SRS revision, any body else had experience with him?](https://www.reddit.com/r/Transgender_Surgeries/comments/jtrn52/thinking_about_dr_kamol_for_srs_revision_any_body/j89c747/) by MiaRiklel in 2023 - *"Kaushik wanted me to pay him again to revise the butchering he carried out on me in 2019. Im now waiting for a 2nd revision surgery to try to correct the mess Kaushik did to me."*
-* [Ridiculous quote from Dr Chettawut for revision surgery.](https://www.reddit.com/r/Transgender_Surgeries/comments/uf70yv/ridiculous_quote_from_dr_chettawut_for_revision/) by MialelM in 2022
+* reply to [Thinking about Dr. Kamol for SRS revision, any body else had experience with him?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jtrn52/thinking_about_dr_kamol_for_srs_revision_any_body/j89c747/content.html) by MiaRiklel in 2023 - *"Kaushik wanted me to pay him again to revise the butchering he carried out on me in 2019. Im now waiting for a 2nd revision surgery to try to correct the mess Kaushik did to me."*
+* [Ridiculous quote from Dr Chettawut for revision surgery.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uf70yv/ridiculous_quote_from_dr_chettawut_for_revision/content.html) by MialelM in 2022
 * [Stunning results of Penile Inversion at Olmec by Dr. Narendra Kaushik](https://www.reddit.com/r/MtF/comments/rj6gxt/stunning_results_of_penile_inversion_at_olmec_by) in December 2021 - this is almost certainly a fake positive review
 * [Astonishing results of Sigmoid Colon SRS at Olmec by Dr. Narendra Kaushik](https://www.reddit.com/r/MtF/comments/rj5uhm/astonishing_results_of_sigmoid_colon_srs_at_olmec) in December 2021 - this is almost certainly a fake positive review
 * [Amazing Breast Augmentation at Olmec by Dr. Narendra Kaushik](https://www.reddit.com/r/asktransgender/comments/rhn1ni/amazing_breast_augmentation_at_olmec_by_dr/) in December 2021 -  this is almost certainly a fake positive review
 * [5 days post op sigma lead colon vaginoplasty SRS at Olmec in India! I am happy beyond words!!!](https://www.reddit.com/r/TransLater/comments/m66o0o/5_days_post_op_sigma_lead_colon_vaginoplasty_srs/) by  StillAliveSoFar in 2021
-* [almost 3 month sigmoid colon vaginoplasty update](https://www.reddit.com/r/Transgender_Surgeries/comments/d5vam4/almost_3_month_sigmoid_colon_vaginoplasty_update/) by WarriorFighter19 in 2019
+* [almost 3 month sigmoid colon vaginoplasty update](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/d5vam4/almost_3_month_sigmoid_colon_vaginoplasty_update/content.html) by WarriorFighter19 in 2019
 * [sigmoid colon srs with olmec + tracheal shave + vocal feminization surgery AMA](https://www.reddit.com/r/asktransgender/comments/cfij18/sigmoid_colon_srs_with_olmec_tracheal_shave_vocal/) by WarriorFighter19 in 2019
 * [My TERRIBLE FFS Experience at Olmec, Delhi](https://www.reddit.com/r/asktransgender/comments/787mxp/my_terrible_ffs_experience_at_olmec_delhi/) in 2017, and see followup post [My WONDERFUL FFS experience at PriyaMed](https://www.reddit.com/r/transgenderUK/comments/9t6v6s/my_wonderful_ffs_experience_at_priyamed/) in 2018
 
@@ -261,10 +261,10 @@ Surgeons sites
 
 reddit
 
-* [Its 1 month 5 days post op of my sigmoid colon SRS. Currently I am at 25 mm diameter of a dilator. I am worried about these small lumps near to the stiches, does anyone know how to heal this lumps and how to widen my vaginal canal?? Also wanted to know is my vagina heals fine and how it looks??](https://www.reddit.com/r/Transgender_Surgeries/comments/1451xhj/its_1_month_5_days_post_op_of_my_sigmoid_colon/) by Prisha422000 in 2023
-    * [25 days post of sigmoid colon vaginoplasty, Currently I am using 2 cm diameter dilater and when I try to use 2.5 cm diameter dilator, I am having a lot of pain, what should I do and how can I widen my vaginal canel??](https://www.reddit.com/r/Transgender_Surgeries/comments/13vjfd1/25_days_post_of_sigmoid_colon_vaginoplasty/) by Prisha422000 in 2023
-    * [I had my SRS 14 days back and swelling is still there, Can someone tell me how to heal this qucikly, i had my colon SRS , it really hurts when i do dilation????](https://www.reddit.com/r/Transgender_Surgeries/comments/13jxd01/i_had_my_srs_14_days_back_and_swelling_is_still/) by  Prisha422000 in 2023
-* [70 days post op, excess skin and red tissue protusion?](https://www.reddit.com/r/Transgender_Surgeries/comments/13pyobe/70_days_post_op_excess_skin_and_red_tissue/) by NoPerspective7393 in 2023
+* [Its 1 month 5 days post op of my sigmoid colon SRS. Currently I am at 25 mm diameter of a dilator. I am worried about these small lumps near to the stiches, does anyone know how to heal this lumps and how to widen my vaginal canal?? Also wanted to know is my vagina heals fine and how it looks??](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1451xhj/its_1_month_5_days_post_op_of_my_sigmoid_colon/content.html) by Prisha422000 in 2023
+    * [25 days post of sigmoid colon vaginoplasty, Currently I am using 2 cm diameter dilater and when I try to use 2.5 cm diameter dilator, I am having a lot of pain, what should I do and how can I widen my vaginal canel??](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13vjfd1/25_days_post_of_sigmoid_colon_vaginoplasty/content.html) by Prisha422000 in 2023
+    * [I had my SRS 14 days back and swelling is still there, Can someone tell me how to heal this qucikly, i had my colon SRS , it really hurts when i do dilation????](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13jxd01/i_had_my_srs_14_days_back_and_swelling_is_still/content.html) by  Prisha422000 in 2023
+* [70 days post op, excess skin and red tissue protusion?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13pyobe/70_days_post_op_excess_skin_and_red_tissue/content.html) by NoPerspective7393 in 2023
 
 **Non-photo links**
 
@@ -391,10 +391,10 @@ Sites
 
 reddit
 
-* [Pain and gain](https://www.reddit.com/r/Transgender_Surgeries/comments/slrm02/pain_and_gain/) by ZzpluralzA in 2022
-* [Pryia med India](https://www.reddit.com/r/Transgender_Surgeries/comments/o2zfql/pryia_med_india/) by MentalBeach8050 in 2021
-* [PriyaMed reviews and results](https://www.reddit.com/r/Transgender_Surgeries/comments/iaj4dq/priyamed_reviews_and_results/) by Amelia_Submariner in 2020
-* [PriyaMed Peritoneal GRS](https://www.reddit.com/r/Transgender_Surgeries/comments/doa3om/priyamed_peritoneal_grs/) by MeZooey in 2019
+* [Pain and gain](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/slrm02/pain_and_gain/content.html) by ZzpluralzA in 2022
+* [Pryia med India](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/o2zfql/pryia_med_india/content.html) by MentalBeach8050 in 2021
+* [PriyaMed reviews and results](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/iaj4dq/priyamed_reviews_and_results/content.html) by Amelia_Submariner in 2020
+* [PriyaMed Peritoneal GRS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/doa3om/priyamed_peritoneal_grs/content.html) by MeZooey in 2019
 * [My WONDERFUL FFS experience at PriyaMed](https://www.reddit.com/r/transgenderUK/comments/9t6v6s/my_wonderful_ffs_experience_at_priyamed/)
 
 YouTube
@@ -493,8 +493,8 @@ Review sites
 
 reddit
 
-* [My Artery is severed and I almost died.](https://www.reddit.com/r/Transgender_Surgeries/comments/1eeirxo/my_artery_is_severed_and_i_almost_died/) by chotikameenakshi in 2024 - *"I was supposed to get a jaw feminization and in one of those procedures was mandable shaving, according to my doctor, my Artery got in the way of his mechanical saw and it got ruptured, i lost a lot of blood to the point i was close to death... when I woke up I was in so much pain I was begging for death. Plus I was also begging for that blood to get into me as I stared at that blood transfusion bag, breathing and moving me eyes to look at things was a pain, it was like weakness during fever but multiplied 1000x times. I was so weak I did not want to breathe, I just wanted to give up. I've got the most painful 4 weeks of my life, the swelling was as big as a tennis ball on my left neck. I couldn't open my mouth fully, couldn't eat, couldn't drink, couldn't sleep, couldn't swallow, couldn't turn my head. The dissolvable stitches inside my cheeks keeps leaking out the rotten blood and all of that pungent pus and it stenches to the point i gag. Im unable to push out all of the pus and it looks like hematoma situation there. Ice packs or hot water packs or painkillers won't ever heal me, I'm so frustrated to the point i wished i died in that surgery... Please stay away from Dr Umang Kothari in Mumbai, I got the surgery done in India, at the gender care clinic/hair and shape clinic."*
-* [I had PPV srs 2.5 weeks ago from a local surgeon in south Asia, how is she looking by weatern surgeon standards? (21, 1.5 yr HRT)](https://www.reddit.com/r/Transgender_Surgeries/comments/1dvb182/i_had_ppv_srs_25_weeks_ago_from_a_local_surgeon/) by Realistic_Curve2005 in 2024
+* [My Artery is severed and I almost died.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1eeirxo/my_artery_is_severed_and_i_almost_died/content.html) by chotikameenakshi in 2024 - *"I was supposed to get a jaw feminization and in one of those procedures was mandable shaving, according to my doctor, my Artery got in the way of his mechanical saw and it got ruptured, i lost a lot of blood to the point i was close to death... when I woke up I was in so much pain I was begging for death. Plus I was also begging for that blood to get into me as I stared at that blood transfusion bag, breathing and moving me eyes to look at things was a pain, it was like weakness during fever but multiplied 1000x times. I was so weak I did not want to breathe, I just wanted to give up. I've got the most painful 4 weeks of my life, the swelling was as big as a tennis ball on my left neck. I couldn't open my mouth fully, couldn't eat, couldn't drink, couldn't sleep, couldn't swallow, couldn't turn my head. The dissolvable stitches inside my cheeks keeps leaking out the rotten blood and all of that pungent pus and it stenches to the point i gag. Im unable to push out all of the pus and it looks like hematoma situation there. Ice packs or hot water packs or painkillers won't ever heal me, I'm so frustrated to the point i wished i died in that surgery... Please stay away from Dr Umang Kothari in Mumbai, I got the surgery done in India, at the gender care clinic/hair and shape clinic."*
+* [I had PPV srs 2.5 weeks ago from a local surgeon in south Asia, how is she looking by weatern surgeon standards? (21, 1.5 yr HRT)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1dvb182/i_had_ppv_srs_25_weeks_ago_from_a_local_surgeon/content.html) by Realistic_Curve2005 in 2024
 
 <br />
 
@@ -518,7 +518,7 @@ Quartz
 
 reddit
 
-* [what should I prepare for my bottom surgary?](https://www.reddit.com/r/Transgender_Surgeries/comments/1ddldlx/what_should_i_prepare_for_my_bottom_surgary/) by enby-neema in 2024
+* [what should I prepare for my bottom surgary?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1ddldlx/what_should_i_prepare_for_my_bottom_surgary/content.html) by enby-neema in 2024
 * [I live in Islamic Republic as Trans woman](https://www.reddit.com/r/asktransgender/comments/ryv6zv/i_live_in_islamic_republic_as_trans_woman/) by PinkieEllie in 2022
 
 YouTube
@@ -582,8 +582,8 @@ Links
 
 reddit
 
-* [*Nsfw* 9 months post op SRS](https://www.reddit.com/r/Transgender_Surgeries/comments/qvjoyx/nsfw_9_months_post_op_srs/) by MinlilaFriend in 2021
-* [1.5 month post op SRS. Is it too bad? I personally think im botched.](https://www.reddit.com/r/Transgender_Surgeries/comments/jytkke/15_month_post_op_srs_is_it_too_bad_i_personally/) by Nosferatugirl in 2020
+* [*Nsfw* 9 months post op SRS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qvjoyx/nsfw_9_months_post_op_srs/content.html) by MinlilaFriend in 2021
+* [1.5 month post op SRS. Is it too bad? I personally think im botched.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jytkke/15_month_post_op_srs_is_it_too_bad_i_personally/content.html) by Nosferatugirl in 2020
 
 **Non-photo links**
 
@@ -632,9 +632,9 @@ Korean trans sites -  google chrome can translate these
 
 reddit
 
-* [Total failure Bottom Surgery..](https://www.reddit.com/r/Transgender_Surgeries/comments/1d9lh9g/total_failure_bottom_surgery/) by  uiooniiin in 2024 - *"I had surgery in Korea 23. as I am Korean girl And seeing disasters on my result. Every part of genital tissue went converted. My clits locates under the Minor Labia and.. there is no tissues that can cover Vaginal opening. The Vaginal lining curves from R to L , Yes, I feel like dying"*
-* [My MtF SRS journey - 5 weeks post-op, checking in](https://www.reddit.com/r/Transgender_Surgeries/comments/wp1cmm/my_mtf_srs_journey_5_weeks_postop_checking_in/) by lemon__grass in 2022
-* [Korean SRS Surgeons ](https://www.reddit.com/r/Transgender_Surgeries/comments/b6vkq5/korean_srs_surgeons/) by UsedWeapons in 2019
+* [Total failure Bottom Surgery..](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1d9lh9g/total_failure_bottom_surgery/content.html) by  uiooniiin in 2024 - *"I had surgery in Korea 23. as I am Korean girl And seeing disasters on my result. Every part of genital tissue went converted. My clits locates under the Minor Labia and.. there is no tissues that can cover Vaginal opening. The Vaginal lining curves from R to L , Yes, I feel like dying"*
+* [My MtF SRS journey - 5 weeks post-op, checking in](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wp1cmm/my_mtf_srs_journey_5_weeks_postop_checking_in/content.html) by lemon__grass in 2022
+* [Korean SRS Surgeons ](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/b6vkq5/korean_srs_surgeons/content.html) by UsedWeapons in 2019
 
 <br />
 
@@ -719,17 +719,17 @@ Works with  Carlos Mendez who does FFS.
 
 reddit
 
-* [ALMOST 1 MONTH POST REVISION DR. CARLOS GUERRA](https://www.reddit.com/r/Transgender_Surgeries/comments/196gavg/almost_1_month_post_revision_dr_carlos_guerra/) by GuardiolaDI in 2024
-    * [POST REVISION SURGERY DR CARLOS GUERRA MEXICO](https://www.reddit.com/r/Transgender_Surgeries/comments/18u82ry/post_revision_surgery_dr_carlos_guerra_mexico/) by GuardiolaDI in 2023 - *"In the 2016 I get my srs with penile inversion surgery in Guadalajara Mexico with Dr. Aguilar ... it was a disaster, no asthetical aparence and no depth... In the 2018 I traveled to thailand for my fisrt revision with Suporn Team and and the Dr. offerme a skin detph and best outcomes in labia and a clitora. But it was a mess I have a dehicence in the skin and after this my dilatations were very painfull. This year I meet to Dr. Carlos Guerra in Monterrey Mexico so I decided give me a last chance, yesterday was my last day in the hospital, and I feel very very happy with this process. I got peritoneal revision plus labia majora and minora reconstruction. With this dilatation I dind feel pain and was very very easy for me."*
-* [Help! How do I fix this?](https://www.reddit.com/r/Transgender_Surgeries/comments/18e7e78/help_how_do_i_fix_this/) by happy_sheeep in 2023
-    * [Anyone fix these problems from Zero Depth results?](https://www.reddit.com/r/Transgender_Surgeries/comments/18c7rbf/anyone_fix_these_problems_from_zero_depth_results/) by happy_sheeep in 2023
-    * [Review of Mexico Transgender Center FFS rated 7/10 and Zero Depth SRS 2/10 and Yuni’s recovery house 8/10](https://www.reddit.com/r/Transgender_Surgeries/comments/17pz8n5/review_of_mexico_transgender_center_ffs_rated_710/) by happy_sheeep in 2023
-* [Day 3-44](https://www.reddit.com/r/Transgender_Surgeries/comments/zulqej/day_344/) by FreyaGilbert in 2022
-    * [Day 22 (Review to come in separate post)](https://www.reddit.com/r/Transgender_Surgeries/comments/zaxwhf/day_22_review_to_come_in_separate_post/) by FreyaGilbert in 2022, surgeon mentioned [here](https://www.reddit.com/r/Transgender_Surgeries/comments/yzjdux/is_it_worth_going_to_thailand_for_minimal_depth/ix1bcsw/)
-* [Long Post - Details of Cosmetic SRS (Zero Depth) with Dr. Ivan Aguilar in Guadalajara Mexico.](https://www.reddit.com/r/Transgender_Surgeries/comments/xztlve/long_post_details_of_cosmetic_srs_zero_depth_with/) by Erica_fox in 2022
-    * [15 days post-op - Cosmetic SRS (Zero Depth) with Dr. Ivan Aguilar](https://www.reddit.com/r/Transgender_Surgeries/comments/xzt1a3/15_days_postop_cosmetic_srs_zero_depth_with_dr/) by Erica_fox in 2022
-    * [Day 10 - Post "Cosmetic SRS" with Dr. Aguilar in Guadalajara](https://www.reddit.com/r/Transgender_Surgeries/comments/xt1z1w/day_10_post_cosmetic_srs_with_dr_aguilar_in/) by Erica_fox in 2022
-    * [NSFW: 5 days postopb"cosmetic SRS" with Dr. Ivan Aguilar](https://www.reddit.com/r/Transgender_Surgeries/comments/xor9in/nsfw_5_days_postopbcosmetic_srs_with_dr_ivan/) by Erica_fox in 2022
+* [ALMOST 1 MONTH POST REVISION DR. CARLOS GUERRA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/196gavg/almost_1_month_post_revision_dr_carlos_guerra/content.html) by GuardiolaDI in 2024
+    * [POST REVISION SURGERY DR CARLOS GUERRA MEXICO](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18u82ry/post_revision_surgery_dr_carlos_guerra_mexico/content.html) by GuardiolaDI in 2023 - *"In the 2016 I get my srs with penile inversion surgery in Guadalajara Mexico with Dr. Aguilar ... it was a disaster, no asthetical aparence and no depth... In the 2018 I traveled to thailand for my fisrt revision with Suporn Team and and the Dr. offerme a skin detph and best outcomes in labia and a clitora. But it was a mess I have a dehicence in the skin and after this my dilatations were very painfull. This year I meet to Dr. Carlos Guerra in Monterrey Mexico so I decided give me a last chance, yesterday was my last day in the hospital, and I feel very very happy with this process. I got peritoneal revision plus labia majora and minora reconstruction. With this dilatation I dind feel pain and was very very easy for me."*
+* [Help! How do I fix this?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18e7e78/help_how_do_i_fix_this/content.html) by happy_sheeep in 2023
+    * [Anyone fix these problems from Zero Depth results?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18c7rbf/anyone_fix_these_problems_from_zero_depth_results/content.html) by happy_sheeep in 2023
+    * [Review of Mexico Transgender Center FFS rated 7/10 and Zero Depth SRS 2/10 and Yuni’s recovery house 8/10](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/17pz8n5/review_of_mexico_transgender_center_ffs_rated_710/content.html) by happy_sheeep in 2023
+* [Day 3-44](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zulqej/day_344/content.html) by FreyaGilbert in 2022
+    * [Day 22 (Review to come in separate post)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zaxwhf/day_22_review_to_come_in_separate_post/content.html) by FreyaGilbert in 2022, surgeon mentioned [here](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/yzjdux/is_it_worth_going_to_thailand_for_minimal_depth/ix1bcsw/content.html)
+* [Long Post - Details of Cosmetic SRS (Zero Depth) with Dr. Ivan Aguilar in Guadalajara Mexico.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xztlve/long_post_details_of_cosmetic_srs_zero_depth_with/content.html) by Erica_fox in 2022
+    * [15 days post-op - Cosmetic SRS (Zero Depth) with Dr. Ivan Aguilar](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xzt1a3/15_days_postop_cosmetic_srs_zero_depth_with_dr/content.html) by Erica_fox in 2022
+    * [Day 10 - Post "Cosmetic SRS" with Dr. Aguilar in Guadalajara](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xt1z1w/day_10_post_cosmetic_srs_with_dr_aguilar_in/content.html) by Erica_fox in 2022
+    * [NSFW: 5 days postopb"cosmetic SRS" with Dr. Ivan Aguilar](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xor9in/nsfw_5_days_postopbcosmetic_srs_with_dr_ivan/content.html) by Erica_fox in 2022
 
 realself
 
@@ -742,9 +742,9 @@ realself
 reddit
 
 * reply to [my gf is having orchi today. what should I be aware of?](https://www.reddit.com/r/orchiectomy/comments/zwdnz5/my_gf_is_having_orchi_today_what_should_i_be/j1ujexe/) by Sailorboi2000 in 2022 - *" I had my orchi and scrotectomy by Dr Aguilar in Tijuana mid November and all went well . I am not transitioning I just didn’t like them."*
-* reply to [Long perineum :(](https://www.reddit.com/r/Transgender_Surgeries/comments/zh7sws/long_perineum/izpjvfv/) by Initial_Lunch_9115 in 2022 - *"I am 3 months post op and my perineum is also about 8-9 cm long... Having the longer perineum has not interrupted any other function or the aesthetics of my vulva/vagina."*
-* [Cosmetic SRS with Dr. Ivan Aguilar in Mexico, 9 days post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/pi6wdy/cosmetic_srs_with_dr_ivan_aguilar_in_mexico_9/) by MotherMychaela in 2021
-* [What is the EASIEST way to get an orchiectomy?](https://www.reddit.com/r/Transgender_Surgeries/comments/nza45z/what_is_the_easiest_way_to_get_an_orchiectomy/) by D0esANyoneREadTHese in 2021
+* reply to [Long perineum :(](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zh7sws/long_perineum/izpjvfv/content.html) by Initial_Lunch_9115 in 2022 - *"I am 3 months post op and my perineum is also about 8-9 cm long... Having the longer perineum has not interrupted any other function or the aesthetics of my vulva/vagina."*
+* [Cosmetic SRS with Dr. Ivan Aguilar in Mexico, 9 days post-op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/pi6wdy/cosmetic_srs_with_dr_ivan_aguilar_in_mexico_9/content.html) by MotherMychaela in 2021
+* [What is the EASIEST way to get an orchiectomy?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nza45z/what_is_the_easiest_way_to_get_an_orchiectomy/content.html) by D0esANyoneREadTHese in 2021
 * [from Mexico, and i confused (GRS, SRS)](https://www.reddit.com/r/asktransgender/comments/el8lp8/from_mexico_and_i_confused_grs_srs/) by Fantastic-Secretary in 2020
 * [Mexico?](https://www.reddit.com/r/M2E/comments/cp3xa2/mexico/) by ballboy83 in 2019
 * [Castration](https://www.reddit.com/r/castration/comments/e84gcw/castration/) by SohRadon in 2019
@@ -788,8 +788,8 @@ Surgeons sites
 
 reddit
 
-* [What is the EASIEST way to get an orchiectomy?](https://www.reddit.com/r/Transgender_Surgeries/comments/nza45z/what_is_the_easiest_way_to_get_an_orchiectomy/) by D0esANyoneREadTHese in 2021
-* reply to [Benefits of an orchiectomy](https://www.reddit.com/r/Transgender_Surgeries/comments/jly6fu/benefits_of_an_orchiectomy/gasquyk/) by PricklyMuffin92 in 2020
+* [What is the EASIEST way to get an orchiectomy?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nza45z/what_is_the_easiest_way_to_get_an_orchiectomy/content.html) by D0esANyoneREadTHese in 2021
+* reply to [Benefits of an orchiectomy](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jly6fu/benefits_of_an_orchiectomy/gasquyk/content.html) by PricklyMuffin92 in 2020
 
 <br />
 
@@ -810,7 +810,7 @@ Surgeons sites
 
 reddit
 
-* [Zero-depth vaginoplasty/vulvoplasty with Dr. Javier Nares. Six weeks post-op.](https://www.reddit.com/r/Transgender_Surgeries/comments/lewr3y/zerodepth_vaginoplastyvulvoplasty_with_dr_javier/) by kiracrates in 2021
+* [Zero-depth vaginoplasty/vulvoplasty with Dr. Javier Nares. Six weeks post-op.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lewr3y/zerodepth_vaginoplastyvulvoplasty_with_dr_javier/content.html) by kiracrates in 2021
 
 <br />
 
@@ -824,7 +824,7 @@ Surgeons site
 
 reddit
 
-* [Need Help deciding on vaginoplasty! 22y/o MtF in Mexico](https://www.reddit.com/r/Transgender_Surgeries/comments/lkh9gh/need_help_deciding_on_vaginoplasty_22yo_mtf_in/) by TRANSparencist in 2021
+* [Need Help deciding on vaginoplasty! 22y/o MtF in Mexico](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lkh9gh/need_help_deciding_on_vaginoplasty_22yo_mtf_in/content.html) by TRANSparencist in 2021
 
 Other
 
@@ -845,7 +845,7 @@ Surgeons sites
 
 reddit
 
-* reply to [Any doctors perform informed consent orchiectomies?](https://www.reddit.com/r/Transgender_Surgeries/comments/sbt0ge/any_doctors_perform_informed_consent_orchiectomies/huawr44/?context=3) by PricklyMuffin92 in 2022
+* reply to [Any doctors perform informed consent orchiectomies?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/sbt0ge/any_doctors_perform_informed_consent_orchiectomies/huawr44/?context=3content.html) by PricklyMuffin92 in 2022
 
 <br />
 
@@ -870,12 +870,12 @@ Surgeons sites
 
 reddit
 
-* [POST REVISION SURGERY DR CARLOS GUERRA MEXICO](https://www.reddit.com/r/Transgender_Surgeries/comments/18u82ry/post_revision_surgery_dr_carlos_guerra_mexico/) by GuardiolaDI in 2023 - *"In the 2016 I get my srs with penile inversion surgery in Guadalajara Mexico with Dr. Aguilar ... it was a disaster, no asthetical aparence and no depth... In the 2018 I traveled to thailand for my fisrt revision with Suporn Team and and the Dr. offerme a skin detph and best outcomes in labia and a clitora. But it was a mess I have a dehicence in the skin and after this my dilatations were very painfull. This year I meet to Dr. Carlos Guerra in Monterrey Mexico so I decided give me a last chance, yesterday was my last day in the hospital, and I feel very very happy with this process. I got peritoneal revision plus labia majora and minora reconstruction. With this dilatation I dind feel pain and was very very easy for me."*
-* [PPT Vaginoplasty Dr Carlos Guerra Monterrey Mexico](https://www.reddit.com/r/Transgender_Surgeries/comments/15dc1c9/ppt_vaginoplasty_dr_carlos_guerra_monterrey_mexico/) by Rodriguez_Rdz in 2023
-* [5M Penile Inversion Dr Carlos Guerra, México.](https://www.reddit.com/r/Transgender_Surgeries/comments/146lej6/5m_penile_inversion_dr_carlos_guerra_m%C3%A9xico/) by Carly_89 in 2023
-* [PPV 2m PO Dr. Carlos Guerra Monterrey Mexico.](https://www.reddit.com/r/Transgender_Surgeries/comments/13o3914/ppv_2m_po_dr_carlos_guerra_monterrey_mexico/) by Starian_1986 in 2023
-* [3 Weeks Post-Op PPV Dr. Carlos Guerra Monterrey, Mexico.](https://www.reddit.com/r/Transgender_Surgeries/comments/ydpkmm/3_weeks_postop_ppv_dr_carlos_guerra_monterrey/) by ValeriiaMX in 2022
-    * [2 Weeks PPV Post OP Monterrey, México (Dr. Carlos Guerra)](https://www.reddit.com/r/Transgender_Surgeries/comments/xqwmj9/2_weeks_ppv_post_op_monterrey_m%C3%A9xico_dr_carlos/) by ValeriiaMX in 2022
+* [POST REVISION SURGERY DR CARLOS GUERRA MEXICO](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18u82ry/post_revision_surgery_dr_carlos_guerra_mexico/content.html) by GuardiolaDI in 2023 - *"In the 2016 I get my srs with penile inversion surgery in Guadalajara Mexico with Dr. Aguilar ... it was a disaster, no asthetical aparence and no depth... In the 2018 I traveled to thailand for my fisrt revision with Suporn Team and and the Dr. offerme a skin detph and best outcomes in labia and a clitora. But it was a mess I have a dehicence in the skin and after this my dilatations were very painfull. This year I meet to Dr. Carlos Guerra in Monterrey Mexico so I decided give me a last chance, yesterday was my last day in the hospital, and I feel very very happy with this process. I got peritoneal revision plus labia majora and minora reconstruction. With this dilatation I dind feel pain and was very very easy for me."*
+* [PPT Vaginoplasty Dr Carlos Guerra Monterrey Mexico](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/15dc1c9/ppt_vaginoplasty_dr_carlos_guerra_monterrey_mexico/content.html) by Rodriguez_Rdz in 2023
+* [5M Penile Inversion Dr Carlos Guerra, México.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/146lej6/5m_penile_inversion_dr_carlos_guerra_m%C3%A9xico/content.html) by Carly_89 in 2023
+* [PPV 2m PO Dr. Carlos Guerra Monterrey Mexico.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13o3914/ppv_2m_po_dr_carlos_guerra_monterrey_mexico/content.html) by Starian_1986 in 2023
+* [3 Weeks Post-Op PPV Dr. Carlos Guerra Monterrey, Mexico.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ydpkmm/3_weeks_postop_ppv_dr_carlos_guerra_monterrey/content.html) by ValeriiaMX in 2022
+    * [2 Weeks PPV Post OP Monterrey, México (Dr. Carlos Guerra)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xqwmj9/2_weeks_ppv_post_op_monterrey_m%C3%A9xico_dr_carlos/content.html) by ValeriiaMX in 2022
 
 <br />
 
@@ -916,17 +916,17 @@ Surgeons sites
 
 reddit
 
-* [Maybe messed up mtf srs surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/192qlhp/maybe_messed_up_mtf_srs_surgery/) by  Guilty-Strawberry680 in 2024
-* [1 Month Vaginoplasty with Dr. Rita Yang. I've been hit with a wave of anxiety about not looking or feeling cis but physically all is healing well. AMA.](https://www.reddit.com/r/Transgender_Surgeries/comments/tvzv17/1_month_vaginoplasty_with_dr_rita_yang_ive_been/) by temptransanon in 2022
-    * [(4 Weeks GCS) does this look ok? it's very spread apart looking and uneven](https://www.reddit.com/r/Transgender_Surgeries/comments/tv2kdg/4_weeks_gcs_does_this_look_ok_its_very_spread/) by temptransanon in 2022
-* [3 weeks post op in NZ. can't make out any sort of clitoral hood. is that normal at this stage? does it look ok?](https://www.reddit.com/r/Transgender_Surgeries/comments/tm1xn7/3_weeks_post_op_in_nz_cant_make_out_any_sort_of/) by halloweenKisses
+* [Maybe messed up mtf srs surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/192qlhp/maybe_messed_up_mtf_srs_surgery/content.html) by  Guilty-Strawberry680 in 2024
+* [1 Month Vaginoplasty with Dr. Rita Yang. I've been hit with a wave of anxiety about not looking or feeling cis but physically all is healing well. AMA.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tvzv17/1_month_vaginoplasty_with_dr_rita_yang_ive_been/content.html) by temptransanon in 2022
+    * [(4 Weeks GCS) does this look ok? it's very spread apart looking and uneven](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tv2kdg/4_weeks_gcs_does_this_look_ok_its_very_spread/content.html) by temptransanon in 2022
+* [3 weeks post op in NZ. can't make out any sort of clitoral hood. is that normal at this stage? does it look ok?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tm1xn7/3_weeks_post_op_in_nz_cant_make_out_any_sort_of/content.html) by halloweenKisses
 in 2022
 
 **Non-photo links**
 
 reddit
 
-* [14 year old trans guy in NZ wants top surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/ufpodh/14_year_old_trans_guy_in_nz_wants_top_surgery/) by thatautisticgremlin in 2022
+* [14 year old trans guy in NZ wants top surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ufpodh/14_year_old_trans_guy_in_nz_wants_top_surgery/content.html) by thatautisticgremlin in 2022
 * [Consult with Rita Yang in Wellington?](https://www.reddit.com/r/TransgenderNZ/comments/oy59jd/consult_with_rita_yang_in_wellington/) by guessimfine in 2021
 * [FFS or related surgeries/procedures in NZ?](https://www.reddit.com/r/TransgenderNZ/comments/kx0wxj/ffs_or_related_surgeriesprocedures_in_nz/) by  TheNightOwlCalling in 2021
 * [Quality of surgery at Chang Gung Hospital](https://www.reddit.com/r/asktransgender/comments/dpgzsp/quality_of_surgery_at_chang_gung_hospital/)
@@ -946,7 +946,7 @@ Does orchidectomy.
 
 reddit
 
-* [Just had an Orchie at Kenepuru hospital in NZ.](https://www.reddit.com/r/Transgender_Surgeries/comments/hfcvrp/just_had_an_orchie_at_kenepuru_hospital_in_nz/) by Spawkeye in 2020
+* [Just had an Orchie at Kenepuru hospital in NZ.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hfcvrp/just_had_an_orchie_at_kenepuru_hospital_in_nz/content.html) by Spawkeye in 2020
 
 <br />
 
@@ -1081,7 +1081,7 @@ Location
 
 reddit
 
-* reply to [How long does it take to perform PI Vaginoplasty?](https://www.reddit.com/r/Transgender_Surgeries/comments/t6zms6/how_long_does_it_take_to_perform_pi_vaginoplasty/i0hev4v/) by Significant_Golf1598 in 2022 - surgeon *"Istranov Andrey Leonidovich family clinic Moscow"*
+* reply to [How long does it take to perform PI Vaginoplasty?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t6zms6/how_long_does_it_take_to_perform_pi_vaginoplasty/i0hev4v/content.html) by Significant_Golf1598 in 2022 - surgeon *"Istranov Andrey Leonidovich family clinic Moscow"*
 
 ## Anastasia Borisenko
 
@@ -1103,7 +1103,7 @@ Surgeons sites
 
 reddit
 
-* [12 weeks post-op (in Moscow).](https://www.reddit.com/r/Transgender_Surgeries/comments/w6rnay/12_weeks_postop_in_moscow/) by  Inner_Revolution4560 in 2022
+* [12 weeks post-op (in Moscow).](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/w6rnay/12_weeks_postop_in_moscow/content.html) by  Inner_Revolution4560 in 2022
 
 <br />
 
@@ -1273,7 +1273,7 @@ Incorporated in 2018, ASPRO ATLANTIC MEDICAL TOURISM LTD
 
 reddit
 
-* [Do any of you girls have Aspro Atlantic SRS results / experience? I went to Kamol but my girlfriend is considering them.](https://www.reddit.com/r/Transgender_Surgeries/comments/zt1nhf/do_any_of_you_girls_have_aspro_atlantic_srs/)
+* [Do any of you girls have Aspro Atlantic SRS results / experience? I went to Kamol but my girlfriend is considering them.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zt1nhf/do_any_of_you_girls_have_aspro_atlantic_srs/content.html)
 
 Trustpilot
 
@@ -1323,7 +1323,7 @@ Surgeons sites
 
 reddit
 
-* [Urinary problems after SRS done by Dr Cem Ozluk in Turkey](https://www.reddit.com/r/Transgender_Surgeries/comments/16q8kgw/urinary_problems_after_srs_done_by_dr_cem_ozluk/) by Ellie3756x in 2023 - *"... please stay away from this doctor Cem Ozluk in Turkey. He’s a monster and he will ruin your lives!!!!! "*
+* [Urinary problems after SRS done by Dr Cem Ozluk in Turkey](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/16q8kgw/urinary_problems_after_srs_done_by_dr_cem_ozluk/content.html) by Ellie3756x in 2023 - *"... please stay away from this doctor Cem Ozluk in Turkey. He’s a monster and he will ruin your lives!!!!! "*
 
 YouTube
 

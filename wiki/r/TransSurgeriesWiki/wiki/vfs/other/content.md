@@ -74,8 +74,8 @@ Surgeons sites
 
 reddit
 
-* [2 months post op Glottoplasty VFS + trach shave with Peter Tomassen (UZ Gent)](https://www.reddit.com/r/Transgender_Surgeries/comments/12qp02w/2_months_post_op_glottoplasty_vfs_trach_shave/) by celestrogen in 2023
-* [Glottoplasty (VFS) + tracheal shave w/ Dr. Peter Tomassen, UZ Gent, Belgium - 3,5 months post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/w4fh7y/glottoplasty_vfs_tracheal_shave_w_dr_peter/) by AGeometricShape in 2022
+* [2 months post op Glottoplasty VFS + trach shave with Peter Tomassen (UZ Gent)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/12qp02w/2_months_post_op_glottoplasty_vfs_trach_shave/content.html) by celestrogen in 2023
+* [Glottoplasty (VFS) + tracheal shave w/ Dr. Peter Tomassen, UZ Gent, Belgium - 3,5 months post-op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/w4fh7y/glottoplasty_vfs_tracheal_shave_w_dr_peter/content.html) by AGeometricShape in 2022
 
 Papers
 
@@ -187,7 +187,7 @@ Surgeons sites
 
 reddit
 
-* [Just had VFS (glottoplasty procedure)](https://www.reddit.com/r/Transgender_Surgeries/comments/m27hkc/just_had_vfs_glottoplasty_procedure/) by ashaliciousxo in 2021
+* [Just had VFS (glottoplasty procedure)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/m27hkc/just_had_vfs_glottoplasty_procedure/content.html) by ashaliciousxo in 2021
 
 <br />
 
@@ -372,8 +372,8 @@ Surgeons sites
 
 reddit
 
-* [FFS in Moscow. Great doctor. Great results. I know Russia sounds sketchy. But I had good feelings about this.](https://www.reddit.com/r/Transgender_Surgeries/comments/ld1eda/ffs_in_moscow_great_doctor_great_results_i_know/) by henchagram in 2021
-* [Any experience with Facemaker, Moscow? (ffs)](https://www.reddit.com/r/Transgender_Surgeries/comments/keppzn/any_experience_with_facemaker_moscow_ffs/) by stnkl94 in 2020
+* [FFS in Moscow. Great doctor. Great results. I know Russia sounds sketchy. But I had good feelings about this.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ld1eda/ffs_in_moscow_great_doctor_great_results_i_know/content.html) by henchagram in 2021
+* [Any experience with Facemaker, Moscow? (ffs)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/keppzn/any_experience_with_facemaker_moscow_ffs/content.html) by stnkl94 in 2020
 
 <br />
 
@@ -408,7 +408,7 @@ Surgeons sites
 
 reddit
 
-* [Voice Surgery Lance Maron AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/zk9v7i/voice_surgery_lance_maron_ama/) by Queasy_Lemon9551 in 2022 - *"...he does many trans fems in South Africa because frankly his price is a steal and his results are great"*
+* [Voice Surgery Lance Maron AMA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zk9v7i/voice_surgery_lance_maron_ama/content.html) by Queasy_Lemon9551 in 2022 - *"...he does many trans fems in South Africa because frankly his price is a steal and his results are great"*
 
 <br />
 
@@ -429,9 +429,9 @@ Surgeons site
 
 reddit
 
-* reply to [Voice Feminization Surgery. Anyone experience these Drs?](https://www.reddit.com/r/Transgender_Surgeries/comments/103kvmr/voice_feminization_surgery_anyone_experience/j337xdf/) by Maddy_Jade in 2023 - *"I had mine done with Dr Carlos Casado in Marbella, final results are i sound cis"*
-    * [Vocal Feminization Surgery With Carlos Casado in Marbella PRE SURGERY (post will update as I progress)](https://www.reddit.com/r/Transgender_Surgeries/comments/hazkpj/vocal_feminization_surgery_with_carlos_casado_in/) by Maddy_Jade in 2020
-* [Been one year since i had vocal feminisation with Dr Carlos Casado](https://www.reddit.com/r/Transgender_Surgeries/comments/p0f3gv/been_one_year_since_i_had_vocal_feminisation_with/) by LottaMeds in 2021
+* reply to [Voice Feminization Surgery. Anyone experience these Drs?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/103kvmr/voice_feminization_surgery_anyone_experience/j337xdf/content.html) by Maddy_Jade in 2023 - *"I had mine done with Dr Carlos Casado in Marbella, final results are i sound cis"*
+    * [Vocal Feminization Surgery With Carlos Casado in Marbella PRE SURGERY (post will update as I progress)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hazkpj/vocal_feminization_surgery_with_carlos_casado_in/content.html) by Maddy_Jade in 2020
+* [Been one year since i had vocal feminisation with Dr Carlos Casado](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/p0f3gv/been_one_year_since_i_had_vocal_feminisation_with/content.html) by LottaMeds in 2021
 
 Susans
 
@@ -500,8 +500,8 @@ Surgeons sites
 
 reddit
 
-* reply to [Femlar with Doctor Ornouma or Matthew Broadhurst Which is better? Which is better?](https://www.reddit.com/r/Transgender_Surgeries/comments/wrvys7/femlar_with_doctor_ornouma_or_matthew_broadhurst/ikxfaji/) by Kuutamokissa - *"...I was looking into voice surgery in order to become unable to sound male. But on hearing my voice she replied she would not recommend surgery, as I was already within the female range. So... it is my feeling that she's not in it for money, but truly wishes to help."*
-* [What is your people's opinion on voice surgery (specifically in regards to yeson voice center) I have heard that some people think it's pointless/dangerous but I have also seen videos of people who voice sounds extremely natural after recovery](https://www.reddit.com/r/Transgender_Surgeries/comments/g8u91u/what_is_your_peoples_opinion_on_voice_surgery/) by Toxyma in 2020
+* reply to [Femlar with Doctor Ornouma or Matthew Broadhurst Which is better? Which is better?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wrvys7/femlar_with_doctor_ornouma_or_matthew_broadhurst/ikxfaji/content.html) by Kuutamokissa - *"...I was looking into voice surgery in order to become unable to sound male. But on hearing my voice she replied she would not recommend surgery, as I was already within the female range. So... it is my feeling that she's not in it for money, but truly wishes to help."*
+* [What is your people's opinion on voice surgery (specifically in regards to yeson voice center) I have heard that some people think it's pointless/dangerous but I have also seen videos of people who voice sounds extremely natural after recovery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/g8u91u/what_is_your_peoples_opinion_on_voice_surgery/content.html) by Toxyma in 2020
 * [Welp, I'm booked for Yeson!](https://www.reddit.com/r/asktransgender/comments/8eev7e/welp_im_booked_for_yeson/)
 * [Info on Voice Masculinization Surgery?](https://www.reddit.com/r/transvoice/comments/8qdlpx/info_on_voice_masculinization_surgery/)
 
@@ -580,7 +580,7 @@ Surgeons sites
 
 reddit
 
-* reply to [VFS](https://www.reddit.com/r/Transgender_Surgeries/comments/tzwgwk/vfs/i41xtoe/) by Hammna in 2022
+* reply to [VFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tzwgwk/vfs/i41xtoe/content.html) by Hammna in 2022
 
 <br />
 
@@ -597,8 +597,8 @@ Surgeons sites
 
 reddit
 
-* reply to [VFS or FFS first?](https://www.reddit.com/r/Transgender_Surgeries/comments/esx1r8/vfs_or_ffs_first/ffdfso7/) by Rachael0x1 in 2020
-* [VFS Web Glottoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/dcm08t/vfs_web_glottoplasty/) by Rachael0x1 in 2019
+* reply to [VFS or FFS first?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/esx1r8/vfs_or_ffs_first/ffdfso7/content.html) by Rachael0x1 in 2020
+* [VFS Web Glottoplasty](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/dcm08t/vfs_web_glottoplasty/content.html) by Rachael0x1 in 2019
 
 <br />
 
@@ -624,9 +624,9 @@ reddit
     * [I had Vocal Feminisation Surgery with Mr Chadwan Al Yaghchi a Week Ago. ask me anything](https://old.reddit.com/r/transgenderUK/comments/q84ssh/i_had_vocal_feminisation_surgery_with_mr_chadwan/) by photoshy in 2021
 * [I’m Chadwan Al Yaghchi, a voice feminisation surgeon. I work with transgender women to help them achieve a voice which more accurately reflects who they are. Ask me anything!](https://www.reddit.com/r/IAmA/comments/v3yp2i/im_chadwan_al_yaghchi_a_voice_feminisation/) by calyaghchi in 2022
     * [I’m Chadwan Al Yaghchi, a voice feminisation surgeon. I work with transgender women to help them achieve a voice which more accurately reflects who they are. Ask me anything!](https://www.reddit.com/r/transgenderUK/comments/v3yzuq/im_chadwan_al_yaghchi_a_voice_feminisation/) by TransMissionPR in 2022
-* [VFS before and after](https://www.reddit.com/r/Transgender_Surgeries/comments/udy2c6/vfs_before_and_after/) by Vivid_Pie_5738 in 2022
-* [Just had vocal feminisation (glottoplasty)](https://www.reddit.com/r/Transgender_Surgeries/comments/mu48vg/just_had_vocal_feminisation_glottoplasty/) by naomi_2001 in 2021
-* [Just got home from having a glottoplasty at LVSC with dr chadwan al yaghchi](https://www.reddit.com/r/Transgender_Surgeries/comments/md86o6/just_got_home_from_having_a_glottoplasty_at_lvsc/) by AmyBearman in 2021
+* [VFS before and after](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/udy2c6/vfs_before_and_after/content.html) by Vivid_Pie_5738 in 2022
+* [Just had vocal feminisation (glottoplasty)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mu48vg/just_had_vocal_feminisation_glottoplasty/content.html) by naomi_2001 in 2021
+* [Just got home from having a glottoplasty at LVSC with dr chadwan al yaghchi](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/md86o6/just_got_home_from_having_a_glottoplasty_at_lvsc/content.html) by AmyBearman in 2021
 
 YouTube
 

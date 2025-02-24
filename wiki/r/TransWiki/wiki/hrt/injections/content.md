@@ -354,7 +354,7 @@ In practice the needle size for thick oils may need to be determined experimenta
 
 reddit
 
-* [suggest small correction to wiki](https://www.reddit.com/r/Transgender_Surgeries/comments/zb6t1y/suggest_small_correction_to_wiki/) by stradivari_strings in 2022
+* [suggest small correction to wiki](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zb6t1y/suggest_small_correction_to_wiki/content.html) by stradivari_strings in 2022
 
 Papers
 

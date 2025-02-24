@@ -60,8 +60,8 @@ reddit
 * [I need REAL rx grade lidocaine. Can anyone assist me?](https://old.reddit.com/r/DIYCosmeticProcedures/comments/175qnee/i_need_real_rx_grade_lidocaine_can_anyone_assist/) in 2023, mentions suppliers [gloface](https://glowface.store/product/lidocaine-hcl-2-1-vial/) and [acecosm](https://acecosm.com/categories/numbing-creams/lidocaine_hcl_2_)
 * [Fell Asleep During Electrolysis](https://www.reddit.com/r/DrWillPowers/comments/qr3p8m/fell_asleep_during_electrolysis/) by alisonchiou
 in 2021 - *"That Dr.P's custom pain cream is epic. I took 300mg of Pregabalin 2 hours before the procedure and drank some coffee to activate it, then I used the pain cream as directed."*
-* [Long Session Electrolysis with Pain Management in Southern California](https://www.reddit.com/r/Transgender_Surgeries/comments/pgi1hn/long_session_electrolysis_with_pain_management_in/) by stacy_girl in 2021
-* [What is the best numbing cream for hair electrolysis (facial)?](https://www.reddit.com/r/Transgender_Surgeries/comments/gkvtsk/what_is_the_best_numbing_cream_for_hair/) by qtips2019
+* [Long Session Electrolysis with Pain Management in Southern California](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/pgi1hn/long_session_electrolysis_with_pain_management_in/content.html) by stacy_girl in 2021
+* [What is the best numbing cream for hair electrolysis (facial)?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gkvtsk/what_is_the_best_numbing_cream_for_hair/content.html) by qtips2019
 in 2020
 * [The Current Compendium of My Compounded Topical Creams as of 3/13/2020](https://www.reddit.com/r/DrWillPowers/comments/fibnrj/the_current_compendium_of_my_compounded_topical/) by Drwillpowers in 2020
 * [Numbing products for electrolysis?](https://www.reddit.com/r/asktransgender/comments/c9cwhu/numbing_products_for_electrolysis/) by tgthrwwy in 2019
@@ -256,7 +256,7 @@ Some people are allergic to lidocaine and/or other anesthetics, and it can be ve
 
 reddit
 
-* reply to [Electrolysis and beyond](https://www.reddit.com/r/Transgender_Surgeries/comments/mj8cpo/electrolysis_and_beyond/gt96l4z/?context=3) by Ubikscube in 2021
+* reply to [Electrolysis and beyond](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mj8cpo/electrolysis_and_beyond/gt96l4z/?context=3content.html) by Ubikscube in 2021
 
 Papers
 

@@ -34,7 +34,7 @@ Surgeons site
 
 reddit
 
-* [FFS done December 2017. Work done by It’s Dr Paul Gerarchi in Nth Sydney Australia. He had never done FFS before. Highly recommend.](https://www.reddit.com/r/Transgender_Surgeries/comments/ueakyi/ffs_done_december_2017_work_done_by_its_dr_paul/) by indicaflower1975 in 2022
+* [FFS done December 2017. Work done by It’s Dr Paul Gerarchi in Nth Sydney Australia. He had never done FFS before. Highly recommend.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ueakyi/ffs_done_december_2017_work_done_by_its_dr_paul/content.html) by indicaflower1975 in 2022
 
 Susans
 
@@ -288,9 +288,9 @@ Surgeons site
 reddit
 
 * [Adelaide Cranio-facial Clinic no longer doing FFS- All appointments cancelled](https://www.reddit.com/r/transgenderau/comments/1ctvobv/adelaide_craniofacial_clinic_no_longer_doing_ffs/) by Coryymbia in 2024 - *"EDIT: I mean the Cranial Facial part of the Royal Adelaide Hospital, not the cranio-facial clinic"*
-* [Does anyone have any experience with these lip scars from a corner lift? When will I stop looking like the joker?](https://www.reddit.com/r/Transgender_Surgeries/comments/po5fls/does_anyone_have_any_experience_with_these_lip/) by MaybeSkyeOneday in 2022 - *"So far I'm happy with the results of my forehead and nose. My nose is still slightly crooked, but that was to be expected as I had a very complicated nose to work on. Outside of the scarring I'm happy with the lips also, though the scarring definitely puts a damper on things"*
+* [Does anyone have any experience with these lip scars from a corner lift? When will I stop looking like the joker?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/po5fls/does_anyone_have_any_experience_with_these_lip/content.html) by MaybeSkyeOneday in 2022 - *"So far I'm happy with the results of my forehead and nose. My nose is still slightly crooked, but that was to be expected as I had a very complicated nose to work on. Outside of the scarring I'm happy with the lips also, though the scarring definitely puts a damper on things"*
 * reply to [Health Insurance for Hair Transplant?](https://www.reddit.com/r/transgenderau/comments/wzlxkg/health_insurance_for_hair_transplant/im3h2xg/) by gslakes - *"I've been excited to learn recently that apparently some public system surgeons in South Australia now consider Facial Feminisation Surgery as being reconstructive surgery... Just went back and checked, and the surgeon is Dr Flapper"*
-* [8 weeks FFS timeline. Surgery with Dr Flapper in Adelaide, Australia](https://www.reddit.com/r/Transgender_Surgeries/comments/px1x1b/8_weeks_ffs_timeline_surgery_with_dr_flapper_in/) by Lil_Blue_Sky in 2021
+* [8 weeks FFS timeline. Surgery with Dr Flapper in Adelaide, Australia](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/px1x1b/8_weeks_ffs_timeline_surgery_with_dr_flapper_in/content.html) by Lil_Blue_Sky in 2021
 * [12 hours post FFS with Dr Flapper in Adelaide AMA](https://www.reddit.com/r/transgenderau/comments/oyrlk2/12_hours_post_ffs_with_dr_flapper_in_adelaide_ama/) by MaybeSkyeOneday in 2021
 * [Great news we have 130 signatures](https://www.reddit.com/r/transgenderau/comments/ikh9tz/great_news_we_have_130_signatures/g3l8jat/) by mandewrivers in 2021
 

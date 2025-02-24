@@ -14,12 +14,12 @@ Surgeons have weight/BMI limits, often around 15 to 30 for SRS. It varies among 
 
 reddit
 
-* [Nonbinary: Vaginolplasty- revision](https://www.reddit.com/r/Transgender_Surgeries/comments/1fh25q7/nonbinary_vaginolplasty_revision/) by Clean-Bird3449 in 2024 - surgeon Praful Ramineni - "*My BMI is like 53 but he's worked on people around 60.*"
+* [Nonbinary: Vaginolplasty- revision](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1fh25q7/nonbinary_vaginolplasty_revision/content.html) by Clean-Bird3449 in 2024 - surgeon Praful Ramineni - "*My BMI is like 53 but he's worked on people around 60.*"
 * [Time to Say Goodbye to the B.M.I.? (Gift Article)](https://np.reddit.com/r/medicine/comments/1faoawr/time_to_say_goodbye_to_the_bmi_gift_article/) in 2024
-* [Any formerly obese or morbidly obese ladies who have had SRS?](https://www.reddit.com/r/Transgender_Surgeries/comments/13hgeed/any_formerly_obese_or_morbidly_obese_ladies_who/) by KittyJoFoxtrot in 2023
+* [Any formerly obese or morbidly obese ladies who have had SRS?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13hgeed/any_formerly_obese_or_morbidly_obese_ladies_who/content.html) by KittyJoFoxtrot in 2023
 * [I'm a fat trans woman and today is the 1 year anniversary of my vaginoplasty. AMA](https://www.reddit.com/r/asktransgender/comments/108dld0/im_a_fat_trans_woman_and_today_is_the_1_year/) by Avronox in 2023
-* [too fat for surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/ty34i3/too_fat_for_surgery/) by killerbee2319 in 2022
-* [higher bmi options for vaginoplasties](https://www.reddit.com/r/Transgender_Surgeries/comments/pqc7vo/higher_bmi_options_for_vaginoplasties/) bybobbbbo4000 in 2021 - *"My BMI was over 35 when I got both SRS procedures from Dr Stiller in Washington state (USA)."* and *"I just had my bottom surgery with Dr. Stiller and my BMI was 39 and he didn’t even say a word to me about it."*
+* [too fat for surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ty34i3/too_fat_for_surgery/content.html) by killerbee2319 in 2022
+* [higher bmi options for vaginoplasties](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/pqc7vo/higher_bmi_options_for_vaginoplasties/content.html) bybobbbbo4000 in 2021 - *"My BMI was over 35 when I got both SRS procedures from Dr Stiller in Washington state (USA)."* and *"I just had my bottom surgery with Dr. Stiller and my BMI was 39 and he didn’t even say a word to me about it."*
 * [How does obesity affect the procedure of surgery? If the patient has excessive body fat, how much does it hinder the surgeon?](https://www.reddit.com/r/medicine/comments/1dgpnf/how_does_obesity_affect_the_procedure_of_surgery/) around 2013
 
 Surgeons
@@ -114,7 +114,7 @@ Another drug for weight loss is Phentermine, although not mearly as effective as
 
 reddit
 
-* reply to [a question about weight and PI vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/wccxgt/a_question_about_weight_and_pi_vaginoplasty/ij9lnxa/?context=3) by ujyxe in 2022 - *"I had GRS with Brassard two months ago, at a 37ish BMI. Between 35 and 40, they basically want you to do a sleep apnea screening... They do say in the documents that they won’t operate above 40."*
+* reply to [a question about weight and PI vaginoplasty](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wccxgt/a_question_about_weight_and_pi_vaginoplasty/ij9lnxa/?context=3content.html) by ujyxe in 2022 - *"I had GRS with Brassard two months ago, at a 37ish BMI. Between 35 and 40, they basically want you to do a sleep apnea screening... They do say in the documents that they won’t operate above 40."*
 * [Loose Skin from 90+ lb weight loss gone from Fasting](https://www.reddit.com/r/fasting/comments/b1yw6u/loose_skin_from_90_lb_weight_loss_gone_from/) by madpiratebippy in 2019
 * [Does anybody have actual proof that fasting induced autophagy reduces scars/stretch marks?](https://www.reddit.com/r/fasting/comments/b1456g/does_anybody_have_actual_proof_that_fasting/) by Rengiil in 2019
 

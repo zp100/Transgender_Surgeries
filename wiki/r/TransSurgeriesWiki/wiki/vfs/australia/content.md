@@ -73,7 +73,7 @@ reddit
 * [CTA vs Femlar voice surgery](https://www.reddit.com/r/transgenderau/comments/p3e9fu/cta_vs_femlar_voice_surgery/) by fullbrooks in 2021
 * [Anyone had voice surgery with Matthew Broadhurst? Looking for advice.](https://www.reddit.com/r/transgenderau/comments/lnxs6l/anyone_had_voice_surgery_with_matthew_broadhurst/) by  Larkias in 2021
 * [I just had a femlar procedure with Dr Matthew broadhurst. AMA](https://www.reddit.com/r/transgenderau/comments/f53tgg/i_just_had_a_femlar_procedure_with_dr_matthew/) by dasteph69 in 2020
-* [I just booked my Femlar procedure with Dr. Matthew Broadhurst, in Queensland AU](https://www.reddit.com/r/Transgender_Surgeries/comments/e9lt9q/i_just_booked_my_femlar_procedure_with_dr_matthew/) by ehecatlinoz in 2019
+* [I just booked my Femlar procedure with Dr. Matthew Broadhurst, in Queensland AU](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/e9lt9q/i_just_booked_my_femlar_procedure_with_dr_matthew/content.html) by ehecatlinoz in 2019
 * [Dr Matthew broadhurst](https://www.reddit.com/r/transgenderau/comments/d5e7mw/dr_matthew_broadhurst/) by MaddieDeane in 2019
 * [Does anyone got removed Adam’s apple removed in Australia?](https://www.reddit.com/r/transgenderau/comments/di6mh5/does_anyone_got_removed_adams_apple_removed_in/) by Samy3108 in 2019
 * [Vocal Surgery In Australia](https://www.reddit.com/r/transgenderau/comments/apqnp3/vocal_surgery_in_australia/) by TGJess in 2019

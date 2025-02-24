@@ -37,15 +37,15 @@ Facial Team (in Spain/Brazil) offer free consultations via Skype, at their offic
 
 reddit
 
-* [Ffs without seeing before and after pictures first?](https://www.reddit.com/r/Transgender_Surgeries/comments/s9j394/ffs_without_seeing_before_and_after_pictures_first/) by  Realistic-Shame4724 in 2022
-* [Question to women that had FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/mm2zdr/question_to_women_that_had_ffs/) by IncognitoGirl81 in 2021
-* [What is the actual difference between a “natural” and a “glam” ffs result?](https://www.reddit.com/r/Transgender_Surgeries/comments/lv0z94/what_is_the_actual_difference_between_a_natural/) by kadify in 2021
-* [Is FFS Just A Bunch Of Surgeries At Once?](https://www.reddit.com/r/Transgender_Surgeries/comments/jkhslp/is_ffs_just_a_bunch_of_surgeries_at_once/) by urafuckingidiotm8 in 2020
-* [Maxillary impaction for long face/philtrum](https://www.reddit.com/r/Transgender_Surgeries/comments/gdi4n1/maxillary_impaction_for_long_facephiltrum/) by Fisguard in 2020
-* [The only cure for the long / horse : maxillary impaction, and why it also rejuvenating](https://www.reddit.com/r/Transgender_Surgeries/comments/gdotzt/the_only_cure_for_the_long_horse_maxillary/) by darthemofan in 2020
-* [Questions about FFS and tracheal shave.](https://www.reddit.com/r/Transgender_Surgeries/comments/esyxzh/questions_about_ffs_and_tracheal_shave/) by PhantomZoe in 2020
+* [Ffs without seeing before and after pictures first?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/s9j394/ffs_without_seeing_before_and_after_pictures_first/content.html) by  Realistic-Shame4724 in 2022
+* [Question to women that had FFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mm2zdr/question_to_women_that_had_ffs/content.html) by IncognitoGirl81 in 2021
+* [What is the actual difference between a “natural” and a “glam” ffs result?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lv0z94/what_is_the_actual_difference_between_a_natural/content.html) by kadify in 2021
+* [Is FFS Just A Bunch Of Surgeries At Once?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jkhslp/is_ffs_just_a_bunch_of_surgeries_at_once/content.html) by urafuckingidiotm8 in 2020
+* [Maxillary impaction for long face/philtrum](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gdi4n1/maxillary_impaction_for_long_facephiltrum/content.html) by Fisguard in 2020
+* [The only cure for the long / horse : maxillary impaction, and why it also rejuvenating](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/gdotzt/the_only_cure_for_the_long_horse_maxillary/content.html) by darthemofan in 2020
+* [Questions about FFS and tracheal shave.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/esyxzh/questions_about_ffs_and_tracheal_shave/content.html) by PhantomZoe in 2020
 * [Face Split Comparison: 2 Years Ago and After 8 Months HRT MTF. My eye shape is so different!](https://www.reddit.com/r/transtimelines/comments/ejblbv/face_split_comparison_2_years_ago_and_after_8/) by Luna_Istari - no FFS, but dramatically shows the effect of HRT, facial hair, etc
-* [Which ffs surgeons make you pretty and not just passing?](https://www.reddit.com/r/Transgender_Surgeries/comments/d0gfda/which_ffs_surgeons_make_you_pretty_and_not_just/) by tumblrbae in 2019
+* [Which ffs surgeons make you pretty and not just passing?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/d0gfda/which_ffs_surgeons_make_you_pretty_and_not_just/content.html) by tumblrbae in 2019
 
 Travel after FFS
 
@@ -91,7 +91,7 @@ This is non-surgical and not what we normally refer to as FFS.
 
 reddit
 
-* [Does anyone have any experience with masseter Botox for the slimming the jaw ?](https://www.reddit.com/r/Transgender_Surgeries/comments/k3maiz/does_anyone_have_any_experience_with_masseter/) by velvetybunii in 2020
+* [Does anyone have any experience with masseter Botox for the slimming the jaw ?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/k3maiz/does_anyone_have_any_experience_with_masseter/content.html) by velvetybunii in 2020
 
 <br />
 
@@ -101,7 +101,7 @@ reddit
 
 reddit
 
-* [Question regarding FFS and Hair graft.](https://www.reddit.com/r/Transgender_Surgeries/comments/me3ht6/question_regarding_ffs_and_hair_graft/) by YvetteOnSet in 2021
+* [Question regarding FFS and Hair graft.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/me3ht6/question_regarding_ffs_and_hair_graft/content.html) by YvetteOnSet in 2021
 
 <br />
 
@@ -208,13 +208,13 @@ Lowering the hairline will use an incision across the hairline potentially leavi
 
 reddit
 
-* [I do NOT recommend Dr. Regina Rodman of Face Forward in Houston, Texas.](https://www.reddit.com/r/Transgender_Surgeries/comments/v14i4c/i_do_not_recommend_dr_regina_rodman_of_face/) by yonic-drive-in in 2022
-* [hairline incision vs coronal incision](https://www.reddit.com/r/Transgender_Surgeries/comments/qo3rui/hairline_incision_vs_coronal_incision/) by goddessofscience in 2021
-* [Brow bone reduction](https://www.reddit.com/r/Transgender_Surgeries/comments/qu2e2m/brow_bone_reduction/) by Vero99999 in 2021
-* [FFS Forehead Scar Dr. Satterwhite. 6 months post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/pb6vi2/ffs_forehead_scar_dr_satterwhite_6_months_postop/) by Wootbangboozle in 2021
-* [Why don't hair transplants seem to be a common approach for FFS?](https://www.reddit.com/r/Transgender_Surgeries/comments/mkh0t2/why_dont_hair_transplants_seem_to_be_a_common/) by ChopChopChopSnip in 2021
-* [Hairline advancement worth it??](https://www.reddit.com/r/Transgender_Surgeries/comments/kndrpz/hairline_advancement_worth_it/) by  edmcurious in 2020
-* [Let's talk hairlines](https://www.reddit.com/r/Transgender_Surgeries/comments/bdwhdv/lets_talk_hairlines/) by sitta-pusilla in 2019
+* [I do NOT recommend Dr. Regina Rodman of Face Forward in Houston, Texas.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/v14i4c/i_do_not_recommend_dr_regina_rodman_of_face/content.html) by yonic-drive-in in 2022
+* [hairline incision vs coronal incision](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qo3rui/hairline_incision_vs_coronal_incision/content.html) by goddessofscience in 2021
+* [Brow bone reduction](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qu2e2m/brow_bone_reduction/content.html) by Vero99999 in 2021
+* [FFS Forehead Scar Dr. Satterwhite. 6 months post-op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/pb6vi2/ffs_forehead_scar_dr_satterwhite_6_months_postop/content.html) by Wootbangboozle in 2021
+* [Why don't hair transplants seem to be a common approach for FFS?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mkh0t2/why_dont_hair_transplants_seem_to_be_a_common/content.html) by ChopChopChopSnip in 2021
+* [Hairline advancement worth it??](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kndrpz/hairline_advancement_worth_it/content.html) by  edmcurious in 2020
+* [Let's talk hairlines](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/bdwhdv/lets_talk_hairlines/content.html) by sitta-pusilla in 2019
 
 YouTube
 
@@ -242,7 +242,7 @@ Not all surgeons do [CT scans](https://en.wikipedia.org/wiki/CT_scan) before (or
 
 reddit
 
-* [3-D FFS. Faster surgery, less complications, less surgical hardware and more predictable results.](https://www.reddit.com/r/Transgender_Surgeries/comments/qe2jh2/3d_ffs_faster_surgery_less_complications_less/) by DrFenstere in 2021
+* [3-D FFS. Faster surgery, less complications, less surgical hardware and more predictable results.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qe2jh2/3d_ffs_faster_surgery_less_complications_less/content.html) by DrFenstere in 2021
 
 YouTube
 
@@ -256,7 +256,7 @@ YouTube
 
 reddit
 
-* [Can anyone share recommendations experiences surgeons that have working with black trans women ?](https://www.reddit.com/r/Transgender_Surgeries/comments/k3kyic/can_anyone_share_recommendations_experiences/) by roron0a in 2020
+* [Can anyone share recommendations experiences surgeons that have working with black trans women ?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/k3kyic/can_anyone_share_recommendations_experiences/content.html) by roron0a in 2020
 
 <br />
 
@@ -278,14 +278,14 @@ Colorado Transgender Information Blog
 
 reddit
 
-* [Full (FFS) Facial Feminization Surgery notes and thoughts](https://www.reddit.com/r/Transgender_Surgeries/comments/nd5ki5/full_ffs_facial_feminization_surgery_notes_and/) by  Iamwomanhearmeroar30 in 2021
+* [Full (FFS) Facial Feminization Surgery notes and thoughts](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nd5ki5/full_ffs_facial_feminization_surgery_notes_and/content.html) by  Iamwomanhearmeroar30 in 2021
 
 ## Preparing for Surgery
 
 reddit
 
-* [My FFS Packing List](https://www.reddit.com/r/Transgender_Surgeries/comments/jknt3j/my_ffs_packing_list/) by  transhighpriestess in 2020
-* [Useful things to buy before FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/g97b21/useful_things_to_buy_before_ffs/) by jbuttsonspeed in 2020
+* [My FFS Packing List](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jknt3j/my_ffs_packing_list/content.html) by  transhighpriestess in 2020
+* [Useful things to buy before FFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/g97b21/useful_things_to_buy_before_ffs/content.html) by jbuttsonspeed in 2020
 
 <br />
 
@@ -297,12 +297,12 @@ reddit
 
 reddit
 
-* [I did a virtual ffs thingy](https://www.reddit.com/r/Transgender_Surgeries/comments/nkzqqi/i_did_a_virtual_ffs_thingy/) by Broccolisoups in 2021
+* [I did a virtual ffs thingy](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nkzqqi/i_did_a_virtual_ffs_thingy/content.html) by Broccolisoups in 2021
 * [Virtual FFS - Anyone did this before FFS and how do results compare?](https://www.susans.org/forums/index.php/topic,250880.0.html) by Iztaccihuatl in 2019
 * [virtual FFS experiences?](https://www.reddit.com/r/asktransgender/comments/9ucqeo/virtual_ffs_experiences/) by CatOnTheEdge around 2019
-* [Accuracy of Facial Team ‘s simulations](https://www.reddit.com/r/Transgender_Surgeries/comments/b63s40/accuracy_of_facial_team_s_simulations/) by Marionett3e in 2019
-* [Is Virtual FFS worth the money?](https://www.reddit.com/r/Transgender_Surgeries/comments/aiccvl/is_virtual_ffs_worth_the_money/) by MountainGirl2736 in 2019
-* [My FFS: Research, Consultations, Surgery, Recovery and Results](https://www.reddit.com/r/Transgender_Surgeries/comments/aigmdv/my_ffs_research_consultations_surgery_recovery/) by 2d4d_data
+* [Accuracy of Facial Team ‘s simulations](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/b63s40/accuracy_of_facial_team_s_simulations/content.html) by Marionett3e in 2019
+* [Is Virtual FFS worth the money?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/aiccvl/is_virtual_ffs_worth_the_money/content.html) by MountainGirl2736 in 2019
+* [My FFS: Research, Consultations, Surgery, Recovery and Results](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/aigmdv/my_ffs_research_consultations_surgery_recovery/content.html) by 2d4d_data
 in 2019
 * [Accuracy of Virtual FFS](https://www.reddit.com/r/asktransgender/comments/5x6at6/accuracy_of_virtual_ffs/) by Ashadyna around 2017
 
@@ -326,7 +326,7 @@ Susans
 
 reddit
 
-* [Braces/orthodontics and FFS?](https://www.reddit.com/r/Transgender_Surgeries/comments/m45oi7/bracesorthodontics_and_ffs/) by miserabledev123 in 2021
+* [Braces/orthodontics and FFS?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/m45oi7/bracesorthodontics_and_ffs/content.html) by miserabledev123 in 2021
 
 <br />
 
@@ -338,8 +338,8 @@ reddit
 
 reddit
 
-* [Black eye 5 months after FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/fynai1/black_eye_5_months_after_ffs/) by  MountainGirl2736 in 2020
-* [Recovery from a botch trachea shave](https://www.reddit.com/r/Transgender_Surgeries/comments/ea7go5/recovery_from_a_botch_trachea_shave/) by Scones_for_Bones in 2019
+* [Black eye 5 months after FFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/fynai1/black_eye_5_months_after_ffs/content.html) by  MountainGirl2736 in 2020
+* [Recovery from a botch trachea shave](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ea7go5/recovery_from_a_botch_trachea_shave/content.html) by Scones_for_Bones in 2019
 
 ---
 
@@ -347,7 +347,7 @@ reddit
 
 reddit
 
-* [Tracheal shave adhesion - how to fix](https://www.reddit.com/r/Transgender_Surgeries/comments/mlh3bk/tracheal_shave_adhesion_how_to_fix/) by prawnjavis in 2021
+* [Tracheal shave adhesion - how to fix](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mlh3bk/tracheal_shave_adhesion_how_to_fix/content.html) by prawnjavis in 2021
 
 ---
 
@@ -355,8 +355,8 @@ reddit
 
 reddit
 
-* [FFS and post-op depression.](https://www.reddit.com/r/Transgender_Surgeries/comments/kln07x/ffs_and_postop_depression/) by aquestioningperson in 2020
-* [Did anyone else get FFS and struggle initially with how different they looked?](https://www.reddit.com/r/Transgender_Surgeries/comments/ilhwr1/did_anyone_else_get_ffs_and_struggle_initially/) by GirlInAPainting in 2020
+* [FFS and post-op depression.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kln07x/ffs_and_postop_depression/content.html) by aquestioningperson in 2020
+* [Did anyone else get FFS and struggle initially with how different they looked?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ilhwr1/did_anyone_else_get_ffs_and_struggle_initially/content.html) by GirlInAPainting in 2020
 
 ---
 
@@ -364,7 +364,7 @@ reddit
 
 reddit
 
-* [Has anyone dealt with hypergranulation tissue?](https://www.reddit.com/r/Transgender_Surgeries/comments/jwu24s/has_anyone_dealt_with_hypergranulation_tissue/) by MyNewTransAccount in 2020
+* [Has anyone dealt with hypergranulation tissue?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jwu24s/has_anyone_dealt_with_hypergranulation_tissue/content.html) by MyNewTransAccount in 2020
 
 ---
 
@@ -374,8 +374,8 @@ See [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index#wiki_hair_loss](http
 
 reddit
 
-* [I do NOT recommend Dr. Regina Rodman of Face Forward in Houston, Texas.](https://www.reddit.com/r/Transgender_Surgeries/comments/v14i4c/i_do_not_recommend_dr_regina_rodman_of_face/) by yonic-drive-in in 2022
-* [Bald patches after FFS?](https://www.reddit.com/r/Transgender_Surgeries/comments/oaaepc/bald_patches_after_ffs/) by West-bebe
+* [I do NOT recommend Dr. Regina Rodman of Face Forward in Houston, Texas.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/v14i4c/i_do_not_recommend_dr_regina_rodman_of_face/content.html) by yonic-drive-in in 2022
+* [Bald patches after FFS?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/oaaepc/bald_patches_after_ffs/content.html) by West-bebe
 in 2021
 
 Susans
@@ -388,7 +388,7 @@ Susans
 
 reddit
 
-* [6 1/2 weeks Post FFS, Chin and bottom lip still totally numb. Normal??](https://www.reddit.com/r/Transgender_Surgeries/comments/ia9i2a/6_12_weeks_post_ffs_chin_and_bottom_lip_still/) by AndiFoxxx in 2020
+* [6 1/2 weeks Post FFS, Chin and bottom lip still totally numb. Normal??](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ia9i2a/6_12_weeks_post_ffs_chin_and_bottom_lip_still/content.html) by AndiFoxxx in 2020
 
 ---
 
@@ -404,7 +404,7 @@ YouTube
 
 reddit
 
-* [So unhappy with jaw work. Had sliding genioplasty and mandible contouring. Now have double chin and step off deformity. Trachael shave still visible. 2 months post op](https://www.reddit.com/r/Transgender_Surgeries/comments/knkwbb/so_unhappy_with_jaw_work_had_sliding_genioplasty/) by hoemegga in 2020
+* [So unhappy with jaw work. Had sliding genioplasty and mandible contouring. Now have double chin and step off deformity. Trachael shave still visible. 2 months post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/knkwbb/so_unhappy_with_jaw_work_had_sliding_genioplasty/content.html) by hoemegga in 2020
 
 ---
 
@@ -412,8 +412,8 @@ reddit
 
 reddit
 
-* [FFS revision of coronal incision at FacialTeam?](https://www.reddit.com/r/Transgender_Surgeries/comments/trf6ru/ffs_revision_of_coronal_incision_at_facialteam/) by LacrimaeLibertatis in 2022
-* [Spreading awareness about FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/qb5wnl/spreading_awareness_about_ffs/) by West-bebe in 2021 - coronal incision scar, surgeon Dr Richard Fakin in Spain
+* [FFS revision of coronal incision at FacialTeam?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/trf6ru/ffs_revision_of_coronal_incision_at_facialteam/content.html) by LacrimaeLibertatis in 2022
+* [Spreading awareness about FFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qb5wnl/spreading_awareness_about_ffs/content.html) by West-bebe in 2021 - coronal incision scar, surgeon Dr Richard Fakin in Spain
 
 Susans
 
@@ -423,7 +423,7 @@ Susans
 
 ### Stroke
 
-* [I thought FFS would change my life, but not like this... (Dr. Alex Kim)](https://www.reddit.com/r/Transgender_Surgeries/comments/me8umd/i_thought_ffs_would_change_my_life_but_not_like/) by virtualady in 2021 - FFS with Alex Kim in the USA
+* [I thought FFS would change my life, but not like this... (Dr. Alex Kim)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/me8umd/i_thought_ffs_would_change_my_life_but_not_like/content.html) by virtualady in 2021 - FFS with Alex Kim in the USA
 
 ---
 
@@ -431,7 +431,7 @@ Susans
 
 reddit
 
-* [Voice Feminization Surgery at University of Illinois Hospitals](https://www.reddit.com/r/Transgender_Surgeries/comments/l5hbmi/voice_feminization_surgery_at_university_of/) by punkkitty312 in 2021
+* [Voice Feminization Surgery at University of Illinois Hospitals](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l5hbmi/voice_feminization_surgery_at_university_of/content.html) by punkkitty312 in 2021
 
 YouTube
 
@@ -445,7 +445,7 @@ YouTube
 
 reddit
 
-* [how painful really is ffs?? and how is the recovery??](https://www.reddit.com/r/Transgender_Surgeries/comments/tvz64w/how_painful_really_is_ffs_and_how_is_the_recovery/) by gee891 in 2022
+* [how painful really is ffs?? and how is the recovery??](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tvz64w/how_painful_really_is_ffs_and_how_is_the_recovery/content.html) by gee891 in 2022
 
 <br />
 
@@ -457,9 +457,9 @@ Some cis women have FFS.
 
 reddit
 
-* [Milestones of my cis lady self from pre op, to 3 weeks out, to now at 3 months out! Thank you so much Dr. Mardirossian!!](https://www.reddit.com/r/Transgender_Surgeries/comments/plpuc1/milestones_of_my_cis_lady_self_from_pre_op_to_3/) by venturewolfy in 2021
-    * [Almost 8 weeks since Dr. Mardirossian did my ffs!](https://www.reddit.com/r/Transgender_Surgeries/comments/ozynr5/almost_8_weeks_since_dr_mardirossian_did_my_ffs/) by venturewolfy in 2021
-* [I’m CIS, so I understand if this post isn’t allowed, but I had FFS with Dr. Mardirossian 3 days ago. Forehead contouring, brow lift, and rhino/septoplasty. I just wanted to share my results to help others decide on their surgeon!](https://www.reddit.com/r/Transgender_Surgeries/comments/msy1xj/im_cis_so_i_understand_if_this_post_isnt_allowed/) by ExtraRedditUsername in 2021
+* [Milestones of my cis lady self from pre op, to 3 weeks out, to now at 3 months out! Thank you so much Dr. Mardirossian!!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/plpuc1/milestones_of_my_cis_lady_self_from_pre_op_to_3/content.html) by venturewolfy in 2021
+    * [Almost 8 weeks since Dr. Mardirossian did my ffs!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ozynr5/almost_8_weeks_since_dr_mardirossian_did_my_ffs/content.html) by venturewolfy in 2021
+* [I’m CIS, so I understand if this post isn’t allowed, but I had FFS with Dr. Mardirossian 3 days ago. Forehead contouring, brow lift, and rhino/septoplasty. I just wanted to share my results to help others decide on their surgeon!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/msy1xj/im_cis_so_i_understand_if_this_post_isnt_allowed/content.html) by ExtraRedditUsername in 2021
 
 Surgeons
 

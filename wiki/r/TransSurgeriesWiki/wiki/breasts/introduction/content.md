@@ -24,8 +24,8 @@ The Great Boob Journey
 
 reddit
 
-* [Rice Test vs Actual Results](https://www.reddit.com/r/Transgender_Surgeries/comments/igxxhn/rice_test_vs_actual_results/) by Rememberthispw in 2020
-* [Should I search for a surgeon with experience with trans patients for a breast implant?](https://www.reddit.com/r/Transgender_Surgeries/comments/i3g2q0/should_i_search_for_a_surgeon_with_experience/) by misses_tumblr in 2020
+* [Rice Test vs Actual Results](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/igxxhn/rice_test_vs_actual_results/content.html) by Rememberthispw in 2020
+* [Should I search for a surgeon with experience with trans patients for a breast implant?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i3g2q0/should_i_search_for_a_surgeon_with_experience/content.html) by misses_tumblr in 2020
 * [After getting a Breast Augmentation and going from a A/B cup to a full sized D/DD.. here’s my thoughts.](https://www.reddit.com/r/MtF/comments/huwfwo/after_getting_a_breast_augmentation_and_going/) by throwiway88 in 2020
 * [Check out the 350,000+ Breast Implant Files that the FDA didn't want you to see...](https://www.reddit.com/r/PlasticSurgery/comments/bdvo57/check_out_the_350000_breast_implant_files_that/) by BobbiBillard in 2019, referring to [FDA Kept Hundreds of Thousands of Breast Implant Incidents Hidden From Public](https://www.icij.org/investigations/implant-files/fda-kept-hundreds-of-thousands-of-breast-implant-incidents-hidden-from-public/) by the
 International Consortium of Investigative Journalists in 2019
@@ -119,7 +119,7 @@ Transas City
 
 reddit
 
-* [Im maybe regreting implant type choice...](https://www.reddit.com/r/Transgender_Surgeries/comments/lt8p43/im_maybe_regreting_implant_type_choice/) by throwaway48194718501 in 2021
+* [Im maybe regreting implant type choice...](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lt8p43/im_maybe_regreting_implant_type_choice/content.html) by throwaway48194718501 in 2021
 * [I need some help deciding between saline and silicone breast implants.](https://www.reddit.com/r/PlasticSurgery/comments/bt2hk0/i_need_some_help_deciding_between_saline_and/) in 2019
 
 <br />
@@ -130,7 +130,7 @@ Anatomical implants are said to produce a better aesthetic result compare to the
 
 reddit
 
-* reply to [Should I search for a surgeon with experience with trans patients for a breast implant?](https://www.reddit.com/r/Transgender_Surgeries/comments/i3g2q0/should_i_search_for_a_surgeon_with_experience/g0vhmbd/) by misses_tumblr in 2020
+* reply to [Should I search for a surgeon with experience with trans patients for a breast implant?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i3g2q0/should_i_search_for_a_surgeon_with_experience/g0vhmbd/content.html) by misses_tumblr in 2020
 
 Susans
 
@@ -157,7 +157,7 @@ https://www.galateasurgical.com/surgical-scaffolds/what-is-galatea-scaffold/
 
 reddit
 
-* reply to [FFS surgeon DrFensterer to answer questions about transgender surgeries](https://www.reddit.com/r/Transgender_Surgeries/comments/q8z5ot/ffs_surgeon_drfensterer_to_answer_questions_about/hgt3y21/?context=3) by DrFensterer in 2021
+* reply to [FFS surgeon DrFensterer to answer questions about transgender surgeries](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/q8z5ot/ffs_surgeon_drfensterer_to_answer_questions_about/hgt3y21/?context=3content.html) by DrFensterer in 2021
 
 Harpers Bazar
 
@@ -190,14 +190,14 @@ Doctor Youn in 2023
 
 reddit
 
-* reply to [Curious about breast augmentation without hrt](https://www.reddit.com/r/Transgender_Surgeries/comments/wgilss/curious_about_breast_augmentation_without_hrt/) by 52jag in 2022 - *"There was a cd in my trans support group who got over the muscle installed with no tissue from hormones and they did not stay in pocket. They were movable by hand. Complete mess."*
+* reply to [Curious about breast augmentation without hrt](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wgilss/curious_about_breast_augmentation_without_hrt/content.html) by 52jag in 2022 - *"There was a cd in my trans support group who got over the muscle installed with no tissue from hormones and they did not stay in pocket. They were movable by hand. Complete mess."*
 * [My Attempt at Implants before Hormones and Perlutal](https://www.reddit.com/r/TransBreastTimelines/comments/f9wlc0/my_attempt_at_implants_before_hormones_and/) by Syx78 in 2020
 
 <br />
 
 ## Recovery
 
-* [Post op recovery sucks!](https://www.reddit.com/r/Transgender_Surgeries/comments/ov4u03/post_op_recovery_sucks/) by Emilie1334 in 2021
+* [Post op recovery sucks!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ov4u03/post_op_recovery_sucks/content.html) by Emilie1334 in 2021
 
 <br />
 
@@ -440,7 +440,7 @@ reddit
 
 reddit
 
-* [Nipple Augmentation via Injection - help!](https://www.reddit.com/r/Transgender_Surgeries/comments/1411qxo/nipple_augmentation_via_injection_help/) by i_Sobel in 2023
+* [Nipple Augmentation via Injection - help!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1411qxo/nipple_augmentation_via_injection_help/content.html) by i_Sobel in 2023
 
 https://www.justbreastimplants.com/forum/nipple-surgery-areola-surgery/
 
@@ -537,7 +537,7 @@ reddit
 
 * [POST OP BREAST AUGMENTATION CONCERNS: i had 32A cup tuberous breasts and was told i didn’t need a lift. day of surgery minutes before anesthesia was told i might need a lift later on one boob that had more tissue. i am 10 days post op](https://www.reddit.com/r/PlasticSurgery/comments/v9ko9z/post_op_breast_augmentation_concerns_i_had_32a/) in 2022 - not trans
 * [Tuberous breast correction](https://www.reddit.com/r/PlasticSurgery/comments/v2uhhu/tuberous_breast_correction/) in 2022 - cis women
-* [My progress... 3.5 weeks post breast augmentation + breast lift (tuberous breast correction)](https://www.reddit.com/r/Transgender_Surgeries/comments/ox1ath/my_progress_35_weeks_post_breast_augmentation/) by head_cha_la in 2021
+* [My progress... 3.5 weeks post breast augmentation + breast lift (tuberous breast correction)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ox1ath/my_progress_35_weeks_post_breast_augmentation/content.html) by head_cha_la in 2021
 * [Does anybody here have experience with surgery related to fat grafting breast augmentation, breast asymmetry, breast lift, and/or tuberous breasts? Personal story inside... Any kindness/support/stories are appreciated.](https://www.reddit.com/r/TwoXChromosomes/comments/1vid4m/does_anybody_here_have_experience_with_surgery/) by GottaFixTheBoobies iaround 2014
 
 realself
@@ -582,19 +582,19 @@ YouTube
 
 reddit
 
-* [Breast Augmentation Complication \[Don’t make the same mistake I did\]](https://www.reddit.com/r/Transgender_Surgeries/comments/wsw3gq/breast_augmentation_complication_dont_make_the/) by Background_Term_9958 in 2022
+* [Breast Augmentation Complication \[Don’t make the same mistake I did\]](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wsw3gq/breast_augmentation_complication_dont_make_the/content.html) by Background_Term_9958 in 2022
 
 ## Nipple Size
 
 reddit
 
-* [MTF different nipple size?](https://www.reddit.com/r/Transgender_Surgeries/comments/kc08lp/mtf_different_nipple_size/) by Donkeisha in 2020
+* [MTF different nipple size?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kc08lp/mtf_different_nipple_size/content.html) by Donkeisha in 2020
 
 ## Stretch Marks
 
 reddit
 
-* [Severe stretch marks over BI’s (mtf)](https://www.reddit.com/r/Transgender_Surgeries/comments/k9jsur/severe_stretch_marks_over_bis_mtf/) by kornteaaa in 2020
+* [Severe stretch marks over BI’s (mtf)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/k9jsur/severe_stretch_marks_over_bis_mtf/content.html) by kornteaaa in 2020
 
 <br />
 
@@ -879,7 +879,7 @@ Surgeons sites
 
 reddit
 
-* [Australian trans breast surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/hzofkf/australian_trans_breast_surgery/) by  ZeroPenguinParty in 2020
+* [Australian trans breast surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hzofkf/australian_trans_breast_surgery/content.html) by  ZeroPenguinParty in 2020
 
 <br />
 
@@ -895,7 +895,7 @@ Location
 
 reddit
 
-* [Australian trans breast surgery](https://www.reddit.com/r/Transgender_Surgeries/comments/hzofkf/australian_trans_breast_surgery/) by  ZeroPenguinParty in 2020 - requires psych letter
+* [Australian trans breast surgery](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/hzofkf/australian_trans_breast_surgery/content.html) by  ZeroPenguinParty in 2020 - requires psych letter
 
 <br />
 
@@ -1041,7 +1041,7 @@ Surgeons sites
 
 reddit
 
-* [Really happy with how my body looks now! 8 Weeks Post-OP Breast Augmentation [21MTF] 555cc under the muscle teardrop shaped](https://www.reddit.com/r/Transgender_Surgeries/comments/quysxx/really_happy_with_how_my_body_looks_now_8_weeks/) by SweetestFruitIsMango in 2021
+* [Really happy with how my body looks now! 8 Weeks Post-OP Breast Augmentation [21MTF] 555cc under the muscle teardrop shaped](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/quysxx/really_happy_with_how_my_body_looks_now_8_weeks/content.html) by SweetestFruitIsMango in 2021
 
 Review sites
 
@@ -1066,7 +1066,7 @@ Surgeons sites
 
 reddit
 
-* [Breast Augmentation 450cc. Done Feb 2018. Dr Kourosh Tavakoli. NSW, Australia.](https://www.reddit.com/r/Transgender_Surgeries/comments/ueaplu/breast_augmentation_450cc_done_feb_2018_dr/) by indicaflower1975 in 2022
+* [Breast Augmentation 450cc. Done Feb 2018. Dr Kourosh Tavakoli. NSW, Australia.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ueaplu/breast_augmentation_450cc_done_feb_2018_dr/content.html) by indicaflower1975 in 2022
 
 Review sites
 
@@ -1180,9 +1180,9 @@ Surgeons sites
 
 reddit
 
-* [Breast Augmentation in Australia - 270cc Before/After](https://www.reddit.com/r/Transgender_Surgeries/comments/1h8lytx/breast_augmentation_in_australia_270cc_beforeafter/) by _______moon in 2024
+* [Breast Augmentation in Australia - 270cc Before/After](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1h8lytx/breast_augmentation_in_australia_270cc_beforeafter/content.html) by _______moon in 2024
 * [breast implants](https://www.reddit.com/r/transgenderau/comments/dxjt9h/breast_implants/) by MaddieDeane in 2019
-* [Breast augmentation in Melbourne Australia. Dr David Topchian. Very happy with his professionalism and how my breast have healed.](https://www.reddit.com/r/Transgender_Surgeries/comments/aj8657/breast_augmentation_in_melbourne_australia_dr/) by xxlotus in 2019
+* [Breast augmentation in Melbourne Australia. Dr David Topchian. Very happy with his professionalism and how my breast have healed.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/aj8657/breast_augmentation_in_melbourne_australia_dr/content.html) by xxlotus in 2019
 
 Cosmetic Journey
 
@@ -1225,7 +1225,7 @@ Surgeons sites
 
 reddit
 
-* [Fat grafting for trans women and men?](https://www.reddit.com/r/Transgender_Surgeries/comments/cvykkt/fat_grafting_for_trans_women_and_men/) in 2019
+* [Fat grafting for trans women and men?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/cvykkt/fat_grafting_for_trans_women_and_men/content.html) in 2019
 
 <br />
 
@@ -1255,7 +1255,7 @@ Surgeons sites
 
 reddit
 
-* [Love em! 7 years HRT + 545cc moderate profile silicone implants by Dr Damon Thomas in Melbourne Australia!](https://www.reddit.com/r/Transgender_Surgeries/comments/17siozw/love_em_7_years_hrt_545cc_moderate_profile/) by gracehylandd in 2023
+* [Love em! 7 years HRT + 545cc moderate profile silicone implants by Dr Damon Thomas in Melbourne Australia!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/17siozw/love_em_7_years_hrt_545cc_moderate_profile/content.html) by gracehylandd in 2023
 
 <br />
 
@@ -1275,7 +1275,7 @@ Surgeons sites
 
 reddit
 
-* [BA with Dr Lip Teh in Perth, Australia.](https://www.reddit.com/r/Transgender_Surgeries/comments/x9jj3i/ba_with_dr_lip_teh_in_perth_australia/) by shinyfuture in 2022
+* [BA with Dr Lip Teh in Perth, Australia.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x9jj3i/ba_with_dr_lip_teh_in_perth_australia/content.html) by shinyfuture in 2022
 
 <br />
 
@@ -1339,7 +1339,7 @@ Surgeons site
 
 reddit
 
-* [consultation with surgeon who i suspect is transohobic](https://www.reddit.com/r/Transgender_Surgeries/comments/q7gnse/consultation_with_surgeon_who_i_suspect_is/) by hoemegga in 2021
+* [consultation with surgeon who i suspect is transohobic](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/q7gnse/consultation_with_surgeon_who_i_suspect_is/content.html) by hoemegga in 2021
 
 <br />
 
@@ -1363,7 +1363,7 @@ Surgeons sites
 
 reddit
 
-* [650cc after 6 month. From A to C and realy happy](https://www.reddit.com/r/Transgender_Surgeries/comments/emaw2f/650cc_after_6_month_from_a_to_c_and_realy_happy/) by ts_denise in 2020
+* [650cc after 6 month. From A to C and realy happy](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/emaw2f/650cc_after_6_month_from_a_to_c_and_realy_happy/content.html) by ts_denise in 2020
 
 <br />
 
@@ -1399,8 +1399,8 @@ Surgeons sites
 
 reddit
 
-* [It's been almost 5 months since my breast augmentation and here's some pics](https://www.reddit.com/r/Transgender_Surgeries/comments/d84kx3/its_been_almost_5_months_since_my_breast/) by izabera in 2019
-* [tits++](https://www.reddit.com/r/Transgender_Surgeries/comments/bj2g2v/tits/) by izabera in 2019
+* [It's been almost 5 months since my breast augmentation and here's some pics](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/d84kx3/its_been_almost_5_months_since_my_breast/content.html) by izabera in 2019
+* [tits++](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/bj2g2v/tits/content.html) by izabera in 2019
 
 <br />
 
@@ -1455,7 +1455,7 @@ Sometimes collaborates with Facial Team.
 reddit
 
 * [The Breast Augmentation Diaries](https://www.reddit.com/user/vaguelyannoyed/comments/ec2uzj/the_breast_augmentation_diaries/) by vaguelyannoyed in 2019
-* [Dr Kai Kaye, Ocean Clinic, Marbella, Spain](https://www.reddit.com/r/Transgender_Surgeries/comments/e0ib2x/dr_kai_kaye_ocean_clinic_marbella_spain/) by vaguelyannoyed in 2019
+* [Dr Kai Kaye, Ocean Clinic, Marbella, Spain](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/e0ib2x/dr_kai_kaye_ocean_clinic_marbella_spain/content.html) by vaguelyannoyed in 2019
 
 Papers
 
@@ -1540,7 +1540,7 @@ Surgeons sites
 
 reddit
 
-* [Breast augmentation before and after 390cc - 1 week post of with Dr. Kanhai in the Netherlands - Breast augmentation along with vaginoplasty](https://www.reddit.com/r/Transgender_Surgeries/comments/r15wqr/breast_augmentation_before_and_after_390cc_1_week/) by Balertax in 2021
+* [Breast augmentation before and after 390cc - 1 week post of with Dr. Kanhai in the Netherlands - Breast augmentation along with vaginoplasty](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/r15wqr/breast_augmentation_before_and_after_390cc_1_week/content.html) by Balertax in 2021
 
 <br />
 
@@ -1556,7 +1556,7 @@ Surgeons sites
 
 reddit
 
-* [Recommendations for breast augmentation in Europe](https://www.reddit.com/r/Transgender_Surgeries/comments/du075a/recommendations_for_breast_augmentation_in_europe/) by vaguelyannoyed in 2019
+* [Recommendations for breast augmentation in Europe](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/du075a/recommendations_for_breast_augmentation_in_europe/content.html) by vaguelyannoyed in 2019
 
 <br />
 
@@ -1577,7 +1577,7 @@ Surgeons sites
 
 reddit
 
-* [5 weeks post-op BA](https://www.reddit.com/r/Transgender_Surgeries/comments/zpt51i/5_weeks_postop_ba/) by worthybutterfly in 2022
+* [5 weeks post-op BA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zpt51i/5_weeks_postop_ba/content.html) by worthybutterfly in 2022
 
 Other
 
@@ -1595,8 +1595,8 @@ See the SRS page for more information.
 
 reddit
 
-* [2 weeks post-op](https://www.reddit.com/r/Transgender_Surgeries/comments/on4y5c/2_weeks_postop/) by MillionaireBitches in 2021
-* [Anyone got breast augmentation from Dr.Chettawut?](https://www.reddit.com/r/Transgender_Surgeries/comments/f5ddl1/anyone_got_breast_augmentation_from_drchettawut/) by Audrey_91 in 2020
+* [2 weeks post-op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/on4y5c/2_weeks_postop/content.html) by MillionaireBitches in 2021
+* [Anyone got breast augmentation from Dr.Chettawut?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/f5ddl1/anyone_got_breast_augmentation_from_drchettawut/content.html) by Audrey_91 in 2020
 
 <br />
 
@@ -1608,7 +1608,7 @@ See SRS page for more details.
 
 #### Sutin Khobunsongserm
 
-* [Dr Sutin Pai Botched Breast Augmentation](https://www.reddit.com/r/Transgender_Surgeries/comments/iffmfb/dr_sutin_pai_botched_breast_augmentation/) by jsc0951 in 2020 - this is not SRS
+* [Dr Sutin Pai Botched Breast Augmentation](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/iffmfb/dr_sutin_pai_botched_breast_augmentation/content.html) by jsc0951 in 2020 - this is not SRS
 
 <br />
 
@@ -1660,7 +1660,7 @@ Location
 
 reddit
 
-* [7 weeks ago I had breast augmentation at the same time that stage 1 of my GRS was undertaken. 375 cc teardrop by Dr Sanguan at PPSI, Phuket. More information in comments.](https://www.reddit.com/r/Transgender_Surgeries/comments/x4qcjm/7_weeks_ago_i_had_breast_augmentation_at_the_same/) by Dizzy_Seaworthiness in 2022
+* [7 weeks ago I had breast augmentation at the same time that stage 1 of my GRS was undertaken. 375 cc teardrop by Dr Sanguan at PPSI, Phuket. More information in comments.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/x4qcjm/7_weeks_ago_i_had_breast_augmentation_at_the_same/content.html) by Dizzy_Seaworthiness in 2022
     * [GRS at 52 in Phuket with Dr Sanguan Kunaporn](https://www.reddit.com/r/TransgenderNZ/comments/vw5lxq/grs_at_52_in_phuket_with_dr_sanguan_kunaporn/) and [cross-post](https://www.reddit.com/r/TransLater/comments/vw5ky3/grs_at_52_in_phuket_with_dr_sanguan_kunaporn/) by Dizzy_Seaworthiness in 2022
 
 <br />
@@ -1673,11 +1673,11 @@ Also see SRS page
 
 reddit
 
-* [5 months BA 450cc round](https://www.reddit.com/r/Transgender_Surgeries/comments/156uapj/5_months_ba_450cc_round/) by hummnamalik
+* [5 months BA 450cc round](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/156uapj/5_months_ba_450cc_round/content.html) by hummnamalik
 in 2023
-    * [2 months BA+SRS 💯 worth it💖](https://www.reddit.com/r/Transgender_Surgeries/comments/13h45fk/2_months_basrs_worth_it/) by hummnamalik
+    * [2 months BA+SRS 💯 worth it💖](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13h45fk/2_months_basrs_worth_it/content.html) by hummnamalik
 in 2023
-    * [BA 6 weeks (Thailand)](https://www.reddit.com/r/Transgender_Surgeries/comments/12whheh/ba_6_weeks_thailand/) by hummnamalik in 2023
+    * [BA 6 weeks (Thailand)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/12whheh/ba_6_weeks_thailand/content.html) by hummnamalik in 2023
 
 <br />
 
@@ -1693,12 +1693,12 @@ Location
 
 reddit
 
-* [Breast Augmentation, Facelift and Rhinoplasticy at Kamol Cosmetic Hospital / BKK April 2023](https://www.reddit.com/r/Transgender_Surgeries/comments/139w8n0/breast_augmentation_facelift_and_rhinoplasticy_at/) by Emilia-Ruettinger in 2023
-* [breast Augment 5 months. has left on bottomed out?](https://www.reddit.com/r/Transgender_Surgeries/comments/109qlkd/breast_augment_5_months_has_left_on_bottomed_out/) by noonoobabykins in 2023
-    * [Dr Kamol breasts 5 months](https://www.reddit.com/r/Transgender_Surgeries/comments/zlfzh5/dr_kamol_breasts_5_months/) by noonoobabykins in 2022
+* [Breast Augmentation, Facelift and Rhinoplasticy at Kamol Cosmetic Hospital / BKK April 2023](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/139w8n0/breast_augmentation_facelift_and_rhinoplasticy_at/content.html) by Emilia-Ruettinger in 2023
+* [breast Augment 5 months. has left on bottomed out?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/109qlkd/breast_augment_5_months_has_left_on_bottomed_out/content.html) by noonoobabykins in 2023
+    * [Dr Kamol breasts 5 months](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zlfzh5/dr_kamol_breasts_5_months/content.html) by noonoobabykins in 2022
     * [breasts four half months all angles](https://www.reddit.com/user/noonoobabykins/comments/zi6lyp/breasts_four_half_months_all_angles/) by noonoobabykins in 2022
-    * [Breasts four months](https://www.reddit.com/r/Transgender_Surgeries/comments/zb5uvf/breasts_four_months/) by noonoobabykins in 2022
-* [7 months post op Kamol Hospital in Bangkok summary](https://www.reddit.com/r/Transgender_Surgeries/comments/xo6o40/7_months_post_op_kamol_hospital_in_bangkok_summary/) by cashoob in 2022 - *"They packed me with 625cc full profile implants, the consultations in Kamol are shit, you get nothing in regards to the advise and it just sucks... I have massive issues with this job, I cannot walk without post OP bra (over 6 months now). I have booked a consultation with local plastic surgeon to look at it, I probably will need this corrected. My left armpit (look up in the text) is still not healed, it is better but not perfect. Often I get my arms numb, cannot sleep on my back without bra  support because both implants slide down to my sides and cause pain. Left implant is still causing nerve compression and pain. I do have as well disfiguration on the bottom of my boobs and it makes the entire thing looking disgusting, not like breasts at all."*
+    * [Breasts four months](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zb5uvf/breasts_four_months/content.html) by noonoobabykins in 2022
+* [7 months post op Kamol Hospital in Bangkok summary](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/xo6o40/7_months_post_op_kamol_hospital_in_bangkok_summary/content.html) by cashoob in 2022 - *"They packed me with 625cc full profile implants, the consultations in Kamol are shit, you get nothing in regards to the advise and it just sucks... I have massive issues with this job, I cannot walk without post OP bra (over 6 months now). I have booked a consultation with local plastic surgeon to look at it, I probably will need this corrected. My left armpit (look up in the text) is still not healed, it is better but not perfect. Often I get my arms numb, cannot sleep on my back without bra  support because both implants slide down to my sides and cause pain. Left implant is still causing nerve compression and pain. I do have as well disfiguration on the bottom of my boobs and it makes the entire thing looking disgusting, not like breasts at all."*
 
 YouTube
 
@@ -1722,7 +1722,7 @@ Surgeons sites
 
 reddit
 
-* [BA in Bangkok with Dr. Boonchai from Bonnie Clinic](https://old.reddit.com/r/Transgender_Surgeries/comments/18jnm8s/ba_in_bangkok_with_dr_boonchai_from_bonnie_clinic/) by Bubbly_Surprise5135 in 2023
+* [BA in Bangkok with Dr. Boonchai from Bonnie Clinic](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/18jnm8s/ba_in_bangkok_with_dr_boonchai_from_bonnie_clinic/content.html) by Bubbly_Surprise5135 in 2023
 
 Review sites
 
@@ -1770,7 +1770,7 @@ Surgeons sites
 
 reddit
 
-* [1050cc silicone implants - U.K.](https://www.reddit.com/r/Transgender_Surgeries/comments/zezzc1/1050cc_silicone_implants_uk/) by Giseleeeee69 in 2022
+* [1050cc silicone implants - U.K.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zezzc1/1050cc_silicone_implants_uk/content.html) by Giseleeeee69 in 2022
 
 ---
 
@@ -1856,7 +1856,7 @@ Review sites
 reddit
 
 * [Before/after B.A with Dr.Raffi Hovsepian. 8 years of HRT prior to surgery](https://www.reddit.com/r/TransBreastTimelines/comments/fb26r9/beforeafter_ba_with_drraffi_hovsepian_8_years_of/) by transthrowaway3343 in 2020
-* [1 week post-op B.A with Dr.Raffi Hovsepian](https://www.reddit.com/r/Transgender_Surgeries/comments/ecjhnz/1_week_postop_ba_with_drraffi_hovsepian/) by transthrowaway3343 in 2019
+* [1 week post-op B.A with Dr.Raffi Hovsepian](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ecjhnz/1_week_postop_ba_with_drraffi_hovsepian/content.html) by transthrowaway3343 in 2019
 
 Youtube
 
@@ -1943,7 +1943,7 @@ Surgeons sites
 
 reddit
 
-* [Dr. Pousti - San Diego - Breast Augmentation](https://www.reddit.com/r/Transgender_Surgeries/comments/alvgvg/dr_pousti_san_diego_breast_augmentation/) by TypoInMyUsermame
+* [Dr. Pousti - San Diego - Breast Augmentation](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/alvgvg/dr_pousti_san_diego_breast_augmentation/content.html) by TypoInMyUsermame
 in 2019
 * [Flawed!](https://www.reddit.com/r/FlawedBoltons/comments/30gl0o/flawed/) by bluebenji around 2015
 
@@ -1977,7 +1977,7 @@ Surgeons sites
 
 reddit
 
-* [Dr. Mosser has such an impersonal and complicated process before ever getting a consult that he's just not worth it](https://www.reddit.com/r/Transgender_Surgeries/comments/i3mhxy/dr_mosser_has_such_an_impersonal_and_complicated/) by hrt_breaker in 2020
+* [Dr. Mosser has such an impersonal and complicated process before ever getting a consult that he's just not worth it](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/i3mhxy/dr_mosser_has_such_an_impersonal_and_complicated/content.html) by hrt_breaker in 2020
 
 YouTube
 
@@ -2049,10 +2049,10 @@ Surgeons sites
 
 reddit
 
-* [Round 2 of fat transfer breast augmentation with body contouring](https://www.reddit.com/r/Transgender_Surgeries/comments/lt8k8c/round_2_of_fat_transfer_breast_augmentation_with/)  by Klafka612 in 2021
-* [3 months post op - fat grafting breast augmentation and abdominoplasty with Dr. Zeidler](https://www.reddit.com/r/Transgender_Surgeries/comments/ldjcg5/3_months_post_op_fat_grafting_breast_augmentation/) by Klafka612 in 2021
-* [\[nsfw\] 8 days post op from lipoabdominoplasty and fat grafting breast augmentation](https://www.reddit.com/r/Transgender_Surgeries/comments/jtrthy/nsfw_8_days_post_op_from_lipoabdominoplasty_and/) Klafka612 in 2020
-* reply to [Fat transfer breast augmentation](https://www.reddit.com/r/Transgender_Surgeries/comments/id8hna/fat_transfer_breast_augmentation/g28aymo/) by Klafka612 in 2020
+* [Round 2 of fat transfer breast augmentation with body contouring](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lt8k8c/round_2_of_fat_transfer_breast_augmentation_with/content.html)  by Klafka612 in 2021
+* [3 months post op - fat grafting breast augmentation and abdominoplasty with Dr. Zeidler](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ldjcg5/3_months_post_op_fat_grafting_breast_augmentation/content.html) by Klafka612 in 2021
+* [\[nsfw\] 8 days post op from lipoabdominoplasty and fat grafting breast augmentation](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jtrthy/nsfw_8_days_post_op_from_lipoabdominoplasty_and/content.html) Klafka612 in 2020
+* reply to [Fat transfer breast augmentation](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/id8hna/fat_transfer_breast_augmentation/g28aymo/content.html) by Klafka612 in 2020
 
 <br />
 
@@ -2068,10 +2068,10 @@ Surgeons sites
 
 reddit
 
-* [7 months post op FFS AND BA](https://www.reddit.com/r/Transgender_Surgeries/comments/1504xiw/7_months_post_op_ffs_and_ba/) by lovemiamoro in 2023
-* [1 mo. post-op with Satterwhite](https://www.reddit.com/r/Transgender_Surgeries/comments/nxtzzl/1_mo_postop_with_satterwhite/) by Dumblefuck in 2021
-* [2 days post op BA with Satterwhite, very early but I think he gave me just what I hoped for](https://www.reddit.com/r/Transgender_Surgeries/comments/jkxmvg/2_days_post_op_ba_with_satterwhite_very_early_but/) by notyourdonut in 2020
-* [Breast augmentation with Dr. Satterwhite in SF yesterday. 505 cc. I feel really sore this morning but so happy](https://www.reddit.com/r/Transgender_Surgeries/comments/jcbckv/breast_augmentation_with_dr_satterwhite_in_sf/) by cryptic_sybil in 2020
+* [7 months post op FFS AND BA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1504xiw/7_months_post_op_ffs_and_ba/content.html) by lovemiamoro in 2023
+* [1 mo. post-op with Satterwhite](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nxtzzl/1_mo_postop_with_satterwhite/content.html) by Dumblefuck in 2021
+* [2 days post op BA with Satterwhite, very early but I think he gave me just what I hoped for](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jkxmvg/2_days_post_op_ba_with_satterwhite_very_early_but/content.html) by notyourdonut in 2020
+* [Breast augmentation with Dr. Satterwhite in SF yesterday. 505 cc. I feel really sore this morning but so happy](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jcbckv/breast_augmentation_with_dr_satterwhite_in_sf/content.html) by cryptic_sybil in 2020
 
 <br />
 
@@ -2086,7 +2086,7 @@ Surgeons sites
 
 reddit
 
-* [800cc High Profile silicone gel implants. Three months post-op. Same bra for comparison.](https://www.reddit.com/r/Transgender_Surgeries/comments/kl5w28/800cc_high_profile_silicone_gel_implants_three/) by xVeridia in 2020
+* [800cc High Profile silicone gel implants. Three months post-op. Same bra for comparison.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kl5w28/800cc_high_profile_silicone_gel_implants_three/content.html) by xVeridia in 2020
 
 <br />
 
@@ -2104,8 +2104,8 @@ Surgeons sites
 
 reddit
 
-* [Dr. Tanya Judge BA March '22 Mini-review](https://www.reddit.com/r/Transgender_Surgeries/comments/10hk0sb/dr_tanya_judge_ba_march_22_minireview/) by anontranssurgeries18 in 2023
-* reply to [Breast augmentation revision needed--help us find a qualified surgeon!](https://www.reddit.com/r/Transgender_Surgeries/comments/kkumoz/breast_augmentation_revision_neededhelp_us_find_a/gh88tkg/) by snarfygato in 2020
+* [Dr. Tanya Judge BA March '22 Mini-review](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10hk0sb/dr_tanya_judge_ba_march_22_minireview/content.html) by anontranssurgeries18 in 2023
+* reply to [Breast augmentation revision needed--help us find a qualified surgeon!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kkumoz/breast_augmentation_revision_neededhelp_us_find_a/gh88tkg/content.html) by snarfygato in 2020
 
 Review sites
 
@@ -2128,7 +2128,7 @@ Surgeons sites
 
 reddit
 
-* [2 weeks post- op breast augmentation! I went to Dr. Roderick Simonds at Kaiser, here in San Francisco, and couldn’t be more satisfied with my results. I went with 375CC, round/ silicone, under the muscle and the brand is Mentor.](https://www.reddit.com/r/Transgender_Surgeries/comments/lwgee1/2_weeks_post_op_breast_augmentation_i_went_to_dr/) by alex_sage22 in 2021
+* [2 weeks post- op breast augmentation! I went to Dr. Roderick Simonds at Kaiser, here in San Francisco, and couldn’t be more satisfied with my results. I went with 375CC, round/ silicone, under the muscle and the brand is Mentor.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lwgee1/2_weeks_post_op_breast_augmentation_i_went_to_dr/content.html) by alex_sage22 in 2021
 
 Review sites
 
@@ -2150,7 +2150,7 @@ Surgeons sites
 
 reddit
 
-* [7 months post-op BA, 300cc high profile dual plane smooth silicone implants placed by Dr. Ulvila at Kaiser San Francisco](https://www.reddit.com/r/Transgender_Surgeries/comments/mnc9ay/7_months_postop_ba_300cc_high_profile_dual_plane/) by essentialdesideratum in 2021
+* [7 months post-op BA, 300cc high profile dual plane smooth silicone implants placed by Dr. Ulvila at Kaiser San Francisco](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mnc9ay/7_months_postop_ba_300cc_high_profile_dual_plane/content.html) by essentialdesideratum in 2021
 
 <br />
 
@@ -2200,8 +2200,8 @@ Surgeons sites
 
 reddit
 
-* [Terrible communication with Dr. Mort Rizvi and Assistants](https://www.reddit.com/r/Transgender_Surgeries/comments/12xyp2c/terrible_communication_with_dr_mort_rizvi_and/) by Own_Razzmatazz54 in 2023
-* [day 4. 360 lipo & fat grafting to hips & breasts](https://www.reddit.com/r/Transgender_Surgeries/comments/wcq143/day_4_360_lipo_fat_grafting_to_hips_breasts/) by yourlocaltransexual in 2022
+* [Terrible communication with Dr. Mort Rizvi and Assistants](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/12xyp2c/terrible_communication_with_dr_mort_rizvi_and/content.html) by Own_Razzmatazz54 in 2023
+* [day 4. 360 lipo & fat grafting to hips & breasts](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wcq143/day_4_360_lipo_fat_grafting_to_hips_breasts/content.html) by yourlocaltransexual in 2022
 
 
 Other
@@ -2243,7 +2243,7 @@ Surgeons sites
 
 reddit
 
-* [Need advice .](https://www.reddit.com/r/Transgender_Surgeries/comments/14kuy75/need_advice/) by \_drearymoon\_ in 2023
+* [Need advice .](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/14kuy75/need_advice/content.html) by \_drearymoon\_ in 2023
 * reply to [looking for surgeons who accept Medi-cal in SoCal!!!!](https://www.reddit.com/r/TopSurgery/comments/107rscm/looking_for_surgeons_who_accept_medical_in_socal/jfmymi9/) by AdWeak8075 in 2023 - *"I just had surgery with this surgeon and had a terrible experience. I made a whole rant post about this in the thread. Be wary of Dr. Mofid... It is strange because his reviews are phenomenal and describe communication and comfort through the process but for whatever reason my experience was the exact opposite. Minimal communication and instances where the judgement was questionable"*
     * [Not the healing I wanted but the feeling I did](https://www.reddit.com/r/TopSurgery/comments/12h3co0/not_the_healing_i_wanted_but_the_feeling_i_did/) by AdWeak8075 in 2023
 
@@ -2304,13 +2304,13 @@ Surgeons sites
 
 reddit
 
-* [6 weeks post-op XL Breast Augmentation with Dr. Revis](https://www.reddit.com/r/Transgender_Surgeries/comments/13k3duy/6_weeks_postop_xl_breast_augmentation_with_dr/) by Impossible_PhD in 2023, see also [A thread on boob math! AKA: How to pick your BA implant size](https://stainedglasswoman.substack.com/p/a-thread-on-boob-math-aka-how-to) in substack
+* [6 weeks post-op XL Breast Augmentation with Dr. Revis](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/13k3duy/6_weeks_postop_xl_breast_augmentation_with_dr/content.html) by Impossible_PhD in 2023, see also [A thread on boob math! AKA: How to pick your BA implant size](https://stainedglasswoman.substack.com/p/a-thread-on-boob-math-aka-how-to) in substack
     * [I just had my second breast augmentation, which is my last gender-affirming surgery! AM(A)A! And yes, my boobs are pretty dang big now.](https://www.reddit.com/r/MtF/comments/12eyu6h/i_just_had_my_second_breast_augmentation_which_is/) by Impossible_PhD in 2023
-* [900cc 10 months post op, full body.](https://www.reddit.com/r/Transgender_Surgeries/comments/11w71m5/900cc_10_months_post_op_full_body/) by stealthyliving in 2023
-* [Had a 1000cc BA yesterday with Don Revis](https://www.reddit.com/r/Transgender_Surgeries/comments/wbw8fs/had_a_1000cc_ba_yesterday_with_don_revis/) by mechsmechsmechs in 2022
-* [900 cc 8 weeks post op Dr Revis](https://www.reddit.com/r/Transgender_Surgeries/comments/vvxb38/900_cc_8_weeks_post_op_dr_revis/) by stealthyliving in 2022
-    * [2 weeks post op 900cc saline, AMA about experience with Dr Revis, or more specifically, of going for XL implants as a Trans woman](https://www.reddit.com/r/Transgender_Surgeries/comments/v1mhns/2_weeks_post_op_900cc_saline_ama_about_experience/) by  stealthyliving in 2022
-* [New boobs! Like, really new. 800cc from Dr. Revis.](https://www.reddit.com/r/Transgender_Surgeries/comments/lvsrf0/new_boobs_like_really_new_800cc_from_dr_revis/) by WhootyMcBoob in 2021
+* [900cc 10 months post op, full body.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/11w71m5/900cc_10_months_post_op_full_body/content.html) by stealthyliving in 2023
+* [Had a 1000cc BA yesterday with Don Revis](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/wbw8fs/had_a_1000cc_ba_yesterday_with_don_revis/content.html) by mechsmechsmechs in 2022
+* [900 cc 8 weeks post op Dr Revis](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/vvxb38/900_cc_8_weeks_post_op_dr_revis/content.html) by stealthyliving in 2022
+    * [2 weeks post op 900cc saline, AMA about experience with Dr Revis, or more specifically, of going for XL implants as a Trans woman](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/v1mhns/2_weeks_post_op_900cc_saline_ama_about_experience/content.html) by  stealthyliving in 2022
+* [New boobs! Like, really new. 800cc from Dr. Revis.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lvsrf0/new_boobs_like_really_new_800cc_from_dr_revis/content.html) by WhootyMcBoob in 2021
 * [My Attempt at Implants before Hormones and Perlutal](https://www.reddit.com/r/TransBreastTimelines/comments/f9wlc0/my_attempt_at_implants_before_hormones_and/) by Syx78 in 2020
 
 realself
@@ -2365,7 +2365,7 @@ Surgeons sites
 
 reddit
 
-* reply to [Does anyone regret getting BA?](https://www.reddit.com/r/Transgender_Surgeries/comments/nn5bnz/does_anyone_regret_getting_ba/gzw4umi/) by Poshprincessxo in 2021
+* reply to [Does anyone regret getting BA?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nn5bnz/does_anyone_regret_getting_ba/gzw4umi/content.html) by Poshprincessxo in 2021
 
 Legal
 
@@ -2393,7 +2393,7 @@ Surgeons sites
 
 reddit
 
-* reply to [Does anyone regret getting BA?](https://www.reddit.com/r/Transgender_Surgeries/comments/nn5bnz/does_anyone_regret_getting_ba/gzw4umi/) by Poshprincessxo in 2021
+* reply to [Does anyone regret getting BA?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nn5bnz/does_anyone_regret_getting_ba/gzw4umi/content.html) by Poshprincessxo in 2021
 
 Susans
 
@@ -2449,8 +2449,8 @@ Location
 
 reddit
 
-* [Three days post op with Dr. Sara Danker (University of Miami)](https://www.reddit.com/r/Transgender_Surgeries/comments/u1emd8/three_days_post_op_with_dr_sara_danker_university/) by Capable-Income-237
-* [AMA I just had Breast augmentation with Dr. Sarah Danker (University of Miami)](https://www.reddit.com/r/Transgender_Surgeries/comments/tzqrlx/ama_i_just_had_breast_augmentation_with_dr_sarah/) by Capable-Income-237
+* [Three days post op with Dr. Sara Danker (University of Miami)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/u1emd8/three_days_post_op_with_dr_sara_danker_university/content.html) by Capable-Income-237
+* [AMA I just had Breast augmentation with Dr. Sarah Danker (University of Miami)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/tzqrlx/ama_i_just_had_breast_augmentation_with_dr_sarah/content.html) by Capable-Income-237
 
 <br />
 
@@ -2468,8 +2468,8 @@ Surgeons sites
 
 reddit
 
-* [Update on 650 cc HP submuscular Silicone implants. Its been 5 weeks now. They are slowly starting to go in a more natural position. Im hoping they drop and fluff even more](https://www.reddit.com/r/Transgender_Surgeries/comments/ur8naw/update_on_650_cc_hp_submuscular_silicone_implants/) by deed94 in 2022
-    * [Breast Augmentation 650 ccs](https://www.reddit.com/r/Transgender_Surgeries/comments/u0q3z6/breast_augmentation_650_ccs/) by deed94 in 2022
+* [Update on 650 cc HP submuscular Silicone implants. Its been 5 weeks now. They are slowly starting to go in a more natural position. Im hoping they drop and fluff even more](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ur8naw/update_on_650_cc_hp_submuscular_silicone_implants/content.html) by deed94 in 2022
+    * [Breast Augmentation 650 ccs](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/u0q3z6/breast_augmentation_650_ccs/content.html) by deed94 in 2022
 
 <br />
 
@@ -2497,8 +2497,8 @@ Review Sites
 
 reddit
 
-* [2 months post-op breast augmentation with Dr. Cristen Catignani in Alpharetta, GA. Moderate-plus profile Mentor silicone gel implants, 425cc and 450cc.](https://www.reddit.com/r/Transgender_Surgeries/comments/e8bj1l/2_months_postop_breast_augmentation_with_dr/) by surgerythrowaway922 in 2019
-* [I just had breast augmentation! AMA!](https://www.reddit.com/r/Transgender_Surgeries/comments/demf3f/i_just_had_breast_augmentation_ama/) by MaddieB82817 in 2019
+* [2 months post-op breast augmentation with Dr. Cristen Catignani in Alpharetta, GA. Moderate-plus profile Mentor silicone gel implants, 425cc and 450cc.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/e8bj1l/2_months_postop_breast_augmentation_with_dr/content.html) by surgerythrowaway922 in 2019
+* [I just had breast augmentation! AMA!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/demf3f/i_just_had_breast_augmentation_ama/content.html) by MaddieB82817 in 2019
 
 <br />
 
@@ -2520,13 +2520,13 @@ Surgeons site
 
 reddit
 
-* [Officially 3 years post op](https://www.reddit.com/r/Transgender_Surgeries/comments/w4phf6/officially_3_years_post_op/) by wellBehavedfish in 2022
-    * [Periareolar scars 5 months post op](https://www.reddit.com/r/Transgender_Surgeries/comments/e7r75z/periareolar_scars_5_months_post_op/) by wellBehavedfish in 2019
-    * [75 days Post Breast Aug - Zukowski](https://www.reddit.com/r/Transgender_Surgeries/comments/d8iyc7/75_days_post_breast_aug_zukowski/) by wellBehavedfish in 2019
-    * [Dr. Zukowski breast aug one week post op :)](https://www.reddit.com/r/Transgender_Surgeries/comments/cgh46q/dr_zukowski_breast_aug_one_week_post_op/) by wellBehavedfish in 2019
-    * [Breast aug Dr. Zukowski. Another post op pic.](https://www.reddit.com/r/Transgender_Surgeries/comments/cfcy4o/breast_aug_dr_zukowski_another_post_op_pic/) by wellBehavedfish in 2019
-    * [*NSFW* another angle of my breasts by Dr. Zukowski. Last post with front angle on my profile.](https://www.reddit.com/r/Transgender_Surgeries/comments/cewfrh/nsfw_another_angle_of_my_breasts_by_dr_zukowski/) by wellBehavedfish in 2019
-    * [*NSFW* Breast aug results:)Dr. Zukowski. A phenomenal surgeon with most kind and caring staff especially for trans. I couldn’t be happier with the result and experience. I cannot recommend him enough. These are early stage in recovery pics. I will be posting more once the bandages come off :)](https://www.reddit.com/r/Transgender_Surgeries/comments/ceweuh/nsfw_breast_aug_resultsdr_zukowski_a_phenomenal/) by wellBehavedfish in 2019
+* [Officially 3 years post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/w4phf6/officially_3_years_post_op/content.html) by wellBehavedfish in 2022
+    * [Periareolar scars 5 months post op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/e7r75z/periareolar_scars_5_months_post_op/content.html) by wellBehavedfish in 2019
+    * [75 days Post Breast Aug - Zukowski](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/d8iyc7/75_days_post_breast_aug_zukowski/content.html) by wellBehavedfish in 2019
+    * [Dr. Zukowski breast aug one week post op :)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/cgh46q/dr_zukowski_breast_aug_one_week_post_op/content.html) by wellBehavedfish in 2019
+    * [Breast aug Dr. Zukowski. Another post op pic.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/cfcy4o/breast_aug_dr_zukowski_another_post_op_pic/content.html) by wellBehavedfish in 2019
+    * [*NSFW* another angle of my breasts by Dr. Zukowski. Last post with front angle on my profile.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/cewfrh/nsfw_another_angle_of_my_breasts_by_dr_zukowski/content.html) by wellBehavedfish in 2019
+    * [*NSFW* Breast aug results:)Dr. Zukowski. A phenomenal surgeon with most kind and caring staff especially for trans. I couldn’t be happier with the result and experience. I cannot recommend him enough. These are early stage in recovery pics. I will be posting more once the bandages come off :)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ceweuh/nsfw_breast_aug_resultsdr_zukowski_a_phenomenal/content.html) by wellBehavedfish in 2019
 
 <br />
 
@@ -2540,7 +2540,7 @@ See also the SRS page.
 
 reddit
 
-* [I feel botched. (The University of Kansas Hospital) surgery was 5/25/2022 with Dr Satish Ponnuru.](https://www.reddit.com/r/Transgender_Surgeries/comments/w1imo2/i_feel_botched_the_university_of_kansas_hospital/) by Temporary_Ear_5722 in 2022
+* [I feel botched. (The University of Kansas Hospital) surgery was 5/25/2022 with Dr Satish Ponnuru.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/w1imo2/i_feel_botched_the_university_of_kansas_hospital/content.html) by Temporary_Ear_5722 in 2022
 
 
 
@@ -2565,7 +2565,7 @@ Article
 
 reddit
 
-* [FFS surgeon DrFensterer to answer questions about transgender surgeries](https://www.reddit.com/r/Transgender_Surgeries/comments/q8z5ot/ffs_surgeon_drfensterer_to_answer_questions_about/) by [u/DrFensterer](https://www.reddit.com/user/DrFensterer)
+* [FFS surgeon DrFensterer to answer questions about transgender surgeries](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/q8z5ot/ffs_surgeon_drfensterer_to_answer_questions_about/content.html) by [u/DrFensterer](https://www.reddit.com/user/DrFensterer)
 
 <br />
 
@@ -2582,7 +2582,7 @@ Surgons sites
 
 reddit
 
-* [I had fat transfer BA and cheek feminization today AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/jwv50x/i_had_fat_transfer_ba_and_cheek_feminization/) by butchbagelbutch in 2020
+* [I had fat transfer BA and cheek feminization today AMA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jwv50x/i_had_fat_transfer_ba_and_cheek_feminization/content.html) by butchbagelbutch in 2020
     * reply to `broken link`
 
 Review sites
@@ -2615,7 +2615,7 @@ Surgeons sites
 
 reddit
 
-* [1 year postop Breast Augmentation with Dr. Jaromir Slama, Boston Medical Center (op date: 3/15/2022)](https://www.reddit.com/r/Transgender_Surgeries/comments/11zocm9/1_year_postop_breast_augmentation_with_dr_jaromir/) by greatbritain846 in 2023
+* [1 year postop Breast Augmentation with Dr. Jaromir Slama, Boston Medical Center (op date: 3/15/2022)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/11zocm9/1_year_postop_breast_augmentation_with_dr_jaromir/content.html) by greatbritain846 in 2023
 
 <br />
 
@@ -2625,7 +2625,7 @@ reddit
 
 reddit
 
-* [Dr. Arthur Shektman out of Spiegel Center](https://www.reddit.com/r/Transgender_Surgeries/comments/1blxz4q/dr_arthur_shektman_out_of_spiegel_center/) by Delicious-Mark5783 in 2024, and [reply](https://www.reddit.com/r/Transgender_Surgeries/comments/1blxz4q/dr_arthur_shektman_out_of_spiegel_center/kye981x/) - *"I just had surgery with Dr Shektman. I do NOT reccomend him as a surgeon! He is poor with any specialized: BA on a trans body, lipo on an awkward body. 99% of the time does NOT consult with or meet with his patients prior to surgery, he may do a 1-2 minute pop in to just say “I can do that... When I did finally get to talk to him after I was drugged right before surgery, he made a scoffing comment at my question a out my desired results and the nurse (all of the nurses are great), got embarrassed on his behalf and tried to course-correct his comment."*
+* [Dr. Arthur Shektman out of Spiegel Center](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1blxz4q/dr_arthur_shektman_out_of_spiegel_center/content.html) by Delicious-Mark5783 in 2024, and [reply](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1blxz4q/dr_arthur_shektman_out_of_spiegel_center/kye981x/content.html) - *"I just had surgery with Dr Shektman. I do NOT reccomend him as a surgeon! He is poor with any specialized: BA on a trans body, lipo on an awkward body. 99% of the time does NOT consult with or meet with his patients prior to surgery, he may do a 1-2 minute pop in to just say “I can do that... When I did finally get to talk to him after I was drugged right before surgery, he made a scoffing comment at my question a out my desired results and the nurse (all of the nurses are great), got embarrassed on his behalf and tried to course-correct his comment."*
 
 <br />
 
@@ -2643,8 +2643,8 @@ Surgeons sites
 
 reddit
 
-* [By listening to a so called trans surgeon in Maryland, my breasts are ruined](https://www.reddit.com/r/Transgender_Surgeries/comments/m7xvt0/by_listening_to_a_so_called_trans_surgeon_in/) by stupidgothybitch in 2021
-* [Gabriel Del Corral (Consult Notes)](https://www.reddit.com/r/Transgender_Surgeries/comments/letwg2/gabriel_del_corral_consult_notes/) by  anxieuxd in 2021
+* [By listening to a so called trans surgeon in Maryland, my breasts are ruined](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/m7xvt0/by_listening_to_a_so_called_trans_surgeon_in/content.html) by stupidgothybitch in 2021
+* [Gabriel Del Corral (Consult Notes)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/letwg2/gabriel_del_corral_consult_notes/content.html) by  anxieuxd in 2021
 
 <br />
 
@@ -2661,8 +2661,8 @@ Surgeons sites
 
 reddit
 
-* [BA - 2 weeks post op recovery update](https://www.reddit.com/r/Transgender_Surgeries/comments/105roqk/ba_2_weeks_post_op_recovery_update/)  by  bigbombmcgee in 2023
-    * [Finally got Breast Aug! 4/5 days Post-Op](https://www.reddit.com/r/Transgender_Surgeries/comments/zwbc74/finally_got_breast_aug_45_days_postop/) by  bigbombmcgee in 2022
+* [BA - 2 weeks post op recovery update](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/105roqk/ba_2_weeks_post_op_recovery_update/content.html)  by  bigbombmcgee in 2023
+    * [Finally got Breast Aug! 4/5 days Post-Op](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zwbc74/finally_got_breast_aug_45_days_postop/content.html) by  bigbombmcgee in 2022
 
 NPI # 1346653235
 
@@ -2704,8 +2704,8 @@ Surgeons sites
 
 reddit
 
-* [Dr. Richard Tholen (MN) Review (BAD)](https://www.reddit.com/r/Transgender_Surgeries/comments/idgw2g/dr_richard_tholen_mn_review_bad/) by  by awriwri in 2020, also see realself review [I wish I could give him less than 0 stars for all the distress, self loathing, and complications he has caused me](https://www.realself.com/review/mtf-breast-augmentation-dr-tholen)
-* [Breast Augmentation complications](https://www.reddit.com/r/Transgender_Surgeries/comments/fvrj0k/breast_augmentation_complications/) by awriwri in 2020
+* [Dr. Richard Tholen (MN) Review (BAD)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/idgw2g/dr_richard_tholen_mn_review_bad/content.html) by  by awriwri in 2020, also see realself review [I wish I could give him less than 0 stars for all the distress, self loathing, and complications he has caused me](https://www.realself.com/review/mtf-breast-augmentation-dr-tholen)
+* [Breast Augmentation complications](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/fvrj0k/breast_augmentation_complications/content.html) by awriwri in 2020
 
 Review sites
 
@@ -2727,7 +2727,7 @@ Surgeons sites
 
 reddit
 
-* [5 year post op BA high profile gel 400cc with Dr. Choudry in MN NSFW PHOTOS](https://www.reddit.com/r/Transgender_Surgeries/comments/lsbzpa/5_year_post_op_ba_high_profile_gel_400cc_with_dr/) by TemporarilyEG in 2021
+* [5 year post op BA high profile gel 400cc with Dr. Choudry in MN NSFW PHOTOS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lsbzpa/5_year_post_op_ba_high_profile_gel_400cc_with_dr/content.html) by TemporarilyEG in 2021
 
 Review sites
 
@@ -2799,8 +2799,8 @@ Surgeons sites
 
 reddit
 
-* [My experience having BA surgery with Dr Harrison Lee](https://www.reddit.com/r/Transgender_Surgeries/comments/l6erqj/my_experience_having_ba_surgery_with_dr_harrison/) by CammyXOX in 2021
-* [Just a post about the benefit of through the nipple breast augmentation...](https://www.reddit.com/r/Transgender_Surgeries/comments/l3ucsl/just_a_post_about_the_benefit_of_through_the/) by AndiFoxxx in 2021
+* [My experience having BA surgery with Dr Harrison Lee](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l6erqj/my_experience_having_ba_surgery_with_dr_harrison/content.html) by CammyXOX in 2021
+* [Just a post about the benefit of through the nipple breast augmentation...](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l3ucsl/just_a_post_about_the_benefit_of_through_the/content.html) by AndiFoxxx in 2021
 
 <br />
 
@@ -2830,7 +2830,7 @@ Surgeons sites
 
 reddit
 
-* [Dr. Aron Kressel Breast Augmentation (please read!!)](https://www.reddit.com/r/Transgender_Surgeries/comments/kr3qvq/dr_aron_kressel_breast_augmentation_please_read/) by Pinkladybasil1 in 2021
+* [Dr. Aron Kressel Breast Augmentation (please read!!)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/kr3qvq/dr_aron_kressel_breast_augmentation_please_read/content.html) by Pinkladybasil1 in 2021
 
 Review sites
 
@@ -2854,7 +2854,7 @@ Surgeons sites
 
 reddit
 
-* [3 months post breast augmentation (BA), 255cc silicone moderate profile above the muscle :)](https://www.reddit.com/r/Transgender_Surgeries/comments/zakn3m/3_months_post_breast_augmentation_ba_255cc/) by SourMapes in 2022
+* [3 months post breast augmentation (BA), 255cc silicone moderate profile above the muscle :)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zakn3m/3_months_post_breast_augmentation_ba_255cc/content.html) by SourMapes in 2022
 
 <br />
 
@@ -2887,7 +2887,7 @@ reddit
     * [5 weeks post-op round 2 fat transfer to breasts](https://www.reddit.com/r/fattransfer/comments/1fl3ovc/5_weeks_postop_round_2_fat_transfer_to_breasts/) by harmonyxox in 2024 - not trans
     * [Fat transfer to the breasts - 4 days post op round 2](https://www.reddit.com/r/PlasticSurgery/comments/1ett4ly/fat_transfer_to_the_breasts_4_days_post_op_round_2/) by harmonyxox in 2024 - not trans
 * [I just had breast fat transfer with dr bednar](https://www.reddit.com/r/PlasticSurgery/comments/jcwmf2/i_just_had_breast_fat_transfer_with_dr_bednar/) by MissCrient in 2020
-* [I just did body contouring and breast fat transfer with dr bednar](https://www.reddit.com/r/Transgender_Surgeries/comments/jfitt3/i_just_did_body_contouring_and_breast_fat/) by MissCrient in 2020
+* [I just did body contouring and breast fat transfer with dr bednar](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jfitt3/i_just_did_body_contouring_and_breast_fat/content.html) by MissCrient in 2020
 
 YouTube
 
@@ -2917,7 +2917,7 @@ Surgeons sites
 
 * http://keeleemacpheemd.com
 
-* [Dr. Keelee MacPhee FFS](https://www.reddit.com/r/Transgender_Surgeries/comments/mjjm2e/dr_keelee_macphee_ffs/) by LovelyRose9 in 2021
+* [Dr. Keelee MacPhee FFS](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mjjm2e/dr_keelee_macphee_ffs/content.html) by LovelyRose9 in 2021
 * [2 years HRT. 4 weeks post op BA. I love looking in the mirror now :) <3](https://www.reddit.com/r/transtimelines/comments/bezgq1/2_years_hrt_4_weeks_post_op_ba_i_love_looking_in/) by avatheavian in 2019
 
 <br />
@@ -2940,7 +2940,7 @@ Surgeons sites
 
 reddit
 
-* [5th OCT: Breast Implants & Full FFS (hairline adv., foreheadplasty plus orbital, revision rhino, fat grafting, lip lift, chinplasty, neck lipo, trachea shave)](https://www.reddit.com/r/Transgender_Surgeries/comments/jhc93h/5th_oct_breast_implants_full_ffs_hairline_adv/) by  Ashley_444 in 2020
+* [5th OCT: Breast Implants & Full FFS (hairline adv., foreheadplasty plus orbital, revision rhino, fat grafting, lip lift, chinplasty, neck lipo, trachea shave)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jhc93h/5th_oct_breast_implants_full_ffs_hairline_adv/content.html) by  Ashley_444 in 2020
 
 YouTube
 
@@ -2961,8 +2961,8 @@ Location
 
 reddit
 
-* [3 and a half months later](https://old.reddit.com/r/Transgender_Surgeries/comments/111jlk8/3_and_a_half_months_later/) by Guardian4Penguins in 2023
-    * [2 weeks after surgery, Hope Sherie, M. D., HP 450cc in Charlotte, NC](https://old.reddit.com/r/Transgender_Surgeries/comments/ysogrq/2_weeks_after_surgery_hope_sherie_m_d_hp_450cc_in/) by Guardian4Penguins in 2022
+* [3 and a half months later](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/111jlk8/3_and_a_half_months_later/content.html) by Guardian4Penguins in 2023
+    * [2 weeks after surgery, Hope Sherie, M. D., HP 450cc in Charlotte, NC](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ysogrq/2_weeks_after_surgery_hope_sherie_m_d_hp_450cc_in/content.html) by Guardian4Penguins in 2022
 
 <br />
 
@@ -3009,8 +3009,8 @@ Surgeons sites
 
 reddit
 
-* [my 3 year boob-iversary](https://www.reddit.com/r/Transgender_Surgeries/comments/10xn22f/my_3_year_boobiversary/) by JessaPink in 2023
-    * [11 months post op breast aug and bbl](https://www.reddit.com/r/Transgender_Surgeries/comments/m8jrsu/11_months_post_op_breast_aug_and_bbl/) by JessaPink in 2021
+* [my 3 year boob-iversary](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10xn22f/my_3_year_boobiversary/content.html) by JessaPink in 2023
+    * [11 months post op breast aug and bbl](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/m8jrsu/11_months_post_op_breast_aug_and_bbl/content.html) by JessaPink in 2021
 
 Review sites
 
@@ -3036,8 +3036,8 @@ Surgeons site
 
 reddit
 
-* [BA almost 6 months postop - 450 and 500cc](https://www.reddit.com/r/Transgender_Surgeries/comments/udhc2v/ba_almost_6_months_postop_450_and_500cc/) by  galjer10n in 2022
-    * [GCS 8/4/2020 ( zero depth ), revision on 6/11/2021 ( added canal via abdominal skin graft ), BA on 12/8/2021. just enjoying a bath and loving being a woman!](https://www.reddit.com/r/Transgender_Surgeries/comments/u5c60d/gcs_842020_zero_depth_revision_on_6112021_added/) by galjer10n in 2022
+* [BA almost 6 months postop - 450 and 500cc](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/udhc2v/ba_almost_6_months_postop_450_and_500cc/content.html) by  galjer10n in 2022
+    * [GCS 8/4/2020 ( zero depth ), revision on 6/11/2021 ( added canal via abdominal skin graft ), BA on 12/8/2021. just enjoying a bath and loving being a woman!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/u5c60d/gcs_842020_zero_depth_revision_on_6112021_added/content.html) by galjer10n in 2022
 
 <br />
 
@@ -3058,7 +3058,7 @@ Surgeons sites
 reddit
 
 * [Breast Augmentation 4 Month Post-op comparison (NSFW)](https://www.reddit.com/r/MtF/comments/kkkjw9/breast_augmentation_4_month_postop_comparison_nsfw/) by BundleOfShae in 2020
-* [38A to 36DD, Breast Augmentation with Dr Orlando, Portland OR, 2 Months Post-op.](https://www.reddit.com/r/Transgender_Surgeries/comments/jjgmnf/38a_to_36dd_breast_augmentation_with_dr_orlando/) by BundleOfShae in 2020
+* [38A to 36DD, Breast Augmentation with Dr Orlando, Portland OR, 2 Months Post-op.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jjgmnf/38a_to_36dd_breast_augmentation_with_dr_orlando/content.html) by BundleOfShae in 2020
 
 <br />
 
@@ -3076,7 +3076,7 @@ Surgeons sites
 
 reddit
 
-* [NSFW Before/After 1.5 months 480cc Silicone Implants (got professional photos taken lol)](https://www.reddit.com/r/Transgender_Surgeries/comments/jjuvsu/nsfw_beforeafter_15_months_480cc_silicone/) by throwawaytoupdoot in 2020
+* [NSFW Before/After 1.5 months 480cc Silicone Implants (got professional photos taken lol)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/jjuvsu/nsfw_beforeafter_15_months_480cc_silicone/content.html) by throwawaytoupdoot in 2020
 
 <br />
 
@@ -3112,7 +3112,7 @@ Surgeons sites
 
 reddit
 
-* [McGinn - BA - 550cc medium profile (iirc)](https://www.reddit.com/r/Transgender_Surgeries/comments/t88b6o/mcginn_ba_550cc_medium_profile_iirc/) by transsurgerysrs in 2022
+* [McGinn - BA - 550cc medium profile (iirc)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/t88b6o/mcginn_ba_550cc_medium_profile_iirc/content.html) by transsurgerysrs in 2022
 
 <br />
 
@@ -3154,7 +3154,7 @@ Surgeons sites
 
 reddit
 
-* reply to [Does anyone regret getting BA?](https://www.reddit.com/r/Transgender_Surgeries/comments/nn5bnz/does_anyone_regret_getting_ba/hky9b0i/?context=3) by Heyakai in 2021
+* reply to [Does anyone regret getting BA?](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/nn5bnz/does_anyone_regret_getting_ba/hky9b0i/?context=3content.html) by Heyakai in 2021
 
 Review sites
 
@@ -3189,7 +3189,7 @@ Surgeons sites
 * https://www.youtube.com/channel/UCBUW2ncZpa57mNvN9bFTNNw
 
 reddit
-* [Almost 2 weeks postop Breast Augmentation at North Texas Plastic Surgery in Southlake, TX (DFW metroplex)](https://www.reddit.com/r/Transgender_Surgeries/comments/dxdx3l/almost_2_weeks_postop_breast_augmentation_at/) by HadMyShareOfDoubt in 2019
+* [Almost 2 weeks postop Breast Augmentation at North Texas Plastic Surgery in Southlake, TX (DFW metroplex)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/dxdx3l/almost_2_weeks_postop_breast_augmentation_at/content.html) by HadMyShareOfDoubt in 2019
 YouTube
 
 * [Breast Augmentation with Dr. Alnaif | North Texas Plastic Surgery | Dallas, Texas](https://www.youtube.com/watch?v=yibuOVfNJf4) by North Texas Plastic Surgery in 2019
@@ -3212,7 +3212,7 @@ Surgeons sites
 
 reddit
 
-* [Before/After: 360 Lipo, 450cc BA and BBL.](https://www.reddit.com/r/Transgender_Surgeries/comments/eihhus/beforeafter_360_lipo_450cc_ba_and_bbl/) by Danigirl834 in 2020
+* [Before/After: 360 Lipo, 450cc BA and BBL.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/eihhus/beforeafter_360_lipo_450cc_ba_and_bbl/content.html) by Danigirl834 in 2020
 
 <br />
 
@@ -3247,8 +3247,8 @@ Surgeons sites
 
 reddit
 
-* [Three weeks post-op - C cup to DD](https://www.reddit.com/r/Transgender_Surgeries/comments/mcc8fx/three_weeks_postop_c_cup_to_dd/) by Flightless_Panda in 2021
-* [BA and body contouring - 4 wks post-op. Went from C cup to DD and now I have hourglass shape!](https://www.reddit.com/r/Transgender_Surgeries/comments/mcc3k5/ba_and_body_contouring_4_wks_postop_went_from_c/) by Flightless_Panda in 2021
+* [Three weeks post-op - C cup to DD](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mcc8fx/three_weeks_postop_c_cup_to_dd/content.html) by Flightless_Panda in 2021
+* [BA and body contouring - 4 wks post-op. Went from C cup to DD and now I have hourglass shape!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/mcc3k5/ba_and_body_contouring_4_wks_postop_went_from_c/content.html) by Flightless_Panda in 2021
 
 Review sites
 
@@ -3271,7 +3271,7 @@ Surgeons sites
 
 reddit
 
-* [3 months post-op BA (and orchiectomy). 700cc over the muscle, Dr. Mundinger at Crane Center in Austin.](https://www.reddit.com/r/Transgender_Surgeries/comments/za64eg/3_months_postop_ba_and_orchiectomy_700cc_over_the/) by fromboytotomboy in 2022
+* [3 months post-op BA (and orchiectomy). 700cc over the muscle, Dr. Mundinger at Crane Center in Austin.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/za64eg/3_months_postop_ba_and_orchiectomy_700cc_over_the/content.html) by fromboytotomboy in 2022
 
 <br />
 
@@ -3293,20 +3293,20 @@ Surgeons sites
 
 reddit
 
-* [2 months post op BA with Dr. AlKassis in Nashville. He did an amazing job.](https://www.reddit.com/r/Transgender_Surgeries/comments/141gh74/2_months_post_op_ba_with_dr_alkassis_in_nashville/) by christopherammon in 2023
-* [6 Months Post Op Breast Augmentation with Dr. Alkassis at Vanderbilt!](https://www.reddit.com/r/Transgender_Surgeries/comments/rxra7c/6_months_post_op_breast_augmentation_with_dr/) by DinoTrousers in 2022
-* [Nearly 2 months post op BA. Dr Salam Al Kassis at Vanderbilt. 295cc implants. My confidence in my body has skyrocketed.](https://www.reddit.com/r/Transgender_Surgeries/comments/rfaihu/nearly_2_months_post_op_ba_dr_salam_al_kassis_at/) by Rotang-Klan in 2021
-    * [Before & After. 3 days post op for breast augmentation. 295cc over the muscle. Measured as a 36C before, currently measure as a 36F with swelling. Surgeon was Dr. Salam Al Kassis at Vanderbilt.](https://www.reddit.com/r/Transgender_Surgeries/comments/qdr6iz/before_after_3_days_post_op_for_breast/) by Rotang-Klan in 2021
-* [7 weeks post op breast augmentation with Dr Kassis at Vanderbilt University in Nashville. 415cc over the muscle](https://www.reddit.com/r/Transgender_Surgeries/comments/m0gwcc/7_weeks_post_op_breast_augmentation_with_dr/) by Ravishing_Rachel in 2021
-    * [Officially 4 weeks post-op! Dr Alkassis out of Nashville is literally amazing!!](https://www.reddit.com/r/Transgender_Surgeries/comments/linyuh/officially_4_weeks_postop_dr_alkassis_out_of/) by Ravishing_Rachel in 2021
-    * [5 days post op breast augmentation with Dr Salem AlKassiss, Nashville TN](https://www.reddit.com/r/Transgender_Surgeries/comments/l3cybs/5_days_post_op_breast_augmentation_with_dr_salem/) by Ravishing_Rachel in 2021
-    * [Just had a Breast Augmentation with Dr Salem Alkassiss out of Vanderbilt University in Nashville yesterday. AMA](https://www.reddit.com/r/Transgender_Surgeries/comments/l0i0pc/just_had_a_breast_augmentation_with_dr_salem/) by Ravishing_Rachel in 2021
-* [Post-OP BA at Vanderbilt. Here’s them in a bra :,)](https://www.reddit.com/r/Transgender_Surgeries/comments/l4wsjc/postop_ba_at_vanderbilt_heres_them_in_a_bra/) by shovellove in 2021
-* [Post-Op Breast Augmentation Dr. Salam Alkassis, Nashville TN at Vanderbilt](https://www.reddit.com/r/Transgender_Surgeries/comments/l3sds7/postop_breast_augmentation_dr_salam_alkassis/) by shovellove in 2021
+* [2 months post op BA with Dr. AlKassis in Nashville. He did an amazing job.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/141gh74/2_months_post_op_ba_with_dr_alkassis_in_nashville/content.html) by christopherammon in 2023
+* [6 Months Post Op Breast Augmentation with Dr. Alkassis at Vanderbilt!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rxra7c/6_months_post_op_breast_augmentation_with_dr/content.html) by DinoTrousers in 2022
+* [Nearly 2 months post op BA. Dr Salam Al Kassis at Vanderbilt. 295cc implants. My confidence in my body has skyrocketed.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/rfaihu/nearly_2_months_post_op_ba_dr_salam_al_kassis_at/content.html) by Rotang-Klan in 2021
+    * [Before & After. 3 days post op for breast augmentation. 295cc over the muscle. Measured as a 36C before, currently measure as a 36F with swelling. Surgeon was Dr. Salam Al Kassis at Vanderbilt.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/qdr6iz/before_after_3_days_post_op_for_breast/content.html) by Rotang-Klan in 2021
+* [7 weeks post op breast augmentation with Dr Kassis at Vanderbilt University in Nashville. 415cc over the muscle](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/m0gwcc/7_weeks_post_op_breast_augmentation_with_dr/content.html) by Ravishing_Rachel in 2021
+    * [Officially 4 weeks post-op! Dr Alkassis out of Nashville is literally amazing!!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/linyuh/officially_4_weeks_postop_dr_alkassis_out_of/content.html) by Ravishing_Rachel in 2021
+    * [5 days post op breast augmentation with Dr Salem AlKassiss, Nashville TN](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l3cybs/5_days_post_op_breast_augmentation_with_dr_salem/content.html) by Ravishing_Rachel in 2021
+    * [Just had a Breast Augmentation with Dr Salem Alkassiss out of Vanderbilt University in Nashville yesterday. AMA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l0i0pc/just_had_a_breast_augmentation_with_dr_salem/content.html) by Ravishing_Rachel in 2021
+* [Post-OP BA at Vanderbilt. Here’s them in a bra :,)](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l4wsjc/postop_ba_at_vanderbilt_heres_them_in_a_bra/content.html) by shovellove in 2021
+* [Post-Op Breast Augmentation Dr. Salam Alkassis, Nashville TN at Vanderbilt](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/l3sds7/postop_breast_augmentation_dr_salam_alkassis/content.html) by shovellove in 2021
 
 YouTube
 
-* [1 Month Update - MTF Breast Augmentation](https://www.youtube.com/watch?v=Vjav4mooUlA) by  Renna Williams in 2021 - see also reddit post [Hey everyone! I posted a video about my 1 month post op update!](https://www.reddit.com/r/Transgender_Surgeries/comments/o00iff/hey_everyone_i_posted_a_video_about_my_1_month/) by Renna_FGC in 2021
+* [1 Month Update - MTF Breast Augmentation](https://www.youtube.com/watch?v=Vjav4mooUlA) by  Renna Williams in 2021 - see also reddit post [Hey everyone! I posted a video about my 1 month post op update!](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/o00iff/hey_everyone_i_posted_a_video_about_my_1_month/content.html) by Renna_FGC in 2021
 
 <br />
 
@@ -3322,7 +3322,7 @@ Location
 
 reddit
 
-* [2.5 weeks post top surgery with Julian Winocour](https://www.reddit.com/r/Transgender_Surgeries/comments/lkjsn0/25_weeks_post_top_surgery_with_julian_winocour/) by RainbowsCrash in 2021 -
+* [2.5 weeks post top surgery with Julian Winocour](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/lkjsn0/25_weeks_post_top_surgery_with_julian_winocour/content.html) by RainbowsCrash in 2021 -
 
 <br />
 
@@ -3341,7 +3341,7 @@ Surgeons sites
 
 reddit
 
-* [Breast Augmentation Consult Review With Dr. Alicia Billington in Johnson City, TN, USA](https://www.reddit.com/r/Transgender_Surgeries/comments/m7tb3g/breast_augmentation_consult_review_with_dr_alicia/) by AKAPlan4321 in 2021
+* [Breast Augmentation Consult Review With Dr. Alicia Billington in Johnson City, TN, USA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/m7tb3g/breast_augmentation_consult_review_with_dr_alicia/content.html) by AKAPlan4321 in 2021
 
 <br />
 
@@ -3375,7 +3375,7 @@ Surgeons sites
 
 reddit
 
-* [Day 0 BA post op - 650ccs smooth silicon by Dr. Isak Goodwin, University of Utah](https://www.reddit.com/r/Transgender_Surgeries/comments/fe7c88/day_0_ba_post_op_650ccs_smooth_silicon_by_dr_isak/) by naehomie in 2020
+* [Day 0 BA post op - 650ccs smooth silicon by Dr. Isak Goodwin, University of Utah](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/fe7c88/day_0_ba_post_op_650ccs_smooth_silicon_by_dr_isak/content.html) by naehomie in 2020
 
 YouTube
 
@@ -3404,7 +3404,7 @@ Surgeons sites
 
 reddit
 
-* [Breast Augmentation with Stranix @ UVA](https://www.reddit.com/r/Transgender_Surgeries/comments/1gecre9/breast_augmentation_with_stranix_uva/) by Spirited_Stick_5093 in 2024
+* [Breast Augmentation with Stranix @ UVA](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1gecre9/breast_augmentation_with_stranix_uva/content.html) by Spirited_Stick_5093 in 2024
 
 <br />
 
@@ -3426,9 +3426,9 @@ Surgeons site
 
 reddit
 
-* [My FFS/BA/Body Contouring Journey with Dr. Geoffrey Stiller told (mostly) in pictures.](https://www.reddit.com/r/Transgender_Surgeries/comments/10j1tyk/my_ffsbabody_contouring_journey_with_dr_geoffrey/) by halfgenderedmonster in 2023
-* [Dr. Stiller sub muscular 450cc mentor HP](https://www.reddit.com/r/Transgender_Surgeries/comments/uyqzt4/dr_stiller_sub_muscular_450cc_mentor_hp/) by KickAssCNA in 2022
-* [I had FFS (along with GRS and BA) with Dr. Geoffrey Stiller in Spokane WA between August 20-30. I know there is not much out there for him so AMA.😊](https://www.reddit.com/r/Transgender_Surgeries/comments/dowicx/i_had_ffs_along_with_grs_and_ba_with_dr_geoffrey/) by Romey30 in 2019
+* [My FFS/BA/Body Contouring Journey with Dr. Geoffrey Stiller told (mostly) in pictures.](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/10j1tyk/my_ffsbabody_contouring_journey_with_dr_geoffrey/content.html) by halfgenderedmonster in 2023
+* [Dr. Stiller sub muscular 450cc mentor HP](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/uyqzt4/dr_stiller_sub_muscular_450cc_mentor_hp/content.html) by KickAssCNA in 2022
+* [I had FFS (along with GRS and BA) with Dr. Geoffrey Stiller in Spokane WA between August 20-30. I know there is not much out there for him so AMA.😊](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/dowicx/i_had_ffs_along_with_grs_and_ba_with_dr_geoffrey/content.html) by Romey30 in 2019
 
 realself
 
@@ -3456,8 +3456,8 @@ Surgeons sites
 
 reddit
 
-* [Top surgery pics about 5 months out](https://www.reddit.com/r/Transgender_Surgeries/comments/1046gd7/top_surgery_pics_about_5_months_out/) by AKsandfire in 2023
-* [AG Ferguson files lawsuit against Seattle-based plastic surgery clinic for bribing, threatening patients to falsely inflate its online ratings](https://www.reddit.com/r/Transgender_Surgeries/comments/zyjepz/ag_ferguson_files_lawsuit_against_seattlebased/) by HiddnStill in 2022
+* [Top surgery pics about 5 months out](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/1046gd7/top_surgery_pics_about_5_months_out/content.html) by AKsandfire in 2023
+* [AG Ferguson files lawsuit against Seattle-based plastic surgery clinic for bribing, threatening patients to falsely inflate its online ratings](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/zyjepz/ag_ferguson_files_lawsuit_against_seattlebased/content.html) by HiddnStill in 2022
 
 YouTube
 

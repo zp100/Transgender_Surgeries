@@ -8,9 +8,9 @@ A history of sticky posts (announcements) on [r/Transgender_Surgeries](https://w
 
 ## 2020
 
-* [Let’s talk about the sub](https://www.reddit.com/r/Transgender_Surgeries/comments/fyomtc/lets_talk_about_the_sub/)
-* [Cancellation of elective surgeries](https://www.reddit.com/r/Transgender_Surgeries/comments/fiaacj/cancellation_of_elective_surgeries/)
-* [Sub resources and rules](https://www.reddit.com/r/Transgender_Surgeries/comments/ef01ue/sub_resources_and_rules/)
+* [Let’s talk about the sub](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/fyomtc/lets_talk_about_the_sub/content.html)
+* [Cancellation of elective surgeries](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/fiaacj/cancellation_of_elective_surgeries/content.html)
+* [Sub resources and rules](https://github.com/zp100/Transgender_Surgeries/blob/main/posts/r/Transgender_Surgeries/comments/ef01ue/sub_resources_and_rules/content.html)
 
 ## 2019
 
