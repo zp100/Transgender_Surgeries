@@ -22,7 +22,7 @@ app.get('/', (_, res) => {
 app.get('/wiki*', (req, res) => {
     function markdownCallback(data) {
         // Get the page's title.
-        const title = data.match(/^(?<!\n)\*\*(.+?)\*\*/)[1]
+        const title = data.match(/^(?<!\n)\*\*(.+?)\*\*/)?.[1]
 
         // Replace all GitHub links to instead stay within whatever site is hosting this.
         const relativeData = data.replaceAll(
@@ -44,7 +44,7 @@ app.get('/wiki*', (req, res) => {
 app.get('/posts*', (req, res) => {
     function htmlCallback(data) {
         // Get the page's title.
-        const title = data.match(/(.*)\n<\/h2>/)[1]
+        const title = data.match(/(.*)\n<\/h2>/)?.[1]
 
         // Copy data to avoid pass-by-reference errors.
         const contentHtml = data

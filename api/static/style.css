@@ -35,6 +35,10 @@ a[href] {
     color: #99f;
 }
 
+.internal a[href] {
+    color: #f99;
+}
+
 h4 {
     margin-bottom: 0;
 }
@@ -68,7 +72,7 @@ code {
     > * {
         border: 1px solid #222;
         border-radius: 4px;
-        padding: 0.5em 1.5em;
+        padding: 0 1em;
     }
 }
 
@@ -86,15 +90,6 @@ code {
 
 .maybe-unlinked[src=""], .maybe-unlinked[src="https:"] {
     display: none;
-}
-
-.insert :not(.internal) > a[href] {
-    /* Copied from Wikipedia. */
-    background-image: url(https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?fb64d);
-    background-position: top right;
-    background-repeat: no-repeat;
-    background-size: 0.5em;
-    padding-right: 0.5em;
 }
 
 .content {
@@ -151,7 +146,7 @@ code {
     border: 1px solid #222;
     border-radius: 4px;
     background-color: black;
-    padding: 0.5em 0.5em 0.5em 1.5em;
+    padding: 0.5em 0.5em 0.5em 1em;
     margin-bottom: 0.5em;
 
     .comment-deleted {
@@ -164,7 +159,7 @@ code {
 }
 
 .comment-body {
-    margin-right: 1em;
+    margin-right: 0.5em;
 }
 
 .info-text {
