@@ -1,6 +1,7 @@
 const express = require('express')
 const favicon = require('serve-favicon')
 const { marked } = require('marked')
+const { gfmHeadingId } = require('marked-gfm-heading-id')
 const { join } = require('path')
 const { fileRequestCallback } = require('./util')
 
@@ -10,6 +11,7 @@ app.set('views', './api/views')
 app.set('view engine', 'pug')
 app.use('/static', express.static(join(process.cwd(), 'api', 'static')))
 app.use(favicon(join(process.cwd(), 'api', 'static', 'favicon.png')))
+marked.use(gfmHeadingId())
 const PORT = 3001
 const WIKI_INDEX = 'r/TransWiki/wiki/index/content.md'
 
@@ -31,7 +33,7 @@ app.get('/wiki*', (req, res) => {
         )
 
         // Convert the markdown to HTML.
-        const contentHtml = marked.parse(relativeData, { gfm: true })
+        const contentHtml = marked(relativeData, { gfm: true })
 
         // Return.
         return { title, contentHtml }
