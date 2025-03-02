@@ -17,7 +17,7 @@ function fileRequestCallback(
             res.sendStatus(404)
         } else if (stats.isDirectory()) {
             // Go to the content file for this directory (if it exists).
-            res.redirect(`/posts/${fileName}/content.${extension}`)
+            res.redirect(`/${section}/${fileName}/content.${extension}`)
         } else if (!stats.isFile()) {
             // Raise an error and tell the server what the attempted file was.
             console.error(`Not a regular file at path ${filePath}`)
@@ -41,12 +41,7 @@ function fileRequestCallback(
                 const remoteRoute = routeParts.join('/')
 
                 // Insert the HTML into the template and render it.
-                res.render('posts', {
-                    title,
-                    contentHtml,
-                    wikiIndex,
-                    remoteRoute
-                })
+                res.render(section, { title, contentHtml, wikiIndex, remoteRoute })
             })
         }
     })
