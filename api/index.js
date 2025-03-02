@@ -3,7 +3,7 @@ const favicon = require('serve-favicon')
 const { marked } = require('marked')
 const { gfmHeadingId } = require('marked-gfm-heading-id')
 const { join } = require('path')
-const { fileRequestCallback } = require('./util')
+const { fileRequestCallback, makeRelative } = require('./util')
 
 // App setup (configuring file access, port number, etc.).
 const app = express()
@@ -26,16 +26,8 @@ app.get('/wiki*', (req, res) => {
         // Get the page's title.
         const title = data.match(/^(?<!\n)\*\*(.+?)\*\*/)?.[1]
 
-        // Replace all GitHub links to instead stay within whatever site is hosting this.
-        const relativeData = data.replaceAll(
-            /\[(.*?)\]\((https:\/\/github\.com\/zp100\/Transgender_Surgeries\/blob\/main\/)(.*?)\)/g,
-            '<span class="internal">[$1](/$3)</span>'
-        )
-
-        // Convert the markdown to HTML.
-        const contentHtml = marked(relativeData, { gfm: true })
-
-        // Return.
+        const rawHtml = marked(data, { gfm: true })
+        const contentHtml = makeRelative(rawHtml)
         return { title, contentHtml }
     }
 
@@ -48,10 +40,10 @@ app.get('/posts*', (req, res) => {
         // Get the page's title.
         const title = data.match(/(.*)\n<\/h2>/)?.[1]
 
-        // Copy data to avoid pass-by-reference errors.
-        const contentHtml = data
+        const contentHtml = makeRelative(data)
 
-        // Return.
+        console.log(data, contentHtml)
+
         return { title, contentHtml }
     }
 

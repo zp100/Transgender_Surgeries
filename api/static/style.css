@@ -35,7 +35,7 @@ a[href] {
     color: #99f;
 }
 
-.internal a[href] {
+a.internal[href] {
     color: #f99;
 }
 

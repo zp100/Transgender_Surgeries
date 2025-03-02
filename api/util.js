@@ -52,4 +52,12 @@ function fileRequestCallback(
     })
 }
 
-module.exports = { fileRequestCallback }
+// Replace all GitHub links to instead stay within whatever site is hosting this.
+function makeRelative(data) {
+    return data.replaceAll(
+        /<a href="https:\/\/github.com\/zp100\/Transgender_Surgeries\/blob\/main\/([^"]+)"/g,
+        '<a class="internal" href="/$1"'
+    )
+}
+
+module.exports = { fileRequestCallback, makeRelative }
