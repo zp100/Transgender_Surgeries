@@ -41,9 +41,6 @@ app.get('/posts*', (req, res) => {
         const title = data.match(/(.*)\n<\/h2>/)?.[1]
 
         const contentHtml = makeRelative(data)
-
-        console.log(data, contentHtml)
-
         return { title, contentHtml }
     }
 
