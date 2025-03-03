@@ -32,11 +32,11 @@ table, th, td {
 }
 
 a[href] {
-    color: #99f;
+    color: #f99;
 }
 
 a.internal[href] {
-    color: #f99;
+    color: #99f;
 }
 
 h4 {

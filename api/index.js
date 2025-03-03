@@ -18,20 +18,10 @@ const PORT = 3001
 app.get('/', (req, res) => {
     const title = 'Root Index'
     const isCustomRedirect = ('custom-redirect' in req.query)
-    const transSurgeriesWikiTree = {
-        name: 'Sub-Index for r/TransSurgeriesWiki',
-        flags: { isParent: false, isStarred: true, isLink: true },
-        url: '/wiki/r/TransSurgeriesWiki/wiki/index/content.md'
-    }
-    const transWikiTree = {
-        name: 'Sub-Index for r/TransWiki',
-        flags: { isParent: false, isStarred: true, isLink: true },
-        url: '/wiki/r/TransWiki/wiki/index/content.md'
-    }
     const wikiTree = getTree('wiki')
     const postsTree = getTree('posts')
 
-    res.render('root-index', { title, isCustomRedirect, transSurgeriesWikiTree, transWikiTree, wikiTree, postsTree })
+    res.render('root-index', { title, isCustomRedirect, wikiTree, postsTree })
 })
 
 // Get wiki pages.

@@ -28,8 +28,16 @@ block insert
         h2 Root Index
         div(class='index')
             div(class='other-index')
-                +treeFile(transSurgeriesWikiTree)
-                +treeFile(transWikiTree)
+                +treeFile({
+                    name: 'Sub-Index for r/TransSurgeriesWiki',
+                    flags: { isParent: false, isStarred: true, isLink: true },
+                    url: '/wiki/r/TransSurgeriesWiki/wiki/index/content.md'
+                })
+                +treeFile({
+                    name: 'Sub-Index for r/TransWiki',
+                    flags: { isParent: false, isStarred: true, isLink: true },
+                    url: '/wiki/r/TransWiki/wiki/index/content.md'
+                })
                 +treeFile(wikiTree)
             div(class='posts-index')
                 +treeFile(postsTree)
