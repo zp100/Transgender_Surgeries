@@ -19,17 +19,13 @@ app.get('/', (req, res) => {
     const title = 'Root Index'
     const isCustomRedirect = ('custom-redirect' in req.query)
     const transSurgeriesWikiTree = {
-        name: 'r/TransSurgeriesWiki Sub-Index',
-        isParent: false,
-        isFolder: true,
-        isStarred: true,
+        name: 'Sub-Index for r/TransSurgeriesWiki',
+        flags: { isParent: false, isStarred: true, isLink: true },
         url: '/wiki/r/TransSurgeriesWiki/wiki/index/content.md'
     }
     const transWikiTree = {
-        name: 'r/TransWiki Sub-Index',
-        isParent: false,
-        isFolder: true,
-        isStarred: true,
+        name: 'Sub-Index for r/TransWiki',
+        flags: { isParent: false, isStarred: true, isLink: true },
         url: '/wiki/r/TransWiki/wiki/index/content.md'
     }
     const wikiTree = getTree('wiki')

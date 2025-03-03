@@ -80,11 +80,12 @@ function getTree(path='') {
         const folderItem = item.children.find((childItem) => childItem.type === 'directory');
 
         item.name += '/'
-        item.isParent = (folderItem !== undefined)
-        item.isFolder = (item.type === 'directory')
-        item.isStarred = false
-        item.isLink = (fileItem !== undefined)
-        if (item.isLink) {
+        item.flags = {
+            isParent: (folderItem !== undefined),
+            isStarred: false,
+            isLink: (fileItem !== undefined)
+        }
+        if (item.flags.isLink) {
             item.url = fileItem.path.replace(process.cwd(), '')
         }
 

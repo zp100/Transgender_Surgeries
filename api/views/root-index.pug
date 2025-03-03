@@ -1,10 +1,10 @@
 extends layout.pug
 
 mixin nameType(item)
-    if item.isStarred
+    if item.flags.isStarred
         img(src='/static/star.svg', alt='star icon')
         a(class='internal', href=item.url)= item.name
-    else if item.isLink
+    else if item.flags.isLink
         img(src='/static/folder.svg', alt='folder icon')
         a(class='internal', href=item.url)= item.name
     else
@@ -12,14 +12,14 @@ mixin nameType(item)
         a= item.name
 
 mixin treeFile(item)
-    if item.isParent
+    if item.flags && item.flags.isParent
         div(class='tree tree-parent')
             +nameType(item)
             div(class='tree-line-art')
             div(class='tree-children')
                 each childItem in item.children
                     +treeFile(childItem)
-    else if item.isFolder
+    else if item.flags
         div(class='tree')
             +nameType(item)
 
