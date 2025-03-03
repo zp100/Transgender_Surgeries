@@ -6,10 +6,10 @@ mixin nameType(item)
         a(class='internal', href=`${item.url}${isCustomRedirect ? '?custom-redirect' : ''}`)= item.name
     else if item.flags.isLink
         img(src='/static/folder.svg', alt='folder icon')
-        a(class='internal', href=`${item.url}${isCustomRedirect ? '?custom-redirect' : ''}`)= item.name
+        a(class='internal searchable', href=`${item.url}${isCustomRedirect ? '?custom-redirect' : ''}`)= item.name
     else
         img(src='/static/folder-closed-line-art.svg', alt='closed folder icon')
-        a= item.name
+        a(class='searchable')= item.name
 
 mixin treeFile(item)
     if item.flags && item.flags.isParent
@@ -38,6 +38,11 @@ block insert
                     flags: { isParent: false, isStarred: true, isLink: true },
                     url: '/wiki/r/TransWiki/wiki/index/content.md'
                 })
+                div(class='search')
+                    input(id='filter', type='text')
+                    button(type='submit', title='Filter', onclick="filter()")
+                        img(src='/static/filter.svg', alt='filter icon')
                 +treeFile(wikiTree)
             div(class='posts-index')
                 +treeFile(postsTree)
+        script(type="module", src="/static/buttons.js")

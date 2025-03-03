@@ -251,3 +251,7 @@ code {
 :target {
     border-color: white;
 }
+
+.tree:not(:has(a.searchable:not(.filtered))) {
+    display: none;
+}
