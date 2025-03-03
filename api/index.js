@@ -17,6 +17,7 @@ const PORT = 3001
 // Load the root index.
 app.get('/', (req, res) => {
     const title = 'Root Index'
+
     const isCustomRedirect = ('custom-redirect' in req.query)
     const wikiTree = getTree('wiki')
     const postsTree = getTree('posts')
@@ -68,6 +69,11 @@ app.get('/redirect', async (req, res) => {
     const archiveUrl = `https://web.archive.org/web/${newUrl}`
     const archiveResponse = await fetch(archiveUrl)
     res.redirect(archiveResponse.ok ? archiveUrl : newUrl)
+})
+
+// Logging.
+app.listen(PORT, () => {
+    console.log(`Server started on port ${PORT}.`)
 })
 
 // Export for Vercel.

@@ -3,10 +3,10 @@ extends layout.pug
 mixin nameType(item)
     if item.flags.isStarred
         img(src='/static/star.svg', alt='star icon')
-        a(class='internal', href=item.url)= item.name
+        a(class='internal', href=`${item.url}${isCustomRedirect ? '?custom-redirect' : ''}`)= item.name
     else if item.flags.isLink
         img(src='/static/folder.svg', alt='folder icon')
-        a(class='internal', href=item.url)= item.name
+        a(class='internal', href=`${item.url}${isCustomRedirect ? '?custom-redirect' : ''}`)= item.name
     else
         img(src='/static/folder-closed-line-art.svg', alt='closed folder icon')
         a= item.name
