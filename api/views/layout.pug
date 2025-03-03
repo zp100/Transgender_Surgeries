@@ -2,8 +2,8 @@ doctype html
 html
     head
         title= title + ' : Transgender_Surgeries [ARCHIVE]'
-        meta(name='viewport' content='width=device-width, initial-scale=1')
-        link(rel='stylesheet' href='/static/style.css')
+        meta(name='viewport', content='width=device-width, initial-scale=1')
+        link(rel='stylesheet', href='/static/style.css')
     body
         a(id='top')
         block insert
@@ -14,33 +14,20 @@ html
                         div Content updated:
                         div Mar 02 2025
                     div
+                        if remoteRoute
+                            a(href=`https://www.reddit.com${remoteRoute}`, title='View this page on Reddit')
+                                img(src='https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png', alt='reddit icon')
                         if isCustomRedirect
-                            a(href='.' title='Using archive links (click to disabled)')
-                                | <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
-                                | <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
-                                | <path fill="#ffffff" d="M64 0C28.7 0 0 28.7 0 64L0 448c0 35.3 28.7 64 64 64l256 0c35.3 0 64-28.7 64-64l0-288-128 0c-17.7 0-32-14.3-32-32L224 0 64 0zM256 0l0 128 128 0L256 0zM96 48c0-8.8 7.2-16 16-16l32 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-32 0c-8.8 0-16-7.2-16-16zm0 64c0-8.8 7.2-16 16-16l32 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-32 0c-8.8 0-16-7.2-16-16zm0 64c0-8.8 7.2-16 16-16l32 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-32 0c-8.8 0-16-7.2-16-16zm-6.3 71.8c3.7-14 16.4-23.8 30.9-23.8l14.8 0c14.5 0 27.2 9.7 30.9 23.8l23.5 88.2c1.4 5.4 2.1 10.9 2.1 16.4c0 35.2-28.8 63.7-64 63.7s-64-28.5-64-63.7c0-5.5 .7-11.1 2.1-16.4l23.5-88.2zM112 336c-8.8 0-16 7.2-16 16s7.2 16 16 16l32 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-32 0z"/>
-                                | </svg>
+                            a(href='.', title='Using archive links (click to disabled)')
+                                img(src='/static/archive.svg', alt='archive icon')
                         else
-                            a(href='?custom-redirect' title='Using raw links (click to enable archive links)')
-                                | <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
-                                | <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
-                                | <path fill="#ffffff" d="M64 464c-8.8 0-16-7.2-16-16L48 64c0-8.8 7.2-16 16-16l48 0c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l48 0 0 80c0 17.7 14.3 32 32 32l80 0 0 288c0 8.8-7.2 16-16 16L64 464zM64 0C28.7 0 0 28.7 0 64L0 448c0 35.3 28.7 64 64 64l256 0c35.3 0 64-28.7 64-64l0-293.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0L64 0zm48 112c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm0 64c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm-6.3 71.8L82.1 335.9c-1.4 5.4-2.1 10.9-2.1 16.4c0 35.2 28.8 63.7 64 63.7s64-28.5 64-63.7c0-5.5-.7-11.1-2.1-16.4l-23.5-88.2c-3.7-14-16.4-23.8-30.9-23.8l-14.8 0c-14.5 0-27.2 9.7-30.9 23.8zM128 336l32 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-32 0c-8.8 0-16-7.2-16-16s7.2-16 16-16z"/>
-                                | </svg>
-                        a(href='#top' title='Top')
-                            | <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-                            | <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
-                            | <path fill="#ffffff" d="M246.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L224 109.3 361.4 246.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-160-160zm160 352l-160-160c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L224 301.3 361.4 438.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3z" />
-                            | </svg>
-                        a(href=`/wiki/${wikiIndex}${isCustomRedirect ? '?custom-redirect' : ''}` title='Index')
-                            | <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                            | <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
-                            | <path fill="#ffffff" d="M575.8 255.5c0 18-15 32.1-32 32.1l-32 0 .7 160.2c0 2.7-.2 5.4-.5 8.1l0 16.2c0 22.1-17.9 40-40 40l-16 0c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1L416 512l-24 0c-22.1 0-40-17.9-40-40l0-24 0-64c0-17.7-14.3-32-32-32l-64 0c-17.7 0-32 14.3-32 32l0 64 0 24c0 22.1-17.9 40-40 40l-24 0-31.9 0c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2l-16 0c-22.1 0-40-17.9-40-40l0-112c0-.9 0-1.9 .1-2.8l0-69.7-32 0c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z" />
-                            | </svg>
-                        a(href='https://www.reddit.com/r/Transgender_Surgeries/' title='Subreddit home')
-                            | <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="red">
-                            | <path d="M10 0a10 10 0 1 0 10 10A10.011 10.011 0 0 0 10 0ZM8.016 8.633a1.616 1.616 0 0 0-.2.806V13.5H5.931V6.172h1.8v.9h.039a3.009 3.009 0 0 1 1.018-.732 3.45 3.45 0 0 1 1.449-.284c.246-.003.491.02.732.068.158.024.309.08.444.164l-.759 1.832a2.09 2.09 0 0 0-1.093-.26c-.33-.01-.658.062-.954.208a1.422 1.422 0 0 0-.591.565Zm2.9 6.918H9.355L14.7 2.633c.426.272.828.58 1.2.922l-4.984 11.996Z" />
-                            | </svg>
-                        a(href=`https://www.reddit.com${remoteRoute}` title='View this page on Reddit')
-                            img(src='https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png' alt='reddit icon')
-                        a(href='https://github.com/zp100/Transgender_Surgeries/tree/main' title='Source code')
-                            img(src='https://github.githubassets.com/favicons/favicon-dark.svg' alt='git hub icon')
+                            a(href='?custom-redirect', title='Using raw links (click to enable archive links)')
+                                img(src='/static/archive-line-art.svg', alt='archive line art icon')
+                        a(href='#top', title='Top')
+                            img(src='/static/top.svg', alt='up arrows icon')
+                        a(href=`/${isCustomRedirect ? '?custom-redirect' : ''}`, title='Root index')
+                            img(src='/static/home.svg', alt='home icon')
+                        a(href='https://www.reddit.com/r/Transgender_Surgeries/', title='Subreddit home')
+                            img(src='/static/subreddit.svg', alt='sub reddit icon')
+                        a(href='https://github.com/zp100/Transgender_Surgeries/tree/main', title='Source code')
+                            img(src='https://github.githubassets.com/favicons/favicon-dark.svg', alt='git hub icon')
