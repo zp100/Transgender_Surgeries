@@ -47,12 +47,21 @@ function fileRequestCallback(
     })
 }
 
-// Replace all GitHub links to instead stay within whatever site is hosting this.
-function makeRelative(data) {
-    return data.replaceAll(
+// Update links where needed.
+function replaceLinks(data) {
+    // Replace all GitHub links to instead stay within whatever site is hosting this.
+    data = data.replaceAll(
         /<a href="https:\/\/github.com\/zp100\/Transgender_Surgeries\/blob\/main\/([^"]+)"/g,
         '<a class="internal" href="/$1"'
     )
+
+    // Replace all other links to use redirect interceptor.
+    data = data.replaceAll(
+        /<a href="([^\/][^"]+)"/g,
+        '<a href="/redirect?url=$1"'
+    )
+
+    return data
 }
 
-module.exports = { fileRequestCallback, makeRelative }
+module.exports = { fileRequestCallback, replaceLinks }

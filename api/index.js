@@ -3,7 +3,7 @@ const favicon = require('serve-favicon')
 const { marked } = require('marked')
 const { gfmHeadingId } = require('marked-gfm-heading-id')
 const { join } = require('path')
-const { fileRequestCallback, makeRelative } = require('./util')
+const { fileRequestCallback, replaceLinks } = require('./util')
 
 // App setup (configuring file access, port number, etc.).
 const app = express()
@@ -27,7 +27,7 @@ app.get('/wiki*', (req, res) => {
         const title = data.match(/^(?<!\n)\*\*(.+?)\*\*/)?.[1]
 
         const rawHtml = marked(data, { gfm: true })
-        const contentHtml = makeRelative(rawHtml)
+        const contentHtml = replaceLinks(rawHtml)
         return { title, contentHtml }
     }
 
@@ -40,11 +40,28 @@ app.get('/posts*', (req, res) => {
         // Get the page's title.
         const title = data.match(/(.*)\n<\/h2>/)?.[1]
 
-        const contentHtml = makeRelative(data)
+        const contentHtml = replaceLinks(data)
         return { title, contentHtml }
     }
 
     fileRequestCallback(req, res, WIKI_INDEX, 'posts', 'html', htmlCallback)
+})
+
+// Intercept external links to check if there's an archive of them first.
+app.get('/redirect', async (req, res) => {
+    if (!('url' in req.query) || req.query['url'] === '' ) {
+        // Raise an error and tell the server what the attempted request was.
+        console.error(`Invalid redirect request query ${req.query}`)
+        res.sendStatus(400)
+        return
+    }
+
+    // Redirect to archive.
+    // If an error occurs, fall back to the main site.
+    const newUrl = req.query['url']
+    const archiveUrl = `https://web.archive.org/web/${newUrl}`
+    const archiveResponse = await fetch(archiveUrl)
+    res.redirect(archiveResponse.ok ? archiveUrl : newUrl)
 })
 
 // Logging.
