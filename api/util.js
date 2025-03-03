@@ -5,7 +5,7 @@ const { join } = require('path')
 // Generalized to apply to all pages in all sections (wiki, posts, etc.).
 function fileRequestCallback(
     req, res, wikiIndex, section, extension = 'html',
-    dataCallback = (data) => ({ title: undefined, contentHtml: data })
+    dataCallback = (data) => ({ title: undefined, contentHtml: data, isCustomRedirect: false })
 ) {
     // Check if the param is a valid file.
     const fileName = req.params['0']
@@ -33,7 +33,7 @@ function fileRequestCallback(
                 }
 
                 // Run callback for this file.
-                const { title, contentHtml } = dataCallback(data)
+                const { title, contentHtml, isCustomRedirect } = dataCallback(data)
 
                 // Get the route for the original Reddit page (without the "content" part).
                 let routeParts = fileName.split('/')
@@ -41,25 +41,33 @@ function fileRequestCallback(
                 const remoteRoute = routeParts.join('/')
 
                 // Insert the HTML into the template and render it.
-                res.render(section, { title, contentHtml, wikiIndex, remoteRoute })
+                res.render(section, { title, contentHtml, isCustomRedirect, wikiIndex, remoteRoute })
             })
         }
     })
 }
 
 // Update links where needed.
-function replaceLinks(data) {
-    // Replace all GitHub links to instead stay within whatever site is hosting this.
-    data = data.replaceAll(
-        /<a href="https:\/\/github.com\/zp100\/Transgender_Surgeries\/blob\/main\/([^"]+)"/g,
-        '<a class="internal" href="/$1"'
-    )
+function replaceLinks(data, isCustomRedirect=false) {
+    if (isCustomRedirect) {
+        // Replace all GitHub links to instead stay within whatever site is hosting this.
+        data = data.replaceAll(
+            /<a href="https:\/\/github.com\/zp100\/Transgender_Surgeries\/blob\/main\/([^"]+)"/g,
+            '<a class="internal" href="/$1?custom-redirect"'
+        )
 
-    // Replace all other links to use redirect interceptor.
-    data = data.replaceAll(
-        /<a href="([^\/][^"]+)"/g,
-        '<a href="/redirect?url=$1"'
-    )
+        // Replace all other links to use redirect interceptor.
+        data = data.replaceAll(
+            /<a href="([^\/][^"]+)"/g,
+            '<a href="/redirect?url=$1"'
+        )
+    } else {
+        // Replace all GitHub links to instead stay within whatever site is hosting this.
+        data = data.replaceAll(
+            /<a href="https:\/\/github.com\/zp100\/Transgender_Surgeries\/blob\/main\/([^"]+)"/g,
+            '<a class="internal" href="/$1"'
+        )
+    }
 
     return data
 }

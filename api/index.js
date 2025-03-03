@@ -26,9 +26,10 @@ app.get('/wiki*', (req, res) => {
         // Get the page's title.
         const title = data.match(/^(?<!\n)\*\*(.+?)\*\*/)?.[1]
 
+        const isCustomRedirect = ('custom-redirect' in req.query)
         const rawHtml = marked(data, { gfm: true })
-        const contentHtml = replaceLinks(rawHtml)
-        return { title, contentHtml }
+        const contentHtml = replaceLinks(rawHtml, isCustomRedirect)
+        return { title, contentHtml, isCustomRedirect }
     }
 
     fileRequestCallback(req, res, WIKI_INDEX, 'wiki', 'md', markdownCallback)
@@ -40,8 +41,9 @@ app.get('/posts*', (req, res) => {
         // Get the page's title.
         const title = data.match(/(.*)\n<\/h2>/)?.[1]
 
-        const contentHtml = replaceLinks(data)
-        return { title, contentHtml }
+        const isCustomRedirect = ('custom-redirect' in req.query)
+        const contentHtml = replaceLinks(data, isCustomRedirect)
+        return { title, contentHtml, isCustomRedirect }
     }
 
     fileRequestCallback(req, res, WIKI_INDEX, 'posts', 'html', htmlCallback)
