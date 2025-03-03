@@ -1,0 +1,35 @@
+extends layout.pug
+
+mixin nameType(item)
+    if item.isStarred
+        img(src='/static/star.svg', alt='star icon')
+        a(class='internal', href=item.url)= item.name
+    else if item.isLink
+        img(src='/static/folder.svg', alt='folder icon')
+        a(class='internal', href=item.url)= item.name
+    else
+        img(src='/static/folder-closed-line-art.svg', alt='closed folder icon')
+        a= item.name
+
+mixin treeFile(item)
+    if item.isParent
+        div(class='tree tree-parent')
+            +nameType(item)
+            div(class='tree-line-art')
+            div(class='tree-children')
+                each childItem in item.children
+                    +treeFile(childItem)
+    else if item.isFolder
+        div(class='tree')
+            +nameType(item)
+
+block insert
+    div(class='content')
+        h2 Root Index
+        div(class='index')
+            div(class='other-index')
+                +treeFile(transSurgeriesWikiTree)
+                +treeFile(transWikiTree)
+                +treeFile(wikiTree)
+            div(class='posts-index')
+                +treeFile(postsTree)

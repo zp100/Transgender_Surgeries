@@ -1,10 +1,11 @@
+const directoryTree = require('directory-tree')
 const { readFile, stat } = require('node:fs')
 const { join } = require('path')
 
 // Fetch and process the page specified by a particular request.
 // Generalized to apply to all pages in all sections (wiki, posts, etc.).
 function fileRequestCallback(
-    req, res, wikiIndex, section, extension = 'html',
+    req, res, section, extension = 'html',
     dataCallback = (data) => ({ title: undefined, contentHtml: data, isCustomRedirect: false })
 ) {
     // Check if the param is a valid file.
@@ -41,7 +42,7 @@ function fileRequestCallback(
                 const remoteRoute = routeParts.join('/')
 
                 // Insert the HTML into the template and render it.
-                res.render(section, { title, contentHtml, isCustomRedirect, wikiIndex, remoteRoute })
+                res.render(section, { title, contentHtml, isCustomRedirect, remoteRoute })
             })
         }
     })
@@ -72,4 +73,27 @@ function replaceLinks(data, isCustomRedirect=false) {
     return data
 }
 
-module.exports = { fileRequestCallback, replaceLinks }
+// Get the file tree for the given directory (defaults to project root).
+function getTree(path='') {
+    function customize(item) {
+        const fileItem = item.children.find((childItem) => childItem.type === 'file');
+        const folderItem = item.children.find((childItem) => childItem.type === 'directory');
+
+        item.name += '/'
+        item.isParent = (folderItem !== undefined)
+        item.isFolder = (item.type === 'directory')
+        item.isStarred = false
+        item.isLink = (fileItem !== undefined)
+        if (item.isLink) {
+            item.url = fileItem.path.replace(process.cwd(), '')
+        }
+
+        return item
+    }
+
+    const treePath = join(process.cwd(), path)
+    const attributes = [ 'type' ]
+    return directoryTree(treePath, { attributes }, undefined, customize)
+}
+
+module.exports = { fileRequestCallback, getTree, replaceLinks }

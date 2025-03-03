@@ -8,6 +8,7 @@
   },
   "author": "u/zachattack6089",
   "dependencies": {
+    "directory-tree": "^3.5.2",
     "express": "^4.21.2",
     "marked": "^15.0.6",
     "marked-gfm-heading-id": "^4.1.1",

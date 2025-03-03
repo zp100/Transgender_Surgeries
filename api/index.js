@@ -1,9 +1,9 @@
 const express = require('express')
-const favicon = require('serve-favicon')
 const { marked } = require('marked')
 const { gfmHeadingId } = require('marked-gfm-heading-id')
 const { join } = require('path')
-const { fileRequestCallback, replaceLinks } = require('./util')
+const favicon = require('serve-favicon')
+const { fileRequestCallback, getTree, replaceLinks } = require('./util')
 
 // App setup (configuring file access, port number, etc.).
 const app = express()
@@ -13,11 +13,29 @@ app.use('/static', express.static(join(process.cwd(), 'api', 'static')))
 app.use(favicon(join(process.cwd(), 'api', 'static', 'favicon.png')))
 marked.use(gfmHeadingId())
 const PORT = 3001
-const WIKI_INDEX = 'r/TransWiki/wiki/index/content.md'
 
-// Redirect the first site visit to the wiki index.
-app.get('/', (_, res) => {
-    res.redirect(`/wiki/${WIKI_INDEX}`)
+// Load the root index.
+app.get('/', (req, res) => {
+    const title = 'Root Index'
+    const isCustomRedirect = ('custom-redirect' in req.query)
+    const transSurgeriesWikiTree = {
+        name: 'r/TransSurgeriesWiki Sub-Index',
+        isParent: false,
+        isFolder: true,
+        isStarred: true,
+        url: '/wiki/r/TransSurgeriesWiki/wiki/index/content.md'
+    }
+    const transWikiTree = {
+        name: 'r/TransWiki Sub-Index',
+        isParent: false,
+        isFolder: true,
+        isStarred: true,
+        url: '/wiki/r/TransWiki/wiki/index/content.md'
+    }
+    const wikiTree = getTree('wiki')
+    const postsTree = getTree('posts')
+
+    res.render('root-index', { title, isCustomRedirect, transSurgeriesWikiTree, transWikiTree, wikiTree, postsTree })
 })
 
 // Get wiki pages.
@@ -32,7 +50,7 @@ app.get('/wiki*', (req, res) => {
         return { title, contentHtml, isCustomRedirect }
     }
 
-    fileRequestCallback(req, res, WIKI_INDEX, 'wiki', 'md', markdownCallback)
+    fileRequestCallback(req, res, 'wiki', 'md', markdownCallback)
 })
 
 // Get posts and comments.
@@ -46,7 +64,7 @@ app.get('/posts*', (req, res) => {
         return { title, contentHtml, isCustomRedirect }
     }
 
-    fileRequestCallback(req, res, WIKI_INDEX, 'posts', 'html', htmlCallback)
+    fileRequestCallback(req, res, 'posts', 'html', htmlCallback)
 })
 
 // Intercept external links to check if there's an archive of them first.
@@ -64,11 +82,6 @@ app.get('/redirect', async (req, res) => {
     const archiveUrl = `https://web.archive.org/web/${newUrl}`
     const archiveResponse = await fetch(archiveUrl)
     res.redirect(archiveResponse.ok ? archiveUrl : newUrl)
-})
-
-// Logging.
-app.listen(PORT, () => {
-    console.log(`Server started on port ${PORT}.`)
 })
 
 // Export for Vercel.
